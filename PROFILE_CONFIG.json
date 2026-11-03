@@ -1,14 +1,27 @@
 {
-  "profile": "All 5 Profiles Unified Queue",
-  "mode": "LOCAL_REPO_AUTONOMOUS_NO_QUESTIONS",
-  "input_file": "queue_batch_01.csv",
-  "command": "python3 jules_waterfall_worker.py",
-  "outputs": [
-    "output/batch_01_v3.jsonl",
-    "output/profile-1-batch.jsonl",
-    "output/profile-2-batch.jsonl",
-    "output/profile-3-batch.jsonl",
-    "output/profile-4-batch.jsonl",
-    "output/profile-5-batch.jsonl"
-  ]
+  "profile": "Profile 5 (Worker 5)",
+  "categories": ["CAT_17", "CAT_18", "CAT_19", "CAT_20"],
+  "regions": ["REG_01", "REG_02", "REG_03", "REG_04", "REG_05", "REG_06", "REG_07", "REG_08", "REG_09", "REG_10"],
+  "eras": ["2020-2026 Modern", "2010-2019 Claude/Muse", "LIB Chunks"],
+  "data_tables_2020_2026": [
+    {"cat": "CAT_17", "sheet_id": "1U1WpXYRgR52hR6GF3NiAluFbNKgSPkJlcVvEmYo7UL0"},
+    {"cat": "CAT_18", "sheet_id": "1brwK86Y_6JrgBxlH8Gedw5gryy1pFWwQZwRtFcZw83A"},
+    {"cat": "CAT_19", "sheet_id": "1tcM-ci8VtKBPfxogyFWPjxdUlCtzT9YjENfCbPPQ8tE"},
+    {"cat": "CAT_20", "sheet_id": "1eUF2e87GqmXy6NSavDjxppmcQ445cBe_2YN_DGD5s1s"}
+  ],
+  "data_tables_2010_2019_csv": [
+    {"cat": "CAT_17", "file_id": "1EqRRSik57FALMhLvuYCGQKzHxfdrwuAR"},
+    {"cat": "CAT_18", "file_id": "1ntv0S4_axheM9ogECOHTZvuLeacWh_FZ"},
+    {"cat": "CAT_19", "file_id": "1x3VbdASLFC1Fj_3IQTcFZIsKI3eQmST1"},
+    {"cat": "CAT_20", "file_id": "1zkrh1gggEpT1L4eUabWorVGhSEuAHaH0"}
+  ],
+  "lib_folders": [
+    {"name": "LIB34-GEO-MAJOR", "folder_id": "1N-9vXlA-gNNRNiS2ra0VVCNjprp7GJlh"},
+    {"name": "LIB35-GEO-GAZETTEER", "folder_id": "1M1RiIVpBdniDeCZti0WbFpzyaywFU479"},
+    {"name": "LIB57-DISASTERS", "folder_id": "1LmQsWiTy4l4FZzAPak6HiooHX5nf_AN3"},
+    {"name": "LIB42-HISTORY", "folder_id": "16Y7jUQ8_lM9DT2ueOTGfm2Hvm6CvZE7y"}
+  ],
+  "bigquery_target": "ovl-machine-2026.image_corpus.blocks",
+  "drive_output_folder": "1ei-VtkIjeUA-4Zon2MqOfnKi0LvjDr1N",
+  "scoreboard_doc_id": "1tI9RXKg0v4kOZwmSrxtPNAbrO35yu6CeQb9uC65TKNQ"
 }
