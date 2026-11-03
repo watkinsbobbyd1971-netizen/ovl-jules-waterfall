@@ -22,6 +22,12 @@ def fingerprint(value):
         return None
 
 
+def equal_json(left, right):
+    """No implicit bool/number or other JSON type coercion."""
+    a, b = fingerprint(left), fingerprint(right)
+    return a is not None and a == b
+
+
 def profile_binding(profile):
     if not isinstance(profile, dict) or not all(text(profile.get(k)) for k in ("id", "version", "subject_kind")):
         raise ValueError("profile identity/version/subject kind required")
@@ -63,8 +69,8 @@ def evidence_ok(item, subject_id, property_id):
     return (all(text(evidence.get(k)) for k in ("source_id", "source_version", "locator", "supporting_text", "retrieved_at"))
             and evidence.get("subject_id") == subject_id
             and evidence.get("property_id") == property_id
-            and evidence.get("context") == item.get("context")
-            and (item.get("status") not in ("verified", "derived") or evidence.get("value") == item.get("value")))
+            and equal_json(evidence.get("context"), item.get("context"))
+            and (item.get("status") not in ("verified", "derived") or equal_json(evidence.get("value"), item.get("value"))))
 
 
 def applicability(spec, subject, binding):
@@ -76,10 +82,12 @@ def applicability(spec, subject, binding):
         proof = proofs.get(key)
         if key not in context or not isinstance(proof, dict) or not has_review(proof, subject.get("subject_id"), binding):
             return "unknown"
-        if (not text(proof.get("source_reference")) or proof.get("value") != context[key]
+        if (not text(proof.get("source_reference")) or not equal_json(proof.get("value"), context[key])
                 or proof.get("subject_id") != subject.get("subject_id") or proof.get("context_key") != key):
             return "unknown"
-    return "applicable" if all(context[k] == v for k, v in conditions.items()) else "not_applicable"
+    if any(type(context[k]) is not type(v) for k, v in conditions.items()):
+        return "unknown"
+    return "applicable" if all(equal_json(context[k], v) for k, v in conditions.items()) else "not_applicable"
 
 
 def inspect_subject(subject, profile):
@@ -134,7 +142,7 @@ def inspect_subject(subject, profile):
             for key in spec["required_context"]:
                 if key not in context or context[key] is None or context[key] == "":
                     reasons.append("subject_context_missing:" + key)
-                elif fcontext.get(key) != context[key]:
+                elif not equal_json(fcontext.get(key), context[key]):
                     reasons.append("context_mismatch:" + key)
             if status in ("verified", "derived", "unavailable", "not_applicable"):
                 if fact.get("data_kind") not in ("sourced_assertion", "derived_assertion"):
@@ -192,6 +200,10 @@ def inspect_subject(subject, profile):
             queue.append({"property_id": prop, "status": "conflict", "reason": "multiple_values_same_required_property",
                           "assertion_ids": [x[1] for x in valid_values]})
             eligible_ids.difference_update(x[1] for x in valid_values)
+        # Explicit unresolved conflict siblings also poison this property's inputs.
+        # Conservatively retain the dependency until conflict scope is resolved.
+        if any(f.get("status") == "conflict" for f in candidates):
+            eligible_ids.difference_update(f["assertion_id"] for f in candidates)
         assessed.append(result)
     # v1 only accepts direct independently-reviewed observed inputs; no chained
     # derivation or cycle is silently treated as a validated input.
