@@ -16,9 +16,11 @@ BRANCH="${1:-profile-6-global-all20}"
 START_BATCH="${2:-1}"
 END_BATCH="${3:-10}"
 
+PROFILE_N="$(echo "$BRANCH" | sed -E 's/^profile-([0-9]+).*/\1/')"
+
 echo "Spawning parallel Jules cloud VM sessions on $REPO ($BRANCH) for batches $START_BATCH..$END_BATCH"
 for i in $(seq -f "%02g" "$START_BATCH" "$END_BATCH"); do
-  PROMPT="Read AGENTS.md and run python3 jules_waterfall_worker.py $i with zero external network calls or questions, and commit output/batch_${i}_v3.jsonl directly to this branch."
+  PROMPT="Read AGENTS.md and run python3 jules_waterfall_worker.py $i with zero external network calls or questions, and commit ONLY output/profile-${PROFILE_N}/batch_${i}_v3.jsonl directly to this branch; never modify shared root files."
   if command -v jules >/dev/null 2>&1; then
     jules session create --repo "$REPO" --branch "$BRANCH" --prompt "$PROMPT" &
   else

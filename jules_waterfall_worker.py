@@ -1,11 +1,16 @@
 #!/usr/bin/env python3
 """
 Self-Contained OVL v3.0.0 Cloud Waterfall Compiler for Google Jules (Multi-Batch 9-Day Max-Out Edition).
+Each profile writes ONLY to output/profile-N/batch_XX_v3.jsonl (N comes from the profile-N-* branch name),
+so parallel profile branches never rewrite shared root files and their PRs never conflict.
 Usage:
-  python3 jules_waterfall_worker.py            # compiles queue_batch_01.csv + any specified batch
-  python3 jules_waterfall_worker.py 01 05      # compiles batches/batch_01.csv through batches/batch_05.csv
+  python3 jules_waterfall_worker.py            # compiles every batch CSV found for this profile
+  python3 jules_waterfall_worker.py 05         # compiles batch 05 only
+  python3 jules_waterfall_worker.py 01 05      # compiles batches 01 through 05
+  OVL_PROFILE=3 python3 jules_waterfall_worker.py 01   # override profile detection
+Inputs (read-only): batches/profile-N/batch_XX.csv, else batches/batch_XX.csv, else queue_batch_XX.csv.
 """
-import csv, json, os, sys, glob, hashlib
+import csv, json, os, re, sys, glob, hashlib, subprocess
 
 def compile_csv_to_jsonl(csv_path, out_path):
     if not os.path.exists(csv_path):
@@ -48,34 +53,52 @@ def compile_csv_to_jsonl(csv_path, out_path):
         out.write("\n".join(blocks) + "\n")
     return len(blocks)
 
+def detect_profile():
+    override = (os.environ.get("OVL_PROFILE") or "").strip()
+    m = re.match(r"(?:profile-)?(\d+)(?:-|$)", override)
+    if m:
+        return int(m.group(1))
+    refs = [os.environ.get("GITHUB_HEAD_REF"), os.environ.get("GITHUB_REF_NAME")]
+    try:
+        refs.append(subprocess.check_output(["git", "rev-parse", "--abbrev-ref", "HEAD"], text=True, stderr=subprocess.DEVNULL).strip())
+    except Exception:
+        pass
+    for ref in refs:
+        m = re.match(r"profile-(\d+)(?:-|$)", ref or "")
+        if m:
+            return int(m.group(1))
+    return None
+
+def find_batch_csv(profile, b):
+    for cpath in (f"batches/profile-{profile}/batch_{b:02d}.csv", f"batches/batch_{b:02d}.csv", f"queue_batch_{b:02d}.csv"):
+        if os.path.exists(cpath):
+            return cpath
+    return None
+
 def main():
-    os.makedirs("output", exist_ok=True)
+    profile = detect_profile()
+    if profile is None:
+        print("Not a profile-N-* branch (set OVL_PROFILE=N to override); nothing compiled, shared output/ root files left untouched.")
+        return
+    out_dir = f"output/profile-{profile}"
     args = sys.argv[1:]
-    total = 0
     if len(args) >= 2 and args[0].isdigit() and args[1].isdigit():
-        start_b, end_b = int(args[0]), int(args[1])
-        for b in range(start_b, end_b + 1):
-            cpath = f"batches/batch_{b:02d}.csv"
-            opath = f"output/batch_{b:02d}_v3.jsonl"
-            n = compile_csv_to_jsonl(cpath, opath)
-            total += n
-            print(f"Compiled {n} blocks -> {opath}")
+        batch_nums = list(range(int(args[0]), int(args[1]) + 1))
     elif len(args) == 1 and args[0].isdigit():
-        b = int(args[0])
-        cpath = f"batches/batch_{b:02d}.csv"
-        opath = f"output/batch_{b:02d}_v3.jsonl"
-        total += compile_csv_to_jsonl(cpath, opath)
-        print(f"Compiled {total} blocks -> {opath}")
+        batch_nums = [int(args[0])]
     else:
-        for bpath in sorted(glob.glob("batches/batch_*.csv")):
-            bname = os.path.splitext(os.path.basename(bpath))[0]
-            opath = f"output/{bname}_v3.jsonl"
-            n = compile_csv_to_jsonl(bpath, opath)
-            total += n
-            print(f"Compiled {n} blocks -> {opath}")
-        if os.path.exists("queue_batch_01.csv"):
-            n = compile_csv_to_jsonl("queue_batch_01.csv", "output/batch_01_v3.jsonl")
-            total += n
+        found = glob.glob(f"batches/profile-{profile}/batch_*.csv") + glob.glob("batches/batch_*.csv") + glob.glob("queue_batch_*.csv")
+        batch_nums = sorted({int(m.group(1)) for m in (re.search(r"batch_(\d+)\.csv$", p) for p in found) if m})
+    total = 0
+    for b in batch_nums:
+        cpath = find_batch_csv(profile, b)
+        if not cpath:
+            print(f"No input CSV for batch {b:02d}; skipped")
+            continue
+        opath = f"{out_dir}/batch_{b:02d}_v3.jsonl"
+        n = compile_csv_to_jsonl(cpath, opath)
+        total += n
+        print(f"Compiled {n} blocks from {cpath} -> {opath}")
     print(f"TOTAL COMPILED BLOCKS: {total}")
 
 if __name__ == "__main__":
