@@ -1,0 +1,41 @@
+name: OVL Cloud Waterfall Compiler
+
+on:
+  push:
+    branches:
+      - main
+      - profile-1-cat01-04
+      - profile-2-cat05-08
+      - profile-3-cat09-12
+      - profile-4-cat13-16
+      - profile-5-cat17-20
+    paths:
+      - 'queue_batch_*.csv'
+      - 'jules_waterfall_worker.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  compile-v3-blocks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run v3.0.0 Waterfall Compiler
+        run: python3 jules_waterfall_worker.py
+
+      - name: Commit compiled output JSONL batches
+        run: |
+          git config user.name "ovl-waterfall-bot"
+          git config user.email "watkinsbobbyd1971@gmail.com"
+          git add output/*.jsonl
+          git diff --staged --quiet || git commit -m "chore(waterfall): auto-compile v3.0.0 batch on ${{ github.ref_name }}"
+          git push
