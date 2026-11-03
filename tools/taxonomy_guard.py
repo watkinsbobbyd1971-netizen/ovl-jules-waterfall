@@ -53,6 +53,9 @@ def inspect_record(record, registry):
     key = record.get("canonical_dedup_key")
     if not nonempty(key):
         reasons.append("missing_canonical_key")
+    anchor = record.get("temporal_and_dedup_anchor")
+    if isinstance(anchor, dict) and "canonical_dedup_key" in anchor and anchor["canonical_dedup_key"] != key:
+        reasons.append("nested_canonical_key_disagreement")
     classifications = record.get("classifications")
     if not isinstance(classifications, dict):
         classifications = {}
