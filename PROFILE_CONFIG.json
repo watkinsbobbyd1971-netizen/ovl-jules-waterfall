@@ -1,14 +1,27 @@
 {
-  "profile": "All 5 Profiles Unified Queue",
-  "mode": "LOCAL_REPO_AUTONOMOUS_NO_QUESTIONS",
-  "input_file": "queue_batch_01.csv",
-  "command": "python3 jules_waterfall_worker.py",
-  "outputs": [
-    "output/batch_01_v3.jsonl",
-    "output/profile-1-batch.jsonl",
-    "output/profile-2-batch.jsonl",
-    "output/profile-3-batch.jsonl",
-    "output/profile-4-batch.jsonl",
-    "output/profile-5-batch.jsonl"
-  ]
+  "profile": "Profile 1 (Worker 1)",
+  "categories": ["CAT_01", "CAT_02", "CAT_03", "CAT_04"],
+  "regions": ["REG_01", "REG_02", "REG_03", "REG_04", "REG_05", "REG_06", "REG_07", "REG_08", "REG_09", "REG_10"],
+  "eras": ["2020-2026 Modern", "2010-2019 Claude/Muse", "LIB Chunks"],
+  "data_tables_2020_2026": [
+    {"cat": "CAT_01", "sheet_id": "18trvCmudyhmOYLQe3gwPtEte-jut-udyuR9AKu-t5_8"},
+    {"cat": "CAT_02", "sheet_id": "177uT9VXzsE91VaJBpmxfZmPQDHGS06rWX4N97nrH1S0"},
+    {"cat": "CAT_03", "sheet_id": "12iDNNiEPYq5MN2KphGyyBOXeMn2Lw7LLvy2WyJs1CWI"},
+    {"cat": "CAT_04", "sheet_id": "1UkIj6F14bNzc-s0NvAhC8f5jvfBKXq0TuY5TBotV48Y"}
+  ],
+  "data_tables_2010_2019_csv": [
+    {"cat": "CAT_01", "file_id": "1AFFkOgl4A_8nJuLHgjvcgDjszNFLl8ba"},
+    {"cat": "CAT_02", "file_id": "1PFIofvfA-hja14sJSJrObh9-Itil92-s"},
+    {"cat": "CAT_03", "file_id": "1ikbhoGNAF7xzlb0eLIgOu-NGJi8qm3BQ"},
+    {"cat": "CAT_04", "file_id": "1aDCXP24nIM8nRvjSysY5rNxY5jvv1bIC"}
+  ],
+  "lib_folders": [
+    {"name": "LIB58-BUILDINGS", "folder_id": "1eV4ULWrrCsLbgq0_Zg8l1LV-SDM4IUeS"},
+    {"name": "LIB56-VEHICLE-MODELS", "folder_id": "16vU9GVjhUnEAxwvxWFQ_U8BLaCo4hVkX"},
+    {"name": "LIB44-VEHICLES", "folder_id": "1Z6KNfE9KoaUw884ds8SwNJ5SlIsx_Bqp"},
+    {"name": "LIB43-OBJECTS", "folder_id": "1b3UVG-BCxm38v-lS52dzG2jgFftrAUKI"}
+  ],
+  "bigquery_target": "ovl-machine-2026.image_corpus.blocks",
+  "drive_output_folder": "1ei-VtkIjeUA-4Zon2MqOfnKi0LvjDr1N",
+  "scoreboard_doc_id": "1tI9RXKg0v4kOZwmSrxtPNAbrO35yu6CeQb9uC65TKNQ"
 }
