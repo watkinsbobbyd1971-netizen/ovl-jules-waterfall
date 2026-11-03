@@ -111,6 +111,17 @@ class PropertyQueueTests(unittest.TestCase):
         self.s["assertions"]=[]
         self.assertEqual(self.queue(),[])
         self.assertEqual(inspect_subject(self.s,self.p)["assessed"][0]["status"],"not_applicable")
+    def test_boolean_condition_rejects_numeric_coercion(self):
+        for condition, value in ((True,1),(False,0)):
+            self.setUp()
+            self.p["properties"]["body_mass"]["when"]={"flag":condition}
+            self.s["profile_binding"]=profile_binding(self.p)
+            self.s["context"]["flag"]=value
+            proof={"value":value,"source_reference":"fixture://condition","subject_id":"test-subject","context_key":"flag",
+                "producer":"builder","independent_review":{"state":"accepted","reference":"fixture://review","reviewer":"auditor"}}
+            reviewed(proof,self.s);self.s["context_evidence"]["flag"]=proof
+            reviewed(self.f,self.s)
+            self.assertEqual(self.queue()[0]["reason"],"applicability_unknown")
     def test_missing_derivation_not_observed(self):
         self.f["status"]="derived";self.assertIn("explicit_derivation",self.queue()[0]["reason"])
     def test_unreviewed_derivation_input_rejected(self):
@@ -182,6 +193,15 @@ class PropertyQueueTests(unittest.TestCase):
         self.assertEqual(len(result["candidates"]),2)
         self.assertTrue(all(x["status"]=="unresearched" for x in result["candidates"]))
         self.assertEqual(raw,result["original"])
+    def test_explicit_conflict_sibling_blocks_derived_input(self):
+        self.p["properties"]["derived_mass"]=copy.deepcopy(self.p["properties"]["body_mass"])
+        self.s["profile_binding"]=profile_binding(self.p);reviewed(self.f,self.s)
+        sibling=copy.deepcopy(self.f);sibling.update(assertion_id="conflict",status="conflict")
+        derived=copy.deepcopy(self.f);derived.update(assertion_id="derived",property_id="derived_mass",status="derived",data_kind="derived_assertion",
+            derivation={"method":"test expression","input_assertion_ids":[self.f["assertion_id"]]})
+        derived["evidence"]["property_id"]="derived_mass";reviewed(derived,self.s)
+        self.s["assertions"] += [sibling,derived]
+        self.assertTrue(any(q["reason"]=="derivation_inputs_not_reviewed_observations" for q in self.queue()))
     def test_deer_range_not_scalar_or_wingspan_height(self):
         raw={"morphometric_specifications_mm_g":{"mass_and_physiological_range":{"min_max_mass_range_g":[111,222]},
             "overall_bounding_box_mm":{"wingspan_or_canopy_spread_mm":333}}}
