@@ -1,113 +1,48 @@
 #!/usr/bin/env python3
-"""
-OVL AUTONOMOUS MULTI-MILLION BLOCK COMPILER FOR GOOGLE ANTIGRAVITY / VERTEX / MAC STUDIO / COLAB ULTRA
-Streams raw LIB chunks from OVL-Gemini-Chunks (or local/GitHub batches), compiles verified v3.0.0 blocks
-across all 20 Categories (CAT_01..CAT_20) and all 10 Global Regions (REG_01..REG_10),
-and bulk-loads them continuously into BigQuery (`ovl-machine-2026.image_corpus.blocks`) + local JSONL shards.
+"""Bounded offline review staging. Production application belongs to the designated writer."""
+import argparse
+import hashlib
+import json
+from pathlib import Path
+import time
+from tools.corpus_intake import compile_csv, load_contract
 
-Usage:
-  python3 antigravity_autonomous_daemon.py --profile 1 --workers 16
-  python3 antigravity_autonomous_daemon.py --profile all --workers 32
-"""
-import argparse, csv, glob, hashlib, json, os, re, subprocess, sys, time
-from concurrent.futures import ThreadPoolExecutor
 
-PROJECT_ID = "ovl-machine-2026"
-DATASET_TABLE = "ovl-machine-2026.image_corpus.blocks"
-REGIONS = [f"REG_{i:02d}" for i in range(1, 11)]
-ERAS = [f"ERA_{i:02d}" for i in range(1, 8)]
+def process_batch_file(csv_path, registry=None, profiles=None, output_root="review-output/antigravity"):
+    source=Path(csv_path)
+    target=Path(output_root)/f"{source.stem}.review.jsonl"
+    return compile_csv(source,target,registry,profiles,content_addressed=True)
 
-PROFILE_CAT_MAP = {
-    "1": ["CAT_01", "CAT_02", "CAT_03", "CAT_04"],
-    "2": ["CAT_05", "CAT_06", "CAT_07", "CAT_08"],
-    "3": ["CAT_09", "CAT_10", "CAT_11", "CAT_12"],
-    "4": ["CAT_13", "CAT_14", "CAT_15", "CAT_16"],
-    "5": ["CAT_17", "CAT_18", "CAT_19", "CAT_20"],
-    "6": [f"CAT_{i:02d}" for i in range(1, 21)],
-    "all": [f"CAT_{i:02d}" for i in range(1, 21)],
-}
 
-def compile_row(row, cat_override=None, idx=0):
-    skey = (row.get("dedup_key") or row.get("canonical_dedup_key") or "").strip()
-    if not skey:
-        return None
-    cat = cat_override or next((f"CAT_{i:02d}" for i in range(1, 21) if f"CAT{i:02d}" in skey or f"CAT_{i:02d}" in skey), "CAT_01")
-    is_man_made = int(cat.split("_")[1]) <= 10
-    variant = "MAN_MADE_MASTER" if is_man_made else "ORGANIC_MASTER"
-    reg = REGIONS[idx % 10]
-    era = ERAS[idx % 7]
-    yr = str(row.get("year") or (1960 + (idx % 66)))
-    subj = (row.get("subject") or skey).strip()
-    cite = (row.get("primary_source_url") or f"https://en.wikipedia.org/wiki/{subj.replace(' ', '_')}").strip()
+def main(argv=None, sleep=time.sleep):
+    parser=argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--profile",required=True,choices=[str(i) for i in range(1,7)])
+    parser.add_argument("--registry"); parser.add_argument("--profiles")
+    parser.add_argument("--workers",type=int,default=1,help="Compatibility option; this bounded staging path is sequential")
+    mode=parser.add_mutually_exclusive_group();mode.add_argument("--once",action="store_true");mode.add_argument("--loop",action="store_true")
+    parser.add_argument("--max-rounds",type=int,default=1);parser.add_argument("--poll-seconds",type=float,default=5)
+    parser.add_argument("--apply",action="store_true")
+    args=parser.parse_args(argv)
+    if args.apply:
+        print(json.dumps({"state":"blocked","reason":"designated_validated_writer_required","applied":0}));return 2
     try:
-        facts = json.loads(row.get("verified_facts") or "{}")
-    except Exception:
-        facts = {}
-    block_obj = {
-        "schema_version": "3.0.0",
-        "block_type": variant,
-        "canonical_dedup_key": skey,
-        "subject": subj,
-        "category_code": cat,
-        "region_code": reg,
-        "era_code": era,
-        "exact_date_or_year": yr,
-        "verification_citation_url": cite,
-        "verified_measurements": facts,
-        "pbr_material_priors": {
-            "base_albedo_hex": "#7A7F85",
-            "metallic": 0.25 if is_man_made else 0.0,
-            "roughness": 0.45,
-            "ior": 1.5
-        }
-    }
-    return {
-        "canonical_dedup_key": skey,
-        "category_code": cat,
-        "master_variant": variant,
-        "region_code": reg,
-        "era_code": era,
-        "exact_date_or_year": yr,
-        "lane": "antigravity-autonomous-max",
-        "citation": cite,
-        "block": block_obj
-    }
+        if args.max_rounds<1 or args.max_rounds>1000 or args.poll_seconds<0:raise ValueError("bounded rounds/poll required")
+        registry,profiles=load_contract(args.registry,args.profiles)
+        errors=False; found=False
+        for round_number in range(args.max_rounds if args.loop else 1):
+            reports=[]
+            for source in sorted(Path(f"batches/profile-{args.profile}").glob("batch_*.csv")):
+                found=True
+                report=process_batch_file(source,registry,profiles)
+                errors |= bool(report["needs_research"])
+                if not report["reused_report"]:reports.append(report)
+            print(json.dumps({"round":round_number+1,"reports":reports,"applied":0,"source_validated":0}))
+            if args.loop and round_number+1<args.max_rounds:sleep(args.poll_seconds)
+        return 1 if errors or not found else 0
+    except KeyboardInterrupt:
+        print(json.dumps({"state":"interrupted","applied":0}));return 130
+    except (ValueError,OSError) as exc:
+        print(json.dumps({"state":"blocked","reason":str(exc),"applied":0}));return 2
 
-def process_batch_file(csv_path):
-    out_jsonl = os.path.join("output", os.path.basename(csv_path).replace(".csv", "_bq_rows.jsonl"))
-    os.makedirs("output", exist_ok=True)
-    rows = []
-    with open(csv_path, "r", encoding="utf-8", errors="replace") as f:
-        reader = csv.DictReader(f)
-        for idx, r in enumerate(reader):
-            compiled = compile_row(r, idx=idx)
-            if compiled:
-                rows.append(json.dumps(compiled, ensure_ascii=False))
-    with open(out_jsonl, "w", encoding="utf-8") as out:
-        out.write("\n".join(rows) + "\n")
-    # If bq CLI is installed locally/in cloud VM, stream directly into BigQuery
-    try:
-        subprocess.run(
-            ["bq", "load", "--project_id", PROJECT_ID, "--source_format=NEWLINE_DELIMITED_JSON",
-             f"{PROJECT_ID}:image_corpus.blocks", out_jsonl],
-            check=False, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL
-        )
-    except Exception:
-        pass
-    return len(rows)
 
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--profile", default="all")
-    parser.add_argument("--workers", type=int, default=16)
-    parser.add_argument("--loop", action="store_true", default=True)
-    args = parser.parse_args()
-    batch_files = sorted(glob.glob("batches/batch_*.csv"))
-    if os.path.exists("queue_batch_01.csv"):
-        batch_files.append("queue_batch_01.csv")
-    with ThreadPoolExecutor(max_workers=args.workers) as ex:
-        counts = list(ex.map(process_batch_file, batch_files))
-    print(f"[ANTIGRAVITY AUTONOMOUS DAEMON] Compiled & pushed {sum(counts):,} verified v3.0.0 blocks across 20 Categories x 10 Regions.")
-
-if __name__ == "__main__":
-    main()
+if __name__=="__main__":raise SystemExit(main())
