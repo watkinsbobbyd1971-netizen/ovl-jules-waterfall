@@ -1,305 +1,83 @@
-#!/usr/bin/env python3
-"""
-Unit and integration tests for ovl_jules_dispatch.py
-Tests:
-- Account mismatch (wrong email, unknown acc_id, branch-account conflict, ordinal guessing)
-- Quota reached (concurrency slots and daily limit)
-- Missing CLI binary handling
-- Subprocess failure handling
-- Duplicate manifest / claim rejection
-- Ambiguous create timeout & reconciliation without duplicate session creation
-- Plan approval required & plan approval execution
-- Scope mismatch blocker (forbidden operations, cross-profile output access)
-- Resumed execution with existing receipts
-- Truthful receipts across all lifecycle states
-"""
-
-import os
-import shutil
-import subprocess
-import tempfile
-import unittest
-
-from ovl_jules_dispatch import (
-    AccountMismatchError,
-    AmbiguousTimeoutError,
-    CLIProviderAdapter,
-    DuplicateClaimError,
-    FileReceiptStore,
-    JulesDispatcher,
-    MockProviderAdapter,
-    QuotaExceededError,
-    ScopeViolationError,
-    reconcile_account,
-    validate_plan_scope,
-)
-
-
-class TestAccountReconciliation(unittest.TestCase):
-    def test_canonical_reconciliation_by_id(self):
-        acc = reconcile_account(acc_id="ACC_01")
-        self.assertEqual(acc["acc_id"], "ACC_01")
-        self.assertEqual(acc["email"], "watkinsbobbyd1971@gmail.com")
-
-    def test_canonical_reconciliation_by_email(self):
-        acc = reconcile_account(email="tanishawatkins0125@gmail.com")
-        self.assertEqual(acc["acc_id"], "ACC_02")
-
-    def test_canonical_reconciliation_by_branch(self):
-        acc = reconcile_account(branch="profile-3-cat09-12")
-        self.assertEqual(acc["acc_id"], "ACC_03")
-
-    def test_account_mismatch_error_on_conflict(self):
-        with self.assertRaises(AccountMismatchError):
-            reconcile_account(acc_id="ACC_01", email="claudevisualdy@gmail.com")
-
-    def test_branch_conflict_with_account(self):
-        with self.assertRaises(AccountMismatchError):
-            reconcile_account(acc_id="ACC_01", branch="profile-2-cat05-08")
-
-    def test_legacy_profile_ordinal_guess_rejected_without_identity(self):
-        with self.assertRaises(AccountMismatchError):
-            reconcile_account(legacy_profile=1)
-
-    def test_legacy_profile_mismatch(self):
-        with self.assertRaises(AccountMismatchError):
-            reconcile_account(acc_id="ACC_01", legacy_profile=4)
-
-
-class TestDispatcherOffline(unittest.TestCase):
-    def setUp(self):
-        self.test_dir = tempfile.mkdtemp()
-        self.receipt_store = FileReceiptStore(root_dir=self.test_dir)
-
-    def tearDown(self):
-        shutil.rmtree(self.test_dir, ignore_errors=True)
-
-    def test_dry_run_truthful_receipt(self):
-        adapter = MockProviderAdapter(authenticated_email="watkinsbobbyd1971@gmail.com")
-        dispatcher = JulesDispatcher(adapter=adapter, receipt_store=self.receipt_store, dry_run=True)
-
-        receipt = dispatcher.dispatch(
-            repo="watkinsbobbyd1971-netizen/ovl-jules-waterfall",
-            branch="profile-1-cat01-04",
-            prompt="Run worker",
-            manifest_claim="manifest_01",
-            acc_id="ACC_01",
-        )
-        self.assertEqual(receipt["state"], "planned")
-        self.assertIsNone(receipt["session_id"])
-        self.assertTrue(receipt["dry_run"])
-        self.assertEqual(adapter.created_calls, 0)
-
-        # Verify saved to disk
-        loaded = self.receipt_store.load_receipt(receipt["receipt_key"])
-        self.assertIsNotNone(loaded)
-        self.assertEqual(loaded["state"], "planned")
-
-    def test_live_dispatch_successful_lifecycle(self):
-        adapter = MockProviderAdapter(authenticated_email="watkinsbobbyd1971@gmail.com")
-        dispatcher = JulesDispatcher(adapter=adapter, receipt_store=self.receipt_store, dry_run=False)
-
-        receipt = dispatcher.dispatch(
-            repo="watkinsbobbyd1971-netizen/ovl-jules-waterfall",
-            branch="profile-1-cat01-04",
-            prompt="Run worker",
-            manifest_claim="manifest_live_01",
-            acc_id="ACC_01",
-        )
-        self.assertEqual(receipt["state"], "running")
-        self.assertIsNotNone(receipt["session_id"])
-        self.assertTrue(receipt["session_id"].startswith("mock-sess-"))
-        self.assertIn("https://jules.google.com/session/", receipt["session_url"])
-        self.assertEqual(adapter.created_calls, 1)
-
-    def test_provider_identity_mismatch_fails(self):
-        adapter = MockProviderAdapter(authenticated_email="wrong_account@gmail.com")
-        dispatcher = JulesDispatcher(adapter=adapter, receipt_store=self.receipt_store, dry_run=False)
-
-        with self.assertRaises(AccountMismatchError):
-            dispatcher.dispatch(
-                repo="watkinsbobbyd1971-netizen/ovl-jules-waterfall",
-                branch="profile-1-cat01-04",
-                prompt="Run worker",
-                manifest_claim="manifest_fail_id",
-                acc_id="ACC_01",
-            )
-
-    def test_duplicate_manifest_claim_rejected(self):
-        adapter = MockProviderAdapter(authenticated_email="watkinsbobbyd1971@gmail.com")
-        dispatcher = JulesDispatcher(adapter=adapter, receipt_store=self.receipt_store, dry_run=False)
-
-        dispatcher.dispatch(
-            repo="watkinsbobbyd1971-netizen/ovl-jules-waterfall",
-            branch="profile-1-cat01-04",
-            prompt="Run worker",
-            manifest_claim="manifest_duplicate_01",
-            acc_id="ACC_01",
-        )
-
-        with self.assertRaises(DuplicateClaimError):
-            dispatcher.dispatch(
-                repo="watkinsbobbyd1971-netizen/ovl-jules-waterfall",
-                branch="profile-1-cat01-04",
-                prompt="Run worker",
-                manifest_claim="manifest_duplicate_01",
-                acc_id="ACC_01",
-            )
-
-    def test_quota_concurrency_slots_reached(self):
-        adapter = MockProviderAdapter(authenticated_email="watkinsbobbyd1971@gmail.com")
-        dispatcher = JulesDispatcher(adapter=adapter, receipt_store=self.receipt_store, dry_run=False)
-
-        # Mock 60 active receipts already running for ACC_01
-        for i in range(60):
-            r = {
-                "receipt_key": f"ACC_01_mock_{i}",
-                "account_id": "ACC_01",
-                "state": "running",
-                "created_at": 1000.0,
-                "updated_at": 1000.0,
-            }
-            self.receipt_store.save_receipt(r)
-
-        with self.assertRaises(QuotaExceededError) as ctx:
-            dispatcher.dispatch(
-                repo="watkinsbobbyd1971-netizen/ovl-jules-waterfall",
-                branch="profile-1-cat01-04",
-                prompt="Run worker",
-                manifest_claim="manifest_over_quota",
-                acc_id="ACC_01",
-            )
-        self.assertIn("slot ceiling reached", str(ctx.exception))
-
-    def test_quota_daily_limit_reached(self):
-        adapter = MockProviderAdapter(authenticated_email="watkinsbobbyd1971@gmail.com")
-        dispatcher = JulesDispatcher(adapter=adapter, receipt_store=self.receipt_store, dry_run=False)
-
-        # Mock 300 completed receipts within the last 24h
-        import time
-
-        now = time.time()
-        for i in range(300):
-            r = {
-                "receipt_key": f"ACC_01_mock_daily_{i}",
-                "account_id": "ACC_01",
-                "state": "artifact-ready",
-                "created_at": now - 3600,
-                "updated_at": now - 3600,
-            }
-            self.receipt_store.save_receipt(r)
-
-        with self.assertRaises(QuotaExceededError) as ctx:
-            dispatcher.dispatch(
-                repo="watkinsbobbyd1971-netizen/ovl-jules-waterfall",
-                branch="profile-1-cat01-04",
-                prompt="Run worker",
-                manifest_claim="manifest_over_daily",
-                acc_id="ACC_01",
-            )
-        self.assertIn("daily quota reached", str(ctx.exception))
-
-    def test_ambiguous_timeout_and_reconciliation(self):
-        adapter = MockProviderAdapter(authenticated_email="watkinsbobbyd1971@gmail.com")
-        dispatcher = JulesDispatcher(adapter=adapter, receipt_store=self.receipt_store, dry_run=False)
-
-        adapter.should_timeout_create = True
-        with self.assertRaises(AmbiguousTimeoutError):
-            dispatcher.dispatch(
-                repo="watkinsbobbyd1971-netizen/ovl-jules-waterfall",
-                branch="profile-1-cat01-04",
-                prompt="Run worker",
-                manifest_claim="manifest_timeout_test",
-                acc_id="ACC_01",
-            )
-        self.assertEqual(adapter.created_calls, 1)
-
-        # Check receipt recorded timeout failure
-        receipts = self.receipt_store.list_receipts_for_account("ACC_01")
-        self.assertEqual(len(receipts), 1)
-        self.assertEqual(receipts[0]["state"], "failed")
-
-        # Now simulate session ID being recognized from remote query or manual reconciliation marker
-        timeout_sess_id = list(adapter.sessions.keys())[0]
-        receipts[0]["session_id"] = timeout_sess_id
-        self.receipt_store.save_receipt(receipts[0])
-
-        # Second dispatch attempt: should reconcile existing session instead of creating a duplicate
-        adapter.should_timeout_create = False
-        reconciled_receipt = dispatcher.dispatch(
-            repo="watkinsbobbyd1971-netizen/ovl-jules-waterfall",
-            branch="profile-1-cat01-04",
-            prompt="Run worker",
-            manifest_claim="manifest_timeout_test",
-            acc_id="ACC_01",
-        )
-        self.assertEqual(reconciled_receipt["session_id"], timeout_sess_id)
-        # Verify created_calls was NOT incremented on the retry
-        self.assertEqual(adapter.created_calls, 1)
-        self.assertEqual(reconciled_receipt["state"], "running")
-
-    def test_scope_violation_plan_rejection(self):
-        adapter = MockProviderAdapter(authenticated_email="watkinsbobbyd1971@gmail.com")
-        # Propose plan that attempts to modify shared root files
-        adapter.proposed_plan = "Modify shared root files and AGENTS.md directly."
-        dispatcher = JulesDispatcher(adapter=adapter, receipt_store=self.receipt_store, dry_run=False)
-
-        with self.assertRaises(ScopeViolationError) as ctx:
-            dispatcher.dispatch(
-                repo="watkinsbobbyd1971-netizen/ovl-jules-waterfall",
-                branch="profile-1-cat01-04",
-                prompt="Run worker",
-                manifest_claim="manifest_bad_plan",
-                acc_id="ACC_01",
-            )
-        self.assertIn("Scope blocker", str(ctx.exception))
-
-    def test_scope_violation_cross_profile_write(self):
-        adapter = MockProviderAdapter(authenticated_email="watkinsbobbyd1971@gmail.com")
-        # Propose plan that writes to profile-2 output while running on profile-1
-        adapter.proposed_plan = "Commit output to profile-2 batch jsonl file."
-        dispatcher = JulesDispatcher(adapter=adapter, receipt_store=self.receipt_store, dry_run=False)
-
-        with self.assertRaises(ScopeViolationError) as ctx:
-            dispatcher.dispatch(
-                repo="watkinsbobbyd1971-netizen/ovl-jules-waterfall",
-                branch="profile-1-cat01-04",
-                prompt="Run worker",
-                manifest_claim="manifest_cross_profile_plan",
-                acc_id="ACC_01",
-            )
-        self.assertIn("Scope blocker", str(ctx.exception))
-
-    def test_subprocess_failure(self):
-        adapter = MockProviderAdapter(authenticated_email="watkinsbobbyd1971@gmail.com")
-        adapter.should_fail_create = True
-        dispatcher = JulesDispatcher(adapter=adapter, receipt_store=self.receipt_store, dry_run=False)
-
-        with self.assertRaises(subprocess.CalledProcessError):
-            dispatcher.dispatch(
-                repo="watkinsbobbyd1971-netizen/ovl-jules-waterfall",
-                branch="profile-1-cat01-04",
-                prompt="Run worker",
-                manifest_claim="manifest_cli_failure",
-                acc_id="ACC_01",
-            )
-
-    def test_missing_cli_handling(self):
-        adapter = CLIProviderAdapter(cli_bin="nonexistent_jules_binary_xyz")
-        dispatcher = JulesDispatcher(adapter=adapter, receipt_store=self.receipt_store, dry_run=False)
-
-        from ovl_jules_dispatch import DispatchError
-
-        with self.assertRaises(DispatchError) as ctx:
-            dispatcher.dispatch(
-                repo="watkinsbobbyd1971-netizen/ovl-jules-waterfall",
-                branch="profile-1-cat01-04",
-                prompt="Run worker",
-                manifest_claim="manifest_missing_cli",
-                acc_id="ACC_01",
-            )
-        self.assertIn("not found on PATH", str(ctx.exception))
-
-
-if __name__ == "__main__":
-    unittest.main()
+import json,tempfile,time,unittest
+from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor
+from ovl_jules_dispatch import *
+class Fake(ProviderAdapter):
+ def __init__(self):self.n=0;self.sessions=[];self.fail=False;self.findable=True;self.quota=2;self.identity=True;self.status='pending';self.plan=None;self.approvals=0
+ def snapshot(self,a):return dict(account_id=a,email=CANONICAL_ACCOUNTS[a]['email'],identity_verified=self.identity,observed_at=time.time(),inventory_complete=True,active_count=len(self.sessions),max_concurrent=2,remaining_tasks=self.quota,session_ids=[x['session_id'] for x in self.sessions])
+ def create_session(self,**kw):
+  self.n+=1;s=dict(kw,session_id='real-id',status=self.status,observed_at=time.time(),proposed_plan=self.plan);self.sessions.append(s)
+  if self.fail:raise TimeoutError()
+  return s
+ def find_sessions(self,**kw):return self.sessions if self.findable else []
+ def get_session(self,sid):return dict(self.sessions[0],observed_at=time.time())
+ def approve_plan(self,sid,plan_id):self.approvals+=1;self.sessions[0]['status']='running';self.sessions[0]['approved_plan_id']=plan_id
+class Tests(unittest.TestCase):
+ def setUp(self):
+  self.tmp=tempfile.TemporaryDirectory();self.root=Path(self.tmp.name);self.store=FileReceiptStore(str(self.root/'r'));self.f=Fake();self.m=dict(work_keys=['a'],account_id='ACC_01',repo='r',branch='b',scope=dict(files=['output/a'],actions=['write']));self.p=self.root/'m';self.write()
+ def tearDown(self):self.tmp.cleanup()
+ def write(self):self.p.write_text(json.dumps(self.m))
+ def call(self,dry=False,adapter=None):return JulesDispatcher(adapter or self.f,self.store,dry).dispatch('r','b','task',str(self.p),acc_id='ACC_01')
+ def test_pending(self):self.assertEqual(self.call()['state'],'submitted')
+ def test_timeout_reconcile(self):
+  self.f.fail=True;self.assertEqual(self.call()['state'],'ambiguous');self.assertEqual(self.call()['session_id'],'real-id');self.assertEqual(self.f.n,1)
+ def test_timeout_missing_never_recreate(self):
+  self.f.fail=True;self.f.findable=False;self.call();self.call();self.assertEqual(self.f.n,1)
+ def test_quota(self):self.f.quota=0;self.assertEqual(self.call()['state'],'quota-blocked');self.assertEqual(self.f.n,0)
+ def test_identity(self):self.f.identity=False;self.assertEqual(self.call()['state'],'blocked');self.assertEqual(self.f.n,0)
+ def test_branch_identity(self):
+  with self.assertRaises(AccountMismatchError):reconcile_account(branch='profile-1-cat01-04')
+ def test_synthetic_manifest(self):
+  with self.assertRaises(FileNotFoundError):compute_manifest_hash('synthetic')
+ def test_hash_order(self):
+  self.m['work_keys']=['a','b'];self.write();a=compute_manifest_hash(str(self.p));self.m['work_keys']=['b','a'];self.write();self.assertEqual(a,compute_manifest_hash(str(self.p)))
+ def test_concurrent_claim(self):
+  with ThreadPoolExecutor(4) as p:list(p.map(lambda _:self.call(),range(8)))
+  self.assertEqual(self.f.n,1)
+ def test_cross_account_overlap(self):
+  self.call();self.m.update(account_id='ACC_02',work_keys=['a','b']);self.write()
+  with self.assertRaises(DuplicateClaimError):JulesDispatcher(self.f,self.store,False).dispatch('r','b','task',str(self.p),acc_id='ACC_02')
+ def test_dryrun(self):self.call(True);self.assertEqual(list(self.store.all_receipts()),[])
+ def test_poll_running(self):
+  self.f.status='awaiting-plan-approval';self.f.plan=dict(branch='b',plan_id='p',files=['output/a'],actions=['write']);self.call();self.assertEqual(self.call()['state'],'running');self.assertEqual(self.f.n,1)
+ def test_scope_approval(self):
+  self.f.status='awaiting-plan-approval';self.f.plan=dict(branch='b',plan_id='p',files=['output/a'],actions=['write']);self.assertEqual(self.call()['state'],'running');self.assertEqual(self.f.approvals,1)
+ def test_text_plan(self):self.f.status='awaiting-plan-approval';self.f.plan='edit README.md';self.assertEqual(self.call()['state'],'awaiting-plan-approval');self.assertEqual(self.f.approvals,0)
+ def test_scope_escape(self):
+  for path in ['README.md','output/../AGENTS.md','/output/a','AGENTS.md']:
+   self.assertFalse(validate_plan_scope(dict(branch='b',plan_id='p',files=[path],actions=['write']),'b',self.m['scope'])[0])
+ def test_live_cli_no_subprocess(self):
+  from unittest.mock import patch
+  with patch('subprocess.run',side_effect=AssertionError()):self.assertEqual(self.call(adapter=CLIProviderAdapter())['state'],'blocked')
+ def test_corrupt_state(self):
+  self.call();next((self.root/'r').glob('*.json')).write_text('bad')
+  with self.assertRaises(DispatchError):self.call()
+ def test_running_without_approved_plan_blocked(self):
+  self.f.status='running';self.assertEqual(self.call()['state'],'blocked')
+ def test_invalid_scope_precreate(self):
+  self.m['scope']['files']=['../AGENTS.md'];self.write()
+  with self.assertRaises(ScopeViolationError):self.call()
+  self.assertEqual(self.f.n,0)
+ def test_unobserved_reservation_reduces_capacity(self):
+  original=self.f.snapshot
+  def stale_inventory(a):
+   r=original(a);r.update(active_count=0,session_ids=[],max_concurrent=1);return r
+  self.f.snapshot=stale_inventory;self.call();self.m['work_keys']=['b'];self.write()
+  self.assertEqual(self.call()['state'],'quota-blocked');self.assertEqual(self.f.n,1)
+ def test_release_only_unsubmitted(self):
+  self.f.quota=0;r=self.call();self.store.release_unsubmitted(r['receipt_key']);self.f.quota=2;self.call()
+  with self.assertRaises(DispatchError):self.store.release_unsubmitted(r['receipt_key'])
+ def test_manifest_read_once(self):
+  from unittest.mock import patch
+  original=read_manifest
+  with patch('ovl_jules_dispatch.read_manifest', wraps=original) as reader:
+   self.call();self.assertEqual(reader.call_count,1)
+ def test_fsync_receipt_and_directory(self):
+  from unittest.mock import patch
+  import os
+  with patch('ovl_jules_dispatch.os.fsync', wraps=os.fsync) as sync:
+   self.call();self.assertGreaterEqual(sync.call_count,4)
+ def test_unknown_plan_command_rejected(self):
+  p=dict(branch='b',plan_id='p',files=['output/a'],actions=['write'],command='rm -rf other')
+  self.assertFalse(validate_plan_scope(p,'b',self.m['scope'])[0])
+if __name__=='__main__':unittest.main()
