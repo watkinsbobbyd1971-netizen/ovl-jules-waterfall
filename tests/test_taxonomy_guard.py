@@ -78,6 +78,10 @@ class GuardTests(unittest.TestCase):
         self.row["temporal_and_dedup_anchor"] = {"region_code": "REG_05", "region_name": "Middle East & North Africa"}
         self.reject()
 
+    def test_nested_identity_conflict(self):
+        self.row["temporal_and_dedup_anchor"] = {"canonical_dedup_key": "different-subject"}
+        self.reject()
+
     def test_top_level_category_label_conflict(self):
         self.row["category_name"] = "Vehicles"
         self.reject()
