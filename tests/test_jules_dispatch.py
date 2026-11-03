@@ -77,4 +77,7 @@ class Tests(unittest.TestCase):
   import os
   with patch('ovl_jules_dispatch.os.fsync', wraps=os.fsync) as sync:
    self.call();self.assertGreaterEqual(sync.call_count,4)
+ def test_unknown_plan_command_rejected(self):
+  p=dict(branch='b',plan_id='p',files=['output/a'],actions=['write'],command='rm -rf other')
+  self.assertFalse(validate_plan_scope(p,'b',self.m['scope'])[0])
 if __name__=='__main__':unittest.main()

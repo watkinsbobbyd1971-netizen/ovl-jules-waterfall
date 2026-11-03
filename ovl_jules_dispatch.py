@@ -272,8 +272,16 @@ class ProviderAdapter:
     Contract for provider interactions (CLI or API).
     """
 
-    def verify_authenticated_identity(self, expected_email: str) -> bool:
-        """Verifies currently authenticated CLI/API session matches expected provider email."""
+    def snapshot(self, account_id):
+        """Fresh exact identity and complete recent provider inventory including session_ids.
+
+        Creation must also atomically enforce provider capacity; a snapshot is not
+        a reservation against launchers outside this shared receipt store.
+        """
+        raise NotImplementedError
+
+    def find_sessions(self, idempotency_key, account_id):
+        """Return exact correlation matches; never guess from names or timestamps."""
         raise NotImplementedError
 
     def create_session(
@@ -283,6 +291,7 @@ class ProviderAdapter:
         prompt: str,
         account_id: str,
         idempotency_key: str,
+        require_plan_approval: bool,
     ) -> Dict[str, Any]:
         """Creates a remote session. Must return dict with session_id and optional session_url."""
         raise NotImplementedError
@@ -295,7 +304,7 @@ class ProviderAdapter:
         """Returns session activities/events."""
         raise NotImplementedError
 
-    def approve_plan(self, session_id: str) -> bool:
+    def approve_plan(self, session_id: str, plan_id: str) -> bool:
         """Approves the proposed plan on the session."""
         raise NotImplementedError
 
@@ -323,12 +332,18 @@ class CLIProviderAdapter(ProviderAdapter):
 def validate_plan_scope(plan, branch, scope):
     if not isinstance(plan, dict) or not isinstance(scope, dict):
         return False, "Structured plan and authorized scope required"
-    if plan.get("branch") != branch or not plan.get("plan_id"):
+    if set(plan) != {"branch", "plan_id", "files", "actions"} or set(scope) != {"files", "actions"}:
+        return False, "Unknown plan/scope fields require review"
+    if plan.get("branch") != branch or not isinstance(plan.get("plan_id"), str) or not plan["plan_id"]:
         return False, "Plan branch or immutable plan identifier missing/mismatched"
     files, actions = plan.get("files"), plan.get("actions")
     if not isinstance(files, list) or not files or not isinstance(actions, list) or not actions:
         return False, "Plan files/actions missing"
-    if set(actions) != {"write"} or set(scope.get("actions", [])) != {"write"}:
+    if not isinstance(scope.get("files"), list) or not isinstance(scope.get("actions"), list):
+        return False, "Scope files/actions must be lists"
+    if any(not isinstance(x, str) for x in actions + scope["actions"]):
+        return False, "Actions must be strings"
+    if set(actions) != {"write"} or set(scope["actions"]) != {"write"}:
         return False, "Only explicitly authorized file writes supported"
     for path in files:
         if not isinstance(path, str) or path.startswith("/") or "\\" in path or any(x in ("", ".", "..") for x in path.split("/")):
