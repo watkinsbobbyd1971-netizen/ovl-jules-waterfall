@@ -3,20 +3,35 @@
 Direct HTTP TypeSafe Jev v1.14.0 Client (Zero Composio/MCP Connector Calls)
 Calls https://api.typesafe.ai/v1/systemone or http://100.109.6.90:8792/v1/systemone directly.
 """
-import os, json, urllib.request
+import os
+import json
+import urllib.request
 
 JEV_DIRECT_URL = "https://api.typesafe.ai/v1/systemone"
 JEV_RELAY_URL = "http://100.109.6.90:8792/v1/systemone"
 JEV_MODEL = "jev-1.14.0"
+
 
 def classify_record_direct_jev(record_text: str) -> dict:
     payload = {
         "model": JEV_MODEL,
         "state": {"record": record_text},
         "questions": {
-            "category_code": {"type": "choice", "choices": [f"CAT_{i:02d}" for i in range(1, 21)], "instructions": "Select the exact OVL category_code."},
-            "region_code": {"type": "choice", "choices": [f"REG_{i:02d}" for i in range(1, 11)], "instructions": "Select the exact global region_code."},
-            "era_code": {"type": "choice", "choices": [f"ERA_{i:02d}" for i in range(1, 9)], "instructions": "Select the historical/modern era_code."}
+            "category_code": {
+                "type": "choice",
+                "choices": [f"CAT_{i:02d}" for i in range(1, 21)],
+                "instructions": "Select the exact OVL category_code."
+            },
+            "region_code": {
+                "type": "choice",
+                "choices": [f"REG_{i:02d}" for i in range(1, 11)],
+                "instructions": "Select the exact global region_code."
+            },
+            "era_code": {
+                "type": "choice",
+                "choices": [f"ERA_{i:02d}" for i in range(1, 9)],
+                "instructions": "Select the historical/modern era_code."
+            }
         }
     }
     env_val = os.environ.get("TYPESAFE_JEV_API_KEY", "").strip()
@@ -29,7 +44,7 @@ def classify_record_direct_jev(record_text: str) -> dict:
         data = json.loads(resp.read().decode("utf-8"))
         ans = data.get("answers", {})
         return {
-            "category_code": ans.get("category_code", {}).get("choice", "CAT_09"),
+            "category_code": ans.get("category_code", {}).get("choice", "CAT_01"),
             "region_code": ans.get("region_code", {}).get("choice", "REG_01"),
             "era_code": ans.get("era_code", {}).get("choice", "ERA_07")
         }
