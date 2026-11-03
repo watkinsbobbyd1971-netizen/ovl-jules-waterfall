@@ -1,0 +1,27 @@
+{
+  "profile": "Profile 2 (Worker 2)",
+  "categories": ["CAT_05", "CAT_06", "CAT_07", "CAT_08"],
+  "regions": ["REG_01", "REG_02", "REG_03", "REG_04", "REG_05", "REG_06", "REG_07", "REG_08", "REG_09", "REG_10"],
+  "eras": ["2020-2026 Modern", "2010-2019 Claude/Muse", "LIB Chunks"],
+  "data_tables_2020_2026": [
+    {"cat": "CAT_05", "sheet_id": "1f1t3Ph08cDkMjtsZy4IFUzIPrKL5SlxUuk6oylDZAkU"},
+    {"cat": "CAT_06", "sheet_id": "1GL422c5HbqMc3LwIJoXS70BTEKpQWhLPeOApz4oYVSk"},
+    {"cat": "CAT_07", "sheet_id": "1O-2ap4Om6P4iLdBr5gNx_A3C20Nf6d5Osz7XL0nFuds"},
+    {"cat": "CAT_08", "sheet_id": "19L9WHC4E5BGNWF2Zf4-1_y0TrOJb2CW6fK-VQYtMQhM"}
+  ],
+  "data_tables_2010_2019_csv": [
+    {"cat": "CAT_05", "file_id": "1O88t5HGCv6wrVpmxlvZUmCiVnRMzgi7F"},
+    {"cat": "CAT_06", "file_id": "1esLliFknDwmK_cCeimReKXMlWRjrAyjR"},
+    {"cat": "CAT_07", "file_id": "1uExr5VvZzzP-vLHcoMqCF4-u3JkDSd47"},
+    {"cat": "CAT_08", "file_id": "1her7fyl3bJnpZ_BotY6J71bGzJVJ4gL7"}
+  ],
+  "lib_folders": [
+    {"name": "LIB59-EVERYDAY", "folder_id": "1pIaLI5ezWlqye2zwzrZu2yd-juG5brHB"},
+    {"name": "LIB53-FOODS", "folder_id": "1xklmVNXHA6CJJweS604kCiYpptcE6nGd"},
+    {"name": "LIB46-FOOD", "folder_id": "12c4TDwCpYhGZIVB7tfTV_n-Ib5bkAjh9"},
+    {"name": "LIB51-SMITHSONIAN", "folder_id": "1ofxigw4xYFkCxZbpUjd0EeH1JLuSvHuh"}
+  ],
+  "bigquery_target": "ovl-machine-2026.image_corpus.blocks",
+  "drive_output_folder": "1ei-VtkIjeUA-4Zon2MqOfnKi0LvjDr1N",
+  "scoreboard_doc_id": "1tI9RXKg0v4kOZwmSrxtPNAbrO35yu6CeQb9uC65TKNQ"
+}
