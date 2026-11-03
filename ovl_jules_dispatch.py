@@ -1,25 +1,19 @@
 #!/usr/bin/env python3
-"""
-ovl_jules_dispatch.py - Account-aware, bounded, and observable Jules session dispatcher.
+"""Fail-closed offline dispatcher engine. Default CLI is deliberately blocked.
 
-Features:
-- Canonical account reconciliation: maps canonical ACC_xx IDs, provider emails, profile numbers,
-  branches, and repositories by explicit identity, avoiding ordinal guessing or treating branches
-  as separate accounts.
-- Dry-run default: Prevents unexpected live mutations without explicit flags; validates manifest
-  existence, identity verification, account mapping, and quota availability.
-- Provider Adapter: Abstraction for create/get/activity/approve-plan interactions with support
-  for CLI discovery, mock adapters for offline unit tests, and ambiguous timeout reconciliation.
-- Durable Receipts: Maintains json receipt records tracking lifecycle states:
-  planned, submitted, awaiting-plan-approval, running, artifact-ready, failed, quota-blocked.
-- Task Scope & Plan Approval Guard: Validates that returned execution plans conform strictly
-  to the authorized prompt/scope before approval.
-- Bounded Concurrency & Daily Quota: Enforces limits per canonical account (not branch ordinal).
+Live activation requires an independently verified provider adapter, fresh account
+identity/capacity, and a single shared locking receipt store for all launchers.
+This module does not establish distributed capacity reservations across external
+launchers: the provider must atomically enforce capacity at create time as well.
+JSON manifest schema is documented in read_manifest. Local claims retain exact
+canonical subject/property keys across accounts. No implicit claim release.
 """
 
 from __future__ import annotations
 
 import argparse
+import contextlib
+import fcntl
 import dataclasses
 import hashlib
 import json
@@ -35,75 +29,46 @@ logger = logging.getLogger("jules_dispatch")
 
 DEFAULT_REPO = "watkinsbobbyd1971-netizen/ovl-jules-waterfall"
 
-# Canonical registry of accounts reconciled between README.md and FLEET_BLACKBOARD.json.
-# Keyed by canonical ID. Note that email identity is unique per account.
+# Non-secret expected identities; these are not authentication evidence.
+# Every live attempt requires an exact, fresh authenticated provider match.
 CANONICAL_ACCOUNTS: Dict[str, Dict[str, Any]] = {
     "ACC_01": {
         "acc_id": "ACC_01",
         "email": "watkinsbobbyd1971@gmail.com",
-        "default_branch": "profile-1-cat01-04",
         "legacy_profiles": [1, 6],
         "allowed_categories": ["CAT_01", "CAT_02", "CAT_03"],
-        "max_concurrent_vms": 60,
-        "daily_task_quota": 300,
     },
     "ACC_02": {
         "acc_id": "ACC_02",
         "email": "tanishawatkins0125@gmail.com",
-        "default_branch": "profile-2-cat05-08",
         "legacy_profiles": [1, 2],
         "allowed_categories": ["CAT_04", "CAT_05", "CAT_06"],
-        "max_concurrent_vms": 60,
-        "daily_task_quota": 300,
     },
     "ACC_03": {
         "acc_id": "ACC_03",
         "email": "claudevisualdy@gmail.com",
-        "default_branch": "profile-3-cat09-12",
         "legacy_profiles": [2, 3],
         "allowed_categories": ["CAT_07", "CAT_08", "CAT_09", "CAT_10"],
-        "max_concurrent_vms": 60,
-        "daily_task_quota": 300,
     },
     "ACC_04": {
         "acc_id": "ACC_04",
         "email": "tanishabobby4life@gmail.com",
-        "default_branch": "profile-4-cat13-16",
         "legacy_profiles": [3, 4],
         "allowed_categories": ["CAT_11", "CAT_12", "CAT_13", "CAT_14"],
-        "max_concurrent_vms": 60,
-        "daily_task_quota": 300,
     },
     "ACC_05": {
         "acc_id": "ACC_05",
         "email": "magnificent19710125@gmail.com",
-        "default_branch": "profile-5-cat17-20",
         "legacy_profiles": [4, 5],
         "allowed_categories": ["CAT_15", "CAT_16", "CAT_17"],
-        "max_concurrent_vms": 60,
-        "daily_task_quota": 300,
     },
     "ACC_06": {
         "acc_id": "ACC_06",
         "email": "optimizedvisuallearning@gmail.com",
-        "default_branch": "profile-6-global-all20",
         "legacy_profiles": [5, 6],
         "allowed_categories": ["CAT_18", "CAT_19", "CAT_20"],
-        "max_concurrent_vms": 60,
-        "daily_task_quota": 300,
     },
 }
-
-# Branch to Canonical Account mapping based on verified identity ownership
-BRANCH_TO_ACC: Dict[str, str] = {
-    "profile-1-cat01-04": "ACC_01",
-    "profile-2-cat05-08": "ACC_02",
-    "profile-3-cat09-12": "ACC_03",
-    "profile-4-cat13-16": "ACC_04",
-    "profile-5-cat17-20": "ACC_05",
-    "profile-6-global-all20": "ACC_06",
-}
-
 
 class DispatchError(Exception):
     """Base error for dispatch operations."""
@@ -166,18 +131,6 @@ def reconcile_account(
         else:
             raise AccountMismatchError(f"Unknown provider email identity: {email}")
 
-    if branch:
-        norm_branch = branch.strip()
-        mapped_acc = BRANCH_TO_ACC.get(norm_branch)
-        if mapped_acc:
-            acc_by_branch = CANONICAL_ACCOUNTS[mapped_acc]
-            if matched and matched["acc_id"] != acc_by_branch["acc_id"]:
-                raise AccountMismatchError(
-                    f"Branch '{branch}' belongs to {acc_by_branch['acc_id']} ({acc_by_branch['email']}), "
-                    f"not {matched['acc_id']}"
-                )
-            matched = acc_by_branch
-
     if legacy_profile is not None:
         if not matched:
             raise AccountMismatchError(
@@ -195,12 +148,30 @@ def reconcile_account(
     return matched
 
 
-def compute_manifest_hash(manifest_path_or_content: str) -> str:
-    """Computes a durable SHA256 hash for a manifest path or content string."""
-    if os.path.isfile(manifest_path_or_content):
-        with open(manifest_path_or_content, "rb") as f:
-            return hashlib.sha256(f.read()).hexdigest()
-    return hashlib.sha256(manifest_path_or_content.encode("utf-8")).hexdigest()
+def read_manifest(path):
+    """Only caller-owned JSON manifests; keys identify subject/property globally.
+
+    Schema: {work_keys: [str], account_id: str, repo: str, branch: str,
+             scope: {files: [relative path], actions: ["write"]}}
+    All dispatchers must share this receipt directory on a filesystem with flock.
+    Separate hosts/stores are NOT a distributed claim mechanism.
+    """
+    with open(path, encoding="utf-8") as handle:
+        manifest = json.load(handle)
+    keys = manifest.get("work_keys")
+    if not isinstance(keys, list) or not keys or any(not isinstance(k, str) or not k or k != k.strip() for k in keys):
+        raise DispatchError("Manifest requires nonempty canonical work_keys")
+    if len(set(keys)) != len(keys):
+        raise DuplicateClaimError("Repeated work key in manifest")
+    manifest["work_keys"] = sorted(keys)
+    if not isinstance(manifest.get("scope"), dict):
+        raise ScopeViolationError("Structured authorized scope required")
+    return manifest
+
+
+def compute_manifest_hash(path):
+    manifest = read_manifest(path)
+    return hashlib.sha256(json.dumps(manifest["work_keys"], separators=(",", ":")).encode()).hexdigest()
 
 
 class BaseReceiptStore:
@@ -223,6 +194,32 @@ class FileReceiptStore(BaseReceiptStore):
         self.root_dir = root_dir
         os.makedirs(self.root_dir, exist_ok=True)
 
+    @contextlib.contextmanager
+    def exclusive(self):
+        # Serializes claim checking, durable submission marker and reconciliation.
+        # Provider adapters must use bounded network deadlines.
+        with open(os.path.join(self.root_dir, ".dispatch.lock"), "a") as lock:
+            fcntl.flock(lock, fcntl.LOCK_EX)
+            try:
+                yield
+            finally:
+                fcntl.flock(lock, fcntl.LOCK_UN)
+
+    def release_unsubmitted(self, receipt_key):
+        """Explicit operator/runner action only; attempted submissions never released."""
+        with self.exclusive():
+            receipt = self.load_receipt(receipt_key)
+            if not receipt or receipt.get("create_attempted"):
+                raise DispatchError("Only verified unsubmitted claims can be released")
+            receipt.update(state="released", updated_at=time.time())
+            self.save_receipt(receipt)
+
+    def all_receipts(self):
+        for name in os.listdir(self.root_dir):
+            if name.endswith(".json"):
+                with open(os.path.join(self.root_dir, name), encoding="utf-8") as handle:
+                    yield json.load(handle)  # Corrupt state fails closed.
+
     def _file_path(self, receipt_key: str) -> str:
         safe_key = re.sub(r"[^A-Za-z0-9_\-\.]", "_", receipt_key)
         return os.path.join(self.root_dir, f"{safe_key}.json")
@@ -235,8 +232,7 @@ class FileReceiptStore(BaseReceiptStore):
             with open(path, "r", encoding="utf-8") as f:
                 return json.load(f)
         except Exception as e:
-            logger.warning(f"Failed to read receipt {path}: {e}")
-            return None
+            raise DispatchError("Unreadable existing receipt") from e
 
     def save_receipt(self, receipt: Dict[str, Any]) -> None:
         key = receipt["receipt_key"]
@@ -244,7 +240,14 @@ class FileReceiptStore(BaseReceiptStore):
         tmp_path = path + f".tmp.{os.getpid()}"
         with open(tmp_path, "w", encoding="utf-8") as f:
             json.dump(receipt, f, indent=2, sort_keys=True)
+            f.flush()
+            os.fsync(f.fileno())
         os.replace(tmp_path, path)
+        directory = os.open(self.root_dir, os.O_RDONLY)
+        try:
+            os.fsync(directory)
+        finally:
+            os.close(directory)
 
     def list_receipts_for_account(self, acc_id: str) -> List[Dict[str, Any]]:
         res = []
@@ -297,447 +300,151 @@ class ProviderAdapter:
         raise NotImplementedError
 
 
-class MockProviderAdapter(ProviderAdapter):
-    """Mock adapter for offline tests and simulations."""
-
-    def __init__(self, authenticated_email: Optional[str] = None):
-        self.authenticated_email = authenticated_email
-        self.sessions: Dict[str, Dict[str, Any]] = {}
-        self.activities: Dict[str, List[Dict[str, Any]]] = {}
-        self.should_fail_create = False
-        self.should_timeout_create = False
-        self.created_calls = 0
-        self.proposed_plan: Optional[str] = None
-
-    def verify_authenticated_identity(self, expected_email: str) -> bool:
-        if self.authenticated_email is None:
-            return True
-        return self.authenticated_email.lower() == expected_email.lower()
-
-    def create_session(
-        self,
-        repo: str,
-        branch: str,
-        prompt: str,
-        account_id: str,
-        idempotency_key: str,
-    ) -> Dict[str, Any]:
-        self.created_calls += 1
-        if self.should_fail_create:
-            raise subprocess.CalledProcessError(1, ["mock", "create"], stderr="Simulated CLI failure")
-        if self.should_timeout_create:
-            # Ambiguous timeout: session was created on provider, but client experienced timeout
-            sess_id = f"mock-sess-{hashlib.sha256(idempotency_key.encode()).hexdigest()[:12]}"
-            self.sessions[sess_id] = {
-                "session_id": sess_id,
-                "repo": repo,
-                "branch": branch,
-                "prompt": prompt,
-                "account_id": account_id,
-                "idempotency_key": idempotency_key,
-                "status": "pending",
-                "session_url": f"https://jules.google.com/session/{sess_id}",
-            }
-            raise AmbiguousTimeoutError("Request timed out waiting for provider response")
-
-        sess_id = f"mock-sess-{hashlib.sha256(idempotency_key.encode()).hexdigest()[:12]}"
-        plan_text = self.proposed_plan or f"Run worker for branch {branch} and commit ONLY output/profile-N/batch_v3.jsonl"
-        sess = {
-            "session_id": sess_id,
-            "session_url": f"https://jules.google.com/session/{sess_id}",
-            "repo": repo,
-            "branch": branch,
-            "prompt": prompt,
-            "account_id": account_id,
-            "idempotency_key": idempotency_key,
-            "status": "awaiting-plan-approval",
-            "proposed_plan": plan_text,
-            "plan_approved": False,
-        }
-        self.sessions[sess_id] = sess
-        self.activities[sess_id] = [
-            {"event": "created", "timestamp": time.time()},
-            {"event": "plan_generated", "plan": plan_text},
-        ]
-        return sess
-
-    def get_session(self, session_id: str) -> Dict[str, Any]:
-        if session_id in self.sessions:
-            return self.sessions[session_id]
-        raise DispatchError(f"Session not found: {session_id}")
-
-    def list_activities(self, session_id: str) -> List[Dict[str, Any]]:
-        return self.activities.get(session_id, [])
-
-    def approve_plan(self, session_id: str) -> bool:
-        if session_id in self.sessions:
-            self.sessions[session_id]["status"] = "running"
-            self.sessions[session_id]["plan_approved"] = True
-            self.activities[session_id].append({"event": "plan_approved", "timestamp": time.time()})
-            return True
-        return False
-
-
 class CLIProviderAdapter(ProviderAdapter):
-    """
-    Adapter using the installed `jules` CLI contract.
-    Queries CLI help or known subcommands rather than blindly executing.
-    """
+    """Live CLI contract is not verified. Never guess commands or simulate success.
 
-    def __init__(self, cli_bin: str = "jules"):
+    Install an explicitly verified ProviderAdapter in the calling runner instead.
+    snapshot(account_id) must return authenticated email, observed_at, inventory
+    completeness, active_count, max_concurrent and remaining_tasks. find_sessions
+    must search durable idempotency_key markers; absence never licenses re-create.
+    Session reads require account_id, repo, branch, idempotency_key, session_id,
+    observed_at and explicit status. Plan approval is bound to plan_id.
+    """
+    def __init__(self, cli_bin="jules"):
         self.cli_bin = cli_bin
 
-    def _check_cli_available(self) -> bool:
-        res = subprocess.run(
-            ["which", self.cli_bin],
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            text=True,
-        )
-        return res.returncode == 0
+    def snapshot(self, account_id):
+        raise DispatchError("Live adapter blocked: supported identity/capacity/session contract not verified")
 
-    def verify_authenticated_identity(self, expected_email: str) -> bool:
-        if not self._check_cli_available():
-            raise DispatchError(f"CLI binary '{self.cli_bin}' not found on PATH")
-        # Check `jules auth status` or `jules whoami` if supported
-        res = subprocess.run(
-            [self.cli_bin, "auth", "status"],
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            text=True,
-        )
-        if res.returncode != 0:
-            # Fallback to whoami
-            res = subprocess.run(
-                [self.cli_bin, "whoami"],
-                stdout=subprocess.PIPE,
-                stderr=subprocess.PIPE,
-                text=True,
-            )
-        output = (res.stdout + " " + res.stderr).lower()
-        return expected_email.lower() in output
-
-    def create_session(
-        self,
-        repo: str,
-        branch: str,
-        prompt: str,
-        account_id: str,
-        idempotency_key: str,
-    ) -> Dict[str, Any]:
-        if not self._check_cli_available():
-            raise DispatchError(f"CLI binary '{self.cli_bin}' is missing; cannot execute live create.")
-        cmd = [
-            self.cli_bin,
-            "session",
-            "create",
-            "--repo",
-            repo,
-            "--branch",
-            branch,
-            "--prompt",
-            prompt,
-        ]
-        try:
-            res = subprocess.run(
-                cmd,
-                stdout=subprocess.PIPE,
-                stderr=subprocess.PIPE,
-                text=True,
-                timeout=120,
-            )
-            if res.returncode != 0:
-                raise subprocess.CalledProcessError(res.returncode, cmd, output=res.stdout, stderr=res.stderr)
-            stdout = res.stdout.strip()
-            # Extract session id or session url
-            sess_id_match = re.search(r"session[ /]([0-9a-zA-Z\-_]+)", stdout, re.IGNORECASE)
-            sess_id = sess_id_match.group(1) if sess_id_match else f"cli-{int(time.time())}"
-            sess_url_match = re.search(r"https://[^\s]+", stdout)
-            sess_url = sess_url_match.group(0) if sess_url_match else ""
-            return {"session_id": sess_id, "session_url": sess_url, "raw_output": stdout}
-        except subprocess.TimeoutExpired as e:
-            raise AmbiguousTimeoutError(f"CLI command timed out: {e}")
-
-    def get_session(self, session_id: str) -> Dict[str, Any]:
-        if not self._check_cli_available():
-            raise DispatchError("CLI binary missing")
-        cmd = [self.cli_bin, "session", "get", session_id]
-        res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
-        if res.returncode != 0:
-            raise DispatchError(f"Failed to get session {session_id}: {res.stderr}")
-        return {"session_id": session_id, "status": "active", "output": res.stdout}
-
-    def list_activities(self, session_id: str) -> List[Dict[str, Any]]:
-        if not self._check_cli_available():
-            return []
-        cmd = [self.cli_bin, "session", "activities", session_id]
-        res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
-        if res.returncode != 0:
-            return []
-        return [{"raw": res.stdout}]
-
-    def approve_plan(self, session_id: str) -> bool:
-        if not self._check_cli_available():
-            raise DispatchError("CLI binary missing")
-        cmd = [self.cli_bin, "session", "approve-plan", session_id]
-        res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
-        return res.returncode == 0
+    def create_session(self, **kwargs):
+        raise DispatchError("Live adapter blocked; no CLI commands executed")
 
 
-def validate_plan_scope(proposed_plan: str, branch: str, prompt: str) -> Tuple[bool, Optional[str]]:
-    """
-    Validates agent proposed plan against authorized task scope.
-    Ensures:
-    1. Plan targets the specific branch/output path.
-    2. Does NOT alter shared root files or global settings.
-    """
-    plan_lower = proposed_plan.lower()
-    # Check for forbidden actions
-    forbidden_terms = [
-        "modify shared root files",
-        "edit agents.md",
-        "edit profile_config.json",
-        "delete branch",
-        "drop table",
-        "upgrade subscription",
-        "paid quota",
-    ]
-    for term in forbidden_terms:
-        if term in plan_lower:
-            return False, f"Scope blocker: proposed plan contains forbidden operation '{term}'"
-
-    # Verify branch/output containment
-    profile_match = re.search(r"profile-(\d+)", branch)
-    if profile_match:
-        prof_num = profile_match.group(1)
-        expected_output_subpath = f"profile-{prof_num}"
-        # If the plan mentions writing to another profile's output directory, block it
-        for other_num in range(1, 7):
-            if str(other_num) != prof_num and f"profile-{other_num}" in plan_lower and "commit" in plan_lower:
-                return False, f"Scope blocker: plan targets profile-{other_num} output when assigned to {branch}"
-
+def validate_plan_scope(plan, branch, scope):
+    if not isinstance(plan, dict) or not isinstance(scope, dict):
+        return False, "Structured plan and authorized scope required"
+    if plan.get("branch") != branch or not plan.get("plan_id"):
+        return False, "Plan branch or immutable plan identifier missing/mismatched"
+    files, actions = plan.get("files"), plan.get("actions")
+    if not isinstance(files, list) or not files or not isinstance(actions, list) or not actions:
+        return False, "Plan files/actions missing"
+    if set(actions) != {"write"} or set(scope.get("actions", [])) != {"write"}:
+        return False, "Only explicitly authorized file writes supported"
+    for path in files:
+        if not isinstance(path, str) or path.startswith("/") or "\\" in path or any(x in ("", ".", "..") for x in path.split("/")):
+            return False, "Noncanonical file path"
+        if any(x.startswith(".") or x.lower() in ("agents.md", "profile_config.json") for x in path.split("/")):
+            return False, "Protected file"
+        if path not in scope.get("files", []):
+            return False, "File outside authorized scope: " + path
     return True, None
 
 
 class JulesDispatcher:
-    """
-    Bounded, account-aware, observable dispatcher.
-    """
-
-    def __init__(
-        self,
-        adapter: ProviderAdapter,
-        receipt_store: Optional[BaseReceiptStore] = None,
-        dry_run: bool = True,
-    ):
+    def __init__(self, adapter, receipt_store=None, dry_run=True):
         self.adapter = adapter
         self.receipt_store = receipt_store or FileReceiptStore()
         self.dry_run = dry_run
 
-    def check_quota(self, account: Dict[str, Any]) -> Tuple[int, int]:
-        """
-        Checks current active sessions and rolling daily count from receipts.
-        Returns: (active_slots_used, daily_tasks_dispatched)
-        """
-        receipts = self.receipt_store.list_receipts_for_account(account["acc_id"])
-        now = time.time()
-        one_day_ago = now - 86400
-
-        active_count = 0
-        daily_count = 0
-
-        for r in receipts:
-            state = r.get("state")
-            timestamp = r.get("updated_at", 0)
-            if timestamp >= one_day_ago:
-                daily_count += 1
-            if state in ("submitted", "awaiting-plan-approval", "running"):
-                active_count += 1
-
-        return active_count, daily_count
-
-    def reconcile_timeout_session(
-        self,
-        receipt_key: str,
-        account: Dict[str, Any],
-        idempotency_key: str,
-    ) -> Optional[Dict[str, Any]]:
-        """
-        Reconciles any in-flight or timed-out session with matching receipt key or idempotency key.
-        """
-        receipt = self.receipt_store.load_receipt(receipt_key)
-        if receipt and receipt.get("session_id"):
-            try:
-                remote_info = self.adapter.get_session(receipt["session_id"])
-                if remote_info:
-                    return remote_info
-            except Exception:
-                pass
-        return None
-
-    def dispatch(
-        self,
-        repo: str,
-        branch: str,
-        prompt: str,
-        manifest_claim: str,
-        acc_id: Optional[str] = None,
-        account_id: Optional[str] = None,
-        email: Optional[str] = None,
-        legacy_profile: Optional[int] = None,
-    ) -> Dict[str, Any]:
-        """
-        Dispatches a task with strict account identity, quota checking, and observable receipts.
-        """
-        # 1. Identity reconciliation
-        resolved_acc_id = acc_id or account_id
-        account = reconcile_account(
-            acc_id=resolved_acc_id,
-            email=email,
-            branch=branch,
-            legacy_profile=legacy_profile,
-        )
-
-        manifest_hash = compute_manifest_hash(manifest_claim)
-        receipt_key = f"{account['acc_id']}_{manifest_hash[:16]}"
-        now = time.time()
-
-        # Check existing receipt to prevent duplicate claims
-        existing_receipt = self.receipt_store.load_receipt(receipt_key)
-        if existing_receipt:
-            current_state = existing_receipt.get("state")
-            if current_state in ("running", "artifact-ready", "submitted", "awaiting-plan-approval"):
-                raise DuplicateClaimError(
-                    f"Duplicate manifest claim {manifest_hash} already in progress or completed "
-                    f"(state={current_state}, session_id={existing_receipt.get('session_id')})"
-                )
-
-        receipt = {
-            "receipt_key": receipt_key,
-            "account_id": account["acc_id"],
-            "account_email": account["email"],
-            "manifest_hash": manifest_hash,
-            "manifest_claim": manifest_claim,
-            "repo": repo,
-            "branch": branch,
-            "prompt": prompt,
-            "state": "planned",
-            "session_id": existing_receipt.get("session_id") if existing_receipt else None,
-            "session_url": existing_receipt.get("session_url") if existing_receipt else None,
-            "created_at": existing_receipt.get("created_at", now) if existing_receipt else now,
-            "updated_at": now,
-            "blocker_reason": None,
-            "dry_run": self.dry_run,
-        }
+    def _save(self, receipt, state, reason=None):
+        receipt.update(state=state, blocker_reason=reason, updated_at=time.time())
         self.receipt_store.save_receipt(receipt)
-
-        # 2. Check Quota & Concurrency
-        active_slots, daily_tasks = self.check_quota(account)
-        if active_slots >= account["max_concurrent_vms"]:
-            receipt["state"] = "quota-blocked"
-            receipt["blocker_reason"] = f"Account VM slot ceiling reached ({active_slots}/{account['max_concurrent_vms']})"
-            receipt["updated_at"] = time.time()
-            self.receipt_store.save_receipt(receipt)
-            raise QuotaExceededError(receipt["blocker_reason"])
-
-        if daily_tasks >= account["daily_task_quota"]:
-            receipt["state"] = "quota-blocked"
-            receipt["blocker_reason"] = f"Account daily quota reached ({daily_tasks}/{account['daily_task_quota']})"
-            receipt["updated_at"] = time.time()
-            self.receipt_store.save_receipt(receipt)
-            raise QuotaExceededError(receipt["blocker_reason"])
-
-        # 3. Dry-run early exit
-        if self.dry_run:
-            logger.info(f"[DRY-RUN] Planned dispatch for {account['acc_id']} ({account['email']}) on {branch}")
-            receipt["state"] = "planned"
-            receipt["blocker_reason"] = "Dry-run mode active; execution skipped."
-            receipt["updated_at"] = time.time()
-            self.receipt_store.save_receipt(receipt)
-            return receipt
-
-        # 4. Identity verification against provider
-        if not self.adapter.verify_authenticated_identity(account["email"]):
-            receipt["state"] = "failed"
-            receipt["blocker_reason"] = f"Provider identity does not match account email: {account['email']}"
-            receipt["updated_at"] = time.time()
-            self.receipt_store.save_receipt(receipt)
-            raise AccountMismatchError(receipt["blocker_reason"])
-
-        # 5. Idempotent session creation / reconciliation
-        idempotency_key = f"{account['acc_id']}_{manifest_hash}"
-        # Check if already created during a previous ambiguous timeout
-        reconciled = None
-        if existing_receipt and existing_receipt.get("session_id"):
-            reconciled = self.reconcile_timeout_session(receipt_key, account, idempotency_key)
-
-        session_meta: Dict[str, Any] = {}
-        if reconciled:
-            session_meta = reconciled
-            logger.info(f"Reconciled existing remote session {session_meta.get('session_id')}")
-        else:
-            try:
-                receipt["state"] = "submitted"
-                receipt["updated_at"] = time.time()
-                self.receipt_store.save_receipt(receipt)
-
-                session_meta = self.adapter.create_session(
-                    repo=repo,
-                    branch=branch,
-                    prompt=prompt,
-                    account_id=account["acc_id"],
-                    idempotency_key=idempotency_key,
-                )
-            except AmbiguousTimeoutError:
-                # Mark as submitted with timeout blocker note and attempt reconcile
-                receipt["state"] = "failed"
-                receipt["blocker_reason"] = "Ambiguous timeout during session creation; markers saved for retry"
-                receipt["updated_at"] = time.time()
-                self.receipt_store.save_receipt(receipt)
-                raise
-
-        sess_id = session_meta.get("session_id")
-        receipt["session_id"] = sess_id
-        receipt["session_url"] = session_meta.get("session_url")
-        receipt["state"] = "awaiting-plan-approval"
-        receipt["updated_at"] = time.time()
-        self.receipt_store.save_receipt(receipt)
-
-        # 6. Plan inspection and approval
-        proposed_plan = session_meta.get("proposed_plan")
-        if not proposed_plan:
-            # Query activities to find proposed plan if available
-            activities = self.adapter.list_activities(sess_id)
-            for act in activities:
-                if act.get("plan"):
-                    proposed_plan = act["plan"]
-                    break
-
-        if proposed_plan:
-            valid, blocker = validate_plan_scope(proposed_plan, branch, prompt)
-            if not valid:
-                receipt["state"] = "failed"
-                receipt["blocker_reason"] = blocker
-                receipt["updated_at"] = time.time()
-                self.receipt_store.save_receipt(receipt)
-                raise ScopeViolationError(blocker)
-
-            # Explicit plan approval
-            approved = self.adapter.approve_plan(sess_id)
-            if approved:
-                receipt["state"] = "running"
-                receipt["updated_at"] = time.time()
-                self.receipt_store.save_receipt(receipt)
-            else:
-                receipt["blocker_reason"] = "Provider failed to approve valid plan"
-                self.receipt_store.save_receipt(receipt)
-        else:
-            # If no plan approval step is required by the provider contract, transition to running
-            receipt["state"] = "running"
-            receipt["updated_at"] = time.time()
-            self.receipt_store.save_receipt(receipt)
-
         return receipt
+
+    @staticmethod
+    def _fresh(observed_at):
+        return type(observed_at) in (int, float) and 0 <= time.time() - observed_at <= 60
+
+    def _observe(self, receipt, session, scope):
+        expected = {k: receipt[k] for k in ("account_id", "repo", "branch", "idempotency_key")}
+        if not isinstance(session, dict) or any(session.get(k) != v for k, v in expected.items()):
+            return self._save(receipt, "ambiguous", "Session ownership/correlation unverified")
+        sid = session.get("session_id")
+        if not isinstance(sid, str) or not sid.strip() or (receipt.get("session_id") and receipt["session_id"] != sid):
+            return self._save(receipt, "ambiguous", "Provider session identifier missing/mismatched")
+        receipt.update(session_id=sid, session_url=session.get("session_url"))
+        if not self._fresh(session.get("observed_at")):
+            return self._save(receipt, "unknown", "Stale/missing session observation")
+        status = session.get("status")
+        if status == "awaiting-plan-approval":
+            valid, reason = validate_plan_scope(session.get("proposed_plan"), receipt["branch"], scope)
+            if not valid:
+                return self._save(receipt, "awaiting-plan-approval", reason)
+            plan_id = session["proposed_plan"]["plan_id"]
+            if receipt.get("approval_attempted") == plan_id:
+                return self._save(receipt, "awaiting-plan-approval", "Approval already attempted; awaiting provider observation")
+            receipt["approval_attempted"] = plan_id
+            self._save(receipt, "awaiting-plan-approval")
+            self.adapter.approve_plan(sid, plan_id=plan_id)
+            return self._observe(receipt, self.adapter.get_session(sid), scope)
+        if status == "artifact-ready" and not session.get("artifact_url"):
+            return self._save(receipt, "unknown", "Artifact evidence missing")
+        if status in ("running", "artifact-ready") and (
+                not receipt.get("approval_attempted") or session.get("approved_plan_id") != receipt["approval_attempted"]):
+            return self._save(receipt, "blocked", "Execution observed without this assignment's verified plan approval")
+        if status in ("running", "artifact-ready", "failed", "cancelled"):
+            if session.get("artifact_url"):
+                receipt["artifact_url"] = session["artifact_url"]
+            return self._save(receipt, status)
+        return self._save(receipt, "submitted" if status in ("pending", "queued") else "unknown", "Execution not observed")
+
+    def dispatch(self, repo, branch, prompt, manifest_claim, acc_id=None, account_id=None, email=None, legacy_profile=None):
+        account = reconcile_account(acc_id=acc_id or account_id, email=email, legacy_profile=legacy_profile)
+        manifest = read_manifest(manifest_claim)
+        for k, v in {"account_id": account["acc_id"], "repo": repo, "branch": branch}.items():
+            if manifest.get(k) != v:
+                raise DispatchError("Manifest ownership mismatch: " + k)
+        valid, reason = validate_plan_scope(dict(manifest["scope"], branch=branch, plan_id="scope-validation"), branch, manifest["scope"])
+        if not valid:
+            raise ScopeViolationError(reason)
+        key = hashlib.sha256(json.dumps(manifest["work_keys"], separators=(",", ":")).encode()).hexdigest()
+        receipt = dict(receipt_key=key, manifest_hash=key, work_keys=manifest["work_keys"], account_id=account["acc_id"],
+                       repo=repo, branch=branch, prompt=prompt, scope=manifest["scope"], idempotency_key=key,
+                       session_id=None, created_at=time.time(), dry_run=self.dry_run, state="planned")
+        if self.dry_run:
+            # Preview does not reserve work or overwrite a live receipt.
+            return receipt
+        with self.receipt_store.exclusive():
+            existing = self.receipt_store.load_receipt(key)
+            if existing and existing.get("state") == "released":
+                existing = None
+            if existing:
+                if any(existing.get(k) != receipt[k] for k in ("account_id", "repo", "branch", "prompt", "scope")):
+                    raise DuplicateClaimError("Existing claim belongs to a different assignment")
+                receipt = existing
+            for other in self.receipt_store.all_receipts():
+                if other.get("state") != "released" and other["receipt_key"] != key and set(other["work_keys"]) & set(receipt["work_keys"]):
+                    raise DuplicateClaimError("Overlapping work keys already reserved")
+            try:
+                snapshot = self.adapter.snapshot(account["acc_id"])
+                if (snapshot.get("email") != account["email"] or snapshot.get("account_id") != account["acc_id"]
+                        or snapshot.get("identity_verified") is not True or not self._fresh(snapshot.get("observed_at"))):
+                    return self._save(receipt, "blocked", "Fresh authenticated account identity required")
+                if existing and existing.get("create_attempted"):
+                    if receipt.get("session_id"):
+                        return self._observe(receipt, self.adapter.get_session(receipt["session_id"]), manifest["scope"])
+                    matches = self.adapter.find_sessions(idempotency_key=key, account_id=account["acc_id"])
+                    if not isinstance(matches, list) or len(matches) != 1:
+                        return self._save(receipt, "ambiguous", "Submission unresolved; creation will not be repeated")
+                    return self._observe(receipt, matches[0], manifest["scope"])
+                if snapshot.get("inventory_complete") is not True or any(type(snapshot.get(k)) is not int or snapshot[k] < 0 for k in ("active_count", "max_concurrent", "remaining_tasks")):
+                    return self._save(receipt, "blocked", "Observed provider capacity unknown")
+                known_ids = snapshot.get("session_ids")
+                if not isinstance(known_ids, list) or any(not isinstance(x, str) for x in known_ids):
+                    return self._save(receipt, "blocked", "Provider session inventory required")
+                unobserved = sum(1 for other in self.receipt_store.all_receipts()
+                    if other.get("account_id") == account["acc_id"] and other.get("create_attempted")
+                    and other.get("session_id") not in known_ids)
+                if snapshot["active_count"] + unobserved >= snapshot["max_concurrent"] or snapshot["remaining_tasks"] <= unobserved:
+                    return self._save(receipt, "quota-blocked", "Observed provider capacity exhausted")
+                receipt["create_attempted"] = True
+                self._save(receipt, "submitted")  # Durable before any remote mutation.
+                session = self.adapter.create_session(repo=repo, branch=branch, prompt=prompt, account_id=account["acc_id"], idempotency_key=key, require_plan_approval=True)
+                return self._observe(receipt, session, manifest["scope"])
+            except Exception as error:
+                # A create/approval exception cannot establish that no side effect occurred.
+                state = "ambiguous" if receipt.get("create_attempted") else "blocked"
+                return self._save(receipt, state, type(error).__name__ + ": adapter operation unresolved")
 
 
 def main():
@@ -745,7 +452,7 @@ def main():
     parser.add_argument("--repo", default=DEFAULT_REPO, help="Target git repository")
     parser.add_argument("--branch", required=True, help="Target branch (e.g. profile-1-cat01-04)")
     parser.add_argument("--prompt", required=True, help="Task prompt")
-    parser.add_argument("--manifest", required=True, help="Manifest file path or claim string")
+    parser.add_argument("--manifest", required=True, help="Existing JSON manifest file path")
     parser.add_argument("--acc-id", help="Canonical account ID (ACC_01..ACC_06)")
     parser.add_argument("--email", help="Provider email identity")
     parser.add_argument("--profile-n", type=int, help="Legacy profile number (1..6)")
@@ -779,7 +486,7 @@ def main():
         )
         print(f"[RECEIPT] Status: {receipt['state']}, Session: {receipt.get('session_id')}, Account: {receipt['account_id']}")
         print(json.dumps(receipt, indent=2))
-        if receipt["state"] == "quota-blocked" or receipt["state"] == "failed":
+        if receipt["state"] not in ("planned", "running", "artifact-ready"):
             sys.exit(1)
     except Exception as e:
         print(f"[DISPATCH ERROR] {e}", file=sys.stderr)
@@ -788,3 +495,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
