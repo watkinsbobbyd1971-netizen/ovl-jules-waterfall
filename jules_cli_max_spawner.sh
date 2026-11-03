@@ -15,8 +15,9 @@ BRANCHES=(
 
 echo "Spawning parallel Google Jules cloud VM sessions across all branches..."
 for BRANCH in "${BRANCHES[@]}"; do
+  PROFILE_N="$(echo "$BRANCH" | sed -E 's/^profile-([0-9]+).*/\1/')"
   for BATCH in $(seq -w 1 10); do
-    PROMPT="On branch ${BRANCH}, read AGENTS.md and run python3 jules_waterfall_worker.py ${BATCH} locally with zero external network calls or questions, and commit output/batch_${BATCH}_v3.jsonl directly to ${BRANCH}."
+    PROMPT="On branch ${BRANCH}, read AGENTS.md and run python3 jules_waterfall_worker.py ${BATCH} locally with zero external network calls or questions, and commit ONLY output/profile-${PROFILE_N}/batch_${BATCH}_v3.jsonl directly to ${BRANCH}; never modify shared root files."
     if command -v jules &> /dev/null; then
       jules session create --repo "${REPO}" --branch "${BRANCH}" --prompt "${PROMPT}" &
     else

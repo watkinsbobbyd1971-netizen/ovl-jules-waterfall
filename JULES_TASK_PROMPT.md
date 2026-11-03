@@ -1,6 +1,14 @@
-# OVL Jules Cloud Waterfall Queue — Profile 1 (`CAT_01` to `CAT_04` | Regions `REG_01`–`REG_10`)
+# OVL Jules Cloud Waterfall Queue — All Profiles (shared file: do not edit per profile)
 
-## One-Line Jules Task Prompt (Copy & Paste into `jules.google.com` on branch `profile-1-cat01-04`)
+## One-Line Jules Task Prompt (Copy & Paste into `jules.google.com` on your `profile-N-*` branch)
 ```text
-Run python3 jules_waterfall_worker.py on branch profile-1-cat01-04 to compile the next 200 unbuilt v3.0.0 MAN_MADE_MASTER blocks across CAT_01 through CAT_04 and REG_01 through REG_10 using PROFILE_CONFIG.json and direct_jev_waterfall.py, and commit the validated v3.0.0 JSONL batch to output/profile-1-batch.jsonl.
+Read AGENTS.md, then run python3 jules_waterfall_worker.py on this profile-N branch with zero external network calls or questions, and commit ONLY the files it writes under output/profile-N/ (batch_XX_v3.jsonl); do not modify JULES_TASK_PROMPT.md, PROFILE_CONFIG.json, queue_batch_*.csv, or any output/*.jsonl file at the output root.
 ```
+
+## Branch -> Output Folder
+- `profile-1-cat01-04` -> `output/profile-1/batch_XX_v3.jsonl`
+- `profile-2-cat05-08` -> `output/profile-2/batch_XX_v3.jsonl`
+- `profile-3-cat09-12` -> `output/profile-3/batch_XX_v3.jsonl`
+- `profile-4-cat13-16` -> `output/profile-4/batch_XX_v3.jsonl`
+- `profile-5-cat17-20` -> `output/profile-5/batch_XX_v3.jsonl`
+- `profile-6-*` -> `output/profile-6/batch_XX_v3.jsonl`
