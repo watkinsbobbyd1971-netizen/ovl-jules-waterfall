@@ -1,0 +1,163 @@
+{
+  "schema_version": "3.0.0",
+  "updated_utc": "2026-11-03T04:45:00Z",
+  "target_bigquery_table": "ovl-machine-2026.image_corpus.blocks",
+  "target_drive_folder_id": "1ei-VtkIjeUA-4Zon2MqOfnKi0LvjDr1N",
+  "raw_chunks_root_folder_id": "1AtadxfcTHxO4SnxJ3wMC4ndHiQ0DqsSV",
+  "taxonomy": {
+    "categories": [
+      "CAT_01",
+      "CAT_02",
+      "CAT_03",
+      "CAT_04",
+      "CAT_05",
+      "CAT_06",
+      "CAT_07",
+      "CAT_08",
+      "CAT_09",
+      "CAT_10",
+      "CAT_11",
+      "CAT_12",
+      "CAT_13",
+      "CAT_14",
+      "CAT_15",
+      "CAT_16",
+      "CAT_17",
+      "CAT_18",
+      "CAT_19",
+      "CAT_20"
+    ],
+    "regions": [
+      "REG_01 (North America)",
+      "REG_02 (Latin America & Caribbean)",
+      "REG_03 (Western & Northern Europe)",
+      "REG_04 (Southern, Central & Eastern Europe)",
+      "REG_05 (Middle East & North Africa)",
+      "REG_06 (Sub-Saharan Africa & Diaspora)",
+      "REG_07 (South & Central Asia)",
+      "REG_08 (East Asia)",
+      "REG_09 (Southeast Asia)",
+      "REG_10 (Oceania & Polar)"
+    ]
+  },
+  "profiles": [
+    {
+      "profile_id": 1,
+      "email": "tanishawatkins0125@gmail.com",
+      "jules_branch": "profile-1-cat01-04",
+      "categories": [
+        "CAT_01",
+        "CAT_02",
+        "CAT_03",
+        "CAT_04"
+      ],
+      "lib_folders": [
+        "LIB58-BUILDINGS",
+        "LIB39-GETTY-AAT",
+        "LIB59-EVERYDAY",
+        "LIB43-OBJECTS"
+      ]
+    },
+    {
+      "profile_id": 2,
+      "email": "claudevisualdy@gmail.com",
+      "jules_branch": "profile-2-cat05-08",
+      "categories": [
+        "CAT_05",
+        "CAT_06",
+        "CAT_07",
+        "CAT_08"
+      ],
+      "lib_folders": [
+        "LIB51-SMITHSONIAN",
+        "LIB36-WORDNET",
+        "LIB56-VEHICLE-MODELS",
+        "LIB44-VEHICLES"
+      ]
+    },
+    {
+      "profile_id": 3,
+      "email": "tanishabobby4life@gmail.com",
+      "jules_branch": "profile-3-cat09-12",
+      "categories": [
+        "CAT_09",
+        "CAT_10",
+        "CAT_11",
+        "CAT_12"
+      ],
+      "lib_folders": [
+        "LIB42-HISTORY",
+        "LIB52-MET-ARTWORKS",
+        "LIB37-OCCUPATIONS",
+        "LIB47-SPORT"
+      ]
+    },
+    {
+      "profile_id": 4,
+      "email": "magnificent19710125@gmail.com",
+      "jules_branch": "profile-4-cat13-16",
+      "categories": [
+        "CAT_13",
+        "CAT_14",
+        "CAT_15",
+        "CAT_16"
+      ],
+      "lib_folders": [
+        "LIB50-SPECIES",
+        "LIB48-ARTISTS",
+        "LIB46-FOOD",
+        "LIB53-FOODS"
+      ]
+    },
+    {
+      "profile_id": 5,
+      "email": "optimizedvisuallearning@gmail.com",
+      "jules_branch": "profile-5-cat17-20",
+      "categories": [
+        "CAT_17",
+        "CAT_18",
+        "CAT_19",
+        "CAT_20"
+      ],
+      "lib_folders": [
+        "LIB41-PERFORMING-ARTS",
+        "LIB60-AFRICA-DIASPORA",
+        "LIB34-GEO-MAJOR",
+        "LIB57-DISASTERS"
+      ]
+    },
+    {
+      "profile_id": 6,
+      "email": "watkinsbobbyd1971@gmail.com",
+      "jules_branch": "profile-6-global-all20",
+      "categories": [
+        "CAT_01",
+        "CAT_02",
+        "CAT_03",
+        "CAT_04",
+        "CAT_05",
+        "CAT_06",
+        "CAT_07",
+        "CAT_08",
+        "CAT_09",
+        "CAT_10",
+        "CAT_11",
+        "CAT_12",
+        "CAT_13",
+        "CAT_14",
+        "CAT_15",
+        "CAT_16",
+        "CAT_17",
+        "CAT_18",
+        "CAT_19",
+        "CAT_20"
+      ],
+      "lib_folders": [
+        "LIB35-GEO-GAZETTEER",
+        "LIB38-MEDICAL",
+        "LIB40-BELIEF",
+        "LIB63-BELIEF-EXPANDED"
+      ]
+    }
+  ]
+}
