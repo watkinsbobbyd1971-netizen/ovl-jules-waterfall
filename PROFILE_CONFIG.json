@@ -1,25 +1,25 @@
 {
-  "profile": "Profile 2 (Worker 2)",
-  "categories": ["CAT_05", "CAT_06", "CAT_07", "CAT_08"],
+  "profile": "Profile 1 (Worker 1)",
+  "categories": ["CAT_01", "CAT_02", "CAT_03", "CAT_04"],
   "regions": ["REG_01", "REG_02", "REG_03", "REG_04", "REG_05", "REG_06", "REG_07", "REG_08", "REG_09", "REG_10"],
   "eras": ["2020-2026 Modern", "2010-2019 Claude/Muse", "LIB Chunks"],
   "data_tables_2020_2026": [
-    {"cat": "CAT_05", "sheet_id": "1f1t3Ph08cDkMjtsZy4IFUzIPrKL5SlxUuk6oylDZAkU"},
-    {"cat": "CAT_06", "sheet_id": "1GL422c5HbqMc3LwIJoXS70BTEKpQWhLPeOApz4oYVSk"},
-    {"cat": "CAT_07", "sheet_id": "1O-2ap4Om6P4iLdBr5gNx_A3C20Nf6d5Osz7XL0nFuds"},
-    {"cat": "CAT_08", "sheet_id": "19L9WHC4E5BGNWF2Zf4-1_y0TrOJb2CW6fK-VQYtMQhM"}
+    {"cat": "CAT_01", "sheet_id": "18trvCmudyhmOYLQe3gwPtEte-jut-udyuR9AKu-t5_8"},
+    {"cat": "CAT_02", "sheet_id": "177uT9VXzsE91VaJBpmxfZmPQDHGS06rWX4N97nrH1S0"},
+    {"cat": "CAT_03", "sheet_id": "12iDNNiEPYq5MN2KphGyyBOXeMn2Lw7LLvy2WyJs1CWI"},
+    {"cat": "CAT_04", "sheet_id": "1UkIj6F14bNzc-s0NvAhC8f5jvfBKXq0TuY5TBotV48Y"}
   ],
   "data_tables_2010_2019_csv": [
-    {"cat": "CAT_05", "file_id": "1O88t5HGCv6wrVpmxlvZUmCiVnRMzgi7F"},
-    {"cat": "CAT_06", "file_id": "1esLliFknDwmK_cCeimReKXMlWRjrAyjR"},
-    {"cat": "CAT_07", "file_id": "1uExr5VvZzzP-vLHcoMqCF4-u3JkDSd47"},
-    {"cat": "CAT_08", "file_id": "1her7fyl3bJnpZ_BotY6J71bGzJVJ4gL7"}
+    {"cat": "CAT_01", "file_id": "1AFFkOgl4A_8nJuLHgjvcgDjszNFLl8ba"},
+    {"cat": "CAT_02", "file_id": "1PFIofvfA-hja14sJSJrObh9-Itil92-s"},
+    {"cat": "CAT_03", "file_id": "1ikbhoGNAF7xzlb0eLIgOu-NGJi8qm3BQ"},
+    {"cat": "CAT_04", "file_id": "1aDCXP24nIM8nRvjSysY5rNxY5jvv1bIC"}
   ],
   "lib_folders": [
-    {"name": "LIB59-EVERYDAY", "folder_id": "1pIaLI5ezWlqye2zwzrZu2yd-juG5brHB"},
-    {"name": "LIB53-FOODS", "folder_id": "1xklmVNXHA6CJJweS604kCiYpptcE6nGd"},
-    {"name": "LIB46-FOOD", "folder_id": "12c4TDwCpYhGZIVB7tfTV_n-Ib5bkAjh9"},
-    {"name": "LIB51-SMITHSONIAN", "folder_id": "1ofxigw4xYFkCxZbpUjd0EeH1JLuSvHuh"}
+    {"name": "LIB58-BUILDINGS", "folder_id": "1eV4ULWrrCsLbgq0_Zg8l1LV-SDM4IUeS"},
+    {"name": "LIB56-VEHICLE-MODELS", "folder_id": "16vU9GVjhUnEAxwvxWFQ_U8BLaCo4hVkX"},
+    {"name": "LIB44-VEHICLES", "folder_id": "1Z6KNfE9KoaUw884ds8SwNJ5SlIsx_Bqp"},
+    {"name": "LIB43-OBJECTS", "folder_id": "1b3UVG-BCxm38v-lS52dzG2jgFftrAUKI"}
   ],
   "bigquery_target": "ovl-machine-2026.image_corpus.blocks",
   "drive_output_folder": "1ei-VtkIjeUA-4Zon2MqOfnKi0LvjDr1N",
