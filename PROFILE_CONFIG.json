@@ -1,25 +1,25 @@
 {
-  "profile": "Profile 4 (Worker 4)",
-  "categories": ["CAT_13", "CAT_14", "CAT_15", "CAT_16"],
+  "profile": "Profile 1 (Worker 1)",
+  "categories": ["CAT_01", "CAT_02", "CAT_03", "CAT_04"],
   "regions": ["REG_01", "REG_02", "REG_03", "REG_04", "REG_05", "REG_06", "REG_07", "REG_08", "REG_09", "REG_10"],
   "eras": ["2020-2026 Modern", "2010-2019 Claude/Muse", "LIB Chunks"],
   "data_tables_2020_2026": [
-    {"cat": "CAT_13", "sheet_id": "1q8nUyDCM6DpTRvVXCocmOtg1QAQhVuHISxPbLYJI89g"},
-    {"cat": "CAT_14", "sheet_id": "1kL8izP1y5Kk1Sk_qcz18tYC9RqCMMn7Nb4960T257q4"},
-    {"cat": "CAT_15", "sheet_id": "1g28bBz2MmByIZhaKL5kAtUWAnidzuY81bQYh6mG3Bh4"},
-    {"cat": "CAT_16", "sheet_id": "1ayoqjtzF00JmqZ2ilOUrC0luY52yE6uoENEOseTk7nw"}
+    {"cat": "CAT_01", "sheet_id": "18trvCmudyhmOYLQe3gwPtEte-jut-udyuR9AKu-t5_8"},
+    {"cat": "CAT_02", "sheet_id": "177uT9VXzsE91VaJBpmxfZmPQDHGS06rWX4N97nrH1S0"},
+    {"cat": "CAT_03", "sheet_id": "12iDNNiEPYq5MN2KphGyyBOXeMn2Lw7LLvy2WyJs1CWI"},
+    {"cat": "CAT_04", "sheet_id": "1UkIj6F14bNzc-s0NvAhC8f5jvfBKXq0TuY5TBotV48Y"}
   ],
   "data_tables_2010_2019_csv": [
-    {"cat": "CAT_13", "file_id": "1XS10eu1su1FHl17vO5fvdxeZ9Mj5dLt2"},
-    {"cat": "CAT_14", "file_id": "1Engou7_zUESLquEF5Ixj-IDykPSCO2xI"},
-    {"cat": "CAT_15", "file_id": "12tLVDyFP8Rfb9rDVci7m-l8QnXsuUkMT"},
-    {"cat": "CAT_16", "file_id": "1LnGuxawwN7AN_7YGiRNAdi-CDgTqlRPW"}
+    {"cat": "CAT_01", "file_id": "1AFFkOgl4A_8nJuLHgjvcgDjszNFLl8ba"},
+    {"cat": "CAT_02", "file_id": "1PFIofvfA-hja14sJSJrObh9-Itil92-s"},
+    {"cat": "CAT_03", "file_id": "1ikbhoGNAF7xzlb0eLIgOu-NGJi8qm3BQ"},
+    {"cat": "CAT_04", "file_id": "1aDCXP24nIM8nRvjSysY5rNxY5jvv1bIC"}
   ],
   "lib_folders": [
-    {"name": "LIB50-SPECIES", "folder_id": "1LiNfMo-7cQr1FQt50g-Q1pfzFi06izg7"},
-    {"name": "LIB38-MEDICAL", "folder_id": "176KUKIGLK0-jUzymDjczdbQ_QAsKKspR"},
-    {"name": "LIB37-OCCUPATIONS", "folder_id": "1-7YVIGKkcsO5PReWNnvQ9KlGmlrZIIan"},
-    {"name": "LIB60-AFRICA-DIASPORA", "folder_id": "1W7m28R5COHYDaO77DcY7Io6tUf1j3L2P"}
+    {"name": "LIB58-BUILDINGS", "folder_id": "1eV4ULWrrCsLbgq0_Zg8l1LV-SDM4IUeS"},
+    {"name": "LIB56-VEHICLE-MODELS", "folder_id": "16vU9GVjhUnEAxwvxWFQ_U8BLaCo4hVkX"},
+    {"name": "LIB44-VEHICLES", "folder_id": "1Z6KNfE9KoaUw884ds8SwNJ5SlIsx_Bqp"},
+    {"name": "LIB43-OBJECTS", "folder_id": "1b3UVG-BCxm38v-lS52dzG2jgFftrAUKI"}
   ],
   "bigquery_target": "ovl-machine-2026.image_corpus.blocks",
   "drive_output_folder": "1ei-VtkIjeUA-4Zon2MqOfnKi0LvjDr1N",

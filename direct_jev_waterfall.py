@@ -29,7 +29,7 @@ def classify_record_direct_jev(record_text: str) -> dict:
         data = json.loads(resp.read().decode("utf-8"))
         ans = data.get("answers", {})
         return {
-            "category_code": ans.get("category_code", {}).get("choice", "CAT_13"),
+            "category_code": ans.get("category_code", {}).get("choice", "CAT_01"),
             "region_code": ans.get("region_code", {}).get("choice", "REG_01"),
             "era_code": ans.get("era_code", {}).get("choice", "ERA_07")
         }
