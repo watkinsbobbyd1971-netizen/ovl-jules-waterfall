@@ -1,0 +1,16 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB51-ENT-SMI-0489494,descriptive_identity,"""hair of humans""",http://www.wikidata.org/entity/Q105825431
+LIBSRC-LIB51-ENT-SMI-0489494,anatomical_identity,"""hair""",http://www.wikidata.org/entity/Q105825431
+LIBSRC-LIB51-ENT-SMI-0489494,anatomical_relationship,"""human body""",http://www.wikidata.org/entity/Q105825431
+LIBSRC-LIB36-ENT-WRD-0029999,descriptive_identity,"""large bone marrow cell responsible for the production of platelets""",http://www.wikidata.org/entity/Q821701
+LIBSRC-LIB36-ENT-WRD-0030101,descriptive_identity,"""glial cell located throughout the brain and spinal cord""",http://www.wikidata.org/entity/Q1622829
+LIBSRC-LIB36-ENT-WRD-0030101,anatomical_relationship,"""central nervous system""",http://www.wikidata.org/entity/Q1622829
+LIBSRC-LIB36-ENT-WRD-0083027,descriptive_identity,"""rigid organ that constitutes part of the endoskeleton of vertebrates""",http://www.wikidata.org/entity/Q265868
+LIBSRC-LIB36-ENT-WRD-0083027,anatomical_relationship,"""skeleton""",http://www.wikidata.org/entity/Q265868
+LIBSRC-LIB36-ENT-WRD-0030805,descriptive_identity,"""facial bone""",http://www.wikidata.org/entity/Q193527
+LIBSRC-LIB36-ENT-WRD-0029696,descriptive_identity,"""duct joining the pancreas to the common bile duct""",http://www.wikidata.org/entity/Q668063
+LIBSRC-LIB36-ENT-WRD-0029696,anatomical_identity,"""duct""",http://www.wikidata.org/entity/Q668063
+LIBSRC-LIB36-ENT-WRD-0029513,descriptive_identity,"""artery that supplies blood to the uterus""",http://www.wikidata.org/entity/Q707674
+LIBSRC-LIB36-ENT-WRD-0029513,anatomical_identity,"""subdivision of anterior division of internal iliac artery""",http://www.wikidata.org/entity/Q707674
+LIBSRC-LIB36-ENT-WRD-0030362,descriptive_identity,"""erectile organ with internal and external anatomy, part of the vulva""",http://www.wikidata.org/entity/Q873072
+LIBSRC-LIB36-ENT-WRD-0030362,anatomical_relationship,"""vulva""",http://www.wikidata.org/entity/Q873072
