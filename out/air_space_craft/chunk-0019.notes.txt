@@ -1,0 +1,6 @@
+Queried Wikidata API (wbsearchentities, wbgetentities) for all subjects.
+Extracted instance of (P31) for entity resolution.
+The dataset is comprised entirely of sporting events, horse races, tournaments, and similar entities.
+These entities do not match the target category 'air_space_craft'.
+Empty output file is strictly correct due to domain mismatch.
+Sample top classes found: Q3001412 (horse race), Q18131152 (round), Q15900616 (event sequence).
