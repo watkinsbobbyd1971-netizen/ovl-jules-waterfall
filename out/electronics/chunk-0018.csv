@@ -1,0 +1,492 @@
+canonical_dedup_key,column_name,value,source_url
+DRV-CORPUS-L07-0000261,component_relationship,"""Hyacinthoides non-scripta""",https://www.wikidata.org/wiki/Q4930213
+DRV-CORPUS-L07-0000261,descriptive_identity,"""temperate deciduous forest""",https://www.wikidata.org/wiki/Q4930213
+DRV-CORPUS-L07-0000261,descriptive_identity,"""old-growth forest""",https://www.wikidata.org/wiki/Q4930213
+DRV-CORPUS-L07-0000285,descriptive_identity,"""sports terminology""",https://www.wikidata.org/wiki/Q125400265
+DRV-CORPUS-L07-0000285,descriptive_identity,"""mallet""",https://www.wikidata.org/wiki/Q125400265
+DRV-CORPUS-L07-0000285,descriptive_identity,"""bats, rackets, sticks and clubs""",https://www.wikidata.org/wiki/Q125400265
+DRV-CORPUS-L07-0000324,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q122312221
+DRV-CORPUS-L07-0001018,descriptive_identity,"""type of jewelry""",https://www.wikidata.org/wiki/Q488720
+DRV-CORPUS-L07-0001018,descriptive_identity,"""bracelet""",https://www.wikidata.org/wiki/Q488720
+DRV-CORPUS-L07-0001091,descriptive_identity,"""single""",https://www.wikidata.org/wiki/Q11894470
+DRV-CORPUS-L07-0001099,descriptive_identity,"""shoe style""",https://www.wikidata.org/wiki/Q805212
+DRV-CORPUS-L07-0001099,descriptive_identity,"""slip-on shoe""",https://www.wikidata.org/wiki/Q805212
+DRV-CORPUS-L07-0004803,descriptive_identity,"""necklace""",https://www.wikidata.org/wiki/Q111274740
+DRV-CORPUS-L07-0004803,mass,"""164.07""",https://www.wikidata.org/wiki/Q111274740
+DRV-CORPUS-L07-0004803,material_identity,"""gold""",https://www.wikidata.org/wiki/Q111274740
+DRV-CORPUS-L07-0004897,descriptive_identity,"""jewelry""",https://www.wikidata.org/wiki/Q111969309
+DRV-CORPUS-L07-0004897,mass,"""22.4""",https://www.wikidata.org/wiki/Q111969309
+DRV-CORPUS-L07-0004897,material_identity,"""vitreous enamel""",https://www.wikidata.org/wiki/Q111969309
+DRV-CORPUS-L07-0005004,descriptive_identity,"""jewelry""",https://www.wikidata.org/wiki/Q111970350
+DRV-CORPUS-L07-0005004,material_identity,"""gold""",https://www.wikidata.org/wiki/Q111970350
+DRV-CORPUS-L07-0005049,descriptive_identity,"""film""",https://www.wikidata.org/wiki/Q7750409
+DRV-CORPUS-L07-0005052,descriptive_identity,"""jewelry""",https://www.wikidata.org/wiki/Q111970693
+DRV-CORPUS-L07-0005052,material_identity,"""gold""",https://www.wikidata.org/wiki/Q111970693
+DRV-CORPUS-L07-0005074,descriptive_identity,"""jewelry""",https://www.wikidata.org/wiki/Q111970744
+DRV-CORPUS-L07-0005074,material_identity,"""gold""",https://www.wikidata.org/wiki/Q111970744
+DRV-CORPUS-L07-0005074,material_identity,"""niello""",https://www.wikidata.org/wiki/Q111970744
+DRV-CORPUS-L07-0005084,descriptive_identity,"""jewelry""",https://www.wikidata.org/wiki/Q111970763
+DRV-CORPUS-L07-0005084,material_identity,"""gold""",https://www.wikidata.org/wiki/Q111970763
+DRV-CORPUS-L07-0007914,descriptive_identity,"""headgear""",https://www.wikidata.org/wiki/Q173603
+DRV-CORPUS-L07-0007914,descriptive_identity,"""body armor""",https://www.wikidata.org/wiki/Q173603
+DRV-CORPUS-L07-0007914,descriptive_identity,"""protective clothing""",https://www.wikidata.org/wiki/Q173603
+DRV-CORPUS-L07-0008755,descriptive_identity,"""decorative art""",https://www.wikidata.org/wiki/Q125301462
+DRV-CORPUS-L07-0008755,descriptive_identity,"""jewelry""",https://www.wikidata.org/wiki/Q125301462
+DRV-CORPUS-L07-0008755,manufacturer_or_creator,"""Robin Kranitzky""",https://www.wikidata.org/wiki/Q125301462
+DRV-CORPUS-L07-0008755,manufacturer_or_creator,"""Kim Overstreet""",https://www.wikidata.org/wiki/Q125301462
+DRV-CORPUS-L07-0008755,material_identity,"""metal""",https://www.wikidata.org/wiki/Q125301462
+DRV-CORPUS-L07-0008755,material_identity,"""paint""",https://www.wikidata.org/wiki/Q125301462
+DRV-CORPUS-L07-0008755,material_identity,"""wood""",https://www.wikidata.org/wiki/Q125301462
+DRV-CORPUS-L07-0008755,material_identity,"""plastic""",https://www.wikidata.org/wiki/Q125301462
+DRV-CORPUS-L07-0010477,descriptive_identity,"""amulet""",https://www.wikidata.org/wiki/Q139342045
+DRV-CORPUS-L07-0010477,descriptive_identity,"""archaeological find""",https://www.wikidata.org/wiki/Q139342045
+DRV-CORPUS-L07-0010477,material_identity,"""bronze""",https://www.wikidata.org/wiki/Q139342045
+DRV-CORPUS-L07-0010490,descriptive_identity,"""wig""",https://www.wikidata.org/wiki/Q139358397
+DRV-CORPUS-L07-0010490,descriptive_identity,"""archaeological find""",https://www.wikidata.org/wiki/Q139358397
+DRV-CORPUS-L07-0010490,material_identity,"""bronze""",https://www.wikidata.org/wiki/Q139358397
+DRV-CORPUS-L07-0010490,material_identity,"""organic matter""",https://www.wikidata.org/wiki/Q139358397
+DRV-CORPUS-L07-0010615,descriptive_identity,"""shield""",https://www.wikidata.org/wiki/Q140256381
+DRV-CORPUS-L07-0010615,descriptive_identity,"""looted property""",https://www.wikidata.org/wiki/Q140256381
+DRV-CORPUS-L07-0011886,descriptive_identity,"""pectoral""",https://www.wikidata.org/wiki/Q30090651
+DRV-CORPUS-L07-0011886,dimension_length,"""20.5""",https://www.wikidata.org/wiki/Q30090651
+DRV-CORPUS-L07-0011886,material_identity,"""gold""",https://www.wikidata.org/wiki/Q30090651
+DRV-CORPUS-L07-0012154,descriptive_identity,"""royal crown""",https://www.wikidata.org/wiki/Q3693962
+DRV-CORPUS-L07-0012154,mass,"""1.5""",https://www.wikidata.org/wiki/Q3693962
+DRV-CORPUS-L07-0019521,descriptive_identity,"""furniture""",https://www.wikidata.org/wiki/Q104854400
+DRV-CORPUS-L07-0019521,descriptive_identity,"""chest""",https://www.wikidata.org/wiki/Q104854400
+DRV-CORPUS-L07-0022870,descriptive_identity,"""box""",https://www.wikidata.org/wiki/Q111970079
+DRV-CORPUS-L07-0022870,material_identity,"""ivory""",https://www.wikidata.org/wiki/Q111970079
+DRV-CORPUS-L07-0022894,descriptive_identity,"""tableware""",https://www.wikidata.org/wiki/Q111970654
+DRV-CORPUS-L07-0022894,material_identity,"""silver""",https://www.wikidata.org/wiki/Q111970654
+DRV-CORPUS-L07-0031300,descriptive_identity,"""sarcophagus""",https://www.wikidata.org/wiki/Q117424888
+DRV-CORPUS-L07-0031300,descriptive_identity,"""archaeological find""",https://www.wikidata.org/wiki/Q117424888
+DRV-CORPUS-L07-0031300,material_identity,"""bronze""",https://www.wikidata.org/wiki/Q117424888
+DRV-CORPUS-L07-0031300,material_identity,"""wood""",https://www.wikidata.org/wiki/Q117424888
+DRV-CORPUS-L07-0031300,material_identity,"""stucco""",https://www.wikidata.org/wiki/Q117424888
+DRV-CORPUS-L07-0031416,descriptive_identity,"""container""",https://www.wikidata.org/wiki/Q117475726
+DRV-CORPUS-L07-0031417,descriptive_identity,"""vessel""",https://www.wikidata.org/wiki/Q117475729
+DRV-CORPUS-L07-0035289,descriptive_identity,"""textile machine""",https://www.wikidata.org/wiki/Q125823113
+DRV-CORPUS-L07-0038768,component_relationship,"""tain""",https://www.wikidata.org/wiki/Q35197
+DRV-CORPUS-L07-0038768,component_relationship,"""glass""",https://www.wikidata.org/wiki/Q35197
+DRV-CORPUS-L07-0038768,descriptive_identity,"""product category""",https://www.wikidata.org/wiki/Q35197
+DRV-CORPUS-L07-0038768,descriptive_identity,"""optical component""",https://www.wikidata.org/wiki/Q35197
+DRV-CORPUS-L07-0038768,descriptive_identity,"""art material""",https://www.wikidata.org/wiki/Q35197
+DRV-CORPUS-L07-0038768,descriptive_identity,"""product""",https://www.wikidata.org/wiki/Q35197
+DRV-CORPUS-L07-0038768,descriptive_identity,"""archaeological artefact""",https://www.wikidata.org/wiki/Q35197
+DRV-CORPUS-L07-0038768,descriptive_identity,"""artificial physical object""",https://www.wikidata.org/wiki/Q35197
+DRV-CORPUS-L07-0038768,descriptive_identity,"""toilet article""",https://www.wikidata.org/wiki/Q35197
+DRV-CORPUS-L07-0039816,descriptive_identity,"""sculpture""",https://www.wikidata.org/wiki/Q137779312
+DRV-CORPUS-L07-0039816,descriptive_identity,"""sarcophagus""",https://www.wikidata.org/wiki/Q137779312
+DRV-CORPUS-L07-0039816,dimension_length,"""2.40""",https://www.wikidata.org/wiki/Q137779312
+DRV-CORPUS-L07-0039816,material_identity,"""marble""",https://www.wikidata.org/wiki/Q137779312
+DRV-CORPUS-L07-0042665,descriptive_identity,"""chalice""",https://www.wikidata.org/wiki/Q140325754
+DRV-CORPUS-L07-0042665,descriptive_identity,"""looted property""",https://www.wikidata.org/wiki/Q140325754
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP13340-REC2667946,descriptive_identity,"""type of clock""",https://www.wikidata.org/wiki/Q2892090
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP13340-REC2667946,descriptive_identity,"""clock""",https://www.wikidata.org/wiki/Q2892090
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP13493-REC2698466,descriptive_identity,"""type of object""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP13493-REC2698466,descriptive_identity,"""machine""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP13493-REC2698466,descriptive_identity,"""metrological mechanism""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP13493-REC2698466,descriptive_identity,"""timepiece""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP13493-REC2698466,descriptive_identity,"""decorative object""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP13623-REC2724506,descriptive_identity,"""type of object""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP13623-REC2724506,descriptive_identity,"""machine""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP13623-REC2724506,descriptive_identity,"""metrological mechanism""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP13623-REC2724506,descriptive_identity,"""timepiece""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP13623-REC2724506,descriptive_identity,"""decorative object""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14163-REC2832586,descriptive_identity,"""type of object""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14163-REC2832586,descriptive_identity,"""machine""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14163-REC2832586,descriptive_identity,"""metrological mechanism""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14163-REC2832586,descriptive_identity,"""timepiece""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14163-REC2832586,descriptive_identity,"""decorative object""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14198-REC2839586,descriptive_identity,"""type of object""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14198-REC2839586,descriptive_identity,"""machine""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14198-REC2839586,descriptive_identity,"""metrological mechanism""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14198-REC2839586,descriptive_identity,"""timepiece""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14198-REC2839586,descriptive_identity,"""decorative object""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14288-REC2857506,descriptive_identity,"""type of object""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14288-REC2857506,descriptive_identity,"""machine""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14288-REC2857506,descriptive_identity,"""metrological mechanism""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14288-REC2857506,descriptive_identity,"""timepiece""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14288-REC2857506,descriptive_identity,"""decorative object""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14294-REC2858626,descriptive_identity,"""type of object""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14294-REC2858626,descriptive_identity,"""machine""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14294-REC2858626,descriptive_identity,"""metrological mechanism""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14294-REC2858626,descriptive_identity,"""timepiece""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14294-REC2858626,descriptive_identity,"""decorative object""",https://www.wikidata.org/wiki/Q376
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14547-REC2909306,descriptive_identity,"""fashion""",https://www.wikidata.org/wiki/Q1573001
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14547-REC2909306,descriptive_identity,"""fashion style""",https://www.wikidata.org/wiki/Q1573001
+IDB-REG_06-CAT_12-ERA_01-1200-ACC04-HOP14712-REC2942346,descriptive_identity,"""telegraph""",https://www.wikidata.org/wiki/Q1156388
+IDB-REG_06-CAT_14-ERA_02-1650-ACC04-HOP15497-REC3099336,descriptive_identity,"""Animalia""",https://www.gbif.org/species/4827248
+IDB-REG_06-CAT_14-ERA_02-1650-ACC04-HOP15497-REC3099336,descriptive_identity,"""Chordata""",https://www.gbif.org/species/4827248
+IDB-REG_06-CAT_14-ERA_02-1650-ACC04-HOP15497-REC3099336,descriptive_identity,"""Mammalia""",https://www.gbif.org/species/4827248
+IDB-REG_06-CAT_14-ERA_02-1650-ACC04-HOP15497-REC3099336,descriptive_identity,"""Primates""",https://www.gbif.org/species/4827248
+IDB-REG_06-CAT_14-ERA_02-1650-ACC04-HOP15497-REC3099336,descriptive_identity,"""Cercopithecidae""",https://www.gbif.org/species/4827248
+IDB-REG_06-CAT_14-ERA_05-1965-ACC04-HOP13764-REC2752776,descriptive_identity,"""Bacteria""",https://www.gbif.org/species/12244761
+IDB-REG_06-CAT_14-ERA_05-1965-ACC04-HOP13764-REC2752776,descriptive_identity,"""Desulfobacterota_G""",https://www.gbif.org/species/12244761
+IDB-REG_06-CAT_14-ERA_05-1965-ACC04-HOP13764-REC2752776,descriptive_identity,"""Syntrophorhabdia""",https://www.gbif.org/species/12244761
+IDB-REG_06-CAT_14-ERA_05-1965-ACC04-HOP13764-REC2752776,descriptive_identity,"""Syntrophorhabdales""",https://www.gbif.org/species/12244761
+IDB-REG_06-CAT_14-ERA_05-1965-ACC04-HOP13764-REC2752776,descriptive_identity,"""Syntrophorhabdaceae""",https://www.gbif.org/species/12244761
+LIBSRC-LIB36-ENT-WRD-0006948,descriptive_identity,"""Bacteria""",https://www.gbif.org/species/8095
+LIBSRC-LIB36-ENT-WRD-0006948,descriptive_identity,"""Bacteroidota""",https://www.gbif.org/species/8095
+LIBSRC-LIB36-ENT-WRD-0006948,descriptive_identity,"""Bacteroidia""",https://www.gbif.org/species/8095
+LIBSRC-LIB36-ENT-WRD-0006948,descriptive_identity,"""Bacteroidales""",https://www.gbif.org/species/8095
+LIBSRC-LIB36-ENT-WRD-0006948,descriptive_identity,"""Bacteroidaceae""",https://www.gbif.org/species/8095
+LIBSRC-LIB36-ENT-WRD-0007100,descriptive_identity,"""Chromista""",https://www.gbif.org/species/8213433
+LIBSRC-LIB36-ENT-WRD-0007100,descriptive_identity,"""Foraminifera""",https://www.gbif.org/species/8213433
+LIBSRC-LIB36-ENT-WRD-0007100,descriptive_identity,"""Globothalamea""",https://www.gbif.org/species/8213433
+LIBSRC-LIB36-ENT-WRD-0007100,descriptive_identity,"""Rotaliida""",https://www.gbif.org/species/8213433
+LIBSRC-LIB36-ENT-WRD-0007100,descriptive_identity,"""Nummulitidae""",https://www.gbif.org/species/8213433
+LIBSRC-LIB36-ENT-WRD-0007182,descriptive_identity,"""Plantae""",https://www.gbif.org/species/641
+LIBSRC-LIB36-ENT-WRD-0007182,descriptive_identity,"""Chlorophyta""",https://www.gbif.org/species/641
+LIBSRC-LIB36-ENT-WRD-0007182,descriptive_identity,"""Ulvophyceae""",https://www.gbif.org/species/641
+LIBSRC-LIB36-ENT-WRD-0007182,descriptive_identity,"""Ulvales""",https://www.gbif.org/species/641
+LIBSRC-LIB36-ENT-WRD-0007285,descriptive_identity,"""Chromista""",https://www.gbif.org/species/3235419
+LIBSRC-LIB36-ENT-WRD-0007285,descriptive_identity,"""Myzozoa""",https://www.gbif.org/species/3235419
+LIBSRC-LIB36-ENT-WRD-0007285,descriptive_identity,"""Conoidasida""",https://www.gbif.org/species/3235419
+LIBSRC-LIB36-ENT-WRD-0007285,descriptive_identity,"""Eucoccidiorida""",https://www.gbif.org/species/3235419
+LIBSRC-LIB36-ENT-WRD-0007285,descriptive_identity,"""Sarcocystidae""",https://www.gbif.org/species/3235419
+LIBSRC-LIB36-ENT-WRD-0007549,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2204
+LIBSRC-LIB36-ENT-WRD-0007549,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2204
+LIBSRC-LIB36-ENT-WRD-0007549,descriptive_identity,"""Elasmobranchii""",https://www.gbif.org/species/2204
+LIBSRC-LIB36-ENT-WRD-0007549,descriptive_identity,"""Hexanchiformes""",https://www.gbif.org/species/2204
+LIBSRC-LIB36-ENT-WRD-0007549,descriptive_identity,"""Hexanchidae""",https://www.gbif.org/species/2204
+LIBSRC-LIB36-ENT-WRD-0007748,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2494621
+LIBSRC-LIB36-ENT-WRD-0007748,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2494621
+LIBSRC-LIB36-ENT-WRD-0007748,descriptive_identity,"""Aves""",https://www.gbif.org/species/2494621
+LIBSRC-LIB36-ENT-WRD-0007748,descriptive_identity,"""Passeriformes""",https://www.gbif.org/species/2494621
+LIBSRC-LIB36-ENT-WRD-0007748,descriptive_identity,"""Fringillidae""",https://www.gbif.org/species/2494621
+LIBSRC-LIB36-ENT-WRD-0007808,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2494310
+LIBSRC-LIB36-ENT-WRD-0007808,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2494310
+LIBSRC-LIB36-ENT-WRD-0007808,descriptive_identity,"""Aves""",https://www.gbif.org/species/2494310
+LIBSRC-LIB36-ENT-WRD-0007808,descriptive_identity,"""Passeriformes""",https://www.gbif.org/species/2494310
+LIBSRC-LIB36-ENT-WRD-0007808,descriptive_identity,"""Fringillidae""",https://www.gbif.org/species/2494310
+LIBSRC-LIB36-ENT-WRD-0007846,descriptive_identity,"""Animalia""",https://www.gbif.org/species/5707
+LIBSRC-LIB36-ENT-WRD-0007846,descriptive_identity,"""Chordata""",https://www.gbif.org/species/5707
+LIBSRC-LIB36-ENT-WRD-0007846,descriptive_identity,"""Aves""",https://www.gbif.org/species/5707
+LIBSRC-LIB36-ENT-WRD-0007846,descriptive_identity,"""Passeriformes""",https://www.gbif.org/species/5707
+LIBSRC-LIB36-ENT-WRD-0007846,descriptive_identity,"""Eurylaimidae""",https://www.gbif.org/species/5707
+LIBSRC-LIB36-ENT-WRD-0007936,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2492460
+LIBSRC-LIB36-ENT-WRD-0007936,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2492460
+LIBSRC-LIB36-ENT-WRD-0007936,descriptive_identity,"""Aves""",https://www.gbif.org/species/2492460
+LIBSRC-LIB36-ENT-WRD-0007936,descriptive_identity,"""Passeriformes""",https://www.gbif.org/species/2492460
+LIBSRC-LIB36-ENT-WRD-0007936,descriptive_identity,"""Muscicapidae""",https://www.gbif.org/species/2492460
+LIBSRC-LIB36-ENT-WRD-0007965,descriptive_identity,"""Animalia""",https://www.gbif.org/species/5263
+LIBSRC-LIB36-ENT-WRD-0007965,descriptive_identity,"""Chordata""",https://www.gbif.org/species/5263
+LIBSRC-LIB36-ENT-WRD-0007965,descriptive_identity,"""Aves""",https://www.gbif.org/species/5263
+LIBSRC-LIB36-ENT-WRD-0007965,descriptive_identity,"""Passeriformes""",https://www.gbif.org/species/5263
+LIBSRC-LIB36-ENT-WRD-0007965,descriptive_identity,"""Parulidae""",https://www.gbif.org/species/5263
+LIBSRC-LIB36-ENT-WRD-0008063,descriptive_identity,"""Animalia""",https://www.gbif.org/species/9308
+LIBSRC-LIB36-ENT-WRD-0008063,descriptive_identity,"""Chordata""",https://www.gbif.org/species/9308
+LIBSRC-LIB36-ENT-WRD-0008063,descriptive_identity,"""Aves""",https://www.gbif.org/species/9308
+LIBSRC-LIB36-ENT-WRD-0008063,descriptive_identity,"""Passeriformes""",https://www.gbif.org/species/9308
+LIBSRC-LIB36-ENT-WRD-0008063,descriptive_identity,"""Cracticidae""",https://www.gbif.org/species/9308
+LIBSRC-LIB36-ENT-WRD-0008152,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2488483
+LIBSRC-LIB36-ENT-WRD-0008152,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2488483
+LIBSRC-LIB36-ENT-WRD-0008152,descriptive_identity,"""Aves""",https://www.gbif.org/species/2488483
+LIBSRC-LIB36-ENT-WRD-0008152,descriptive_identity,"""Passeriformes""",https://www.gbif.org/species/2488483
+LIBSRC-LIB36-ENT-WRD-0008152,descriptive_identity,"""Cardinalidae""",https://www.gbif.org/species/2488483
+LIBSRC-LIB36-ENT-WRD-0008289,descriptive_identity,"""Animalia""",https://www.gbif.org/species/9348
+LIBSRC-LIB36-ENT-WRD-0008289,descriptive_identity,"""Chordata""",https://www.gbif.org/species/9348
+LIBSRC-LIB36-ENT-WRD-0008289,descriptive_identity,"""Aves""",https://www.gbif.org/species/9348
+LIBSRC-LIB36-ENT-WRD-0008289,descriptive_identity,"""Strigiformes""",https://www.gbif.org/species/9348
+LIBSRC-LIB36-ENT-WRD-0008289,descriptive_identity,"""Strigidae""",https://www.gbif.org/species/9348
+LIBSRC-LIB36-ENT-WRD-0008388,descriptive_identity,"""incertae sedis""",https://www.gbif.org/species/4983739
+LIBSRC-LIB36-ENT-WRD-0008388,descriptive_identity,"""Salientia""",https://www.gbif.org/species/4983739
+LIBSRC-LIB36-ENT-WRD-0008532,descriptive_identity,"""Animalia""",https://www.gbif.org/species/9618
+LIBSRC-LIB36-ENT-WRD-0008532,descriptive_identity,"""Chordata""",https://www.gbif.org/species/9618
+LIBSRC-LIB36-ENT-WRD-0008532,descriptive_identity,"""Testudines""",https://www.gbif.org/species/9618
+LIBSRC-LIB36-ENT-WRD-0008532,descriptive_identity,"""Testudinidae""",https://www.gbif.org/species/9618
+LIBSRC-LIB36-ENT-WRD-0008690,descriptive_identity,"""Animalia""",https://www.gbif.org/species/10960879
+LIBSRC-LIB36-ENT-WRD-0008690,descriptive_identity,"""Chordata""",https://www.gbif.org/species/10960879
+LIBSRC-LIB36-ENT-WRD-0008690,descriptive_identity,"""Aves""",https://www.gbif.org/species/10960879
+LIBSRC-LIB36-ENT-WRD-0008690,descriptive_identity,"""Passeriformes""",https://www.gbif.org/species/10960879
+LIBSRC-LIB36-ENT-WRD-0008690,descriptive_identity,"""Petroicidae""",https://www.gbif.org/species/10960879
+LIBSRC-LIB36-ENT-WRD-0008719,descriptive_identity,"""Animalia""",https://www.gbif.org/species/3238858
+LIBSRC-LIB36-ENT-WRD-0008719,descriptive_identity,"""Chordata""",https://www.gbif.org/species/3238858
+LIBSRC-LIB36-ENT-WRD-0008719,descriptive_identity,"""Ceratopsidae""",https://www.gbif.org/species/3238858
+LIBSRC-LIB36-ENT-WRD-0008809,descriptive_identity,"""Animalia""",https://www.gbif.org/species/9587243
+LIBSRC-LIB36-ENT-WRD-0008809,descriptive_identity,"""Chordata""",https://www.gbif.org/species/9587243
+LIBSRC-LIB36-ENT-WRD-0008809,descriptive_identity,"""Cynodontia""",https://www.gbif.org/species/9587243
+LIBSRC-LIB36-ENT-WRD-0009022,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2444221
+LIBSRC-LIB36-ENT-WRD-0009022,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2444221
+LIBSRC-LIB36-ENT-WRD-0009022,descriptive_identity,"""Squamata""",https://www.gbif.org/species/2444221
+LIBSRC-LIB36-ENT-WRD-0009022,descriptive_identity,"""Viperidae""",https://www.gbif.org/species/2444221
+LIBSRC-LIB36-ENT-WRD-0009085,descriptive_identity,"""Animalia""",https://www.gbif.org/species/5174091
+LIBSRC-LIB36-ENT-WRD-0009085,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/5174091
+LIBSRC-LIB36-ENT-WRD-0009085,descriptive_identity,"""Arachnida""",https://www.gbif.org/species/5174091
+LIBSRC-LIB36-ENT-WRD-0009085,descriptive_identity,"""Ixodida""",https://www.gbif.org/species/5174091
+LIBSRC-LIB36-ENT-WRD-0009085,descriptive_identity,"""Ixodidae""",https://www.gbif.org/species/5174091
+LIBSRC-LIB36-ENT-WRD-0009104,descriptive_identity,"""Animalia""",https://www.gbif.org/species/8453766
+LIBSRC-LIB36-ENT-WRD-0009104,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/8453766
+LIBSRC-LIB36-ENT-WRD-0009104,descriptive_identity,"""Arachnida""",https://www.gbif.org/species/8453766
+LIBSRC-LIB36-ENT-WRD-0009104,descriptive_identity,"""Trombidiformes""",https://www.gbif.org/species/8453766
+LIBSRC-LIB36-ENT-WRD-0009104,descriptive_identity,"""Trombiculidae""",https://www.gbif.org/species/8453766
+LIBSRC-LIB36-ENT-WRD-0009113,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2130085
+LIBSRC-LIB36-ENT-WRD-0009113,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/2130085
+LIBSRC-LIB36-ENT-WRD-0009113,descriptive_identity,"""Arachnida""",https://www.gbif.org/species/2130085
+LIBSRC-LIB36-ENT-WRD-0009113,descriptive_identity,"""Trombidiformes""",https://www.gbif.org/species/2130085
+LIBSRC-LIB36-ENT-WRD-0009113,descriptive_identity,"""Tetranychidae""",https://www.gbif.org/species/2130085
+LIBSRC-LIB36-ENT-WRD-0009141,descriptive_identity,"""Animalia""",https://www.gbif.org/species/1010609
+LIBSRC-LIB36-ENT-WRD-0009141,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/1010609
+LIBSRC-LIB36-ENT-WRD-0009141,descriptive_identity,"""Merostomata""",https://www.gbif.org/species/1010609
+LIBSRC-LIB36-ENT-WRD-0009141,descriptive_identity,"""Xiphosurida""",https://www.gbif.org/species/1010609
+LIBSRC-LIB36-ENT-WRD-0009141,descriptive_identity,"""Limulidae""",https://www.gbif.org/species/1010609
+LIBSRC-LIB36-ENT-WRD-0009180,descriptive_identity,"""Animalia""",https://www.gbif.org/species/4966437
+LIBSRC-LIB36-ENT-WRD-0009180,descriptive_identity,"""Chordata""",https://www.gbif.org/species/4966437
+LIBSRC-LIB36-ENT-WRD-0009180,descriptive_identity,"""Aves""",https://www.gbif.org/species/4966437
+LIBSRC-LIB36-ENT-WRD-0009180,descriptive_identity,"""Galliformes""",https://www.gbif.org/species/4966437
+LIBSRC-LIB36-ENT-WRD-0009180,descriptive_identity,"""Phasianidae""",https://www.gbif.org/species/4966437
+LIBSRC-LIB36-ENT-WRD-0009188,descriptive_identity,"""Animalia""",https://www.gbif.org/species/8692256
+LIBSRC-LIB36-ENT-WRD-0009188,descriptive_identity,"""Chordata""",https://www.gbif.org/species/8692256
+LIBSRC-LIB36-ENT-WRD-0009188,descriptive_identity,"""Aves""",https://www.gbif.org/species/8692256
+LIBSRC-LIB36-ENT-WRD-0009188,descriptive_identity,"""Galliformes""",https://www.gbif.org/species/8692256
+LIBSRC-LIB36-ENT-WRD-0009188,descriptive_identity,"""Phasianidae""",https://www.gbif.org/species/8692256
+LIBSRC-LIB36-ENT-WRD-0009279,descriptive_identity,"""Animalia""",https://www.gbif.org/species/5261
+LIBSRC-LIB36-ENT-WRD-0009279,descriptive_identity,"""Chordata""",https://www.gbif.org/species/5261
+LIBSRC-LIB36-ENT-WRD-0009279,descriptive_identity,"""Aves""",https://www.gbif.org/species/5261
+LIBSRC-LIB36-ENT-WRD-0009279,descriptive_identity,"""Opisthocomiformes""",https://www.gbif.org/species/5261
+LIBSRC-LIB36-ENT-WRD-0009279,descriptive_identity,"""Opisthocomidae""",https://www.gbif.org/species/5261
+LIBSRC-LIB36-ENT-WRD-0009443,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2497061
+LIBSRC-LIB36-ENT-WRD-0009443,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2497061
+LIBSRC-LIB36-ENT-WRD-0009443,descriptive_identity,"""Aves""",https://www.gbif.org/species/2497061
+LIBSRC-LIB36-ENT-WRD-0009443,descriptive_identity,"""Caprimulgiformes""",https://www.gbif.org/species/2497061
+LIBSRC-LIB36-ENT-WRD-0009443,descriptive_identity,"""Caprimulgidae""",https://www.gbif.org/species/2497061
+LIBSRC-LIB36-ENT-WRD-0009589,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2497982
+LIBSRC-LIB36-ENT-WRD-0009589,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2497982
+LIBSRC-LIB36-ENT-WRD-0009589,descriptive_identity,"""Aves""",https://www.gbif.org/species/2497982
+LIBSRC-LIB36-ENT-WRD-0009589,descriptive_identity,"""Anseriformes""",https://www.gbif.org/species/2497982
+LIBSRC-LIB36-ENT-WRD-0009589,descriptive_identity,"""Anhimidae""",https://www.gbif.org/species/2497982
+LIBSRC-LIB36-ENT-WRD-0009625,descriptive_identity,"""Animalia""",https://www.gbif.org/species/5478
+LIBSRC-LIB36-ENT-WRD-0009625,descriptive_identity,"""Chordata""",https://www.gbif.org/species/5478
+LIBSRC-LIB36-ENT-WRD-0009625,descriptive_identity,"""Mammalia""",https://www.gbif.org/species/5478
+LIBSRC-LIB36-ENT-WRD-0009625,descriptive_identity,"""Peramelemorphia""",https://www.gbif.org/species/5478
+LIBSRC-LIB36-ENT-WRD-0009625,descriptive_identity,"""Peramelidae""",https://www.gbif.org/species/5478
+LIBSRC-LIB36-ENT-WRD-0009641,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2440159
+LIBSRC-LIB36-ENT-WRD-0009641,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2440159
+LIBSRC-LIB36-ENT-WRD-0009641,descriptive_identity,"""Mammalia""",https://www.gbif.org/species/2440159
+LIBSRC-LIB36-ENT-WRD-0009641,descriptive_identity,"""Diprotodontia""",https://www.gbif.org/species/2440159
+LIBSRC-LIB36-ENT-WRD-0009641,descriptive_identity,"""Macropodidae""",https://www.gbif.org/species/2440159
+LIBSRC-LIB36-ENT-WRD-0009857,descriptive_identity,"""Animalia""",https://www.gbif.org/species/9246
+LIBSRC-LIB36-ENT-WRD-0009857,descriptive_identity,"""Cnidaria""",https://www.gbif.org/species/9246
+LIBSRC-LIB36-ENT-WRD-0009857,descriptive_identity,"""Anthozoa""",https://www.gbif.org/species/9246
+LIBSRC-LIB36-ENT-WRD-0009857,descriptive_identity,"""Scleralcyonacea""",https://www.gbif.org/species/9246
+LIBSRC-LIB36-ENT-WRD-0009857,descriptive_identity,"""Pennatulidae""",https://www.gbif.org/species/9246
+LIBSRC-LIB36-ENT-WRD-0009920,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2505831
+LIBSRC-LIB36-ENT-WRD-0009920,descriptive_identity,"""Platyhelminthes""",https://www.gbif.org/species/2505831
+LIBSRC-LIB36-ENT-WRD-0009920,descriptive_identity,"""Trematoda""",https://www.gbif.org/species/2505831
+LIBSRC-LIB36-ENT-WRD-0009920,descriptive_identity,"""Plagiorchiida""",https://www.gbif.org/species/2505831
+LIBSRC-LIB36-ENT-WRD-0009920,descriptive_identity,"""Fasciolidae""",https://www.gbif.org/species/2505831
+LIBSRC-LIB36-ENT-WRD-0009992,descriptive_identity,"""Animalia""",https://www.gbif.org/species/276
+LIBSRC-LIB36-ENT-WRD-0009992,descriptive_identity,"""Mollusca""",https://www.gbif.org/species/276
+LIBSRC-LIB36-ENT-WRD-0009992,descriptive_identity,"""Scaphopoda""",https://www.gbif.org/species/276
+LIBSRC-LIB36-ENT-WRD-0010300,descriptive_identity,"""Animalia""",https://www.gbif.org/species/544
+LIBSRC-LIB36-ENT-WRD-0010300,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/544
+LIBSRC-LIB36-ENT-WRD-0010300,descriptive_identity,"""Branchiopoda""",https://www.gbif.org/species/544
+LIBSRC-LIB36-ENT-WRD-0010300,descriptive_identity,"""Anostraca""",https://www.gbif.org/species/544
+LIBSRC-LIB36-ENT-WRD-0010308,descriptive_identity,"""Animalia""",https://www.gbif.org/species/11545536
+LIBSRC-LIB36-ENT-WRD-0010308,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/11545536
+LIBSRC-LIB36-ENT-WRD-0010308,descriptive_identity,"""Copepoda""",https://www.gbif.org/species/11545536
+LIBSRC-LIB36-ENT-WRD-0010331,descriptive_identity,"""Animalia""",https://www.gbif.org/species/1898
+LIBSRC-LIB36-ENT-WRD-0010331,descriptive_identity,"""Onychophora""",https://www.gbif.org/species/1898
+LIBSRC-LIB36-ENT-WRD-0010331,descriptive_identity,"""Peripatopsidae""",https://www.gbif.org/species/1898
+LIBSRC-LIB36-ENT-WRD-0010479,descriptive_identity,"""Animalia""",https://www.gbif.org/species/9734962
+LIBSRC-LIB36-ENT-WRD-0010479,descriptive_identity,"""Chordata""",https://www.gbif.org/species/9734962
+LIBSRC-LIB36-ENT-WRD-0010479,descriptive_identity,"""Aves""",https://www.gbif.org/species/9734962
+LIBSRC-LIB36-ENT-WRD-0010479,descriptive_identity,"""Charadriiformes""",https://www.gbif.org/species/9734962
+LIBSRC-LIB36-ENT-WRD-0010479,descriptive_identity,"""Scolopacidae""",https://www.gbif.org/species/9734962
+LIBSRC-LIB36-ENT-WRD-0010544,descriptive_identity,"""Animalia""",https://www.gbif.org/species/9549339
+LIBSRC-LIB36-ENT-WRD-0010544,descriptive_identity,"""Chordata""",https://www.gbif.org/species/9549339
+LIBSRC-LIB36-ENT-WRD-0010544,descriptive_identity,"""Aves""",https://www.gbif.org/species/9549339
+LIBSRC-LIB36-ENT-WRD-0010544,descriptive_identity,"""Charadriiformes""",https://www.gbif.org/species/9549339
+LIBSRC-LIB36-ENT-WRD-0010544,descriptive_identity,"""Scolopacidae""",https://www.gbif.org/species/9549339
+LIBSRC-LIB36-ENT-WRD-0010550,descriptive_identity,"""Animalia""",https://www.gbif.org/species/5245
+LIBSRC-LIB36-ENT-WRD-0010550,descriptive_identity,"""Chordata""",https://www.gbif.org/species/5245
+LIBSRC-LIB36-ENT-WRD-0010550,descriptive_identity,"""Aves""",https://www.gbif.org/species/5245
+LIBSRC-LIB36-ENT-WRD-0010550,descriptive_identity,"""Charadriiformes""",https://www.gbif.org/species/5245
+LIBSRC-LIB36-ENT-WRD-0010550,descriptive_identity,"""Glareolidae""",https://www.gbif.org/species/5245
+LIBSRC-LIB36-ENT-WRD-0010612,descriptive_identity,"""Animalia""",https://www.gbif.org/species/7192754
+LIBSRC-LIB36-ENT-WRD-0010612,descriptive_identity,"""Chordata""",https://www.gbif.org/species/7192754
+LIBSRC-LIB36-ENT-WRD-0010612,descriptive_identity,"""Aves""",https://www.gbif.org/species/7192754
+LIBSRC-LIB36-ENT-WRD-0010612,descriptive_identity,"""Gaviiformes""",https://www.gbif.org/species/7192754
+LIBSRC-LIB36-ENT-WRD-0010628,descriptive_identity,"""Animalia""",https://www.gbif.org/species/7190953
+LIBSRC-LIB36-ENT-WRD-0010628,descriptive_identity,"""Chordata""",https://www.gbif.org/species/7190953
+LIBSRC-LIB36-ENT-WRD-0010628,descriptive_identity,"""Aves""",https://www.gbif.org/species/7190953
+LIBSRC-LIB36-ENT-WRD-0010628,descriptive_identity,"""Pelecaniformes""",https://www.gbif.org/species/7190953
+LIBSRC-LIB36-ENT-WRD-0010682,descriptive_identity,"""Animalia""",https://www.gbif.org/species/5229335
+LIBSRC-LIB36-ENT-WRD-0010682,descriptive_identity,"""Chordata""",https://www.gbif.org/species/5229335
+LIBSRC-LIB36-ENT-WRD-0010682,descriptive_identity,"""Aves""",https://www.gbif.org/species/5229335
+LIBSRC-LIB36-ENT-WRD-0010682,descriptive_identity,"""Procellariiformes""",https://www.gbif.org/species/5229335
+LIBSRC-LIB36-ENT-WRD-0010682,descriptive_identity,"""Procellariidae""",https://www.gbif.org/species/5229335
+LIBSRC-LIB36-ENT-WRD-0010705,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2440708
+LIBSRC-LIB36-ENT-WRD-0010705,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2440708
+LIBSRC-LIB36-ENT-WRD-0010705,descriptive_identity,"""Mammalia""",https://www.gbif.org/species/2440708
+LIBSRC-LIB36-ENT-WRD-0010705,descriptive_identity,"""Cetacea""",https://www.gbif.org/species/2440708
+LIBSRC-LIB36-ENT-WRD-0010705,descriptive_identity,"""Balaenopteridae""",https://www.gbif.org/species/2440708
+LIBSRC-LIB36-ENT-WRD-0011083,descriptive_identity,"""Animalia""",https://www.gbif.org/species/11963357
+LIBSRC-LIB36-ENT-WRD-0011083,descriptive_identity,"""Brachiopoda""",https://www.gbif.org/species/11963357
+LIBSRC-LIB36-ENT-WRD-0011083,descriptive_identity,"""Rhynchonellata""",https://www.gbif.org/species/11963357
+LIBSRC-LIB36-ENT-WRD-0011083,descriptive_identity,"""Platystrophiidae""",https://www.gbif.org/species/11963357
+LIBSRC-LIB36-ENT-WRD-0011214,descriptive_identity,"""Animalia""",https://www.gbif.org/species/5719
+LIBSRC-LIB36-ENT-WRD-0011214,descriptive_identity,"""Chordata""",https://www.gbif.org/species/5719
+LIBSRC-LIB36-ENT-WRD-0011214,descriptive_identity,"""Mammalia""",https://www.gbif.org/species/5719
+LIBSRC-LIB36-ENT-WRD-0011214,descriptive_identity,"""Chiroptera""",https://www.gbif.org/species/5719
+LIBSRC-LIB36-ENT-WRD-0011214,descriptive_identity,"""Molossidae""",https://www.gbif.org/species/5719
+LIBSRC-LIB36-ENT-WRD-0011289,descriptive_identity,"""Animalia""",https://www.gbif.org/species/6991
+LIBSRC-LIB36-ENT-WRD-0011289,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/6991
+LIBSRC-LIB36-ENT-WRD-0011289,descriptive_identity,"""Insecta""",https://www.gbif.org/species/6991
+LIBSRC-LIB36-ENT-WRD-0011289,descriptive_identity,"""Mecoptera""",https://www.gbif.org/species/6991
+LIBSRC-LIB36-ENT-WRD-0011289,descriptive_identity,"""Bittacidae""",https://www.gbif.org/species/6991
+LIBSRC-LIB36-ENT-WRD-0011309,descriptive_identity,"""Animalia""",https://www.gbif.org/species/3792
+LIBSRC-LIB36-ENT-WRD-0011309,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/3792
+LIBSRC-LIB36-ENT-WRD-0011309,descriptive_identity,"""Insecta""",https://www.gbif.org/species/3792
+LIBSRC-LIB36-ENT-WRD-0011309,descriptive_identity,"""Coleoptera""",https://www.gbif.org/species/3792
+LIBSRC-LIB36-ENT-WRD-0011309,descriptive_identity,"""Carabidae""",https://www.gbif.org/species/3792
+LIBSRC-LIB36-ENT-WRD-0011469,descriptive_identity,"""Animalia""",https://www.gbif.org/species/9499
+LIBSRC-LIB36-ENT-WRD-0011469,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/9499
+LIBSRC-LIB36-ENT-WRD-0011469,descriptive_identity,"""Insecta""",https://www.gbif.org/species/9499
+LIBSRC-LIB36-ENT-WRD-0011469,descriptive_identity,"""Diptera""",https://www.gbif.org/species/9499
+LIBSRC-LIB36-ENT-WRD-0011469,descriptive_identity,"""Oestridae""",https://www.gbif.org/species/9499
+LIBSRC-LIB36-ENT-WRD-0011487,descriptive_identity,"""Animalia""",https://www.gbif.org/species/5547
+LIBSRC-LIB36-ENT-WRD-0011487,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/5547
+LIBSRC-LIB36-ENT-WRD-0011487,descriptive_identity,"""Insecta""",https://www.gbif.org/species/5547
+LIBSRC-LIB36-ENT-WRD-0011487,descriptive_identity,"""Diptera""",https://www.gbif.org/species/5547
+LIBSRC-LIB36-ENT-WRD-0011487,descriptive_identity,"""Drosophilidae""",https://www.gbif.org/species/5547
+LIBSRC-LIB36-ENT-WRD-0011629,descriptive_identity,"""Animalia""",https://www.gbif.org/species/1314881
+LIBSRC-LIB36-ENT-WRD-0011629,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/1314881
+LIBSRC-LIB36-ENT-WRD-0011629,descriptive_identity,"""Insecta""",https://www.gbif.org/species/1314881
+LIBSRC-LIB36-ENT-WRD-0011629,descriptive_identity,"""Hymenoptera""",https://www.gbif.org/species/1314881
+LIBSRC-LIB36-ENT-WRD-0011629,descriptive_identity,"""Formicidae""",https://www.gbif.org/species/1314881
+LIBSRC-LIB36-ENT-WRD-0011641,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2007365
+LIBSRC-LIB36-ENT-WRD-0011641,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/2007365
+LIBSRC-LIB36-ENT-WRD-0011641,descriptive_identity,"""Insecta""",https://www.gbif.org/species/2007365
+LIBSRC-LIB36-ENT-WRD-0011641,descriptive_identity,"""Blattodea""",https://www.gbif.org/species/2007365
+LIBSRC-LIB36-ENT-WRD-0011641,descriptive_identity,"""Rhinotermitidae""",https://www.gbif.org/species/2007365
+LIBSRC-LIB36-ENT-WRD-0011646,descriptive_identity,"""Animalia""",https://www.gbif.org/species/8367731
+LIBSRC-LIB36-ENT-WRD-0011646,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/8367731
+LIBSRC-LIB36-ENT-WRD-0011646,descriptive_identity,"""Insecta""",https://www.gbif.org/species/8367731
+LIBSRC-LIB36-ENT-WRD-0011646,descriptive_identity,"""Blattodea""",https://www.gbif.org/species/8367731
+LIBSRC-LIB36-ENT-WRD-0011646,descriptive_identity,"""Mastotermitidae""",https://www.gbif.org/species/8367731
+LIBSRC-LIB36-ENT-WRD-0011649,descriptive_identity,"""Animalia""",https://www.gbif.org/species/8493432
+LIBSRC-LIB36-ENT-WRD-0011649,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/8493432
+LIBSRC-LIB36-ENT-WRD-0011649,descriptive_identity,"""Insecta""",https://www.gbif.org/species/8493432
+LIBSRC-LIB36-ENT-WRD-0011649,descriptive_identity,"""Blattodea""",https://www.gbif.org/species/8493432
+LIBSRC-LIB36-ENT-WRD-0011649,descriptive_identity,"""Mastotermitidae""",https://www.gbif.org/species/8493432
+LIBSRC-LIB36-ENT-WRD-0011796,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2082235
+LIBSRC-LIB36-ENT-WRD-0011796,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/2082235
+LIBSRC-LIB36-ENT-WRD-0011796,descriptive_identity,"""Insecta""",https://www.gbif.org/species/2082235
+LIBSRC-LIB36-ENT-WRD-0011796,descriptive_identity,"""Hemiptera""",https://www.gbif.org/species/2082235
+LIBSRC-LIB36-ENT-WRD-0011796,descriptive_identity,"""Dactylopiidae""",https://www.gbif.org/species/2082235
+LIBSRC-LIB36-ENT-WRD-0011834,descriptive_identity,"""Animalia""",https://www.gbif.org/species/6049
+LIBSRC-LIB36-ENT-WRD-0011834,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/6049
+LIBSRC-LIB36-ENT-WRD-0011834,descriptive_identity,"""Insecta""",https://www.gbif.org/species/6049
+LIBSRC-LIB36-ENT-WRD-0011834,descriptive_identity,"""Hemiptera""",https://www.gbif.org/species/6049
+LIBSRC-LIB36-ENT-WRD-0011834,descriptive_identity,"""Cicadidae""",https://www.gbif.org/species/6049
+LIBSRC-LIB36-ENT-WRD-0011864,descriptive_identity,"""Animalia""",https://www.gbif.org/species/1031505
+LIBSRC-LIB36-ENT-WRD-0011864,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/1031505
+LIBSRC-LIB36-ENT-WRD-0011864,descriptive_identity,"""Insecta""",https://www.gbif.org/species/1031505
+LIBSRC-LIB36-ENT-WRD-0011864,descriptive_identity,"""Psocodea""",https://www.gbif.org/species/1031505
+LIBSRC-LIB36-ENT-WRD-0011864,descriptive_identity,"""Liposcelididae""",https://www.gbif.org/species/1031505
+LIBSRC-LIB36-ENT-WRD-0011903,descriptive_identity,"""Animalia""",https://www.gbif.org/species/789
+LIBSRC-LIB36-ENT-WRD-0011903,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/789
+LIBSRC-LIB36-ENT-WRD-0011903,descriptive_identity,"""Insecta""",https://www.gbif.org/species/789
+LIBSRC-LIB36-ENT-WRD-0011903,descriptive_identity,"""Odonata""",https://www.gbif.org/species/789
+LIBSRC-LIB36-ENT-WRD-0011905,descriptive_identity,"""Plantae""",https://www.gbif.org/species/3233915
+LIBSRC-LIB36-ENT-WRD-0011905,descriptive_identity,"""Tracheophyta""",https://www.gbif.org/species/3233915
+LIBSRC-LIB36-ENT-WRD-0011905,descriptive_identity,"""Magnoliopsida""",https://www.gbif.org/species/3233915
+LIBSRC-LIB36-ENT-WRD-0011905,descriptive_identity,"""Malvales""",https://www.gbif.org/species/3233915
+LIBSRC-LIB36-ENT-WRD-0011905,descriptive_identity,"""Dipterocarpaceae""",https://www.gbif.org/species/3233915
+LIBSRC-LIB36-ENT-WRD-0012346,descriptive_identity,"""Animalia""",https://www.gbif.org/species/9705
+LIBSRC-LIB36-ENT-WRD-0012346,descriptive_identity,"""Chordata""",https://www.gbif.org/species/9705
+LIBSRC-LIB36-ENT-WRD-0012346,descriptive_identity,"""Mammalia""",https://www.gbif.org/species/9705
+LIBSRC-LIB36-ENT-WRD-0012346,descriptive_identity,"""Rodentia""",https://www.gbif.org/species/9705
+LIBSRC-LIB36-ENT-WRD-0012346,descriptive_identity,"""Hystricidae""",https://www.gbif.org/species/9705
+LIBSRC-LIB36-ENT-WRD-0012354,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2437593
+LIBSRC-LIB36-ENT-WRD-0012354,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2437593
+LIBSRC-LIB36-ENT-WRD-0012354,descriptive_identity,"""Mammalia""",https://www.gbif.org/species/2437593
+LIBSRC-LIB36-ENT-WRD-0012354,descriptive_identity,"""Rodentia""",https://www.gbif.org/species/2437593
+LIBSRC-LIB36-ENT-WRD-0012354,descriptive_identity,"""Erethizontidae""",https://www.gbif.org/species/2437593
+LIBSRC-LIB36-ENT-WRD-0012356,descriptive_identity,"""Animalia""",https://www.gbif.org/species/5504
+LIBSRC-LIB36-ENT-WRD-0012356,descriptive_identity,"""Chordata""",https://www.gbif.org/species/5504
+LIBSRC-LIB36-ENT-WRD-0012356,descriptive_identity,"""Mammalia""",https://www.gbif.org/species/5504
+LIBSRC-LIB36-ENT-WRD-0012356,descriptive_identity,"""Rodentia""",https://www.gbif.org/species/5504
+LIBSRC-LIB36-ENT-WRD-0012356,descriptive_identity,"""Heteromyidae""",https://www.gbif.org/species/5504
+LIBSRC-LIB36-ENT-WRD-0012383,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2439657
+LIBSRC-LIB36-ENT-WRD-0012383,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2439657
+LIBSRC-LIB36-ENT-WRD-0012383,descriptive_identity,"""Mammalia""",https://www.gbif.org/species/2439657
+LIBSRC-LIB36-ENT-WRD-0012383,descriptive_identity,"""Rodentia""",https://www.gbif.org/species/2439657
+LIBSRC-LIB36-ENT-WRD-0012383,descriptive_identity,"""Gliridae""",https://www.gbif.org/species/2439657
+LIBSRC-LIB36-ENT-WRD-0012454,descriptive_identity,"""Animalia""",https://www.gbif.org/species/3240634
+LIBSRC-LIB36-ENT-WRD-0012454,descriptive_identity,"""Chordata""",https://www.gbif.org/species/3240634
+LIBSRC-LIB36-ENT-WRD-0012454,descriptive_identity,"""Mammalia""",https://www.gbif.org/species/3240634
+LIBSRC-LIB36-ENT-WRD-0012454,descriptive_identity,"""Rodentia""",https://www.gbif.org/species/3240634
+LIBSRC-LIB36-ENT-WRD-0012454,descriptive_identity,"""Caviidae""",https://www.gbif.org/species/3240634
+LIBSRC-LIB36-ENT-WRD-0012639,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2440879
+LIBSRC-LIB36-ENT-WRD-0012639,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2440879
+LIBSRC-LIB36-ENT-WRD-0012639,descriptive_identity,"""Mammalia""",https://www.gbif.org/species/2440879
+LIBSRC-LIB36-ENT-WRD-0012639,descriptive_identity,"""Perissodactyla""",https://www.gbif.org/species/2440879
+LIBSRC-LIB36-ENT-WRD-0012639,descriptive_identity,"""Rhinocerotidae""",https://www.gbif.org/species/2440879
+LIBSRC-LIB36-ENT-WRD-0012877,descriptive_identity,"""Animalia""",https://www.gbif.org/species/7816758
+LIBSRC-LIB36-ENT-WRD-0012877,descriptive_identity,"""Chordata""",https://www.gbif.org/species/7816758
+LIBSRC-LIB36-ENT-WRD-0012877,descriptive_identity,"""Mammalia""",https://www.gbif.org/species/7816758
+LIBSRC-LIB36-ENT-WRD-0012877,descriptive_identity,"""Artiodactyla""",https://www.gbif.org/species/7816758
+LIBSRC-LIB36-ENT-WRD-0012877,descriptive_identity,"""Cervidae""",https://www.gbif.org/species/7816758
+LIBSRC-LIB36-ENT-WRD-0013004,descriptive_identity,"""Animalia""",https://www.gbif.org/species/11034550
+LIBSRC-LIB36-ENT-WRD-0013004,descriptive_identity,"""Chordata""",https://www.gbif.org/species/11034550
+LIBSRC-LIB36-ENT-WRD-0013004,descriptive_identity,"""Mammalia""",https://www.gbif.org/species/11034550
+LIBSRC-LIB36-ENT-WRD-0013004,descriptive_identity,"""Pilosa""",https://www.gbif.org/species/11034550
+LIBSRC-LIB36-ENT-WRD-0013135,descriptive_identity,"""Animalia""",https://www.gbif.org/species/4827642
+LIBSRC-LIB36-ENT-WRD-0013135,descriptive_identity,"""Chordata""",https://www.gbif.org/species/4827642
+LIBSRC-LIB36-ENT-WRD-0013135,descriptive_identity,"""Mammalia""",https://www.gbif.org/species/4827642
+LIBSRC-LIB36-ENT-WRD-0013135,descriptive_identity,"""Primates""",https://www.gbif.org/species/4827642
+LIBSRC-LIB36-ENT-WRD-0013135,descriptive_identity,"""Hominidae""",https://www.gbif.org/species/4827642
+LIBSRC-LIB36-ENT-WRD-0013212,descriptive_identity,"""Animalia""",https://www.gbif.org/species/8214404
+LIBSRC-LIB36-ENT-WRD-0013212,descriptive_identity,"""Chordata""",https://www.gbif.org/species/8214404
+LIBSRC-LIB36-ENT-WRD-0013212,descriptive_identity,"""Mammalia""",https://www.gbif.org/species/8214404
+LIBSRC-LIB36-ENT-WRD-0013212,descriptive_identity,"""Primates""",https://www.gbif.org/species/8214404
+LIBSRC-LIB36-ENT-WRD-0013212,descriptive_identity,"""Callitrichidae""",https://www.gbif.org/species/8214404
+LIBSRC-LIB36-ENT-WRD-0013238,descriptive_identity,"""Animalia""",https://www.gbif.org/species/5528
+LIBSRC-LIB36-ENT-WRD-0013238,descriptive_identity,"""Chordata""",https://www.gbif.org/species/5528
+LIBSRC-LIB36-ENT-WRD-0013238,descriptive_identity,"""Mammalia""",https://www.gbif.org/species/5528
+LIBSRC-LIB36-ENT-WRD-0013238,descriptive_identity,"""Scandentia""",https://www.gbif.org/species/5528
+LIBSRC-LIB36-ENT-WRD-0013238,descriptive_identity,"""Tupaiidae""",https://www.gbif.org/species/5528
+LIBSRC-LIB36-ENT-WRD-0013549,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2968
+LIBSRC-LIB36-ENT-WRD-0013549,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2968
+LIBSRC-LIB36-ENT-WRD-0013549,descriptive_identity,"""Beloniformes""",https://www.gbif.org/species/2968
+LIBSRC-LIB36-ENT-WRD-0013549,descriptive_identity,"""Exocoetidae""",https://www.gbif.org/species/2968
+LIBSRC-LIB36-ENT-WRD-0013775,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2392537
+LIBSRC-LIB36-ENT-WRD-0013775,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2392537
+LIBSRC-LIB36-ENT-WRD-0013775,descriptive_identity,"""Perciformes""",https://www.gbif.org/species/2392537
+LIBSRC-LIB36-ENT-WRD-0013775,descriptive_identity,"""Sparidae""",https://www.gbif.org/species/2392537
+LIBSRC-LIB36-ENT-WRD-0013888,descriptive_identity,"""Animalia""",https://www.gbif.org/species/8592
+LIBSRC-LIB36-ENT-WRD-0013888,descriptive_identity,"""Chordata""",https://www.gbif.org/species/8592
+LIBSRC-LIB36-ENT-WRD-0013888,descriptive_identity,"""Perciformes""",https://www.gbif.org/species/8592
+LIBSRC-LIB36-ENT-WRD-0013888,descriptive_identity,"""Polynemidae""",https://www.gbif.org/species/8592
+LIBSRC-LIB36-ENT-WRD-0013915,descriptive_identity,"""Animalia""",https://www.gbif.org/species/8598
+LIBSRC-LIB36-ENT-WRD-0013915,descriptive_identity,"""Chordata""",https://www.gbif.org/species/8598
+LIBSRC-LIB36-ENT-WRD-0013915,descriptive_identity,"""Perciformes""",https://www.gbif.org/species/8598
+LIBSRC-LIB36-ENT-WRD-0013915,descriptive_identity,"""Stichaeidae""",https://www.gbif.org/species/8598
+LIBSRC-LIB36-ENT-WRD-0013938,descriptive_identity,"""Animalia""",https://www.gbif.org/species/4274
+LIBSRC-LIB36-ENT-WRD-0013938,descriptive_identity,"""Chordata""",https://www.gbif.org/species/4274
+LIBSRC-LIB36-ENT-WRD-0013938,descriptive_identity,"""Perciformes""",https://www.gbif.org/species/4274
+LIBSRC-LIB36-ENT-WRD-0013938,descriptive_identity,"""Gobiidae""",https://www.gbif.org/species/4274
+LIBSRC-LIB36-ENT-WRD-0013947,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2369587
+LIBSRC-LIB36-ENT-WRD-0013947,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2369587
+LIBSRC-LIB36-ENT-WRD-0013947,descriptive_identity,"""Perciformes""",https://www.gbif.org/species/2369587
+LIBSRC-LIB36-ENT-WRD-0013947,descriptive_identity,"""Toxotidae""",https://www.gbif.org/species/2369587
+LIBSRC-LIB36-ENT-WRD-0014123,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2334959
+LIBSRC-LIB36-ENT-WRD-0014123,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2334959
+LIBSRC-LIB36-ENT-WRD-0014123,descriptive_identity,"""Scorpaeniformes""",https://www.gbif.org/species/2334959
+LIBSRC-LIB36-ENT-WRD-0014123,descriptive_identity,"""Peristediidae""",https://www.gbif.org/species/2334959
+LIBSRC-LIB36-ENT-WRD-0014126,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2333604
+LIBSRC-LIB36-ENT-WRD-0014126,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2333604
+LIBSRC-LIB36-ENT-WRD-0014126,descriptive_identity,"""Scorpaeniformes""",https://www.gbif.org/species/2333604
+LIBSRC-LIB36-ENT-WRD-0014126,descriptive_identity,"""Dactylopteridae""",https://www.gbif.org/species/2333604
+LIBSRC-LIB36-ENT-WRD-0014149,descriptive_identity,"""Animalia""",https://www.gbif.org/species/2406482
+LIBSRC-LIB36-ENT-WRD-0014149,descriptive_identity,"""Chordata""",https://www.gbif.org/species/2406482
+LIBSRC-LIB36-ENT-WRD-0014149,descriptive_identity,"""Tetraodontiformes""",https://www.gbif.org/species/2406482
+LIBSRC-LIB36-ENT-WRD-0014149,descriptive_identity,"""Diodontidae""",https://www.gbif.org/species/2406482
+LIBSRC-LIB36-ENT-WRD-0014212,descriptive_identity,"""Animalia""",https://www.gbif.org/species/9793246
+LIBSRC-LIB36-ENT-WRD-0014212,descriptive_identity,"""Arthropoda""",https://www.gbif.org/species/9793246
+LIBSRC-LIB36-ENT-WRD-0014212,descriptive_identity,"""Insecta""",https://www.gbif.org/species/9793246
+LIBSRC-LIB36-ENT-WRD-0014212,descriptive_identity,"""Coleoptera""",https://www.gbif.org/species/9793246
+LIBSRC-LIB36-ENT-WRD-0014212,descriptive_identity,"""Curculionidae""",https://www.gbif.org/species/9793246
