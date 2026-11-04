@@ -1,0 +1,1 @@
+Smithsonian APIs (collections.si.edu, api.si.edu, americanindian.si.edu) returned 403 Forbidden. Met Museum API returned 410 Gone. Wikidata API returned 429 Too Many Requests. Art Institute of Chicago API returned 403 Forbidden. Cleveland Museum of Art API returned 504 Timeout. Did not use generic Wikipedia fallback to avoid hallucinating materials for specific objects.
