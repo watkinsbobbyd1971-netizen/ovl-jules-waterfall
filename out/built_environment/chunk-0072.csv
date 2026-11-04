@@ -1,0 +1,13 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB48-ENT-ULN-0001420,identity_label,Henry Sproatt,https://en.wikipedia.org/wiki/Henry_Sproatt
+LIBSRC-LIB48-ENT-ULN-0001420,descriptive_identity,Canadian architect,https://en.wikipedia.org/wiki/Henry_Sproatt
+LIBSRC-LIB48-ENT-ULN-0001629,identity_label,Charles Lameire,https://fr.wikipedia.org/wiki/Charles_Lameire
+LIBSRC-LIB48-ENT-ULN-0001629,descriptive_identity,"architecte, peintre et décorateur français",https://fr.wikipedia.org/wiki/Charles_Lameire
+LIBSRC-LIB48-ENT-ULN-0001874,identity_label,Jaime Marquet,https://en.wikipedia.org/wiki/Jaime_Marquet
+LIBSRC-LIB48-ENT-ULN-0001874,descriptive_identity,French architect,https://en.wikipedia.org/wiki/Jaime_Marquet
+LIBSRC-LIB48-ENT-ULN-0002018,identity_label,Henning Larsen,https://en.wikipedia.org/wiki/Henning_Larsen
+LIBSRC-LIB48-ENT-ULN-0002018,descriptive_identity,Danish architect,https://en.wikipedia.org/wiki/Henning_Larsen
+LIBSRC-LIB48-ENT-ULN-0002414,identity_label,Karl Schneider,"https://de.wikipedia.org/wiki/Karl_Schneider_(Architekt,_1892)"
+LIBSRC-LIB48-ENT-ULN-0002414,descriptive_identity,deutscher Architekt und Designer,"https://de.wikipedia.org/wiki/Karl_Schneider_(Architekt,_1892)"
+LIBSRC-LIB48-ENT-ULN-0002569,identity_label,Ferdinand Fellner,https://en.wikipedia.org/wiki/Ferdinand_Fellner
+LIBSRC-LIB48-ENT-ULN-0002569,descriptive_identity,Austrian architect,https://en.wikipedia.org/wiki/Ferdinand_Fellner
