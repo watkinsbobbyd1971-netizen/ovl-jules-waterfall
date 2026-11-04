@@ -1,0 +1,400 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB44-ENT-VEH-0039855,manufacturer_or_creator,"Pella Sietas",https://shipspotting.com/photos/2889015
+LIBSRC-LIB44-ENT-VEH-0035069,manufacturer_or_creator,"Samsung Heavy Industries",https://shipspotting.com/photos/2745707
+LIBSRC-LIB44-ENT-VEH-0039855,draft,4450,https://www.hafen-hamburg.de/en/vessels/elbe-27063/
+LIBSRC-LIB44-ENT-VEH-0122076,dimension_length,81000,http://www.vesseltracking.net/ship/leni-7931088
+LIBSRC-LIB44-ENT-VEH-0104018,draft,7020,https://www.hafen-hamburg.de/en/vessels/wilson-tyne-37131/
+LIBSRC-LIB44-ENT-VEH-0081064,dimension_length,186000,https://www.balticshipping.com/vessel/imo/9115004
+LIBSRC-LIB44-ENT-VEH-0081411,dimension_length,49000,https://www.balticshipping.com/vessel/imo/9690731
+LIBSRC-LIB44-ENT-VEH-0121845,dimension_length,59940,http://www.vesseltracking.net/ship/wadden-4-8824139
+LIBSRC-LIB44-ENT-VEH-0123409,dimension_length,105600,http://www.vesseltracking.net/ship/ural-7725386
+LIBSRC-LIB44-ENT-VEH-0129653,dimension_length,30970,http://www.vesseltracking.net/ship/debra-d-8851479
+LIBSRC-LIB44-ENT-VEH-0120704,dimension_length,270040,http://www.vesseltracking.net/ship/integra-duckling-7921837
+LIBSRC-LIB44-ENT-VEH-0081057,dimension_length,69000,https://www.balticshipping.com/vessel/imo/8806462
+LIBSRC-LIB44-ENT-VEH-0126096,dimension_length,62820,http://www.vesseltracking.net/ship/tito-7711672
+LIBSRC-LIB44-ENT-VEH-0081877,dimension_length,172950,http://www.vesseltracking.net/ship/amanda-i-7729045
+LIBSRC-LIB44-ENT-VEH-0125970,dimension_length,35170,http://www.vesseltracking.net/ship/ps-351-8723933
+LIBSRC-LIB44-ENT-VEH-0091429,dimension_length,42250,http://www.vesseltracking.net/ship/idefix-8019409
+LIBSRC-LIB44-ENT-VEH-0080468,dimension_length,143000,https://www.balticshipping.com/vessel/imo/9118238
+LIBSRC-LIB44-ENT-VEH-0054193,dimension_length,168000,https://www.balticshipping.com/vessel/imo/8026048
+LIBSRC-LIB44-ENT-VEH-0081877,dimension_length,119100,https://www.hafen-hamburg.de/de/schiffe/tankschiffe
+LIBSRC-LIB44-ENT-VEH-0081877,dimension_length,119100,https://www.hafen-hamburg.de/de/schiffe
+LIBSRC-LIB44-ENT-VEH-0081877,variant_identifier,"9305362",https://www.hafen-hamburg.de/de/schiffe/tankschiffe
+LIBSRC-LIB44-ENT-VEH-0081877,variant_identifier,"9305362",https://www.hafen-hamburg.de/de/schiffe
+LIBSRC-LIB44-ENT-VEH-0081877,draft,6760,https://www.hafen-hamburg.de/de/schiffe/tankschiffe
+LIBSRC-LIB44-ENT-VEH-0081877,draft,6760,https://www.hafen-hamburg.de/de/schiffe
+LIBSRC-LIB44-ENT-VEH-0080468,dimension_length,274000,https://www.balticshipping.com/vessel/imo/9283241
+LIBSRC-LIB44-ENT-VEH-0079888,dimension_length,238000,https://www.balticshipping.com/vessel/imo/9259680
+LIBSRC-LIB44-ENT-VEH-0082267,manufacturer_or_creator,"Moss Verft",https://shipspotting.com/photos/2419233
+LIBSRC-LIB44-ENT-VEH-0120462,dimension_length,264520,http://www.vesseltracking.net/ship/jianmao-1-7917862
+LIBSRC-LIB44-ENT-VEH-0083438,dimension_length,110000,https://www.balticshipping.com/vessel/imo/9036349
+LIBSRC-LIB44-ENT-VEH-0082267,dimension_length,274000,https://www.balticshipping.com/vessel/imo/8716370
+LIBSRC-LIB44-ENT-VEH-0082267,draft,7100,https://www.hafen-hamburg.de/de/schiffe/feederschiffe
+LIBSRC-LIB44-ENT-VEH-0082267,dimension_length,134700,https://www.hafen-hamburg.de/de/schiffe/feederschiffe
+LIBSRC-LIB44-ENT-VEH-0082267,variant_identifier,"9255787",https://www.hafen-hamburg.de/de/schiffe/feederschiffe
+LIBSRC-LIB44-ENT-VEH-0081079,dimension_length,154000,https://www.balticshipping.com/vessel/imo/9155626
+LIBSRC-LIB44-ENT-VEH-0082267,dimension_length,64000,https://www.balticshipping.com/vessel/imo/9144172
+LIBSRC-LIB44-ENT-VEH-0121729,dimension_length,72500,http://www.vesseltracking.net/ship/nadezhda-9037070
+LIBSRC-LIB44-ENT-VEH-0121822,dimension_length,89000,https://www.balticshipping.com/vessel/imo/9223734
+LIBSRC-LIB44-ENT-VEH-0081878,manufacturer_or_creator,"Howaldtswerke-Deutsche Werft",https://shipspotting.com/photos/2983970
+LIBSRC-LIB44-ENT-VEH-0121822,manufacturer_or_creator,"Oshima Shipbuilding",https://shipspotting.com/photos/3365303
+LIBSRC-LIB44-ENT-VEH-0121729,dimension_length,115500,http://www.vesseltracking.net/ship/argun-8025915
+LIBSRC-LIB44-ENT-VEH-0121822,dimension_length,91670,http://www.vesseltracking.net/ship/orion-8105002
+LIBSRC-LIB44-ENT-VEH-0121822,dimension_length,53000,https://www.balticshipping.com/vessel/imo/8957429
+LIBSRC-LIB44-ENT-VEH-0034541,draft,14020,https://www.hafen-hamburg.de/de/schiffe
+LIBSRC-LIB44-ENT-VEH-0121822,variant_identifier,"9143415",https://www.hafen-hamburg.de/de/schiffe/feederschiffe
+LIBSRC-LIB44-ENT-VEH-0034541,dimension_length,274670,https://www.hafen-hamburg.de/de/schiffe
+LIBSRC-LIB44-ENT-VEH-0034541,manufacturer_or_creator,"HD Hyundai Heavy Industries",https://www.veristar.com/portal/veristarinfo/equasis?IMO=9110377
+LIBSRC-LIB44-ENT-VEH-0034541,variant_identifier,"9110377",https://www.hafen-hamburg.de/de/schiffe
+LIBSRC-LIB44-ENT-VEH-0121822,draft,15650,https://www.hafen-hamburg.de/de/schiffe/tankschiffe
+LIBSRC-LIB44-ENT-VEH-0121822,dimension_length,264680,https://www.hafen-hamburg.de/de/schiffe/tankschiffe
+LIBSRC-LIB44-ENT-VEH-0121822,dimension_length,132000,https://www.balticshipping.com/vessel/imo/8862909
+LIBSRC-LIB44-ENT-VEH-0121822,variant_identifier,"9131357",https://www.hafen-hamburg.de/de/schiffe/tankschiffe
+LIBSRC-LIB44-ENT-VEH-0121822,variant_identifier,"9131357",https://www.hafen-hamburg.de/de/schiffe
+LIBSRC-LIB44-ENT-VEH-0121822,dimension_length,52000,https://www.balticshipping.com/vessel/imo/8926676
+LIBSRC-LIB44-ENT-VEH-0084889,dimension_length,121800,http://www.vesseltracking.net/ship/apsheron-6515318
+LIBSRC-LIB44-ENT-VEH-0046274,dimension_length,65000,http://www.vesseltracking.net/ship/uminoko-8948636
+LIBSRC-LIB44-ENT-VEH-0083084,dimension_length,224970,http://www.vesseltracking.net/ship/xin-yang-xin-shi-dai-9224477
+LIBSRC-LIB44-ENT-VEH-0083084,dimension_length,108000,https://www.balticshipping.com/vessel/imo/8870956
+LIBSRC-LIB44-ENT-VEH-0083092,dimension_length,221000,https://www.balticshipping.com/vessel/imo/9131072
+LIBSRC-LIB44-ENT-VEH-0083084,dimension_length,53000,https://www.balticshipping.com/vessel/imo/7113179
+LIBSRC-LIB44-ENT-VEH-0083084,dimension_length,211000,https://www.balticshipping.com/vessel/imo/9225407
+LIBSRC-LIB44-ENT-VEH-0083092,dimension_length,183000,https://www.balticshipping.com/vessel/imo/9085390
+LIBSRC-LIB44-ENT-VEH-0084596,draft,4180,https://www.hafen-hamburg.de/en/vessels/peak-amsterdam-26526/
+LIBSRC-LIB44-ENT-VEH-0085137,dimension_length,27400,http://www.vesseltracking.net/ship/sterling-9329136
+LIBSRC-LIB44-ENT-VEH-0081777,dimension_length,199000,https://www.balticshipping.com/vessel/imo/9615169
+LIBSRC-LIB44-ENT-VEH-0081888,dimension_length,188000,https://www.balticshipping.com/vessel/imo/9103142
+LIBSRC-LIB44-ENT-VEH-0084894,dimension_length,58220,http://www.vesseltracking.net/ship/carpe-diem-9590383
+LIBSRC-LIB44-ENT-VEH-0084894,dimension_length,23950,http://www.vesseltracking.net/ship/carpe-diem-9505807
+LIBSRC-LIB44-ENT-VEH-0085015,dimension_length,108000,https://www.balticshipping.com/vessel/imo/8932302
+LIBSRC-LIB44-ENT-VEH-0122334,dimension_length,98800,http://www.vesseltracking.net/ship/aganmenon-8403868
+LIBSRC-LIB44-ENT-VEH-0128372,dimension_length,105000,https://www.balticshipping.com/vessel/imo/9001485
+LIBSRC-LIB44-ENT-VEH-0084993,dimension_length,154000,https://www.balticshipping.com/vessel/imo/7024251
+LIBSRC-LIB44-ENT-VEH-0085126,dimension_length,189000,https://www.balticshipping.com/vessel/imo/9562001
+LIBSRC-LIB44-ENT-VEH-0084542,draft,11620,https://www.hafen-hamburg.de/de/schiffe/tankschiffe
+LIBSRC-LIB44-ENT-VEH-0084542,manufacturer_or_creator,"Fujian Southeast Shipyard",https://shipspotting.com/photos/1042915
+LIBSRC-LIB44-ENT-VEH-0085015,dimension_length,59000,https://www.balticshipping.com/vessel/imo/9657674
+LIBSRC-LIB44-ENT-VEH-0084542,dimension_length,59000,https://www.balticshipping.com/vessel/imo/9560209
+LIBSRC-LIB44-ENT-VEH-0084542,dimension_length,183000,https://www.hafen-hamburg.de/de/schiffe/tankschiffe
+LIBSRC-LIB44-ENT-VEH-0085015,manufacturer_or_creator,"Fujian Southeast Shipyard",https://shipspotting.com/photos/1213760
+LIBSRC-LIB44-ENT-VEH-0084542,variant_identifier,"9476135",https://www.hafen-hamburg.de/de/schiffe/tankschiffe
+LIBSRC-LIB44-ENT-VEH-0085015,dimension_length,59000,https://www.balticshipping.com/vessel/imo/9578464
+LIBSRC-LIB44-ENT-VEH-0084542,dimension_length,98000,https://www.balticshipping.com/vessel/imo/8800298
+LIBSRC-LIB44-ENT-VEH-0085126,dimension_length,232000,https://www.balticshipping.com/vessel/imo/9060601
+LIBSRC-LIB44-ENT-VEH-0133813,manufacturer_or_creator,"Frederikshavn Shipyard",https://shipspotting.com/photos/3574549
+LIBSRC-LIB44-ENT-VEH-0084405,dimension_length,56000,https://www.balticshipping.com/vessel/imo/8936310
+LIBSRC-LIB44-ENT-VEH-0123504,dimension_length,115700,http://www.vesseltracking.net/ship/berra-g-8721349
+LIBSRC-LIB44-ENT-VEH-0122036,dimension_length,211210,http://www.vesseltracking.net/ship/carrara-castle-8220072
+LIBSRC-LIB44-ENT-VEH-0129020,dimension_length,82000,http://www.vesseltracking.net/ship/saezen-burak-8410330
+LIBSRC-LIB44-ENT-VEH-0083307,dimension_length,190000,https://www.balticshipping.com/vessel/imo/9137428
+LIBSRC-LIB44-ENT-VEH-0084405,draft,5670,https://www.hafen-hamburg.de/en/vessels/delfin-4661/
+LIBSRC-LIB44-ENT-VEH-0084042,dimension_length,172000,https://www.balticshipping.com/vessel/imo/8700412
+LIBSRC-LIB44-ENT-VEH-0084128,dimension_length,247000,https://www.balticshipping.com/vessel/imo/8719217
+LIBSRC-LIB44-ENT-VEH-0124531,dimension_length,169090,http://www.vesseltracking.net/ship/summer-meadow-8407814
+LIBSRC-LIB44-ENT-VEH-0124531,manufacturer_or_creator,"Shin Kurushima Dockyard",https://shipspotting.com/photos/1010635
+LIBSRC-LIB44-ENT-VEH-0121486,dimension_length,79020,http://www.vesseltracking.net/ship/koravi-8402591
+LIBSRC-LIB44-ENT-VEH-0084936,dimension_length,244000,https://www.balticshipping.com/vessel/imo/9043031
+LIBSRC-LIB44-ENT-VEH-0085731,dimension_length,159090,http://www.vesseltracking.net/ship/lewek-express-8116049
+LIBSRC-LIB44-ENT-VEH-0120022,dimension_length,81880,http://www.vesseltracking.net/ship/ns-sabina-8616635
+LIBSRC-LIB44-ENT-VEH-0085816,draft,12950,https://www.hafen-hamburg.de/en/vessels/martin-48806/
+LIBSRC-LIB44-ENT-VEH-0126027,dimension_length,108400,http://www.vesseltracking.net/ship/borisfen-8887753
+LIBSRC-LIB44-ENT-VEH-0085816,dimension_length,22000,http://www.vesseltracking.net/ship/martin-8988777
+LIBSRC-LIB44-ENT-VEH-0085284,dimension_length,52780,http://www.vesseltracking.net/ship/thetis-7811616
+LIBSRC-LIB44-ENT-VEH-0085284,dimension_length,46590,http://www.vesseltracking.net/ship/barbalias-5358878
+LIBSRC-LIB44-ENT-VEH-0121241,dimension_length,81000,http://www.vesseltracking.net/ship/peley-8513168
+LIBSRC-LIB44-ENT-VEH-0085731,manufacturer_or_creator,"Hanwha Ocean",https://www.veristar.com/portal/veristarinfo/equasis?IMO=9361445
+LIBSRC-LIB44-ENT-VEH-0085731,dimension_length,242000,https://www.balticshipping.com/vessel/imo/8024375
+LIBSRC-LIB44-ENT-VEH-0085731,dimension_length,114000,https://www.balticshipping.com/vessel/imo/9185891
+LIBSRC-LIB44-ENT-VEH-0077968,dimension_length,169000,https://www.balticshipping.com/vessel/imo/7012911
+LIBSRC-LIB44-ENT-VEH-0119961,dimension_length,199990,http://www.vesseltracking.net/ship/nordic-spirit-8606185
+LIBSRC-LIB44-ENT-VEH-0093731,dimension_length,184500,http://www.vesseltracking.net/ship/prayast-8604266
+LIBSRC-LIB44-ENT-VEH-0125968,dimension_length,115000,http://www.vesseltracking.net/ship/serasi-iii-8716162
+LIBSRC-LIB44-ENT-VEH-0129580,dimension_length,62220,http://www.vesseltracking.net/ship/professor-levanidov-8607062
+LIBSRC-LIB44-ENT-VEH-0127045,dimension_length,72550,http://www.vesseltracking.net/ship/mar-portugal-8402010
+LIBSRC-LIB44-ENT-VEH-0124727,dimension_length,79970,http://www.vesseltracking.net/ship/vakul-prem-8822533
+LIBSRC-LIB44-ENT-VEH-0085103,dimension_length,182000,https://www.balticshipping.com/vessel/imo/9191395
+LIBSRC-LIB44-ENT-VEH-0131699,dimension_length,333000,https://www.balticshipping.com/vessel/imo/9290086
+LIBSRC-LIB44-ENT-VEH-0131699,manufacturer_or_creator,"HD Hyundai Samho",https://shipspotting.com/photos/3319716
+LIBSRC-LIB44-ENT-VEH-0125278,dimension_length,25500,http://www.vesseltracking.net/ship/rytas-8854213
+LIBSRC-LIB44-ENT-VEH-0127477,dimension_length,184900,http://www.vesseltracking.net/ship/chenan-9007374
+LIBSRC-LIB44-ENT-VEH-0125992,dimension_length,141000,http://www.vesseltracking.net/ship/valparaiso-star-8713586
+LIBSRC-LIB44-ENT-VEH-0121215,dimension_length,126150,http://www.vesseltracking.net/ship/parna-berlian-2-8902747
+LIBSRC-LIB44-ENT-VEH-0120641,dimension_length,31750,http://www.vesseltracking.net/ship/nase-more-8936293
+LIBSRC-LIB44-ENT-VEH-0094936,dimension_length,150880,http://www.vesseltracking.net/ship/st-leo-the-great-9042764
+LIBSRC-LIB44-ENT-VEH-0094936,manufacturer_or_creator,"Shinkurushima Toyohashi Shipbuilding",https://shipspotting.com/photos/2320695
+LIBSRC-LIB44-ENT-VEH-0128637,dimension_length,41760,http://www.vesseltracking.net/ship/ischia-jet-8900957
+LIBSRC-LIB44-ENT-VEH-0122758,dimension_length,36470,http://www.vesseltracking.net/ship/cornelis-johannus-8811168
+LIBSRC-LIB44-ENT-VEH-0127579,dimension_length,39600,http://www.vesseltracking.net/ship/captain-cook-iii-8818130
+LIBSRC-LIB44-ENT-VEH-0083465,dimension_length,224000,https://www.balticshipping.com/vessel/imo/9162057
+LIBSRC-LIB44-ENT-VEH-0089219,draft,6520,https://scheepvaartwest.be/CMS/index.php/general-cargo/12231-landy-imo-9031428
+LIBSRC-LIB44-ENT-VEH-0089219,dimension_length,111090,https://scheepvaartwest.be/CMS/index.php/general-cargo/12231-landy-imo-9031428
+LIBSRC-LIB44-ENT-VEH-0089219,manufacturer_or_creator,"Peters Werft",https://scheepvaartwest.be/CMS/index.php/general-cargo/12231-landy-imo-9031428
+LIBSRC-LIB44-ENT-VEH-0120538,dimension_length,71700,http://www.vesseltracking.net/ship/ocean-sea-9111759
+LIBSRC-LIB44-ENT-VEH-0126128,manufacturer_or_creator,"Moen Marin",https://shipspotting.com/photos/3171299
+LIBSRC-LIB44-ENT-VEH-0125719,dimension_length,150350,http://www.vesseltracking.net/ship/hai-feng-728-9019121
+LIBSRC-LIB44-ENT-VEH-0127868,dimension_length,176400,http://www.vesseltracking.net/ship/clara-maersk-8820016
+LIBSRC-LIB44-ENT-VEH-0127868,dimension_length,197060,http://www.vesseltracking.net/ship/yi-he-6806200
+LIBSRC-LIB44-ENT-VEH-0130272,dimension_length,99900,http://www.vesseltracking.net/ship/av-9014298
+LIBSRC-LIB44-ENT-VEH-0010675,manufacturer_or_creator,"Harding Verft",https://shipspotting.com/photos/1758030
+LIBSRC-LIB44-ENT-VEH-0129960,dimension_length,24000,http://www.vesseltracking.net/ship/cap-lizard-9020376
+LIBSRC-LIB44-ENT-VEH-0122888,dimension_length,88400,http://www.vesseltracking.net/ship/don-daniel-9011947
+LIBSRC-LIB44-ENT-VEH-0123308,dimension_length,229000,https://www.balticshipping.com/vessel/imo/9607162
+LIBSRC-LIB44-ENT-VEH-0089918,dimension_length,125250,http://www.vesseltracking.net/ship/excellent-9007867
+LIBSRC-LIB44-ENT-VEH-0105003,variant_identifier,"9059638",https://www.hafen-hamburg.de/de/schiffe/feederschiffe
+LIBSRC-LIB44-ENT-VEH-0105003,dimension_length,178000,https://www.hafen-hamburg.de/de/schiffe/feederschiffe
+LIBSRC-LIB44-ENT-VEH-0105003,draft,9200,https://www.hafen-hamburg.de/de/schiffe/feederschiffe
+LIBSRC-LIB44-ENT-VEH-0105003,manufacturer_or_creator,"Frederikshavn Shipyard",https://shipspotting.com/photos/3613686
+LIBSRC-LIB44-ENT-VEH-0010670,dimension_length,181000,https://www.hafen-hamburg.de/en/vessels/champion-tide-46607/
+LIBSRC-LIB44-ENT-VEH-0096166,dimension_length,34070,http://www.vesseltracking.net/ship/lady-martha-8994116
+LIBSRC-LIB44-ENT-VEH-0126925,dimension_length,32000,http://www.vesseltracking.net/ship/katherine-7914585
+LIBSRC-LIB44-ENT-VEH-0126925,manufacturer_or_creator,"Shinkurushima Toyohashi Shipbuilding",https://shipspotting.com/photos/2556054
+LIBSRC-LIB44-ENT-VEH-0129277,dimension_length,105500,http://www.vesseltracking.net/ship/yasemin-9136838
+LIBSRC-LIB44-ENT-VEH-0010670,draft,12060,https://www.hafen-hamburg.de/en/vessels/champion-tide-46607/
+LIBSRC-LIB44-ENT-VEH-0122363,dimension_length,82400,http://www.vesseltracking.net/ship/sea-charente-9155676
+LIBSRC-LIB44-ENT-VEH-0126877,dimension_length,17640,http://www.vesseltracking.net/ship/corvus-8433772
+LIBSRC-LIB44-ENT-VEH-0118412,draft,14400,https://www.hafen-hamburg.de/en/vessels/sbi-bolero-46965/
+LIBSRC-LIB44-ENT-VEH-0122582,dimension_length,22800,http://www.vesseltracking.net/ship/christophers-joy-8939922
+LIBSRC-LIB44-ENT-VEH-0120301,dimension_length,162800,http://www.vesseltracking.net/ship/lily-star-9111474
+LIBSRC-LIB44-ENT-VEH-0120292,dimension_length,225000,http://www.vesseltracking.net/ship/the-merciful-9140578
+LIBSRC-LIB44-ENT-VEH-0126877,dimension_length,107000,https://www.balticshipping.com/vessel/imo/8864737
+LIBSRC-LIB44-ENT-VEH-0122363,draft,3700,https://www.hafen-hamburg.de/en/vessels/sea-charente-42564/
+LIBSRC-LIB44-ENT-VEH-0126877,dimension_length,106000,https://www.balticshipping.com/vessel/imo/9641493
+LIBSRC-LIB44-ENT-VEH-0120292,dimension_length,243850,http://www.vesseltracking.net/ship/sea-valiant-6521032
+LIBSRC-LIB44-ENT-VEH-0126925,dimension_length,270000,https://www.balticshipping.com/vessel/imo/9641235
+LIBSRC-LIB44-ENT-VEH-0100145,variant_identifier,"9162667",https://www.hafen-hamburg.de/de/schiffe/feederschiffe
+LIBSRC-LIB44-ENT-VEH-0100145,draft,9150,https://www.hafen-hamburg.de/de/schiffe/feederschiffe
+LIBSRC-LIB44-ENT-VEH-0100145,dimension_length,139050,https://www.hafen-hamburg.de/de/schiffe/feederschiffe
+LIBSRC-LIB44-ENT-VEH-0118412,dimension_length,242000,https://www.balticshipping.com/vessel/imo/8920488
+LIBSRC-LIB44-ENT-VEH-0121320,draft,6610,https://www.hafen-hamburg.de/en/vessels/bf-aurelia-29190/
+LIBSRC-LIB44-ENT-VEH-0120554,dimension_length,225000,http://www.vesseltracking.net/ship/lily-breeze-9149017
+LIBSRC-LIB44-ENT-VEH-0131465,manufacturer_or_creator,"Minaminippon Shipbuilding",https://shipspotting.com/photos/3189578
+LIBSRC-LIB44-ENT-VEH-0131465,dimension_length,193900,https://www.hafen-hamburg.de/en/vessels/kota-fajar-27517/
+LIBSRC-LIB44-ENT-VEH-0118974,dimension_length,30190,http://www.vesseltracking.net/ship/signet-intrepid-9204398
+LIBSRC-LIB44-ENT-VEH-0120803,dimension_length,332000,http://www.vesseltracking.net/ship/phoenix-m-9180891
+LIBSRC-LIB44-ENT-VEH-0121320,dimension_length,99990,http://www.vesseltracking.net/ship/aurelia-9121895
+LIBSRC-LIB44-ENT-VEH-0128515,dimension_length,159920,http://www.vesseltracking.net/ship/jade-i-9162411
+LIBSRC-LIB44-ENT-VEH-0131465,draft,10260,https://www.hafen-hamburg.de/en/vessels/kota-fajar-27517/
+LIBSRC-LIB44-ENT-VEH-0040914,dimension_length,158000,https://www.balticshipping.com/vessel/imo/9010668
+LIBSRC-LIB44-ENT-VEH-0122272,draft,3350,https://www.hafen-hamburg.de/en/vessels/rms-duisburg-48753/
+LIBSRC-LIB44-ENT-VEH-0128870,dimension_length,67519.3,https://absrecord.eagle.org/#/absrecord/details
+LIBSRC-LIB44-ENT-VEH-0128870,manufacturer_or_creator,"North American Shipbuilding",https://shipspotting.com/photos/1748097
+LIBSRC-LIB44-ENT-VEH-0128870,manufacturer_or_creator,"North American Shipbuilding",https://absrecord.eagle.org/#/absrecord/details
+LIBSRC-LIB44-ENT-VEH-0128870,draft,5335.6,https://absrecord.eagle.org/#/absrecord/details
+LIBSRC-LIB44-ENT-VEH-0128870,variant_identifier,"9213014",https://gisis.imo.org/Public/SHIPS/ShipDetails.aspx?IMONumber=9213014
+LIBSRC-LIB44-ENT-VEH-0128870,dimension_length,73152,https://absrecord.eagle.org/#/absrecord/details
+LIBSRC-LIB44-ENT-VEH-0042037,dimension_length,179000,https://www.balticshipping.com/vessel/imo/9561368
+LIBSRC-LIB44-ENT-VEH-0129687,dimension_length,232000,https://www.balticshipping.com/vessel/imo/8900490
+LIBSRC-LIB44-ENT-VEH-0109394,dimension_length,311000,https://www.hafen-hamburg.de/de/schiffe/kreuzfahrtschiffe
+LIBSRC-LIB44-ENT-VEH-0118771,dimension_length,89980,http://www.vesseltracking.net/ship/scot-venture-9243928
+LIBSRC-LIB44-ENT-VEH-0109394,variant_identifier,"9161728",https://www.hafen-hamburg.de/de/schiffe/kreuzfahrtschiffe
+LIBSRC-LIB44-ENT-VEH-0129321,dimension_length,82200,http://www.vesseltracking.net/ship/rhoon-c-9226164
+LIBSRC-LIB44-ENT-VEH-0109394,draft,9100,https://www.hafen-hamburg.de/de/schiffe/kreuzfahrtschiffe
+LIBSRC-LIB44-ENT-VEH-0123967,dimension_length,100000,http://www.vesseltracking.net/ship/cosmo-9251755
+LIBSRC-LIB44-ENT-VEH-0120906,manufacturer_or_creator,"Samuda Brothers",https://poheritage.com/wp-content/uploads/ship-data-pdfs/CEYLON%20(1858).pdf
+LIBSRC-LIB44-ENT-VEH-0111253,draft,4000,https://www.hafen-hamburg.de/en/vessels/lady-nola-43884/
+LIBSRC-LIB44-ENT-VEH-0129321,manufacturer_or_creator,"Damen Shipyards Bergum",https://www.veristar.com/portal/veristarinfo/equasis?IMO=9226164
+LIBSRC-LIB44-ENT-VEH-0126442,dimension_length,189990,https://www.hafen-hamburg.de/de/schiffe/massengutschiffe
+LIBSRC-LIB44-ENT-VEH-0126442,variant_identifier,"9303077",https://www.hafen-hamburg.de/de/schiffe/massengutschiffe
+LIBSRC-LIB44-ENT-VEH-0126442,draft,12570,https://www.hafen-hamburg.de/de/schiffe/massengutschiffe
+LIBSRC-LIB44-ENT-VEH-0119885,dimension_length,169300,http://www.vesseltracking.net/ship/parana-warrior-9412945
+LIBSRC-LIB44-ENT-VEH-0122602,dimension_length,162000,https://www.balticshipping.com/vessel/imo/9111486
+LIBSRC-LIB44-ENT-VEH-0010424,dimension_length,24450,https://cote-magazine.ch/la-famille-de-rothschild-la-voile-pour-moteur/
+LIBSRC-LIB44-ENT-VEH-0010424,manufacturer_or_creator,"John I. Thornycroft & Company",https://cote-magazine.ch/la-famille-de-rothschild-la-voile-pour-moteur/
+LIBSRC-LIB44-ENT-VEH-0125688,dimension_length,182850,http://www.vesseltracking.net/ship/sea-faith-9258674
+LIBSRC-LIB44-ENT-VEH-0129271,dimension_length,101700,http://www.vesseltracking.net/ship/ndadayli-9045730
+LIBSRC-LIB44-ENT-VEH-0127835,dimension_length,56400,http://www.vesseltracking.net/ship/reina-divinagracia-9325128
+LIBSRC-LIB44-ENT-VEH-0121570,dimension_length,180000,http://www.vesseltracking.net/ship/st-ilhaam-9278480
+LIBSRC-LIB44-ENT-VEH-0034588,manufacturer_or_creator,"Namura Shipbuilding",https://shipspotting.com/photos/3527703
+LIBSRC-LIB44-ENT-VEH-0123359,dimension_length,49200,http://www.vesseltracking.net/ship/fernando-namora-9283370
+LIBSRC-LIB44-ENT-VEH-0127305,dimension_length,109630,http://www.vesseltracking.net/ship/mencey-9280146
+LIBSRC-LIB44-ENT-VEH-0132091,manufacturer_or_creator,"CSBC Corporation, Taiwan",https://shipspotting.com/photos/2630264
+LIBSRC-LIB44-ENT-VEH-0121570,draft,10280,https://www.hafen-hamburg.de/en/vessels/rosita-44278/
+LIBSRC-LIB44-ENT-VEH-0010424,draft,5800,https://www.hafen-hamburg.de/en/vessels/gitana-26741/
+LIBSRC-LIB44-ENT-VEH-0125688,variant_identifier,"9298636",https://www.hafen-hamburg.de/de/schiffe
+LIBSRC-LIB44-ENT-VEH-0134350,dimension_length,29390,http://www.vesseltracking.net/ship/gladiator-7644582
+LIBSRC-LIB44-ENT-VEH-0121383,dimension_length,183000,http://www.vesseltracking.net/ship/torm-horizon-9283710
+LIBSRC-LIB44-ENT-VEH-0134350,manufacturer_or_creator,"Shimanami Shipyard",https://shipspotting.com/photos/1005333
+LIBSRC-LIB44-ENT-VEH-0034808,manufacturer_or_creator,"Shinkurushima Toyohashi Shipbuilding",https://shipspotting.com/photos/3611855
+LIBSRC-LIB44-ENT-VEH-0132566,draft,14500,https://www.hafen-hamburg.de/en/vessels/msc-tianjin-48434/
+LIBSRC-LIB44-ENT-VEH-0130341,dimension_length,182880,http://www.vesseltracking.net/ship/bow-star-9197296
+LIBSRC-LIB44-ENT-VEH-0035046,manufacturer_or_creator,"Hanwha Ocean",https://shipspotting.com/photos/3190942
+LIBSRC-LIB44-ENT-VEH-0034752,draft,14020,https://www.hafen-hamburg.de/en/vessels/xin-yan-tai-44649/
+LIBSRC-LIB44-ENT-VEH-0121383,dimension_length,179000,https://www.balticshipping.com/vessel/imo/9183312
+LIBSRC-LIB44-ENT-VEH-0126148,dimension_length,175000,https://www.hafen-hamburg.de/de/schiffe/feederschiffe
+LIBSRC-LIB44-ENT-VEH-0126148,variant_identifier,"9292125",https://www.hafen-hamburg.de/de/schiffe/feederschiffe
+LIBSRC-LIB44-ENT-VEH-0126148,draft,10920,https://www.hafen-hamburg.de/de/schiffe/feederschiffe
+LIBSRC-LIB44-ENT-VEH-0134350,dimension_length,228000,https://www.balticshipping.com/vessel/imo/9222132
+LIBSRC-LIB44-ENT-VEH-0011366,manufacturer_or_creator,"Vard Tulcea",https://shipspotting.com/photos/1012114
+LIBSRC-LIB44-ENT-VEH-0135485,manufacturer_or_creator,"Royal Niestern Sander",https://shipspotting.com/photos/3622126
+LIBSRC-LIB44-ENT-VEH-0034898,draft,14400,https://www.hafen-hamburg.de/en/vessels/panasiatic-29355/
+LIBSRC-LIB44-ENT-VEH-0034871,dimension_length,164000,https://www.balticshipping.com/vessel/imo/9113381
+LIBSRC-LIB44-ENT-VEH-0035388,manufacturer_or_creator,"Tsuneishi Shipbuilding",https://shipspotting.com/photos/3524360
+LIBSRC-LIB44-ENT-VEH-0010893,manufacturer_or_creator,"Minaminippon Shipbuilding",https://shipspotting.com/photos/3328624
+LIBSRC-LIB44-ENT-VEH-0125188,dimension_length,229930,http://www.vesseltracking.net/ship/anna-oldendorff-9342889
+LIBSRC-LIB44-ENT-VEH-0010893,dimension_length,179800,https://www.hafen-hamburg.de/en/vessels/twinkle-express-7009/
+LIBSRC-LIB44-ENT-VEH-0118476,dimension_length,57870,http://www.vesseltracking.net/ship/anina-7023831
+LIBSRC-LIB44-ENT-VEH-0138321,dimension_length,52000,https://www.balticshipping.com/vessel/imo/9231896
+LIBSRC-LIB44-ENT-VEH-0010893,draft,12100,https://www.hafen-hamburg.de/en/vessels/twinkle-express-7009/
+LIBSRC-LIB44-ENT-VEH-0036341,manufacturer_or_creator,"Shimanami Shipyard",https://shipspotting.com/photos/3546859
+LIBSRC-LIB44-ENT-VEH-0035466,manufacturer_or_creator,"CSBC Corporation, Taiwan",https://shipspotting.com/photos/3136925
+LIBSRC-LIB44-ENT-VEH-0129466,dimension_length,43870,http://www.vesseltracking.net/ship/mim-9391103
+LIBSRC-LIB44-ENT-VEH-0121565,draft,5650,https://www.hafen-hamburg.de/en/vessels/nordic-sira-29911/
+LIBSRC-LIB44-ENT-VEH-0121130,dimension_length,108200,http://www.vesseltracking.net/ship/norma-9306419
+LIBSRC-LIB44-ENT-VEH-0122662,draft,14190,https://www.hafen-hamburg.de/en/vessels/clara-44632/
+LIBSRC-LIB44-ENT-VEH-0035618,manufacturer_or_creator,"Hanwha Ocean",https://shipspotting.com/photos/3331250
+LIBSRC-LIB44-ENT-VEH-0128828,draft,11120,https://www.hafen-hamburg.de/en/vessels/ns-pride-44900/
+LIBSRC-LIB44-ENT-VEH-0034715,dimension_length,79130,http://www.vesseltracking.net/ship/leon-7530901
+LIBSRC-LIB44-ENT-VEH-0034800,manufacturer_or_creator,"Samsung Heavy Industries",https://shipspotting.com/photos/1011271
+LIBSRC-LIB44-ENT-VEH-0122512,dimension_length,88100,http://www.vesseltracking.net/ship/san-andres-iv-9309215
+LIBSRC-LIB44-ENT-VEH-0037342,draft,14250,https://www.hafen-hamburg.de/en/vessels/ecostar-g-o-30958/
+LIBSRC-LIB44-ENT-VEH-0036416,manufacturer_or_creator,"Jiangnan Shipyard",https://shipspotting.com/photos/3261538
+LIBSRC-LIB44-ENT-VEH-0120225,dimension_length,99950,http://www.vesseltracking.net/ship/new-jersey-9367918
+LIBSRC-LIB44-ENT-VEH-0128828,dimension_length,176000,http://www.vesseltracking.net/ship/ns-pride-9322956
+LIBSRC-LIB44-ENT-VEH-0120995,draft,13140,https://www.hafen-hamburg.de/en/vessels/pti-orio-45252/
+LIBSRC-LIB44-ENT-VEH-0134027,dimension_length,84000,https://www.balticshipping.com/vessel/imo/8926121
+LIBSRC-LIB44-ENT-VEH-0034715,dimension_length,286000,https://www.balticshipping.com/vessel/imo/7024263
+LIBSRC-LIB44-ENT-VEH-0134221,dimension_length,84000,https://www.balticshipping.com/vessel/imo/9548469
+LIBSRC-LIB44-ENT-VEH-0122662,dimension_length,215000,https://www.balticshipping.com/vessel/imo/9071533
+LIBSRC-LIB44-ENT-VEH-0035618,manufacturer_or_creator,"Zalyv Shipbuilding yard",https://www.vesseltracking.net/ship/white-rose-8033314
+LIBSRC-LIB44-ENT-VEH-0035618,dimension_length,242000,https://www.balticshipping.com/vessel/imo/8033314
+LIBSRC-LIB44-ENT-VEH-0134221,dimension_length,96000,https://www.balticshipping.com/vessel/imo/9538854
+LIBSRC-LIB44-ENT-VEH-0036067,manufacturer_or_creator,"Fukuoka Shipbuilding",https://shipspotting.com/photos/2828099
+LIBSRC-LIB44-ENT-VEH-0126584,dimension_length,315000,http://www.vesseltracking.net/ship/al-huwaila-9360879
+LIBSRC-LIB44-ENT-VEH-0122093,dimension_length,182800,http://www.vesseltracking.net/ship/csav-rio-grande-9308807
+LIBSRC-LIB44-ENT-VEH-0121601,dimension_length,318410,http://www.vesseltracking.net/ship/maersk-semakau-9315252
+LIBSRC-LIB44-ENT-VEH-0125635,draft,4260,https://www.hafen-hamburg.de/en/vessels/eems-sprinter-45657/
+LIBSRC-LIB44-ENT-VEH-0035405,manufacturer_or_creator,"Oshima Shipbuilding",https://shipspotting.com/photos/3579145
+LIBSRC-LIB44-ENT-VEH-0034630,manufacturer_or_creator,"Oshima Shipbuilding",https://shipspotting.com/photos/2940538
+LIBSRC-LIB44-ENT-VEH-0127568,dimension_length,288970,http://www.vesseltracking.net/ship/aquahope-9336012
+LIBSRC-LIB44-ENT-VEH-0034960,dimension_length,52000,https://www.balticshipping.com/vessel/imo/8925347
+LIBSRC-LIB44-ENT-VEH-0035817,manufacturer_or_creator,"Hanwha Ocean",https://shipspotting.com/photos/3506715
+LIBSRC-LIB44-ENT-VEH-0038134,manufacturer_or_creator,"Fujian Southeast Shipyard",https://shipspotting.com/photos/1449562
+LIBSRC-LIB44-ENT-VEH-0035817,draft,10010,https://www.hafen-hamburg.de/en/vessels/alliance-norfolk-31109/
+LIBSRC-LIB44-ENT-VEH-0034886,draft,11620,https://www.hafen-hamburg.de/en/vessels/nord-bell-44722/
+LIBSRC-LIB44-ENT-VEH-0036120,dimension_length,246000,https://www.balticshipping.com/vessel/imo/8907400
+LIBSRC-LIB44-ENT-VEH-0132050,manufacturer_or_creator,"Namura Shipbuilding",https://shipspotting.com/photos/3385412
+LIBSRC-LIB44-ENT-VEH-0132050,dimension_length,234000,https://www.balticshipping.com/vessel/imo/9621297
+LIBSRC-LIB44-ENT-VEH-0036641,manufacturer_or_creator,"Samsung Heavy Industries",https://shipspotting.com/photos/3556588
+LIBSRC-LIB44-ENT-VEH-0130877,dimension_length,183000,http://www.vesseltracking.net/ship/elandra-corallo-9396751
+LIBSRC-LIB44-ENT-VEH-0122853,dimension_length,291500,http://www.vesseltracking.net/ship/dapeng-sun-9308479
+LIBSRC-LIB44-ENT-VEH-0122870,dimension_length,69900,http://www.vesseltracking.net/ship/pacific-falcon-9437373
+LIBSRC-LIB44-ENT-VEH-0010847,dimension_length,183880,https://www.hafen-hamburg.de/en/vessels/apostolos/
+LIBSRC-LIB44-ENT-VEH-0123787,dimension_length,199930,http://www.vesseltracking.net/ship/cscl-kingston-9400813
+LIBSRC-LIB44-ENT-VEH-0010847,manufacturer_or_creator,"HD Hyundai Mipo",https://shipspotting.com/photos/3320638
+LIBSRC-LIB44-ENT-VEH-0122418,dimension_length,183000,http://www.vesseltracking.net/ship/high-jupiter-9366299
+LIBSRC-LIB44-ENT-VEH-0123822,dimension_length,182800,http://www.vesseltracking.net/ship/carrera-9432880
+LIBSRC-LIB44-ENT-VEH-0037243,draft,11300,https://www.hafen-hamburg.de/en/vessels/bow-kiso-28237/
+LIBSRC-LIB44-ENT-VEH-0127365,dimension_length,183000,http://www.vesseltracking.net/ship/ayrton-ii-9410014
+LIBSRC-LIB44-ENT-VEH-0037726,draft,9210,https://www.hafen-hamburg.de/en/vessels/gsw-forward-47641/
+LIBSRC-LIB44-ENT-VEH-0010847,draft,12520,https://www.hafen-hamburg.de/en/vessels/apostolos/
+LIBSRC-LIB44-ENT-VEH-0122870,dimension_length,126000,https://www.balticshipping.com/vessel/imo/9209570
+LIBSRC-LIB44-ENT-VEH-0125742,dimension_length,315000,http://www.vesseltracking.net/ship/al-oraiq-9360790
+LIBSRC-LIB44-ENT-VEH-0036957,draft,11540,https://www.hafen-hamburg.de/en/vessels/dalia-27104/
+LIBSRC-LIB44-ENT-VEH-0037921,manufacturer_or_creator,"Tsuneishi Shipbuilding",https://shipspotting.com/photos/3583761
+LIBSRC-LIB44-ENT-VEH-0129782,manufacturer_or_creator,"Tsuneishi Kure Dock",https://www.veristar.com/portal/veristarinfo/equasis?IMO=9385063
+LIBSRC-LIB44-ENT-VEH-0135525,manufacturer_or_creator,"Fujian Southeast Shipyard",https://shipspotting.com/photos/1972552
+LIBSRC-LIB44-ENT-VEH-0038057,draft,11620,https://www.hafen-hamburg.de/en/vessels/nord-butterfly-46873/
+LIBSRC-LIB44-ENT-VEH-0036664,draft,5790,https://www.hafen-hamburg.de/en/vessels/arklow-future-45281/
+LIBSRC-LIB44-ENT-VEH-0124607,dimension_length,122000,http://www.vesseltracking.net/ship/h-405-9487811
+LIBSRC-LIB44-ENT-VEH-0036957,manufacturer_or_creator,"Tsuneishi Shipbuilding",https://shipspotting.com/photos/3167969
+LIBSRC-LIB44-ENT-VEH-0035985,manufacturer_or_creator,"Namura Shipbuilding",https://shipspotting.com/photos/3466421
+LIBSRC-LIB44-ENT-VEH-0036957,dimension_length,106000,https://www.balticshipping.com/vessel/imo/7016929
+LIBSRC-LIB44-ENT-VEH-0123142,dimension_length,99360,http://www.vesseltracking.net/ship/ophelia-9438298
+LIBSRC-LIB44-ENT-VEH-0123142,dimension_length,118000,http://www.vesseltracking.net/ship/ophelia-8010427
+LIBSRC-LIB44-ENT-VEH-0010876,draft,13510,https://www.hafen-hamburg.de/en/vessels/hyundai-dynasty-47839/
+LIBSRC-LIB44-ENT-VEH-0120945,dimension_length,244000,http://www.vesseltracking.net/ship/minerva-aries-9412177
+LIBSRC-LIB44-ENT-VEH-0134386,dimension_length,82000,https://www.balticshipping.com/vessel/imo/8700034
+LIBSRC-LIB44-ENT-VEH-0134386,dimension_length,124000,https://www.balticshipping.com/vessel/imo/8036093
+LIBSRC-LIB44-ENT-VEH-0047089,dimension_length,183000,https://www.marinetraffic.com/en/ais/details/ships/shipid:372351/mmsi:311009200/imo:9381562/vessel:GULF_BAYNUNAH
+LIBSRC-LIB44-ENT-VEH-0134386,manufacturer_or_creator,"Pella Sietas",https://shipspotting.com/photos/1696117
+LIBSRC-LIB44-ENT-VEH-0128467,dimension_length,115470,http://www.vesseltracking.net/ship/don-ceferino-alfredo-9427093
+LIBSRC-LIB44-ENT-VEH-0047089,manufacturer_or_creator,"HD Hyundai Mipo",https://shipspotting.com/photos/3302966
+LIBSRC-LIB44-ENT-VEH-0122473,dimension_length,180000,http://www.vesseltracking.net/ship/mambo-9363467
+LIBSRC-LIB44-ENT-VEH-0035992,draft,14650,https://www.hafen-hamburg.de/en/vessels/xin-fei-zhou-25866/
+LIBSRC-LIB44-ENT-VEH-0010876,dimension_length,294100,https://www.hafen-hamburg.de/en/vessels/hyundai-dynasty-47839/
+LIBSRC-LIB44-ENT-VEH-0037328,manufacturer_or_creator,"Oshima Shipbuilding",https://shipspotting.com/photos/3475475
+LIBSRC-LIB44-ENT-VEH-0037328,dimension_length,169000,https://www.balticshipping.com/vessel/imo/9565716
+LIBSRC-LIB44-ENT-VEH-0036729,dimension_length,139900,https://www.ship-db.de/nawbn.php?wbn_nr=YAMI1048010D
+LIBSRC-LIB44-ENT-VEH-0037328,dimension_length,75000,https://www.balticshipping.com/vessel/imo/7053238
+LIBSRC-LIB44-ENT-VEH-0134386,draft,12000,https://www.hafen-hamburg.de/de/schiffe
+LIBSRC-LIB44-ENT-VEH-0134386,variant_identifier,"9401166",https://www.hafen-hamburg.de/de/schiffe
+LIBSRC-LIB44-ENT-VEH-0134386,dimension_length,228500,https://www.hafen-hamburg.de/de/schiffe
+LIBSRC-LIB44-ENT-VEH-0036920,dimension_length,170000,https://www.balticshipping.com/vessel/imo/7005308
+LIBSRC-LIB44-ENT-VEH-0129015,dimension_length,129580,http://www.vesseltracking.net/ship/pacific-qingdao-9498688
+LIBSRC-LIB44-ENT-VEH-0096990,manufacturer_or_creator,"Jansen-Werft",https://www.veristar.com/portal/veristarinfo/equasis?IMO=9419292
+LIBSRC-LIB44-ENT-VEH-0037389,manufacturer_or_creator,"HD Hyundai Mipo",https://shipspotting.com/photos/3485370
+LIBSRC-LIB44-ENT-VEH-0037482,manufacturer_or_creator,"Hanwha Ocean",https://shipspotting.com/photos/3458565
+LIBSRC-LIB44-ENT-VEH-0121408,dimension_length,101390,http://www.vesseltracking.net/ship/caroline-theresa-9428449
+LIBSRC-LIB44-ENT-VEH-0129268,draft,6280,https://www.hafen-hamburg.de/en/vessels/ura-30571/
+LIBSRC-LIB44-ENT-VEH-0036570,manufacturer_or_creator,"Hanwha Ocean",https://shipspotting.com/photos/3196719
+LIBSRC-LIB44-ENT-VEH-0121408,draft,7600,https://www.hafen-hamburg.de/en/vessels/caroline-theresa-31888/
+LIBSRC-LIB44-ENT-VEH-0128930,draft,9700,https://www.hafen-hamburg.de/de/schiffe
+LIBSRC-LIB44-ENT-VEH-0128930,draft,9700,https://www.hafen-hamburg.de/de/schiffe/mehrzweckschiffe
+LIBSRC-LIB44-ENT-VEH-0128930,dimension_length,143150,https://www.hafen-hamburg.de/de/schiffe
+LIBSRC-LIB44-ENT-VEH-0128930,dimension_length,143150,https://www.hafen-hamburg.de/de/schiffe/mehrzweckschiffe
+LIBSRC-LIB44-ENT-VEH-0128930,variant_identifier,"9435868",https://www.hafen-hamburg.de/de/schiffe
+LIBSRC-LIB44-ENT-VEH-0128930,variant_identifier,"9435868",https://www.hafen-hamburg.de/de/schiffe/mehrzweckschiffe
+LIBSRC-LIB44-ENT-VEH-0125464,dimension_length,76500,http://www.vesseltracking.net/ship/a-h-valletta-9494618
+LIBSRC-LIB44-ENT-VEH-0120861,dimension_length,189990,http://www.vesseltracking.net/ship/grebe-bulker-9441312
+LIBSRC-LIB44-ENT-VEH-0035412,draft,14190,https://www.hafen-hamburg.de/en/vessels/agri-kinsale-48230/
+LIBSRC-LIB44-ENT-VEH-0037756,manufacturer_or_creator,"Tsuneishi Shipbuilding",https://shipspotting.com/photos/3297412
+LIBSRC-LIB44-ENT-VEH-0037073,manufacturer_or_creator,"Namura Shipbuilding",https://shipspotting.com/photos/2014540
+LIBSRC-LIB44-ENT-VEH-0121547,dimension_length,44000,http://www.vesseltracking.net/ship/jems-9556416
+LIBSRC-LIB44-ENT-VEH-0037644,manufacturer_or_creator,"HD Hyundai Mipo",https://shipspotting.com/photos/3272756
+LIBSRC-LIB44-ENT-VEH-0120861,draft,12000,https://www.hafen-hamburg.de/en/vessels/grebe-bulker-31138/
+LIBSRC-LIB44-ENT-VEH-0128337,dimension_length,229000,http://www.vesseltracking.net/ship/darya-moti-9471252
+LIBSRC-LIB44-ENT-VEH-0035412,manufacturer_or_creator,"Oshima Shipbuilding",https://shipspotting.com/photos/3297114
+LIBSRC-LIB44-ENT-VEH-0010898,dimension_length,137730,https://www.hafen-hamburg.de/en/vessels/jsp-mistral-4738/
+LIBSRC-LIB44-ENT-VEH-0010898,draft,7750,https://www.hafen-hamburg.de/en/vessels/jsp-mistral-4738/
+LIBSRC-LIB44-ENT-VEH-0038394,draft,12600,https://www.hafen-hamburg.de/en/vessels/freja-pegasus-22524/
+LIBSRC-LIB44-ENT-VEH-0039136,draft,5790,https://www.hafen-hamburg.de/en/vessels/blue-tune-29767/
+LIBSRC-LIB44-ENT-VEH-0129511,dimension_length,50000,http://www.vesseltracking.net/ship/kamarina-9499644
+LIBSRC-LIB44-ENT-VEH-0127736,manufacturer_or_creator,"Jiangnan Shipyard",https://www.veristar.com/portal/veristarinfo/equasis?IMO=9473169
+LIBSRC-LIB44-ENT-VEH-0038133,manufacturer_or_creator,"Zhenjiang Sopo Shipbuilding",https://www.balticshipping.com/vessel/imo/9452268
+LIBSRC-LIB44-ENT-VEH-0133186,manufacturer_or_creator,"Fujian Southeast Shipyard",https://shipspotting.com/photos/2755207
+LIBSRC-LIB44-ENT-VEH-0127736,dimension_length,225000,http://www.vesseltracking.net/ship/galapagos-9473169
+LIBSRC-LIB44-ENT-VEH-0119680,dimension_length,244000,http://www.vesseltracking.net/ship/captain-a-stellatos-9439670
+LIBSRC-LIB44-ENT-VEH-0128861,dimension_length,110000,http://www.vesseltracking.net/ship/northsea-alpha-9547764
+LIBSRC-LIB44-ENT-VEH-0127736,dimension_length,110000,https://www.balticshipping.com/vessel/imo/9249879
+LIBSRC-LIB44-ENT-VEH-0038388,draft,14500,https://www.hafen-hamburg.de/en/vessels/sm-new-york-3594/
+LIBSRC-LIB44-ENT-VEH-0042317,manufacturer_or_creator,"Hanwha Ocean",https://shipspotting.com/photos/3587282
+LIBSRC-LIB44-ENT-VEH-0038090,draft,9900,https://www.hafen-hamburg.de/en/vessels/four-nabucco-28918/
+LIBSRC-LIB44-ENT-VEH-0129199,dimension_length,178700,http://www.vesseltracking.net/ship/clipper-tarpon-9406099
+LIBSRC-LIB44-ENT-VEH-0042317,draft,18220,https://www.hafen-hamburg.de/en/vessels/anangel-transporter-48292/
+LIBSRC-LIB44-ENT-VEH-0037655,manufacturer_or_creator,"Samsung Heavy Industries",https://shipspotting.com/photos/3597690
+LIBSRC-LIB44-ENT-VEH-0121957,dimension_length,23100,http://www.vesseltracking.net/ship/aegean-sea-8644333
+LIBSRC-LIB44-ENT-VEH-0039161,manufacturer_or_creator,"Jiangnan Shipyard",https://shipspotting.com/photos/2973936
+LIBSRC-LIB44-ENT-VEH-0042317,dimension_length,292000,https://www.hafen-hamburg.de/en/vessels/anangel-transporter-48292/
+LIBSRC-LIB44-ENT-VEH-0039560,dimension_length,182000,http://www.vesseltracking.net/ship/pioneer-9260079
+LIBSRC-LIB44-ENT-VEH-0119484,draft,8000,https://www.hafen-hamburg.de/en/vessels/willem-van-oranje-31004/
+LIBSRC-LIB44-ENT-VEH-0038754,dimension_length,179000,https://www.balticshipping.com/vessel/imo/9597642
+LIBSRC-LIB44-ENT-VEH-0121957,dimension_length,238000,https://www.balticshipping.com/vessel/imo/8008292
+LIBSRC-LIB44-ENT-VEH-0036712,dimension_length,134440,https://www.hafen-hamburg.de/de/schiffe/feederschiffe
+LIBSRC-LIB44-ENT-VEH-0036712,draft,8710,https://www.hafen-hamburg.de/de/schiffe/feederschiffe
+LIBSRC-LIB44-ENT-VEH-0036712,variant_identifier,"9376048",https://www.hafen-hamburg.de/de/schiffe/feederschiffe
+LIBSRC-LIB44-ENT-VEH-0038548,draft,14000,https://www.hafen-hamburg.de/en/vessels/nyk-arcadia-21397/
+LIBSRC-LIB44-ENT-VEH-0130062,draft,10670,https://www.hafen-hamburg.de/en/vessels/yuka-d-48769/
+LIBSRC-LIB44-ENT-VEH-0131149,manufacturer_or_creator,"Huangpu Wenchong Shipbuilding",https://shipspotting.com/photos/3278053
+LIBSRC-LIB44-ENT-VEH-0038504,draft,5400,https://www.hafen-hamburg.de/en/vessels/anne-dorte-45848/
+LIBSRC-LIB44-ENT-VEH-0038500,draft,12560,https://www.hafen-hamburg.de/en/vessels/torm-amalie-47470/
+LIBSRC-LIB44-ENT-VEH-0121734,draft,5350,https://www.hafen-hamburg.de/en/vessels/peak-bilbao-33869/
+LIBSRC-LIB44-ENT-VEH-0126517,dimension_length,189990,http://www.vesseltracking.net/ship/serenitas-n-9567453
+LIBSRC-LIB44-ENT-VEH-0135364,manufacturer_or_creator,"Peene-Werft",https://www.veristar.com/portal/veristarinfo/equasis?IMO=9588122
+LIBSRC-LIB44-ENT-VEH-0038344,manufacturer_or_creator,"Oshima Shipbuilding",https://shipspotting.com/photos/3556030
+LIBSRC-LIB44-ENT-VEH-0038579,draft,9800,https://www.hafen-hamburg.de/en/vessels/thorco-isadora-45864/
+LIBSRC-LIB44-ENT-VEH-0038690,dimension_length,116500,http://www.vesseltracking.net/ship/akatsuki-maru-9700732
+LIBSRC-LIB44-ENT-VEH-0036545,draft,5830,https://www.hafen-hamburg.de/en/vessels/cederborg-45233/
+LIBSRC-LIB44-ENT-VEH-0125763,dimension_length,49150,http://www.vesseltracking.net/ship/alexander-again-9631838
+LIBSRC-LIB44-ENT-VEH-0125455,dimension_length,187000,http://www.vesseltracking.net/ship/federica-9612313
+LIBSRC-LIB44-ENT-VEH-0011066,dimension_length,180000,https://www.marinetraffic.com/en/ais/details/ships/shipid:465008/mmsi:373432000/imo:9621182/vessel:DL_TULIP
+LIBSRC-LIB44-ENT-VEH-0039159,draft,14700,https://www.hafen-hamburg.de/en/vessels/good-luck-47915/
+LIBSRC-LIB44-ENT-VEH-0038237,manufacturer_or_creator,"Hijos de J. Barreras",https://shipspotting.com/photos/3497778
+LIBSRC-LIB44-ENT-VEH-0010932,draft,14500,https://www.hafen-hamburg.de/en/vessels/santa-catarina-25518/
+LIBSRC-LIB44-ENT-VEH-0010932,dimension_length,332000,https://www.hafen-hamburg.de/en/vessels/santa-catarina-25518/
+LIBSRC-LIB44-ENT-VEH-0010932,manufacturer_or_creator,"Hanwha Ocean",https://shipspotting.com/photos/3566525
+LIBSRC-LIB44-ENT-VEH-0039428,dimension_length,82000,https://www.balticshipping.com/vessel/imo/8008383
+LIBSRC-LIB44-ENT-VEH-0129056,dimension_length,190000,http://www.vesseltracking.net/ship/ap-ston-9652131
+LIBSRC-LIB44-ENT-VEH-0129056,manufacturer_or_creator,"STX Offshore & Shipbuilding",https://www.veristar.com/portal/veristarinfo/equasis?IMO=9652131
+LIBSRC-LIB44-ENT-VEH-0131819,draft,18240,https://www.hafen-hamburg.de/en/vessels/cape-lily-47894/
+LIBSRC-LIB44-ENT-VEH-0132166,manufacturer_or_creator,"Fujian Southeast Shipyard",https://shipspotting.com/photos/3355813
+LIBSRC-LIB44-ENT-VEH-0126970,dimension_length,36900,http://www.vesseltracking.net/ship/sztorm-9614749
