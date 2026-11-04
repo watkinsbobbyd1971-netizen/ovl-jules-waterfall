@@ -1,0 +1,1437 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB56-ENT-NHT-0001467,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/26386
+LIBSRC-LIB56-ENT-NHT-0001467,model_identifier,"""535i""",https://www.fueleconomy.gov/ws/rest/vehicle/26386
+LIBSRC-LIB56-ENT-NHT-0001467,model_year,"""2010""",https://www.fueleconomy.gov/ws/rest/vehicle/26386
+LIBSRC-LIB56-ENT-NHT-0001467,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/26386
+LIBSRC-LIB56-ENT-NHT-0001468,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/26391
+LIBSRC-LIB56-ENT-NHT-0001468,model_identifier,"""550i""",https://www.fueleconomy.gov/ws/rest/vehicle/26391
+LIBSRC-LIB56-ENT-NHT-0001468,model_year,"""2010""",https://www.fueleconomy.gov/ws/rest/vehicle/26391
+LIBSRC-LIB56-ENT-NHT-0001468,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/26391
+LIBSRC-LIB56-ENT-NHT-0001470,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/29728
+LIBSRC-LIB56-ENT-NHT-0001470,model_identifier,"""750i""",https://www.fueleconomy.gov/ws/rest/vehicle/29728
+LIBSRC-LIB56-ENT-NHT-0001470,model_year,"""2010""",https://www.fueleconomy.gov/ws/rest/vehicle/29728
+LIBSRC-LIB56-ENT-NHT-0001470,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/29728
+LIBSRC-LIB56-ENT-NHT-0001471,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/29730
+LIBSRC-LIB56-ENT-NHT-0001471,model_identifier,"""750Li""",https://www.fueleconomy.gov/ws/rest/vehicle/29730
+LIBSRC-LIB56-ENT-NHT-0001471,model_year,"""2010""",https://www.fueleconomy.gov/ws/rest/vehicle/29730
+LIBSRC-LIB56-ENT-NHT-0001471,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/29730
+LIBSRC-LIB56-ENT-NHT-0001472,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/29869
+LIBSRC-LIB56-ENT-NHT-0001472,model_identifier,"""760Li""",https://www.fueleconomy.gov/ws/rest/vehicle/29869
+LIBSRC-LIB56-ENT-NHT-0001472,model_year,"""2010""",https://www.fueleconomy.gov/ws/rest/vehicle/29869
+LIBSRC-LIB56-ENT-NHT-0001472,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/29869
+LIBSRC-LIB56-ENT-NHT-0001476,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/26345
+LIBSRC-LIB56-ENT-NHT-0001476,model_identifier,"""M6""",https://www.fueleconomy.gov/ws/rest/vehicle/26345
+LIBSRC-LIB56-ENT-NHT-0001476,model_year,"""2010""",https://www.fueleconomy.gov/ws/rest/vehicle/26345
+LIBSRC-LIB56-ENT-NHT-0001476,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/26345
+LIBSRC-LIB56-ENT-NHT-0001478,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/26393
+LIBSRC-LIB56-ENT-NHT-0001478,model_identifier,"""M5""",https://www.fueleconomy.gov/ws/rest/vehicle/26393
+LIBSRC-LIB56-ENT-NHT-0001478,model_year,"""2010""",https://www.fueleconomy.gov/ws/rest/vehicle/26393
+LIBSRC-LIB56-ENT-NHT-0001478,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/26393
+LIBSRC-LIB56-ENT-NHT-0001506,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/30010
+LIBSRC-LIB56-ENT-NHT-0001506,model_identifier,"""128i""",https://www.fueleconomy.gov/ws/rest/vehicle/30010
+LIBSRC-LIB56-ENT-NHT-0001506,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30010
+LIBSRC-LIB56-ENT-NHT-0001506,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30010
+LIBSRC-LIB56-ENT-NHT-0001507,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/30012
+LIBSRC-LIB56-ENT-NHT-0001507,model_identifier,"""135i""",https://www.fueleconomy.gov/ws/rest/vehicle/30012
+LIBSRC-LIB56-ENT-NHT-0001507,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30012
+LIBSRC-LIB56-ENT-NHT-0001507,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30012
+LIBSRC-LIB56-ENT-NHT-0001508,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/30053
+LIBSRC-LIB56-ENT-NHT-0001508,model_identifier,"""328i""",https://www.fueleconomy.gov/ws/rest/vehicle/30053
+LIBSRC-LIB56-ENT-NHT-0001508,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30053
+LIBSRC-LIB56-ENT-NHT-0001508,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30053
+LIBSRC-LIB56-ENT-NHT-0001510,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/30058
+LIBSRC-LIB56-ENT-NHT-0001510,model_identifier,"""335i""",https://www.fueleconomy.gov/ws/rest/vehicle/30058
+LIBSRC-LIB56-ENT-NHT-0001510,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30058
+LIBSRC-LIB56-ENT-NHT-0001510,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30058
+LIBSRC-LIB56-ENT-NHT-0001512,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/30056
+LIBSRC-LIB56-ENT-NHT-0001512,model_identifier,"""335d""",https://www.fueleconomy.gov/ws/rest/vehicle/30056
+LIBSRC-LIB56-ENT-NHT-0001512,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30056
+LIBSRC-LIB56-ENT-NHT-0001512,propulsion_type,"""Diesel""",https://www.fueleconomy.gov/ws/rest/vehicle/30056
+LIBSRC-LIB56-ENT-NHT-0001513,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/30070
+LIBSRC-LIB56-ENT-NHT-0001513,model_identifier,"""528i""",https://www.fueleconomy.gov/ws/rest/vehicle/30070
+LIBSRC-LIB56-ENT-NHT-0001513,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30070
+LIBSRC-LIB56-ENT-NHT-0001513,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30070
+LIBSRC-LIB56-ENT-NHT-0001514,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/30660
+LIBSRC-LIB56-ENT-NHT-0001514,model_identifier,"""535i""",https://www.fueleconomy.gov/ws/rest/vehicle/30660
+LIBSRC-LIB56-ENT-NHT-0001514,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30660
+LIBSRC-LIB56-ENT-NHT-0001514,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30660
+LIBSRC-LIB56-ENT-NHT-0001515,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/30073
+LIBSRC-LIB56-ENT-NHT-0001515,model_identifier,"""550i""",https://www.fueleconomy.gov/ws/rest/vehicle/30073
+LIBSRC-LIB56-ENT-NHT-0001515,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30073
+LIBSRC-LIB56-ENT-NHT-0001515,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30073
+LIBSRC-LIB56-ENT-NHT-0001516,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/30090
+LIBSRC-LIB56-ENT-NHT-0001516,model_identifier,"""740i""",https://www.fueleconomy.gov/ws/rest/vehicle/30090
+LIBSRC-LIB56-ENT-NHT-0001516,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30090
+LIBSRC-LIB56-ENT-NHT-0001516,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30090
+LIBSRC-LIB56-ENT-NHT-0001517,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/30091
+LIBSRC-LIB56-ENT-NHT-0001517,model_identifier,"""740Li""",https://www.fueleconomy.gov/ws/rest/vehicle/30091
+LIBSRC-LIB56-ENT-NHT-0001517,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30091
+LIBSRC-LIB56-ENT-NHT-0001517,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30091
+LIBSRC-LIB56-ENT-NHT-0001518,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/30092
+LIBSRC-LIB56-ENT-NHT-0001518,model_identifier,"""750i""",https://www.fueleconomy.gov/ws/rest/vehicle/30092
+LIBSRC-LIB56-ENT-NHT-0001518,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30092
+LIBSRC-LIB56-ENT-NHT-0001518,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30092
+LIBSRC-LIB56-ENT-NHT-0001519,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/30679
+LIBSRC-LIB56-ENT-NHT-0001519,model_identifier,"""750Li""",https://www.fueleconomy.gov/ws/rest/vehicle/30679
+LIBSRC-LIB56-ENT-NHT-0001519,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30679
+LIBSRC-LIB56-ENT-NHT-0001519,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30679
+LIBSRC-LIB56-ENT-NHT-0001520,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/30682
+LIBSRC-LIB56-ENT-NHT-0001520,model_identifier,"""760Li""",https://www.fueleconomy.gov/ws/rest/vehicle/30682
+LIBSRC-LIB56-ENT-NHT-0001520,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30682
+LIBSRC-LIB56-ENT-NHT-0001520,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30682
+LIBSRC-LIB56-ENT-NHT-0001553,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/31154
+LIBSRC-LIB56-ENT-NHT-0001553,model_identifier,"""128i""",https://www.fueleconomy.gov/ws/rest/vehicle/31154
+LIBSRC-LIB56-ENT-NHT-0001553,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/31154
+LIBSRC-LIB56-ENT-NHT-0001553,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/31154
+LIBSRC-LIB56-ENT-NHT-0001554,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/31156
+LIBSRC-LIB56-ENT-NHT-0001554,model_identifier,"""135i""",https://www.fueleconomy.gov/ws/rest/vehicle/31156
+LIBSRC-LIB56-ENT-NHT-0001554,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/31156
+LIBSRC-LIB56-ENT-NHT-0001554,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/31156
+LIBSRC-LIB56-ENT-NHT-0001555,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/32175
+LIBSRC-LIB56-ENT-NHT-0001555,model_identifier,"""328i""",https://www.fueleconomy.gov/ws/rest/vehicle/32175
+LIBSRC-LIB56-ENT-NHT-0001555,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/32175
+LIBSRC-LIB56-ENT-NHT-0001555,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32175
+LIBSRC-LIB56-ENT-NHT-0001557,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/32177
+LIBSRC-LIB56-ENT-NHT-0001557,model_identifier,"""335i""",https://www.fueleconomy.gov/ws/rest/vehicle/32177
+LIBSRC-LIB56-ENT-NHT-0001557,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/32177
+LIBSRC-LIB56-ENT-NHT-0001557,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32177
+LIBSRC-LIB56-ENT-NHT-0001559,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/32067
+LIBSRC-LIB56-ENT-NHT-0001559,model_identifier,"""528i""",https://www.fueleconomy.gov/ws/rest/vehicle/32067
+LIBSRC-LIB56-ENT-NHT-0001559,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/32067
+LIBSRC-LIB56-ENT-NHT-0001559,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32067
+LIBSRC-LIB56-ENT-NHT-0001560,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/32069
+LIBSRC-LIB56-ENT-NHT-0001560,model_identifier,"""535i""",https://www.fueleconomy.gov/ws/rest/vehicle/32069
+LIBSRC-LIB56-ENT-NHT-0001560,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/32069
+LIBSRC-LIB56-ENT-NHT-0001560,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32069
+LIBSRC-LIB56-ENT-NHT-0001561,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/31737
+LIBSRC-LIB56-ENT-NHT-0001561,model_identifier,"""550i""",https://www.fueleconomy.gov/ws/rest/vehicle/31737
+LIBSRC-LIB56-ENT-NHT-0001561,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/31737
+LIBSRC-LIB56-ENT-NHT-0001561,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/31737
+LIBSRC-LIB56-ENT-NHT-0001562,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/31228
+LIBSRC-LIB56-ENT-NHT-0001562,model_identifier,"""740i""",https://www.fueleconomy.gov/ws/rest/vehicle/31228
+LIBSRC-LIB56-ENT-NHT-0001562,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/31228
+LIBSRC-LIB56-ENT-NHT-0001562,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/31228
+LIBSRC-LIB56-ENT-NHT-0001563,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/31229
+LIBSRC-LIB56-ENT-NHT-0001563,model_identifier,"""740Li""",https://www.fueleconomy.gov/ws/rest/vehicle/31229
+LIBSRC-LIB56-ENT-NHT-0001563,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/31229
+LIBSRC-LIB56-ENT-NHT-0001563,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/31229
+LIBSRC-LIB56-ENT-NHT-0001564,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/31230
+LIBSRC-LIB56-ENT-NHT-0001564,model_identifier,"""750i""",https://www.fueleconomy.gov/ws/rest/vehicle/31230
+LIBSRC-LIB56-ENT-NHT-0001564,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/31230
+LIBSRC-LIB56-ENT-NHT-0001564,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/31230
+LIBSRC-LIB56-ENT-NHT-0001565,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/31232
+LIBSRC-LIB56-ENT-NHT-0001565,model_identifier,"""750Li""",https://www.fueleconomy.gov/ws/rest/vehicle/31232
+LIBSRC-LIB56-ENT-NHT-0001565,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/31232
+LIBSRC-LIB56-ENT-NHT-0001565,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/31232
+LIBSRC-LIB56-ENT-NHT-0001566,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/32099
+LIBSRC-LIB56-ENT-NHT-0001566,model_identifier,"""760Li""",https://www.fueleconomy.gov/ws/rest/vehicle/32099
+LIBSRC-LIB56-ENT-NHT-0001566,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/32099
+LIBSRC-LIB56-ENT-NHT-0001566,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32099
+LIBSRC-LIB56-ENT-NHT-0001574,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/33363
+LIBSRC-LIB56-ENT-NHT-0001574,model_identifier,"""ActiveHybrid 5""",https://www.fueleconomy.gov/ws/rest/vehicle/33363
+LIBSRC-LIB56-ENT-NHT-0001574,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/33363
+LIBSRC-LIB56-ENT-NHT-0001574,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33363
+LIBSRC-LIB56-ENT-NHT-0001606,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/33031
+LIBSRC-LIB56-ENT-NHT-0001606,model_identifier,"""128i""",https://www.fueleconomy.gov/ws/rest/vehicle/33031
+LIBSRC-LIB56-ENT-NHT-0001606,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/33031
+LIBSRC-LIB56-ENT-NHT-0001606,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33031
+LIBSRC-LIB56-ENT-NHT-0001607,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/32885
+LIBSRC-LIB56-ENT-NHT-0001607,model_identifier,"""135i""",https://www.fueleconomy.gov/ws/rest/vehicle/32885
+LIBSRC-LIB56-ENT-NHT-0001607,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/32885
+LIBSRC-LIB56-ENT-NHT-0001607,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32885
+LIBSRC-LIB56-ENT-NHT-0001608,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/32904
+LIBSRC-LIB56-ENT-NHT-0001608,model_identifier,"""328i""",https://www.fueleconomy.gov/ws/rest/vehicle/32904
+LIBSRC-LIB56-ENT-NHT-0001608,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/32904
+LIBSRC-LIB56-ENT-NHT-0001608,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32904
+LIBSRC-LIB56-ENT-NHT-0001610,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/33054
+LIBSRC-LIB56-ENT-NHT-0001610,model_identifier,"""335i""",https://www.fueleconomy.gov/ws/rest/vehicle/33054
+LIBSRC-LIB56-ENT-NHT-0001610,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/33054
+LIBSRC-LIB56-ENT-NHT-0001610,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33054
+LIBSRC-LIB56-ENT-NHT-0001612,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/32963
+LIBSRC-LIB56-ENT-NHT-0001612,model_identifier,"""528i""",https://www.fueleconomy.gov/ws/rest/vehicle/32963
+LIBSRC-LIB56-ENT-NHT-0001612,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/32963
+LIBSRC-LIB56-ENT-NHT-0001612,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32963
+LIBSRC-LIB56-ENT-NHT-0001613,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/32965
+LIBSRC-LIB56-ENT-NHT-0001613,model_identifier,"""535i""",https://www.fueleconomy.gov/ws/rest/vehicle/32965
+LIBSRC-LIB56-ENT-NHT-0001613,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/32965
+LIBSRC-LIB56-ENT-NHT-0001613,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32965
+LIBSRC-LIB56-ENT-NHT-0001614,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/32968
+LIBSRC-LIB56-ENT-NHT-0001614,model_identifier,"""550i""",https://www.fueleconomy.gov/ws/rest/vehicle/32968
+LIBSRC-LIB56-ENT-NHT-0001614,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/32968
+LIBSRC-LIB56-ENT-NHT-0001614,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32968
+LIBSRC-LIB56-ENT-NHT-0001615,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/33094
+LIBSRC-LIB56-ENT-NHT-0001615,model_identifier,"""740i""",https://www.fueleconomy.gov/ws/rest/vehicle/33094
+LIBSRC-LIB56-ENT-NHT-0001615,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/33094
+LIBSRC-LIB56-ENT-NHT-0001615,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33094
+LIBSRC-LIB56-ENT-NHT-0001616,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/33095
+LIBSRC-LIB56-ENT-NHT-0001616,model_identifier,"""740Li""",https://www.fueleconomy.gov/ws/rest/vehicle/33095
+LIBSRC-LIB56-ENT-NHT-0001616,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/33095
+LIBSRC-LIB56-ENT-NHT-0001616,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33095
+LIBSRC-LIB56-ENT-NHT-0001617,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/33097
+LIBSRC-LIB56-ENT-NHT-0001617,model_identifier,"""750i""",https://www.fueleconomy.gov/ws/rest/vehicle/33097
+LIBSRC-LIB56-ENT-NHT-0001617,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/33097
+LIBSRC-LIB56-ENT-NHT-0001617,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33097
+LIBSRC-LIB56-ENT-NHT-0001618,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/33098
+LIBSRC-LIB56-ENT-NHT-0001618,model_identifier,"""750Li""",https://www.fueleconomy.gov/ws/rest/vehicle/33098
+LIBSRC-LIB56-ENT-NHT-0001618,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/33098
+LIBSRC-LIB56-ENT-NHT-0001618,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33098
+LIBSRC-LIB56-ENT-NHT-0001619,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/33105
+LIBSRC-LIB56-ENT-NHT-0001619,model_identifier,"""760Li""",https://www.fueleconomy.gov/ws/rest/vehicle/33105
+LIBSRC-LIB56-ENT-NHT-0001619,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/33105
+LIBSRC-LIB56-ENT-NHT-0001619,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33105
+LIBSRC-LIB56-ENT-NHT-0001628,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/33076
+LIBSRC-LIB56-ENT-NHT-0001628,model_identifier,"""M5""",https://www.fueleconomy.gov/ws/rest/vehicle/33076
+LIBSRC-LIB56-ENT-NHT-0001628,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/33076
+LIBSRC-LIB56-ENT-NHT-0001628,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33076
+LIBSRC-LIB56-ENT-NHT-0001629,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/33502
+LIBSRC-LIB56-ENT-NHT-0001629,model_identifier,"""320i""",https://www.fueleconomy.gov/ws/rest/vehicle/33502
+LIBSRC-LIB56-ENT-NHT-0001629,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/33502
+LIBSRC-LIB56-ENT-NHT-0001629,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33502
+LIBSRC-LIB56-ENT-NHT-0001630,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/33073
+LIBSRC-LIB56-ENT-NHT-0001630,model_identifier,"""ActiveHybrid 5""",https://www.fueleconomy.gov/ws/rest/vehicle/33073
+LIBSRC-LIB56-ENT-NHT-0001630,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/33073
+LIBSRC-LIB56-ENT-NHT-0001630,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33073
+LIBSRC-LIB56-ENT-NHT-0001656,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34155
+LIBSRC-LIB56-ENT-NHT-0001656,model_identifier,"""328i""",https://www.fueleconomy.gov/ws/rest/vehicle/34155
+LIBSRC-LIB56-ENT-NHT-0001656,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34155
+LIBSRC-LIB56-ENT-NHT-0001656,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34155
+LIBSRC-LIB56-ENT-NHT-0001657,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34048
+LIBSRC-LIB56-ENT-NHT-0001657,model_identifier,"""335i""",https://www.fueleconomy.gov/ws/rest/vehicle/34048
+LIBSRC-LIB56-ENT-NHT-0001657,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34048
+LIBSRC-LIB56-ENT-NHT-0001657,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34048
+LIBSRC-LIB56-ENT-NHT-0001659,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34072
+LIBSRC-LIB56-ENT-NHT-0001659,model_identifier,"""528i""",https://www.fueleconomy.gov/ws/rest/vehicle/34072
+LIBSRC-LIB56-ENT-NHT-0001659,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34072
+LIBSRC-LIB56-ENT-NHT-0001659,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34072
+LIBSRC-LIB56-ENT-NHT-0001660,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34073
+LIBSRC-LIB56-ENT-NHT-0001660,model_identifier,"""535i""",https://www.fueleconomy.gov/ws/rest/vehicle/34073
+LIBSRC-LIB56-ENT-NHT-0001660,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34073
+LIBSRC-LIB56-ENT-NHT-0001660,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34073
+LIBSRC-LIB56-ENT-NHT-0001661,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34174
+LIBSRC-LIB56-ENT-NHT-0001661,model_identifier,"""550i""",https://www.fueleconomy.gov/ws/rest/vehicle/34174
+LIBSRC-LIB56-ENT-NHT-0001661,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34174
+LIBSRC-LIB56-ENT-NHT-0001661,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34174
+LIBSRC-LIB56-ENT-NHT-0001662,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34098
+LIBSRC-LIB56-ENT-NHT-0001662,model_identifier,"""740i""",https://www.fueleconomy.gov/ws/rest/vehicle/34098
+LIBSRC-LIB56-ENT-NHT-0001662,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34098
+LIBSRC-LIB56-ENT-NHT-0001662,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34098
+LIBSRC-LIB56-ENT-NHT-0001663,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34099
+LIBSRC-LIB56-ENT-NHT-0001663,model_identifier,"""740Li""",https://www.fueleconomy.gov/ws/rest/vehicle/34099
+LIBSRC-LIB56-ENT-NHT-0001663,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34099
+LIBSRC-LIB56-ENT-NHT-0001663,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34099
+LIBSRC-LIB56-ENT-NHT-0001664,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34196
+LIBSRC-LIB56-ENT-NHT-0001664,model_identifier,"""750i""",https://www.fueleconomy.gov/ws/rest/vehicle/34196
+LIBSRC-LIB56-ENT-NHT-0001664,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34196
+LIBSRC-LIB56-ENT-NHT-0001664,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34196
+LIBSRC-LIB56-ENT-NHT-0001665,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34197
+LIBSRC-LIB56-ENT-NHT-0001665,model_identifier,"""750Li""",https://www.fueleconomy.gov/ws/rest/vehicle/34197
+LIBSRC-LIB56-ENT-NHT-0001665,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34197
+LIBSRC-LIB56-ENT-NHT-0001665,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34197
+LIBSRC-LIB56-ENT-NHT-0001666,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34204
+LIBSRC-LIB56-ENT-NHT-0001666,model_identifier,"""760Li""",https://www.fueleconomy.gov/ws/rest/vehicle/34204
+LIBSRC-LIB56-ENT-NHT-0001666,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34204
+LIBSRC-LIB56-ENT-NHT-0001666,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34204
+LIBSRC-LIB56-ENT-NHT-0001674,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/33662
+LIBSRC-LIB56-ENT-NHT-0001674,model_identifier,"""M5""",https://www.fueleconomy.gov/ws/rest/vehicle/33662
+LIBSRC-LIB56-ENT-NHT-0001674,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/33662
+LIBSRC-LIB56-ENT-NHT-0001674,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33662
+LIBSRC-LIB56-ENT-NHT-0001675,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34695
+LIBSRC-LIB56-ENT-NHT-0001675,model_identifier,"""228i""",https://www.fueleconomy.gov/ws/rest/vehicle/34695
+LIBSRC-LIB56-ENT-NHT-0001675,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34695
+LIBSRC-LIB56-ENT-NHT-0001675,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34695
+LIBSRC-LIB56-ENT-NHT-0001676,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34726
+LIBSRC-LIB56-ENT-NHT-0001676,model_identifier,"""M235i""",https://www.fueleconomy.gov/ws/rest/vehicle/34726
+LIBSRC-LIB56-ENT-NHT-0001676,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34726
+LIBSRC-LIB56-ENT-NHT-0001676,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34726
+LIBSRC-LIB56-ENT-NHT-0001677,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34046
+LIBSRC-LIB56-ENT-NHT-0001677,model_identifier,"""320i""",https://www.fueleconomy.gov/ws/rest/vehicle/34046
+LIBSRC-LIB56-ENT-NHT-0001677,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34046
+LIBSRC-LIB56-ENT-NHT-0001677,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34046
+LIBSRC-LIB56-ENT-NHT-0001678,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34050
+LIBSRC-LIB56-ENT-NHT-0001678,model_identifier,"""328d""",https://www.fueleconomy.gov/ws/rest/vehicle/34050
+LIBSRC-LIB56-ENT-NHT-0001678,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34050
+LIBSRC-LIB56-ENT-NHT-0001678,propulsion_type,"""Diesel""",https://www.fueleconomy.gov/ws/rest/vehicle/34050
+LIBSRC-LIB56-ENT-NHT-0001680,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35599
+LIBSRC-LIB56-ENT-NHT-0001680,model_identifier,"""i8""",https://www.fueleconomy.gov/ws/rest/vehicle/35599
+LIBSRC-LIB56-ENT-NHT-0001680,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/35599
+LIBSRC-LIB56-ENT-NHT-0001680,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35599
+LIBSRC-LIB56-ENT-NHT-0001681,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34431
+LIBSRC-LIB56-ENT-NHT-0001681,model_identifier,"""ActiveHybrid 3""",https://www.fueleconomy.gov/ws/rest/vehicle/34431
+LIBSRC-LIB56-ENT-NHT-0001681,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34431
+LIBSRC-LIB56-ENT-NHT-0001681,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34431
+LIBSRC-LIB56-ENT-NHT-0001684,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34172
+LIBSRC-LIB56-ENT-NHT-0001684,model_identifier,"""535d""",https://www.fueleconomy.gov/ws/rest/vehicle/34172
+LIBSRC-LIB56-ENT-NHT-0001684,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34172
+LIBSRC-LIB56-ENT-NHT-0001684,propulsion_type,"""Diesel""",https://www.fueleconomy.gov/ws/rest/vehicle/34172
+LIBSRC-LIB56-ENT-NHT-0001685,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34433
+LIBSRC-LIB56-ENT-NHT-0001685,model_identifier,"""ActiveHybrid 5""",https://www.fueleconomy.gov/ws/rest/vehicle/34433
+LIBSRC-LIB56-ENT-NHT-0001685,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34433
+LIBSRC-LIB56-ENT-NHT-0001685,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34433
+LIBSRC-LIB56-ENT-NHT-0001711,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35330
+LIBSRC-LIB56-ENT-NHT-0001711,model_identifier,"""328i""",https://www.fueleconomy.gov/ws/rest/vehicle/35330
+LIBSRC-LIB56-ENT-NHT-0001711,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35330
+LIBSRC-LIB56-ENT-NHT-0001711,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35330
+LIBSRC-LIB56-ENT-NHT-0001712,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34978
+LIBSRC-LIB56-ENT-NHT-0001712,model_identifier,"""M3""",https://www.fueleconomy.gov/ws/rest/vehicle/34978
+LIBSRC-LIB56-ENT-NHT-0001712,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/34978
+LIBSRC-LIB56-ENT-NHT-0001712,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34978
+LIBSRC-LIB56-ENT-NHT-0001713,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35419
+LIBSRC-LIB56-ENT-NHT-0001713,model_identifier,"""335i""",https://www.fueleconomy.gov/ws/rest/vehicle/35419
+LIBSRC-LIB56-ENT-NHT-0001713,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35419
+LIBSRC-LIB56-ENT-NHT-0001713,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35419
+LIBSRC-LIB56-ENT-NHT-0001715,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34853
+LIBSRC-LIB56-ENT-NHT-0001715,model_identifier,"""528i""",https://www.fueleconomy.gov/ws/rest/vehicle/34853
+LIBSRC-LIB56-ENT-NHT-0001715,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/34853
+LIBSRC-LIB56-ENT-NHT-0001715,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34853
+LIBSRC-LIB56-ENT-NHT-0001716,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35357
+LIBSRC-LIB56-ENT-NHT-0001716,model_identifier,"""535i""",https://www.fueleconomy.gov/ws/rest/vehicle/35357
+LIBSRC-LIB56-ENT-NHT-0001716,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35357
+LIBSRC-LIB56-ENT-NHT-0001716,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35357
+LIBSRC-LIB56-ENT-NHT-0001717,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35434
+LIBSRC-LIB56-ENT-NHT-0001717,model_identifier,"""550i""",https://www.fueleconomy.gov/ws/rest/vehicle/35434
+LIBSRC-LIB56-ENT-NHT-0001717,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35434
+LIBSRC-LIB56-ENT-NHT-0001717,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35434
+LIBSRC-LIB56-ENT-NHT-0001718,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35559
+LIBSRC-LIB56-ENT-NHT-0001718,model_identifier,"""740i""",https://www.fueleconomy.gov/ws/rest/vehicle/35559
+LIBSRC-LIB56-ENT-NHT-0001718,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35559
+LIBSRC-LIB56-ENT-NHT-0001718,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35559
+LIBSRC-LIB56-ENT-NHT-0001719,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35560
+LIBSRC-LIB56-ENT-NHT-0001719,model_identifier,"""740Li""",https://www.fueleconomy.gov/ws/rest/vehicle/35560
+LIBSRC-LIB56-ENT-NHT-0001719,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35560
+LIBSRC-LIB56-ENT-NHT-0001719,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35560
+LIBSRC-LIB56-ENT-NHT-0001720,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35446
+LIBSRC-LIB56-ENT-NHT-0001720,model_identifier,"""750i""",https://www.fueleconomy.gov/ws/rest/vehicle/35446
+LIBSRC-LIB56-ENT-NHT-0001720,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35446
+LIBSRC-LIB56-ENT-NHT-0001720,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35446
+LIBSRC-LIB56-ENT-NHT-0001721,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35505
+LIBSRC-LIB56-ENT-NHT-0001721,model_identifier,"""750Li""",https://www.fueleconomy.gov/ws/rest/vehicle/35505
+LIBSRC-LIB56-ENT-NHT-0001721,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35505
+LIBSRC-LIB56-ENT-NHT-0001721,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35505
+LIBSRC-LIB56-ENT-NHT-0001722,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35629
+LIBSRC-LIB56-ENT-NHT-0001722,model_identifier,"""760Li""",https://www.fueleconomy.gov/ws/rest/vehicle/35629
+LIBSRC-LIB56-ENT-NHT-0001722,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35629
+LIBSRC-LIB56-ENT-NHT-0001722,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35629
+LIBSRC-LIB56-ENT-NHT-0001730,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/34997
+LIBSRC-LIB56-ENT-NHT-0001730,model_identifier,"""M5""",https://www.fueleconomy.gov/ws/rest/vehicle/34997
+LIBSRC-LIB56-ENT-NHT-0001730,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/34997
+LIBSRC-LIB56-ENT-NHT-0001730,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34997
+LIBSRC-LIB56-ENT-NHT-0001731,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35284
+LIBSRC-LIB56-ENT-NHT-0001731,model_identifier,"""228i""",https://www.fueleconomy.gov/ws/rest/vehicle/35284
+LIBSRC-LIB56-ENT-NHT-0001731,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35284
+LIBSRC-LIB56-ENT-NHT-0001731,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35284
+LIBSRC-LIB56-ENT-NHT-0001732,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35323
+LIBSRC-LIB56-ENT-NHT-0001732,model_identifier,"""M235i""",https://www.fueleconomy.gov/ws/rest/vehicle/35323
+LIBSRC-LIB56-ENT-NHT-0001732,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35323
+LIBSRC-LIB56-ENT-NHT-0001732,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35323
+LIBSRC-LIB56-ENT-NHT-0001733,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35293
+LIBSRC-LIB56-ENT-NHT-0001733,model_identifier,"""320i""",https://www.fueleconomy.gov/ws/rest/vehicle/35293
+LIBSRC-LIB56-ENT-NHT-0001733,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35293
+LIBSRC-LIB56-ENT-NHT-0001733,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35293
+LIBSRC-LIB56-ENT-NHT-0001734,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35538
+LIBSRC-LIB56-ENT-NHT-0001734,model_identifier,"""328d""",https://www.fueleconomy.gov/ws/rest/vehicle/35538
+LIBSRC-LIB56-ENT-NHT-0001734,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35538
+LIBSRC-LIB56-ENT-NHT-0001734,propulsion_type,"""Diesel""",https://www.fueleconomy.gov/ws/rest/vehicle/35538
+LIBSRC-LIB56-ENT-NHT-0001736,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/36031
+LIBSRC-LIB56-ENT-NHT-0001736,model_identifier,"""i8""",https://www.fueleconomy.gov/ws/rest/vehicle/36031
+LIBSRC-LIB56-ENT-NHT-0001736,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/36031
+LIBSRC-LIB56-ENT-NHT-0001736,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36031
+LIBSRC-LIB56-ENT-NHT-0001737,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35540
+LIBSRC-LIB56-ENT-NHT-0001737,model_identifier,"""ActiveHybrid 3""",https://www.fueleconomy.gov/ws/rest/vehicle/35540
+LIBSRC-LIB56-ENT-NHT-0001737,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35540
+LIBSRC-LIB56-ENT-NHT-0001737,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35540
+LIBSRC-LIB56-ENT-NHT-0001740,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35623
+LIBSRC-LIB56-ENT-NHT-0001740,model_identifier,"""535d""",https://www.fueleconomy.gov/ws/rest/vehicle/35623
+LIBSRC-LIB56-ENT-NHT-0001740,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35623
+LIBSRC-LIB56-ENT-NHT-0001740,propulsion_type,"""Diesel""",https://www.fueleconomy.gov/ws/rest/vehicle/35623
+LIBSRC-LIB56-ENT-NHT-0001741,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/35545
+LIBSRC-LIB56-ENT-NHT-0001741,model_identifier,"""ActiveHybrid 5""",https://www.fueleconomy.gov/ws/rest/vehicle/35545
+LIBSRC-LIB56-ENT-NHT-0001741,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35545
+LIBSRC-LIB56-ENT-NHT-0001741,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35545
+LIBSRC-LIB56-ENT-NHT-0001767,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/36792
+LIBSRC-LIB56-ENT-NHT-0001767,model_identifier,"""328i""",https://www.fueleconomy.gov/ws/rest/vehicle/36792
+LIBSRC-LIB56-ENT-NHT-0001767,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36792
+LIBSRC-LIB56-ENT-NHT-0001767,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36792
+LIBSRC-LIB56-ENT-NHT-0001768,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/36726
+LIBSRC-LIB56-ENT-NHT-0001768,model_identifier,"""M3""",https://www.fueleconomy.gov/ws/rest/vehicle/36726
+LIBSRC-LIB56-ENT-NHT-0001768,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36726
+LIBSRC-LIB56-ENT-NHT-0001768,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36726
+LIBSRC-LIB56-ENT-NHT-0001770,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/36742
+LIBSRC-LIB56-ENT-NHT-0001770,model_identifier,"""528i""",https://www.fueleconomy.gov/ws/rest/vehicle/36742
+LIBSRC-LIB56-ENT-NHT-0001770,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36742
+LIBSRC-LIB56-ENT-NHT-0001770,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36742
+LIBSRC-LIB56-ENT-NHT-0001771,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/36207
+LIBSRC-LIB56-ENT-NHT-0001771,model_identifier,"""535i""",https://www.fueleconomy.gov/ws/rest/vehicle/36207
+LIBSRC-LIB56-ENT-NHT-0001771,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36207
+LIBSRC-LIB56-ENT-NHT-0001771,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36207
+LIBSRC-LIB56-ENT-NHT-0001772,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/36682
+LIBSRC-LIB56-ENT-NHT-0001772,model_identifier,"""550i""",https://www.fueleconomy.gov/ws/rest/vehicle/36682
+LIBSRC-LIB56-ENT-NHT-0001772,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36682
+LIBSRC-LIB56-ENT-NHT-0001772,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36682
+LIBSRC-LIB56-ENT-NHT-0001773,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/36903
+LIBSRC-LIB56-ENT-NHT-0001773,model_identifier,"""740i""",https://www.fueleconomy.gov/ws/rest/vehicle/36903
+LIBSRC-LIB56-ENT-NHT-0001773,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36903
+LIBSRC-LIB56-ENT-NHT-0001773,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36903
+LIBSRC-LIB56-ENT-NHT-0001774,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/37165
+LIBSRC-LIB56-ENT-NHT-0001774,model_identifier,"""750i""",https://www.fueleconomy.gov/ws/rest/vehicle/37165
+LIBSRC-LIB56-ENT-NHT-0001774,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/37165
+LIBSRC-LIB56-ENT-NHT-0001774,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37165
+LIBSRC-LIB56-ENT-NHT-0001779,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/36094
+LIBSRC-LIB56-ENT-NHT-0001779,model_identifier,"""M5""",https://www.fueleconomy.gov/ws/rest/vehicle/36094
+LIBSRC-LIB56-ENT-NHT-0001779,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36094
+LIBSRC-LIB56-ENT-NHT-0001779,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36094
+LIBSRC-LIB56-ENT-NHT-0001780,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/36788
+LIBSRC-LIB56-ENT-NHT-0001780,model_identifier,"""228i""",https://www.fueleconomy.gov/ws/rest/vehicle/36788
+LIBSRC-LIB56-ENT-NHT-0001780,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36788
+LIBSRC-LIB56-ENT-NHT-0001780,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36788
+LIBSRC-LIB56-ENT-NHT-0001781,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/36641
+LIBSRC-LIB56-ENT-NHT-0001781,model_identifier,"""M235i""",https://www.fueleconomy.gov/ws/rest/vehicle/36641
+LIBSRC-LIB56-ENT-NHT-0001781,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36641
+LIBSRC-LIB56-ENT-NHT-0001781,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36641
+LIBSRC-LIB56-ENT-NHT-0001782,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/36723
+LIBSRC-LIB56-ENT-NHT-0001782,model_identifier,"""320i""",https://www.fueleconomy.gov/ws/rest/vehicle/36723
+LIBSRC-LIB56-ENT-NHT-0001782,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36723
+LIBSRC-LIB56-ENT-NHT-0001782,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36723
+LIBSRC-LIB56-ENT-NHT-0001783,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/36793
+LIBSRC-LIB56-ENT-NHT-0001783,model_identifier,"""328d""",https://www.fueleconomy.gov/ws/rest/vehicle/36793
+LIBSRC-LIB56-ENT-NHT-0001783,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36793
+LIBSRC-LIB56-ENT-NHT-0001783,propulsion_type,"""Diesel""",https://www.fueleconomy.gov/ws/rest/vehicle/36793
+LIBSRC-LIB56-ENT-NHT-0001785,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/37223
+LIBSRC-LIB56-ENT-NHT-0001785,model_identifier,"""i8""",https://www.fueleconomy.gov/ws/rest/vehicle/37223
+LIBSRC-LIB56-ENT-NHT-0001785,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/37223
+LIBSRC-LIB56-ENT-NHT-0001785,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37223
+LIBSRC-LIB56-ENT-NHT-0001788,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/36743
+LIBSRC-LIB56-ENT-NHT-0001788,model_identifier,"""535d""",https://www.fueleconomy.gov/ws/rest/vehicle/36743
+LIBSRC-LIB56-ENT-NHT-0001788,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36743
+LIBSRC-LIB56-ENT-NHT-0001788,propulsion_type,"""Diesel""",https://www.fueleconomy.gov/ws/rest/vehicle/36743
+LIBSRC-LIB56-ENT-NHT-0001789,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/37112
+LIBSRC-LIB56-ENT-NHT-0001789,model_identifier,"""ActiveHybrid 5""",https://www.fueleconomy.gov/ws/rest/vehicle/37112
+LIBSRC-LIB56-ENT-NHT-0001789,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/37112
+LIBSRC-LIB56-ENT-NHT-0001789,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37112
+LIBSRC-LIB56-ENT-NHT-0001790,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/37275
+LIBSRC-LIB56-ENT-NHT-0001790,model_identifier,"""M2""",https://www.fueleconomy.gov/ws/rest/vehicle/37275
+LIBSRC-LIB56-ENT-NHT-0001790,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/37275
+LIBSRC-LIB56-ENT-NHT-0001790,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37275
+LIBSRC-LIB56-ENT-NHT-0001791,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/36888
+LIBSRC-LIB56-ENT-NHT-0001791,model_identifier,"""340i""",https://www.fueleconomy.gov/ws/rest/vehicle/36888
+LIBSRC-LIB56-ENT-NHT-0001791,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36888
+LIBSRC-LIB56-ENT-NHT-0001791,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36888
+LIBSRC-LIB56-ENT-NHT-0001792,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/37289
+LIBSRC-LIB56-ENT-NHT-0001792,model_identifier,"""330e""",https://www.fueleconomy.gov/ws/rest/vehicle/37289
+LIBSRC-LIB56-ENT-NHT-0001792,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/37289
+LIBSRC-LIB56-ENT-NHT-0001792,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37289
+LIBSRC-LIB56-ENT-NHT-0001818,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/37761
+LIBSRC-LIB56-ENT-NHT-0001818,model_identifier,"""M3""",https://www.fueleconomy.gov/ws/rest/vehicle/37761
+LIBSRC-LIB56-ENT-NHT-0001818,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/37761
+LIBSRC-LIB56-ENT-NHT-0001818,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37761
+LIBSRC-LIB56-ENT-NHT-0001822,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/37979
+LIBSRC-LIB56-ENT-NHT-0001822,model_identifier,"""740i""",https://www.fueleconomy.gov/ws/rest/vehicle/37979
+LIBSRC-LIB56-ENT-NHT-0001822,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/37979
+LIBSRC-LIB56-ENT-NHT-0001822,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37979
+LIBSRC-LIB56-ENT-NHT-0001828,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/37759
+LIBSRC-LIB56-ENT-NHT-0001828,model_identifier,"""320i""",https://www.fueleconomy.gov/ws/rest/vehicle/37759
+LIBSRC-LIB56-ENT-NHT-0001828,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/37759
+LIBSRC-LIB56-ENT-NHT-0001828,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37759
+LIBSRC-LIB56-ENT-NHT-0001829,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/38429
+LIBSRC-LIB56-ENT-NHT-0001829,model_identifier,"""328d""",https://www.fueleconomy.gov/ws/rest/vehicle/38429
+LIBSRC-LIB56-ENT-NHT-0001829,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/38429
+LIBSRC-LIB56-ENT-NHT-0001829,propulsion_type,"""Diesel""",https://www.fueleconomy.gov/ws/rest/vehicle/38429
+LIBSRC-LIB56-ENT-NHT-0001831,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/38230
+LIBSRC-LIB56-ENT-NHT-0001831,model_identifier,"""i8""",https://www.fueleconomy.gov/ws/rest/vehicle/38230
+LIBSRC-LIB56-ENT-NHT-0001831,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/38230
+LIBSRC-LIB56-ENT-NHT-0001831,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/38230
+LIBSRC-LIB56-ENT-NHT-0001832,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/38543
+LIBSRC-LIB56-ENT-NHT-0001832,model_identifier,"""530i""",https://www.fueleconomy.gov/ws/rest/vehicle/38543
+LIBSRC-LIB56-ENT-NHT-0001832,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/38543
+LIBSRC-LIB56-ENT-NHT-0001832,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/38543
+LIBSRC-LIB56-ENT-NHT-0001833,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/37887
+LIBSRC-LIB56-ENT-NHT-0001833,model_identifier,"""330i""",https://www.fueleconomy.gov/ws/rest/vehicle/37887
+LIBSRC-LIB56-ENT-NHT-0001833,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/37887
+LIBSRC-LIB56-ENT-NHT-0001833,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37887
+LIBSRC-LIB56-ENT-NHT-0001834,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/38545
+LIBSRC-LIB56-ENT-NHT-0001834,model_identifier,"""540i""",https://www.fueleconomy.gov/ws/rest/vehicle/38545
+LIBSRC-LIB56-ENT-NHT-0001834,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/38545
+LIBSRC-LIB56-ENT-NHT-0001834,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/38545
+LIBSRC-LIB56-ENT-NHT-0001835,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/37748
+LIBSRC-LIB56-ENT-NHT-0001835,model_identifier,"""M2""",https://www.fueleconomy.gov/ws/rest/vehicle/37748
+LIBSRC-LIB56-ENT-NHT-0001835,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/37748
+LIBSRC-LIB56-ENT-NHT-0001835,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37748
+LIBSRC-LIB56-ENT-NHT-0001836,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/37892
+LIBSRC-LIB56-ENT-NHT-0001836,model_identifier,"""340i""",https://www.fueleconomy.gov/ws/rest/vehicle/37892
+LIBSRC-LIB56-ENT-NHT-0001836,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/37892
+LIBSRC-LIB56-ENT-NHT-0001836,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37892
+LIBSRC-LIB56-ENT-NHT-0001837,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/38081
+LIBSRC-LIB56-ENT-NHT-0001837,model_identifier,"""330e""",https://www.fueleconomy.gov/ws/rest/vehicle/38081
+LIBSRC-LIB56-ENT-NHT-0001837,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/38081
+LIBSRC-LIB56-ENT-NHT-0001837,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/38081
+LIBSRC-LIB56-ENT-NHT-0001873,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/38975
+LIBSRC-LIB56-ENT-NHT-0001873,model_identifier,"""M3""",https://www.fueleconomy.gov/ws/rest/vehicle/38975
+LIBSRC-LIB56-ENT-NHT-0001873,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/38975
+LIBSRC-LIB56-ENT-NHT-0001873,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/38975
+LIBSRC-LIB56-ENT-NHT-0001874,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/38632
+LIBSRC-LIB56-ENT-NHT-0001874,model_identifier,"""740i""",https://www.fueleconomy.gov/ws/rest/vehicle/38632
+LIBSRC-LIB56-ENT-NHT-0001874,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/38632
+LIBSRC-LIB56-ENT-NHT-0001874,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/38632
+LIBSRC-LIB56-ENT-NHT-0001875,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/38634
+LIBSRC-LIB56-ENT-NHT-0001875,model_identifier,"""750i""",https://www.fueleconomy.gov/ws/rest/vehicle/38634
+LIBSRC-LIB56-ENT-NHT-0001875,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/38634
+LIBSRC-LIB56-ENT-NHT-0001875,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/38634
+LIBSRC-LIB56-ENT-NHT-0001879,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/39821
+LIBSRC-LIB56-ENT-NHT-0001879,model_identifier,"""M5""",https://www.fueleconomy.gov/ws/rest/vehicle/39821
+LIBSRC-LIB56-ENT-NHT-0001879,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/39821
+LIBSRC-LIB56-ENT-NHT-0001879,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/39821
+LIBSRC-LIB56-ENT-NHT-0001881,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/39134
+LIBSRC-LIB56-ENT-NHT-0001881,model_identifier,"""320i""",https://www.fueleconomy.gov/ws/rest/vehicle/39134
+LIBSRC-LIB56-ENT-NHT-0001881,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/39134
+LIBSRC-LIB56-ENT-NHT-0001881,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/39134
+LIBSRC-LIB56-ENT-NHT-0001882,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/39422
+LIBSRC-LIB56-ENT-NHT-0001882,model_identifier,"""328d""",https://www.fueleconomy.gov/ws/rest/vehicle/39422
+LIBSRC-LIB56-ENT-NHT-0001882,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/39422
+LIBSRC-LIB56-ENT-NHT-0001882,propulsion_type,"""Diesel""",https://www.fueleconomy.gov/ws/rest/vehicle/39422
+LIBSRC-LIB56-ENT-NHT-0001885,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/39153
+LIBSRC-LIB56-ENT-NHT-0001885,model_identifier,"""530i""",https://www.fueleconomy.gov/ws/rest/vehicle/39153
+LIBSRC-LIB56-ENT-NHT-0001885,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/39153
+LIBSRC-LIB56-ENT-NHT-0001885,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/39153
+LIBSRC-LIB56-ENT-NHT-0001886,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/39132
+LIBSRC-LIB56-ENT-NHT-0001886,model_identifier,"""330i""",https://www.fueleconomy.gov/ws/rest/vehicle/39132
+LIBSRC-LIB56-ENT-NHT-0001886,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/39132
+LIBSRC-LIB56-ENT-NHT-0001886,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/39132
+LIBSRC-LIB56-ENT-NHT-0001887,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/39230
+LIBSRC-LIB56-ENT-NHT-0001887,model_identifier,"""540i""",https://www.fueleconomy.gov/ws/rest/vehicle/39230
+LIBSRC-LIB56-ENT-NHT-0001887,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/39230
+LIBSRC-LIB56-ENT-NHT-0001887,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/39230
+LIBSRC-LIB56-ENT-NHT-0001888,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/39123
+LIBSRC-LIB56-ENT-NHT-0001888,model_identifier,"""M2""",https://www.fueleconomy.gov/ws/rest/vehicle/39123
+LIBSRC-LIB56-ENT-NHT-0001888,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/39123
+LIBSRC-LIB56-ENT-NHT-0001888,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/39123
+LIBSRC-LIB56-ENT-NHT-0001889,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/39137
+LIBSRC-LIB56-ENT-NHT-0001889,model_identifier,"""340i""",https://www.fueleconomy.gov/ws/rest/vehicle/39137
+LIBSRC-LIB56-ENT-NHT-0001889,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/39137
+LIBSRC-LIB56-ENT-NHT-0001889,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/39137
+LIBSRC-LIB56-ENT-NHT-0001890,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/39407
+LIBSRC-LIB56-ENT-NHT-0001890,model_identifier,"""330e""",https://www.fueleconomy.gov/ws/rest/vehicle/39407
+LIBSRC-LIB56-ENT-NHT-0001890,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/39407
+LIBSRC-LIB56-ENT-NHT-0001890,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/39407
+LIBSRC-LIB56-ENT-NHT-0001898,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/38754
+LIBSRC-LIB56-ENT-NHT-0001898,model_identifier,"""530e""",https://www.fueleconomy.gov/ws/rest/vehicle/38754
+LIBSRC-LIB56-ENT-NHT-0001898,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/38754
+LIBSRC-LIB56-ENT-NHT-0001898,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/38754
+LIBSRC-LIB56-ENT-NHT-0001932,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/40026
+LIBSRC-LIB56-ENT-NHT-0001932,model_identifier,"""740i""",https://www.fueleconomy.gov/ws/rest/vehicle/40026
+LIBSRC-LIB56-ENT-NHT-0001932,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/40026
+LIBSRC-LIB56-ENT-NHT-0001932,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/40026
+LIBSRC-LIB56-ENT-NHT-0001933,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/40028
+LIBSRC-LIB56-ENT-NHT-0001933,model_identifier,"""750i""",https://www.fueleconomy.gov/ws/rest/vehicle/40028
+LIBSRC-LIB56-ENT-NHT-0001933,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/40028
+LIBSRC-LIB56-ENT-NHT-0001933,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/40028
+LIBSRC-LIB56-ENT-NHT-0001938,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/40480
+LIBSRC-LIB56-ENT-NHT-0001938,model_identifier,"""M5""",https://www.fueleconomy.gov/ws/rest/vehicle/40480
+LIBSRC-LIB56-ENT-NHT-0001938,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/40480
+LIBSRC-LIB56-ENT-NHT-0001938,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/40480
+LIBSRC-LIB56-ENT-NHT-0001939,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/41054
+LIBSRC-LIB56-ENT-NHT-0001939,model_identifier,"""i3""",https://www.fueleconomy.gov/ws/rest/vehicle/41054
+LIBSRC-LIB56-ENT-NHT-0001939,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/41054
+LIBSRC-LIB56-ENT-NHT-0001939,propulsion_type,"""Electricity""",https://www.fueleconomy.gov/ws/rest/vehicle/41054
+LIBSRC-LIB56-ENT-NHT-0001941,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/40003
+LIBSRC-LIB56-ENT-NHT-0001941,model_identifier,"""530i""",https://www.fueleconomy.gov/ws/rest/vehicle/40003
+LIBSRC-LIB56-ENT-NHT-0001941,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/40003
+LIBSRC-LIB56-ENT-NHT-0001941,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/40003
+LIBSRC-LIB56-ENT-NHT-0001942,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/41157
+LIBSRC-LIB56-ENT-NHT-0001942,model_identifier,"""330i""",https://www.fueleconomy.gov/ws/rest/vehicle/41157
+LIBSRC-LIB56-ENT-NHT-0001942,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/41157
+LIBSRC-LIB56-ENT-NHT-0001942,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/41157
+LIBSRC-LIB56-ENT-NHT-0001943,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/40477
+LIBSRC-LIB56-ENT-NHT-0001943,model_identifier,"""540i""",https://www.fueleconomy.gov/ws/rest/vehicle/40477
+LIBSRC-LIB56-ENT-NHT-0001943,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/40477
+LIBSRC-LIB56-ENT-NHT-0001943,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/40477
+LIBSRC-LIB56-ENT-NHT-0001955,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/40556
+LIBSRC-LIB56-ENT-NHT-0001955,model_identifier,"""530e""",https://www.fueleconomy.gov/ws/rest/vehicle/40556
+LIBSRC-LIB56-ENT-NHT-0001955,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/40556
+LIBSRC-LIB56-ENT-NHT-0001955,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/40556
+LIBSRC-LIB56-ENT-NHT-0001998,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/41358
+LIBSRC-LIB56-ENT-NHT-0001998,model_identifier,"""740i""",https://www.fueleconomy.gov/ws/rest/vehicle/41358
+LIBSRC-LIB56-ENT-NHT-0001998,model_year,"""2020""",https://www.fueleconomy.gov/ws/rest/vehicle/41358
+LIBSRC-LIB56-ENT-NHT-0001998,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/41358
+LIBSRC-LIB56-ENT-NHT-0002001,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/42002
+LIBSRC-LIB56-ENT-NHT-0002001,model_identifier,"""M5""",https://www.fueleconomy.gov/ws/rest/vehicle/42002
+LIBSRC-LIB56-ENT-NHT-0002001,model_year,"""2020""",https://www.fueleconomy.gov/ws/rest/vehicle/42002
+LIBSRC-LIB56-ENT-NHT-0002001,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/42002
+LIBSRC-LIB56-ENT-NHT-0002004,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/42512
+LIBSRC-LIB56-ENT-NHT-0002004,model_identifier,"""i3""",https://www.fueleconomy.gov/ws/rest/vehicle/42512
+LIBSRC-LIB56-ENT-NHT-0002004,model_year,"""2020""",https://www.fueleconomy.gov/ws/rest/vehicle/42512
+LIBSRC-LIB56-ENT-NHT-0002004,propulsion_type,"""Electricity""",https://www.fueleconomy.gov/ws/rest/vehicle/42512
+LIBSRC-LIB56-ENT-NHT-0002006,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/41722
+LIBSRC-LIB56-ENT-NHT-0002006,model_identifier,"""530i""",https://www.fueleconomy.gov/ws/rest/vehicle/41722
+LIBSRC-LIB56-ENT-NHT-0002006,model_year,"""2020""",https://www.fueleconomy.gov/ws/rest/vehicle/41722
+LIBSRC-LIB56-ENT-NHT-0002006,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/41722
+LIBSRC-LIB56-ENT-NHT-0002007,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/41339
+LIBSRC-LIB56-ENT-NHT-0002007,model_identifier,"""330i""",https://www.fueleconomy.gov/ws/rest/vehicle/41339
+LIBSRC-LIB56-ENT-NHT-0002007,model_year,"""2020""",https://www.fueleconomy.gov/ws/rest/vehicle/41339
+LIBSRC-LIB56-ENT-NHT-0002007,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/41339
+LIBSRC-LIB56-ENT-NHT-0002008,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/42127
+LIBSRC-LIB56-ENT-NHT-0002008,model_identifier,"""540i""",https://www.fueleconomy.gov/ws/rest/vehicle/42127
+LIBSRC-LIB56-ENT-NHT-0002008,model_year,"""2020""",https://www.fueleconomy.gov/ws/rest/vehicle/42127
+LIBSRC-LIB56-ENT-NHT-0002008,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/42127
+LIBSRC-LIB56-ENT-NHT-0002016,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/42108
+LIBSRC-LIB56-ENT-NHT-0002016,model_identifier,"""530e""",https://www.fueleconomy.gov/ws/rest/vehicle/42108
+LIBSRC-LIB56-ENT-NHT-0002016,model_year,"""2020""",https://www.fueleconomy.gov/ws/rest/vehicle/42108
+LIBSRC-LIB56-ENT-NHT-0002016,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/42108
+LIBSRC-LIB56-ENT-NHT-0002019,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/41341
+LIBSRC-LIB56-ENT-NHT-0002019,model_identifier,"""M340i""",https://www.fueleconomy.gov/ws/rest/vehicle/41341
+LIBSRC-LIB56-ENT-NHT-0002019,model_year,"""2020""",https://www.fueleconomy.gov/ws/rest/vehicle/41341
+LIBSRC-LIB56-ENT-NHT-0002019,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/41341
+LIBSRC-LIB56-ENT-NHT-0002062,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/43562
+LIBSRC-LIB56-ENT-NHT-0002062,model_identifier,"""M3""",https://www.fueleconomy.gov/ws/rest/vehicle/43562
+LIBSRC-LIB56-ENT-NHT-0002062,model_year,"""2021""",https://www.fueleconomy.gov/ws/rest/vehicle/43562
+LIBSRC-LIB56-ENT-NHT-0002062,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/43562
+LIBSRC-LIB56-ENT-NHT-0002063,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/42787
+LIBSRC-LIB56-ENT-NHT-0002063,model_identifier,"""740i""",https://www.fueleconomy.gov/ws/rest/vehicle/42787
+LIBSRC-LIB56-ENT-NHT-0002063,model_year,"""2021""",https://www.fueleconomy.gov/ws/rest/vehicle/42787
+LIBSRC-LIB56-ENT-NHT-0002063,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/42787
+LIBSRC-LIB56-ENT-NHT-0002066,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/42936
+LIBSRC-LIB56-ENT-NHT-0002066,model_identifier,"""M5""",https://www.fueleconomy.gov/ws/rest/vehicle/42936
+LIBSRC-LIB56-ENT-NHT-0002066,model_year,"""2021""",https://www.fueleconomy.gov/ws/rest/vehicle/42936
+LIBSRC-LIB56-ENT-NHT-0002066,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/42936
+LIBSRC-LIB56-ENT-NHT-0002069,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/43819
+LIBSRC-LIB56-ENT-NHT-0002069,model_identifier,"""i3""",https://www.fueleconomy.gov/ws/rest/vehicle/43819
+LIBSRC-LIB56-ENT-NHT-0002069,model_year,"""2021""",https://www.fueleconomy.gov/ws/rest/vehicle/43819
+LIBSRC-LIB56-ENT-NHT-0002069,propulsion_type,"""Electricity""",https://www.fueleconomy.gov/ws/rest/vehicle/43819
+LIBSRC-LIB56-ENT-NHT-0002070,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/42890
+LIBSRC-LIB56-ENT-NHT-0002070,model_identifier,"""530i""",https://www.fueleconomy.gov/ws/rest/vehicle/42890
+LIBSRC-LIB56-ENT-NHT-0002070,model_year,"""2021""",https://www.fueleconomy.gov/ws/rest/vehicle/42890
+LIBSRC-LIB56-ENT-NHT-0002070,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/42890
+LIBSRC-LIB56-ENT-NHT-0002071,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/43038
+LIBSRC-LIB56-ENT-NHT-0002071,model_identifier,"""330i""",https://www.fueleconomy.gov/ws/rest/vehicle/43038
+LIBSRC-LIB56-ENT-NHT-0002071,model_year,"""2021""",https://www.fueleconomy.gov/ws/rest/vehicle/43038
+LIBSRC-LIB56-ENT-NHT-0002071,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/43038
+LIBSRC-LIB56-ENT-NHT-0002072,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/43001
+LIBSRC-LIB56-ENT-NHT-0002072,model_identifier,"""540i""",https://www.fueleconomy.gov/ws/rest/vehicle/43001
+LIBSRC-LIB56-ENT-NHT-0002072,model_year,"""2021""",https://www.fueleconomy.gov/ws/rest/vehicle/43001
+LIBSRC-LIB56-ENT-NHT-0002072,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/43001
+LIBSRC-LIB56-ENT-NHT-0002074,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/42569
+LIBSRC-LIB56-ENT-NHT-0002074,model_identifier,"""330e""",https://www.fueleconomy.gov/ws/rest/vehicle/42569
+LIBSRC-LIB56-ENT-NHT-0002074,model_year,"""2021""",https://www.fueleconomy.gov/ws/rest/vehicle/42569
+LIBSRC-LIB56-ENT-NHT-0002074,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/42569
+LIBSRC-LIB56-ENT-NHT-0002080,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/43738
+LIBSRC-LIB56-ENT-NHT-0002080,model_identifier,"""530e""",https://www.fueleconomy.gov/ws/rest/vehicle/43738
+LIBSRC-LIB56-ENT-NHT-0002080,model_year,"""2021""",https://www.fueleconomy.gov/ws/rest/vehicle/43738
+LIBSRC-LIB56-ENT-NHT-0002080,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/43738
+LIBSRC-LIB56-ENT-NHT-0002083,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/42925
+LIBSRC-LIB56-ENT-NHT-0002083,model_identifier,"""M340i""",https://www.fueleconomy.gov/ws/rest/vehicle/42925
+LIBSRC-LIB56-ENT-NHT-0002083,model_year,"""2021""",https://www.fueleconomy.gov/ws/rest/vehicle/42925
+LIBSRC-LIB56-ENT-NHT-0002083,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/42925
+LIBSRC-LIB56-ENT-NHT-0002224,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/46627
+LIBSRC-LIB56-ENT-NHT-0002224,model_identifier,"""XM""",https://www.fueleconomy.gov/ws/rest/vehicle/46627
+LIBSRC-LIB56-ENT-NHT-0002224,model_year,"""2023""",https://www.fueleconomy.gov/ws/rest/vehicle/46627
+LIBSRC-LIB56-ENT-NHT-0002224,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/46627
+LIBSRC-LIB56-ENT-NHT-0002281,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/47492
+LIBSRC-LIB56-ENT-NHT-0002281,model_identifier,"""XM""",https://www.fueleconomy.gov/ws/rest/vehicle/47492
+LIBSRC-LIB56-ENT-NHT-0002281,model_year,"""2024""",https://www.fueleconomy.gov/ws/rest/vehicle/47492
+LIBSRC-LIB56-ENT-NHT-0002281,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/47492
+LIBSRC-LIB56-ENT-NHT-0002348,manufacturer_or_creator,"""BMW""",https://www.fueleconomy.gov/ws/rest/vehicle/48655
+LIBSRC-LIB56-ENT-NHT-0002348,model_identifier,"""XM""",https://www.fueleconomy.gov/ws/rest/vehicle/48655
+LIBSRC-LIB56-ENT-NHT-0002348,model_year,"""2025""",https://www.fueleconomy.gov/ws/rest/vehicle/48655
+LIBSRC-LIB56-ENT-NHT-0002348,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/48655
+LIBSRC-LIB56-ENT-NHT-0002434,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/15885
+LIBSRC-LIB56-ENT-NHT-0002434,model_identifier,"""Regal""",https://www.fueleconomy.gov/ws/rest/vehicle/15885
+LIBSRC-LIB56-ENT-NHT-0002434,model_year,"""2000""",https://www.fueleconomy.gov/ws/rest/vehicle/15885
+LIBSRC-LIB56-ENT-NHT-0002434,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/15885
+LIBSRC-LIB56-ENT-NHT-0002435,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/15985
+LIBSRC-LIB56-ENT-NHT-0002435,model_identifier,"""Park Avenue""",https://www.fueleconomy.gov/ws/rest/vehicle/15985
+LIBSRC-LIB56-ENT-NHT-0002435,model_year,"""2000""",https://www.fueleconomy.gov/ws/rest/vehicle/15985
+LIBSRC-LIB56-ENT-NHT-0002435,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/15985
+LIBSRC-LIB56-ENT-NHT-0002436,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/15984
+LIBSRC-LIB56-ENT-NHT-0002436,model_identifier,"""LeSabre""",https://www.fueleconomy.gov/ws/rest/vehicle/15984
+LIBSRC-LIB56-ENT-NHT-0002436,model_year,"""2000""",https://www.fueleconomy.gov/ws/rest/vehicle/15984
+LIBSRC-LIB56-ENT-NHT-0002436,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/15984
+LIBSRC-LIB56-ENT-NHT-0002437,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/15884
+LIBSRC-LIB56-ENT-NHT-0002437,model_identifier,"""Century""",https://www.fueleconomy.gov/ws/rest/vehicle/15884
+LIBSRC-LIB56-ENT-NHT-0002437,model_year,"""2000""",https://www.fueleconomy.gov/ws/rest/vehicle/15884
+LIBSRC-LIB56-ENT-NHT-0002437,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/15884
+LIBSRC-LIB56-ENT-NHT-0002438,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/16747
+LIBSRC-LIB56-ENT-NHT-0002438,model_identifier,"""Regal""",https://www.fueleconomy.gov/ws/rest/vehicle/16747
+LIBSRC-LIB56-ENT-NHT-0002438,model_year,"""2001""",https://www.fueleconomy.gov/ws/rest/vehicle/16747
+LIBSRC-LIB56-ENT-NHT-0002438,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/16747
+LIBSRC-LIB56-ENT-NHT-0002439,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/16842
+LIBSRC-LIB56-ENT-NHT-0002439,model_identifier,"""Park Avenue""",https://www.fueleconomy.gov/ws/rest/vehicle/16842
+LIBSRC-LIB56-ENT-NHT-0002439,model_year,"""2001""",https://www.fueleconomy.gov/ws/rest/vehicle/16842
+LIBSRC-LIB56-ENT-NHT-0002439,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/16842
+LIBSRC-LIB56-ENT-NHT-0002440,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/16841
+LIBSRC-LIB56-ENT-NHT-0002440,model_identifier,"""LeSabre""",https://www.fueleconomy.gov/ws/rest/vehicle/16841
+LIBSRC-LIB56-ENT-NHT-0002440,model_year,"""2001""",https://www.fueleconomy.gov/ws/rest/vehicle/16841
+LIBSRC-LIB56-ENT-NHT-0002440,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/16841
+LIBSRC-LIB56-ENT-NHT-0002441,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/16746
+LIBSRC-LIB56-ENT-NHT-0002441,model_identifier,"""Century""",https://www.fueleconomy.gov/ws/rest/vehicle/16746
+LIBSRC-LIB56-ENT-NHT-0002441,model_year,"""2001""",https://www.fueleconomy.gov/ws/rest/vehicle/16746
+LIBSRC-LIB56-ENT-NHT-0002441,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/16746
+LIBSRC-LIB56-ENT-NHT-0002444,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/17675
+LIBSRC-LIB56-ENT-NHT-0002444,model_identifier,"""Regal""",https://www.fueleconomy.gov/ws/rest/vehicle/17675
+LIBSRC-LIB56-ENT-NHT-0002444,model_year,"""2002""",https://www.fueleconomy.gov/ws/rest/vehicle/17675
+LIBSRC-LIB56-ENT-NHT-0002444,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/17675
+LIBSRC-LIB56-ENT-NHT-0002445,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/17772
+LIBSRC-LIB56-ENT-NHT-0002445,model_identifier,"""Park Avenue""",https://www.fueleconomy.gov/ws/rest/vehicle/17772
+LIBSRC-LIB56-ENT-NHT-0002445,model_year,"""2002""",https://www.fueleconomy.gov/ws/rest/vehicle/17772
+LIBSRC-LIB56-ENT-NHT-0002445,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/17772
+LIBSRC-LIB56-ENT-NHT-0002446,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/17771
+LIBSRC-LIB56-ENT-NHT-0002446,model_identifier,"""LeSabre""",https://www.fueleconomy.gov/ws/rest/vehicle/17771
+LIBSRC-LIB56-ENT-NHT-0002446,model_year,"""2002""",https://www.fueleconomy.gov/ws/rest/vehicle/17771
+LIBSRC-LIB56-ENT-NHT-0002446,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/17771
+LIBSRC-LIB56-ENT-NHT-0002447,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/17674
+LIBSRC-LIB56-ENT-NHT-0002447,model_identifier,"""Century""",https://www.fueleconomy.gov/ws/rest/vehicle/17674
+LIBSRC-LIB56-ENT-NHT-0002447,model_year,"""2002""",https://www.fueleconomy.gov/ws/rest/vehicle/17674
+LIBSRC-LIB56-ENT-NHT-0002447,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/17674
+LIBSRC-LIB56-ENT-NHT-0002449,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/18640
+LIBSRC-LIB56-ENT-NHT-0002449,model_identifier,"""Regal""",https://www.fueleconomy.gov/ws/rest/vehicle/18640
+LIBSRC-LIB56-ENT-NHT-0002449,model_year,"""2003""",https://www.fueleconomy.gov/ws/rest/vehicle/18640
+LIBSRC-LIB56-ENT-NHT-0002449,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/18640
+LIBSRC-LIB56-ENT-NHT-0002450,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/18726
+LIBSRC-LIB56-ENT-NHT-0002450,model_identifier,"""Park Avenue""",https://www.fueleconomy.gov/ws/rest/vehicle/18726
+LIBSRC-LIB56-ENT-NHT-0002450,model_year,"""2003""",https://www.fueleconomy.gov/ws/rest/vehicle/18726
+LIBSRC-LIB56-ENT-NHT-0002450,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/18726
+LIBSRC-LIB56-ENT-NHT-0002451,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/18725
+LIBSRC-LIB56-ENT-NHT-0002451,model_identifier,"""LeSabre""",https://www.fueleconomy.gov/ws/rest/vehicle/18725
+LIBSRC-LIB56-ENT-NHT-0002451,model_year,"""2003""",https://www.fueleconomy.gov/ws/rest/vehicle/18725
+LIBSRC-LIB56-ENT-NHT-0002451,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/18725
+LIBSRC-LIB56-ENT-NHT-0002452,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/18639
+LIBSRC-LIB56-ENT-NHT-0002452,model_identifier,"""Century""",https://www.fueleconomy.gov/ws/rest/vehicle/18639
+LIBSRC-LIB56-ENT-NHT-0002452,model_year,"""2003""",https://www.fueleconomy.gov/ws/rest/vehicle/18639
+LIBSRC-LIB56-ENT-NHT-0002452,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/18639
+LIBSRC-LIB56-ENT-NHT-0002454,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/19728
+LIBSRC-LIB56-ENT-NHT-0002454,model_identifier,"""Regal""",https://www.fueleconomy.gov/ws/rest/vehicle/19728
+LIBSRC-LIB56-ENT-NHT-0002454,model_year,"""2004""",https://www.fueleconomy.gov/ws/rest/vehicle/19728
+LIBSRC-LIB56-ENT-NHT-0002454,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/19728
+LIBSRC-LIB56-ENT-NHT-0002455,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/19828
+LIBSRC-LIB56-ENT-NHT-0002455,model_identifier,"""Park Avenue""",https://www.fueleconomy.gov/ws/rest/vehicle/19828
+LIBSRC-LIB56-ENT-NHT-0002455,model_year,"""2004""",https://www.fueleconomy.gov/ws/rest/vehicle/19828
+LIBSRC-LIB56-ENT-NHT-0002455,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/19828
+LIBSRC-LIB56-ENT-NHT-0002456,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/19827
+LIBSRC-LIB56-ENT-NHT-0002456,model_identifier,"""LeSabre""",https://www.fueleconomy.gov/ws/rest/vehicle/19827
+LIBSRC-LIB56-ENT-NHT-0002456,model_year,"""2004""",https://www.fueleconomy.gov/ws/rest/vehicle/19827
+LIBSRC-LIB56-ENT-NHT-0002456,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/19827
+LIBSRC-LIB56-ENT-NHT-0002457,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/19727
+LIBSRC-LIB56-ENT-NHT-0002457,model_identifier,"""Century""",https://www.fueleconomy.gov/ws/rest/vehicle/19727
+LIBSRC-LIB56-ENT-NHT-0002457,model_year,"""2004""",https://www.fueleconomy.gov/ws/rest/vehicle/19727
+LIBSRC-LIB56-ENT-NHT-0002457,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/19727
+LIBSRC-LIB56-ENT-NHT-0002462,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/20951
+LIBSRC-LIB56-ENT-NHT-0002462,model_identifier,"""Park Avenue""",https://www.fueleconomy.gov/ws/rest/vehicle/20951
+LIBSRC-LIB56-ENT-NHT-0002462,model_year,"""2005""",https://www.fueleconomy.gov/ws/rest/vehicle/20951
+LIBSRC-LIB56-ENT-NHT-0002462,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/20951
+LIBSRC-LIB56-ENT-NHT-0002463,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/20950
+LIBSRC-LIB56-ENT-NHT-0002463,model_identifier,"""LeSabre""",https://www.fueleconomy.gov/ws/rest/vehicle/20950
+LIBSRC-LIB56-ENT-NHT-0002463,model_year,"""2005""",https://www.fueleconomy.gov/ws/rest/vehicle/20950
+LIBSRC-LIB56-ENT-NHT-0002463,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/20950
+LIBSRC-LIB56-ENT-NHT-0002464,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/20846
+LIBSRC-LIB56-ENT-NHT-0002464,model_identifier,"""Century""",https://www.fueleconomy.gov/ws/rest/vehicle/20846
+LIBSRC-LIB56-ENT-NHT-0002464,model_year,"""2005""",https://www.fueleconomy.gov/ws/rest/vehicle/20846
+LIBSRC-LIB56-ENT-NHT-0002464,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/20846
+LIBSRC-LIB56-ENT-NHT-0002469,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/22030
+LIBSRC-LIB56-ENT-NHT-0002469,model_identifier,"""Lucerne""",https://www.fueleconomy.gov/ws/rest/vehicle/22030
+LIBSRC-LIB56-ENT-NHT-0002469,model_year,"""2006""",https://www.fueleconomy.gov/ws/rest/vehicle/22030
+LIBSRC-LIB56-ENT-NHT-0002469,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/22030
+LIBSRC-LIB56-ENT-NHT-0002475,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/23281
+LIBSRC-LIB56-ENT-NHT-0002475,model_identifier,"""Lucerne""",https://www.fueleconomy.gov/ws/rest/vehicle/23281
+LIBSRC-LIB56-ENT-NHT-0002475,model_year,"""2007""",https://www.fueleconomy.gov/ws/rest/vehicle/23281
+LIBSRC-LIB56-ENT-NHT-0002475,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/23281
+LIBSRC-LIB56-ENT-NHT-0002482,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/24415
+LIBSRC-LIB56-ENT-NHT-0002482,model_identifier,"""Lucerne""",https://www.fueleconomy.gov/ws/rest/vehicle/24415
+LIBSRC-LIB56-ENT-NHT-0002482,model_year,"""2008""",https://www.fueleconomy.gov/ws/rest/vehicle/24415
+LIBSRC-LIB56-ENT-NHT-0002482,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/24415
+LIBSRC-LIB56-ENT-NHT-0002486,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/25518
+LIBSRC-LIB56-ENT-NHT-0002486,model_identifier,"""Lucerne""",https://www.fueleconomy.gov/ws/rest/vehicle/25518
+LIBSRC-LIB56-ENT-NHT-0002486,model_year,"""2009""",https://www.fueleconomy.gov/ws/rest/vehicle/25518
+LIBSRC-LIB56-ENT-NHT-0002486,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/25518
+LIBSRC-LIB56-ENT-NHT-0002490,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/28653
+LIBSRC-LIB56-ENT-NHT-0002490,model_identifier,"""Lucerne""",https://www.fueleconomy.gov/ws/rest/vehicle/28653
+LIBSRC-LIB56-ENT-NHT-0002490,model_year,"""2010""",https://www.fueleconomy.gov/ws/rest/vehicle/28653
+LIBSRC-LIB56-ENT-NHT-0002490,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/28653
+LIBSRC-LIB56-ENT-NHT-0002492,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/30377
+LIBSRC-LIB56-ENT-NHT-0002492,model_identifier,"""LaCrosse""",https://www.fueleconomy.gov/ws/rest/vehicle/30377
+LIBSRC-LIB56-ENT-NHT-0002492,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30377
+LIBSRC-LIB56-ENT-NHT-0002492,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30377
+LIBSRC-LIB56-ENT-NHT-0002493,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/30075
+LIBSRC-LIB56-ENT-NHT-0002493,model_identifier,"""Regal""",https://www.fueleconomy.gov/ws/rest/vehicle/30075
+LIBSRC-LIB56-ENT-NHT-0002493,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30075
+LIBSRC-LIB56-ENT-NHT-0002493,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30075
+LIBSRC-LIB56-ENT-NHT-0002494,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/30406
+LIBSRC-LIB56-ENT-NHT-0002494,model_identifier,"""Lucerne""",https://www.fueleconomy.gov/ws/rest/vehicle/30406
+LIBSRC-LIB56-ENT-NHT-0002494,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30406
+LIBSRC-LIB56-ENT-NHT-0002494,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30406
+LIBSRC-LIB56-ENT-NHT-0002496,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/31361
+LIBSRC-LIB56-ENT-NHT-0002496,model_identifier,"""LaCrosse""",https://www.fueleconomy.gov/ws/rest/vehicle/31361
+LIBSRC-LIB56-ENT-NHT-0002496,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/31361
+LIBSRC-LIB56-ENT-NHT-0002496,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/31361
+LIBSRC-LIB56-ENT-NHT-0002497,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/31359
+LIBSRC-LIB56-ENT-NHT-0002497,model_identifier,"""Regal""",https://www.fueleconomy.gov/ws/rest/vehicle/31359
+LIBSRC-LIB56-ENT-NHT-0002497,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/31359
+LIBSRC-LIB56-ENT-NHT-0002497,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/31359
+LIBSRC-LIB56-ENT-NHT-0002498,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/32160
+LIBSRC-LIB56-ENT-NHT-0002498,model_identifier,"""Verano""",https://www.fueleconomy.gov/ws/rest/vehicle/32160
+LIBSRC-LIB56-ENT-NHT-0002498,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/32160
+LIBSRC-LIB56-ENT-NHT-0002498,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32160
+LIBSRC-LIB56-ENT-NHT-0002500,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/32490
+LIBSRC-LIB56-ENT-NHT-0002500,model_identifier,"""LaCrosse""",https://www.fueleconomy.gov/ws/rest/vehicle/32490
+LIBSRC-LIB56-ENT-NHT-0002500,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/32490
+LIBSRC-LIB56-ENT-NHT-0002500,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32490
+LIBSRC-LIB56-ENT-NHT-0002501,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/32536
+LIBSRC-LIB56-ENT-NHT-0002501,model_identifier,"""Regal""",https://www.fueleconomy.gov/ws/rest/vehicle/32536
+LIBSRC-LIB56-ENT-NHT-0002501,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/32536
+LIBSRC-LIB56-ENT-NHT-0002501,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32536
+LIBSRC-LIB56-ENT-NHT-0002502,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/32528
+LIBSRC-LIB56-ENT-NHT-0002502,model_identifier,"""Verano""",https://www.fueleconomy.gov/ws/rest/vehicle/32528
+LIBSRC-LIB56-ENT-NHT-0002502,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/32528
+LIBSRC-LIB56-ENT-NHT-0002502,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32528
+LIBSRC-LIB56-ENT-NHT-0002504,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/33226
+LIBSRC-LIB56-ENT-NHT-0002504,model_identifier,"""Encore""",https://www.fueleconomy.gov/ws/rest/vehicle/33226
+LIBSRC-LIB56-ENT-NHT-0002504,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/33226
+LIBSRC-LIB56-ENT-NHT-0002504,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33226
+LIBSRC-LIB56-ENT-NHT-0002505,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/33836
+LIBSRC-LIB56-ENT-NHT-0002505,model_identifier,"""LaCrosse""",https://www.fueleconomy.gov/ws/rest/vehicle/33836
+LIBSRC-LIB56-ENT-NHT-0002505,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/33836
+LIBSRC-LIB56-ENT-NHT-0002505,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33836
+LIBSRC-LIB56-ENT-NHT-0002506,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/34177
+LIBSRC-LIB56-ENT-NHT-0002506,model_identifier,"""Regal""",https://www.fueleconomy.gov/ws/rest/vehicle/34177
+LIBSRC-LIB56-ENT-NHT-0002506,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34177
+LIBSRC-LIB56-ENT-NHT-0002506,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34177
+LIBSRC-LIB56-ENT-NHT-0002507,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/33801
+LIBSRC-LIB56-ENT-NHT-0002507,model_identifier,"""Verano""",https://www.fueleconomy.gov/ws/rest/vehicle/33801
+LIBSRC-LIB56-ENT-NHT-0002507,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/33801
+LIBSRC-LIB56-ENT-NHT-0002507,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33801
+LIBSRC-LIB56-ENT-NHT-0002509,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/33718
+LIBSRC-LIB56-ENT-NHT-0002509,model_identifier,"""Encore""",https://www.fueleconomy.gov/ws/rest/vehicle/33718
+LIBSRC-LIB56-ENT-NHT-0002509,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/33718
+LIBSRC-LIB56-ENT-NHT-0002509,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33718
+LIBSRC-LIB56-ENT-NHT-0002510,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/34999
+LIBSRC-LIB56-ENT-NHT-0002510,model_identifier,"""LaCrosse""",https://www.fueleconomy.gov/ws/rest/vehicle/34999
+LIBSRC-LIB56-ENT-NHT-0002510,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/34999
+LIBSRC-LIB56-ENT-NHT-0002510,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34999
+LIBSRC-LIB56-ENT-NHT-0002511,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/35005
+LIBSRC-LIB56-ENT-NHT-0002511,model_identifier,"""Regal""",https://www.fueleconomy.gov/ws/rest/vehicle/35005
+LIBSRC-LIB56-ENT-NHT-0002511,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35005
+LIBSRC-LIB56-ENT-NHT-0002511,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35005
+LIBSRC-LIB56-ENT-NHT-0002512,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/34983
+LIBSRC-LIB56-ENT-NHT-0002512,model_identifier,"""Verano""",https://www.fueleconomy.gov/ws/rest/vehicle/34983
+LIBSRC-LIB56-ENT-NHT-0002512,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/34983
+LIBSRC-LIB56-ENT-NHT-0002512,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34983
+LIBSRC-LIB56-ENT-NHT-0002514,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/35642
+LIBSRC-LIB56-ENT-NHT-0002514,model_identifier,"""Encore""",https://www.fueleconomy.gov/ws/rest/vehicle/35642
+LIBSRC-LIB56-ENT-NHT-0002514,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35642
+LIBSRC-LIB56-ENT-NHT-0002514,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35642
+LIBSRC-LIB56-ENT-NHT-0002515,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/36457
+LIBSRC-LIB56-ENT-NHT-0002515,model_identifier,"""LaCrosse""",https://www.fueleconomy.gov/ws/rest/vehicle/36457
+LIBSRC-LIB56-ENT-NHT-0002515,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36457
+LIBSRC-LIB56-ENT-NHT-0002515,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36457
+LIBSRC-LIB56-ENT-NHT-0002516,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/36455
+LIBSRC-LIB56-ENT-NHT-0002516,model_identifier,"""Regal""",https://www.fueleconomy.gov/ws/rest/vehicle/36455
+LIBSRC-LIB56-ENT-NHT-0002516,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36455
+LIBSRC-LIB56-ENT-NHT-0002516,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36455
+LIBSRC-LIB56-ENT-NHT-0002517,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/36444
+LIBSRC-LIB56-ENT-NHT-0002517,model_identifier,"""Verano""",https://www.fueleconomy.gov/ws/rest/vehicle/36444
+LIBSRC-LIB56-ENT-NHT-0002517,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36444
+LIBSRC-LIB56-ENT-NHT-0002517,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36444
+LIBSRC-LIB56-ENT-NHT-0002518,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/37192
+LIBSRC-LIB56-ENT-NHT-0002518,model_identifier,"""Cascada""",https://www.fueleconomy.gov/ws/rest/vehicle/37192
+LIBSRC-LIB56-ENT-NHT-0002518,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/37192
+LIBSRC-LIB56-ENT-NHT-0002518,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37192
+LIBSRC-LIB56-ENT-NHT-0002520,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/36490
+LIBSRC-LIB56-ENT-NHT-0002520,model_identifier,"""Encore""",https://www.fueleconomy.gov/ws/rest/vehicle/36490
+LIBSRC-LIB56-ENT-NHT-0002520,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36490
+LIBSRC-LIB56-ENT-NHT-0002520,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36490
+LIBSRC-LIB56-ENT-NHT-0002522,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/37921
+LIBSRC-LIB56-ENT-NHT-0002522,model_identifier,"""LaCrosse""",https://www.fueleconomy.gov/ws/rest/vehicle/37921
+LIBSRC-LIB56-ENT-NHT-0002522,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/37921
+LIBSRC-LIB56-ENT-NHT-0002522,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37921
+LIBSRC-LIB56-ENT-NHT-0002523,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/37487
+LIBSRC-LIB56-ENT-NHT-0002523,model_identifier,"""Regal""",https://www.fueleconomy.gov/ws/rest/vehicle/37487
+LIBSRC-LIB56-ENT-NHT-0002523,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/37487
+LIBSRC-LIB56-ENT-NHT-0002523,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37487
+LIBSRC-LIB56-ENT-NHT-0002524,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/37764
+LIBSRC-LIB56-ENT-NHT-0002524,model_identifier,"""Verano""",https://www.fueleconomy.gov/ws/rest/vehicle/37764
+LIBSRC-LIB56-ENT-NHT-0002524,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/37764
+LIBSRC-LIB56-ENT-NHT-0002524,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37764
+LIBSRC-LIB56-ENT-NHT-0002525,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/38084
+LIBSRC-LIB56-ENT-NHT-0002525,model_identifier,"""Cascada""",https://www.fueleconomy.gov/ws/rest/vehicle/38084
+LIBSRC-LIB56-ENT-NHT-0002525,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/38084
+LIBSRC-LIB56-ENT-NHT-0002525,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/38084
+LIBSRC-LIB56-ENT-NHT-0002527,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/37945
+LIBSRC-LIB56-ENT-NHT-0002527,model_identifier,"""Encore""",https://www.fueleconomy.gov/ws/rest/vehicle/37945
+LIBSRC-LIB56-ENT-NHT-0002527,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/37945
+LIBSRC-LIB56-ENT-NHT-0002527,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37945
+LIBSRC-LIB56-ENT-NHT-0002529,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/39293
+LIBSRC-LIB56-ENT-NHT-0002529,model_identifier,"""LaCrosse""",https://www.fueleconomy.gov/ws/rest/vehicle/39293
+LIBSRC-LIB56-ENT-NHT-0002529,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/39293
+LIBSRC-LIB56-ENT-NHT-0002529,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/39293
+LIBSRC-LIB56-ENT-NHT-0002530,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/39506
+LIBSRC-LIB56-ENT-NHT-0002530,model_identifier,"""Regal""",https://www.fueleconomy.gov/ws/rest/vehicle/39506
+LIBSRC-LIB56-ENT-NHT-0002530,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/39506
+LIBSRC-LIB56-ENT-NHT-0002530,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/39506
+LIBSRC-LIB56-ENT-NHT-0002531,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/39413
+LIBSRC-LIB56-ENT-NHT-0002531,model_identifier,"""Cascada""",https://www.fueleconomy.gov/ws/rest/vehicle/39413
+LIBSRC-LIB56-ENT-NHT-0002531,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/39413
+LIBSRC-LIB56-ENT-NHT-0002531,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/39413
+LIBSRC-LIB56-ENT-NHT-0002534,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/38950
+LIBSRC-LIB56-ENT-NHT-0002534,model_identifier,"""Encore""",https://www.fueleconomy.gov/ws/rest/vehicle/38950
+LIBSRC-LIB56-ENT-NHT-0002534,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/38950
+LIBSRC-LIB56-ENT-NHT-0002534,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/38950
+LIBSRC-LIB56-ENT-NHT-0002536,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/40238
+LIBSRC-LIB56-ENT-NHT-0002536,model_identifier,"""LaCrosse""",https://www.fueleconomy.gov/ws/rest/vehicle/40238
+LIBSRC-LIB56-ENT-NHT-0002536,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/40238
+LIBSRC-LIB56-ENT-NHT-0002536,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/40238
+LIBSRC-LIB56-ENT-NHT-0002537,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/40698
+LIBSRC-LIB56-ENT-NHT-0002537,model_identifier,"""Regal""",https://www.fueleconomy.gov/ws/rest/vehicle/40698
+LIBSRC-LIB56-ENT-NHT-0002537,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/40698
+LIBSRC-LIB56-ENT-NHT-0002537,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/40698
+LIBSRC-LIB56-ENT-NHT-0002538,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/40229
+LIBSRC-LIB56-ENT-NHT-0002538,model_identifier,"""Cascada""",https://www.fueleconomy.gov/ws/rest/vehicle/40229
+LIBSRC-LIB56-ENT-NHT-0002538,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/40229
+LIBSRC-LIB56-ENT-NHT-0002538,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/40229
+LIBSRC-LIB56-ENT-NHT-0002541,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/40264
+LIBSRC-LIB56-ENT-NHT-0002541,model_identifier,"""Encore""",https://www.fueleconomy.gov/ws/rest/vehicle/40264
+LIBSRC-LIB56-ENT-NHT-0002541,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/40264
+LIBSRC-LIB56-ENT-NHT-0002541,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/40264
+LIBSRC-LIB56-ENT-NHT-0002543,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/41557
+LIBSRC-LIB56-ENT-NHT-0002543,model_identifier,"""Regal""",https://www.fueleconomy.gov/ws/rest/vehicle/41557
+LIBSRC-LIB56-ENT-NHT-0002543,model_year,"""2020""",https://www.fueleconomy.gov/ws/rest/vehicle/41557
+LIBSRC-LIB56-ENT-NHT-0002543,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/41557
+LIBSRC-LIB56-ENT-NHT-0002565,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/46679
+LIBSRC-LIB56-ENT-NHT-0002565,model_identifier,"""Envista""",https://www.fueleconomy.gov/ws/rest/vehicle/46679
+LIBSRC-LIB56-ENT-NHT-0002565,model_year,"""2024""",https://www.fueleconomy.gov/ws/rest/vehicle/46679
+LIBSRC-LIB56-ENT-NHT-0002565,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/46679
+LIBSRC-LIB56-ENT-NHT-0002570,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/47780
+LIBSRC-LIB56-ENT-NHT-0002570,model_identifier,"""Envista""",https://www.fueleconomy.gov/ws/rest/vehicle/47780
+LIBSRC-LIB56-ENT-NHT-0002570,model_year,"""2025""",https://www.fueleconomy.gov/ws/rest/vehicle/47780
+LIBSRC-LIB56-ENT-NHT-0002570,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/47780
+LIBSRC-LIB56-ENT-NHT-0002575,manufacturer_or_creator,"""Buick""",https://www.fueleconomy.gov/ws/rest/vehicle/49337
+LIBSRC-LIB56-ENT-NHT-0002575,model_identifier,"""Envista""",https://www.fueleconomy.gov/ws/rest/vehicle/49337
+LIBSRC-LIB56-ENT-NHT-0002575,model_year,"""2026""",https://www.fueleconomy.gov/ws/rest/vehicle/49337
+LIBSRC-LIB56-ENT-NHT-0002575,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/49337
+LIBSRC-LIB56-ENT-NHT-0002578,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/15987
+LIBSRC-LIB56-ENT-NHT-0002578,model_identifier,"""DeVille""",https://www.fueleconomy.gov/ws/rest/vehicle/15987
+LIBSRC-LIB56-ENT-NHT-0002578,model_year,"""2000""",https://www.fueleconomy.gov/ws/rest/vehicle/15987
+LIBSRC-LIB56-ENT-NHT-0002578,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/15987
+LIBSRC-LIB56-ENT-NHT-0002579,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/15888
+LIBSRC-LIB56-ENT-NHT-0002579,model_identifier,"""Eldorado""",https://www.fueleconomy.gov/ws/rest/vehicle/15888
+LIBSRC-LIB56-ENT-NHT-0002579,model_year,"""2000""",https://www.fueleconomy.gov/ws/rest/vehicle/15888
+LIBSRC-LIB56-ENT-NHT-0002579,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/15888
+LIBSRC-LIB56-ENT-NHT-0002580,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/15887
+LIBSRC-LIB56-ENT-NHT-0002580,model_identifier,"""Catera""",https://www.fueleconomy.gov/ws/rest/vehicle/15887
+LIBSRC-LIB56-ENT-NHT-0002580,model_year,"""2000""",https://www.fueleconomy.gov/ws/rest/vehicle/15887
+LIBSRC-LIB56-ENT-NHT-0002580,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/15887
+LIBSRC-LIB56-ENT-NHT-0002581,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/15889
+LIBSRC-LIB56-ENT-NHT-0002581,model_identifier,"""Seville""",https://www.fueleconomy.gov/ws/rest/vehicle/15889
+LIBSRC-LIB56-ENT-NHT-0002581,model_year,"""2000""",https://www.fueleconomy.gov/ws/rest/vehicle/15889
+LIBSRC-LIB56-ENT-NHT-0002581,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/15889
+LIBSRC-LIB56-ENT-NHT-0002585,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/16844
+LIBSRC-LIB56-ENT-NHT-0002585,model_identifier,"""DeVille""",https://www.fueleconomy.gov/ws/rest/vehicle/16844
+LIBSRC-LIB56-ENT-NHT-0002585,model_year,"""2001""",https://www.fueleconomy.gov/ws/rest/vehicle/16844
+LIBSRC-LIB56-ENT-NHT-0002585,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/16844
+LIBSRC-LIB56-ENT-NHT-0002586,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/16750
+LIBSRC-LIB56-ENT-NHT-0002586,model_identifier,"""Eldorado""",https://www.fueleconomy.gov/ws/rest/vehicle/16750
+LIBSRC-LIB56-ENT-NHT-0002586,model_year,"""2001""",https://www.fueleconomy.gov/ws/rest/vehicle/16750
+LIBSRC-LIB56-ENT-NHT-0002586,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/16750
+LIBSRC-LIB56-ENT-NHT-0002587,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/16749
+LIBSRC-LIB56-ENT-NHT-0002587,model_identifier,"""Catera""",https://www.fueleconomy.gov/ws/rest/vehicle/16749
+LIBSRC-LIB56-ENT-NHT-0002587,model_year,"""2001""",https://www.fueleconomy.gov/ws/rest/vehicle/16749
+LIBSRC-LIB56-ENT-NHT-0002587,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/16749
+LIBSRC-LIB56-ENT-NHT-0002588,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/16751
+LIBSRC-LIB56-ENT-NHT-0002588,model_identifier,"""Seville""",https://www.fueleconomy.gov/ws/rest/vehicle/16751
+LIBSRC-LIB56-ENT-NHT-0002588,model_year,"""2001""",https://www.fueleconomy.gov/ws/rest/vehicle/16751
+LIBSRC-LIB56-ENT-NHT-0002588,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/16751
+LIBSRC-LIB56-ENT-NHT-0002590,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/17775
+LIBSRC-LIB56-ENT-NHT-0002590,model_identifier,"""Limousine""",https://www.fueleconomy.gov/ws/rest/vehicle/17775
+LIBSRC-LIB56-ENT-NHT-0002590,model_year,"""2002""",https://www.fueleconomy.gov/ws/rest/vehicle/17775
+LIBSRC-LIB56-ENT-NHT-0002590,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/17775
+LIBSRC-LIB56-ENT-NHT-0002592,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/17774
+LIBSRC-LIB56-ENT-NHT-0002592,model_identifier,"""DeVille""",https://www.fueleconomy.gov/ws/rest/vehicle/17774
+LIBSRC-LIB56-ENT-NHT-0002592,model_year,"""2002""",https://www.fueleconomy.gov/ws/rest/vehicle/17774
+LIBSRC-LIB56-ENT-NHT-0002592,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/17774
+LIBSRC-LIB56-ENT-NHT-0002593,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/17677
+LIBSRC-LIB56-ENT-NHT-0002593,model_identifier,"""Eldorado""",https://www.fueleconomy.gov/ws/rest/vehicle/17677
+LIBSRC-LIB56-ENT-NHT-0002593,model_year,"""2002""",https://www.fueleconomy.gov/ws/rest/vehicle/17677
+LIBSRC-LIB56-ENT-NHT-0002593,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/17677
+LIBSRC-LIB56-ENT-NHT-0002594,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/17678
+LIBSRC-LIB56-ENT-NHT-0002594,model_identifier,"""Seville""",https://www.fueleconomy.gov/ws/rest/vehicle/17678
+LIBSRC-LIB56-ENT-NHT-0002594,model_year,"""2002""",https://www.fueleconomy.gov/ws/rest/vehicle/17678
+LIBSRC-LIB56-ENT-NHT-0002594,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/17678
+LIBSRC-LIB56-ENT-NHT-0002596,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/18642
+LIBSRC-LIB56-ENT-NHT-0002596,model_identifier,"""CTS""",https://www.fueleconomy.gov/ws/rest/vehicle/18642
+LIBSRC-LIB56-ENT-NHT-0002596,model_year,"""2003""",https://www.fueleconomy.gov/ws/rest/vehicle/18642
+LIBSRC-LIB56-ENT-NHT-0002596,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/18642
+LIBSRC-LIB56-ENT-NHT-0002598,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/18730
+LIBSRC-LIB56-ENT-NHT-0002598,model_identifier,"""Limousine""",https://www.fueleconomy.gov/ws/rest/vehicle/18730
+LIBSRC-LIB56-ENT-NHT-0002598,model_year,"""2003""",https://www.fueleconomy.gov/ws/rest/vehicle/18730
+LIBSRC-LIB56-ENT-NHT-0002598,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/18730
+LIBSRC-LIB56-ENT-NHT-0002600,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/18728
+LIBSRC-LIB56-ENT-NHT-0002600,model_identifier,"""DeVille""",https://www.fueleconomy.gov/ws/rest/vehicle/18728
+LIBSRC-LIB56-ENT-NHT-0002600,model_year,"""2003""",https://www.fueleconomy.gov/ws/rest/vehicle/18728
+LIBSRC-LIB56-ENT-NHT-0002600,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/18728
+LIBSRC-LIB56-ENT-NHT-0002601,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/18644
+LIBSRC-LIB56-ENT-NHT-0002601,model_identifier,"""Seville""",https://www.fueleconomy.gov/ws/rest/vehicle/18644
+LIBSRC-LIB56-ENT-NHT-0002601,model_year,"""2003""",https://www.fueleconomy.gov/ws/rest/vehicle/18644
+LIBSRC-LIB56-ENT-NHT-0002601,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/18644
+LIBSRC-LIB56-ENT-NHT-0002603,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/19730
+LIBSRC-LIB56-ENT-NHT-0002603,model_identifier,"""CTS""",https://www.fueleconomy.gov/ws/rest/vehicle/19730
+LIBSRC-LIB56-ENT-NHT-0002603,model_year,"""2004""",https://www.fueleconomy.gov/ws/rest/vehicle/19730
+LIBSRC-LIB56-ENT-NHT-0002603,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/19730
+LIBSRC-LIB56-ENT-NHT-0002604,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/19343
+LIBSRC-LIB56-ENT-NHT-0002604,model_identifier,"""XLR""",https://www.fueleconomy.gov/ws/rest/vehicle/19343
+LIBSRC-LIB56-ENT-NHT-0002604,model_year,"""2004""",https://www.fueleconomy.gov/ws/rest/vehicle/19343
+LIBSRC-LIB56-ENT-NHT-0002604,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/19343
+LIBSRC-LIB56-ENT-NHT-0002605,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/19831
+LIBSRC-LIB56-ENT-NHT-0002605,model_identifier,"""DeVille""",https://www.fueleconomy.gov/ws/rest/vehicle/19831
+LIBSRC-LIB56-ENT-NHT-0002605,model_year,"""2004""",https://www.fueleconomy.gov/ws/rest/vehicle/19831
+LIBSRC-LIB56-ENT-NHT-0002605,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/19831
+LIBSRC-LIB56-ENT-NHT-0002606,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/19734
+LIBSRC-LIB56-ENT-NHT-0002606,model_identifier,"""Seville""",https://www.fueleconomy.gov/ws/rest/vehicle/19734
+LIBSRC-LIB56-ENT-NHT-0002606,model_year,"""2004""",https://www.fueleconomy.gov/ws/rest/vehicle/19734
+LIBSRC-LIB56-ENT-NHT-0002606,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/19734
+LIBSRC-LIB56-ENT-NHT-0002609,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/21560
+LIBSRC-LIB56-ENT-NHT-0002609,model_identifier,"""CTS""",https://www.fueleconomy.gov/ws/rest/vehicle/21560
+LIBSRC-LIB56-ENT-NHT-0002609,model_year,"""2005""",https://www.fueleconomy.gov/ws/rest/vehicle/21560
+LIBSRC-LIB56-ENT-NHT-0002609,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/21560
+LIBSRC-LIB56-ENT-NHT-0002611,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/20461
+LIBSRC-LIB56-ENT-NHT-0002611,model_identifier,"""XLR""",https://www.fueleconomy.gov/ws/rest/vehicle/20461
+LIBSRC-LIB56-ENT-NHT-0002611,model_year,"""2005""",https://www.fueleconomy.gov/ws/rest/vehicle/20461
+LIBSRC-LIB56-ENT-NHT-0002611,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/20461
+LIBSRC-LIB56-ENT-NHT-0002612,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/20954
+LIBSRC-LIB56-ENT-NHT-0002612,model_identifier,"""DeVille""",https://www.fueleconomy.gov/ws/rest/vehicle/20954
+LIBSRC-LIB56-ENT-NHT-0002612,model_year,"""2005""",https://www.fueleconomy.gov/ws/rest/vehicle/20954
+LIBSRC-LIB56-ENT-NHT-0002612,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/20954
+LIBSRC-LIB56-ENT-NHT-0002615,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/21939
+LIBSRC-LIB56-ENT-NHT-0002615,model_identifier,"""CTS""",https://www.fueleconomy.gov/ws/rest/vehicle/21939
+LIBSRC-LIB56-ENT-NHT-0002615,model_year,"""2006""",https://www.fueleconomy.gov/ws/rest/vehicle/21939
+LIBSRC-LIB56-ENT-NHT-0002615,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/21939
+LIBSRC-LIB56-ENT-NHT-0002616,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/21943
+LIBSRC-LIB56-ENT-NHT-0002616,model_identifier,"""STS""",https://www.fueleconomy.gov/ws/rest/vehicle/21943
+LIBSRC-LIB56-ENT-NHT-0002616,model_year,"""2006""",https://www.fueleconomy.gov/ws/rest/vehicle/21943
+LIBSRC-LIB56-ENT-NHT-0002616,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/21943
+LIBSRC-LIB56-ENT-NHT-0002617,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/22033
+LIBSRC-LIB56-ENT-NHT-0002617,model_identifier,"""DTS""",https://www.fueleconomy.gov/ws/rest/vehicle/22033
+LIBSRC-LIB56-ENT-NHT-0002617,model_year,"""2006""",https://www.fueleconomy.gov/ws/rest/vehicle/22033
+LIBSRC-LIB56-ENT-NHT-0002617,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/22033
+LIBSRC-LIB56-ENT-NHT-0002618,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/21618
+LIBSRC-LIB56-ENT-NHT-0002618,model_identifier,"""XLR""",https://www.fueleconomy.gov/ws/rest/vehicle/21618
+LIBSRC-LIB56-ENT-NHT-0002618,model_year,"""2006""",https://www.fueleconomy.gov/ws/rest/vehicle/21618
+LIBSRC-LIB56-ENT-NHT-0002618,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/21618
+LIBSRC-LIB56-ENT-NHT-0002621,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/23243
+LIBSRC-LIB56-ENT-NHT-0002621,model_identifier,"""CTS""",https://www.fueleconomy.gov/ws/rest/vehicle/23243
+LIBSRC-LIB56-ENT-NHT-0002621,model_year,"""2007""",https://www.fueleconomy.gov/ws/rest/vehicle/23243
+LIBSRC-LIB56-ENT-NHT-0002621,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/23243
+LIBSRC-LIB56-ENT-NHT-0002622,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/23247
+LIBSRC-LIB56-ENT-NHT-0002622,model_identifier,"""STS""",https://www.fueleconomy.gov/ws/rest/vehicle/23247
+LIBSRC-LIB56-ENT-NHT-0002622,model_year,"""2007""",https://www.fueleconomy.gov/ws/rest/vehicle/23247
+LIBSRC-LIB56-ENT-NHT-0002622,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/23247
+LIBSRC-LIB56-ENT-NHT-0002623,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/23283
+LIBSRC-LIB56-ENT-NHT-0002623,model_identifier,"""DTS""",https://www.fueleconomy.gov/ws/rest/vehicle/23283
+LIBSRC-LIB56-ENT-NHT-0002623,model_year,"""2007""",https://www.fueleconomy.gov/ws/rest/vehicle/23283
+LIBSRC-LIB56-ENT-NHT-0002623,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/23283
+LIBSRC-LIB56-ENT-NHT-0002624,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/23061
+LIBSRC-LIB56-ENT-NHT-0002624,model_identifier,"""XLR""",https://www.fueleconomy.gov/ws/rest/vehicle/23061
+LIBSRC-LIB56-ENT-NHT-0002624,model_year,"""2007""",https://www.fueleconomy.gov/ws/rest/vehicle/23061
+LIBSRC-LIB56-ENT-NHT-0002624,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/23061
+LIBSRC-LIB56-ENT-NHT-0002627,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/24358
+LIBSRC-LIB56-ENT-NHT-0002627,model_identifier,"""CTS""",https://www.fueleconomy.gov/ws/rest/vehicle/24358
+LIBSRC-LIB56-ENT-NHT-0002627,model_year,"""2008""",https://www.fueleconomy.gov/ws/rest/vehicle/24358
+LIBSRC-LIB56-ENT-NHT-0002627,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/24358
+LIBSRC-LIB56-ENT-NHT-0002628,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/24360
+LIBSRC-LIB56-ENT-NHT-0002628,model_identifier,"""STS""",https://www.fueleconomy.gov/ws/rest/vehicle/24360
+LIBSRC-LIB56-ENT-NHT-0002628,model_year,"""2008""",https://www.fueleconomy.gov/ws/rest/vehicle/24360
+LIBSRC-LIB56-ENT-NHT-0002628,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/24360
+LIBSRC-LIB56-ENT-NHT-0002629,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/24418
+LIBSRC-LIB56-ENT-NHT-0002629,model_identifier,"""DTS""",https://www.fueleconomy.gov/ws/rest/vehicle/24418
+LIBSRC-LIB56-ENT-NHT-0002629,model_year,"""2008""",https://www.fueleconomy.gov/ws/rest/vehicle/24418
+LIBSRC-LIB56-ENT-NHT-0002629,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/24418
+LIBSRC-LIB56-ENT-NHT-0002630,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/24171
+LIBSRC-LIB56-ENT-NHT-0002630,model_identifier,"""XLR""",https://www.fueleconomy.gov/ws/rest/vehicle/24171
+LIBSRC-LIB56-ENT-NHT-0002630,model_year,"""2008""",https://www.fueleconomy.gov/ws/rest/vehicle/24171
+LIBSRC-LIB56-ENT-NHT-0002630,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/24171
+LIBSRC-LIB56-ENT-NHT-0002633,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/25471
+LIBSRC-LIB56-ENT-NHT-0002633,model_identifier,"""CTS""",https://www.fueleconomy.gov/ws/rest/vehicle/25471
+LIBSRC-LIB56-ENT-NHT-0002633,model_year,"""2009""",https://www.fueleconomy.gov/ws/rest/vehicle/25471
+LIBSRC-LIB56-ENT-NHT-0002633,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/25471
+LIBSRC-LIB56-ENT-NHT-0002634,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/25477
+LIBSRC-LIB56-ENT-NHT-0002634,model_identifier,"""STS""",https://www.fueleconomy.gov/ws/rest/vehicle/25477
+LIBSRC-LIB56-ENT-NHT-0002634,model_year,"""2009""",https://www.fueleconomy.gov/ws/rest/vehicle/25477
+LIBSRC-LIB56-ENT-NHT-0002634,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/25477
+LIBSRC-LIB56-ENT-NHT-0002635,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/25520
+LIBSRC-LIB56-ENT-NHT-0002635,model_identifier,"""DTS""",https://www.fueleconomy.gov/ws/rest/vehicle/25520
+LIBSRC-LIB56-ENT-NHT-0002635,model_year,"""2009""",https://www.fueleconomy.gov/ws/rest/vehicle/25520
+LIBSRC-LIB56-ENT-NHT-0002635,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/25520
+LIBSRC-LIB56-ENT-NHT-0002636,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/25386
+LIBSRC-LIB56-ENT-NHT-0002636,model_identifier,"""XLR""",https://www.fueleconomy.gov/ws/rest/vehicle/25386
+LIBSRC-LIB56-ENT-NHT-0002636,model_year,"""2009""",https://www.fueleconomy.gov/ws/rest/vehicle/25386
+LIBSRC-LIB56-ENT-NHT-0002636,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/25386
+LIBSRC-LIB56-ENT-NHT-0002639,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/26395
+LIBSRC-LIB56-ENT-NHT-0002639,model_identifier,"""CTS""",https://www.fueleconomy.gov/ws/rest/vehicle/26395
+LIBSRC-LIB56-ENT-NHT-0002639,model_year,"""2010""",https://www.fueleconomy.gov/ws/rest/vehicle/26395
+LIBSRC-LIB56-ENT-NHT-0002639,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/26395
+LIBSRC-LIB56-ENT-NHT-0002640,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/26397
+LIBSRC-LIB56-ENT-NHT-0002640,model_identifier,"""STS""",https://www.fueleconomy.gov/ws/rest/vehicle/26397
+LIBSRC-LIB56-ENT-NHT-0002640,model_year,"""2010""",https://www.fueleconomy.gov/ws/rest/vehicle/26397
+LIBSRC-LIB56-ENT-NHT-0002640,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/26397
+LIBSRC-LIB56-ENT-NHT-0002641,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/28656
+LIBSRC-LIB56-ENT-NHT-0002641,model_identifier,"""DTS""",https://www.fueleconomy.gov/ws/rest/vehicle/28656
+LIBSRC-LIB56-ENT-NHT-0002641,model_year,"""2010""",https://www.fueleconomy.gov/ws/rest/vehicle/28656
+LIBSRC-LIB56-ENT-NHT-0002641,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/28656
+LIBSRC-LIB56-ENT-NHT-0002644,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/28659
+LIBSRC-LIB56-ENT-NHT-0002644,model_identifier,"""Limousine""",https://www.fueleconomy.gov/ws/rest/vehicle/28659
+LIBSRC-LIB56-ENT-NHT-0002644,model_year,"""2010""",https://www.fueleconomy.gov/ws/rest/vehicle/28659
+LIBSRC-LIB56-ENT-NHT-0002644,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/28659
+LIBSRC-LIB56-ENT-NHT-0002646,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/30378
+LIBSRC-LIB56-ENT-NHT-0002646,model_identifier,"""CTS""",https://www.fueleconomy.gov/ws/rest/vehicle/30378
+LIBSRC-LIB56-ENT-NHT-0002646,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30378
+LIBSRC-LIB56-ENT-NHT-0002646,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30378
+LIBSRC-LIB56-ENT-NHT-0002647,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/30379
+LIBSRC-LIB56-ENT-NHT-0002647,model_identifier,"""STS""",https://www.fueleconomy.gov/ws/rest/vehicle/30379
+LIBSRC-LIB56-ENT-NHT-0002647,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30379
+LIBSRC-LIB56-ENT-NHT-0002647,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30379
+LIBSRC-LIB56-ENT-NHT-0002648,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/30410
+LIBSRC-LIB56-ENT-NHT-0002648,model_identifier,"""DTS""",https://www.fueleconomy.gov/ws/rest/vehicle/30410
+LIBSRC-LIB56-ENT-NHT-0002648,model_year,"""2011""",https://www.fueleconomy.gov/ws/rest/vehicle/30410
+LIBSRC-LIB56-ENT-NHT-0002648,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/30410
+LIBSRC-LIB56-ENT-NHT-0002651,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/31365
+LIBSRC-LIB56-ENT-NHT-0002651,model_identifier,"""CTS""",https://www.fueleconomy.gov/ws/rest/vehicle/31365
+LIBSRC-LIB56-ENT-NHT-0002651,model_year,"""2012""",https://www.fueleconomy.gov/ws/rest/vehicle/31365
+LIBSRC-LIB56-ENT-NHT-0002651,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/31365
+LIBSRC-LIB56-ENT-NHT-0002654,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/32690
+LIBSRC-LIB56-ENT-NHT-0002654,model_identifier,"""ATS""",https://www.fueleconomy.gov/ws/rest/vehicle/32690
+LIBSRC-LIB56-ENT-NHT-0002654,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/32690
+LIBSRC-LIB56-ENT-NHT-0002654,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32690
+LIBSRC-LIB56-ENT-NHT-0002655,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/32402
+LIBSRC-LIB56-ENT-NHT-0002655,model_identifier,"""CTS""",https://www.fueleconomy.gov/ws/rest/vehicle/32402
+LIBSRC-LIB56-ENT-NHT-0002655,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/32402
+LIBSRC-LIB56-ENT-NHT-0002655,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32402
+LIBSRC-LIB56-ENT-NHT-0002656,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/32498
+LIBSRC-LIB56-ENT-NHT-0002656,model_identifier,"""XTS""",https://www.fueleconomy.gov/ws/rest/vehicle/32498
+LIBSRC-LIB56-ENT-NHT-0002656,model_year,"""2013""",https://www.fueleconomy.gov/ws/rest/vehicle/32498
+LIBSRC-LIB56-ENT-NHT-0002656,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/32498
+LIBSRC-LIB56-ENT-NHT-0002659,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/33642
+LIBSRC-LIB56-ENT-NHT-0002659,model_identifier,"""ATS""",https://www.fueleconomy.gov/ws/rest/vehicle/33642
+LIBSRC-LIB56-ENT-NHT-0002659,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/33642
+LIBSRC-LIB56-ENT-NHT-0002659,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33642
+LIBSRC-LIB56-ENT-NHT-0002660,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/33842
+LIBSRC-LIB56-ENT-NHT-0002660,model_identifier,"""CTS""",https://www.fueleconomy.gov/ws/rest/vehicle/33842
+LIBSRC-LIB56-ENT-NHT-0002660,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/33842
+LIBSRC-LIB56-ENT-NHT-0002660,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/33842
+LIBSRC-LIB56-ENT-NHT-0002661,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/34770
+LIBSRC-LIB56-ENT-NHT-0002661,model_identifier,"""ELR""",https://www.fueleconomy.gov/ws/rest/vehicle/34770
+LIBSRC-LIB56-ENT-NHT-0002661,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34770
+LIBSRC-LIB56-ENT-NHT-0002661,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34770
+LIBSRC-LIB56-ENT-NHT-0002662,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/34205
+LIBSRC-LIB56-ENT-NHT-0002662,model_identifier,"""XTS""",https://www.fueleconomy.gov/ws/rest/vehicle/34205
+LIBSRC-LIB56-ENT-NHT-0002662,model_year,"""2014""",https://www.fueleconomy.gov/ws/rest/vehicle/34205
+LIBSRC-LIB56-ENT-NHT-0002662,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34205
+LIBSRC-LIB56-ENT-NHT-0002665,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/34984
+LIBSRC-LIB56-ENT-NHT-0002665,model_identifier,"""ATS""",https://www.fueleconomy.gov/ws/rest/vehicle/34984
+LIBSRC-LIB56-ENT-NHT-0002665,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/34984
+LIBSRC-LIB56-ENT-NHT-0002665,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/34984
+LIBSRC-LIB56-ENT-NHT-0002666,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/35101
+LIBSRC-LIB56-ENT-NHT-0002666,model_identifier,"""CTS""",https://www.fueleconomy.gov/ws/rest/vehicle/35101
+LIBSRC-LIB56-ENT-NHT-0002666,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35101
+LIBSRC-LIB56-ENT-NHT-0002666,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35101
+LIBSRC-LIB56-ENT-NHT-0002667,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/35317
+LIBSRC-LIB56-ENT-NHT-0002667,model_identifier,"""ELR""",https://www.fueleconomy.gov/ws/rest/vehicle/35317
+LIBSRC-LIB56-ENT-NHT-0002667,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35317
+LIBSRC-LIB56-ENT-NHT-0002667,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35317
+LIBSRC-LIB56-ENT-NHT-0002668,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/35021
+LIBSRC-LIB56-ENT-NHT-0002668,model_identifier,"""XTS""",https://www.fueleconomy.gov/ws/rest/vehicle/35021
+LIBSRC-LIB56-ENT-NHT-0002668,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35021
+LIBSRC-LIB56-ENT-NHT-0002668,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35021
+LIBSRC-LIB56-ENT-NHT-0002670,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/35058
+LIBSRC-LIB56-ENT-NHT-0002670,model_identifier,"""SRX""",https://www.fueleconomy.gov/ws/rest/vehicle/35058
+LIBSRC-LIB56-ENT-NHT-0002670,model_year,"""2015""",https://www.fueleconomy.gov/ws/rest/vehicle/35058
+LIBSRC-LIB56-ENT-NHT-0002670,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/35058
+LIBSRC-LIB56-ENT-NHT-0002671,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/36733
+LIBSRC-LIB56-ENT-NHT-0002671,model_identifier,"""ATS""",https://www.fueleconomy.gov/ws/rest/vehicle/36733
+LIBSRC-LIB56-ENT-NHT-0002671,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36733
+LIBSRC-LIB56-ENT-NHT-0002671,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36733
+LIBSRC-LIB56-ENT-NHT-0002673,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/36862
+LIBSRC-LIB56-ENT-NHT-0002673,model_identifier,"""ELR""",https://www.fueleconomy.gov/ws/rest/vehicle/36862
+LIBSRC-LIB56-ENT-NHT-0002673,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36862
+LIBSRC-LIB56-ENT-NHT-0002673,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36862
+LIBSRC-LIB56-ENT-NHT-0002674,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/36471
+LIBSRC-LIB56-ENT-NHT-0002674,model_identifier,"""XTS""",https://www.fueleconomy.gov/ws/rest/vehicle/36471
+LIBSRC-LIB56-ENT-NHT-0002674,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36471
+LIBSRC-LIB56-ENT-NHT-0002674,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36471
+LIBSRC-LIB56-ENT-NHT-0002675,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/37252
+LIBSRC-LIB56-ENT-NHT-0002675,model_identifier,"""CT6""",https://www.fueleconomy.gov/ws/rest/vehicle/37252
+LIBSRC-LIB56-ENT-NHT-0002675,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/37252
+LIBSRC-LIB56-ENT-NHT-0002675,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37252
+LIBSRC-LIB56-ENT-NHT-0002677,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/36436
+LIBSRC-LIB56-ENT-NHT-0002677,model_identifier,"""SRX""",https://www.fueleconomy.gov/ws/rest/vehicle/36436
+LIBSRC-LIB56-ENT-NHT-0002677,model_year,"""2016""",https://www.fueleconomy.gov/ws/rest/vehicle/36436
+LIBSRC-LIB56-ENT-NHT-0002677,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/36436
+LIBSRC-LIB56-ENT-NHT-0002678,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/37765
+LIBSRC-LIB56-ENT-NHT-0002678,model_identifier,"""ATS""",https://www.fueleconomy.gov/ws/rest/vehicle/37765
+LIBSRC-LIB56-ENT-NHT-0002678,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/37765
+LIBSRC-LIB56-ENT-NHT-0002678,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37765
+LIBSRC-LIB56-ENT-NHT-0002679,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/37770
+LIBSRC-LIB56-ENT-NHT-0002679,model_identifier,"""CTS""",https://www.fueleconomy.gov/ws/rest/vehicle/37770
+LIBSRC-LIB56-ENT-NHT-0002679,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/37770
+LIBSRC-LIB56-ENT-NHT-0002679,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37770
+LIBSRC-LIB56-ENT-NHT-0002681,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/37493
+LIBSRC-LIB56-ENT-NHT-0002681,model_identifier,"""XTS""",https://www.fueleconomy.gov/ws/rest/vehicle/37493
+LIBSRC-LIB56-ENT-NHT-0002681,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/37493
+LIBSRC-LIB56-ENT-NHT-0002681,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37493
+LIBSRC-LIB56-ENT-NHT-0002682,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/37936
+LIBSRC-LIB56-ENT-NHT-0002682,model_identifier,"""CT6""",https://www.fueleconomy.gov/ws/rest/vehicle/37936
+LIBSRC-LIB56-ENT-NHT-0002682,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/37936
+LIBSRC-LIB56-ENT-NHT-0002682,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37936
+LIBSRC-LIB56-ENT-NHT-0002686,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/37270
+LIBSRC-LIB56-ENT-NHT-0002686,model_identifier,"""XT5""",https://www.fueleconomy.gov/ws/rest/vehicle/37270
+LIBSRC-LIB56-ENT-NHT-0002686,model_year,"""2017""",https://www.fueleconomy.gov/ws/rest/vehicle/37270
+LIBSRC-LIB56-ENT-NHT-0002686,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/37270
+LIBSRC-LIB56-ENT-NHT-0002687,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/38917
+LIBSRC-LIB56-ENT-NHT-0002687,model_identifier,"""ATS""",https://www.fueleconomy.gov/ws/rest/vehicle/38917
+LIBSRC-LIB56-ENT-NHT-0002687,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/38917
+LIBSRC-LIB56-ENT-NHT-0002687,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/38917
+LIBSRC-LIB56-ENT-NHT-0002688,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/38704
+LIBSRC-LIB56-ENT-NHT-0002688,model_identifier,"""CTS""",https://www.fueleconomy.gov/ws/rest/vehicle/38704
+LIBSRC-LIB56-ENT-NHT-0002688,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/38704
+LIBSRC-LIB56-ENT-NHT-0002688,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/38704
+LIBSRC-LIB56-ENT-NHT-0002690,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/39437
+LIBSRC-LIB56-ENT-NHT-0002690,model_identifier,"""XTS""",https://www.fueleconomy.gov/ws/rest/vehicle/39437
+LIBSRC-LIB56-ENT-NHT-0002690,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/39437
+LIBSRC-LIB56-ENT-NHT-0002690,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/39437
+LIBSRC-LIB56-ENT-NHT-0002691,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/38976
+LIBSRC-LIB56-ENT-NHT-0002691,model_identifier,"""CT6""",https://www.fueleconomy.gov/ws/rest/vehicle/38976
+LIBSRC-LIB56-ENT-NHT-0002691,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/38976
+LIBSRC-LIB56-ENT-NHT-0002691,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/38976
+LIBSRC-LIB56-ENT-NHT-0002695,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/38951
+LIBSRC-LIB56-ENT-NHT-0002695,model_identifier,"""XT5""",https://www.fueleconomy.gov/ws/rest/vehicle/38951
+LIBSRC-LIB56-ENT-NHT-0002695,model_year,"""2018""",https://www.fueleconomy.gov/ws/rest/vehicle/38951
+LIBSRC-LIB56-ENT-NHT-0002695,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/38951
+LIBSRC-LIB56-ENT-NHT-0002696,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/40408
+LIBSRC-LIB56-ENT-NHT-0002696,model_identifier,"""ATS""",https://www.fueleconomy.gov/ws/rest/vehicle/40408
+LIBSRC-LIB56-ENT-NHT-0002696,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/40408
+LIBSRC-LIB56-ENT-NHT-0002696,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/40408
+LIBSRC-LIB56-ENT-NHT-0002697,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/40239
+LIBSRC-LIB56-ENT-NHT-0002697,model_identifier,"""CTS""",https://www.fueleconomy.gov/ws/rest/vehicle/40239
+LIBSRC-LIB56-ENT-NHT-0002697,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/40239
+LIBSRC-LIB56-ENT-NHT-0002697,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/40239
+LIBSRC-LIB56-ENT-NHT-0002699,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/40194
+LIBSRC-LIB56-ENT-NHT-0002699,model_identifier,"""XTS""",https://www.fueleconomy.gov/ws/rest/vehicle/40194
+LIBSRC-LIB56-ENT-NHT-0002699,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/40194
+LIBSRC-LIB56-ENT-NHT-0002699,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/40194
+LIBSRC-LIB56-ENT-NHT-0002700,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/40780
+LIBSRC-LIB56-ENT-NHT-0002700,model_identifier,"""CT6""",https://www.fueleconomy.gov/ws/rest/vehicle/40780
+LIBSRC-LIB56-ENT-NHT-0002700,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/40780
+LIBSRC-LIB56-ENT-NHT-0002700,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/40780
+LIBSRC-LIB56-ENT-NHT-0002704,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/40265
+LIBSRC-LIB56-ENT-NHT-0002704,model_identifier,"""XT5""",https://www.fueleconomy.gov/ws/rest/vehicle/40265
+LIBSRC-LIB56-ENT-NHT-0002704,model_year,"""2019""",https://www.fueleconomy.gov/ws/rest/vehicle/40265
+LIBSRC-LIB56-ENT-NHT-0002704,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/40265
+LIBSRC-LIB56-ENT-NHT-0002708,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/42463
+LIBSRC-LIB56-ENT-NHT-0002708,model_identifier,"""CT4""",https://www.fueleconomy.gov/ws/rest/vehicle/42463
+LIBSRC-LIB56-ENT-NHT-0002708,model_year,"""2020""",https://www.fueleconomy.gov/ws/rest/vehicle/42463
+LIBSRC-LIB56-ENT-NHT-0002708,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/42463
+LIBSRC-LIB56-ENT-NHT-0002709,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/42237
+LIBSRC-LIB56-ENT-NHT-0002709,model_identifier,"""CT5""",https://www.fueleconomy.gov/ws/rest/vehicle/42237
+LIBSRC-LIB56-ENT-NHT-0002709,model_year,"""2020""",https://www.fueleconomy.gov/ws/rest/vehicle/42237
+LIBSRC-LIB56-ENT-NHT-0002709,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/42237
+LIBSRC-LIB56-ENT-NHT-0002717,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/43149
+LIBSRC-LIB56-ENT-NHT-0002717,model_identifier,"""CT4""",https://www.fueleconomy.gov/ws/rest/vehicle/43149
+LIBSRC-LIB56-ENT-NHT-0002717,model_year,"""2021""",https://www.fueleconomy.gov/ws/rest/vehicle/43149
+LIBSRC-LIB56-ENT-NHT-0002717,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/43149
+LIBSRC-LIB56-ENT-NHT-0002718,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/43253
+LIBSRC-LIB56-ENT-NHT-0002718,model_identifier,"""CT5""",https://www.fueleconomy.gov/ws/rest/vehicle/43253
+LIBSRC-LIB56-ENT-NHT-0002718,model_year,"""2021""",https://www.fueleconomy.gov/ws/rest/vehicle/43253
+LIBSRC-LIB56-ENT-NHT-0002718,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/43253
+LIBSRC-LIB56-ENT-NHT-0002726,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/44233
+LIBSRC-LIB56-ENT-NHT-0002726,model_identifier,"""CT4""",https://www.fueleconomy.gov/ws/rest/vehicle/44233
+LIBSRC-LIB56-ENT-NHT-0002726,model_year,"""2022""",https://www.fueleconomy.gov/ws/rest/vehicle/44233
+LIBSRC-LIB56-ENT-NHT-0002726,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/44233
+LIBSRC-LIB56-ENT-NHT-0002727,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/44129
+LIBSRC-LIB56-ENT-NHT-0002727,model_identifier,"""CT5""",https://www.fueleconomy.gov/ws/rest/vehicle/44129
+LIBSRC-LIB56-ENT-NHT-0002727,model_year,"""2022""",https://www.fueleconomy.gov/ws/rest/vehicle/44129
+LIBSRC-LIB56-ENT-NHT-0002727,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/44129
+LIBSRC-LIB56-ENT-NHT-0002735,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/45501
+LIBSRC-LIB56-ENT-NHT-0002735,model_identifier,"""CT4""",https://www.fueleconomy.gov/ws/rest/vehicle/45501
+LIBSRC-LIB56-ENT-NHT-0002735,model_year,"""2023""",https://www.fueleconomy.gov/ws/rest/vehicle/45501
+LIBSRC-LIB56-ENT-NHT-0002735,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/45501
+LIBSRC-LIB56-ENT-NHT-0002736,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/45525
+LIBSRC-LIB56-ENT-NHT-0002736,model_identifier,"""CT5""",https://www.fueleconomy.gov/ws/rest/vehicle/45525
+LIBSRC-LIB56-ENT-NHT-0002736,model_year,"""2023""",https://www.fueleconomy.gov/ws/rest/vehicle/45525
+LIBSRC-LIB56-ENT-NHT-0002736,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/45525
+LIBSRC-LIB56-ENT-NHT-0002743,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/45749
+LIBSRC-LIB56-ENT-NHT-0002743,model_identifier,"""LYRIQ""",https://www.fueleconomy.gov/ws/rest/vehicle/45749
+LIBSRC-LIB56-ENT-NHT-0002743,model_year,"""2023""",https://www.fueleconomy.gov/ws/rest/vehicle/45749
+LIBSRC-LIB56-ENT-NHT-0002743,propulsion_type,"""Electricity""",https://www.fueleconomy.gov/ws/rest/vehicle/45749
+LIBSRC-LIB56-ENT-NHT-0002745,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/46770
+LIBSRC-LIB56-ENT-NHT-0002745,model_identifier,"""CT4""",https://www.fueleconomy.gov/ws/rest/vehicle/46770
+LIBSRC-LIB56-ENT-NHT-0002745,model_year,"""2024""",https://www.fueleconomy.gov/ws/rest/vehicle/46770
+LIBSRC-LIB56-ENT-NHT-0002745,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/46770
+LIBSRC-LIB56-ENT-NHT-0002746,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/46786
+LIBSRC-LIB56-ENT-NHT-0002746,model_identifier,"""CT5""",https://www.fueleconomy.gov/ws/rest/vehicle/46786
+LIBSRC-LIB56-ENT-NHT-0002746,model_year,"""2024""",https://www.fueleconomy.gov/ws/rest/vehicle/46786
+LIBSRC-LIB56-ENT-NHT-0002746,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/46786
+LIBSRC-LIB56-ENT-NHT-0002753,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/46945
+LIBSRC-LIB56-ENT-NHT-0002753,model_identifier,"""LYRIQ""",https://www.fueleconomy.gov/ws/rest/vehicle/46945
+LIBSRC-LIB56-ENT-NHT-0002753,model_year,"""2024""",https://www.fueleconomy.gov/ws/rest/vehicle/46945
+LIBSRC-LIB56-ENT-NHT-0002753,propulsion_type,"""Electricity""",https://www.fueleconomy.gov/ws/rest/vehicle/46945
+LIBSRC-LIB56-ENT-NHT-0002755,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/47981
+LIBSRC-LIB56-ENT-NHT-0002755,model_identifier,"""CT4""",https://www.fueleconomy.gov/ws/rest/vehicle/47981
+LIBSRC-LIB56-ENT-NHT-0002755,model_year,"""2025""",https://www.fueleconomy.gov/ws/rest/vehicle/47981
+LIBSRC-LIB56-ENT-NHT-0002755,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/47981
+LIBSRC-LIB56-ENT-NHT-0002756,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/47931
+LIBSRC-LIB56-ENT-NHT-0002756,model_identifier,"""CT5""",https://www.fueleconomy.gov/ws/rest/vehicle/47931
+LIBSRC-LIB56-ENT-NHT-0002756,model_year,"""2025""",https://www.fueleconomy.gov/ws/rest/vehicle/47931
+LIBSRC-LIB56-ENT-NHT-0002756,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/47931
+LIBSRC-LIB56-ENT-NHT-0002757,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/49067
+LIBSRC-LIB56-ENT-NHT-0002757,model_identifier,"""CELESTIQ""",https://www.fueleconomy.gov/ws/rest/vehicle/49067
+LIBSRC-LIB56-ENT-NHT-0002757,model_year,"""2025""",https://www.fueleconomy.gov/ws/rest/vehicle/49067
+LIBSRC-LIB56-ENT-NHT-0002757,propulsion_type,"""Electricity""",https://www.fueleconomy.gov/ws/rest/vehicle/49067
+LIBSRC-LIB56-ENT-NHT-0002764,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/48691
+LIBSRC-LIB56-ENT-NHT-0002764,model_identifier,"""LYRIQ""",https://www.fueleconomy.gov/ws/rest/vehicle/48691
+LIBSRC-LIB56-ENT-NHT-0002764,model_year,"""2025""",https://www.fueleconomy.gov/ws/rest/vehicle/48691
+LIBSRC-LIB56-ENT-NHT-0002764,propulsion_type,"""Electricity""",https://www.fueleconomy.gov/ws/rest/vehicle/48691
+LIBSRC-LIB56-ENT-NHT-0002768,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/49244
+LIBSRC-LIB56-ENT-NHT-0002768,model_identifier,"""CT4""",https://www.fueleconomy.gov/ws/rest/vehicle/49244
+LIBSRC-LIB56-ENT-NHT-0002768,model_year,"""2026""",https://www.fueleconomy.gov/ws/rest/vehicle/49244
+LIBSRC-LIB56-ENT-NHT-0002768,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/49244
+LIBSRC-LIB56-ENT-NHT-0002769,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/49278
+LIBSRC-LIB56-ENT-NHT-0002769,model_identifier,"""CT5""",https://www.fueleconomy.gov/ws/rest/vehicle/49278
+LIBSRC-LIB56-ENT-NHT-0002769,model_year,"""2026""",https://www.fueleconomy.gov/ws/rest/vehicle/49278
+LIBSRC-LIB56-ENT-NHT-0002769,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/49278
+LIBSRC-LIB56-ENT-NHT-0002770,manufacturer_or_creator,"""Cadillac""",https://www.fueleconomy.gov/ws/rest/vehicle/50197
+LIBSRC-LIB56-ENT-NHT-0002770,model_identifier,"""CELESTIQ""",https://www.fueleconomy.gov/ws/rest/vehicle/50197
+LIBSRC-LIB56-ENT-NHT-0002770,model_year,"""2026""",https://www.fueleconomy.gov/ws/rest/vehicle/50197
+LIBSRC-LIB56-ENT-NHT-0002770,propulsion_type,"""Electricity""",https://www.fueleconomy.gov/ws/rest/vehicle/50197
+LIBSRC-LIB56-ENT-NHT-0002782,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/15650
+LIBSRC-LIB56-ENT-NHT-0002782,model_identifier,"""Camaro""",https://www.fueleconomy.gov/ws/rest/vehicle/15650
+LIBSRC-LIB56-ENT-NHT-0002782,model_year,"""2000""",https://www.fueleconomy.gov/ws/rest/vehicle/15650
+LIBSRC-LIB56-ENT-NHT-0002782,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/15650
+LIBSRC-LIB56-ENT-NHT-0002783,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/15599
+LIBSRC-LIB56-ENT-NHT-0002783,model_identifier,"""Corvette""",https://www.fueleconomy.gov/ws/rest/vehicle/15599
+LIBSRC-LIB56-ENT-NHT-0002783,model_year,"""2000""",https://www.fueleconomy.gov/ws/rest/vehicle/15599
+LIBSRC-LIB56-ENT-NHT-0002783,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/15599
+LIBSRC-LIB56-ENT-NHT-0002784,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/15988
+LIBSRC-LIB56-ENT-NHT-0002784,model_identifier,"""Impala""",https://www.fueleconomy.gov/ws/rest/vehicle/15988
+LIBSRC-LIB56-ENT-NHT-0002784,model_year,"""2000""",https://www.fueleconomy.gov/ws/rest/vehicle/15988
+LIBSRC-LIB56-ENT-NHT-0002784,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/15988
+LIBSRC-LIB56-ENT-NHT-0002785,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/15893
+LIBSRC-LIB56-ENT-NHT-0002785,model_identifier,"""Malibu""",https://www.fueleconomy.gov/ws/rest/vehicle/15893
+LIBSRC-LIB56-ENT-NHT-0002785,model_year,"""2000""",https://www.fueleconomy.gov/ws/rest/vehicle/15893
+LIBSRC-LIB56-ENT-NHT-0002785,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/15893
+LIBSRC-LIB56-ENT-NHT-0002788,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/15654
+LIBSRC-LIB56-ENT-NHT-0002788,model_identifier,"""Cavalier""",https://www.fueleconomy.gov/ws/rest/vehicle/15654
+LIBSRC-LIB56-ENT-NHT-0002788,model_year,"""2000""",https://www.fueleconomy.gov/ws/rest/vehicle/15654
+LIBSRC-LIB56-ENT-NHT-0002788,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/15654
+LIBSRC-LIB56-ENT-NHT-0002790,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/15660
+LIBSRC-LIB56-ENT-NHT-0002790,model_identifier,"""Metro""",https://www.fueleconomy.gov/ws/rest/vehicle/15660
+LIBSRC-LIB56-ENT-NHT-0002790,model_year,"""2000""",https://www.fueleconomy.gov/ws/rest/vehicle/15660
+LIBSRC-LIB56-ENT-NHT-0002790,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/15660
+LIBSRC-LIB56-ENT-NHT-0002802,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/16499
+LIBSRC-LIB56-ENT-NHT-0002802,model_identifier,"""Camaro""",https://www.fueleconomy.gov/ws/rest/vehicle/16499
+LIBSRC-LIB56-ENT-NHT-0002802,model_year,"""2001""",https://www.fueleconomy.gov/ws/rest/vehicle/16499
+LIBSRC-LIB56-ENT-NHT-0002802,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/16499
+LIBSRC-LIB56-ENT-NHT-0002803,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/16438
+LIBSRC-LIB56-ENT-NHT-0002803,model_identifier,"""Corvette""",https://www.fueleconomy.gov/ws/rest/vehicle/16438
+LIBSRC-LIB56-ENT-NHT-0002803,model_year,"""2001""",https://www.fueleconomy.gov/ws/rest/vehicle/16438
+LIBSRC-LIB56-ENT-NHT-0002803,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/16438
+LIBSRC-LIB56-ENT-NHT-0002804,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/16845
+LIBSRC-LIB56-ENT-NHT-0002804,model_identifier,"""Impala""",https://www.fueleconomy.gov/ws/rest/vehicle/16845
+LIBSRC-LIB56-ENT-NHT-0002804,model_year,"""2001""",https://www.fueleconomy.gov/ws/rest/vehicle/16845
+LIBSRC-LIB56-ENT-NHT-0002804,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/16845
+LIBSRC-LIB56-ENT-NHT-0002805,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/16753
+LIBSRC-LIB56-ENT-NHT-0002805,model_identifier,"""Malibu""",https://www.fueleconomy.gov/ws/rest/vehicle/16753
+LIBSRC-LIB56-ENT-NHT-0002805,model_year,"""2001""",https://www.fueleconomy.gov/ws/rest/vehicle/16753
+LIBSRC-LIB56-ENT-NHT-0002805,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/16753
+LIBSRC-LIB56-ENT-NHT-0002807,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/16754
+LIBSRC-LIB56-ENT-NHT-0002807,model_identifier,"""Monte Carlo""",https://www.fueleconomy.gov/ws/rest/vehicle/16754
+LIBSRC-LIB56-ENT-NHT-0002807,model_year,"""2001""",https://www.fueleconomy.gov/ws/rest/vehicle/16754
+LIBSRC-LIB56-ENT-NHT-0002807,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/16754
+LIBSRC-LIB56-ENT-NHT-0002808,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/16600
+LIBSRC-LIB56-ENT-NHT-0002808,model_identifier,"""Cavalier""",https://www.fueleconomy.gov/ws/rest/vehicle/16600
+LIBSRC-LIB56-ENT-NHT-0002808,model_year,"""2001""",https://www.fueleconomy.gov/ws/rest/vehicle/16600
+LIBSRC-LIB56-ENT-NHT-0002808,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/16600
+LIBSRC-LIB56-ENT-NHT-0002809,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/16752
+LIBSRC-LIB56-ENT-NHT-0002809,model_identifier,"""Lumina""",https://www.fueleconomy.gov/ws/rest/vehicle/16752
+LIBSRC-LIB56-ENT-NHT-0002809,model_year,"""2001""",https://www.fueleconomy.gov/ws/rest/vehicle/16752
+LIBSRC-LIB56-ENT-NHT-0002809,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/16752
+LIBSRC-LIB56-ENT-NHT-0002810,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/16503
+LIBSRC-LIB56-ENT-NHT-0002810,model_identifier,"""Metro""",https://www.fueleconomy.gov/ws/rest/vehicle/16503
+LIBSRC-LIB56-ENT-NHT-0002810,model_year,"""2001""",https://www.fueleconomy.gov/ws/rest/vehicle/16503
+LIBSRC-LIB56-ENT-NHT-0002810,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/16503
+LIBSRC-LIB56-ENT-NHT-0002821,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/17414
+LIBSRC-LIB56-ENT-NHT-0002821,model_identifier,"""Camaro""",https://www.fueleconomy.gov/ws/rest/vehicle/17414
+LIBSRC-LIB56-ENT-NHT-0002821,model_year,"""2002""",https://www.fueleconomy.gov/ws/rest/vehicle/17414
+LIBSRC-LIB56-ENT-NHT-0002821,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/17414
+LIBSRC-LIB56-ENT-NHT-0002822,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/17344
+LIBSRC-LIB56-ENT-NHT-0002822,model_identifier,"""Corvette""",https://www.fueleconomy.gov/ws/rest/vehicle/17344
+LIBSRC-LIB56-ENT-NHT-0002822,model_year,"""2002""",https://www.fueleconomy.gov/ws/rest/vehicle/17344
+LIBSRC-LIB56-ENT-NHT-0002822,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/17344
+LIBSRC-LIB56-ENT-NHT-0002823,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/17776
+LIBSRC-LIB56-ENT-NHT-0002823,model_identifier,"""Impala""",https://www.fueleconomy.gov/ws/rest/vehicle/17776
+LIBSRC-LIB56-ENT-NHT-0002823,model_year,"""2002""",https://www.fueleconomy.gov/ws/rest/vehicle/17776
+LIBSRC-LIB56-ENT-NHT-0002823,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/17776
+LIBSRC-LIB56-ENT-NHT-0002824,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/17679
+LIBSRC-LIB56-ENT-NHT-0002824,model_identifier,"""Malibu""",https://www.fueleconomy.gov/ws/rest/vehicle/17679
+LIBSRC-LIB56-ENT-NHT-0002824,model_year,"""2002""",https://www.fueleconomy.gov/ws/rest/vehicle/17679
+LIBSRC-LIB56-ENT-NHT-0002824,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/17679
+LIBSRC-LIB56-ENT-NHT-0002826,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/17680
+LIBSRC-LIB56-ENT-NHT-0002826,model_identifier,"""Monte Carlo""",https://www.fueleconomy.gov/ws/rest/vehicle/17680
+LIBSRC-LIB56-ENT-NHT-0002826,model_year,"""2002""",https://www.fueleconomy.gov/ws/rest/vehicle/17680
+LIBSRC-LIB56-ENT-NHT-0002826,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/17680
+LIBSRC-LIB56-ENT-NHT-0002827,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/17515
+LIBSRC-LIB56-ENT-NHT-0002827,model_identifier,"""Cavalier""",https://www.fueleconomy.gov/ws/rest/vehicle/17515
+LIBSRC-LIB56-ENT-NHT-0002827,model_year,"""2002""",https://www.fueleconomy.gov/ws/rest/vehicle/17515
+LIBSRC-LIB56-ENT-NHT-0002827,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/17515
+LIBSRC-LIB56-ENT-NHT-0002840,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/18302
+LIBSRC-LIB56-ENT-NHT-0002840,model_identifier,"""Corvette""",https://www.fueleconomy.gov/ws/rest/vehicle/18302
+LIBSRC-LIB56-ENT-NHT-0002840,model_year,"""2003""",https://www.fueleconomy.gov/ws/rest/vehicle/18302
+LIBSRC-LIB56-ENT-NHT-0002840,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/18302
+LIBSRC-LIB56-ENT-NHT-0002841,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/18731
+LIBSRC-LIB56-ENT-NHT-0002841,model_identifier,"""Impala""",https://www.fueleconomy.gov/ws/rest/vehicle/18731
+LIBSRC-LIB56-ENT-NHT-0002841,model_year,"""2003""",https://www.fueleconomy.gov/ws/rest/vehicle/18731
+LIBSRC-LIB56-ENT-NHT-0002841,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/18731
+LIBSRC-LIB56-ENT-NHT-0002842,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/18645
+LIBSRC-LIB56-ENT-NHT-0002842,model_identifier,"""Malibu""",https://www.fueleconomy.gov/ws/rest/vehicle/18645
+LIBSRC-LIB56-ENT-NHT-0002842,model_year,"""2003""",https://www.fueleconomy.gov/ws/rest/vehicle/18645
+LIBSRC-LIB56-ENT-NHT-0002842,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/18645
+LIBSRC-LIB56-ENT-NHT-0002844,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/18646
+LIBSRC-LIB56-ENT-NHT-0002844,model_identifier,"""Monte Carlo""",https://www.fueleconomy.gov/ws/rest/vehicle/18646
+LIBSRC-LIB56-ENT-NHT-0002844,model_year,"""2003""",https://www.fueleconomy.gov/ws/rest/vehicle/18646
+LIBSRC-LIB56-ENT-NHT-0002844,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/18646
+LIBSRC-LIB56-ENT-NHT-0002845,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/18484
+LIBSRC-LIB56-ENT-NHT-0002845,model_identifier,"""Cavalier""",https://www.fueleconomy.gov/ws/rest/vehicle/18484
+LIBSRC-LIB56-ENT-NHT-0002845,model_year,"""2003""",https://www.fueleconomy.gov/ws/rest/vehicle/18484
+LIBSRC-LIB56-ENT-NHT-0002845,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/18484
+LIBSRC-LIB56-ENT-NHT-0002859,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/19549
+LIBSRC-LIB56-ENT-NHT-0002859,model_identifier,"""Aveo""",https://www.fueleconomy.gov/ws/rest/vehicle/19549
+LIBSRC-LIB56-ENT-NHT-0002859,model_year,"""2004""",https://www.fueleconomy.gov/ws/rest/vehicle/19549
+LIBSRC-LIB56-ENT-NHT-0002859,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/19549
+LIBSRC-LIB56-ENT-NHT-0002860,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/19344
+LIBSRC-LIB56-ENT-NHT-0002860,model_identifier,"""Corvette""",https://www.fueleconomy.gov/ws/rest/vehicle/19344
+LIBSRC-LIB56-ENT-NHT-0002860,model_year,"""2004""",https://www.fueleconomy.gov/ws/rest/vehicle/19344
+LIBSRC-LIB56-ENT-NHT-0002860,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/19344
+LIBSRC-LIB56-ENT-NHT-0002861,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/19835
+LIBSRC-LIB56-ENT-NHT-0002861,model_identifier,"""Impala""",https://www.fueleconomy.gov/ws/rest/vehicle/19835
+LIBSRC-LIB56-ENT-NHT-0002861,model_year,"""2004""",https://www.fueleconomy.gov/ws/rest/vehicle/19835
+LIBSRC-LIB56-ENT-NHT-0002861,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/19835
+LIBSRC-LIB56-ENT-NHT-0002862,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/19738
+LIBSRC-LIB56-ENT-NHT-0002862,model_identifier,"""Malibu""",https://www.fueleconomy.gov/ws/rest/vehicle/19738
+LIBSRC-LIB56-ENT-NHT-0002862,model_year,"""2004""",https://www.fueleconomy.gov/ws/rest/vehicle/19738
+LIBSRC-LIB56-ENT-NHT-0002862,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/19738
+LIBSRC-LIB56-ENT-NHT-0002865,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/19553
+LIBSRC-LIB56-ENT-NHT-0002865,model_identifier,"""Optra""",https://www.fueleconomy.gov/ws/rest/vehicle/19553
+LIBSRC-LIB56-ENT-NHT-0002865,model_year,"""2004""",https://www.fueleconomy.gov/ws/rest/vehicle/19553
+LIBSRC-LIB56-ENT-NHT-0002865,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/19553
+LIBSRC-LIB56-ENT-NHT-0002866,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/19740
+LIBSRC-LIB56-ENT-NHT-0002866,model_identifier,"""Monte Carlo""",https://www.fueleconomy.gov/ws/rest/vehicle/19740
+LIBSRC-LIB56-ENT-NHT-0002866,model_year,"""2004""",https://www.fueleconomy.gov/ws/rest/vehicle/19740
+LIBSRC-LIB56-ENT-NHT-0002866,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/19740
+LIBSRC-LIB56-ENT-NHT-0002867,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/19736
+LIBSRC-LIB56-ENT-NHT-0002867,model_identifier,"""Epica""",https://www.fueleconomy.gov/ws/rest/vehicle/19736
+LIBSRC-LIB56-ENT-NHT-0002867,model_year,"""2004""",https://www.fueleconomy.gov/ws/rest/vehicle/19736
+LIBSRC-LIB56-ENT-NHT-0002867,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/19736
+LIBSRC-LIB56-ENT-NHT-0002868,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/19551
+LIBSRC-LIB56-ENT-NHT-0002868,model_identifier,"""Cavalier""",https://www.fueleconomy.gov/ws/rest/vehicle/19551
+LIBSRC-LIB56-ENT-NHT-0002868,model_year,"""2004""",https://www.fueleconomy.gov/ws/rest/vehicle/19551
+LIBSRC-LIB56-ENT-NHT-0002868,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/19551
+LIBSRC-LIB56-ENT-NHT-0002885,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/20678
+LIBSRC-LIB56-ENT-NHT-0002885,model_identifier,"""Aveo""",https://www.fueleconomy.gov/ws/rest/vehicle/20678
+LIBSRC-LIB56-ENT-NHT-0002885,model_year,"""2005""",https://www.fueleconomy.gov/ws/rest/vehicle/20678
+LIBSRC-LIB56-ENT-NHT-0002885,propulsion_type,"""Regular Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/20678
+LIBSRC-LIB56-ENT-NHT-0002886,manufacturer_or_creator,"""Chevrolet""",https://www.fueleconomy.gov/ws/rest/vehicle/20462
+LIBSRC-LIB56-ENT-NHT-0002886,model_identifier,"""Corvette""",https://www.fueleconomy.gov/ws/rest/vehicle/20462
+LIBSRC-LIB56-ENT-NHT-0002886,model_year,"""2005""",https://www.fueleconomy.gov/ws/rest/vehicle/20462
+LIBSRC-LIB56-ENT-NHT-0002886,propulsion_type,"""Premium Gasoline""",https://www.fueleconomy.gov/ws/rest/vehicle/20462
