@@ -1,0 +1,1 @@
+If you encounter ULAN entries (representing humans/organizations like artists) in a strictly disjoint category chunk like air_space_craft, do not extract generic human properties as this will be rejected for populating irrelevant data. You must return an empty data set containing only the header, along with a .notes.txt file explaining the ULAN entity mismatch.
