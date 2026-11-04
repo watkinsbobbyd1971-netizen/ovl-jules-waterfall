@@ -1,0 +1,132 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB44-ENT-VEH-0116492,identity_label,"""USS Numitor""",https://www.wikidata.org/wiki/Q7872343
+LIBSRC-LIB44-ENT-VEH-0116492,manufacturer_or_creator,"""Bethlehem Hingham Shipyard""",https://www.wikidata.org/wiki/Q7872343
+LIBSRC-LIB44-ENT-VEH-0116492,descriptive_identity,"""tank landing ship""",https://www.wikidata.org/wiki/Q7872343
+LIBSRC-LIB44-ENT-VEH-0106124,identity_label,"""HMAS Air Sprite""",https://www.wikidata.org/wiki/Q5630231
+LIBSRC-LIB44-ENT-VEH-0106124,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q5630231
+LIBSRC-LIB44-ENT-VEH-0066102,dimension_length,19000.0,https://www.wikidata.org/wiki/Q12011377
+LIBSRC-LIB44-ENT-VEH-0066102,draft,800.0,https://www.wikidata.org/wiki/Q12011377
+LIBSRC-LIB44-ENT-VEH-0066102,identity_label,"""Rygerdoktoren""",https://www.wikidata.org/wiki/Q12011377
+LIBSRC-LIB44-ENT-VEH-0066102,manufacturer_or_creator,"""Br\u00f8drene Aa""",https://www.wikidata.org/wiki/Q12011377
+LIBSRC-LIB44-ENT-VEH-0066102,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q12011377
+LIBSRC-LIB44-ENT-VEH-0100674,identity_label,"""CSS Georgia""",https://www.wikidata.org/wiki/Q5014295
+LIBSRC-LIB44-ENT-VEH-0100674,descriptive_identity,"""ironclad warship""",https://www.wikidata.org/wiki/Q5014295
+LIBSRC-LIB44-ENT-VEH-0100674,descriptive_identity,"""shipwreck""",https://www.wikidata.org/wiki/Q5014295
+LIBSRC-LIB44-ENT-VEH-0065241,identity_label,"""USCGC Earp""",https://www.wikidata.org/wiki/Q11713622
+LIBSRC-LIB44-ENT-VEH-0065241,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q11713622
+LIBSRC-LIB44-ENT-VEH-0113911,identity_label,"""USS Asterion""",https://www.wikidata.org/wiki/Q7867465
+LIBSRC-LIB44-ENT-VEH-0113911,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q7867465
+LIBSRC-LIB44-ENT-VEH-0112139,dimension_length,128009.99999999999,https://www.wikidata.org/wiki/Q512621
+LIBSRC-LIB44-ENT-VEH-0112139,identity_label,"""SS Baltic""",https://www.wikidata.org/wiki/Q512621
+LIBSRC-LIB44-ENT-VEH-0112139,manufacturer_or_creator,"""Harland and Wolff""",https://www.wikidata.org/wiki/Q512621
+LIBSRC-LIB44-ENT-VEH-0112139,descriptive_identity,"""ocean liner""",https://www.wikidata.org/wiki/Q512621
+LIBSRC-LIB44-ENT-VEH-0110234,dimension_length,17100.0,https://www.wikidata.org/wiki/Q1088282
+LIBSRC-LIB44-ENT-VEH-0110234,identity_label,"""landing craft mechanized""",https://www.wikidata.org/wiki/Q1088282
+LIBSRC-LIB44-ENT-VEH-0110234,descriptive_identity,"""watercraft type""",https://www.wikidata.org/wiki/Q1088282
+LIBSRC-LIB44-ENT-VEH-0116477,identity_label,"""USS Nitro""",https://www.wikidata.org/wiki/Q7872304
+LIBSRC-LIB44-ENT-VEH-0116477,manufacturer_or_creator,"""Bethlehem Steel""",https://www.wikidata.org/wiki/Q7872304
+LIBSRC-LIB44-ENT-VEH-0116477,descriptive_identity,"""ammunition ship""",https://www.wikidata.org/wiki/Q7872304
+LIBSRC-LIB44-ENT-VEH-0117593,identity_label,"""USS Trefoil""",https://www.wikidata.org/wiki/Q7874846
+LIBSRC-LIB44-ENT-VEH-0117593,descriptive_identity,"""steamship""",https://www.wikidata.org/wiki/Q7874846
+LIBSRC-LIB44-ENT-VEH-0115085,identity_label,"""USS George F. Elliott""",https://www.wikidata.org/wiki/Q7869689
+LIBSRC-LIB44-ENT-VEH-0115085,manufacturer_or_creator,"""Bethlehem Steel""",https://www.wikidata.org/wiki/Q7869689
+LIBSRC-LIB44-ENT-VEH-0115085,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q7869689
+LIBSRC-LIB44-ENT-VEH-0091211,dimension_length,149470.0,https://www.wikidata.org/wiki/Q1718588
+LIBSRC-LIB44-ENT-VEH-0091211,draft,9690.0,https://www.wikidata.org/wiki/Q1718588
+LIBSRC-LIB44-ENT-VEH-0091211,identity_label,"""SS Samland""",https://www.wikidata.org/wiki/Q1718588
+LIBSRC-LIB44-ENT-VEH-0091211,manufacturer_or_creator,"""New York Shipbuilding Corporation""",https://www.wikidata.org/wiki/Q1718588
+LIBSRC-LIB44-ENT-VEH-0091211,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q1718588
+LIBSRC-LIB44-ENT-VEH-0041007,identity_label,"""SS Cambridge""",https://www.wikidata.org/wiki/Q107723098
+LIBSRC-LIB44-ENT-VEH-0041007,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q107723098
+LIBSRC-LIB44-ENT-VEH-0040768,identity_label,"""MV Californian""",https://www.wikidata.org/wiki/Q107261359
+LIBSRC-LIB44-ENT-VEH-0040768,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q107261359
+LIBSRC-LIB44-ENT-VEH-0096006,dimension_length,72542.4,https://www.wikidata.org/wiki/Q28023617
+LIBSRC-LIB44-ENT-VEH-0096006,dimension_length,70104.0,https://www.wikidata.org/wiki/Q28023617
+LIBSRC-LIB44-ENT-VEH-0096006,dimension_length,67299.8,https://www.wikidata.org/wiki/Q28023617
+LIBSRC-LIB44-ENT-VEH-0096006,draft,4572.0,https://www.wikidata.org/wiki/Q28023617
+LIBSRC-LIB44-ENT-VEH-0096006,draft,5181.6,https://www.wikidata.org/wiki/Q28023617
+LIBSRC-LIB44-ENT-VEH-0096006,mass,3379000000.0,https://www.wikidata.org/wiki/Q28023617
+LIBSRC-LIB44-ENT-VEH-0096006,displacement_mass,3379000000.0,https://www.wikidata.org/wiki/Q28023617
+LIBSRC-LIB44-ENT-VEH-0096006,identity_label,"""RV Sally Ride""",https://www.wikidata.org/wiki/Q28023617
+LIBSRC-LIB44-ENT-VEH-0096006,manufacturer_or_creator,"""Dakota Creek Industries""",https://www.wikidata.org/wiki/Q28023617
+LIBSRC-LIB44-ENT-VEH-0096006,descriptive_identity,"""oceanographic research vessel""",https://www.wikidata.org/wiki/Q28023617
+LIBSRC-LIB44-ENT-VEH-0111690,identity_label,"""Prince de Neufchatel""",https://www.wikidata.org/wiki/Q7244312
+LIBSRC-LIB44-ENT-VEH-0111690,manufacturer_or_creator,"""Adam and Noah Brown""",https://www.wikidata.org/wiki/Q7244312
+LIBSRC-LIB44-ENT-VEH-0111690,descriptive_identity,"""schooner""",https://www.wikidata.org/wiki/Q7244312
+LIBSRC-LIB44-ENT-VEH-0111690,descriptive_identity,"""privateer""",https://www.wikidata.org/wiki/Q7244312
+LIBSRC-LIB44-ENT-VEH-0111690,descriptive_identity,"""brig""",https://www.wikidata.org/wiki/Q7244312
+LIBSRC-LIB44-ENT-VEH-0096889,identity_label,"""Lady Penrhyn""",https://www.wikidata.org/wiki/Q3309523
+LIBSRC-LIB44-ENT-VEH-0096889,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q3309523
+LIBSRC-LIB44-ENT-VEH-0100392,identity_label,"""Whaleback Barge 101""",https://www.wikidata.org/wiki/Q48815778
+LIBSRC-LIB44-ENT-VEH-0100392,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q48815778
+LIBSRC-LIB44-ENT-VEH-0113685,identity_label,"""USS Adelaide""",https://www.wikidata.org/wiki/Q7867032
+LIBSRC-LIB44-ENT-VEH-0113685,descriptive_identity,"""steamship""",https://www.wikidata.org/wiki/Q7867032
+LIBSRC-LIB44-ENT-VEH-0109405,identity_label,"""Santa Rosa""",https://www.wikidata.org/wiki/Q76010
+LIBSRC-LIB44-ENT-VEH-0109405,descriptive_identity,"""component city""",https://www.wikidata.org/wiki/Q76010
+LIBSRC-LIB44-ENT-VEH-0109405,descriptive_identity,"""big city""",https://www.wikidata.org/wiki/Q76010
+LIBSRC-LIB44-ENT-VEH-0014227,identity_label,"""USS LST-1089""",https://www.wikidata.org/wiki/Q10386272
+LIBSRC-LIB44-ENT-VEH-0014227,descriptive_identity,"""tank landing ship""",https://www.wikidata.org/wiki/Q10386272
+LIBSRC-LIB44-ENT-VEH-0110287,identity_label,"""Landing Ship Medium Mk II""",https://www.wikidata.org/wiki/Q6484611
+LIBSRC-LIB44-ENT-VEH-0110287,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q6484611
+LIBSRC-LIB44-ENT-VEH-0104600,dimension_length,75000.0,https://www.wikidata.org/wiki/Q52510962
+LIBSRC-LIB44-ENT-VEH-0104600,identity_label,"""Strilborg""",https://www.wikidata.org/wiki/Q52510962
+LIBSRC-LIB44-ENT-VEH-0104600,manufacturer_or_creator,"""Q17749542""",https://www.wikidata.org/wiki/Q52510962
+LIBSRC-LIB44-ENT-VEH-0104600,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q52510962
+LIBSRC-LIB44-ENT-VEH-0103163,dimension_length,36000.0,https://www.wikidata.org/wiki/Q52350266
+LIBSRC-LIB44-ENT-VEH-0103163,identity_label,"""Union Sapphire""",https://www.wikidata.org/wiki/Q52350266
+LIBSRC-LIB44-ENT-VEH-0103163,manufacturer_or_creator,"""Astilleros Arm\u00f3n Vigo""",https://www.wikidata.org/wiki/Q52350266
+LIBSRC-LIB44-ENT-VEH-0103163,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q52350266
+LIBSRC-LIB44-ENT-VEH-0104721,dimension_length,40000.0,https://www.wikidata.org/wiki/Q14531304
+LIBSRC-LIB44-ENT-VEH-0104721,draft,1100.0,https://www.wikidata.org/wiki/Q14531304
+LIBSRC-LIB44-ENT-VEH-0104721,identity_label,"""Neptun""",https://www.wikidata.org/wiki/Q14531304
+LIBSRC-LIB44-ENT-VEH-0104721,manufacturer_or_creator,"""Frerichswerft""",https://www.wikidata.org/wiki/Q14531304
+LIBSRC-LIB44-ENT-VEH-0104721,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q14531304
+LIBSRC-LIB44-ENT-VEH-0103891,dimension_length,65000.0,https://www.wikidata.org/wiki/Q52378360
+LIBSRC-LIB44-ENT-VEH-0103891,identity_label,"""Greatship Anjali""",https://www.wikidata.org/wiki/Q52378360
+LIBSRC-LIB44-ENT-VEH-0103891,manufacturer_or_creator,"""Colombo Dockyard""",https://www.wikidata.org/wiki/Q52378360
+LIBSRC-LIB44-ENT-VEH-0103891,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q52378360
+LIBSRC-LIB44-ENT-VEH-0104736,dimension_length,92000.0,https://www.wikidata.org/wiki/Q52513554
+LIBSRC-LIB44-ENT-VEH-0104736,identity_label,"""Havila Jupiter""",https://www.wikidata.org/wiki/Q52513554
+LIBSRC-LIB44-ENT-VEH-0104736,manufacturer_or_creator,"""Havyard Ship Technology""",https://www.wikidata.org/wiki/Q52513554
+LIBSRC-LIB44-ENT-VEH-0104736,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q52513554
+LIBSRC-LIB44-ENT-VEH-0104733,dimension_length,91000.0,https://www.wikidata.org/wiki/Q52513484
+LIBSRC-LIB44-ENT-VEH-0104733,identity_label,"""Siem Sapphire""",https://www.wikidata.org/wiki/Q52513484
+LIBSRC-LIB44-ENT-VEH-0104733,manufacturer_or_creator,"""Kleven Verft""",https://www.wikidata.org/wiki/Q52513484
+LIBSRC-LIB44-ENT-VEH-0104733,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q52513484
+LIBSRC-LIB44-ENT-VEH-0104747,dimension_length,110000.0,https://www.wikidata.org/wiki/Q52513746
+LIBSRC-LIB44-ENT-VEH-0104747,identity_label,"""Skandi Vega""",https://www.wikidata.org/wiki/Q52513746
+LIBSRC-LIB44-ENT-VEH-0104747,manufacturer_or_creator,"""Q17749542""",https://www.wikidata.org/wiki/Q52513746
+LIBSRC-LIB44-ENT-VEH-0104747,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q52513746
+LIBSRC-LIB44-ENT-VEH-0099830,identity_label,"""Antelope""",https://www.wikidata.org/wiki/Q24027393
+LIBSRC-LIB44-ENT-VEH-0099830,descriptive_identity,"""merchant vessel""",https://www.wikidata.org/wiki/Q24027393
+LIBSRC-LIB44-ENT-VEH-0099830,descriptive_identity,"""smack""",https://www.wikidata.org/wiki/Q24027393
+LIBSRC-LIB44-ENT-VEH-0099830,descriptive_identity,"""shipwreck""",https://www.wikidata.org/wiki/Q24027393
+LIBSRC-LIB44-ENT-VEH-0145019,identity_label,"""Westray""",https://www.wikidata.org/wiki/Q97988503
+LIBSRC-LIB44-ENT-VEH-0145019,manufacturer_or_creator,"""John Lewis and Sons Limited""",https://www.wikidata.org/wiki/Q97988503
+LIBSRC-LIB44-ENT-VEH-0145019,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q97988503
+LIBSRC-LIB44-ENT-VEH-0109324,identity_label,"""Molly""",https://www.wikidata.org/wiki/Q13570373
+LIBSRC-LIB44-ENT-VEH-0109324,descriptive_identity,"""female given name""",https://www.wikidata.org/wiki/Q13570373
+LIBSRC-LIB44-ENT-VEH-0118033,identity_label,"""USS Zenith""",https://www.wikidata.org/wiki/Q7875761
+LIBSRC-LIB44-ENT-VEH-0118033,manufacturer_or_creator,"""John H. Mathis & Company""",https://www.wikidata.org/wiki/Q7875761
+LIBSRC-LIB44-ENT-VEH-0118033,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q7875761
+LIBSRC-LIB44-ENT-VEH-0117169,identity_label,"""USS Scoter""",https://www.wikidata.org/wiki/Q7873928
+LIBSRC-LIB44-ENT-VEH-0117169,manufacturer_or_creator,"""George Lawley & Son""",https://www.wikidata.org/wiki/Q7873928
+LIBSRC-LIB44-ENT-VEH-0117169,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q7873928
+LIBSRC-LIB44-ENT-VEH-0092098,dimension_length,260600.00000000003,https://www.wikidata.org/wiki/Q1891409
+LIBSRC-LIB44-ENT-VEH-0092098,draft,9600.0,https://www.wikidata.org/wiki/Q1891409
+LIBSRC-LIB44-ENT-VEH-0092098,identity_label,"""Taih\u014d""",https://www.wikidata.org/wiki/Q1891409
+LIBSRC-LIB44-ENT-VEH-0092098,manufacturer_or_creator,"""Kawasaki Heavy Industries""",https://www.wikidata.org/wiki/Q1891409
+LIBSRC-LIB44-ENT-VEH-0092098,descriptive_identity,"""aircraft carrier""",https://www.wikidata.org/wiki/Q1891409
+LIBSRC-LIB44-ENT-VEH-0112301,identity_label,"""SS Empire Arrow""",https://www.wikidata.org/wiki/Q7393555
+LIBSRC-LIB44-ENT-VEH-0112301,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q7393555
+LIBSRC-LIB44-ENT-VEH-0114648,identity_label,"""USS Denebola""",https://www.wikidata.org/wiki/Q7868825
+LIBSRC-LIB44-ENT-VEH-0114648,manufacturer_or_creator,"""Skinner & Eddy""",https://www.wikidata.org/wiki/Q7868825
+LIBSRC-LIB44-ENT-VEH-0114648,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q7868825
+LIBSRC-LIB44-ENT-VEH-0086547,identity_label,"""S.S. Charon""",https://www.wikidata.org/wiki/Q125544937
+LIBSRC-LIB44-ENT-VEH-0086547,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q125544937
+LIBSRC-LIB44-ENT-VEH-0114580,identity_label,"""USS Cuttyhunk Island""",https://www.wikidata.org/wiki/Q7868693
+LIBSRC-LIB44-ENT-VEH-0114580,manufacturer_or_creator,"""New England Shipbuilding Corporation""",https://www.wikidata.org/wiki/Q7868693
+LIBSRC-LIB44-ENT-VEH-0114580,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q7868693
+LIBSRC-LIB44-ENT-VEH-0137317,identity_label,"""BNS Abu Ubaidah""",https://www.wikidata.org/wiki/Q85744616
+LIBSRC-LIB44-ENT-VEH-0092511,identity_label,"""BNS Barkat""",https://www.wikidata.org/wiki/Q19882389
+LIBSRC-LIB44-ENT-VEH-0044852,identity_label,"""Ann and Rebecca""",https://www.wikidata.org/wiki/Q115070726
