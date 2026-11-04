@@ -1,0 +1,469 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1485-REC296881,geometry_with_crs,Point(54.406944444 33.616666666),http://www.wikidata.org/entity/Q26899409
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1485-REC296881,location,Iran,http://www.wikidata.org/entity/Q26899409
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1492-REC298351,geometry_with_crs,Point(51.463611111 35.934166666),http://www.wikidata.org/entity/Q35494294
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1492-REC298351,location,Iran,http://www.wikidata.org/entity/Q35494294
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1495-REC298981,geometry_with_crs,Point(45.472222222 37.810833333),http://www.wikidata.org/entity/Q49004117
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1495-REC298981,location,Iran,http://www.wikidata.org/entity/Q49004117
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1509-REC301711,geometry_with_crs,Point(52.433333333 27.8875),http://www.wikidata.org/entity/Q26907936
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1509-REC301711,location,Iran,http://www.wikidata.org/entity/Q26907936
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1512-REC302341,geometry_with_crs,Point(47.036388888 33.990555555),http://www.wikidata.org/entity/Q26912390
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1512-REC302341,location,Iran,http://www.wikidata.org/entity/Q26912390
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1520-REC303811,geometry_with_crs,Point(52.459444444 30.934444444),http://www.wikidata.org/entity/Q26917049
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1520-REC303811,location,Iran,http://www.wikidata.org/entity/Q26917049
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1700-REC339931,geometry_with_crs,Point(127.229166666 36.331388888),http://www.wikidata.org/entity/Q27320630
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1700-REC339931,location,South Korea,http://www.wikidata.org/entity/Q27320630
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1718-REC343501,geometry_with_crs,Point(85.439444444 56.728888888),http://www.wikidata.org/entity/Q4333225
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1718-REC343501,location,Russia,http://www.wikidata.org/entity/Q4333225
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1752-REC350221,geometry_with_crs,Point(80.518888888 7.256944444),http://www.wikidata.org/entity/Q6345741
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1752-REC350221,location,Sri Lanka,http://www.wikidata.org/entity/Q6345741
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1776-REC355051,geometry_with_crs,Point(4.91194444 36.10388889),http://www.wikidata.org/entity/Q578440
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1776-REC355051,location,Algeria,http://www.wikidata.org/entity/Q578440
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1779-REC355681,geometry_with_crs,Point(-9.817222222 31.178611111),http://www.wikidata.org/entity/Q20389512
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1779-REC355681,location,Morocco,http://www.wikidata.org/entity/Q20389512
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1794-REC358621,elevation,6,http://www.wikidata.org/entity/Q178067
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1794-REC358621,geometry_with_crs,Point(49.41 -18.155),http://www.wikidata.org/entity/Q178067
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1794-REC358621,location,Madagascar,http://www.wikidata.org/entity/Q178067
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1795-REC358831,geometry_with_crs,Point(167.6242 8.79521),http://www.wikidata.org/entity/Q27577050
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1795-REC358831,location,Marshall Islands,http://www.wikidata.org/entity/Q27577050
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1799-REC359671,elevation,1867,http://www.wikidata.org/entity/Q738563
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1799-REC359671,geometry_with_crs,Point(93.6096217 22.6427551),http://www.wikidata.org/entity/Q738563
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1799-REC359671,location,Myanmar,http://www.wikidata.org/entity/Q738563
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1827-REC365341,elevation,163,http://www.wikidata.org/entity/Q34755425
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1827-REC365341,geometry_with_crs,Point(101.665 4.37),http://www.wikidata.org/entity/Q34755425
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1827-REC365341,location,Malaysia,http://www.wikidata.org/entity/Q34755425
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1829-REC365761,geometry_with_crs,Point(167.883333333 -21.55),http://www.wikidata.org/entity/Q1870420
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1829-REC365761,location,France,http://www.wikidata.org/entity/Q1870420
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1832-REC366391,geometry_with_crs,Point(4.016666666 51.366666666),http://www.wikidata.org/entity/Q945131
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1832-REC366391,location,Netherlands,http://www.wikidata.org/entity/Q945131
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1835-REC366811,geometry_with_crs,Point(7.0817 52.8514),http://www.wikidata.org/entity/Q2340713
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1835-REC366811,location,Netherlands,http://www.wikidata.org/entity/Q2340713
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1842-REC368281,elevation,53.56,http://www.wikidata.org/entity/Q200003
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1842-REC368281,geometry_with_crs,Point(6.35 61.933333333),http://www.wikidata.org/entity/Q200003
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1842-REC368281,location,Norway,http://www.wikidata.org/entity/Q200003
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1845-REC368911,geometry_with_crs,Point(11.77737 61.9098),http://www.wikidata.org/entity/Q34752304
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1845-REC368911,location,Norway,http://www.wikidata.org/entity/Q34752304
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1849-REC369751,geometry_with_crs,Point(7.63641 58.51372),http://www.wikidata.org/entity/Q34844754
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1849-REC369751,location,Norway,http://www.wikidata.org/entity/Q34844754
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1850-REC369961,geometry_with_crs,Point(8.75777 63.03547),http://www.wikidata.org/entity/Q34750964
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1850-REC369961,location,Norway,http://www.wikidata.org/entity/Q34750964
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1861-REC372061,geometry_with_crs,Point(14.34074 67.01337),http://www.wikidata.org/entity/Q34845549
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1861-REC372061,location,Norway,http://www.wikidata.org/entity/Q34845549
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1870-REC373951,geometry_with_crs,Point(172.9284058 -40.8485375),http://www.wikidata.org/entity/Q34761801
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1870-REC373951,location,New Zealand,http://www.wikidata.org/entity/Q34761801
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1905-REC380881,geometry_with_crs,Point(44.29333333 40.1625),http://www.wikidata.org/entity/Q21212911
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1905-REC380881,location,Armenia,http://www.wikidata.org/entity/Q21212911
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1932-REC386341,elevation,235,http://www.wikidata.org/entity/Q4406481
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1932-REC386341,geometry_with_crs,Point(45.301388888 43.290555555),http://www.wikidata.org/entity/Q4406481
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1932-REC386341,location,Russia,http://www.wikidata.org/entity/Q4406481
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1952-REC390331,elevation,34,http://www.wikidata.org/entity/Q34761586
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1952-REC390331,geometry_with_crs,Point(152.157777777 47.034722222),http://www.wikidata.org/entity/Q34761586
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1952-REC390331,location,Russia,http://www.wikidata.org/entity/Q34761586
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1953-REC390541,elevation,3358,http://www.wikidata.org/entity/Q31451483
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1953-REC390541,geometry_with_crs,Point(160.47049 56.06943),http://www.wikidata.org/entity/Q31451483
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1953-REC390541,location,Russia,http://www.wikidata.org/entity/Q31451483
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1972-REC394321,elevation,155.9,http://www.wikidata.org/entity/Q2279116
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1972-REC394321,geometry_with_crs,Point(15.668333 45.903056),http://www.wikidata.org/entity/Q2279116
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1972-REC394321,location,Slovenia,http://www.wikidata.org/entity/Q2279116
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1975-REC394951,elevation,468.6,http://www.wikidata.org/entity/Q3439298
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1975-REC394951,geometry_with_crs,Point(15.173892 45.915461),http://www.wikidata.org/entity/Q3439298
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1975-REC394951,location,Slovenia,http://www.wikidata.org/entity/Q3439298
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1978-REC395581,elevation,375,http://www.wikidata.org/entity/Q31868164
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1978-REC395581,geometry_with_crs,Point(12.09898 78.66184),http://www.wikidata.org/entity/Q31868164
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1978-REC395581,location,Norway,http://www.wikidata.org/entity/Q31868164
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1981-REC396001,geometry_with_crs,Point(19.2784 49.0397),http://www.wikidata.org/entity/Q392365
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP1981-REC396001,location,Slovakia,http://www.wikidata.org/entity/Q392365
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP812-REC162271,elevation,2136,http://www.wikidata.org/entity/Q21750144
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP812-REC162271,geometry_with_crs,Point(65.5675 35.547222222),http://www.wikidata.org/entity/Q21750144
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP812-REC162271,location,Afghanistan,http://www.wikidata.org/entity/Q21750144
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP854-REC170671,geometry_with_crs,Point(68.835833333 31.970277777),http://www.wikidata.org/entity/Q21767428
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP854-REC170671,location,Afghanistan,http://www.wikidata.org/entity/Q21767428
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP857-REC171301,elevation,2200,http://www.wikidata.org/entity/Q21769423
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP857-REC171301,geometry_with_crs,Point(64.2163 35.2824),http://www.wikidata.org/entity/Q21769423
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP857-REC171301,location,Afghanistan,http://www.wikidata.org/entity/Q21769423
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP863-REC172561,elevation,4189,http://www.wikidata.org/entity/Q21775396
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP863-REC172561,geometry_with_crs,Point(70.750555555 35.981111111),http://www.wikidata.org/entity/Q21775396
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP863-REC172561,location,Afghanistan,http://www.wikidata.org/entity/Q21775396
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP865-REC172981,elevation,1676,http://www.wikidata.org/entity/Q21775941
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP865-REC172981,geometry_with_crs,Point(68.371111111 35.478888888),http://www.wikidata.org/entity/Q21775941
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP865-REC172981,location,Afghanistan,http://www.wikidata.org/entity/Q21775941
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP874-REC174661,elevation,3269,http://www.wikidata.org/entity/Q21782515
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP874-REC174661,geometry_with_crs,Point(67.909722222 33.6575),http://www.wikidata.org/entity/Q21782515
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP874-REC174661,location,Afghanistan,http://www.wikidata.org/entity/Q21782515
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP876-REC175081,elevation,2439,http://www.wikidata.org/entity/Q21783955
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP876-REC175081,geometry_with_crs,Point(63.876111111 33.428055555),http://www.wikidata.org/entity/Q21783955
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP876-REC175081,location,Afghanistan,http://www.wikidata.org/entity/Q21783955
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP879-REC175711,geometry_with_crs,Point(65.9865 33.3077),http://www.wikidata.org/entity/Q21787312
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP879-REC175711,location,Afghanistan,http://www.wikidata.org/entity/Q21787312
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP881-REC176131,geometry_with_crs,Point(66.463333333 33.905277777),http://www.wikidata.org/entity/Q21791232
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP881-REC176131,location,Afghanistan,http://www.wikidata.org/entity/Q21791232
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP883-REC176551,geometry_with_crs,Point(67.098333333 33.284166666),http://www.wikidata.org/entity/Q21793072
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP883-REC176551,location,Afghanistan,http://www.wikidata.org/entity/Q21793072
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP887-REC177391,geometry_with_crs,Point(65.530555555 34.253611111),http://www.wikidata.org/entity/Q21799763
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP887-REC177391,location,Afghanistan,http://www.wikidata.org/entity/Q21799763
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP893-REC178441,geometry_with_crs,Point(67.7662 34.5798),http://www.wikidata.org/entity/Q21806043
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP893-REC178441,location,Afghanistan,http://www.wikidata.org/entity/Q21806043
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP894-REC178651,geometry_with_crs,Point(64.188055555 33.349444444),http://www.wikidata.org/entity/Q21810469
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP894-REC178651,location,Afghanistan,http://www.wikidata.org/entity/Q21810469
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP902-REC180331,geometry_with_crs,Point(67.274166666 34.191666666),http://www.wikidata.org/entity/Q21812275
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP902-REC180331,location,Afghanistan,http://www.wikidata.org/entity/Q21812275
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP904-REC180751,geometry_with_crs,Point(69.353055555 35.556111111),http://www.wikidata.org/entity/Q21813229
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP904-REC180751,location,Afghanistan,http://www.wikidata.org/entity/Q21813229
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP918-REC183481,geometry_with_crs,Point(69.94222 33.69051),http://www.wikidata.org/entity/Q21818976
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP918-REC183481,location,Afghanistan,http://www.wikidata.org/entity/Q21818976
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP923-REC184531,geometry_with_crs,Point(64.497777777 32.926944444),http://www.wikidata.org/entity/Q21820991
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP923-REC184531,location,Afghanistan,http://www.wikidata.org/entity/Q21820991
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP934-REC186631,elevation,1800,http://www.wikidata.org/entity/Q1921705
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP934-REC186631,geometry_with_crs,Point(44.02 40.839722),http://www.wikidata.org/entity/Q1921705
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP934-REC186631,location,Armenia,http://www.wikidata.org/entity/Q1921705
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP949-REC189781,geometry_with_crs,Point(29.97866 -3.21387),http://www.wikidata.org/entity/Q136472196
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP949-REC189781,location,Burundi,http://www.wikidata.org/entity/Q136472196
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP952-REC190201,geometry_with_crs,Point(44.476449 40.149373),http://www.wikidata.org/entity/Q2499412
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP952-REC190201,location,Armenia,http://www.wikidata.org/entity/Q2499412
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP953-REC190411,elevation,2451,http://www.wikidata.org/entity/Q3497613
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP953-REC190411,geometry_with_crs,Point(20.818527777 -7.400638888),http://www.wikidata.org/entity/Q3497613
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP953-REC190411,location,Angola,http://www.wikidata.org/entity/Q3497613
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP955-REC190831,geometry_with_crs,Point(-60.37 -62.6461),http://www.wikidata.org/entity/Q7439944
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP956-REC191041,geometry_with_crs,Point(168.583 -72.25),http://www.wikidata.org/entity/Q7860014
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP960-REC191881,geometry_with_crs,Point(5.666666666 -71.833333333),http://www.wikidata.org/entity/Q4825405
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP961-REC192091,geometry_with_crs,Point(-61.6667 -72.7),http://www.wikidata.org/entity/Q6793967
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP963-REC192511,elevation,1259,http://www.wikidata.org/entity/Q21836591
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP963-REC192511,geometry_with_crs,Point(-68.671666666 -35.021666666),http://www.wikidata.org/entity/Q21836591
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP963-REC192511,location,Argentina,http://www.wikidata.org/entity/Q21836591
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP968-REC193561,elevation,667,http://www.wikidata.org/entity/Q21881661
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP968-REC193561,geometry_with_crs,Point(9.87836 47.36183),http://www.wikidata.org/entity/Q21881661
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP968-REC193561,location,Austria,http://www.wikidata.org/entity/Q21881661
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP978-REC195451,elevation,932,http://www.wikidata.org/entity/Q2001875
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP978-REC195451,geometry_with_crs,Point(45.988758137 38.926362447),http://www.wikidata.org/entity/Q2001875
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP978-REC195451,location,Azerbaijan,http://www.wikidata.org/entity/Q2001875
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP981-REC196081,elevation,23,http://www.wikidata.org/entity/Q4658564
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP981-REC196081,geometry_with_crs,Point(47.753077623 40.531042033),http://www.wikidata.org/entity/Q4658564
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP981-REC196081,location,Azerbaijan,http://www.wikidata.org/entity/Q4658564
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP984-REC196711,elevation,984,http://www.wikidata.org/entity/Q2859398
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP984-REC196711,geometry_with_crs,Point(46.608202619 40.056346938),http://www.wikidata.org/entity/Q2859398
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP984-REC196711,location,Azerbaijan,http://www.wikidata.org/entity/Q2859398
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP989-REC197761,geometry_with_crs,Point(5.6923 50.61757),http://www.wikidata.org/entity/Q2774688
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP989-REC197761,location,Belgium,http://www.wikidata.org/entity/Q2774688
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP990-REC197971,geometry_with_crs,Point(4.95 50.683333333),http://www.wikidata.org/entity/Q678218
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP990-REC197971,location,Belgium,http://www.wikidata.org/entity/Q678218
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP991-REC198181,elevation,170,http://www.wikidata.org/entity/Q998159
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP991-REC198181,geometry_with_crs,Point(28.140382 43.776209),http://www.wikidata.org/entity/Q998159
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP991-REC198181,location,Bulgaria,http://www.wikidata.org/entity/Q998159
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1008-REC201401,elevation,236,http://www.wikidata.org/entity/Q22024859
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1008-REC201401,geometry_with_crs,Point(-55.716666666 -9.816666666),http://www.wikidata.org/entity/Q22024859
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1008-REC201401,location,Brazil,http://www.wikidata.org/entity/Q22024859
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1015-REC202871,elevation,110,http://www.wikidata.org/entity/Q22056194
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1015-REC202871,geometry_with_crs,Point(-61.516666666 3.45),http://www.wikidata.org/entity/Q22056194
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1015-REC202871,location,Brazil,http://www.wikidata.org/entity/Q22056194
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1016-REC203081,elevation,572,http://www.wikidata.org/entity/Q1793164
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1016-REC203081,geometry_with_crs,Point(-57.891944444 -13.675),http://www.wikidata.org/entity/Q1793164
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1016-REC203081,location,Brazil,http://www.wikidata.org/entity/Q1793164
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1021-REC204131,geometry_with_crs,Point(27.6 52.466666666),http://www.wikidata.org/entity/Q4293363
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1021-REC204131,location,Belarus,http://www.wikidata.org/entity/Q4293363
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1026-REC205181,geometry_with_crs,Point(-92.44782 79.54869),http://www.wikidata.org/entity/Q22532054
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1026-REC205181,location,Canada,http://www.wikidata.org/entity/Q22532054
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1029-REC205601,geometry_with_crs,Point(-68.8819 69.4089),http://www.wikidata.org/entity/Q6398295
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1029-REC205601,location,Canada,http://www.wikidata.org/entity/Q6398295
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1033-REC206441,geometry_with_crs,Point(-117.21899 51.98329),http://www.wikidata.org/entity/Q22562974
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1033-REC206441,location,Canada,http://www.wikidata.org/entity/Q22562974
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1040-REC207911,elevation,405,http://www.wikidata.org/entity/Q68201
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1040-REC207911,geometry_with_crs,Point(6.216666666 46.2),http://www.wikidata.org/entity/Q68201
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1040-REC207911,location,Switzerland,http://www.wikidata.org/entity/Q68201
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1048-REC209591,elevation,927,http://www.wikidata.org/entity/Q23657937
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1048-REC209591,geometry_with_crs,Point(-69.916666666 -54.7),http://www.wikidata.org/entity/Q23657937
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1048-REC209591,location,Chile,http://www.wikidata.org/entity/Q23657937
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1061-REC212111,geometry_with_crs,Point(110.08658 34.56644),http://www.wikidata.org/entity/Q785966
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1061-REC212111,location,People's Republic of China,http://www.wikidata.org/entity/Q785966
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1063-REC212531,geometry_with_crs,Point(114.267222222 22.04),http://www.wikidata.org/entity/Q28799756
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1063-REC212531,location,People's Republic of China,http://www.wikidata.org/entity/Q28799756
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1073-REC214421,elevation,4410,http://www.wikidata.org/entity/Q574307
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1073-REC214421,geometry_with_crs,Point(86.8297 27.8919),http://www.wikidata.org/entity/Q574307
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1073-REC214421,location,Nepal,http://www.wikidata.org/entity/Q574307
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1087-REC217361,elevation,916,http://www.wikidata.org/entity/Q3117949
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1087-REC217361,geometry_with_crs,Point(-76.53445 3.37501),http://www.wikidata.org/entity/Q3117949
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1087-REC217361,location,Colombia,http://www.wikidata.org/entity/Q3117949
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1103-REC220511,elevation,347,http://www.wikidata.org/entity/Q835404
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1103-REC220511,geometry_with_crs,Point(9.13833 48.9103),http://www.wikidata.org/entity/Q835404
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1103-REC220511,location,Germany,http://www.wikidata.org/entity/Q835404
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1110-REC221981,elevation,194,http://www.wikidata.org/entity/Q32059819
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1110-REC221981,geometry_with_crs,Point(8.74853 49.31157),http://www.wikidata.org/entity/Q32059819
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1110-REC221981,location,Germany,http://www.wikidata.org/entity/Q32059819
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1116-REC223031,geometry_with_crs,Point(11.682224562 48.921283442),http://www.wikidata.org/entity/Q869743
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1116-REC223031,location,Germany,http://www.wikidata.org/entity/Q869743
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1129-REC225761,location,Algeria,http://www.wikidata.org/entity/Q476536
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1131-REC226181,elevation,25,http://www.wikidata.org/entity/Q623452
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1131-REC226181,geometry_with_crs,Point(3.216944444 36.694444444),http://www.wikidata.org/entity/Q623452
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1131-REC226181,location,Algeria,http://www.wikidata.org/entity/Q623452
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1135-REC226811,elevation,7,http://www.wikidata.org/entity/Q23932510
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1135-REC226811,geometry_with_crs,Point(30.773333333 30.722222222),http://www.wikidata.org/entity/Q23932510
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1135-REC226811,location,Egypt,http://www.wikidata.org/entity/Q23932510
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1157-REC231221,elevation,29,http://www.wikidata.org/entity/Q23976286
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1157-REC231221,geometry_with_crs,Point(31.25898 30.0453),http://www.wikidata.org/entity/Q23976286
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1157-REC231221,location,Egypt,http://www.wikidata.org/entity/Q23976286
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1168-REC233531,geometry_with_crs,Point(2.114734 41.36666),http://www.wikidata.org/entity/Q3816465
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1168-REC233531,location,Spain,http://www.wikidata.org/entity/Q3816465
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1198-REC239411,geometry_with_crs,Point(0.11982 42.83922),http://www.wikidata.org/entity/Q34836662
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1198-REC239411,location,France,http://www.wikidata.org/entity/Q34836662
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1205-REC240881,elevation,2850,http://www.wikidata.org/entity/Q34835843
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1205-REC240881,geometry_with_crs,Point(7.145277777 45.363055555),http://www.wikidata.org/entity/Q34835843
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1205-REC240881,location,France,http://www.wikidata.org/entity/Q34835843
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1207-REC241301,geometry_with_crs,Point(5.910087 43.100323),http://www.wikidata.org/entity/Q15972148
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1207-REC241301,location,France,http://www.wikidata.org/entity/Q15972148
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1210-REC241931,geometry_with_crs,Point(6.282995 44.878919),http://www.wikidata.org/entity/Q34835748
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1210-REC241931,location,France,http://www.wikidata.org/entity/Q34835748
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1239-REC247601,geometry_with_crs,Point(0.748645 51.4162),http://www.wikidata.org/entity/Q17643879
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1239-REC247601,location,United Kingdom,http://www.wikidata.org/entity/Q17643879
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1241-REC248021,geometry_with_crs,Point(-0.558783 51.7641),http://www.wikidata.org/entity/Q4892150
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1241-REC248021,location,United Kingdom,http://www.wikidata.org/entity/Q4892150
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1245-REC248861,geometry_with_crs,Point(-2.966388888 53.438888888),http://www.wikidata.org/entity/Q968420
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1245-REC248861,location,United Kingdom,http://www.wikidata.org/entity/Q968420
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1252-REC250331,geometry_with_crs,Point(40.113055555 43.409166666),http://www.wikidata.org/entity/Q2311664
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1252-REC250331,location,Georgia,http://www.wikidata.org/entity/Q2311664
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1254-REC250751,geometry_with_crs,Point(40.3817 43.1625),http://www.wikidata.org/entity/Q12862660
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1254-REC250751,location,Georgia,http://www.wikidata.org/entity/Q12862660
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1296-REC259151,geometry_with_crs,Point(-58.53333 1.83333),http://www.wikidata.org/entity/Q25210830
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1296-REC259151,location,Guyana,http://www.wikidata.org/entity/Q25210830
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1297-REC259361,geometry_with_crs,Point(-58.836944444 6.2025),http://www.wikidata.org/entity/Q25248923
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1297-REC259361,location,Guyana,http://www.wikidata.org/entity/Q25248923
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1307-REC261251,geometry_with_crs,Point(-8.516666666 52.15),http://www.wikidata.org/entity/Q4220520
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1307-REC261251,location,Ireland,http://www.wikidata.org/entity/Q4220520
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1328-REC265451,elevation,85,http://www.wikidata.org/entity/Q759217
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1328-REC265451,geometry_with_crs,Point(82.57 25.42),http://www.wikidata.org/entity/Q759217
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1328-REC265451,location,India,http://www.wikidata.org/entity/Q759217
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1330-REC265871,geometry_with_crs,Point(75.8195 26.9118),http://www.wikidata.org/entity/Q4710411
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1330-REC265871,location,India,http://www.wikidata.org/entity/Q4710411
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1362-REC272381,geometry_with_crs,Point(44.816111111 36.161111111),http://www.wikidata.org/entity/Q35456950
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1362-REC272381,location,Iraq,http://www.wikidata.org/entity/Q35456950
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1398-REC279521,geometry_with_crs,Point(70.12 35.656944444),http://www.wikidata.org/entity/Q21802135
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1398-REC279521,location,Afghanistan,http://www.wikidata.org/entity/Q21802135
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1416-REC283091,geometry_with_crs,Point(54.787222222 30.761666666),http://www.wikidata.org/entity/Q26874894
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1416-REC283091,location,Iran,http://www.wikidata.org/entity/Q26874894
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1418-REC283511,geometry_with_crs,Point(48.203055555 34.273611111),http://www.wikidata.org/entity/Q35485704
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1418-REC283511,location,Iran,http://www.wikidata.org/entity/Q35485704
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1426-REC285191,geometry_with_crs,Point(46.470277777 35.535833333),http://www.wikidata.org/entity/Q26878421
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1426-REC285191,location,Iran,http://www.wikidata.org/entity/Q26878421
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1473-REC294431,geometry_with_crs,Point(57.438055555 30.426111111),http://www.wikidata.org/entity/Q35472872
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1473-REC294431,location,Iran,http://www.wikidata.org/entity/Q35472872
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1483-REC296531,geometry_with_crs,Point(45.044722222 38.315),http://www.wikidata.org/entity/Q26899082
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1483-REC296531,location,Iran,http://www.wikidata.org/entity/Q26899082
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1488-REC297581,geometry_with_crs,Point(58.1025 27.011666666),http://www.wikidata.org/entity/Q26884302
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1488-REC297581,location,Iran,http://www.wikidata.org/entity/Q26884302
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1503-REC300521,geometry_with_crs,Point(60.89 25.740833333),http://www.wikidata.org/entity/Q35476705
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1503-REC300521,location,Iran,http://www.wikidata.org/entity/Q35476705
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1506-REC301151,geometry_with_crs,Point(50.339166666 36.335833333),http://www.wikidata.org/entity/Q26906175
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1506-REC301151,location,Iran,http://www.wikidata.org/entity/Q26906175
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1527-REC305351,geometry_with_crs,Point(58.11412 27.90194),http://www.wikidata.org/entity/Q125577575
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1527-REC305351,location,Iran,http://www.wikidata.org/entity/Q125577575
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1545-REC308921,geometry_with_crs,Point(59.47101 32.62962),http://www.wikidata.org/entity/Q126367482
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1545-REC308921,location,Iran,http://www.wikidata.org/entity/Q126367482
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1571-REC314171,geometry_with_crs,Point(13.02374 43.84257),http://www.wikidata.org/entity/Q29689560
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1571-REC314171,location,Italy,http://www.wikidata.org/entity/Q29689560
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1585-REC316901,geometry_with_crs,Point(10.40118 43.71556),http://www.wikidata.org/entity/Q3890175
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1585-REC316901,location,Italy,http://www.wikidata.org/entity/Q3890175
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1589-REC317741,geometry_with_crs,Point(13.401027777 42.353),http://www.wikidata.org/entity/Q21194430
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1589-REC317741,location,Italy,http://www.wikidata.org/entity/Q21194430
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1626-REC325091,geometry_with_crs,Point(140.629333333 40.475805555),http://www.wikidata.org/entity/Q5995388
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1626-REC325091,location,Japan,http://www.wikidata.org/entity/Q5995388
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1635-REC326981,elevation,2000,http://www.wikidata.org/entity/Q2045904
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1635-REC326981,geometry_with_crs,Point(71.333333333 39.933333333),http://www.wikidata.org/entity/Q2045904
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1635-REC326981,location,Kyrgyzstan,http://www.wikidata.org/entity/Q2045904
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1664-REC332651,geometry_with_crs,Point(126.6 40.966666666),http://www.wikidata.org/entity/Q489825
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1664-REC332651,location,North Korea,http://www.wikidata.org/entity/Q489825
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1684-REC336641,geometry_with_crs,Point(127.664166666 34.566666666),http://www.wikidata.org/entity/Q22972727
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1684-REC336641,location,South Korea,http://www.wikidata.org/entity/Q22972727
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1688-REC337481,geometry_with_crs,Point(126.33011 37.79199),http://www.wikidata.org/entity/Q27295363
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1688-REC337481,location,South Korea,http://www.wikidata.org/entity/Q27295363
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1778-REC355541,geometry_with_crs,Point(6.72778 36.83333),http://www.wikidata.org/entity/Q139743027
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1778-REC355541,location,Algeria,http://www.wikidata.org/entity/Q139743027
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1782-REC356381,geometry_with_crs,Point(-7.98223056 31.62159167),http://www.wikidata.org/entity/Q2465115
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1782-REC356381,location,Morocco,http://www.wikidata.org/entity/Q2465115
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1798-REC359531,elevation,866,http://www.wikidata.org/entity/Q3914029
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1798-REC359531,geometry_with_crs,Point(-3.599720001 16.361400604),http://www.wikidata.org/entity/Q3914029
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1798-REC359531,location,Mali,http://www.wikidata.org/entity/Q3914029
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1810-REC361841,elevation,1123,http://www.wikidata.org/entity/Q27784533
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1810-REC361841,geometry_with_crs,Point(-102.45 26.933333333),http://www.wikidata.org/entity/Q27784533
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1810-REC361841,location,Mexico,http://www.wikidata.org/entity/Q27784533
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1812-REC362261,elevation,1748,http://www.wikidata.org/entity/Q3499964
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1812-REC362261,geometry_with_crs,Point(-100.886388888 20.545833333),http://www.wikidata.org/entity/Q3499964
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1812-REC362261,location,Mexico,http://www.wikidata.org/entity/Q3499964
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1816-REC363101,elevation,1040,http://www.wikidata.org/entity/Q27823092
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1816-REC363101,geometry_with_crs,Point(-100.346388888 25.607222222),http://www.wikidata.org/entity/Q27823092
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1816-REC363101,location,Mexico,http://www.wikidata.org/entity/Q27823092
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1819-REC363731,elevation,3738,http://www.wikidata.org/entity/Q31450096
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1819-REC363731,geometry_with_crs,Point(-99.313611111 19.209444444),http://www.wikidata.org/entity/Q31450096
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1819-REC363731,location,Mexico,http://www.wikidata.org/entity/Q31450096
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1825-REC364991,elevation,1080,http://www.wikidata.org/entity/Q27821422
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1825-REC364991,geometry_with_crs,Point(-101.700833333 26.7425),http://www.wikidata.org/entity/Q27821422
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1825-REC364991,location,Mexico,http://www.wikidata.org/entity/Q27821422
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1828-REC365411,geometry_with_crs,Point(102.615277777 4.895833333),http://www.wikidata.org/entity/Q34849184
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1828-REC365411,location,Malaysia,http://www.wikidata.org/entity/Q34849184
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1831-REC366041,geometry_with_crs,Point(-86.2714718 11.9523763),http://www.wikidata.org/entity/Q139494397
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1831-REC366041,location,Nicaragua,http://www.wikidata.org/entity/Q139494397
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1837-REC367301,geometry_with_crs,Point(24.53679 69.14964),http://www.wikidata.org/entity/Q34683335
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1837-REC367301,location,Norway,http://www.wikidata.org/entity/Q34683335
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1840-REC367931,geometry_with_crs,Point(9.696944444 59.045277777),http://www.wikidata.org/entity/Q2715446
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1840-REC367931,location,Norway,http://www.wikidata.org/entity/Q2715446
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1841-REC368141,geometry_with_crs,Point(7.483333333 60.583333333),http://www.wikidata.org/entity/Q34842356
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1841-REC368141,location,Norway,http://www.wikidata.org/entity/Q34842356
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1846-REC369191,geometry_with_crs,Point(10.78561 64.23894),http://www.wikidata.org/entity/Q34750217
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1846-REC369191,location,Norway,http://www.wikidata.org/entity/Q34750217
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1850-REC369821,geometry_with_crs,Point(10.63776 64.2403),http://www.wikidata.org/entity/Q34844739
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1850-REC369821,location,Norway,http://www.wikidata.org/entity/Q34844739
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1852-REC370241,geometry_with_crs,Point(13.52034 65.82257),http://www.wikidata.org/entity/Q34752747
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1852-REC370241,location,Norway,http://www.wikidata.org/entity/Q34752747
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1856-REC371081,geometry_with_crs,Point(8.9725 61.2455),http://www.wikidata.org/entity/Q34761227
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1856-REC371081,location,Norway,http://www.wikidata.org/entity/Q34761227
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1857-REC371291,geometry_with_crs,Point(10.13966 61.54383),http://www.wikidata.org/entity/Q34837162
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1857-REC371291,location,Norway,http://www.wikidata.org/entity/Q34837162
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1860-REC371921,geometry_with_crs,Point(6.76129 61.76688),http://www.wikidata.org/entity/Q34838536
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1860-REC371921,location,Norway,http://www.wikidata.org/entity/Q34838536
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1861-REC372131,geometry_with_crs,Point(6.37514 60.09758),http://www.wikidata.org/entity/Q34836962
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1861-REC372131,location,Norway,http://www.wikidata.org/entity/Q34836962
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1866-REC373181,geometry_with_crs,Point(168.847 -44.238),http://www.wikidata.org/entity/Q32182607
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1866-REC373181,location,New Zealand,http://www.wikidata.org/entity/Q32182607
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1867-REC373391,geometry_with_crs,Point(170.315 -43.469),http://www.wikidata.org/entity/Q32229576
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1867-REC373391,location,New Zealand,http://www.wikidata.org/entity/Q32229576
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1870-REC373811,geometry_with_crs,Point(174.900291 -37.550347),http://www.wikidata.org/entity/Q34854369
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1870-REC373811,location,New Zealand,http://www.wikidata.org/entity/Q34854369
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1878-REC375491,elevation,20,http://www.wikidata.org/entity/Q3207123
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1878-REC375491,geometry_with_crs,Point(150.404944444 -5.462169444),http://www.wikidata.org/entity/Q3207123
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1878-REC375491,location,Papua New Guinea,http://www.wikidata.org/entity/Q3207123
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1879-REC375701,elevation,368,http://www.wikidata.org/entity/Q31510416
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1879-REC375701,geometry_with_crs,Point(121.5 14.15),http://www.wikidata.org/entity/Q31510416
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1879-REC375701,location,Philippines,http://www.wikidata.org/entity/Q31510416
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1921-REC384101,geometry_with_crs,Point(22.480801 45.844687),http://www.wikidata.org/entity/Q827661
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1921-REC384101,location,Romania,http://www.wikidata.org/entity/Q827661
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1922-REC384311,elevation,91,http://www.wikidata.org/entity/Q257631
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1922-REC384311,geometry_with_crs,Point(26.0822236 44.5707306),http://www.wikidata.org/entity/Q257631
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1922-REC384311,location,Romania,http://www.wikidata.org/entity/Q257631
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1926-REC385151,elevation,57,http://www.wikidata.org/entity/Q261660
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1926-REC385151,geometry_with_crs,Point(20.819722222 45.435),http://www.wikidata.org/entity/Q261660
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1926-REC385151,location,Serbia,http://www.wikidata.org/entity/Q261660
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1929-REC385781,elevation,37,http://www.wikidata.org/entity/Q986757
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1929-REC385781,geometry_with_crs,Point(46.72169 48.22564),http://www.wikidata.org/entity/Q986757
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1929-REC385781,location,Russia,http://www.wikidata.org/entity/Q986757
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1956-REC391031,elevation,321,http://www.wikidata.org/entity/Q1432042
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1956-REC391031,geometry_with_crs,Point(43.083333333 44.225),http://www.wikidata.org/entity/Q1432042
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1956-REC391031,location,Russia,http://www.wikidata.org/entity/Q1432042
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1968-REC393551,elevation,43,http://www.wikidata.org/entity/Q2163493
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1968-REC393551,geometry_with_crs,Point(17.386552384 62.530795071),http://www.wikidata.org/entity/Q2163493
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1968-REC393551,location,Sweden,http://www.wikidata.org/entity/Q2163493
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1972-REC394391,elevation,715.2,http://www.wikidata.org/entity/Q2752215
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1972-REC394391,geometry_with_crs,Point(14.468611 46.381667),http://www.wikidata.org/entity/Q2752215
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1972-REC394391,location,Slovenia,http://www.wikidata.org/entity/Q2752215
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1974-REC394601,elevation,209.9,http://www.wikidata.org/entity/Q2125054
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1974-REC394601,geometry_with_crs,Point(15.472 45.938189),http://www.wikidata.org/entity/Q2125054
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1974-REC394601,location,Slovenia,http://www.wikidata.org/entity/Q2125054
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1980-REC395861,elevation,15,http://www.wikidata.org/entity/Q31857896
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1980-REC395861,geometry_with_crs,Point(12.5 79.766666666),http://www.wikidata.org/entity/Q31857896
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1980-REC395861,location,Norway,http://www.wikidata.org/entity/Q31857896
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1981-REC396071,geometry_with_crs,Point(19.2519183 48.1959322),http://www.wikidata.org/entity/Q47538879
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1981-REC396071,location,Slovakia,http://www.wikidata.org/entity/Q47538879
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1990-REC397961,elevation,124,http://www.wikidata.org/entity/Q12225352
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1990-REC397961,geometry_with_crs,Point(43.3506 14.21828),http://www.wikidata.org/entity/Q12225352
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1990-REC397961,location,Yemen,http://www.wikidata.org/entity/Q12225352
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1996-REC399011,elevation,504,http://www.wikidata.org/entity/Q31876267
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1996-REC399011,geometry_with_crs,Point(33.25 15.933333333),http://www.wikidata.org/entity/Q31876267
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP1996-REC399011,location,Sudan,http://www.wikidata.org/entity/Q31876267
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP794-REC158771,geometry_with_crs,Point(66.1496 34.0456),http://www.wikidata.org/entity/Q21741245
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP794-REC158771,location,Afghanistan,http://www.wikidata.org/entity/Q21741245
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP804-REC160661,elevation,2265,http://www.wikidata.org/entity/Q21746557
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP804-REC160661,geometry_with_crs,Point(65.410833333 33.364166666),http://www.wikidata.org/entity/Q21746557
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP804-REC160661,location,Afghanistan,http://www.wikidata.org/entity/Q21746557
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP817-REC163391,elevation,3029,http://www.wikidata.org/entity/Q21776239
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP817-REC163391,geometry_with_crs,Point(66.315277777 35.088888888),http://www.wikidata.org/entity/Q21776239
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP817-REC163391,location,Afghanistan,http://www.wikidata.org/entity/Q21776239
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP819-REC163601,elevation,2172,http://www.wikidata.org/entity/Q21751529
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP819-REC163601,geometry_with_crs,Point(67.849444444 35.71),http://www.wikidata.org/entity/Q21751529
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP819-REC163601,location,Afghanistan,http://www.wikidata.org/entity/Q21751529
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP824-REC164651,geometry_with_crs,Point(68.320555555 34.6675),http://www.wikidata.org/entity/Q21802499
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP824-REC164651,location,Afghanistan,http://www.wikidata.org/entity/Q21802499
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP859-REC171791,elevation,2907,http://www.wikidata.org/entity/Q21771713
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP859-REC171791,geometry_with_crs,Point(65.770833333 35.794166666),http://www.wikidata.org/entity/Q21771713
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP859-REC171791,location,Afghanistan,http://www.wikidata.org/entity/Q21771713
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP862-REC172211,elevation,1881,http://www.wikidata.org/entity/Q21773647
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP862-REC172211,geometry_with_crs,Point(65.976388888 32.202777777),http://www.wikidata.org/entity/Q21773647
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP862-REC172211,location,Afghanistan,http://www.wikidata.org/entity/Q21773647
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP863-REC172421,elevation,2890,http://www.wikidata.org/entity/Q21774760
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP863-REC172421,geometry_with_crs,Point(65.2504 35.325),http://www.wikidata.org/entity/Q21774760
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP863-REC172421,location,Afghanistan,http://www.wikidata.org/entity/Q21774760
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP864-REC172631,elevation,4485,http://www.wikidata.org/entity/Q21775224
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP864-REC172631,geometry_with_crs,Point(70.229166666 36.407777777),http://www.wikidata.org/entity/Q21775224
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP864-REC172631,location,Afghanistan,http://www.wikidata.org/entity/Q21775224
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP884-REC176621,geometry_with_crs,Point(66.17 31.168333333),http://www.wikidata.org/entity/Q21792962
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP884-REC176621,location,Afghanistan,http://www.wikidata.org/entity/Q21792962
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP895-REC178931,geometry_with_crs,Point(64.9125 33.993333333),http://www.wikidata.org/entity/Q21808192
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP895-REC178931,location,Afghanistan,http://www.wikidata.org/entity/Q21808192
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP900-REC179981,geometry_with_crs,Point(64.1419 34.4012),http://www.wikidata.org/entity/Q21811937
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP900-REC179981,location,Afghanistan,http://www.wikidata.org/entity/Q21811937
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP913-REC182501,geometry_with_crs,Point(64.043055555 34.716111111),http://www.wikidata.org/entity/Q21816065
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP913-REC182501,location,Afghanistan,http://www.wikidata.org/entity/Q21816065
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP914-REC182711,geometry_with_crs,Point(65.448888888 34.461388888),http://www.wikidata.org/entity/Q21817663
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP914-REC182711,location,Afghanistan,http://www.wikidata.org/entity/Q21817663
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP920-REC183971,geometry_with_crs,Point(63.800277777 34.079722222),http://www.wikidata.org/entity/Q21819740
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP920-REC183971,location,Afghanistan,http://www.wikidata.org/entity/Q21819740
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP924-REC184601,geometry_with_crs,Point(67.611666666 31.4125),http://www.wikidata.org/entity/Q21820870
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP924-REC184601,location,Afghanistan,http://www.wikidata.org/entity/Q21820870
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP925-REC184811,geometry_with_crs,Point(66.276666666 30.5025),http://www.wikidata.org/entity/Q21821516
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP925-REC184811,location,Afghanistan,http://www.wikidata.org/entity/Q21821516
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP926-REC185021,elevation,595,http://www.wikidata.org/entity/Q6963500
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP926-REC185021,geometry_with_crs,Point(70.36917 34.4725),http://www.wikidata.org/entity/Q6963500
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP926-REC185021,location,Afghanistan,http://www.wikidata.org/entity/Q6963500
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP942-REC188381,elevation,1070,http://www.wikidata.org/entity/Q2535612
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP942-REC188381,geometry_with_crs,Point(44.338055555 40.247222222),http://www.wikidata.org/entity/Q2535612
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP942-REC188381,location,Armenia,http://www.wikidata.org/entity/Q2535612
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP946-REC189011,geometry_with_crs,Point(44.516269 40.184097),http://www.wikidata.org/entity/Q53075873
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP946-REC189011,location,Armenia,http://www.wikidata.org/entity/Q53075873
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP954-REC190691,geometry_with_crs,Point(166.83333333 -72.96666667),http://www.wikidata.org/entity/Q7235379
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP957-REC191321,geometry_with_crs,Point(-60.0628 -62.5319),http://www.wikidata.org/entity/Q5248049
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP959-REC191741,elevation,1362,http://www.wikidata.org/entity/Q1540484
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP959-REC191741,geometry_with_crs,Point(-85.65 -79.1167),http://www.wikidata.org/entity/Q1540484
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP960-REC191951,geometry_with_crs,Point(47.6 -67.7667),http://www.wikidata.org/entity/Q6404127
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP963-REC192581,elevation,28,http://www.wikidata.org/entity/Q21839919
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP963-REC192581,geometry_with_crs,Point(-60.640555555 -33.030277777),http://www.wikidata.org/entity/Q21839919
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP963-REC192581,location,Argentina,http://www.wikidata.org/entity/Q21839919
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP967-REC193211,geometry_with_crs,Point(10.079 46.865),http://www.wikidata.org/entity/Q21868573
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP967-REC193211,location,Austria,http://www.wikidata.org/entity/Q21868573
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP972-REC194261,geometry_with_crs,Point(146.789 -41.056),http://www.wikidata.org/entity/Q139746073
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP972-REC194261,location,Australia,http://www.wikidata.org/entity/Q139746073
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP975-REC194891,elevation,1143,http://www.wikidata.org/entity/Q4719797
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP975-REC194891,geometry_with_crs,Point(45.669045297 39.153431503),http://www.wikidata.org/entity/Q4719797
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP975-REC194891,location,Azerbaijan,http://www.wikidata.org/entity/Q4719797
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP984-REC196781,elevation,217,http://www.wikidata.org/entity/Q21980825
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP984-REC196781,geometry_with_crs,Point(46.26992 41.69729),http://www.wikidata.org/entity/Q21980825
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP984-REC196781,location,Azerbaijan,http://www.wikidata.org/entity/Q21980825
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP990-REC197831,elevation,7,http://www.wikidata.org/entity/Q834850
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP990-REC197831,geometry_with_crs,Point(4.4331 51.2133),http://www.wikidata.org/entity/Q834850
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP990-REC197831,location,Belgium,http://www.wikidata.org/entity/Q834850
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1007-REC201261,elevation,131,http://www.wikidata.org/entity/Q22021568
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1007-REC201261,geometry_with_crs,Point(-58.683333333 -7.616666666),http://www.wikidata.org/entity/Q22021568
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1007-REC201261,location,Brazil,http://www.wikidata.org/entity/Q22021568
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1008-REC201471,elevation,162,http://www.wikidata.org/entity/Q22023966
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1008-REC201471,geometry_with_crs,Point(-53.116666666 0.666666666),http://www.wikidata.org/entity/Q22023966
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1008-REC201471,location,Brazil,http://www.wikidata.org/entity/Q22023966
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1012-REC202311,elevation,336,http://www.wikidata.org/entity/Q22044750
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1012-REC202311,geometry_with_crs,Point(-55.416666666 -11.116666666),http://www.wikidata.org/entity/Q22044750
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1012-REC202311,location,Brazil,http://www.wikidata.org/entity/Q22044750
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1019-REC203781,geometry_with_crs,Point(28.9939 53.4003),http://www.wikidata.org/entity/Q28380514
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1019-REC203781,location,Belarus,http://www.wikidata.org/entity/Q28380514
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1027-REC205251,elevation,1920,http://www.wikidata.org/entity/Q5267726
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1027-REC205251,geometry_with_crs,Point(-82.1739 75.3478),http://www.wikidata.org/entity/Q5267726
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1027-REC205251,location,Canada,http://www.wikidata.org/entity/Q5267726
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1029-REC205671,geometry_with_crs,Point(-123.74952 50.73799),http://www.wikidata.org/entity/Q22431321
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1029-REC205671,location,Canada,http://www.wikidata.org/entity/Q22431321
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1030-REC205881,geometry_with_crs,Point(-125.8698 51.93303),http://www.wikidata.org/entity/Q22376903
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1030-REC205881,location,Canada,http://www.wikidata.org/entity/Q22376903
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1034-REC206721,geometry_with_crs,Point(-75.717222222 45.417222222),http://www.wikidata.org/entity/Q1032442
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1034-REC206721,location,Canada,http://www.wikidata.org/entity/Q1032442
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1037-REC207351,elevation,915,http://www.wikidata.org/entity/Q1432212
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1037-REC207351,geometry_with_crs,Point(15.327222222 -4.326666666),http://www.wikidata.org/entity/Q1432212
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1037-REC207351,location,Democratic Republic of the Congo,http://www.wikidata.org/entity/Q1432212
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1040-REC207981,geometry_with_crs,Point(8.544166666 47.37),http://www.wikidata.org/entity/Q684948
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1040-REC207981,location,Switzerland,http://www.wikidata.org/entity/Q684948
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1051-REC210081,geometry_with_crs,Point(13.864722222 10.416666666),http://www.wikidata.org/entity/Q23673067
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1051-REC210081,location,Cameroon,http://www.wikidata.org/entity/Q23673067
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1065-REC212811,geometry_with_crs,Point(109.833333333 21.4),http://www.wikidata.org/entity/Q28804346
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1065-REC212811,location,People's Republic of China,http://www.wikidata.org/entity/Q28804346
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1095-REC218901,elevation,201,http://www.wikidata.org/entity/Q158584
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1095-REC218901,geometry_with_crs,Point(13.746310094 50.603854793),http://www.wikidata.org/entity/Q158584
+IDB-REG_01-CAT_17-ERA_04-1890-ACC05-HOP1095-REC218901,location,Czech Republic,http://www.wikidata.org/entity/Q158584
