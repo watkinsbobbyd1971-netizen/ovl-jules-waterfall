@@ -1,0 +1,9 @@
+column_name,data_type,unit,description
+descriptive_identity,JSON,,value types: string
+elevation,JSON,mm,value types: number
+geometry_with_crs,JSON,,value types: string
+historical_name,JSON,,value types: string
+hydrological_observation_verbatim,JSON,,value types: string
+identity_label,JSON,,value types: string
+location,JSON,,value types: string
+place_identity,JSON,,value types: string
