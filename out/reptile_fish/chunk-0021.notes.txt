@@ -1,0 +1,6 @@
+The target entities for this chunk are Smithsonian museum artifacts (dedup keys start with LIBSRC-LIB51-ENT-SMI) with names like "mug, shaving", "1,000 Stitch Sash (Senninbari)", "Lighter", etc.
+These are cultural objects/artifacts and do not match biological subjects (reptiles/fishes).
+Searched GBIF and Wikidata endpoints to map these artifacts to relevant reptile/fish categories but found no valid biological mappings in scope.
+Wikidata SPARQL search using Smithsonian identifier (P217) and label search returned no results or rate limited.
+Other public APIs (Cleveland, Art Institute of Chicago, Europeana) are returning 403 Forbidden or 401 Unauthorized.
+Therefore, no biological structured data can be extracted for these artifacts. Outputting empty result file as requested.
