@@ -1,0 +1,5 @@
+Attempted to query Wikidata via SPARQL for artists/subjects.
+Also considered museum open APIs (Met, Smithsonian, Europeana, Rijksmuseum, Cleveland, Art Institute of Chicago), GBIF, Open Tree of Life, USGS/NASA/NOAA open data.
+Found that the entities listed in tasks/watercraft/chunk-0003.csv.gz are primarily artists, not watercraft.
+No matching sourced properties mapped to COLUMNS.csv (e.g. dimension_length, displacement_mass, draft) were found for these entities.
+Therefore, outputting an empty results CSV.
