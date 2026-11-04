@@ -1,0 +1,11 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-2549362,identity_label,"""Eosphaeniscus gunnari""",https://api.gbif.org/v1/species/9393680
+LIBSRC-LIB50-ENT-BIO-2549362,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/9393680
+LIBSRC-LIB50-ENT-BIO-2536269,identity_label,"""Puffinus bryani""",https://api.gbif.org/v1/species/5843959
+LIBSRC-LIB50-ENT-BIO-2536269,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/5843959
+LIBSRC-LIB50-ENT-BIO-2546553,identity_label,"""Spheniscus megaramphus""",https://api.gbif.org/v1/species/8460076
+LIBSRC-LIB50-ENT-BIO-2546553,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/8460076
+LIBSRC-LIB50-ENT-BIO-2536299,identity_label,"""Puffinus diatomicus""",https://api.gbif.org/v1/species/8666443
+LIBSRC-LIB50-ENT-BIO-2536299,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/8666443
+LIBSRC-LIB50-ENT-BIO-2536274,identity_label,"""Puffinus mitchelli""",https://api.gbif.org/v1/species/5935898
+LIBSRC-LIB50-ENT-BIO-2536274,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/5935898
