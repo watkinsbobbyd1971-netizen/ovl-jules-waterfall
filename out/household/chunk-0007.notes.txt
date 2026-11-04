@@ -1,0 +1,7 @@
+Attempted Sources:
+- Smithsonian Open Access API (https://api.si.edu/openaccess/api/v1.0/search) with DEMO_KEY
+- The Met Museum API
+
+Notes:
+Received 429 OVER_RATE_LIMIT from Smithsonian Open Access API using DEMO_KEY. No data could be retrieved.
+Received 429 from Met Museum API.
