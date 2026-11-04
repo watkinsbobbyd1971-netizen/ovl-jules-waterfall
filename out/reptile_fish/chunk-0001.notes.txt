@@ -1,0 +1,2 @@
+Used GBIF Species Match API for taxon_authority.
+Used Wikidata SPARQL for taxon_authority fallback and anatomical_length.
