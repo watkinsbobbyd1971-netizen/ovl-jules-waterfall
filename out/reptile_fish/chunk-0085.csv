@@ -1,0 +1,4 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-0582846,sex,"""female""",https://www.gbif.org/occurrence/6422093429
+LIBSRC-LIB50-ENT-BIO-0582846,life_stage,"""adult""",https://www.gbif.org/occurrence/6422093429
+LIBSRC-LIB50-ENT-BIO-0611746,sex,"""male""",https://www.gbif.org/occurrence/6252688884
