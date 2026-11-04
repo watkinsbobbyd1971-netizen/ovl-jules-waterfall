@@ -1,0 +1,4 @@
+Attempted to query Smithsonian Open Access API and Wikidata SPARQL for National Museum of the American Indian (NMAI) artifacts.
+Smithsonian Open Access API returned 429 OVER_RATE_LIMIT for all queries due to DEMO_KEY restrictions.
+Wikidata SPARQL returned no results for the given artifact IDs.
+As a result, no data could be populated.
