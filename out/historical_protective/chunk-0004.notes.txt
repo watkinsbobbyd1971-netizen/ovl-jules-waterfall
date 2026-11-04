@@ -1,0 +1,3 @@
+Queried Wikidata (wbsearchentities and wbgetentities APIs) for each subject_name.
+Extracted material (P186), use/function (P366), and subclass of (P279) properties.
+Used cache to avoid redundant API queries and respected rate limits with sleep.
