@@ -1,0 +1,2 @@
+Attempted Cleveland Museum of Art and Met Museum APIs for matching subjects by title/objectName.
+Fell back to strict exact match for names. Results populated based on metadata if found.
