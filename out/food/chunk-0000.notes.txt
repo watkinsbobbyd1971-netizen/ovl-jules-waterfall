@@ -1,0 +1,6 @@
+Attempted to find bulk structured sources for historical food subjects.
+Searched:
+1. Wikidata (Entity Search and SPARQL)
+2. Met Museum Collection API
+
+The strict exact matches required by AGENTS.md yield no real, verifiable values for these specific highly contextualized historical food subjects (e.g., 'Tiger Nut Sweets (Ancient Egypt)', 'Candied Fruit Comfits (Medieval Europe)'). Therefore, an empty result is the valid outcome as per AGENTS.md.
