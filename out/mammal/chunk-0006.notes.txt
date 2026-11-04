@@ -1,0 +1,4 @@
+Attempted to find sources for subjects in chunk-0006.csv.gz (category: mammal) using Wikidata (SPARQL/entity API), GBIF, Smithsonian Open Access API, FDC, and others.
+These items appear to be artifacts (Cups, Bowls, Baskets) rather than mammals.
+Additionally, open APIs like Smithsonian and Wikidata were skipped or resulted in rate limit errors (429 / OVER_RATE_LIMIT).
+No valid sourced mammal properties could be found, hence the CSV contains only the header.
