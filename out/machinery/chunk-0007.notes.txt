@@ -1,0 +1,1 @@
+Queried Met Museum API. Due to severe Wikidata 429 rate limits causing empty results, falling back to museum APIs as suggested in memory to match machinery objects. Only matched exact names to prevent bad data.
