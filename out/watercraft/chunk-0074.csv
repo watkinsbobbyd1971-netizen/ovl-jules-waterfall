@@ -1,0 +1,1113 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB44-ENT-VEH-0034587,dimension_length,131400.0,http://www.wikidata.org/entity/Q105303339
+LIBSRC-LIB44-ENT-VEH-0034930,dimension_length,133300.0,http://www.wikidata.org/entity/Q105333702
+LIBSRC-LIB44-ENT-VEH-0035737,dimension_length,78330.0,http://www.wikidata.org/entity/Q105764722
+LIBSRC-LIB44-ENT-VEH-0039394,dimension_length,65099.99999999999,http://www.wikidata.org/entity/Q105769995
+LIBSRC-LIB44-ENT-VEH-0124487,dimension_length,330000.0,http://www.wikidata.org/entity/Q83637596
+LIBSRC-LIB44-ENT-VEH-0124928,dimension_length,139630.0,http://www.wikidata.org/entity/Q83638367
+LIBSRC-LIB44-ENT-VEH-0125445,dimension_length,199900.0,http://www.wikidata.org/entity/Q83639276
+LIBSRC-LIB44-ENT-VEH-0127350,dimension_length,183000.0,http://www.wikidata.org/entity/Q83642655
+LIBSRC-LIB44-ENT-VEH-0128209,dimension_length,182850.0,http://www.wikidata.org/entity/Q83645749
+LIBSRC-LIB44-ENT-VEH-0128296,dimension_length,49000.0,http://www.wikidata.org/entity/Q83645897
+LIBSRC-LIB44-ENT-VEH-0128491,dimension_length,45720.0,http://www.wikidata.org/entity/Q83646315
+LIBSRC-LIB44-ENT-VEH-0128918,dimension_length,199940.0,http://www.wikidata.org/entity/Q83647590
+LIBSRC-LIB44-ENT-VEH-0129471,dimension_length,225000.0,http://www.wikidata.org/entity/Q83649335
+LIBSRC-LIB44-ENT-VEH-0129471,draft,14030.0,http://www.wikidata.org/entity/Q83649335
+LIBSRC-LIB44-ENT-VEH-0129752,dimension_length,115300.0,http://www.wikidata.org/entity/Q83650115
+LIBSRC-LIB44-ENT-VEH-0129932,dimension_length,27250.0,http://www.wikidata.org/entity/Q83650615
+LIBSRC-LIB44-ENT-VEH-0130580,dimension_length,30250.0,http://www.wikidata.org/entity/Q83652419
+LIBSRC-LIB44-ENT-VEH-0130637,dimension_length,189990.0,http://www.wikidata.org/entity/Q83652559
+LIBSRC-LIB44-ENT-VEH-0131509,dimension_length,189800.0,http://www.wikidata.org/entity/Q84252423
+LIBSRC-LIB44-ENT-VEH-0131509,draft,11916.0,http://www.wikidata.org/entity/Q84252423
+LIBSRC-LIB44-ENT-VEH-0132093,dimension_length,224790.0,http://www.wikidata.org/entity/Q84253885
+LIBSRC-LIB44-ENT-VEH-0132597,dimension_length,155600.0,http://www.wikidata.org/entity/Q84255006
+LIBSRC-LIB44-ENT-VEH-0132863,dimension_length,134440.0,http://www.wikidata.org/entity/Q84255630
+LIBSRC-LIB44-ENT-VEH-0132863,draft,8710.0,http://www.wikidata.org/entity/Q84255630
+LIBSRC-LIB44-ENT-VEH-0133572,dimension_length,75000.0,http://www.wikidata.org/entity/Q84258194
+LIBSRC-LIB44-ENT-VEH-0133572,draft,3500.0,http://www.wikidata.org/entity/Q84258194
+LIBSRC-LIB44-ENT-VEH-0133764,dimension_length,110000.0,http://www.wikidata.org/entity/Q84258664
+LIBSRC-LIB44-ENT-VEH-0133764,draft,6000.0,http://www.wikidata.org/entity/Q84258664
+LIBSRC-LIB44-ENT-VEH-0133855,dimension_length,140000.0,http://www.wikidata.org/entity/Q84259919
+LIBSRC-LIB44-ENT-VEH-0133855,draft,5800.0,http://www.wikidata.org/entity/Q84259919
+LIBSRC-LIB44-ENT-VEH-0134084,dimension_length,26090.0,http://www.wikidata.org/entity/Q84260444
+LIBSRC-LIB44-ENT-VEH-0134199,dimension_length,210060.0,http://www.wikidata.org/entity/Q84260816
+LIBSRC-LIB44-ENT-VEH-0134199,draft,11500.0,http://www.wikidata.org/entity/Q84260816
+LIBSRC-LIB44-ENT-VEH-0134204,dimension_length,18150.0,http://www.wikidata.org/entity/Q84260829
+LIBSRC-LIB44-ENT-VEH-0134204,draft,2454.0,http://www.wikidata.org/entity/Q84260829
+LIBSRC-LIB44-ENT-VEH-0134206,dimension_length,18150.0,http://www.wikidata.org/entity/Q84260833
+LIBSRC-LIB44-ENT-VEH-0134206,draft,2454.0,http://www.wikidata.org/entity/Q84260833
+LIBSRC-LIB44-ENT-VEH-0134231,dimension_length,207550.0,http://www.wikidata.org/entity/Q84260895
+LIBSRC-LIB44-ENT-VEH-0134231,draft,11400.0,http://www.wikidata.org/entity/Q84260895
+LIBSRC-LIB44-ENT-VEH-0094984,dimension_length,38000.0,http://www.wikidata.org/entity/Q24868968
+LIBSRC-LIB44-ENT-VEH-0095971,dimension_length,115000.0,http://www.wikidata.org/entity/Q27983072
+LIBSRC-LIB44-ENT-VEH-0103327,dimension_length,90000.0,http://www.wikidata.org/entity/Q52352837
+LIBSRC-LIB44-ENT-VEH-0103343,dimension_length,231000.0,http://www.wikidata.org/entity/Q52353028
+LIBSRC-LIB44-ENT-VEH-0103479,dimension_length,294000.0,http://www.wikidata.org/entity/Q52354676
+LIBSRC-LIB44-ENT-VEH-0108458,dimension_length,87000.0,http://www.wikidata.org/entity/Q5635905
+LIBSRC-LIB44-ENT-VEH-0109921,dimension_length,99810.0,http://www.wikidata.org/entity/Q61779912
+LIBSRC-LIB44-ENT-VEH-0109921,draft,6010.0,http://www.wikidata.org/entity/Q61779912
+LIBSRC-LIB44-ENT-VEH-0111082,dimension_length,117000.0,http://www.wikidata.org/entity/Q6719868
+LIBSRC-LIB44-ENT-VEH-0118427,dimension_length,220000.0,http://www.wikidata.org/entity/Q83487985
+LIBSRC-LIB44-ENT-VEH-0118427,draft,12000.0,http://www.wikidata.org/entity/Q83487985
+LIBSRC-LIB44-ENT-VEH-0118940,dimension_length,35950.0,http://www.wikidata.org/entity/Q83566667
+LIBSRC-LIB44-ENT-VEH-0118965,dimension_length,189990.0,http://www.wikidata.org/entity/Q83567210
+LIBSRC-LIB44-ENT-VEH-0119177,dimension_length,139900.0,http://www.wikidata.org/entity/Q83570975
+LIBSRC-LIB44-ENT-VEH-0119177,draft,7360.0,http://www.wikidata.org/entity/Q83570975
+LIBSRC-LIB44-ENT-VEH-0119214,dimension_length,160000.0,http://www.wikidata.org/entity/Q83571500
+LIBSRC-LIB44-ENT-VEH-0120041,dimension_length,199980.0,http://www.wikidata.org/entity/Q83585073
+LIBSRC-LIB44-ENT-VEH-0120191,dimension_length,89990.0,http://www.wikidata.org/entity/Q83587414
+LIBSRC-LIB44-ENT-VEH-0120191,draft,6180.0,http://www.wikidata.org/entity/Q83587414
+LIBSRC-LIB44-ENT-VEH-0120267,dimension_length,19980.0,http://www.wikidata.org/entity/Q83588480
+LIBSRC-LIB44-ENT-VEH-0120422,dimension_length,145630.0,http://www.wikidata.org/entity/Q83591112
+LIBSRC-LIB44-ENT-VEH-0120422,draft,7347.0,http://www.wikidata.org/entity/Q83591112
+LIBSRC-LIB44-ENT-VEH-0120466,dimension_length,288930.0,http://www.wikidata.org/entity/Q83591634
+LIBSRC-LIB44-ENT-VEH-0120474,dimension_length,225000.0,http://www.wikidata.org/entity/Q83591757
+LIBSRC-LIB44-ENT-VEH-0120589,dimension_length,225000.0,http://www.wikidata.org/entity/Q83593323
+LIBSRC-LIB44-ENT-VEH-0120804,dimension_length,249900.0,http://www.wikidata.org/entity/Q83596294
+LIBSRC-LIB44-ENT-VEH-0120950,dimension_length,246000.0,http://www.wikidata.org/entity/Q83598387
+LIBSRC-LIB44-ENT-VEH-0120960,dimension_length,244000.0,http://www.wikidata.org/entity/Q83598536
+LIBSRC-LIB44-ENT-VEH-0120985,dimension_length,241000.0,http://www.wikidata.org/entity/Q83598976
+LIBSRC-LIB44-ENT-VEH-0121093,dimension_length,207910.0,http://www.wikidata.org/entity/Q83600493
+LIBSRC-LIB44-ENT-VEH-0121093,draft,11500.0,http://www.wikidata.org/entity/Q83600493
+LIBSRC-LIB44-ENT-VEH-0121124,dimension_length,118280.0,http://www.wikidata.org/entity/Q83600875
+LIBSRC-LIB44-ENT-VEH-0121124,draft,8138.0,http://www.wikidata.org/entity/Q83600875
+LIBSRC-LIB44-ENT-VEH-0121144,dimension_length,134650.0,http://www.wikidata.org/entity/Q83601069
+LIBSRC-LIB44-ENT-VEH-0121144,draft,7100.0,http://www.wikidata.org/entity/Q83601069
+LIBSRC-LIB44-ENT-VEH-0121607,dimension_length,144050.0,http://www.wikidata.org/entity/Q83607598
+LIBSRC-LIB44-ENT-VEH-0121607,draft,8400.0,http://www.wikidata.org/entity/Q83607598
+LIBSRC-LIB44-ENT-VEH-0121806,dimension_length,174000.0,http://www.wikidata.org/entity/Q83610290
+LIBSRC-LIB44-ENT-VEH-0121926,dimension_length,199990.0,http://www.wikidata.org/entity/Q83626524
+LIBSRC-LIB44-ENT-VEH-0122420,dimension_length,228000.0,http://www.wikidata.org/entity/Q83628064
+LIBSRC-LIB44-ENT-VEH-0122425,dimension_length,116000.0,http://www.wikidata.org/entity/Q83628075
+LIBSRC-LIB44-ENT-VEH-0122425,draft,6750.0,http://www.wikidata.org/entity/Q83628075
+LIBSRC-LIB44-ENT-VEH-0123160,dimension_length,277000.0,http://www.wikidata.org/entity/Q83631223
+LIBSRC-LIB44-ENT-VEH-0123160,draft,14500.0,http://www.wikidata.org/entity/Q83631223
+LIBSRC-LIB44-ENT-VEH-0123384,dimension_length,145340.0,http://www.wikidata.org/entity/Q83631508
+LIBSRC-LIB44-ENT-VEH-0123384,draft,11200.0,http://www.wikidata.org/entity/Q83631508
+LIBSRC-LIB44-ENT-VEH-0124165,dimension_length,207540.0,http://www.wikidata.org/entity/Q83632632
+LIBSRC-LIB44-ENT-VEH-0010763,dimension_length,181800.0,http://www.wikidata.org/entity/Q101853311
+LIBSRC-LIB44-ENT-VEH-0010763,draft,11980.0,http://www.wikidata.org/entity/Q101853311
+LIBSRC-LIB44-ENT-VEH-0034570,dimension_length,60000.0,http://www.wikidata.org/entity/Q105303311
+LIBSRC-LIB44-ENT-VEH-0034572,dimension_length,60000.0,http://www.wikidata.org/entity/Q105303316
+LIBSRC-LIB44-ENT-VEH-0034601,dimension_length,100500.0,http://www.wikidata.org/entity/Q105303358
+LIBSRC-LIB44-ENT-VEH-0034705,dimension_length,73400.0,http://www.wikidata.org/entity/Q105303567
+LIBSRC-LIB44-ENT-VEH-0034708,dimension_length,288900.0,http://www.wikidata.org/entity/Q105303576
+LIBSRC-LIB44-ENT-VEH-0034784,dimension_length,89000.0,http://www.wikidata.org/entity/Q105321557
+LIBSRC-LIB44-ENT-VEH-0034784,draft,5850.0,http://www.wikidata.org/entity/Q105321557
+LIBSRC-LIB44-ENT-VEH-0034902,dimension_length,224900.0,http://www.wikidata.org/entity/Q105333667
+LIBSRC-LIB44-ENT-VEH-0034944,dimension_length,288900.0,http://www.wikidata.org/entity/Q105333720
+LIBSRC-LIB44-ENT-VEH-0034947,dimension_length,72000.0,http://www.wikidata.org/entity/Q105333726
+LIBSRC-LIB44-ENT-VEH-0034954,dimension_length,169200.0,http://www.wikidata.org/entity/Q105333735
+LIBSRC-LIB44-ENT-VEH-0034992,dimension_length,288900.0,http://www.wikidata.org/entity/Q105333795
+LIBSRC-LIB44-ENT-VEH-0035002,dimension_length,102700.0,http://www.wikidata.org/entity/Q105333816
+LIBSRC-LIB44-ENT-VEH-0035017,dimension_length,138700.0,http://www.wikidata.org/entity/Q105333844
+LIBSRC-LIB44-ENT-VEH-0035370,dimension_length,126000.0,http://www.wikidata.org/entity/Q105764276
+LIBSRC-LIB44-ENT-VEH-0035383,dimension_length,128199.99999999999,http://www.wikidata.org/entity/Q105764289
+LIBSRC-LIB44-ENT-VEH-0035383,draft,4340.0,http://www.wikidata.org/entity/Q105764289
+LIBSRC-LIB44-ENT-VEH-0035442,dimension_length,69200.0,http://www.wikidata.org/entity/Q105764355
+LIBSRC-LIB44-ENT-VEH-0035462,dimension_length,105900.0,http://www.wikidata.org/entity/Q105764377
+LIBSRC-LIB44-ENT-VEH-0035575,dimension_length,69000.0,http://www.wikidata.org/entity/Q105764514
+LIBSRC-LIB44-ENT-VEH-0035639,dimension_length,104600.0,http://www.wikidata.org/entity/Q105764591
+LIBSRC-LIB44-ENT-VEH-0035682,dimension_length,79990.0,http://www.wikidata.org/entity/Q105764652
+LIBSRC-LIB44-ENT-VEH-0035700,dimension_length,57500.0,http://www.wikidata.org/entity/Q105764679
+LIBSRC-LIB44-ENT-VEH-0035789,dimension_length,128199.99999999999,http://www.wikidata.org/entity/Q105764780
+LIBSRC-LIB44-ENT-VEH-0035839,dimension_length,69950.0,http://www.wikidata.org/entity/Q105764844
+LIBSRC-LIB44-ENT-VEH-0036046,dimension_length,69000.0,http://www.wikidata.org/entity/Q105765093
+LIBSRC-LIB44-ENT-VEH-0036249,dimension_length,77000.0,http://www.wikidata.org/entity/Q105765342
+LIBSRC-LIB44-ENT-VEH-0038034,dimension_length,105600.0,http://www.wikidata.org/entity/Q105767845
+LIBSRC-LIB44-ENT-VEH-0040884,dimension_length,224900.0,http://www.wikidata.org/entity/Q107393814
+LIBSRC-LIB44-ENT-VEH-0040884,draft,13800.0,http://www.wikidata.org/entity/Q107393814
+LIBSRC-LIB44-ENT-VEH-0050449,dimension_length,275000.0,http://www.wikidata.org/entity/Q117024070
+LIBSRC-LIB44-ENT-VEH-0050515,dimension_length,228000.0,http://www.wikidata.org/entity/Q117024145
+LIBSRC-LIB44-ENT-VEH-0050516,dimension_length,228000.0,http://www.wikidata.org/entity/Q117024146
+LIBSRC-LIB44-ENT-VEH-0050572,dimension_length,299000.0,http://www.wikidata.org/entity/Q117024208
+LIBSRC-LIB44-ENT-VEH-0050668,dimension_length,189000.0,http://www.wikidata.org/entity/Q117024308
+LIBSRC-LIB44-ENT-VEH-0050701,dimension_length,299000.0,http://www.wikidata.org/entity/Q117024343
+LIBSRC-LIB44-ENT-VEH-0050776,dimension_length,199000.0,http://www.wikidata.org/entity/Q117024432
+LIBSRC-LIB44-ENT-VEH-0050777,dimension_length,199000.0,http://www.wikidata.org/entity/Q117024433
+LIBSRC-LIB44-ENT-VEH-0050792,dimension_length,225000.0,http://www.wikidata.org/entity/Q117024452
+LIBSRC-LIB44-ENT-VEH-0050800,dimension_length,225000.0,http://www.wikidata.org/entity/Q117024460
+LIBSRC-LIB44-ENT-VEH-0050804,dimension_length,225000.0,http://www.wikidata.org/entity/Q117024464
+LIBSRC-LIB44-ENT-VEH-0050828,dimension_length,225000.0,http://www.wikidata.org/entity/Q117024492
+LIBSRC-LIB44-ENT-VEH-0050836,dimension_length,228000.0,http://www.wikidata.org/entity/Q117024501
+LIBSRC-LIB44-ENT-VEH-0050838,dimension_length,184000.0,http://www.wikidata.org/entity/Q117024503
+LIBSRC-LIB44-ENT-VEH-0050855,dimension_length,333000.0,http://www.wikidata.org/entity/Q117024521
+LIBSRC-LIB44-ENT-VEH-0050861,dimension_length,260000.0,http://www.wikidata.org/entity/Q117024528
+LIBSRC-LIB44-ENT-VEH-0050891,dimension_length,189000.0,http://www.wikidata.org/entity/Q117024560
+LIBSRC-LIB44-ENT-VEH-0050894,dimension_length,250000.0,http://www.wikidata.org/entity/Q117024563
+LIBSRC-LIB44-ENT-VEH-0050909,dimension_length,294000.0,http://www.wikidata.org/entity/Q117024578
+LIBSRC-LIB44-ENT-VEH-0050911,dimension_length,176000.0,http://www.wikidata.org/entity/Q117024581
+LIBSRC-LIB44-ENT-VEH-0050921,dimension_length,199000.0,http://www.wikidata.org/entity/Q117024593
+LIBSRC-LIB44-ENT-VEH-0050923,dimension_length,189000.0,http://www.wikidata.org/entity/Q117024595
+LIBSRC-LIB44-ENT-VEH-0050924,dimension_length,188000.0,http://www.wikidata.org/entity/Q117024596
+LIBSRC-LIB44-ENT-VEH-0050930,dimension_length,200000.0,http://www.wikidata.org/entity/Q117024602
+LIBSRC-LIB44-ENT-VEH-0124984,dimension_length,30300.0,http://www.wikidata.org/entity/Q83638469
+LIBSRC-LIB44-ENT-VEH-0125005,dimension_length,183000.0,http://www.wikidata.org/entity/Q83638501
+LIBSRC-LIB44-ENT-VEH-0125414,dimension_length,80000.0,http://www.wikidata.org/entity/Q83639217
+LIBSRC-LIB44-ENT-VEH-0125482,dimension_length,40000.0,http://www.wikidata.org/entity/Q83639332
+LIBSRC-LIB44-ENT-VEH-0126692,dimension_length,26040.0,http://www.wikidata.org/entity/Q83641462
+LIBSRC-LIB44-ENT-VEH-0127758,dimension_length,48330.0,http://www.wikidata.org/entity/Q83644811
+LIBSRC-LIB44-ENT-VEH-0128206,dimension_length,43300.0,http://www.wikidata.org/entity/Q83645744
+LIBSRC-LIB44-ENT-VEH-0131286,dimension_length,101000.0,http://www.wikidata.org/entity/Q84228803
+LIBSRC-LIB44-ENT-VEH-0133638,dimension_length,40250.0,http://www.wikidata.org/entity/Q84258363
+LIBSRC-LIB44-ENT-VEH-0133638,draft,1290.0,http://www.wikidata.org/entity/Q84258363
+LIBSRC-LIB44-ENT-VEH-0134226,dimension_length,221720.0,http://www.wikidata.org/entity/Q84260886
+LIBSRC-LIB44-ENT-VEH-0134226,draft,11400.0,http://www.wikidata.org/entity/Q84260886
+LIBSRC-LIB44-ENT-VEH-0134236,dimension_length,126950.0,http://www.wikidata.org/entity/Q84260906
+LIBSRC-LIB44-ENT-VEH-0134236,draft,7750.0,http://www.wikidata.org/entity/Q84260906
+LIBSRC-LIB44-ENT-VEH-0135247,dimension_length,294510.0,http://www.wikidata.org/entity/Q84264395
+LIBSRC-LIB44-ENT-VEH-0135247,draft,13650.0,http://www.wikidata.org/entity/Q84264395
+LIBSRC-LIB44-ENT-VEH-0135251,dimension_length,294130.0,http://www.wikidata.org/entity/Q84264409
+LIBSRC-LIB44-ENT-VEH-0135251,draft,13550.0,http://www.wikidata.org/entity/Q84264409
+LIBSRC-LIB44-ENT-VEH-0135255,dimension_length,300070.0,http://www.wikidata.org/entity/Q84264428
+LIBSRC-LIB44-ENT-VEH-0135255,draft,14500.0,http://www.wikidata.org/entity/Q84264428
+LIBSRC-LIB44-ENT-VEH-0135261,dimension_length,294140.0,http://www.wikidata.org/entity/Q84264448
+LIBSRC-LIB44-ENT-VEH-0135261,draft,13650.0,http://www.wikidata.org/entity/Q84264448
+LIBSRC-LIB44-ENT-VEH-0135349,dimension_length,49370.0,http://www.wikidata.org/entity/Q84264658
+LIBSRC-LIB44-ENT-VEH-0135349,draft,3040.0,http://www.wikidata.org/entity/Q84264658
+LIBSRC-LIB44-ENT-VEH-0135505,dimension_length,127200.0,http://www.wikidata.org/entity/Q84265129
+LIBSRC-LIB44-ENT-VEH-0135505,draft,8700.0,http://www.wikidata.org/entity/Q84265129
+LIBSRC-LIB44-ENT-VEH-0136000,dimension_length,46000.0,http://www.wikidata.org/entity/Q84709764
+LIBSRC-LIB44-ENT-VEH-0136015,dimension_length,47500.0,http://www.wikidata.org/entity/Q84709863
+LIBSRC-LIB44-ENT-VEH-0137788,dimension_length,80000.0,http://www.wikidata.org/entity/Q85975053
+LIBSRC-LIB44-ENT-VEH-0090371,dimension_length,116000.0,http://www.wikidata.org/entity/Q16172037
+LIBSRC-LIB44-ENT-VEH-0103393,dimension_length,277000.0,http://www.wikidata.org/entity/Q52353645
+LIBSRC-LIB44-ENT-VEH-0103471,dimension_length,228000.0,http://www.wikidata.org/entity/Q52354571
+LIBSRC-LIB44-ENT-VEH-0103497,dimension_length,229000.0,http://www.wikidata.org/entity/Q52354868
+LIBSRC-LIB44-ENT-VEH-0103714,dimension_length,73000.0,http://www.wikidata.org/entity/Q52377216
+LIBSRC-LIB44-ENT-VEH-0118710,dimension_length,105500.0,http://www.wikidata.org/entity/Q83551555
+LIBSRC-LIB44-ENT-VEH-0119970,dimension_length,27000.0,http://www.wikidata.org/entity/Q83583882
+LIBSRC-LIB44-ENT-VEH-0120256,dimension_length,289000.0,http://www.wikidata.org/entity/Q83588358
+LIBSRC-LIB44-ENT-VEH-0120335,dimension_length,127210.0,http://www.wikidata.org/entity/Q83589744
+LIBSRC-LIB44-ENT-VEH-0120487,dimension_length,210000.0,http://www.wikidata.org/entity/Q83591953
+LIBSRC-LIB44-ENT-VEH-0120814,dimension_length,252000.0,http://www.wikidata.org/entity/Q83596409
+LIBSRC-LIB44-ENT-VEH-0120814,draft,15000.0,http://www.wikidata.org/entity/Q83596409
+LIBSRC-LIB44-ENT-VEH-0120831,dimension_length,229000.0,http://www.wikidata.org/entity/Q83596610
+LIBSRC-LIB44-ENT-VEH-0120831,draft,14100.0,http://www.wikidata.org/entity/Q83596610
+LIBSRC-LIB44-ENT-VEH-0120973,dimension_length,165000.0,http://www.wikidata.org/entity/Q83598776
+LIBSRC-LIB44-ENT-VEH-0121042,dimension_length,183000.0,http://www.wikidata.org/entity/Q83599736
+LIBSRC-LIB44-ENT-VEH-0121119,dimension_length,99620.0,http://www.wikidata.org/entity/Q83600830
+LIBSRC-LIB44-ENT-VEH-0121119,draft,5917.0,http://www.wikidata.org/entity/Q83600830
+LIBSRC-LIB44-ENT-VEH-0121913,dimension_length,24000.0,http://www.wikidata.org/entity/Q83626480
+LIBSRC-LIB44-ENT-VEH-0121972,dimension_length,182500.0,http://www.wikidata.org/entity/Q83626665
+LIBSRC-LIB44-ENT-VEH-0122365,dimension_length,88560.0,http://www.wikidata.org/entity/Q83627946
+LIBSRC-LIB44-ENT-VEH-0122365,draft,4360.0,http://www.wikidata.org/entity/Q83627946
+LIBSRC-LIB44-ENT-VEH-0122638,dimension_length,80000.0,http://www.wikidata.org/entity/Q83628526
+LIBSRC-LIB44-ENT-VEH-0122744,dimension_length,128600.0,http://www.wikidata.org/entity/Q83628800
+LIBSRC-LIB44-ENT-VEH-0122779,dimension_length,20000.0,http://www.wikidata.org/entity/Q83628891
+LIBSRC-LIB44-ENT-VEH-0123273,dimension_length,93400.0,http://www.wikidata.org/entity/Q83631362
+LIBSRC-LIB44-ENT-VEH-0123358,dimension_length,182550.0,http://www.wikidata.org/entity/Q83631476
+LIBSRC-LIB44-ENT-VEH-0123728,dimension_length,272020.0,http://www.wikidata.org/entity/Q83632009
+LIBSRC-LIB44-ENT-VEH-0123728,draft,13200.0,http://www.wikidata.org/entity/Q83632009
+LIBSRC-LIB44-ENT-VEH-0010407,dimension_length,190000.0,http://www.wikidata.org/entity/Q100417338
+LIBSRC-LIB44-ENT-VEH-0010407,draft,12540.0,http://www.wikidata.org/entity/Q100417338
+LIBSRC-LIB44-ENT-VEH-0010801,dimension_length,228740.0,http://www.wikidata.org/entity/Q101892886
+LIBSRC-LIB44-ENT-VEH-0010801,draft,10000.0,http://www.wikidata.org/entity/Q101892886
+LIBSRC-LIB44-ENT-VEH-0010807,dimension_length,183000.0,http://www.wikidata.org/entity/Q101893507
+LIBSRC-LIB44-ENT-VEH-0010807,draft,13090.0,http://www.wikidata.org/entity/Q101893507
+LIBSRC-LIB44-ENT-VEH-0034576,dimension_length,278900.0,http://www.wikidata.org/entity/Q105303324
+LIBSRC-LIB44-ENT-VEH-0034591,dimension_length,65000.0,http://www.wikidata.org/entity/Q105303344
+LIBSRC-LIB44-ENT-VEH-0034604,dimension_length,183000.0,http://www.wikidata.org/entity/Q105303364
+LIBSRC-LIB44-ENT-VEH-0034609,dimension_length,189900.0,http://www.wikidata.org/entity/Q105303370
+LIBSRC-LIB44-ENT-VEH-0034612,dimension_length,168800.0,http://www.wikidata.org/entity/Q105303374
+LIBSRC-LIB44-ENT-VEH-0034623,dimension_length,80000.0,http://www.wikidata.org/entity/Q105303400
+LIBSRC-LIB44-ENT-VEH-0034662,dimension_length,189900.0,http://www.wikidata.org/entity/Q105303491
+LIBSRC-LIB44-ENT-VEH-0034663,dimension_length,189900.0,http://www.wikidata.org/entity/Q105303492
+LIBSRC-LIB44-ENT-VEH-0034665,dimension_length,189900.0,http://www.wikidata.org/entity/Q105303495
+LIBSRC-LIB44-ENT-VEH-0034717,dimension_length,228000.0,http://www.wikidata.org/entity/Q105321464
+LIBSRC-LIB44-ENT-VEH-0034740,dimension_length,289000.0,http://www.wikidata.org/entity/Q105321501
+LIBSRC-LIB44-ENT-VEH-0034750,dimension_length,211800.0,http://www.wikidata.org/entity/Q105321513
+LIBSRC-LIB44-ENT-VEH-0034792,dimension_length,293100.0,http://www.wikidata.org/entity/Q105321575
+LIBSRC-LIB44-ENT-VEH-0034856,dimension_length,229000.0,http://www.wikidata.org/entity/Q105321664
+LIBSRC-LIB44-ENT-VEH-0034884,dimension_length,263200.0,http://www.wikidata.org/entity/Q105321700
+LIBSRC-LIB44-ENT-VEH-0034901,dimension_length,229900.0,http://www.wikidata.org/entity/Q105333666
+LIBSRC-LIB44-ENT-VEH-0034911,dimension_length,179900.0,http://www.wikidata.org/entity/Q105333678
+LIBSRC-LIB44-ENT-VEH-0034961,dimension_length,263200.0,http://www.wikidata.org/entity/Q105333746
+LIBSRC-LIB44-ENT-VEH-0035010,dimension_length,79990.0,http://www.wikidata.org/entity/Q105333836
+LIBSRC-LIB44-ENT-VEH-0035033,dimension_length,70700.0,http://www.wikidata.org/entity/Q105333869
+LIBSRC-LIB44-ENT-VEH-0035057,dimension_length,222100.0,http://www.wikidata.org/entity/Q105333907
+LIBSRC-LIB44-ENT-VEH-0035058,dimension_length,221000.0,http://www.wikidata.org/entity/Q105333908
+LIBSRC-LIB44-ENT-VEH-0035058,draft,12000.0,http://www.wikidata.org/entity/Q105333908
+LIBSRC-LIB44-ENT-VEH-0035059,dimension_length,222100.0,http://www.wikidata.org/entity/Q105333909
+LIBSRC-LIB44-ENT-VEH-0035059,draft,12000.0,http://www.wikidata.org/entity/Q105333909
+LIBSRC-LIB44-ENT-VEH-0035384,dimension_length,119100.0,http://www.wikidata.org/entity/Q105764290
+LIBSRC-LIB44-ENT-VEH-0035398,dimension_length,124000.0,http://www.wikidata.org/entity/Q105764306
+LIBSRC-LIB44-ENT-VEH-0035420,dimension_length,175500.0,http://www.wikidata.org/entity/Q105764330
+LIBSRC-LIB44-ENT-VEH-0035449,dimension_length,99890.0,http://www.wikidata.org/entity/Q105764363
+LIBSRC-LIB44-ENT-VEH-0035552,dimension_length,193000.0,http://www.wikidata.org/entity/Q105764483
+LIBSRC-LIB44-ENT-VEH-0035570,dimension_length,149300.0,http://www.wikidata.org/entity/Q105764509
+LIBSRC-LIB44-ENT-VEH-0035582,dimension_length,189900.0,http://www.wikidata.org/entity/Q105764524
+LIBSRC-LIB44-ENT-VEH-0035627,dimension_length,134100.0,http://www.wikidata.org/entity/Q105764577
+LIBSRC-LIB44-ENT-VEH-0035771,dimension_length,299900.0,http://www.wikidata.org/entity/Q105764760
+LIBSRC-LIB44-ENT-VEH-0035894,dimension_length,127600.0,http://www.wikidata.org/entity/Q105764911
+LIBSRC-LIB44-ENT-VEH-0035905,dimension_length,117700.0,http://www.wikidata.org/entity/Q105764923
+LIBSRC-LIB44-ENT-VEH-0035978,dimension_length,58700.0,http://www.wikidata.org/entity/Q105765010
+LIBSRC-LIB44-ENT-VEH-0036035,dimension_length,189900.0,http://www.wikidata.org/entity/Q105765081
+LIBSRC-LIB44-ENT-VEH-0036038,dimension_length,120000.0,http://www.wikidata.org/entity/Q105765084
+LIBSRC-LIB44-ENT-VEH-0036062,dimension_length,73600.0,http://www.wikidata.org/entity/Q105765115
+LIBSRC-LIB44-ENT-VEH-0036069,dimension_length,108300.0,http://www.wikidata.org/entity/Q105765123
+LIBSRC-LIB44-ENT-VEH-0036133,dimension_length,224900.0,http://www.wikidata.org/entity/Q105765210
+LIBSRC-LIB44-ENT-VEH-0036140,dimension_length,249900.0,http://www.wikidata.org/entity/Q105765217
+LIBSRC-LIB44-ENT-VEH-0036165,dimension_length,65000.0,http://www.wikidata.org/entity/Q105765242
+LIBSRC-LIB44-ENT-VEH-0036203,dimension_length,70560.0,http://www.wikidata.org/entity/Q105765287
+LIBSRC-LIB44-ENT-VEH-0036209,dimension_length,86000.0,http://www.wikidata.org/entity/Q105765293
+LIBSRC-LIB44-ENT-VEH-0036218,dimension_length,87250.0,http://www.wikidata.org/entity/Q105765305
+LIBSRC-LIB44-ENT-VEH-0036235,dimension_length,299900.0,http://www.wikidata.org/entity/Q105765326
+LIBSRC-LIB44-ENT-VEH-0036340,dimension_length,169200.0,http://www.wikidata.org/entity/Q105765453
+LIBSRC-LIB44-ENT-VEH-0036347,dimension_length,102800.0,http://www.wikidata.org/entity/Q105765474
+LIBSRC-LIB44-ENT-VEH-0036395,dimension_length,105000.0,http://www.wikidata.org/entity/Q105765572
+LIBSRC-LIB44-ENT-VEH-0036414,dimension_length,59200.0,http://www.wikidata.org/entity/Q105765597
+LIBSRC-LIB44-ENT-VEH-0036419,dimension_length,139600.0,http://www.wikidata.org/entity/Q105765603
+LIBSRC-LIB44-ENT-VEH-0036432,dimension_length,81200.0,http://www.wikidata.org/entity/Q105765616
+LIBSRC-LIB44-ENT-VEH-0036461,dimension_length,81200.0,http://www.wikidata.org/entity/Q105765652
+LIBSRC-LIB44-ENT-VEH-0036531,dimension_length,70050.0,http://www.wikidata.org/entity/Q105765730
+LIBSRC-LIB44-ENT-VEH-0036549,dimension_length,79990.0,http://www.wikidata.org/entity/Q105765750
+LIBSRC-LIB44-ENT-VEH-0036584,dimension_length,64000.0,http://www.wikidata.org/entity/Q105765794
+LIBSRC-LIB44-ENT-VEH-0036655,dimension_length,88000.0,http://www.wikidata.org/entity/Q105765883
+LIBSRC-LIB44-ENT-VEH-0036782,dimension_length,98000.0,http://www.wikidata.org/entity/Q105766056
+LIBSRC-LIB44-ENT-VEH-0036833,dimension_length,106000.0,http://www.wikidata.org/entity/Q105766127
+LIBSRC-LIB44-ENT-VEH-0036838,dimension_length,103800.0,http://www.wikidata.org/entity/Q105766134
+LIBSRC-LIB44-ENT-VEH-0036931,dimension_length,59250.0,http://www.wikidata.org/entity/Q105766278
+LIBSRC-LIB44-ENT-VEH-0036970,dimension_length,87800.0,http://www.wikidata.org/entity/Q105766345
+LIBSRC-LIB44-ENT-VEH-0040678,dimension_length,108000.0,http://www.wikidata.org/entity/Q107070433
+LIBSRC-LIB44-ENT-VEH-0042399,dimension_length,177000.0,http://www.wikidata.org/entity/Q110943647
+LIBSRC-LIB44-ENT-VEH-0050570,dimension_length,287000.0,http://www.wikidata.org/entity/Q117024205
+LIBSRC-LIB44-ENT-VEH-0050648,dimension_length,229000.0,http://www.wikidata.org/entity/Q117024287
+LIBSRC-LIB44-ENT-VEH-0050783,dimension_length,250000.0,http://www.wikidata.org/entity/Q117024440
+LIBSRC-LIB44-ENT-VEH-0050816,dimension_length,189000.0,http://www.wikidata.org/entity/Q117024478
+LIBSRC-LIB44-ENT-VEH-0050913,dimension_length,179000.0,http://www.wikidata.org/entity/Q117024584
+LIBSRC-LIB44-ENT-VEH-0050949,dimension_length,178000.0,http://www.wikidata.org/entity/Q117024626
+LIBSRC-LIB44-ENT-VEH-0050953,dimension_length,176000.0,http://www.wikidata.org/entity/Q117024630
+LIBSRC-LIB44-ENT-VEH-0050975,dimension_length,329000.0,http://www.wikidata.org/entity/Q117024652
+LIBSRC-LIB44-ENT-VEH-0051006,dimension_length,225000.0,http://www.wikidata.org/entity/Q117024684
+LIBSRC-LIB44-ENT-VEH-0051047,dimension_length,189000.0,http://www.wikidata.org/entity/Q117024728
+LIBSRC-LIB44-ENT-VEH-0051060,dimension_length,169000.0,http://www.wikidata.org/entity/Q117024742
+LIBSRC-LIB44-ENT-VEH-0055489,dimension_length,70000.0,http://www.wikidata.org/entity/Q117066508
+LIBSRC-LIB44-ENT-VEH-0057735,dimension_length,39000.0,http://www.wikidata.org/entity/Q117072645
+LIBSRC-LIB44-ENT-VEH-0057760,dimension_length,88000.0,http://www.wikidata.org/entity/Q117072683
+LIBSRC-LIB44-ENT-VEH-0059612,dimension_length,71000.0,http://www.wikidata.org/entity/Q117078063
+LIBSRC-LIB44-ENT-VEH-0060644,dimension_length,70000.0,http://www.wikidata.org/entity/Q117080889
+LIBSRC-LIB44-ENT-VEH-0060649,dimension_length,70000.0,http://www.wikidata.org/entity/Q117080894
+LIBSRC-LIB44-ENT-VEH-0060709,dimension_length,82000.0,http://www.wikidata.org/entity/Q117080956
+LIBSRC-LIB44-ENT-VEH-0060759,dimension_length,68000.0,http://www.wikidata.org/entity/Q117081021
+LIBSRC-LIB44-ENT-VEH-0062184,dimension_length,108000.0,http://www.wikidata.org/entity/Q117102352
+LIBSRC-LIB44-ENT-VEH-0124631,dimension_length,178860.0,http://www.wikidata.org/entity/Q83637850
+LIBSRC-LIB44-ENT-VEH-0124705,dimension_length,182550.0,http://www.wikidata.org/entity/Q83637979
+LIBSRC-LIB44-ENT-VEH-0124705,draft,10850.0,http://www.wikidata.org/entity/Q83637979
+LIBSRC-LIB44-ENT-VEH-0124748,dimension_length,134440.0,http://www.wikidata.org/entity/Q83638048
+LIBSRC-LIB44-ENT-VEH-0124748,draft,8710.0,http://www.wikidata.org/entity/Q83638048
+LIBSRC-LIB44-ENT-VEH-0124931,dimension_length,106120.0,http://www.wikidata.org/entity/Q83638375
+LIBSRC-LIB44-ENT-VEH-0124931,draft,6140.0,http://www.wikidata.org/entity/Q83638375
+LIBSRC-LIB44-ENT-VEH-0125117,dimension_length,289500.0,http://www.wikidata.org/entity/Q83638693
+LIBSRC-LIB44-ENT-VEH-0125328,dimension_length,143000.0,http://www.wikidata.org/entity/Q83639042
+LIBSRC-LIB44-ENT-VEH-0125495,dimension_length,70900.0,http://www.wikidata.org/entity/Q83639359
+LIBSRC-LIB44-ENT-VEH-0125609,dimension_length,141730.0,http://www.wikidata.org/entity/Q83639535
+LIBSRC-LIB44-ENT-VEH-0125609,draft,7350.0,http://www.wikidata.org/entity/Q83639535
+LIBSRC-LIB44-ENT-VEH-0125783,dimension_length,289000.0,http://www.wikidata.org/entity/Q83639837
+LIBSRC-LIB44-ENT-VEH-0125783,draft,18200.0,http://www.wikidata.org/entity/Q83639837
+LIBSRC-LIB44-ENT-VEH-0125784,dimension_length,183000.0,http://www.wikidata.org/entity/Q83639838
+LIBSRC-LIB44-ENT-VEH-0125784,draft,10850.0,http://www.wikidata.org/entity/Q83639838
+LIBSRC-LIB44-ENT-VEH-0126526,dimension_length,91440.0,http://www.wikidata.org/entity/Q83641114
+LIBSRC-LIB44-ENT-VEH-0126530,dimension_length,183000.0,http://www.wikidata.org/entity/Q83641124
+LIBSRC-LIB44-ENT-VEH-0126530,draft,13130.0,http://www.wikidata.org/entity/Q83641124
+LIBSRC-LIB44-ENT-VEH-0126741,dimension_length,323000.0,http://www.wikidata.org/entity/Q83641557
+LIBSRC-LIB44-ENT-VEH-0126741,draft,14500.0,http://www.wikidata.org/entity/Q83641557
+LIBSRC-LIB44-ENT-VEH-0126777,dimension_length,292080.0,http://www.wikidata.org/entity/Q83641631
+LIBSRC-LIB44-ENT-VEH-0127649,dimension_length,20700.0,http://www.wikidata.org/entity/Q83643260
+LIBSRC-LIB44-ENT-VEH-0128736,dimension_length,189990.0,http://www.wikidata.org/entity/Q83646978
+LIBSRC-LIB44-ENT-VEH-0128750,dimension_length,34200.0,http://www.wikidata.org/entity/Q83647025
+LIBSRC-LIB44-ENT-VEH-0128980,dimension_length,188500.0,http://www.wikidata.org/entity/Q83647824
+LIBSRC-LIB44-ENT-VEH-0129645,dimension_length,17700.0,http://www.wikidata.org/entity/Q83649810
+LIBSRC-LIB44-ENT-VEH-0129853,dimension_length,48330.0,http://www.wikidata.org/entity/Q83650390
+LIBSRC-LIB44-ENT-VEH-0131198,dimension_length,304000.0,http://www.wikidata.org/entity/Q84228612
+LIBSRC-LIB44-ENT-VEH-0131198,draft,14000.0,http://www.wikidata.org/entity/Q84228612
+LIBSRC-LIB44-ENT-VEH-0131425,dimension_length,49980.0,http://www.wikidata.org/entity/Q84231707
+LIBSRC-LIB44-ENT-VEH-0131425,draft,3120.0,http://www.wikidata.org/entity/Q84231707
+LIBSRC-LIB44-ENT-VEH-0132112,dimension_length,179900.0,http://www.wikidata.org/entity/Q84253919
+LIBSRC-LIB44-ENT-VEH-0132112,draft,12430.0,http://www.wikidata.org/entity/Q84253919
+LIBSRC-LIB44-ENT-VEH-0133177,dimension_length,59250.0,http://www.wikidata.org/entity/Q84257150
+LIBSRC-LIB44-ENT-VEH-0133177,draft,4950.0,http://www.wikidata.org/entity/Q84257150
+LIBSRC-LIB44-ENT-VEH-0133197,dimension_length,62850.0,http://www.wikidata.org/entity/Q84257192
+LIBSRC-LIB44-ENT-VEH-0133197,draft,5100.0,http://www.wikidata.org/entity/Q84257192
+LIBSRC-LIB44-ENT-VEH-0133866,dimension_length,30000.0,http://www.wikidata.org/entity/Q84259945
+LIBSRC-LIB44-ENT-VEH-0133866,draft,3500.0,http://www.wikidata.org/entity/Q84259945
+LIBSRC-LIB44-ENT-VEH-0134245,dimension_length,222160.0,http://www.wikidata.org/entity/Q84260930
+LIBSRC-LIB44-ENT-VEH-0134245,draft,12000.0,http://www.wikidata.org/entity/Q84260930
+LIBSRC-LIB44-ENT-VEH-0134255,dimension_length,124800.0,http://www.wikidata.org/entity/Q84260963
+LIBSRC-LIB44-ENT-VEH-0134255,draft,6762.0,http://www.wikidata.org/entity/Q84260963
+LIBSRC-LIB44-ENT-VEH-0134263,dimension_length,147840.0,http://www.wikidata.org/entity/Q84260993
+LIBSRC-LIB44-ENT-VEH-0134263,draft,8506.0,http://www.wikidata.org/entity/Q84260993
+LIBSRC-LIB44-ENT-VEH-0134266,dimension_length,207400.0,http://www.wikidata.org/entity/Q84261000
+LIBSRC-LIB44-ENT-VEH-0134266,draft,11400.0,http://www.wikidata.org/entity/Q84261000
+LIBSRC-LIB44-ENT-VEH-0134288,dimension_length,175520.0,http://www.wikidata.org/entity/Q84261029
+LIBSRC-LIB44-ENT-VEH-0134288,draft,10900.0,http://www.wikidata.org/entity/Q84261029
+LIBSRC-LIB44-ENT-VEH-0134289,dimension_length,230900.0,http://www.wikidata.org/entity/Q84261032
+LIBSRC-LIB44-ENT-VEH-0134289,draft,12000.0,http://www.wikidata.org/entity/Q84261032
+LIBSRC-LIB44-ENT-VEH-0134304,dimension_length,26000.0,http://www.wikidata.org/entity/Q84261057
+LIBSRC-LIB44-ENT-VEH-0134304,draft,3000.0,http://www.wikidata.org/entity/Q84261057
+LIBSRC-LIB44-ENT-VEH-0134393,dimension_length,170080.0,http://www.wikidata.org/entity/Q84261305
+LIBSRC-LIB44-ENT-VEH-0134393,draft,9500.0,http://www.wikidata.org/entity/Q84261305
+LIBSRC-LIB44-ENT-VEH-0134443,dimension_length,170030.0,http://www.wikidata.org/entity/Q84261466
+LIBSRC-LIB44-ENT-VEH-0134443,draft,9500.0,http://www.wikidata.org/entity/Q84261466
+LIBSRC-LIB44-ENT-VEH-0135253,dimension_length,117000.0,http://www.wikidata.org/entity/Q84264418
+LIBSRC-LIB44-ENT-VEH-0135253,draft,6000.0,http://www.wikidata.org/entity/Q84264418
+LIBSRC-LIB44-ENT-VEH-0135308,dimension_length,67000.0,http://www.wikidata.org/entity/Q84264586
+LIBSRC-LIB44-ENT-VEH-0135308,draft,5950.0,http://www.wikidata.org/entity/Q84264586
+LIBSRC-LIB44-ENT-VEH-0135310,dimension_length,46500.0,http://www.wikidata.org/entity/Q84264590
+LIBSRC-LIB44-ENT-VEH-0135310,draft,2250.0,http://www.wikidata.org/entity/Q84264590
+LIBSRC-LIB44-ENT-VEH-0136014,dimension_length,51400.0,http://www.wikidata.org/entity/Q84709853
+LIBSRC-LIB44-ENT-VEH-0137741,dimension_length,120000.0,http://www.wikidata.org/entity/Q85974343
+LIBSRC-LIB44-ENT-VEH-0137761,dimension_length,36800.0,http://www.wikidata.org/entity/Q85974678
+LIBSRC-LIB44-ENT-VEH-0137762,dimension_length,29000.0,http://www.wikidata.org/entity/Q85974708
+LIBSRC-LIB44-ENT-VEH-0137779,dimension_length,49880.0,http://www.wikidata.org/entity/Q85974978
+LIBSRC-LIB44-ENT-VEH-0137791,dimension_length,76120.0,http://www.wikidata.org/entity/Q85975077
+LIBSRC-LIB44-ENT-VEH-0137934,dimension_length,28200.0,http://www.wikidata.org/entity/Q85977508
+LIBSRC-LIB44-ENT-VEH-0137940,dimension_length,69370.0,http://www.wikidata.org/entity/Q85977579
+LIBSRC-LIB44-ENT-VEH-0137962,dimension_length,42900.0,http://www.wikidata.org/entity/Q85977926
+LIBSRC-LIB44-ENT-VEH-0138068,dimension_length,27400.0,http://www.wikidata.org/entity/Q85979008
+LIBSRC-LIB44-ENT-VEH-0138088,dimension_length,48000.0,http://www.wikidata.org/entity/Q85979191
+LIBSRC-LIB44-ENT-VEH-0138123,dimension_length,31850.0,http://www.wikidata.org/entity/Q85979555
+LIBSRC-LIB44-ENT-VEH-0138163,dimension_length,59250.0,http://www.wikidata.org/entity/Q85979940
+LIBSRC-LIB44-ENT-VEH-0138172,dimension_length,45000.0,http://www.wikidata.org/entity/Q85980015
+LIBSRC-LIB44-ENT-VEH-0138202,dimension_length,37540.0,http://www.wikidata.org/entity/Q85980264
+LIBSRC-LIB44-ENT-VEH-0138226,dimension_length,66210.0,http://www.wikidata.org/entity/Q85980469
+LIBSRC-LIB44-ENT-VEH-0138306,dimension_length,86000.0,http://www.wikidata.org/entity/Q85981230
+LIBSRC-LIB44-ENT-VEH-0138312,dimension_length,57000.0,http://www.wikidata.org/entity/Q85981289
+LIBSRC-LIB44-ENT-VEH-0138410,dimension_length,97530.0,http://www.wikidata.org/entity/Q85982295
+LIBSRC-LIB44-ENT-VEH-0138411,dimension_length,72080.0,http://www.wikidata.org/entity/Q85982302
+LIBSRC-LIB44-ENT-VEH-0138472,dimension_length,32000.0,http://www.wikidata.org/entity/Q85982917
+LIBSRC-LIB44-ENT-VEH-0138501,dimension_length,30760.0,http://www.wikidata.org/entity/Q85983324
+LIBSRC-LIB44-ENT-VEH-0138503,dimension_length,45000.0,http://www.wikidata.org/entity/Q85983344
+LIBSRC-LIB44-ENT-VEH-0138504,dimension_length,28000.0,http://www.wikidata.org/entity/Q85983357
+LIBSRC-LIB44-ENT-VEH-0138595,dimension_length,99900.0,http://www.wikidata.org/entity/Q85984479
+LIBSRC-LIB44-ENT-VEH-0138637,dimension_length,81000.0,http://www.wikidata.org/entity/Q85984972
+LIBSRC-LIB44-ENT-VEH-0138697,dimension_length,39110.0,http://www.wikidata.org/entity/Q85985716
+LIBSRC-LIB44-ENT-VEH-0138745,dimension_length,36800.0,http://www.wikidata.org/entity/Q85986250
+LIBSRC-LIB44-ENT-VEH-0138755,dimension_length,58000.0,http://www.wikidata.org/entity/Q85986326
+LIBSRC-LIB44-ENT-VEH-0138925,dimension_length,65129.99999999999,http://www.wikidata.org/entity/Q85988306
+LIBSRC-LIB44-ENT-VEH-0139168,dimension_length,75400.0,http://www.wikidata.org/entity/Q86059440
+LIBSRC-LIB44-ENT-VEH-0139196,dimension_length,31430.0,http://www.wikidata.org/entity/Q86059550
+LIBSRC-LIB44-ENT-VEH-0139197,dimension_length,79000.0,http://www.wikidata.org/entity/Q86059553
+LIBSRC-LIB44-ENT-VEH-0139225,dimension_length,80600.0,http://www.wikidata.org/entity/Q86059659
+LIBSRC-LIB44-ENT-VEH-0139518,dimension_length,31100.0,http://www.wikidata.org/entity/Q86060550
+LIBSRC-LIB44-ENT-VEH-0139917,dimension_length,29600.0,http://www.wikidata.org/entity/Q86062174
+LIBSRC-LIB44-ENT-VEH-0140917,dimension_length,89120.0,http://www.wikidata.org/entity/Q901855
+LIBSRC-LIB44-ENT-VEH-0091802,dimension_length,130449.99999999999,http://www.wikidata.org/entity/Q18632467
+LIBSRC-LIB44-ENT-VEH-0091802,draft,5980.0,http://www.wikidata.org/entity/Q18632467
+LIBSRC-LIB44-ENT-VEH-0092039,dimension_length,205000.0,http://www.wikidata.org/entity/Q18763147
+LIBSRC-LIB44-ENT-VEH-0092263,dimension_length,23000.0,http://www.wikidata.org/entity/Q19380742
+LIBSRC-LIB44-ENT-VEH-0092841,dimension_length,182600.0,http://www.wikidata.org/entity/Q20576332
+LIBSRC-LIB44-ENT-VEH-0092841,draft,11220.0,http://www.wikidata.org/entity/Q20576332
+LIBSRC-LIB44-ENT-VEH-0098229,dimension_length,96000.0,http://www.wikidata.org/entity/Q3796510
+LIBSRC-LIB44-ENT-VEH-0100088,dimension_length,183000.0,http://www.wikidata.org/entity/Q47519886
+LIBSRC-LIB44-ENT-VEH-0103511,dimension_length,324800.0,http://www.wikidata.org/entity/Q52355055
+LIBSRC-LIB44-ENT-VEH-0103511,draft,14500.0,http://www.wikidata.org/entity/Q52355055
+LIBSRC-LIB44-ENT-VEH-0103514,dimension_length,335410.0,http://www.wikidata.org/entity/Q52355086
+LIBSRC-LIB44-ENT-VEH-0103514,draft,14000.0,http://www.wikidata.org/entity/Q52355086
+LIBSRC-LIB44-ENT-VEH-0103533,dimension_length,334000.0,http://www.wikidata.org/entity/Q52375062
+LIBSRC-LIB44-ENT-VEH-0103533,draft,14500.0,http://www.wikidata.org/entity/Q52375062
+LIBSRC-LIB44-ENT-VEH-0103574,dimension_length,147000.0,http://www.wikidata.org/entity/Q52375324
+LIBSRC-LIB44-ENT-VEH-0103617,dimension_length,179000.0,http://www.wikidata.org/entity/Q52375639
+LIBSRC-LIB44-ENT-VEH-0103619,dimension_length,229000.0,http://www.wikidata.org/entity/Q52375650
+LIBSRC-LIB44-ENT-VEH-0103659,dimension_length,28000.0,http://www.wikidata.org/entity/Q52375889
+LIBSRC-LIB44-ENT-VEH-0103659,draft,5800.0,http://www.wikidata.org/entity/Q52375889
+LIBSRC-LIB44-ENT-VEH-0103734,dimension_length,134440.0,http://www.wikidata.org/entity/Q52377339
+LIBSRC-LIB44-ENT-VEH-0103734,draft,8710.0,http://www.wikidata.org/entity/Q52377339
+LIBSRC-LIB44-ENT-VEH-0104688,dimension_length,78000.0,http://www.wikidata.org/entity/Q52512686
+LIBSRC-LIB44-ENT-VEH-0104689,dimension_length,74000.0,http://www.wikidata.org/entity/Q52512698
+LIBSRC-LIB44-ENT-VEH-0109340,dimension_length,190000.0,http://www.wikidata.org/entity/Q60392672
+LIBSRC-LIB44-ENT-VEH-0109340,draft,12540.0,http://www.wikidata.org/entity/Q60392672
+LIBSRC-LIB44-ENT-VEH-0118788,dimension_length,22350.0,http://www.wikidata.org/entity/Q83563300
+LIBSRC-LIB44-ENT-VEH-0118935,dimension_length,199990.0,http://www.wikidata.org/entity/Q83566656
+LIBSRC-LIB44-ENT-VEH-0119063,dimension_length,180000.0,http://www.wikidata.org/entity/Q83569066
+LIBSRC-LIB44-ENT-VEH-0119119,dimension_length,27700.0,http://www.wikidata.org/entity/Q83570026
+LIBSRC-LIB44-ENT-VEH-0119254,dimension_length,58000.0,http://www.wikidata.org/entity/Q83571916
+LIBSRC-LIB44-ENT-VEH-0120069,dimension_length,87900.0,http://www.wikidata.org/entity/Q83585469
+LIBSRC-LIB44-ENT-VEH-0120069,draft,5300.0,http://www.wikidata.org/entity/Q83585469
+LIBSRC-LIB44-ENT-VEH-0120536,dimension_length,55400.0,http://www.wikidata.org/entity/Q83592625
+LIBSRC-LIB44-ENT-VEH-0120752,dimension_length,289000.0,http://www.wikidata.org/entity/Q83595510
+LIBSRC-LIB44-ENT-VEH-0120752,draft,16500.0,http://www.wikidata.org/entity/Q83595510
+LIBSRC-LIB44-ENT-VEH-0120965,dimension_length,171000.0,http://www.wikidata.org/entity/Q83598657
+LIBSRC-LIB44-ENT-VEH-0120965,draft,10750.0,http://www.wikidata.org/entity/Q83598657
+LIBSRC-LIB44-ENT-VEH-0121220,dimension_length,88100.0,http://www.wikidata.org/entity/Q83602095
+LIBSRC-LIB44-ENT-VEH-0121325,dimension_length,284710.0,http://www.wikidata.org/entity/Q83603366
+LIBSRC-LIB44-ENT-VEH-0121691,dimension_length,22000.0,http://www.wikidata.org/entity/Q83608690
+LIBSRC-LIB44-ENT-VEH-0121753,dimension_length,145530.0,http://www.wikidata.org/entity/Q83609463
+LIBSRC-LIB44-ENT-VEH-0121753,draft,9660.0,http://www.wikidata.org/entity/Q83609463
+LIBSRC-LIB44-ENT-VEH-0121775,dimension_length,183000.0,http://www.wikidata.org/entity/Q83609817
+LIBSRC-LIB44-ENT-VEH-0121794,dimension_length,189990.0,http://www.wikidata.org/entity/Q83610086
+LIBSRC-LIB44-ENT-VEH-0121809,dimension_length,147830.0,http://www.wikidata.org/entity/Q83610359
+LIBSRC-LIB44-ENT-VEH-0122285,dimension_length,30300.0,http://www.wikidata.org/entity/Q83627762
+LIBSRC-LIB44-ENT-VEH-0122315,dimension_length,183000.0,http://www.wikidata.org/entity/Q83627831
+LIBSRC-LIB44-ENT-VEH-0122554,dimension_length,31900.0,http://www.wikidata.org/entity/Q83628347
+LIBSRC-LIB44-ENT-VEH-0122924,dimension_length,197400.0,http://www.wikidata.org/entity/Q83629420
+LIBSRC-LIB44-ENT-VEH-0123604,dimension_length,41900.0,http://www.wikidata.org/entity/Q83631818
+LIBSRC-LIB44-ENT-VEH-0123625,dimension_length,264010.0,http://www.wikidata.org/entity/Q83631849
+LIBSRC-LIB44-ENT-VEH-0123625,draft,12750.0,http://www.wikidata.org/entity/Q83631849
+LIBSRC-LIB44-ENT-VEH-0123656,dimension_length,336700.0,http://www.wikidata.org/entity/Q83631896
+LIBSRC-LIB44-ENT-VEH-0123656,draft,15000.0,http://www.wikidata.org/entity/Q83631896
+LIBSRC-LIB44-ENT-VEH-0123679,dimension_length,348510.0,http://www.wikidata.org/entity/Q83631937
+LIBSRC-LIB44-ENT-VEH-0123679,draft,14500.0,http://www.wikidata.org/entity/Q83631937
+LIBSRC-LIB44-ENT-VEH-0123807,dimension_length,42980.0,http://www.wikidata.org/entity/Q83632114
+LIBSRC-LIB44-ENT-VEH-0010785,dimension_length,228990.0,http://www.wikidata.org/entity/Q101891583
+LIBSRC-LIB44-ENT-VEH-0010785,draft,14700.0,http://www.wikidata.org/entity/Q101891583
+LIBSRC-LIB44-ENT-VEH-0010822,dimension_length,225000.0,http://www.wikidata.org/entity/Q101895005
+LIBSRC-LIB44-ENT-VEH-0010822,draft,14270.0,http://www.wikidata.org/entity/Q101895005
+LIBSRC-LIB44-ENT-VEH-0034633,dimension_length,176000.0,http://www.wikidata.org/entity/Q105303428
+LIBSRC-LIB44-ENT-VEH-0034670,dimension_length,330000.0,http://www.wikidata.org/entity/Q105303506
+LIBSRC-LIB44-ENT-VEH-0034682,dimension_length,186000.0,http://www.wikidata.org/entity/Q105303529
+LIBSRC-LIB44-ENT-VEH-0034682,draft,8520.0,http://www.wikidata.org/entity/Q105303529
+LIBSRC-LIB44-ENT-VEH-0034684,dimension_length,199900.0,http://www.wikidata.org/entity/Q105303533
+LIBSRC-LIB44-ENT-VEH-0034684,draft,9620.0,http://www.wikidata.org/entity/Q105303533
+LIBSRC-LIB44-ENT-VEH-0034707,dimension_length,222100.0,http://www.wikidata.org/entity/Q105303571
+LIBSRC-LIB44-ENT-VEH-0034720,dimension_length,178800.0,http://www.wikidata.org/entity/Q105321470
+LIBSRC-LIB44-ENT-VEH-0034774,dimension_length,108400.0,http://www.wikidata.org/entity/Q105321543
+LIBSRC-LIB44-ENT-VEH-0034774,draft,6700.0,http://www.wikidata.org/entity/Q105321543
+LIBSRC-LIB44-ENT-VEH-0034822,dimension_length,230700.0,http://www.wikidata.org/entity/Q105321616
+LIBSRC-LIB44-ENT-VEH-0034842,dimension_length,225300.0,http://www.wikidata.org/entity/Q105321643
+LIBSRC-LIB44-ENT-VEH-0034848,dimension_length,189900.0,http://www.wikidata.org/entity/Q105321652
+LIBSRC-LIB44-ENT-VEH-0034912,dimension_length,177000.0,http://www.wikidata.org/entity/Q105333680
+LIBSRC-LIB44-ENT-VEH-0034923,dimension_length,228900.0,http://www.wikidata.org/entity/Q105333693
+LIBSRC-LIB44-ENT-VEH-0034935,dimension_length,289000.0,http://www.wikidata.org/entity/Q105333708
+LIBSRC-LIB44-ENT-VEH-0034966,dimension_length,228600.0,http://www.wikidata.org/entity/Q105333753
+LIBSRC-LIB44-ENT-VEH-0034968,dimension_length,175500.0,http://www.wikidata.org/entity/Q105333757
+LIBSRC-LIB44-ENT-VEH-0035020,dimension_length,182500.0,http://www.wikidata.org/entity/Q105333849
+LIBSRC-LIB44-ENT-VEH-0035020,draft,10850.0,http://www.wikidata.org/entity/Q105333849
+LIBSRC-LIB44-ENT-VEH-0035072,dimension_length,228600.0,http://www.wikidata.org/entity/Q105386811
+LIBSRC-LIB44-ENT-VEH-0035371,dimension_length,333000.0,http://www.wikidata.org/entity/Q105764277
+LIBSRC-LIB44-ENT-VEH-0035380,dimension_length,176800.0,http://www.wikidata.org/entity/Q105764286
+LIBSRC-LIB44-ENT-VEH-0035406,dimension_length,189900.0,http://www.wikidata.org/entity/Q105764314
+LIBSRC-LIB44-ENT-VEH-0035410,dimension_length,199200.0,http://www.wikidata.org/entity/Q105764318
+LIBSRC-LIB44-ENT-VEH-0035440,dimension_length,260600.00000000003,http://www.wikidata.org/entity/Q105764352
+LIBSRC-LIB44-ENT-VEH-0035440,draft,12600.0,http://www.wikidata.org/entity/Q105764352
+LIBSRC-LIB44-ENT-VEH-0035476,dimension_length,228000.0,http://www.wikidata.org/entity/Q105764394
+LIBSRC-LIB44-ENT-VEH-0035507,dimension_length,333000.0,http://www.wikidata.org/entity/Q105764427
+LIBSRC-LIB44-ENT-VEH-0035514,dimension_length,228000.0,http://www.wikidata.org/entity/Q105764435
+LIBSRC-LIB44-ENT-VEH-0035523,dimension_length,113000.0,http://www.wikidata.org/entity/Q105764445
+LIBSRC-LIB44-ENT-VEH-0035524,dimension_length,113000.0,http://www.wikidata.org/entity/Q105764446
+LIBSRC-LIB44-ENT-VEH-0035528,dimension_length,283000.0,http://www.wikidata.org/entity/Q105764451
+LIBSRC-LIB44-ENT-VEH-0035562,dimension_length,149600.0,http://www.wikidata.org/entity/Q105764500
+LIBSRC-LIB44-ENT-VEH-0035626,dimension_length,174200.0,http://www.wikidata.org/entity/Q105764576
+LIBSRC-LIB44-ENT-VEH-0035649,dimension_length,288200.0,http://www.wikidata.org/entity/Q105764610
+LIBSRC-LIB44-ENT-VEH-0035655,dimension_length,120000.0,http://www.wikidata.org/entity/Q105764619
+LIBSRC-LIB44-ENT-VEH-0035656,dimension_length,330000.0,http://www.wikidata.org/entity/Q105764620
+LIBSRC-LIB44-ENT-VEH-0035675,dimension_length,264100.0,http://www.wikidata.org/entity/Q105764644
+LIBSRC-LIB44-ENT-VEH-0035675,draft,12800.0,http://www.wikidata.org/entity/Q105764644
+LIBSRC-LIB44-ENT-VEH-0035676,dimension_length,264100.0,http://www.wikidata.org/entity/Q105764645
+LIBSRC-LIB44-ENT-VEH-0035696,dimension_length,70900.0,http://www.wikidata.org/entity/Q105764675
+LIBSRC-LIB44-ENT-VEH-0035696,draft,5600.0,http://www.wikidata.org/entity/Q105764675
+LIBSRC-LIB44-ENT-VEH-0035709,dimension_length,116500.0,http://www.wikidata.org/entity/Q105764691
+LIBSRC-LIB44-ENT-VEH-0035741,dimension_length,288900.0,http://www.wikidata.org/entity/Q105764726
+LIBSRC-LIB44-ENT-VEH-0035741,draft,17950.0,http://www.wikidata.org/entity/Q105764726
+LIBSRC-LIB44-ENT-VEH-0035806,dimension_length,263200.0,http://www.wikidata.org/entity/Q105764801
+LIBSRC-LIB44-ENT-VEH-0035835,dimension_length,89300.0,http://www.wikidata.org/entity/Q105764840
+LIBSRC-LIB44-ENT-VEH-0035856,dimension_length,79990.0,http://www.wikidata.org/entity/Q105764865
+LIBSRC-LIB44-ENT-VEH-0035856,draft,5150.0,http://www.wikidata.org/entity/Q105764865
+LIBSRC-LIB44-ENT-VEH-0035865,dimension_length,56000.0,http://www.wikidata.org/entity/Q105764877
+LIBSRC-LIB44-ENT-VEH-0035899,dimension_length,183000.0,http://www.wikidata.org/entity/Q105764916
+LIBSRC-LIB44-ENT-VEH-0035909,dimension_length,91500.0,http://www.wikidata.org/entity/Q105764931
+LIBSRC-LIB44-ENT-VEH-0035943,dimension_length,48000.0,http://www.wikidata.org/entity/Q105764966
+LIBSRC-LIB44-ENT-VEH-0035959,dimension_length,224900.0,http://www.wikidata.org/entity/Q105764989
+LIBSRC-LIB44-ENT-VEH-0036050,dimension_length,89990.0,http://www.wikidata.org/entity/Q105765098
+LIBSRC-LIB44-ENT-VEH-0036050,draft,4350.0,http://www.wikidata.org/entity/Q105765098
+LIBSRC-LIB44-ENT-VEH-0036054,dimension_length,67390.0,http://www.wikidata.org/entity/Q105765106
+LIBSRC-LIB44-ENT-VEH-0036058,dimension_length,145500.0,http://www.wikidata.org/entity/Q105765111
+LIBSRC-LIB44-ENT-VEH-0036058,draft,9670.0,http://www.wikidata.org/entity/Q105765111
+LIBSRC-LIB44-ENT-VEH-0036124,dimension_length,142700.0,http://www.wikidata.org/entity/Q105765200
+LIBSRC-LIB44-ENT-VEH-0036137,dimension_length,224900.0,http://www.wikidata.org/entity/Q105765214
+LIBSRC-LIB44-ENT-VEH-0036158,dimension_length,188500.0,http://www.wikidata.org/entity/Q105765235
+LIBSRC-LIB44-ENT-VEH-0036169,dimension_length,147800.0,http://www.wikidata.org/entity/Q105765248
+LIBSRC-LIB44-ENT-VEH-0036217,dimension_length,142000.0,http://www.wikidata.org/entity/Q105765304
+LIBSRC-LIB44-ENT-VEH-0036241,dimension_length,116500.0,http://www.wikidata.org/entity/Q105765332
+LIBSRC-LIB44-ENT-VEH-0036265,dimension_length,150200.0,http://www.wikidata.org/entity/Q105765360
+LIBSRC-LIB44-ENT-VEH-0036300,dimension_length,248900.0,http://www.wikidata.org/entity/Q105765401
+LIBSRC-LIB44-ENT-VEH-0036370,dimension_length,158500.0,http://www.wikidata.org/entity/Q105765518
+LIBSRC-LIB44-ENT-VEH-0036370,draft,10370.0,http://www.wikidata.org/entity/Q105765518
+LIBSRC-LIB44-ENT-VEH-0036388,dimension_length,91450.0,http://www.wikidata.org/entity/Q105765557
+LIBSRC-LIB44-ENT-VEH-0036448,dimension_length,127500.0,http://www.wikidata.org/entity/Q105765638
+LIBSRC-LIB44-ENT-VEH-0036464,dimension_length,127600.0,http://www.wikidata.org/entity/Q105765655
+LIBSRC-LIB44-ENT-VEH-0036514,dimension_length,95880.0,http://www.wikidata.org/entity/Q105765713
+LIBSRC-LIB44-ENT-VEH-0036517,dimension_length,115500.0,http://www.wikidata.org/entity/Q105765716
+LIBSRC-LIB44-ENT-VEH-0036627,dimension_length,71990.0,http://www.wikidata.org/entity/Q105765848
+LIBSRC-LIB44-ENT-VEH-0036674,dimension_length,89730.0,http://www.wikidata.org/entity/Q105765910
+LIBSRC-LIB44-ENT-VEH-0036674,draft,4460.0,http://www.wikidata.org/entity/Q105765910
+LIBSRC-LIB44-ENT-VEH-0036679,dimension_length,57500.0,http://www.wikidata.org/entity/Q105765917
+LIBSRC-LIB44-ENT-VEH-0036750,dimension_length,207400.0,http://www.wikidata.org/entity/Q105766010
+LIBSRC-LIB44-ENT-VEH-0036750,draft,11400.0,http://www.wikidata.org/entity/Q105766010
+LIBSRC-LIB44-ENT-VEH-0036759,dimension_length,225000.0,http://www.wikidata.org/entity/Q105766025
+LIBSRC-LIB44-ENT-VEH-0036771,dimension_length,98000.0,http://www.wikidata.org/entity/Q105766043
+LIBSRC-LIB44-ENT-VEH-0036830,dimension_length,89000.0,http://www.wikidata.org/entity/Q105766124
+LIBSRC-LIB44-ENT-VEH-0036897,dimension_length,54010.0,http://www.wikidata.org/entity/Q105766209
+LIBSRC-LIB44-ENT-VEH-0036915,dimension_length,91270.0,http://www.wikidata.org/entity/Q105766240
+LIBSRC-LIB44-ENT-VEH-0036952,dimension_length,108300.0,http://www.wikidata.org/entity/Q105766324
+LIBSRC-LIB44-ENT-VEH-0036963,dimension_length,158000.0,http://www.wikidata.org/entity/Q105766336
+LIBSRC-LIB44-ENT-VEH-0036988,dimension_length,60000.0,http://www.wikidata.org/entity/Q105766365
+LIBSRC-LIB44-ENT-VEH-0037061,dimension_length,114400.0,http://www.wikidata.org/entity/Q105766476
+LIBSRC-LIB44-ENT-VEH-0037110,dimension_length,88460.0,http://www.wikidata.org/entity/Q105766569
+LIBSRC-LIB44-ENT-VEH-0037194,dimension_length,189900.0,http://www.wikidata.org/entity/Q105766668
+LIBSRC-LIB44-ENT-VEH-0037195,dimension_length,171900.0,http://www.wikidata.org/entity/Q105766669
+LIBSRC-LIB44-ENT-VEH-0037197,dimension_length,169200.0,http://www.wikidata.org/entity/Q105766671
+LIBSRC-LIB44-ENT-VEH-0037219,dimension_length,118000.0,http://www.wikidata.org/entity/Q105766698
+LIBSRC-LIB44-ENT-VEH-0037244,dimension_length,131500.0,http://www.wikidata.org/entity/Q105766731
+LIBSRC-LIB44-ENT-VEH-0037261,dimension_length,81000.0,http://www.wikidata.org/entity/Q105766749
+LIBSRC-LIB44-ENT-VEH-0037323,dimension_length,97180.0,http://www.wikidata.org/entity/Q105766824
+LIBSRC-LIB44-ENT-VEH-0037340,dimension_length,225000.0,http://www.wikidata.org/entity/Q105766846
+LIBSRC-LIB44-ENT-VEH-0037449,dimension_length,60980.0,http://www.wikidata.org/entity/Q105766981
+LIBSRC-LIB44-ENT-VEH-0037508,dimension_length,90320.0,http://www.wikidata.org/entity/Q105767049
+LIBSRC-LIB44-ENT-VEH-0037515,dimension_length,77850.0,http://www.wikidata.org/entity/Q105767056
+LIBSRC-LIB44-ENT-VEH-0038189,dimension_length,88020.0,http://www.wikidata.org/entity/Q105768035
+LIBSRC-LIB44-ENT-VEH-0041699,dimension_length,189990.0,http://www.wikidata.org/entity/Q109354522
+LIBSRC-LIB44-ENT-VEH-0041699,draft,12570.0,http://www.wikidata.org/entity/Q109354522
+LIBSRC-LIB44-ENT-VEH-0124496,dimension_length,228600.0,http://www.wikidata.org/entity/Q83637611
+LIBSRC-LIB44-ENT-VEH-0124521,dimension_length,48000.0,http://www.wikidata.org/entity/Q83637650
+LIBSRC-LIB44-ENT-VEH-0124563,dimension_length,294080.0,http://www.wikidata.org/entity/Q83637714
+LIBSRC-LIB44-ENT-VEH-0124706,dimension_length,199900.0,http://www.wikidata.org/entity/Q83637980
+LIBSRC-LIB44-ENT-VEH-0124706,draft,9630.0,http://www.wikidata.org/entity/Q83637980
+LIBSRC-LIB44-ENT-VEH-0124955,dimension_length,108100.0,http://www.wikidata.org/entity/Q83638411
+LIBSRC-LIB44-ENT-VEH-0124955,draft,6600.0,http://www.wikidata.org/entity/Q83638411
+LIBSRC-LIB44-ENT-VEH-0125474,dimension_length,285000.0,http://www.wikidata.org/entity/Q83639323
+LIBSRC-LIB44-ENT-VEH-0125606,dimension_length,22800.0,http://www.wikidata.org/entity/Q83639530
+LIBSRC-LIB44-ENT-VEH-0126225,dimension_length,99980.0,http://www.wikidata.org/entity/Q83640676
+LIBSRC-LIB44-ENT-VEH-0126376,dimension_length,27400.0,http://www.wikidata.org/entity/Q83640898
+LIBSRC-LIB44-ENT-VEH-0126398,dimension_length,177850.0,http://www.wikidata.org/entity/Q83640926
+LIBSRC-LIB44-ENT-VEH-0126736,dimension_length,333000.0,http://www.wikidata.org/entity/Q83641550
+LIBSRC-LIB44-ENT-VEH-0127243,dimension_length,280540.0,http://www.wikidata.org/entity/Q83642445
+LIBSRC-LIB44-ENT-VEH-0127660,dimension_length,183000.0,http://www.wikidata.org/entity/Q83643281
+LIBSRC-LIB44-ENT-VEH-0127822,dimension_length,138110.0,http://www.wikidata.org/entity/Q83644934
+LIBSRC-LIB44-ENT-VEH-0127822,draft,8000.0,http://www.wikidata.org/entity/Q83644934
+LIBSRC-LIB44-ENT-VEH-0129175,dimension_length,147840.0,http://www.wikidata.org/entity/Q83648472
+LIBSRC-LIB44-ENT-VEH-0131184,dimension_length,71320.0,http://www.wikidata.org/entity/Q84228580
+LIBSRC-LIB44-ENT-VEH-0131184,draft,4876.0,http://www.wikidata.org/entity/Q84228580
+LIBSRC-LIB44-ENT-VEH-0131974,dimension_length,228000.0,http://www.wikidata.org/entity/Q84253625
+LIBSRC-LIB44-ENT-VEH-0131974,draft,14476.0,http://www.wikidata.org/entity/Q84253625
+LIBSRC-LIB44-ENT-VEH-0133174,dimension_length,48200.0,http://www.wikidata.org/entity/Q84257143
+LIBSRC-LIB44-ENT-VEH-0133174,draft,4250.0,http://www.wikidata.org/entity/Q84257143
+LIBSRC-LIB44-ENT-VEH-0133176,dimension_length,48200.0,http://www.wikidata.org/entity/Q84257148
+LIBSRC-LIB44-ENT-VEH-0133176,draft,4250.0,http://www.wikidata.org/entity/Q84257148
+LIBSRC-LIB44-ENT-VEH-0133237,dimension_length,171990.0,http://www.wikidata.org/entity/Q84257294
+LIBSRC-LIB44-ENT-VEH-0133554,dimension_length,154850.0,http://www.wikidata.org/entity/Q84258152
+LIBSRC-LIB44-ENT-VEH-0133554,draft,6930.0,http://www.wikidata.org/entity/Q84258152
+LIBSRC-LIB44-ENT-VEH-0133639,dimension_length,40370.0,http://www.wikidata.org/entity/Q84258364
+LIBSRC-LIB44-ENT-VEH-0133639,draft,1290.0,http://www.wikidata.org/entity/Q84258364
+LIBSRC-LIB44-ENT-VEH-0133937,dimension_length,32100.0,http://www.wikidata.org/entity/Q84260107
+LIBSRC-LIB44-ENT-VEH-0133937,draft,3500.0,http://www.wikidata.org/entity/Q84260107
+LIBSRC-LIB44-ENT-VEH-0133960,dimension_length,48000.0,http://www.wikidata.org/entity/Q84260155
+LIBSRC-LIB44-ENT-VEH-0133960,draft,3800.0,http://www.wikidata.org/entity/Q84260155
+LIBSRC-LIB44-ENT-VEH-0133989,dimension_length,113080.0,http://www.wikidata.org/entity/Q84260217
+LIBSRC-LIB44-ENT-VEH-0133989,draft,6900.0,http://www.wikidata.org/entity/Q84260217
+LIBSRC-LIB44-ENT-VEH-0134053,dimension_length,26000.0,http://www.wikidata.org/entity/Q84260374
+LIBSRC-LIB44-ENT-VEH-0134053,draft,3012.0,http://www.wikidata.org/entity/Q84260374
+LIBSRC-LIB44-ENT-VEH-0134254,dimension_length,145000.0,http://www.wikidata.org/entity/Q84260961
+LIBSRC-LIB44-ENT-VEH-0134254,draft,6000.0,http://www.wikidata.org/entity/Q84260961
+LIBSRC-LIB44-ENT-VEH-0134279,dimension_length,138100.0,http://www.wikidata.org/entity/Q84261017
+LIBSRC-LIB44-ENT-VEH-0134279,draft,8000.0,http://www.wikidata.org/entity/Q84261017
+LIBSRC-LIB44-ENT-VEH-0134291,dimension_length,230940.0,http://www.wikidata.org/entity/Q84261034
+LIBSRC-LIB44-ENT-VEH-0134291,draft,12000.0,http://www.wikidata.org/entity/Q84261034
+LIBSRC-LIB44-ENT-VEH-0134305,dimension_length,23500.0,http://www.wikidata.org/entity/Q84261058
+LIBSRC-LIB44-ENT-VEH-0134305,draft,2700.0,http://www.wikidata.org/entity/Q84261058
+LIBSRC-LIB44-ENT-VEH-0134338,dimension_length,129600.0,http://www.wikidata.org/entity/Q84261126
+LIBSRC-LIB44-ENT-VEH-0134338,draft,7400.0,http://www.wikidata.org/entity/Q84261126
+LIBSRC-LIB44-ENT-VEH-0134361,dimension_length,186390.0,http://www.wikidata.org/entity/Q84261227
+LIBSRC-LIB44-ENT-VEH-0134361,draft,11300.0,http://www.wikidata.org/entity/Q84261227
+LIBSRC-LIB44-ENT-VEH-0134406,dimension_length,221750.0,http://www.wikidata.org/entity/Q84261356
+LIBSRC-LIB44-ENT-VEH-0134406,draft,11400.0,http://www.wikidata.org/entity/Q84261356
+LIBSRC-LIB44-ENT-VEH-0134412,dimension_length,89960.0,http://www.wikidata.org/entity/Q84261372
+LIBSRC-LIB44-ENT-VEH-0134412,draft,5250.0,http://www.wikidata.org/entity/Q84261372
+LIBSRC-LIB44-ENT-VEH-0134437,dimension_length,221750.0,http://www.wikidata.org/entity/Q84261439
+LIBSRC-LIB44-ENT-VEH-0134437,draft,11400.0,http://www.wikidata.org/entity/Q84261439
+LIBSRC-LIB44-ENT-VEH-0134462,dimension_length,139600.0,http://www.wikidata.org/entity/Q84261515
+LIBSRC-LIB44-ENT-VEH-0134462,draft,7364.0,http://www.wikidata.org/entity/Q84261515
+LIBSRC-LIB44-ENT-VEH-0134572,dimension_length,183980.0,http://www.wikidata.org/entity/Q84261812
+LIBSRC-LIB44-ENT-VEH-0134572,draft,9000.0,http://www.wikidata.org/entity/Q84261812
+LIBSRC-LIB44-ENT-VEH-0134574,dimension_length,26000.0,http://www.wikidata.org/entity/Q84261816
+LIBSRC-LIB44-ENT-VEH-0134574,draft,3230.0,http://www.wikidata.org/entity/Q84261816
+LIBSRC-LIB44-ENT-VEH-0135280,dimension_length,222520.0,http://www.wikidata.org/entity/Q84264520
+LIBSRC-LIB44-ENT-VEH-0135280,draft,12000.0,http://www.wikidata.org/entity/Q84264520
+LIBSRC-LIB44-ENT-VEH-0135283,dimension_length,222510.0,http://www.wikidata.org/entity/Q84264529
+LIBSRC-LIB44-ENT-VEH-0135283,draft,12000.0,http://www.wikidata.org/entity/Q84264529
+LIBSRC-LIB44-ENT-VEH-0135332,dimension_length,186450.0,http://www.wikidata.org/entity/Q84264633
+LIBSRC-LIB44-ENT-VEH-0135332,draft,11790.0,http://www.wikidata.org/entity/Q84264633
+LIBSRC-LIB44-ENT-VEH-0135500,dimension_length,142700.0,http://www.wikidata.org/entity/Q84265109
+LIBSRC-LIB44-ENT-VEH-0135507,dimension_length,142700.0,http://www.wikidata.org/entity/Q84265133
+LIBSRC-LIB44-ENT-VEH-0136018,dimension_length,47500.0,http://www.wikidata.org/entity/Q84709882
+LIBSRC-LIB44-ENT-VEH-0136034,dimension_length,41140.0,http://www.wikidata.org/entity/Q84709967
+LIBSRC-LIB44-ENT-VEH-0137780,dimension_length,189990.0,http://www.wikidata.org/entity/Q85974984
+LIBSRC-LIB44-ENT-VEH-0137849,dimension_length,121400.0,http://www.wikidata.org/entity/Q85976060
+LIBSRC-LIB44-ENT-VEH-0137850,dimension_length,95800.0,http://www.wikidata.org/entity/Q85976066
+LIBSRC-LIB44-ENT-VEH-0137882,dimension_length,45100.0,http://www.wikidata.org/entity/Q85976520
+LIBSRC-LIB44-ENT-VEH-0137891,dimension_length,171990.0,http://www.wikidata.org/entity/Q85976686
+LIBSRC-LIB44-ENT-VEH-0137892,dimension_length,189990.0,http://www.wikidata.org/entity/Q85976695
+LIBSRC-LIB44-ENT-VEH-0138015,dimension_length,28750.0,http://www.wikidata.org/entity/Q85978522
+LIBSRC-LIB44-ENT-VEH-0138051,dimension_length,88310.0,http://www.wikidata.org/entity/Q85978853
+LIBSRC-LIB44-ENT-VEH-0138051,draft,3410.0,http://www.wikidata.org/entity/Q85978853
+LIBSRC-LIB44-ENT-VEH-0138100,dimension_length,88600.0,http://www.wikidata.org/entity/Q85979317
+LIBSRC-LIB44-ENT-VEH-0138129,dimension_length,32500.0,http://www.wikidata.org/entity/Q85979598
+LIBSRC-LIB44-ENT-VEH-0138200,dimension_length,108000.0,http://www.wikidata.org/entity/Q85980252
+LIBSRC-LIB44-ENT-VEH-0138327,dimension_length,94020.0,http://www.wikidata.org/entity/Q85981426
+LIBSRC-LIB44-ENT-VEH-0138344,dimension_length,138010.0,http://www.wikidata.org/entity/Q85981574
+LIBSRC-LIB44-ENT-VEH-0138344,draft,8000.0,http://www.wikidata.org/entity/Q85981574
+LIBSRC-LIB44-ENT-VEH-0138416,dimension_length,66000.0,http://www.wikidata.org/entity/Q85982346
+LIBSRC-LIB44-ENT-VEH-0138448,dimension_length,189940.0,http://www.wikidata.org/entity/Q85982651
+LIBSRC-LIB44-ENT-VEH-0138467,dimension_length,32000.0,http://www.wikidata.org/entity/Q85982858
+LIBSRC-LIB44-ENT-VEH-0138485,dimension_length,144090.0,http://www.wikidata.org/entity/Q85983101
+LIBSRC-LIB44-ENT-VEH-0138547,dimension_length,102000.0,http://www.wikidata.org/entity/Q85983880
+LIBSRC-LIB44-ENT-VEH-0138552,dimension_length,31500.0,http://www.wikidata.org/entity/Q85983938
+LIBSRC-LIB44-ENT-VEH-0138622,dimension_length,161850.0,http://www.wikidata.org/entity/Q85984791
+LIBSRC-LIB44-ENT-VEH-0138651,dimension_length,72090.0,http://www.wikidata.org/entity/Q85985149
+LIBSRC-LIB44-ENT-VEH-0138716,dimension_length,64800.0,http://www.wikidata.org/entity/Q85985928
+LIBSRC-LIB44-ENT-VEH-0138752,dimension_length,25530.0,http://www.wikidata.org/entity/Q85986308
+LIBSRC-LIB44-ENT-VEH-0138754,dimension_length,55000.0,http://www.wikidata.org/entity/Q85986318
+LIBSRC-LIB44-ENT-VEH-0138791,dimension_length,134850.0,http://www.wikidata.org/entity/Q85986646
+LIBSRC-LIB44-ENT-VEH-0138792,dimension_length,139360.0,http://www.wikidata.org/entity/Q85986651
+LIBSRC-LIB44-ENT-VEH-0138805,dimension_length,99900.0,http://www.wikidata.org/entity/Q85986763
+LIBSRC-LIB44-ENT-VEH-0138896,dimension_length,85300.0,http://www.wikidata.org/entity/Q85987923
+LIBSRC-LIB44-ENT-VEH-0139043,dimension_length,136400.0,http://www.wikidata.org/entity/Q85990013
+LIBSRC-LIB44-ENT-VEH-0139060,dimension_length,99800.0,http://www.wikidata.org/entity/Q85990181
+LIBSRC-LIB44-ENT-VEH-0139096,dimension_length,59250.0,http://www.wikidata.org/entity/Q85990519
+LIBSRC-LIB44-ENT-VEH-0139134,dimension_length,91100.0,http://www.wikidata.org/entity/Q85990904
+LIBSRC-LIB44-ENT-VEH-0139200,dimension_length,104940.0,http://www.wikidata.org/entity/Q86059564
+LIBSRC-LIB44-ENT-VEH-0139323,dimension_length,105540.0,http://www.wikidata.org/entity/Q86059983
+LIBSRC-LIB44-ENT-VEH-0139328,dimension_length,28050.0,http://www.wikidata.org/entity/Q86059990
+LIBSRC-LIB44-ENT-VEH-0139333,dimension_length,37000.0,http://www.wikidata.org/entity/Q86059998
+LIBSRC-LIB44-ENT-VEH-0139341,dimension_length,159980.0,http://www.wikidata.org/entity/Q86060010
+LIBSRC-LIB44-ENT-VEH-0139389,dimension_length,25310.0,http://www.wikidata.org/entity/Q86060160
+LIBSRC-LIB44-ENT-VEH-0139427,dimension_length,36000.0,http://www.wikidata.org/entity/Q86060272
+LIBSRC-LIB44-ENT-VEH-0139436,dimension_length,48000.0,http://www.wikidata.org/entity/Q86060296
+LIBSRC-LIB44-ENT-VEH-0139471,dimension_length,36600.0,http://www.wikidata.org/entity/Q86060396
+LIBSRC-LIB44-ENT-VEH-0139504,dimension_length,93800.0,http://www.wikidata.org/entity/Q86060494
+LIBSRC-LIB44-ENT-VEH-0139612,dimension_length,30000.0,http://www.wikidata.org/entity/Q86060933
+LIBSRC-LIB44-ENT-VEH-0139661,dimension_length,26000.0,http://www.wikidata.org/entity/Q86061103
+LIBSRC-LIB44-ENT-VEH-0139670,dimension_length,64000.0,http://www.wikidata.org/entity/Q86061147
+LIBSRC-LIB44-ENT-VEH-0139692,dimension_length,84990.0,http://www.wikidata.org/entity/Q86061224
+LIBSRC-LIB44-ENT-VEH-0139723,dimension_length,40000.0,http://www.wikidata.org/entity/Q86061336
+LIBSRC-LIB44-ENT-VEH-0139755,dimension_length,167500.0,http://www.wikidata.org/entity/Q86061486
+LIBSRC-LIB44-ENT-VEH-0139809,dimension_length,72090.0,http://www.wikidata.org/entity/Q86061677
+LIBSRC-LIB44-ENT-VEH-0139848,dimension_length,85600.0,http://www.wikidata.org/entity/Q86061834
+LIBSRC-LIB44-ENT-VEH-0139921,dimension_length,75800.0,http://www.wikidata.org/entity/Q86062191
+LIBSRC-LIB44-ENT-VEH-0139976,dimension_length,89000.0,http://www.wikidata.org/entity/Q86062396
+LIBSRC-LIB44-ENT-VEH-0095993,dimension_length,119910.0,http://www.wikidata.org/entity/Q27983119
+LIBSRC-LIB44-ENT-VEH-0100087,dimension_length,178000.0,http://www.wikidata.org/entity/Q47519883
+LIBSRC-LIB44-ENT-VEH-0102239,dimension_length,45500.0,http://www.wikidata.org/entity/Q52334145
+LIBSRC-LIB44-ENT-VEH-0103671,dimension_length,300000.0,http://www.wikidata.org/entity/Q52375966
+LIBSRC-LIB44-ENT-VEH-0103773,dimension_length,26000.0,http://www.wikidata.org/entity/Q52377733
+LIBSRC-LIB44-ENT-VEH-0103788,dimension_length,140000.0,http://www.wikidata.org/entity/Q52377834
+LIBSRC-LIB44-ENT-VEH-0103858,dimension_length,32000.0,http://www.wikidata.org/entity/Q52378189
+LIBSRC-LIB44-ENT-VEH-0103911,dimension_length,88000.0,http://www.wikidata.org/entity/Q52378447
+LIBSRC-LIB44-ENT-VEH-0103918,dimension_length,70000.0,http://www.wikidata.org/entity/Q52378777
+LIBSRC-LIB44-ENT-VEH-0103929,dimension_length,30000.0,http://www.wikidata.org/entity/Q52378862
+LIBSRC-LIB44-ENT-VEH-0104017,dimension_length,49000.0,http://www.wikidata.org/entity/Q52379328
+LIBSRC-LIB44-ENT-VEH-0104690,dimension_length,86000.0,http://www.wikidata.org/entity/Q52512715
+LIBSRC-LIB44-ENT-VEH-0104695,dimension_length,86000.0,http://www.wikidata.org/entity/Q52512816
+LIBSRC-LIB44-ENT-VEH-0104700,dimension_length,93000.0,http://www.wikidata.org/entity/Q52512904
+LIBSRC-LIB44-ENT-VEH-0104708,dimension_length,95000.0,http://www.wikidata.org/entity/Q52513065
+LIBSRC-LIB44-ENT-VEH-0108493,dimension_length,157310.0,http://www.wikidata.org/entity/Q56375381
+LIBSRC-LIB44-ENT-VEH-0108814,dimension_length,145000.0,http://www.wikidata.org/entity/Q57559081
+LIBSRC-LIB44-ENT-VEH-0108814,draft,9050.0,http://www.wikidata.org/entity/Q57559081
+LIBSRC-LIB44-ENT-VEH-0111046,dimension_length,54000.0,http://www.wikidata.org/entity/Q6719772
+LIBSRC-LIB44-ENT-VEH-0113134,dimension_length,315000.0,http://www.wikidata.org/entity/Q7698012
+LIBSRC-LIB44-ENT-VEH-0120197,dimension_length,72000.0,http://www.wikidata.org/entity/Q83587511
+LIBSRC-LIB44-ENT-VEH-0120224,dimension_length,96370.0,http://www.wikidata.org/entity/Q83587905
+LIBSRC-LIB44-ENT-VEH-0120284,dimension_length,229500.0,http://www.wikidata.org/entity/Q83588871
+LIBSRC-LIB44-ENT-VEH-0120284,draft,14700.0,http://www.wikidata.org/entity/Q83588871
+LIBSRC-LIB44-ENT-VEH-0120722,dimension_length,288930.0,http://www.wikidata.org/entity/Q83595137
+LIBSRC-LIB44-ENT-VEH-0121472,dimension_length,89990.0,http://www.wikidata.org/entity/Q83605672
+LIBSRC-LIB44-ENT-VEH-0121472,draft,5680.0,http://www.wikidata.org/entity/Q83605672
+LIBSRC-LIB44-ENT-VEH-0121652,dimension_length,99980.0,http://www.wikidata.org/entity/Q83608208
+LIBSRC-LIB44-ENT-VEH-0042506,manufacturer_or_creator,"""Peene-Werft""",http://www.wikidata.org/entity/Q111049467
+LIBSRC-LIB44-ENT-VEH-0050358,manufacturer_or_creator,"""HD Hyundai Samho""",http://www.wikidata.org/entity/Q117023974
+LIBSRC-LIB44-ENT-VEH-0050385,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q117024003
+LIBSRC-LIB44-ENT-VEH-0050387,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q117024005
+LIBSRC-LIB44-ENT-VEH-0050512,manufacturer_or_creator,"""Hanwha Ocean""",http://www.wikidata.org/entity/Q117024141
+LIBSRC-LIB44-ENT-VEH-0050559,manufacturer_or_creator,"""Nordseewerke""",http://www.wikidata.org/entity/Q117024194
+LIBSRC-LIB44-ENT-VEH-0050616,manufacturer_or_creator,"""Oshima Shipbuilding""",http://www.wikidata.org/entity/Q117024255
+LIBSRC-LIB44-ENT-VEH-0050621,manufacturer_or_creator,"""Dalian Shipbuilding Industry Company""",http://www.wikidata.org/entity/Q117024260
+LIBSRC-LIB44-ENT-VEH-0050623,manufacturer_or_creator,"""IHI Marine United""",http://www.wikidata.org/entity/Q117024262
+LIBSRC-LIB44-ENT-VEH-0050636,manufacturer_or_creator,"""Imabari Shipbuilding""",http://www.wikidata.org/entity/Q117024275
+LIBSRC-LIB44-ENT-VEH-0050650,manufacturer_or_creator,"""Onomichi Dockyard""",http://www.wikidata.org/entity/Q117024289
+LIBSRC-LIB44-ENT-VEH-0050688,manufacturer_or_creator,"""Hudong-Zhonghua Shipbuilding""",http://www.wikidata.org/entity/Q117024330
+LIBSRC-LIB44-ENT-VEH-0050700,manufacturer_or_creator,"""Tsuneishi Shipbuilding""",http://www.wikidata.org/entity/Q117024342
+LIBSRC-LIB44-ENT-VEH-0050731,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q117024381
+LIBSRC-LIB44-ENT-VEH-0050738,manufacturer_or_creator,"""Jiangnan Shipyard""",http://www.wikidata.org/entity/Q117024388
+LIBSRC-LIB44-ENT-VEH-0050739,manufacturer_or_creator,"""Tsuneishi Kure Dock""",http://www.wikidata.org/entity/Q117024389
+LIBSRC-LIB44-ENT-VEH-0050753,manufacturer_or_creator,"""Oshima Shipbuilding""",http://www.wikidata.org/entity/Q117024406
+LIBSRC-LIB44-ENT-VEH-0050759,manufacturer_or_creator,"""Shin Kurushima Dockyard""",http://www.wikidata.org/entity/Q117024414
+LIBSRC-LIB44-ENT-VEH-0050782,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q117024439
+LIBSRC-LIB44-ENT-VEH-0050794,manufacturer_or_creator,"""Hanwha Ocean""",http://www.wikidata.org/entity/Q117024454
+LIBSRC-LIB44-ENT-VEH-0050811,manufacturer_or_creator,"""Hudong-Zhonghua Shipbuilding""",http://www.wikidata.org/entity/Q117024473
+LIBSRC-LIB44-ENT-VEH-0050868,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q117024535
+LIBSRC-LIB44-ENT-VEH-0050890,manufacturer_or_creator,"""Mitsui Tamano Shipyard""",http://www.wikidata.org/entity/Q117024559
+LIBSRC-LIB44-ENT-VEH-0050933,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q117024605
+LIBSRC-LIB44-ENT-VEH-0050962,manufacturer_or_creator,"""Kitanihon Shipbuilding""",http://www.wikidata.org/entity/Q117024639
+LIBSRC-LIB44-ENT-VEH-0050963,manufacturer_or_creator,"""Mitsubishi Heavy Industries Kobe Shipyard & Machinery Works""",http://www.wikidata.org/entity/Q117024640
+LIBSRC-LIB44-ENT-VEH-0050981,manufacturer_or_creator,"""Mitsui Tamano Shipyard""",http://www.wikidata.org/entity/Q117024658
+LIBSRC-LIB44-ENT-VEH-0050985,manufacturer_or_creator,"""Dalian Shipbuilding Industry Company""",http://www.wikidata.org/entity/Q117024662
+LIBSRC-LIB44-ENT-VEH-0051015,manufacturer_or_creator,"""Shin Kurushima Dockyard""",http://www.wikidata.org/entity/Q117024694
+LIBSRC-LIB44-ENT-VEH-0060121,manufacturer_or_creator,"""Vard Br\u0103ila""",http://www.wikidata.org/entity/Q117080177
+LIBSRC-LIB44-ENT-VEH-0060631,manufacturer_or_creator,"""Chowgule Group""",http://www.wikidata.org/entity/Q117080875
+LIBSRC-LIB44-ENT-VEH-0062026,manufacturer_or_creator,"""Bodewes Shipyards""",http://www.wikidata.org/entity/Q117102142
+LIBSRC-LIB44-ENT-VEH-0062111,manufacturer_or_creator,"""Shin Kurushima Dockyard""",http://www.wikidata.org/entity/Q117102261
+LIBSRC-LIB44-ENT-VEH-0062849,manufacturer_or_creator,"""Brodotrogir""",http://www.wikidata.org/entity/Q117103220
+LIBSRC-LIB44-ENT-VEH-0124487,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q83637596
+LIBSRC-LIB44-ENT-VEH-0125178,manufacturer_or_creator,"""Guangzhou Wenchong Shipyard""",http://www.wikidata.org/entity/Q83638794
+LIBSRC-LIB44-ENT-VEH-0126670,manufacturer_or_creator,"""Damen Shipyards Gala\u021bi""",http://www.wikidata.org/entity/Q83641415
+LIBSRC-LIB44-ENT-VEH-0127019,manufacturer_or_creator,"""Fukuoka Shipbuilding""",http://www.wikidata.org/entity/Q83642028
+LIBSRC-LIB44-ENT-VEH-0127350,manufacturer_or_creator,"""Onomichi Dockyard""",http://www.wikidata.org/entity/Q83642655
+LIBSRC-LIB44-ENT-VEH-0127379,manufacturer_or_creator,"""CSC Jinling""",http://www.wikidata.org/entity/Q83642711
+LIBSRC-LIB44-ENT-VEH-0127624,manufacturer_or_creator,"""Japan Marine United Corporation""",http://www.wikidata.org/entity/Q83643218
+LIBSRC-LIB44-ENT-VEH-0128209,manufacturer_or_creator,"""HJ Shipbuilding & Construction""",http://www.wikidata.org/entity/Q83645749
+LIBSRC-LIB44-ENT-VEH-0128296,manufacturer_or_creator,"""Koninklijke De Vries Scheepsbouw""",http://www.wikidata.org/entity/Q83645897
+LIBSRC-LIB44-ENT-VEH-0128918,manufacturer_or_creator,"""Imabari Shipbuilding Marugame Headquarters""",http://www.wikidata.org/entity/Q83647590
+LIBSRC-LIB44-ENT-VEH-0129471,manufacturer_or_creator,"""Tsuneishi Shipbuilding""",http://www.wikidata.org/entity/Q83649335
+LIBSRC-LIB44-ENT-VEH-0129752,manufacturer_or_creator,"""Murakami Hide Shipbuilding""",http://www.wikidata.org/entity/Q83650115
+LIBSRC-LIB44-ENT-VEH-0130637,manufacturer_or_creator,"""Onomichi Dockyard""",http://www.wikidata.org/entity/Q83652559
+LIBSRC-LIB44-ENT-VEH-0131509,manufacturer_or_creator,"""Kawasaki Heavy Industries""",http://www.wikidata.org/entity/Q84252423
+LIBSRC-LIB44-ENT-VEH-0132093,manufacturer_or_creator,"""CSBC Corporation, Taiwan""",http://www.wikidata.org/entity/Q84253885
+LIBSRC-LIB44-ENT-VEH-0132597,manufacturer_or_creator,"""Rolandwerft""",http://www.wikidata.org/entity/Q84255006
+LIBSRC-LIB44-ENT-VEH-0132863,manufacturer_or_creator,"""Pella Sietas""",http://www.wikidata.org/entity/Q84255630
+LIBSRC-LIB44-ENT-VEH-0133572,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q84258194
+LIBSRC-LIB44-ENT-VEH-0134084,manufacturer_or_creator,"""Damen Shipyards Gorinchem""",http://www.wikidata.org/entity/Q84260444
+LIBSRC-LIB44-ENT-VEH-0134185,manufacturer_or_creator,"""Volkswerft""",http://www.wikidata.org/entity/Q84260761
+LIBSRC-LIB44-ENT-VEH-0134199,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q84260816
+LIBSRC-LIB44-ENT-VEH-0134231,manufacturer_or_creator,"""Meyer Wismar""",http://www.wikidata.org/entity/Q84260895
+LIBSRC-LIB44-ENT-VEH-0089919,manufacturer_or_creator,"""Volharding Shipyards""",http://www.wikidata.org/entity/Q15621491
+LIBSRC-LIB44-ENT-VEH-0090764,manufacturer_or_creator,"""Bath Iron Works""",http://www.wikidata.org/entity/Q1646021
+LIBSRC-LIB44-ENT-VEH-0091831,manufacturer_or_creator,"""ENVC Shipyard""",http://www.wikidata.org/entity/Q18688861
+LIBSRC-LIB44-ENT-VEH-0095707,manufacturer_or_creator,"""Hudong-Zhonghua Shipbuilding""",http://www.wikidata.org/entity/Q26884315
+LIBSRC-LIB44-ENT-VEH-0103327,manufacturer_or_creator,"""P+S Werften""",http://www.wikidata.org/entity/Q52352837
+LIBSRC-LIB44-ENT-VEH-0103343,manufacturer_or_creator,"""Flensburger Schiffbau-Gesellschaft""",http://www.wikidata.org/entity/Q52353028
+LIBSRC-LIB44-ENT-VEH-0103454,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q52354365
+LIBSRC-LIB44-ENT-VEH-0103458,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q52354423
+LIBSRC-LIB44-ENT-VEH-0103479,manufacturer_or_creator,"""HJ Shipbuilding & Construction""",http://www.wikidata.org/entity/Q52354676
+LIBSRC-LIB44-ENT-VEH-0108458,manufacturer_or_creator,"""Austal""",http://www.wikidata.org/entity/Q5635905
+LIBSRC-LIB44-ENT-VEH-0108669,manufacturer_or_creator,"""Uljanik""",http://www.wikidata.org/entity/Q56826684
+LIBSRC-LIB44-ENT-VEH-0109193,manufacturer_or_creator,"""Mazagon Dock Shipbuilders""",http://www.wikidata.org/entity/Q5972653
+LIBSRC-LIB44-ENT-VEH-0109921,manufacturer_or_creator,"""Gisan""",http://www.wikidata.org/entity/Q61779912
+LIBSRC-LIB44-ENT-VEH-0118427,manufacturer_or_creator,"""Szczecin Shipyard""",http://www.wikidata.org/entity/Q83487985
+LIBSRC-LIB44-ENT-VEH-0119177,manufacturer_or_creator,"""Rolandwerft""",http://www.wikidata.org/entity/Q83570975
+LIBSRC-LIB44-ENT-VEH-0120041,manufacturer_or_creator,"""Stocznia Gdynia""",http://www.wikidata.org/entity/Q83585073
+LIBSRC-LIB44-ENT-VEH-0120191,manufacturer_or_creator,"""Barkmeijer Shipyards""",http://www.wikidata.org/entity/Q83587414
+LIBSRC-LIB44-ENT-VEH-0120422,manufacturer_or_creator,"""Damen Group""",http://www.wikidata.org/entity/Q83591112
+LIBSRC-LIB44-ENT-VEH-0120466,manufacturer_or_creator,"""Imabari Shipbuilding Hiroshima Shipyard""",http://www.wikidata.org/entity/Q83591634
+LIBSRC-LIB44-ENT-VEH-0120804,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q83596294
+LIBSRC-LIB44-ENT-VEH-0120950,manufacturer_or_creator,"""Mitsui Tamano Shipyard""",http://www.wikidata.org/entity/Q83598387
+LIBSRC-LIB44-ENT-VEH-0120960,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q83598536
+LIBSRC-LIB44-ENT-VEH-0121093,manufacturer_or_creator,"""Stocznia Gdynia""",http://www.wikidata.org/entity/Q83600493
+LIBSRC-LIB44-ENT-VEH-0121144,manufacturer_or_creator,"""Mangalia Shipyard""",http://www.wikidata.org/entity/Q83601069
+LIBSRC-LIB44-ENT-VEH-0121607,manufacturer_or_creator,"""Jiangnan Shipyard""",http://www.wikidata.org/entity/Q83607598
+LIBSRC-LIB44-ENT-VEH-0121806,manufacturer_or_creator,"""Shin Kurushima Dockyard""",http://www.wikidata.org/entity/Q83610290
+LIBSRC-LIB44-ENT-VEH-0122420,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q83628064
+LIBSRC-LIB44-ENT-VEH-0122425,manufacturer_or_creator,"""Ferus Smit""",http://www.wikidata.org/entity/Q83628075
+LIBSRC-LIB44-ENT-VEH-0123160,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q83631223
+LIBSRC-LIB44-ENT-VEH-0123384,manufacturer_or_creator,"""Yangzhou Binjiang Shipbuilding""",http://www.wikidata.org/entity/Q83631508
+LIBSRC-LIB44-ENT-VEH-0124165,manufacturer_or_creator,"""Meyer Wismar""",http://www.wikidata.org/entity/Q83632632
+LIBSRC-LIB44-ENT-VEH-0011369,manufacturer_or_creator,"""Damen Shipyards Bergum""",http://www.wikidata.org/entity/Q101935775
+LIBSRC-LIB44-ENT-VEH-0034280,manufacturer_or_creator,"""Severnaya Verf""",http://www.wikidata.org/entity/Q104791254
+LIBSRC-LIB44-ENT-VEH-0034708,manufacturer_or_creator,"""Namura Shipbuilding""",http://www.wikidata.org/entity/Q105303576
+LIBSRC-LIB44-ENT-VEH-0034784,manufacturer_or_creator,"""Ferus Smit""",http://www.wikidata.org/entity/Q105321557
+LIBSRC-LIB44-ENT-VEH-0034902,manufacturer_or_creator,"""Imabari Shipbuilding""",http://www.wikidata.org/entity/Q105333667
+LIBSRC-LIB44-ENT-VEH-0034944,manufacturer_or_creator,"""Imabari Shipbuilding Hiroshima Shipyard""",http://www.wikidata.org/entity/Q105333720
+LIBSRC-LIB44-ENT-VEH-0034954,manufacturer_or_creator,"""Imabari Shipbuilding""",http://www.wikidata.org/entity/Q105333735
+LIBSRC-LIB44-ENT-VEH-0034992,manufacturer_or_creator,"""Imabari Shipbuilding Hiroshima Shipyard""",http://www.wikidata.org/entity/Q105333795
+LIBSRC-LIB44-ENT-VEH-0035383,manufacturer_or_creator,"""Krasnoye Sormovo Factory No. 112""",http://www.wikidata.org/entity/Q105764289
+LIBSRC-LIB44-ENT-VEH-0035700,manufacturer_or_creator,"""Simek""",http://www.wikidata.org/entity/Q105764679
+LIBSRC-LIB44-ENT-VEH-0035789,manufacturer_or_creator,"""Q4311347""",http://www.wikidata.org/entity/Q105764780
+LIBSRC-LIB44-ENT-VEH-0040884,manufacturer_or_creator,"""Damen Group""",http://www.wikidata.org/entity/Q107393814
+LIBSRC-LIB44-ENT-VEH-0041859,manufacturer_or_creator,"""Uljanik""",http://www.wikidata.org/entity/Q109875380
+LIBSRC-LIB44-ENT-VEH-0050668,manufacturer_or_creator,"""Oshima Shipbuilding""",http://www.wikidata.org/entity/Q117024308
+LIBSRC-LIB44-ENT-VEH-0050776,manufacturer_or_creator,"""Stocznia Gdynia""",http://www.wikidata.org/entity/Q117024432
+LIBSRC-LIB44-ENT-VEH-0050777,manufacturer_or_creator,"""Stocznia Gdynia""",http://www.wikidata.org/entity/Q117024433
+LIBSRC-LIB44-ENT-VEH-0050838,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q117024503
+LIBSRC-LIB44-ENT-VEH-0050855,manufacturer_or_creator,"""HD Hyundai Samho""",http://www.wikidata.org/entity/Q117024521
+LIBSRC-LIB44-ENT-VEH-0050891,manufacturer_or_creator,"""Mitsui Tamano Shipyard""",http://www.wikidata.org/entity/Q117024560
+LIBSRC-LIB44-ENT-VEH-0050894,manufacturer_or_creator,"""Hanwha Ocean""",http://www.wikidata.org/entity/Q117024563
+LIBSRC-LIB44-ENT-VEH-0050909,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q117024578
+LIBSRC-LIB44-ENT-VEH-0050911,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q117024581
+LIBSRC-LIB44-ENT-VEH-0050930,manufacturer_or_creator,"""Hanwha Ocean""",http://www.wikidata.org/entity/Q117024602
+LIBSRC-LIB44-ENT-VEH-0050976,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q117024653
+LIBSRC-LIB44-ENT-VEH-0050980,manufacturer_or_creator,"""CSBC Corporation, Taiwan""",http://www.wikidata.org/entity/Q117024657
+LIBSRC-LIB44-ENT-VEH-0050987,manufacturer_or_creator,"""Dalian Shipbuilding Industry Company""",http://www.wikidata.org/entity/Q117024664
+LIBSRC-LIB44-ENT-VEH-0051045,manufacturer_or_creator,"""Tsuneishi Shipbuilding""",http://www.wikidata.org/entity/Q117024726
+LIBSRC-LIB44-ENT-VEH-0055389,manufacturer_or_creator,"""Hanwha Ocean""",http://www.wikidata.org/entity/Q117065671
+LIBSRC-LIB44-ENT-VEH-0055564,manufacturer_or_creator,"""Oltenita Shipyard""",http://www.wikidata.org/entity/Q117066688
+LIBSRC-LIB44-ENT-VEH-0062124,manufacturer_or_creator,"""Flensburger Schiffbau-Gesellschaft""",http://www.wikidata.org/entity/Q117102277
+LIBSRC-LIB44-ENT-VEH-0124684,manufacturer_or_creator,"""Rolandwerft""",http://www.wikidata.org/entity/Q83637947
+LIBSRC-LIB44-ENT-VEH-0124984,manufacturer_or_creator,"""Odense Steel Shipyard""",http://www.wikidata.org/entity/Q83638469
+LIBSRC-LIB44-ENT-VEH-0126665,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q83641400
+LIBSRC-LIB44-ENT-VEH-0126854,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q83641771
+LIBSRC-LIB44-ENT-VEH-0127478,manufacturer_or_creator,"""Imabari Shipbuilding""",http://www.wikidata.org/entity/Q83642924
+LIBSRC-LIB44-ENT-VEH-0127758,manufacturer_or_creator,"""Astilleros Balenciaga""",http://www.wikidata.org/entity/Q83644811
+LIBSRC-LIB44-ENT-VEH-0129359,manufacturer_or_creator,"""Tsuneishi Shipbuilding""",http://www.wikidata.org/entity/Q83649030
+LIBSRC-LIB44-ENT-VEH-0130265,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q83651614
+LIBSRC-LIB44-ENT-VEH-0130573,manufacturer_or_creator,"""Volkswerft""",http://www.wikidata.org/entity/Q83652399
+LIBSRC-LIB44-ENT-VEH-0134226,manufacturer_or_creator,"""Meyer Wismar""",http://www.wikidata.org/entity/Q84260886
+LIBSRC-LIB44-ENT-VEH-0134236,manufacturer_or_creator,"""Cassens Werft GmbH""",http://www.wikidata.org/entity/Q84260906
+LIBSRC-LIB44-ENT-VEH-0135247,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q84264395
+LIBSRC-LIB44-ENT-VEH-0135251,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q84264409
+LIBSRC-LIB44-ENT-VEH-0135255,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q84264428
+LIBSRC-LIB44-ENT-VEH-0135261,manufacturer_or_creator,"""HD Hyundai Samho""",http://www.wikidata.org/entity/Q84264448
+LIBSRC-LIB44-ENT-VEH-0142030,manufacturer_or_creator,"""Vard Tulcea""",http://www.wikidata.org/entity/Q97728509
+LIBSRC-LIB44-ENT-VEH-0089545,manufacturer_or_creator,"""Ingalls Shipbuilding""",http://www.wikidata.org/entity/Q1457774
+LIBSRC-LIB44-ENT-VEH-0090371,manufacturer_or_creator,"""Remontowa Shipbuilding""",http://www.wikidata.org/entity/Q16172037
+LIBSRC-LIB44-ENT-VEH-0091306,manufacturer_or_creator,"""Brodosplit""",http://www.wikidata.org/entity/Q17511217
+LIBSRC-LIB44-ENT-VEH-0093719,manufacturer_or_creator,"""Imabari Shipbuilding""",http://www.wikidata.org/entity/Q22130165
+LIBSRC-LIB44-ENT-VEH-0103331,manufacturer_or_creator,"""Lindenau Shipyard""",http://www.wikidata.org/entity/Q52352883
+LIBSRC-LIB44-ENT-VEH-0103370,manufacturer_or_creator,"""Volharding Shipyards""",http://www.wikidata.org/entity/Q52353371
+LIBSRC-LIB44-ENT-VEH-0103378,manufacturer_or_creator,"""Kawasaki Heavy Industries Ship & Offshore Structure Company""",http://www.wikidata.org/entity/Q52353485
+LIBSRC-LIB44-ENT-VEH-0103393,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q52353645
+LIBSRC-LIB44-ENT-VEH-0103440,manufacturer_or_creator,"""Hanwha Ocean""",http://www.wikidata.org/entity/Q52354181
+LIBSRC-LIB44-ENT-VEH-0103465,manufacturer_or_creator,"""Damen Shipyards Gala\u021bi""",http://www.wikidata.org/entity/Q52354498
+LIBSRC-LIB44-ENT-VEH-0103471,manufacturer_or_creator,"""STX Offshore & Shipbuilding""",http://www.wikidata.org/entity/Q52354571
+LIBSRC-LIB44-ENT-VEH-0103486,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q52354748
+LIBSRC-LIB44-ENT-VEH-0103489,manufacturer_or_creator,"""Odense Steel Shipyard""",http://www.wikidata.org/entity/Q52354764
+LIBSRC-LIB44-ENT-VEH-0103497,manufacturer_or_creator,"""IHI Marine United""",http://www.wikidata.org/entity/Q52354868
+LIBSRC-LIB44-ENT-VEH-0103540,manufacturer_or_creator,"""Usuki Shipyard""",http://www.wikidata.org/entity/Q52375107
+LIBSRC-LIB44-ENT-VEH-0103545,manufacturer_or_creator,"""Jiangnan Shipyard""",http://www.wikidata.org/entity/Q52375133
+LIBSRC-LIB44-ENT-VEH-0103566,manufacturer_or_creator,"""Hakodate Dock""",http://www.wikidata.org/entity/Q52375256
+LIBSRC-LIB44-ENT-VEH-0103714,manufacturer_or_creator,"""Kleven Verft""",http://www.wikidata.org/entity/Q52377216
+LIBSRC-LIB44-ENT-VEH-0106008,manufacturer_or_creator,"""Czechoslovak shipping company Labsk\u00e1""",http://www.wikidata.org/entity/Q56249111
+LIBSRC-LIB44-ENT-VEH-0118455,manufacturer_or_creator,"""Imabari Shipbuilding Hiroshima Shipyard""",http://www.wikidata.org/entity/Q83488402
+LIBSRC-LIB44-ENT-VEH-0118677,manufacturer_or_creator,"""Pella Sietas""",http://www.wikidata.org/entity/Q83493327
+LIBSRC-LIB44-ENT-VEH-0119042,manufacturer_or_creator,"""Stocznia Gdynia""",http://www.wikidata.org/entity/Q83568497
+LIBSRC-LIB44-ENT-VEH-0120111,manufacturer_or_creator,"""Scheepswerf Peters, Kampen""",http://www.wikidata.org/entity/Q83586193
+LIBSRC-LIB44-ENT-VEH-0120487,manufacturer_or_creator,"""Oshima Shipbuilding""",http://www.wikidata.org/entity/Q83591953
+LIBSRC-LIB44-ENT-VEH-0120814,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q83596409
+LIBSRC-LIB44-ENT-VEH-0120831,manufacturer_or_creator,"""IHI Marine United""",http://www.wikidata.org/entity/Q83596610
+LIBSRC-LIB44-ENT-VEH-0121479,manufacturer_or_creator,"""HD Hyundai Samho""",http://www.wikidata.org/entity/Q83605814
+LIBSRC-LIB44-ENT-VEH-0121612,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q83607671
+LIBSRC-LIB44-ENT-VEH-0121615,manufacturer_or_creator,"""Vard Tulcea""",http://www.wikidata.org/entity/Q83607718
+LIBSRC-LIB44-ENT-VEH-0121972,manufacturer_or_creator,"""Onomichi Dockyard""",http://www.wikidata.org/entity/Q83626665
+LIBSRC-LIB44-ENT-VEH-0122365,manufacturer_or_creator,"""SLKB Komarno \u2013 Slovak Shipyard Kom\u00e1rno""",http://www.wikidata.org/entity/Q83627946
+LIBSRC-LIB44-ENT-VEH-0122528,manufacturer_or_creator,"""Lindenau Shipyard""",http://www.wikidata.org/entity/Q83628291
+LIBSRC-LIB44-ENT-VEH-0122638,manufacturer_or_creator,"""Damen Shipyards Bergum""",http://www.wikidata.org/entity/Q83628526
+LIBSRC-LIB44-ENT-VEH-0122779,manufacturer_or_creator,"""Astilleros Arm\u00f3n Vigo""",http://www.wikidata.org/entity/Q83628891
+LIBSRC-LIB44-ENT-VEH-0122812,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q83629034
+LIBSRC-LIB44-ENT-VEH-0123273,manufacturer_or_creator,"""Vard Tulcea""",http://www.wikidata.org/entity/Q83631362
+LIBSRC-LIB44-ENT-VEH-0123358,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q83631476
+LIBSRC-LIB44-ENT-VEH-0123728,manufacturer_or_creator,"""Hanwha Ocean""",http://www.wikidata.org/entity/Q83632009
+LIBSRC-LIB44-ENT-VEH-0010407,manufacturer_or_creator,"""Chengxi Shipyard""",http://www.wikidata.org/entity/Q100417338
+LIBSRC-LIB44-ENT-VEH-0010801,manufacturer_or_creator,"""Hanwha Ocean""",http://www.wikidata.org/entity/Q101892886
+LIBSRC-LIB44-ENT-VEH-0010809,manufacturer_or_creator,"""Mitsui Tamano Shipyard""",http://www.wikidata.org/entity/Q101893724
+LIBSRC-LIB44-ENT-VEH-0034576,manufacturer_or_creator,"""Imabari Shipbuilding Hiroshima Shipyard""",http://www.wikidata.org/entity/Q105303324
+LIBSRC-LIB44-ENT-VEH-0034717,manufacturer_or_creator,"""Oshima Shipbuilding""",http://www.wikidata.org/entity/Q105321464
+LIBSRC-LIB44-ENT-VEH-0034746,manufacturer_or_creator,"""Imabari Shipbuilding""",http://www.wikidata.org/entity/Q105321508
+LIBSRC-LIB44-ENT-VEH-0034750,manufacturer_or_creator,"""Howaldtswerke-Deutsche Werft""",http://www.wikidata.org/entity/Q105321513
+LIBSRC-LIB44-ENT-VEH-0034792,manufacturer_or_creator,"""Imabari Shipbuilding Hiroshima Shipyard""",http://www.wikidata.org/entity/Q105321575
+LIBSRC-LIB44-ENT-VEH-0034901,manufacturer_or_creator,"""Imabari Shipbuilding""",http://www.wikidata.org/entity/Q105333666
+LIBSRC-LIB44-ENT-VEH-0034911,manufacturer_or_creator,"""Iwagi Zosen""",http://www.wikidata.org/entity/Q105333678
+LIBSRC-LIB44-ENT-VEH-0034936,manufacturer_or_creator,"""Sasebo Heavy Industries""",http://www.wikidata.org/entity/Q105333710
+LIBSRC-LIB44-ENT-VEH-0035057,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q105333907
+LIBSRC-LIB44-ENT-VEH-0035058,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q105333908
+LIBSRC-LIB44-ENT-VEH-0035059,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q105333909
+LIBSRC-LIB44-ENT-VEH-0035420,manufacturer_or_creator,"""Hakodate Dock""",http://www.wikidata.org/entity/Q105764330
+LIBSRC-LIB44-ENT-VEH-0035552,manufacturer_or_creator,"""Flensburger Schiffbau-Gesellschaft""",http://www.wikidata.org/entity/Q105764483
+LIBSRC-LIB44-ENT-VEH-0035570,manufacturer_or_creator,"""Vyborg Shipyard""",http://www.wikidata.org/entity/Q105764509
+LIBSRC-LIB44-ENT-VEH-0035771,manufacturer_or_creator,"""Universal Shipbuilding""",http://www.wikidata.org/entity/Q105764760
+LIBSRC-LIB44-ENT-VEH-0036035,manufacturer_or_creator,"""Imabari Shipbuilding""",http://www.wikidata.org/entity/Q105765081
+LIBSRC-LIB44-ENT-VEH-0036133,manufacturer_or_creator,"""Imabari Shipbuilding""",http://www.wikidata.org/entity/Q105765210
+LIBSRC-LIB44-ENT-VEH-0036140,manufacturer_or_creator,"""Imabari Shipbuilding""",http://www.wikidata.org/entity/Q105765217
+LIBSRC-LIB44-ENT-VEH-0036340,manufacturer_or_creator,"""Shimanami Shipyard""",http://www.wikidata.org/entity/Q105765453
+LIBSRC-LIB44-ENT-VEH-0040678,manufacturer_or_creator,"""Cantiere Navale de Poli S.p.A.""",http://www.wikidata.org/entity/Q107070433
+LIBSRC-LIB44-ENT-VEH-0050648,manufacturer_or_creator,"""Imabari Shipbuilding Marugame Headquarters""",http://www.wikidata.org/entity/Q117024287
+LIBSRC-LIB44-ENT-VEH-0050783,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q117024440
+LIBSRC-LIB44-ENT-VEH-0051047,manufacturer_or_creator,"""Tsuneishi Shipbuilding""",http://www.wikidata.org/entity/Q117024728
+LIBSRC-LIB44-ENT-VEH-0124631,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q83637850
+LIBSRC-LIB44-ENT-VEH-0124705,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q83637979
+LIBSRC-LIB44-ENT-VEH-0124748,manufacturer_or_creator,"""Pella Sietas""",http://www.wikidata.org/entity/Q83638048
+LIBSRC-LIB44-ENT-VEH-0124931,manufacturer_or_creator,"""Royal Niestern Sander""",http://www.wikidata.org/entity/Q83638375
+LIBSRC-LIB44-ENT-VEH-0125328,manufacturer_or_creator,"""Hudong-Zhonghua Shipbuilding""",http://www.wikidata.org/entity/Q83639042
+LIBSRC-LIB44-ENT-VEH-0125350,manufacturer_or_creator,"""Onomichi Dockyard""",http://www.wikidata.org/entity/Q83639079
+LIBSRC-LIB44-ENT-VEH-0125609,manufacturer_or_creator,"""Damen Yichang Shipyard""",http://www.wikidata.org/entity/Q83639535
+LIBSRC-LIB44-ENT-VEH-0125783,manufacturer_or_creator,"""Imabari Shipbuilding Hiroshima Shipyard""",http://www.wikidata.org/entity/Q83639837
+LIBSRC-LIB44-ENT-VEH-0125784,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q83639838
+LIBSRC-LIB44-ENT-VEH-0126741,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q83641557
+LIBSRC-LIB44-ENT-VEH-0126777,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q83641631
+LIBSRC-LIB44-ENT-VEH-0128736,manufacturer_or_creator,"""Oshima Shipbuilding""",http://www.wikidata.org/entity/Q83646978
+LIBSRC-LIB44-ENT-VEH-0128750,manufacturer_or_creator,"""Riga Shipyard""",http://www.wikidata.org/entity/Q83647025
+LIBSRC-LIB44-ENT-VEH-0128980,manufacturer_or_creator,"""Oshima Shipbuilding""",http://www.wikidata.org/entity/Q83647824
+LIBSRC-LIB44-ENT-VEH-0129600,manufacturer_or_creator,"""Tsuneishi Shipbuilding""",http://www.wikidata.org/entity/Q83649667
+LIBSRC-LIB44-ENT-VEH-0129853,manufacturer_or_creator,"""Astilleros Balenciaga""",http://www.wikidata.org/entity/Q83650390
+LIBSRC-LIB44-ENT-VEH-0130118,manufacturer_or_creator,"""Hanwha Ocean""",http://www.wikidata.org/entity/Q83651186
+LIBSRC-LIB44-ENT-VEH-0130239,manufacturer_or_creator,"""Torgem Shipyard""",http://www.wikidata.org/entity/Q83651531
+LIBSRC-LIB44-ENT-VEH-0130901,manufacturer_or_creator,"""Jiangnan Shipyard""",http://www.wikidata.org/entity/Q83653267
+LIBSRC-LIB44-ENT-VEH-0131198,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q84228612
+LIBSRC-LIB44-ENT-VEH-0133177,manufacturer_or_creator,"""Fujian Southeast Shipyard""",http://www.wikidata.org/entity/Q84257150
+LIBSRC-LIB44-ENT-VEH-0134245,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q84260930
+LIBSRC-LIB44-ENT-VEH-0134263,manufacturer_or_creator,"""CSC Jinling""",http://www.wikidata.org/entity/Q84260993
+LIBSRC-LIB44-ENT-VEH-0134265,manufacturer_or_creator,"""Stocznia Gdynia""",http://www.wikidata.org/entity/Q84260995
+LIBSRC-LIB44-ENT-VEH-0134282,manufacturer_or_creator,"""Qingshan Shipyard""",http://www.wikidata.org/entity/Q84261020
+LIBSRC-LIB44-ENT-VEH-0134282,material_identity,"""steel""",http://www.wikidata.org/entity/Q84261020
+LIBSRC-LIB44-ENT-VEH-0134288,manufacturer_or_creator,"""Guangzhou Wenchong Shipyard""",http://www.wikidata.org/entity/Q84261029
+LIBSRC-LIB44-ENT-VEH-0134393,manufacturer_or_creator,"""Peene-Werft""",http://www.wikidata.org/entity/Q84261305
+LIBSRC-LIB44-ENT-VEH-0134443,manufacturer_or_creator,"""Peene-Werft""",http://www.wikidata.org/entity/Q84261466
+LIBSRC-LIB44-ENT-VEH-0137940,manufacturer_or_creator,"""Tsuneishi Miho Shipbuilding""",http://www.wikidata.org/entity/Q85977579
+LIBSRC-LIB44-ENT-VEH-0138068,manufacturer_or_creator,"""Cheoy Lee Shipyards Ltd.""",http://www.wikidata.org/entity/Q85979008
+LIBSRC-LIB44-ENT-VEH-0138202,manufacturer_or_creator,"""Larsnes Mekaniske Verkstad""",http://www.wikidata.org/entity/Q85980264
+LIBSRC-LIB44-ENT-VEH-0138501,manufacturer_or_creator,"""Damen Shipyards Gorinchem""",http://www.wikidata.org/entity/Q85983324
+LIBSRC-LIB44-ENT-VEH-0140917,manufacturer_or_creator,"""Blohm+Voss""",http://www.wikidata.org/entity/Q901855
+LIBSRC-LIB44-ENT-VEH-0140966,manufacturer_or_creator,"""Oshima Shipbuilding""",http://www.wikidata.org/entity/Q91406231
+LIBSRC-LIB44-ENT-VEH-0142031,manufacturer_or_creator,"""Mitsubishi Heavy Industries""",http://www.wikidata.org/entity/Q97729316
+LIBSRC-LIB44-ENT-VEH-0145467,manufacturer_or_creator,"""Mitsui Tamano Shipyard""",http://www.wikidata.org/entity/Q98214951
+LIBSRC-LIB44-ENT-VEH-0091802,manufacturer_or_creator,"""Hijos de J. Barreras""",http://www.wikidata.org/entity/Q18632467
+LIBSRC-LIB44-ENT-VEH-0092039,manufacturer_or_creator,"""Szczecin Shipyard""",http://www.wikidata.org/entity/Q18763147
+LIBSRC-LIB44-ENT-VEH-0092263,manufacturer_or_creator,"""Br\u00f8drene Aa""",http://www.wikidata.org/entity/Q19380742
+LIBSRC-LIB44-ENT-VEH-0092576,manufacturer_or_creator,"""Fincantieri""",http://www.wikidata.org/entity/Q1996454
+LIBSRC-LIB44-ENT-VEH-0092841,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q20576332
+LIBSRC-LIB44-ENT-VEH-0100088,manufacturer_or_creator,"""Szczecin Shipyard""",http://www.wikidata.org/entity/Q47519886
+LIBSRC-LIB44-ENT-VEH-0103511,manufacturer_or_creator,"""HJ Shipbuilding & Construction""",http://www.wikidata.org/entity/Q52355055
+LIBSRC-LIB44-ENT-VEH-0103514,manufacturer_or_creator,"""Japan Marine United Corporation""",http://www.wikidata.org/entity/Q52355086
+LIBSRC-LIB44-ENT-VEH-0103533,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q52375062
+LIBSRC-LIB44-ENT-VEH-0103574,manufacturer_or_creator,"""CSC Jinling""",http://www.wikidata.org/entity/Q52375324
+LIBSRC-LIB44-ENT-VEH-0103617,manufacturer_or_creator,"""Cochin Shipyard""",http://www.wikidata.org/entity/Q52375639
+LIBSRC-LIB44-ENT-VEH-0103619,manufacturer_or_creator,"""Flensburger Schiffbau-Gesellschaft""",http://www.wikidata.org/entity/Q52375650
+LIBSRC-LIB44-ENT-VEH-0103659,manufacturer_or_creator,"""ASL Shipyard""",http://www.wikidata.org/entity/Q52375889
+LIBSRC-LIB44-ENT-VEH-0103734,manufacturer_or_creator,"""Pella Sietas""",http://www.wikidata.org/entity/Q52377339
+LIBSRC-LIB44-ENT-VEH-0103737,manufacturer_or_creator,"""Rolandwerft""",http://www.wikidata.org/entity/Q52377373
+LIBSRC-LIB44-ENT-VEH-0104688,manufacturer_or_creator,"""S\u00f8viknes Verft""",http://www.wikidata.org/entity/Q52512686
+LIBSRC-LIB44-ENT-VEH-0104689,manufacturer_or_creator,"""Q17749542""",http://www.wikidata.org/entity/Q52512698
+LIBSRC-LIB44-ENT-VEH-0104704,manufacturer_or_creator,"""M\u00e5l\u00f8y verft""",http://www.wikidata.org/entity/Q52513001
+LIBSRC-LIB44-ENT-VEH-0109340,manufacturer_or_creator,"""Chengxi Shipyard""",http://www.wikidata.org/entity/Q60392672
+LIBSRC-LIB44-ENT-VEH-0118568,manufacturer_or_creator,"""Pella Sietas""",http://www.wikidata.org/entity/Q83490193
+LIBSRC-LIB44-ENT-VEH-0118788,manufacturer_or_creator,"""Damen Shipyards Hardinxveld""",http://www.wikidata.org/entity/Q83563300
+LIBSRC-LIB44-ENT-VEH-0118935,manufacturer_or_creator,"""Mitsubishi Heavy Industries Nagasaki Shipyard & Machinery""",http://www.wikidata.org/entity/Q83566656
+LIBSRC-LIB44-ENT-VEH-0119063,manufacturer_or_creator,"""Hanwha Ocean""",http://www.wikidata.org/entity/Q83569066
+LIBSRC-LIB44-ENT-VEH-0119937,manufacturer_or_creator,"""Damen Shipyards Gala\u021bi""",http://www.wikidata.org/entity/Q83583441
+LIBSRC-LIB44-ENT-VEH-0120069,manufacturer_or_creator,"""Marine Projects (Poland)""",http://www.wikidata.org/entity/Q83585469
+LIBSRC-LIB44-ENT-VEH-0120752,manufacturer_or_creator,"""Shanghai Waigaoqiao Shipbuilding""",http://www.wikidata.org/entity/Q83595510
+LIBSRC-LIB44-ENT-VEH-0120965,manufacturer_or_creator,"""Dalian Shipbuilding Industry Company""",http://www.wikidata.org/entity/Q83598657
+LIBSRC-LIB44-ENT-VEH-0120967,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q83598703
+LIBSRC-LIB44-ENT-VEH-0121030,manufacturer_or_creator,"""HD Hyundai Samho""",http://www.wikidata.org/entity/Q83599580
+LIBSRC-LIB44-ENT-VEH-0121195,manufacturer_or_creator,"""HD Hyundai Samho""",http://www.wikidata.org/entity/Q83601791
+LIBSRC-LIB44-ENT-VEH-0121220,manufacturer_or_creator,"""Ruse Shipyard""",http://www.wikidata.org/entity/Q83602095
+LIBSRC-LIB44-ENT-VEH-0121313,manufacturer_or_creator,"""Odense Steel Shipyard""",http://www.wikidata.org/entity/Q83603227
+LIBSRC-LIB44-ENT-VEH-0121325,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q83603366
+LIBSRC-LIB44-ENT-VEH-0121794,manufacturer_or_creator,"""Tsuneishi Shipbuilding""",http://www.wikidata.org/entity/Q83610086
+LIBSRC-LIB44-ENT-VEH-0121809,manufacturer_or_creator,"""Shin Kurushima Dockyard""",http://www.wikidata.org/entity/Q83610359
+LIBSRC-LIB44-ENT-VEH-0121887,manufacturer_or_creator,"""Fujian Mawei Shipbuilding""",http://www.wikidata.org/entity/Q83626394
+LIBSRC-LIB44-ENT-VEH-0122285,manufacturer_or_creator,"""Baltijos laiv\u0173 statykla, AB""",http://www.wikidata.org/entity/Q83627762
+LIBSRC-LIB44-ENT-VEH-0122890,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q83629312
+LIBSRC-LIB44-ENT-VEH-0123625,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q83631849
+LIBSRC-LIB44-ENT-VEH-0123656,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q83631896
+LIBSRC-LIB44-ENT-VEH-0123679,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q83631937
+LIBSRC-LIB44-ENT-VEH-0123807,manufacturer_or_creator,"""Hike Metal Products""",http://www.wikidata.org/entity/Q83632114
+LIBSRC-LIB44-ENT-VEH-0010785,manufacturer_or_creator,"""Tsuneishi Shipbuilding""",http://www.wikidata.org/entity/Q101891583
+LIBSRC-LIB44-ENT-VEH-0010819,manufacturer_or_creator,"""CSSC Offshore & Marine Engineering Company""",http://www.wikidata.org/entity/Q101894688
+LIBSRC-LIB44-ENT-VEH-0010822,manufacturer_or_creator,"""Hudong-Zhonghua Shipbuilding""",http://www.wikidata.org/entity/Q101895005
+LIBSRC-LIB44-ENT-VEH-0011398,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q1024166
+LIBSRC-LIB44-ENT-VEH-0034670,manufacturer_or_creator,"""Universal Shipbuilding""",http://www.wikidata.org/entity/Q105303506
+LIBSRC-LIB44-ENT-VEH-0034682,manufacturer_or_creator,"""Shin Kurushima Dockyard""",http://www.wikidata.org/entity/Q105303529
+LIBSRC-LIB44-ENT-VEH-0034684,manufacturer_or_creator,"""Shinkurushima Toyohashi Shipbuilding""",http://www.wikidata.org/entity/Q105303533
+LIBSRC-LIB44-ENT-VEH-0034707,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q105303571
+LIBSRC-LIB44-ENT-VEH-0034923,manufacturer_or_creator,"""Tsuneishi Shipbuilding""",http://www.wikidata.org/entity/Q105333693
+LIBSRC-LIB44-ENT-VEH-0034966,manufacturer_or_creator,"""Dalian Shipbuilding Industry Company""",http://www.wikidata.org/entity/Q105333753
+LIBSRC-LIB44-ENT-VEH-0034968,manufacturer_or_creator,"""Hakodate Dock""",http://www.wikidata.org/entity/Q105333757
+LIBSRC-LIB44-ENT-VEH-0035020,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q105333849
+LIBSRC-LIB44-ENT-VEH-0035406,manufacturer_or_creator,"""Oshima Shipbuilding""",http://www.wikidata.org/entity/Q105764314
+LIBSRC-LIB44-ENT-VEH-0035410,manufacturer_or_creator,"""Oshima Shipbuilding""",http://www.wikidata.org/entity/Q105764318
+LIBSRC-LIB44-ENT-VEH-0035440,manufacturer_or_creator,"""Dalian Shipbuilding Industry Company""",http://www.wikidata.org/entity/Q105764352
+LIBSRC-LIB44-ENT-VEH-0035476,manufacturer_or_creator,"""Mangalia Shipyard""",http://www.wikidata.org/entity/Q105764394
+LIBSRC-LIB44-ENT-VEH-0035507,manufacturer_or_creator,"""IHI Marine United""",http://www.wikidata.org/entity/Q105764427
+LIBSRC-LIB44-ENT-VEH-0035528,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q105764451
+LIBSRC-LIB44-ENT-VEH-0035649,manufacturer_or_creator,"""Hanwha Ocean""",http://www.wikidata.org/entity/Q105764610
+LIBSRC-LIB44-ENT-VEH-0035656,manufacturer_or_creator,"""Universal Shipbuilding""",http://www.wikidata.org/entity/Q105764620
+LIBSRC-LIB44-ENT-VEH-0035741,manufacturer_or_creator,"""Namura Shipbuilding""",http://www.wikidata.org/entity/Q105764726
+LIBSRC-LIB44-ENT-VEH-0035899,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q105764916
+LIBSRC-LIB44-ENT-VEH-0035909,manufacturer_or_creator,"""Vard Tulcea""",http://www.wikidata.org/entity/Q105764931
+LIBSRC-LIB44-ENT-VEH-0035959,manufacturer_or_creator,"""Universal Shipbuilding""",http://www.wikidata.org/entity/Q105764989
+LIBSRC-LIB44-ENT-VEH-0036137,manufacturer_or_creator,"""Imabari Shipbuilding""",http://www.wikidata.org/entity/Q105765214
+LIBSRC-LIB44-ENT-VEH-0036158,manufacturer_or_creator,"""Oshima Shipbuilding""",http://www.wikidata.org/entity/Q105765235
+LIBSRC-LIB44-ENT-VEH-0036169,manufacturer_or_creator,"""Shin Kurushima Dockyard""",http://www.wikidata.org/entity/Q105765248
+LIBSRC-LIB44-ENT-VEH-0036265,manufacturer_or_creator,"""Krasnoye Sormovo Factory No. 112""",http://www.wikidata.org/entity/Q105765360
+LIBSRC-LIB44-ENT-VEH-0036300,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q105765401
+LIBSRC-LIB44-ENT-VEH-0036448,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q105765638
+LIBSRC-LIB44-ENT-VEH-0036750,manufacturer_or_creator,"""Schichau Seebeckwerft""",http://www.wikidata.org/entity/Q105766010
+LIBSRC-LIB44-ENT-VEH-0037194,manufacturer_or_creator,"""Imabari Shipbuilding""",http://www.wikidata.org/entity/Q105766668
+LIBSRC-LIB44-ENT-VEH-0037195,manufacturer_or_creator,"""Imabari Shipbuilding""",http://www.wikidata.org/entity/Q105766669
+LIBSRC-LIB44-ENT-VEH-0037197,manufacturer_or_creator,"""Shimanami Shipyard""",http://www.wikidata.org/entity/Q105766671
+LIBSRC-LIB44-ENT-VEH-0065678,manufacturer_or_creator,"""Szczecin Shipyard""",http://www.wikidata.org/entity/Q11880146
+LIBSRC-LIB44-ENT-VEH-0065717,manufacturer_or_creator,"""Szczecin Shipyard""",http://www.wikidata.org/entity/Q11880220
+LIBSRC-LIB44-ENT-VEH-0124496,manufacturer_or_creator,"""Dalian Shipbuilding Industry Company""",http://www.wikidata.org/entity/Q83637611
+LIBSRC-LIB44-ENT-VEH-0124563,manufacturer_or_creator,"""HJ Shipbuilding & Construction""",http://www.wikidata.org/entity/Q83637714
+LIBSRC-LIB44-ENT-VEH-0124708,manufacturer_or_creator,"""3. Maj""",http://www.wikidata.org/entity/Q83637982
+LIBSRC-LIB44-ENT-VEH-0125031,manufacturer_or_creator,"""Hanwha Ocean""",http://www.wikidata.org/entity/Q83638550
+LIBSRC-LIB44-ENT-VEH-0125136,manufacturer_or_creator,"""Krasnoye Sormovo Factory No. 112""",http://www.wikidata.org/entity/Q83638726
+LIBSRC-LIB44-ENT-VEH-0125962,manufacturer_or_creator,"""Mitsui Tamano Shipyard""",http://www.wikidata.org/entity/Q83640167
+LIBSRC-LIB44-ENT-VEH-0126181,manufacturer_or_creator,"""CSC Jinling""",http://www.wikidata.org/entity/Q83640537
+LIBSRC-LIB44-ENT-VEH-0126280,manufacturer_or_creator,"""Iwagi Zosen""",http://www.wikidata.org/entity/Q83640773
+LIBSRC-LIB44-ENT-VEH-0126445,manufacturer_or_creator,"""Oshima Shipbuilding""",http://www.wikidata.org/entity/Q83640994
+LIBSRC-LIB44-ENT-VEH-0126504,manufacturer_or_creator,"""Freire Shipyard""",http://www.wikidata.org/entity/Q83641079
+LIBSRC-LIB44-ENT-VEH-0126599,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q83641264
+LIBSRC-LIB44-ENT-VEH-0127197,manufacturer_or_creator,"""Hakodate Dock""",http://www.wikidata.org/entity/Q83642354
+LIBSRC-LIB44-ENT-VEH-0127243,manufacturer_or_creator,"""Imabari Shipbuilding Hiroshima Shipyard""",http://www.wikidata.org/entity/Q83642445
+LIBSRC-LIB44-ENT-VEH-0129175,manufacturer_or_creator,"""Qingshan Shipyard""",http://www.wikidata.org/entity/Q83648472
+LIBSRC-LIB44-ENT-VEH-0129634,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q83649763
+LIBSRC-LIB44-ENT-VEH-0129649,manufacturer_or_creator,"""HJ Shipbuilding & Construction""",http://www.wikidata.org/entity/Q83649819
+LIBSRC-LIB44-ENT-VEH-0130326,manufacturer_or_creator,"""Stocznia Gdynia""",http://www.wikidata.org/entity/Q83651778
+LIBSRC-LIB44-ENT-VEH-0131974,manufacturer_or_creator,"""Minaminippon Shipbuilding""",http://www.wikidata.org/entity/Q84253625
+LIBSRC-LIB44-ENT-VEH-0133174,manufacturer_or_creator,"""CRIST""",http://www.wikidata.org/entity/Q84257143
+LIBSRC-LIB44-ENT-VEH-0133176,manufacturer_or_creator,"""CRIST""",http://www.wikidata.org/entity/Q84257148
+LIBSRC-LIB44-ENT-VEH-0133237,manufacturer_or_creator,"""Imabari Shipbuilding""",http://www.wikidata.org/entity/Q84257294
+LIBSRC-LIB44-ENT-VEH-0133554,manufacturer_or_creator,"""Volharding Shipyards""",http://www.wikidata.org/entity/Q84258152
+LIBSRC-LIB44-ENT-VEH-0134254,manufacturer_or_creator,"""Fujian Mawei Shipbuilding""",http://www.wikidata.org/entity/Q84260961
+LIBSRC-LIB44-ENT-VEH-0134279,manufacturer_or_creator,"""Qingshan Shipyard""",http://www.wikidata.org/entity/Q84261017
+LIBSRC-LIB44-ENT-VEH-0134338,manufacturer_or_creator,"""Fujian Mawei Shipbuilding""",http://www.wikidata.org/entity/Q84261126
+LIBSRC-LIB44-ENT-VEH-0134361,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q84261227
+LIBSRC-LIB44-ENT-VEH-0134406,manufacturer_or_creator,"""Meyer Wismar""",http://www.wikidata.org/entity/Q84261356
+LIBSRC-LIB44-ENT-VEH-0134412,manufacturer_or_creator,"""Bodewes Shipyards""",http://www.wikidata.org/entity/Q84261372
+LIBSRC-LIB44-ENT-VEH-0134437,manufacturer_or_creator,"""Meyer Wismar""",http://www.wikidata.org/entity/Q84261439
+LIBSRC-LIB44-ENT-VEH-0134461,manufacturer_or_creator,"""Rolandwerft""",http://www.wikidata.org/entity/Q84261509
+LIBSRC-LIB44-ENT-VEH-0134462,manufacturer_or_creator,"""Rolandwerft""",http://www.wikidata.org/entity/Q84261515
+LIBSRC-LIB44-ENT-VEH-0134572,manufacturer_or_creator,"""Peene-Werft""",http://www.wikidata.org/entity/Q84261812
+LIBSRC-LIB44-ENT-VEH-0135280,manufacturer_or_creator,"""HJ Shipbuilding & Construction""",http://www.wikidata.org/entity/Q84264520
+LIBSRC-LIB44-ENT-VEH-0135283,manufacturer_or_creator,"""HJ Shipbuilding & Construction""",http://www.wikidata.org/entity/Q84264529
+LIBSRC-LIB44-ENT-VEH-0135332,manufacturer_or_creator,"""Bulyard""",http://www.wikidata.org/entity/Q84264633
+LIBSRC-LIB44-ENT-VEH-0137780,manufacturer_or_creator,"""Oshima Shipbuilding""",http://www.wikidata.org/entity/Q85974984
+LIBSRC-LIB44-ENT-VEH-0137882,manufacturer_or_creator,"""Remontowa""",http://www.wikidata.org/entity/Q85976520
+LIBSRC-LIB44-ENT-VEH-0137891,manufacturer_or_creator,"""Imabari Shipbuilding""",http://www.wikidata.org/entity/Q85976686
+LIBSRC-LIB44-ENT-VEH-0137892,manufacturer_or_creator,"""Yangzhou Binjiang Shipbuilding""",http://www.wikidata.org/entity/Q85976695
+LIBSRC-LIB44-ENT-VEH-0138015,manufacturer_or_creator,"""Damen Shipyards Gorinchem""",http://www.wikidata.org/entity/Q85978522
+LIBSRC-LIB44-ENT-VEH-0138129,manufacturer_or_creator,"""Damen Shipyards Gorinchem""",http://www.wikidata.org/entity/Q85979598
+LIBSRC-LIB44-ENT-VEH-0138448,manufacturer_or_creator,"""Iwagi Zosen""",http://www.wikidata.org/entity/Q85982651
+LIBSRC-LIB44-ENT-VEH-0138491,manufacturer_or_creator,"""Swiftships""",http://www.wikidata.org/entity/Q85983167
+LIBSRC-LIB44-ENT-VEH-0138622,manufacturer_or_creator,"""Imabari Shipbuilding""",http://www.wikidata.org/entity/Q85984791
+LIBSRC-LIB44-ENT-VEH-0139200,manufacturer_or_creator,"""Murakami Hide Shipbuilding""",http://www.wikidata.org/entity/Q86059564
+LIBSRC-LIB44-ENT-VEH-0139341,manufacturer_or_creator,"""Shin Kurushima Dockyard""",http://www.wikidata.org/entity/Q86060010
+LIBSRC-LIB44-ENT-VEH-0140893,manufacturer_or_creator,"""Tsuneishi Kure Dock""",http://www.wikidata.org/entity/Q89758755
+LIBSRC-LIB44-ENT-VEH-0088060,manufacturer_or_creator,"""Vitters Shipyard""",http://www.wikidata.org/entity/Q131459514
+LIBSRC-LIB44-ENT-VEH-0088081,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q131552875
+LIBSRC-LIB44-ENT-VEH-0088283,manufacturer_or_creator,"""Oceanco""",http://www.wikidata.org/entity/Q1328104
+LIBSRC-LIB44-ENT-VEH-0088364,manufacturer_or_creator,"""Aker Finnyards""",http://www.wikidata.org/entity/Q133606
+LIBSRC-LIB44-ENT-VEH-0094176,manufacturer_or_creator,"""S\u00f8viknes Verft""",http://www.wikidata.org/entity/Q23878182
+LIBSRC-LIB44-ENT-VEH-0096157,manufacturer_or_creator,"""Fassmer""",http://www.wikidata.org/entity/Q2837045
+LIBSRC-LIB44-ENT-VEH-0096908,manufacturer_or_creator,"""Bollinger Shipyards""",http://www.wikidata.org/entity/Q30602556
+LIBSRC-LIB44-ENT-VEH-0100087,manufacturer_or_creator,"""Szczecin Shipyard""",http://www.wikidata.org/entity/Q47519883
+LIBSRC-LIB44-ENT-VEH-0103402,manufacturer_or_creator,"""Factor\u00edas Vulcano""",http://www.wikidata.org/entity/Q52353754
+LIBSRC-LIB44-ENT-VEH-0103527,manufacturer_or_creator,"""Mitsubishi Heavy Industries Kobe Shipyard & Machinery Works""",http://www.wikidata.org/entity/Q52375026
+LIBSRC-LIB44-ENT-VEH-0103666,manufacturer_or_creator,"""Jiangsu Yangzijiang Shipbuilding""",http://www.wikidata.org/entity/Q52375932
+LIBSRC-LIB44-ENT-VEH-0103672,manufacturer_or_creator,"""HD Hyundai Heavy Industries""",http://www.wikidata.org/entity/Q52375971
+LIBSRC-LIB44-ENT-VEH-0103696,manufacturer_or_creator,"""HD Hyundai Mipo""",http://www.wikidata.org/entity/Q52376186
+LIBSRC-LIB44-ENT-VEH-0103730,manufacturer_or_creator,"""Gryfia""",http://www.wikidata.org/entity/Q52377306
+LIBSRC-LIB44-ENT-VEH-0103740,manufacturer_or_creator,"""Royal IHC""",http://www.wikidata.org/entity/Q52377406
+LIBSRC-LIB44-ENT-VEH-0103754,manufacturer_or_creator,"""Myklebust Verft""",http://www.wikidata.org/entity/Q52377562
+LIBSRC-LIB44-ENT-VEH-0103773,manufacturer_or_creator,"""Astilleros Arm\u00f3n Vigo""",http://www.wikidata.org/entity/Q52377733
+LIBSRC-LIB44-ENT-VEH-0103788,manufacturer_or_creator,"""Rolandwerft""",http://www.wikidata.org/entity/Q52377834
+LIBSRC-LIB44-ENT-VEH-0103911,manufacturer_or_creator,"""Kraljevica Shipyard""",http://www.wikidata.org/entity/Q52378447
+LIBSRC-LIB44-ENT-VEH-0103918,manufacturer_or_creator,"""Fiskerstrand Verft""",http://www.wikidata.org/entity/Q52378777
+LIBSRC-LIB44-ENT-VEH-0104690,manufacturer_or_creator,"""Langsten Slip & B\u00e5tbyggeri""",http://www.wikidata.org/entity/Q52512715
+LIBSRC-LIB44-ENT-VEH-0104695,manufacturer_or_creator,"""S\u00f8viknes Verft""",http://www.wikidata.org/entity/Q52512816
+LIBSRC-LIB44-ENT-VEH-0104700,manufacturer_or_creator,"""Trosvik Verksted""",http://www.wikidata.org/entity/Q52512904
+LIBSRC-LIB44-ENT-VEH-0104708,manufacturer_or_creator,"""Ulstein Verft""",http://www.wikidata.org/entity/Q52513065
+LIBSRC-LIB44-ENT-VEH-0108493,manufacturer_or_creator,"""Royal IHC""",http://www.wikidata.org/entity/Q56375381
+LIBSRC-LIB44-ENT-VEH-0108839,manufacturer_or_creator,"""L\u00fcrssen-Kr\u00f6ger-Werft""",http://www.wikidata.org/entity/Q57661839
+LIBSRC-LIB44-ENT-VEH-0108946,manufacturer_or_creator,"""Imabari Shipbuilding Marugame Headquarters""",http://www.wikidata.org/entity/Q98416071
+LIBSRC-LIB44-ENT-VEH-0110697,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q6717747
+LIBSRC-LIB44-ENT-VEH-0111046,manufacturer_or_creator,"""Ferguson Marine""",http://www.wikidata.org/entity/Q6719772
+LIBSRC-LIB44-ENT-VEH-0113134,manufacturer_or_creator,"""Samsung Heavy Industries""",http://www.wikidata.org/entity/Q7698012
+LIBSRC-LIB44-ENT-VEH-0118054,manufacturer_or_creator,"""Neptun Werft""",http://www.wikidata.org/entity/Q790103
+LIBSRC-LIB44-ENT-VEH-0118520,manufacturer_or_creator,"""Imabari Shipbuilding Hiroshima Shipyard""",http://www.wikidata.org/entity/Q83489275
+LIBSRC-LIB44-ENT-VEH-0118521,manufacturer_or_creator,"""Dalian Shipbuilding Industry Company""",http://www.wikidata.org/entity/Q83489277
+LIBSRC-LIB44-ENT-VEH-0118671,manufacturer_or_creator,"""Pella Sietas""",http://www.wikidata.org/entity/Q83493242
+LIBSRC-LIB44-ENT-VEH-0118844,manufacturer_or_creator,"""HJ Shipbuilding & Construction""",http://www.wikidata.org/entity/Q83564607
+LIBSRC-LIB44-ENT-VEH-0120284,manufacturer_or_creator,"""Sungdong Shipbuilding & Marine Engineering""",http://www.wikidata.org/entity/Q83588871
+LIBSRC-LIB44-ENT-VEH-0120370,manufacturer_or_creator,"""IHI Marine United""",http://www.wikidata.org/entity/Q83590239
+LIBSRC-LIB44-ENT-VEH-0121472,manufacturer_or_creator,"""Barkmeijer Shipyards""",http://www.wikidata.org/entity/Q83605672
+LIBSRC-LIB44-ENT-VEH-0121600,manufacturer_or_creator,"""Japan Marine United Corporation""",http://www.wikidata.org/entity/Q83607516
