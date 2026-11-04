@@ -121,6 +121,23 @@ def tokens(text):
     return {t for t in re.findall(r'[a-z0-9]+', text) if t not in STOPWORDS}
 
 
+def plain_text(text):
+    text = unicodedata.normalize('NFKD', text or '')
+    text = ''.join(c for c in text if not unicodedata.combining(c)).casefold()
+    return ' '.join(re.findall(r'[^\W_]+', text))
+
+
+def label_copy(raw, subject):
+    """True when a cell only repeats the row's subject_name: padding, not data."""
+    try:
+        value = json.loads(raw)
+    except (TypeError, ValueError):
+        value = raw
+    if isinstance(value, list) and len(value) == 1:
+        value = value[0]
+    return isinstance(value, str) and bool(plain_text(value)) and plain_text(value) == plain_text(subject)
+
+
 def same_subject(subject, names):
     """True, False, or None when there is nothing to compare."""
     left = tokens(subject)
@@ -246,6 +263,8 @@ def check_rows(rows, category, subjects, columns, skip, opener=urllib.request.ur
             elif i != same[0]:
                 flags[i].append('duplicate_exact')
         subject = subjects.get(key, '')
+        if label_copy(raw, subject):
+            flags[i].append('label_copy')
         entity = entity_of.get(i)
         if len(entities_of_key.get(key, ())) > 1:
             flags[i].append('key_cites_two_entities')
