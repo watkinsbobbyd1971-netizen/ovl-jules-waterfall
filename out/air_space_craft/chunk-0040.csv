@@ -1,0 +1,220 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB44-ENT-VEH-0010272,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q917893
+LIBSRC-LIB44-ENT-VEH-0010272,manufacturer_or_creator,"""Bristol Aeroplane Company""",http://www.wikidata.org/entity/Q917893
+LIBSRC-LIB44-ENT-VEH-0006631,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q2054676
+LIBSRC-LIB44-ENT-VEH-0006631,manufacturer_or_creator,"""Vickers""",http://www.wikidata.org/entity/Q2054676
+LIBSRC-LIB44-ENT-VEH-0007834,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q3644134
+LIBSRC-LIB44-ENT-VEH-0007834,manufacturer_or_creator,"""Breda""",http://www.wikidata.org/entity/Q3644134
+LIBSRC-LIB44-ENT-VEH-0008644,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q4937143
+LIBSRC-LIB44-ENT-VEH-0008644,manufacturer_or_creator,"""Boeing""",http://www.wikidata.org/entity/Q4937143
+LIBSRC-LIB44-ENT-VEH-0008842,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q5241882
+LIBSRC-LIB44-ENT-VEH-0009138,dimension_length,10500.0,http://www.wikidata.org/entity/Q5628921
+LIBSRC-LIB44-ENT-VEH-0009138,span,11000.0,http://www.wikidata.org/entity/Q5628921
+LIBSRC-LIB44-ENT-VEH-0009138,manufacturer_or_creator,"""Hindustan Aeronautics Limited""",http://www.wikidata.org/entity/Q5628921
+LIBSRC-LIB44-ENT-VEH-0009138,propulsion_type,"""TPE331""",http://www.wikidata.org/entity/Q5628921
+LIBSRC-LIB44-ENT-VEH-0009693,manufacturer_or_creator,"""PZL""",http://www.wikidata.org/entity/Q7121226
+LIBSRC-LIB44-ENT-VEH-0006704,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q20909698
+LIBSRC-LIB44-ENT-VEH-0006704,manufacturer_or_creator,"""Caudron""",http://www.wikidata.org/entity/Q20909698
+LIBSRC-LIB44-ENT-VEH-0007215,manufacturer_or_creator,"""Nieuport""",http://www.wikidata.org/entity/Q26909446
+LIBSRC-LIB44-ENT-VEH-0010226,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q85786418
+LIBSRC-LIB44-ENT-VEH-0010226,manufacturer_or_creator,"""Voronezh""",http://www.wikidata.org/entity/Q85786418
+LIBSRC-LIB44-ENT-VEH-0000069,descriptive_identity,"""hot air balloon""",http://www.wikidata.org/entity/Q106043346
+LIBSRC-LIB44-ENT-VEH-0000069,manufacturer_or_creator,"""Schroeder fire balloons""",http://www.wikidata.org/entity/Q106043346
+LIBSRC-LIB44-ENT-VEH-0000268,descriptive_identity,"""aeromedical aircraft""",http://www.wikidata.org/entity/Q111941712
+LIBSRC-LIB44-ENT-VEH-0000268,manufacturer_or_creator,"""Airbus Military""",http://www.wikidata.org/entity/Q111941712
+LIBSRC-LIB44-ENT-VEH-0005111,descriptive_identity,"""proposed aircraft model""",http://www.wikidata.org/entity/Q126939038
+LIBSRC-LIB44-ENT-VEH-0005111,mass,567000.0,http://www.wikidata.org/entity/Q126939038
+LIBSRC-LIB44-ENT-VEH-0005111,manufacturer_or_creator,"""Scaled Composites""",http://www.wikidata.org/entity/Q126939038
+LIBSRC-LIB44-ENT-VEH-0010371,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q39723
+LIBSRC-LIB44-ENT-VEH-0010371,manufacturer_or_creator,"""Myasishchev Design Bureau""",http://www.wikidata.org/entity/Q39723
+LIBSRC-LIB44-ENT-VEH-0010371,propulsion_type,"""Soloviev D-30""",http://www.wikidata.org/entity/Q39723
+LIBSRC-LIB44-ENT-VEH-0007379,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q2862821
+LIBSRC-LIB44-ENT-VEH-0007417,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q2893546
+LIBSRC-LIB44-ENT-VEH-0007789,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q3602307
+LIBSRC-LIB44-ENT-VEH-0007826,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q3644123
+LIBSRC-LIB44-ENT-VEH-0007826,manufacturer_or_creator,"""Breda""",http://www.wikidata.org/entity/Q3644123
+LIBSRC-LIB44-ENT-VEH-0008504,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q4849175
+LIBSRC-LIB44-ENT-VEH-0008556,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q4883463
+LIBSRC-LIB44-ENT-VEH-0008556,manufacturer_or_creator,"""AviaBellanca Aircraft""",http://www.wikidata.org/entity/Q4883463
+LIBSRC-LIB44-ENT-VEH-0009662,descriptive_identity,"""military aircraft""",http://www.wikidata.org/entity/Q7042997
+LIBSRC-LIB44-ENT-VEH-0009704,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q7157809
+LIBSRC-LIB44-ENT-VEH-0009822,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q7390494
+LIBSRC-LIB44-ENT-VEH-0006752,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q21235384
+LIBSRC-LIB44-ENT-VEH-0008527,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q48800638
+LIBSRC-LIB44-ENT-VEH-0008527,manufacturer_or_creator,"""Trixy Aviation Products""",http://www.wikidata.org/entity/Q48800638
+LIBSRC-LIB44-ENT-VEH-0009480,manufacturer_or_creator,"""Caspar-Werke""",http://www.wikidata.org/entity/Q65078032
+LIBSRC-LIB44-ENT-VEH-0009480,propulsion_type,"""Bristol Lucifer""",http://www.wikidata.org/entity/Q65078032
+LIBSRC-LIB44-ENT-VEH-0000140,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q107073275
+LIBSRC-LIB44-ENT-VEH-0000140,manufacturer_or_creator,"""Boeing""",http://www.wikidata.org/entity/Q107073275
+LIBSRC-LIB44-ENT-VEH-0000140,propulsion_type,"""General Electric CF6-80C2""",http://www.wikidata.org/entity/Q107073275
+LIBSRC-LIB44-ENT-VEH-0010382,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q6501
+LIBSRC-LIB44-ENT-VEH-0010382,manufacturer_or_creator,"""Airbus Commercial Aircraft""",http://www.wikidata.org/entity/Q6501
+LIBSRC-LIB44-ENT-VEH-0009805,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q736636
+LIBSRC-LIB44-ENT-VEH-0009805,manufacturer_or_creator,"""Hawker Aircraft""",http://www.wikidata.org/entity/Q736636
+LIBSRC-LIB44-ENT-VEH-0007419,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q2893549
+LIBSRC-LIB44-ENT-VEH-0007743,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q3414478
+LIBSRC-LIB44-ENT-VEH-0007767,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q3508784
+LIBSRC-LIB44-ENT-VEH-0007767,manufacturer_or_creator,"""Nakajima""",http://www.wikidata.org/entity/Q3508784
+LIBSRC-LIB44-ENT-VEH-0008007,manufacturer_or_creator,"""Aermacchi""",http://www.wikidata.org/entity/Q3841989
+LIBSRC-LIB44-ENT-VEH-0008992,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q5463876
+LIBSRC-LIB44-ENT-VEH-0008992,manufacturer_or_creator,"""Focke-Wulf""",http://www.wikidata.org/entity/Q5463876
+LIBSRC-LIB44-ENT-VEH-0009712,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q7180603
+LIBSRC-LIB44-ENT-VEH-0009959,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q7615494
+LIBSRC-LIB44-ENT-VEH-0009967,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q7617663
+LIBSRC-LIB44-ENT-VEH-0000023,manufacturer_or_creator,"""Vickers""",http://www.wikidata.org/entity/Q10390325
+LIBSRC-LIB44-ENT-VEH-0006099,descriptive_identity,"""executive aircraft""",http://www.wikidata.org/entity/Q15622908
+LIBSRC-LIB44-ENT-VEH-0006099,manufacturer_or_creator,"""Beechcraft""",http://www.wikidata.org/entity/Q15622908
+LIBSRC-LIB44-ENT-VEH-0006195,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q16826397
+LIBSRC-LIB44-ENT-VEH-0006195,manufacturer_or_creator,"""Avio Design""",http://www.wikidata.org/entity/Q16826397
+LIBSRC-LIB44-ENT-VEH-0007484,manufacturer_or_creator,"""Bombardier""",http://www.wikidata.org/entity/Q29383325
+LIBSRC-LIB44-ENT-VEH-0000052,dimension_length,163500.0,http://www.wikidata.org/entity/Q105621936
+LIBSRC-LIB44-ENT-VEH-0000052,manufacturer_or_creator,"""Luftschiffbau Zeppelin""",http://www.wikidata.org/entity/Q105621936
+LIBSRC-LIB44-ENT-VEH-0000237,descriptive_identity,"""unmanned aerial vehicle""",http://www.wikidata.org/entity/Q110996818
+LIBSRC-LIB44-ENT-VEH-0000237,manufacturer_or_creator,"""DJI""",http://www.wikidata.org/entity/Q110996818
+LIBSRC-LIB44-ENT-VEH-0001052,descriptive_identity,"""kite balloon""",http://www.wikidata.org/entity/Q119671913
+LIBSRC-LIB44-ENT-VEH-0003169,descriptive_identity,"""kite balloon""",http://www.wikidata.org/entity/Q122419464
+LIBSRC-LIB44-ENT-VEH-0005296,manufacturer_or_creator,"""DJI""",http://www.wikidata.org/entity/Q135479491
+LIBSRC-LIB44-ENT-VEH-0005296,descriptive_identity,"""unmanned aerial vehicle""",http://www.wikidata.org/entity/Q135479491
+LIBSRC-LIB44-ENT-VEH-0010234,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q863617
+LIBSRC-LIB44-ENT-VEH-0006979,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q2453808
+LIBSRC-LIB44-ENT-VEH-0006979,manufacturer_or_creator,"""Sikorsky Aircraft Corporation""",http://www.wikidata.org/entity/Q2453808
+LIBSRC-LIB44-ENT-VEH-0007085,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q2512932
+LIBSRC-LIB44-ENT-VEH-0007923,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q3744434
+LIBSRC-LIB44-ENT-VEH-0008162,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q4133881
+LIBSRC-LIB44-ENT-VEH-0008162,manufacturer_or_creator,"""Boulton & Paul""",http://www.wikidata.org/entity/Q4133881
+LIBSRC-LIB44-ENT-VEH-0008619,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q4922673
+LIBSRC-LIB44-ENT-VEH-0008619,manufacturer_or_creator,"""Blackburn Aircraft""",http://www.wikidata.org/entity/Q4922673
+LIBSRC-LIB44-ENT-VEH-0008892,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q5365771
+LIBSRC-LIB44-ENT-VEH-0009965,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q7617477
+LIBSRC-LIB44-ENT-VEH-0009965,manufacturer_or_creator,"""Stinson""",http://www.wikidata.org/entity/Q7617477
+LIBSRC-LIB44-ENT-VEH-0009972,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q7617669
+LIBSRC-LIB44-ENT-VEH-0010113,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q7929453
+LIBSRC-LIB44-ENT-VEH-0010119,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q7942244
+LIBSRC-LIB44-ENT-VEH-0010119,manufacturer_or_creator,"""Vought""",http://www.wikidata.org/entity/Q7942244
+LIBSRC-LIB44-ENT-VEH-0006773,descriptive_identity,"""glider""",http://www.wikidata.org/entity/Q21661689
+LIBSRC-LIB44-ENT-VEH-0008191,manufacturer_or_creator,"""Fokker""",http://www.wikidata.org/entity/Q41638756
+LIBSRC-LIB44-ENT-VEH-0009141,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q56297971
+LIBSRC-LIB44-ENT-VEH-0003184,descriptive_identity,"""kite balloon""",http://www.wikidata.org/entity/Q122419479
+LIBSRC-LIB44-ENT-VEH-0006114,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q1575071
+LIBSRC-LIB44-ENT-VEH-0006114,manufacturer_or_creator,"""Handley Page""",http://www.wikidata.org/entity/Q1575071
+LIBSRC-LIB44-ENT-VEH-0007309,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q2824128
+LIBSRC-LIB44-ENT-VEH-0007309,manufacturer_or_creator,"""Adcox Aviation Trade School""",http://www.wikidata.org/entity/Q2824128
+LIBSRC-LIB44-ENT-VEH-0007321,descriptive_identity,"""reduced gravity aircraft""",http://www.wikidata.org/entity/Q2828261
+LIBSRC-LIB44-ENT-VEH-0007321,manufacturer_or_creator,"""Airbus Commercial Aircraft""",http://www.wikidata.org/entity/Q2828261
+LIBSRC-LIB44-ENT-VEH-0007388,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q2870570
+LIBSRC-LIB44-ENT-VEH-0007388,manufacturer_or_creator,"""Aubert Aviation""",http://www.wikidata.org/entity/Q2870570
+LIBSRC-LIB44-ENT-VEH-0007409,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q2885910
+LIBSRC-LIB44-ENT-VEH-0007409,manufacturer_or_creator,"""Samolot""",http://www.wikidata.org/entity/Q2885910
+LIBSRC-LIB44-ENT-VEH-0007800,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q3614947
+LIBSRC-LIB44-ENT-VEH-0007800,manufacturer_or_creator,"""Fabrica de Aviones Anahuac""",http://www.wikidata.org/entity/Q3614947
+LIBSRC-LIB44-ENT-VEH-0007963,descriptive_identity,"""flying boat""",http://www.wikidata.org/entity/Q3797009
+LIBSRC-LIB44-ENT-VEH-0007963,manufacturer_or_creator,"""SIAI-Marchetti""",http://www.wikidata.org/entity/Q3797009
+LIBSRC-LIB44-ENT-VEH-0008738,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q5070015
+LIBSRC-LIB44-ENT-VEH-0008738,manufacturer_or_creator,"""Champion Aircraft""",http://www.wikidata.org/entity/Q5070015
+LIBSRC-LIB44-ENT-VEH-0008932,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q5425437
+LIBSRC-LIB44-ENT-VEH-0009587,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q6755114
+LIBSRC-LIB44-ENT-VEH-0009969,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q7617665
+LIBSRC-LIB44-ENT-VEH-0006102,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q15634680
+LIBSRC-LIB44-ENT-VEH-0006102,manufacturer_or_creator,"""Potez""",http://www.wikidata.org/entity/Q15634680
+LIBSRC-LIB44-ENT-VEH-0006611,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q20311837
+LIBSRC-LIB44-ENT-VEH-0006611,manufacturer_or_creator,"""ABS Aerolight""",http://www.wikidata.org/entity/Q20311837
+LIBSRC-LIB44-ENT-VEH-0007558,manufacturer_or_creator,"""Saab Group""",http://www.wikidata.org/entity/Q30153527
+LIBSRC-LIB44-ENT-VEH-0007558,propulsion_type,"""CT7""",http://www.wikidata.org/entity/Q30153527
+LIBSRC-LIB44-ENT-VEH-0005949,descriptive_identity,"""unmanned aerial vehicle""",http://www.wikidata.org/entity/Q138679575
+LIBSRC-LIB44-ENT-VEH-0005949,manufacturer_or_creator,"""DJI""",http://www.wikidata.org/entity/Q138679575
+LIBSRC-LIB44-ENT-VEH-0009389,descriptive_identity,"""airliner""",http://www.wikidata.org/entity/Q637726
+LIBSRC-LIB44-ENT-VEH-0009389,manufacturer_or_creator,"""Tupolev""",http://www.wikidata.org/entity/Q637726
+LIBSRC-LIB44-ENT-VEH-0009389,propulsion_type,"""Ivchenko AI-26""",http://www.wikidata.org/entity/Q637726
+LIBSRC-LIB44-ENT-VEH-0007206,manufacturer_or_creator,"""Russian Aircraft Corporation MiG""",http://www.wikidata.org/entity/Q2664145
+LIBSRC-LIB44-ENT-VEH-0007740,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q3400036
+LIBSRC-LIB44-ENT-VEH-0007740,manufacturer_or_creator,"""Potez""",http://www.wikidata.org/entity/Q3400036
+LIBSRC-LIB44-ENT-VEH-0007929,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q3744444
+LIBSRC-LIB44-ENT-VEH-0007980,manufacturer_or_creator,"""Marinens Flyvebaatfabrikk""",http://www.wikidata.org/entity/Q3813043
+LIBSRC-LIB44-ENT-VEH-0008164,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q4133902
+LIBSRC-LIB44-ENT-VEH-0008164,manufacturer_or_creator,"""Bristol Aeroplane Company""",http://www.wikidata.org/entity/Q4133902
+LIBSRC-LIB44-ENT-VEH-0008351,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q4698441
+LIBSRC-LIB44-ENT-VEH-0008807,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q5191907
+LIBSRC-LIB44-ENT-VEH-0008807,manufacturer_or_creator,"""Cub Crafters""",http://www.wikidata.org/entity/Q5191907
+LIBSRC-LIB44-ENT-VEH-0009442,manufacturer_or_creator,"""Luft-Fahrzeug-Gesellschaft""",http://www.wikidata.org/entity/Q6457731
+LIBSRC-LIB44-ENT-VEH-0009442,propulsion_type,"""Bz.IV""",http://www.wikidata.org/entity/Q6457731
+LIBSRC-LIB44-ENT-VEH-0010111,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q7925338
+LIBSRC-LIB44-ENT-VEH-0010171,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q8047713
+LIBSRC-LIB44-ENT-VEH-0006415,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q17111821
+LIBSRC-LIB44-ENT-VEH-0007608,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q30680672
+LIBSRC-LIB44-ENT-VEH-0007608,manufacturer_or_creator,"""Sikorsky Aircraft Corporation""",http://www.wikidata.org/entity/Q30680672
+LIBSRC-LIB44-ENT-VEH-0000062,descriptive_identity,"""hot air balloon""",http://www.wikidata.org/entity/Q106043338
+LIBSRC-LIB44-ENT-VEH-0000062,manufacturer_or_creator,"""Cameron Balloons""",http://www.wikidata.org/entity/Q106043338
+LIBSRC-LIB44-ENT-VEH-0003022,descriptive_identity,"""kite balloon""",http://www.wikidata.org/entity/Q122419288
+LIBSRC-LIB44-ENT-VEH-0005263,descriptive_identity,"""airship""",http://www.wikidata.org/entity/Q134984738
+LIBSRC-LIB44-ENT-VEH-0005996,manufacturer_or_creator,"""Airbus Commercial Aircraft""",http://www.wikidata.org/entity/Q140299098
+LIBSRC-LIB44-ENT-VEH-0005996,propulsion_type,"""General Electric CF6""",http://www.wikidata.org/entity/Q140299098
+LIBSRC-LIB44-ENT-VEH-0007759,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q3482514
+LIBSRC-LIB44-ENT-VEH-0007759,manufacturer_or_creator,"""Short Brothers""",http://www.wikidata.org/entity/Q3482514
+LIBSRC-LIB44-ENT-VEH-0007967,descriptive_identity,"""flying boat""",http://www.wikidata.org/entity/Q3797067
+LIBSRC-LIB44-ENT-VEH-0007967,manufacturer_or_creator,"""SIAI-Marchetti""",http://www.wikidata.org/entity/Q3797067
+LIBSRC-LIB44-ENT-VEH-0009333,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q61356913
+LIBSRC-LIB44-ENT-VEH-0009333,manufacturer_or_creator,"""Praga""",http://www.wikidata.org/entity/Q61356913
+LIBSRC-LIB44-ENT-VEH-0010222,descriptive_identity,"""unmanned aerial vehicle""",http://www.wikidata.org/entity/Q85749808
+LIBSRC-LIB44-ENT-VEH-0010222,manufacturer_or_creator,"""Chengdu Aircraft Industry Group""",http://www.wikidata.org/entity/Q85749808
+LIBSRC-LIB44-ENT-VEH-0003086,descriptive_identity,"""kite balloon""",http://www.wikidata.org/entity/Q122419356
+LIBSRC-LIB44-ENT-VEH-0009229,manufacturer_or_creator,"""Schweizer Aircraft Corporation""",http://www.wikidata.org/entity/Q582961
+LIBSRC-LIB44-ENT-VEH-0007588,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q3056559
+LIBSRC-LIB44-ENT-VEH-0008613,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q4922649
+LIBSRC-LIB44-ENT-VEH-0008613,manufacturer_or_creator,"""Blackburn Aircraft""",http://www.wikidata.org/entity/Q4922649
+LIBSRC-LIB44-ENT-VEH-0009170,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q5649503
+LIBSRC-LIB44-ENT-VEH-0009170,manufacturer_or_creator,"""Hanriot""",http://www.wikidata.org/entity/Q5649503
+LIBSRC-LIB44-ENT-VEH-0009390,descriptive_identity,"""flying boat""",http://www.wikidata.org/entity/Q6379660
+LIBSRC-LIB44-ENT-VEH-0009390,manufacturer_or_creator,"""Kawanishi Aircraft Company""",http://www.wikidata.org/entity/Q6379660
+LIBSRC-LIB44-ENT-VEH-0009514,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q6534943
+LIBSRC-LIB44-ENT-VEH-0009514,propulsion_type,"""Lorraine 12E Courlis""",http://www.wikidata.org/entity/Q6534943
+LIBSRC-LIB44-ENT-VEH-0007193,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q26199138
+LIBSRC-LIB44-ENT-VEH-0007193,manufacturer_or_creator,"""Loening Aeronautical Engineering Corporation""",http://www.wikidata.org/entity/Q26199138
+LIBSRC-LIB44-ENT-VEH-0007539,mass,13155000.0,http://www.wikidata.org/entity/Q30040560
+LIBSRC-LIB44-ENT-VEH-0007539,manufacturer_or_creator,"""Saab Group""",http://www.wikidata.org/entity/Q30040560
+LIBSRC-LIB44-ENT-VEH-0007539,propulsion_type,"""CT7""",http://www.wikidata.org/entity/Q30040560
+LIBSRC-LIB44-ENT-VEH-0007542,mass,13155000.0,http://www.wikidata.org/entity/Q30061657
+LIBSRC-LIB44-ENT-VEH-0007542,manufacturer_or_creator,"""Saab Group""",http://www.wikidata.org/entity/Q30061657
+LIBSRC-LIB44-ENT-VEH-0007542,propulsion_type,"""CT7""",http://www.wikidata.org/entity/Q30061657
+LIBSRC-LIB44-ENT-VEH-0008546,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q48816147
+LIBSRC-LIB44-ENT-VEH-0008546,manufacturer_or_creator,"""Electravia""",http://www.wikidata.org/entity/Q48816147
+LIBSRC-LIB44-ENT-VEH-0009252,descriptive_identity,"""airship""",http://www.wikidata.org/entity/Q59645203
+LIBSRC-LIB44-ENT-VEH-0009495,manufacturer_or_creator,"""Farman Aviation Works""",http://www.wikidata.org/entity/Q65117157
+LIBSRC-LIB44-ENT-VEH-0003091,descriptive_identity,"""kite balloon""",http://www.wikidata.org/entity/Q122419372
+IDB-REG01-CAT09-ERA07-2010S-BOEING-737-MAX,descriptive_identity,"""aircraft family""",http://www.wikidata.org/entity/Q139289
+IDB-REG01-CAT09-ERA07-2010S-BOEING-737-MAX,span,35900.0,http://www.wikidata.org/entity/Q139289
+IDB-REG01-CAT09-ERA07-2010S-BOEING-737-MAX,manufacturer_or_creator,"""Boeing""",http://www.wikidata.org/entity/Q139289
+IDB-REG01-CAT09-ERA07-2010S-BOEING-737-MAX,propulsion_type,"""CFM International LEAP""",http://www.wikidata.org/entity/Q139289
+IDB-REG01-CAT09-ERA07-2020S-BOEING-777X,descriptive_identity,"""aircraft family""",http://www.wikidata.org/entity/Q17452796
+IDB-REG01-CAT09-ERA07-2020S-BOEING-777X,span,64800.0,http://www.wikidata.org/entity/Q17452796
+IDB-REG01-CAT09-ERA07-2020S-BOEING-777X,manufacturer_or_creator,"""Boeing""",http://www.wikidata.org/entity/Q17452796
+IDB-REG01-CAT09-ERA07-2020S-JOBY-AVIATION-S4-AVIATION-INC-JAS4-1,manufacturer_or_creator,"""Joby Aviation""",http://www.wikidata.org/entity/Q122790298
+IDB-REG02-CAT09-ERA07-2020S-EMBRAER-EMB-314-SUPER-TUCANO-DEFENSE-SECURITY-A-29,descriptive_identity,"""aircraft family""",http://www.wikidata.org/entity/Q949427
+IDB-REG02-CAT09-ERA07-2020S-EMBRAER-EMB-314-SUPER-TUCANO-DEFENSE-SECURITY-A-29,manufacturer_or_creator,"""Embraer""",http://www.wikidata.org/entity/Q949427
+IDB-REG02-CAT09-ERA07-2020S-EMBRAER-EMB-120-BRASILIA,descriptive_identity,"""aircraft family""",http://www.wikidata.org/entity/Q1163407
+IDB-REG02-CAT09-ERA07-2020S-EMBRAER-EMB-120-BRASILIA,mass,11500000.0,http://www.wikidata.org/entity/Q1163407
+IDB-REG02-CAT09-ERA07-2020S-EMBRAER-EMB-120-BRASILIA,dimension_length,20000.0,http://www.wikidata.org/entity/Q1163407
+IDB-REG02-CAT09-ERA07-2020S-EMBRAER-EMB-120-BRASILIA,span,19780.0,http://www.wikidata.org/entity/Q1163407
+IDB-REG02-CAT09-ERA07-2020S-EMBRAER-EMB-120-BRASILIA,manufacturer_or_creator,"""Embraer""",http://www.wikidata.org/entity/Q1163407
+IDB-REG02-CAT09-ERA07-2020S-EMBRAER-EMB-120-BRASILIA,propulsion_type,"""PW118""",http://www.wikidata.org/entity/Q1163407
+IDB-REG02-CAT09-ERA07-2020S-EMBRAER-E190-E2-ERJ-190-300,descriptive_identity,"""aircraft model""",http://www.wikidata.org/entity/Q122229218
+IDB-REG02-CAT09-ERA07-2020S-EMBRAER-E195-E2-ERJ-190-400,descriptive_identity,"""aircraft model""",http://www.wikidata.org/entity/Q122229220
+LIBSRC-LIB44-ENT-VEH-0010081,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q786869
+LIBSRC-LIB44-ENT-VEH-0005060,descriptive_identity,"""flying boat""",http://www.wikidata.org/entity/Q1245931
+LIBSRC-LIB44-ENT-VEH-0005060,manufacturer_or_creator,"""Luftschiffbau Zeppelin""",http://www.wikidata.org/entity/Q1245931
+LIBSRC-LIB44-ENT-VEH-0006024,descriptive_identity,"""military aircraft""",http://www.wikidata.org/entity/Q1411851
+LIBSRC-LIB44-ENT-VEH-0007824,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q3644120
+LIBSRC-LIB44-ENT-VEH-0007824,manufacturer_or_creator,"""Breda""",http://www.wikidata.org/entity/Q3644120
+LIBSRC-LIB44-ENT-VEH-0008691,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q5008598
+LIBSRC-LIB44-ENT-VEH-0009248,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q5946499
+LIBSRC-LIB44-ENT-VEH-0009469,descriptive_identity,"""flying boat""",http://www.wikidata.org/entity/Q6497557
+LIBSRC-LIB44-ENT-VEH-0009469,manufacturer_or_creator,"""Latécoère""",http://www.wikidata.org/entity/Q6497557
+LIBSRC-LIB44-ENT-VEH-0009753,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q7268268
+LIBSRC-LIB44-ENT-VEH-0009798,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q7360417
+LIBSRC-LIB44-ENT-VEH-0009798,manufacturer_or_creator,"""Roland Aircraft""",http://www.wikidata.org/entity/Q7360417
+LIBSRC-LIB44-ENT-VEH-0000166,descriptive_identity,"""helicopter""",http://www.wikidata.org/entity/Q10748378
+LIBSRC-LIB44-ENT-VEH-0007367,descriptive_identity,"""aircraft""",http://www.wikidata.org/entity/Q28456352
+LIBSRC-LIB44-ENT-VEH-0008425,propulsion_type,"""J-4 Whirlwind""",http://www.wikidata.org/entity/Q47451200
+LIBSRC-LIB44-ENT-VEH-0000413,descriptive_identity,"""seaplane""",http://www.wikidata.org/entity/Q119662045
+LIBSRC-LIB44-ENT-VEH-0002489,manufacturer_or_creator,"""Elta""",http://www.wikidata.org/entity/Q120491082
+LIBSRC-LIB44-ENT-VEH-0002506,descriptive_identity,"""unmanned aerial vehicle""",http://www.wikidata.org/entity/Q120967794
+LIBSRC-LIB44-ENT-VEH-0003092,descriptive_identity,"""kite balloon""",http://www.wikidata.org/entity/Q122419373
