@@ -1,0 +1,4 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_12-ERA_05-1965-ACC04-HOP16938-REC3387522,scientific_identity,"Aethia pygmaea (J.F.Gmelin, 1789)",https://api.gbif.org/v1/species/5229271
+IDB-REG_02-CAT_12-ERA_05-1965-ACC04-HOP16938-REC3387522,taxon_authority,"(J.F.Gmelin, 1789) ",https://api.gbif.org/v1/species/5229271
+IDB-REG_02-CAT_12-ERA_05-1965-ACC04-HOP16938-REC3387522,identity_label,"Whiskered Auklet",https://api.gbif.org/v1/species/5229271/vernacularNames
