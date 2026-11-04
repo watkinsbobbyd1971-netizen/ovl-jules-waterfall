@@ -1,0 +1,1419 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB39-ENT-AAT-0016353,descriptive_identity,"""agent""",https://www.wikidata.org/wiki/Q152478
+LIBSRC-LIB39-ENT-AAT-0016353,descriptive_identity,"""legal person""",https://www.wikidata.org/wiki/Q152478
+LIBSRC-LIB39-ENT-AAT-0016353,descriptive_identity,"""occupation""",https://www.wikidata.org/wiki/Q152478
+LIBSRC-LIB39-ENT-AAT-0016378,descriptive_identity,"""saying""",https://www.wikidata.org/wiki/Q35102
+LIBSRC-LIB39-ENT-AAT-0016378,descriptive_identity,"""paroimia""",https://www.wikidata.org/wiki/Q35102
+LIBSRC-LIB39-ENT-AAT-0016378,descriptive_identity,"""popular saying""",https://www.wikidata.org/wiki/Q35102
+LIBSRC-LIB39-ENT-AAT-0016378,descriptive_identity,"""literary genre""",https://www.wikidata.org/wiki/Q35102
+LIBSRC-LIB39-ENT-AAT-0016539,descriptive_identity,"""work""",https://www.wikidata.org/wiki/Q110910970
+LIBSRC-LIB39-ENT-AAT-0017203,descriptive_identity,"""turn""",https://www.wikidata.org/wiki/Q1759562
+LIBSRC-LIB39-ENT-AAT-0017203,descriptive_identity,"""lateral movement""",https://www.wikidata.org/wiki/Q1759562
+LIBSRC-LIB39-ENT-AAT-0018011,descriptive_identity,"""stylistic device""",https://www.wikidata.org/wiki/Q18535
+LIBSRC-LIB39-ENT-AAT-0018011,descriptive_identity,"""trope""",https://www.wikidata.org/wiki/Q18535
+LIBSRC-LIB39-ENT-AAT-0018011,descriptive_identity,"""literary genre""",https://www.wikidata.org/wiki/Q18535
+LIBSRC-LIB39-ENT-AAT-0018058,descriptive_identity,"""part""",https://www.wikidata.org/wiki/Q2687935
+LIBSRC-LIB39-ENT-AAT-0018168,descriptive_identity,"""user interface""",https://www.wikidata.org/wiki/Q110558253
+LIBSRC-LIB39-ENT-AAT-0018168,descriptive_identity,"""control device""",https://www.wikidata.org/wiki/Q110558253
+LIBSRC-LIB39-ENT-AAT-0018168,descriptive_identity,"""physical technological component""",https://www.wikidata.org/wiki/Q110558253
+LIBSRC-LIB39-ENT-AAT-0018168,descriptive_identity,"""physical switch""",https://www.wikidata.org/wiki/Q110558253
+LIBSRC-LIB39-ENT-AAT-0018168,descriptive_identity,"""physical interface""",https://www.wikidata.org/wiki/Q110558253
+LIBSRC-LIB39-ENT-AAT-0018168,component_relationship,"""hinge""",https://www.wikidata.org/wiki/Q110558253
+LIBSRC-LIB39-ENT-AAT-0018168,component_relationship,"""handle""",https://www.wikidata.org/wiki/Q110558253
+LIBSRC-LIB39-ENT-AAT-0018168,component_relationship,"""spring""",https://www.wikidata.org/wiki/Q110558253
+LIBSRC-LIB39-ENT-AAT-0018557,descriptive_identity,"""human power""",https://www.wikidata.org/wiki/Q1231985
+LIBSRC-LIB39-ENT-AAT-0018557,descriptive_identity,"""machine element""",https://www.wikidata.org/wiki/Q1231985
+LIBSRC-LIB39-ENT-AAT-0018557,descriptive_identity,"""lever""",https://www.wikidata.org/wiki/Q1231985
+LIBSRC-LIB39-ENT-AAT-0018557,descriptive_identity,"""user interface""",https://www.wikidata.org/wiki/Q1231985
+LIBSRC-LIB39-ENT-AAT-0018567,descriptive_identity,"""game of skill""",https://www.wikidata.org/wiki/Q754461
+LIBSRC-LIB39-ENT-AAT-0019156,descriptive_identity,"""collectable""",https://www.wikidata.org/wiki/Q5260909
+LIBSRC-LIB39-ENT-AAT-0019156,descriptive_identity,"""glassware""",https://www.wikidata.org/wiki/Q5260909
+LIBSRC-LIB39-ENT-AAT-0019204,descriptive_identity,"""walking stick""",https://www.wikidata.org/wiki/Q506002
+LIBSRC-LIB39-ENT-AAT-0019204,descriptive_identity,"""insignia""",https://www.wikidata.org/wiki/Q506002
+LIBSRC-LIB39-ENT-AAT-0019204,descriptive_identity,"""ceremonial object""",https://www.wikidata.org/wiki/Q506002
+LIBSRC-LIB39-ENT-AAT-0019204,descriptive_identity,"""staff""",https://www.wikidata.org/wiki/Q506002
+LIBSRC-LIB39-ENT-AAT-0020314,descriptive_identity,"""door hardware""",https://www.wikidata.org/wiki/Q107338572
+LIBSRC-LIB39-ENT-AAT-0020379,descriptive_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Q36544
+LIBSRC-LIB39-ENT-AAT-0020466,descriptive_identity,"""machining""",https://www.wikidata.org/wiki/Q258127
+LIBSRC-LIB39-ENT-AAT-0020466,descriptive_identity,"""manufacturing process""",https://www.wikidata.org/wiki/Q258127
+LIBSRC-LIB39-ENT-AAT-0020566,descriptive_identity,"""textile component""",https://www.wikidata.org/wiki/Q1394963
+LIBSRC-LIB39-ENT-AAT-0020566,descriptive_identity,"""costume component""",https://www.wikidata.org/wiki/Q1394963
+LIBSRC-LIB39-ENT-AAT-0020692,descriptive_identity,"""condition""",https://www.wikidata.org/wiki/Q116743032
+LIBSRC-LIB39-ENT-AAT-0021033,descriptive_identity,"""standard UNIX utility or command""",https://www.wikidata.org/wiki/Q283916
+LIBSRC-LIB39-ENT-AAT-0021085,descriptive_identity,"""passenger train""",https://www.wikidata.org/wiki/Q1072319
+LIBSRC-LIB39-ENT-AAT-0021085,descriptive_identity,"""train and rail category""",https://www.wikidata.org/wiki/Q1072319
+LIBSRC-LIB39-ENT-AAT-0021209,descriptive_identity,"""textile""",https://www.wikidata.org/wiki/Q5852
+LIBSRC-LIB39-ENT-AAT-0021209,descriptive_identity,"""covering""",https://www.wikidata.org/wiki/Q5852
+LIBSRC-LIB39-ENT-AAT-0021209,material_identity,"""fleece""",https://www.wikidata.org/wiki/Q5852
+LIBSRC-LIB39-ENT-AAT-0021209,material_identity,"""mohair""",https://www.wikidata.org/wiki/Q5852
+LIBSRC-LIB39-ENT-AAT-0021209,material_identity,"""synthetic fiber""",https://www.wikidata.org/wiki/Q5852
+LIBSRC-LIB39-ENT-AAT-0021209,material_identity,"""textile""",https://www.wikidata.org/wiki/Q5852
+LIBSRC-LIB39-ENT-AAT-0021209,material_identity,"""wool""",https://www.wikidata.org/wiki/Q5852
+LIBSRC-LIB39-ENT-AAT-0021435,descriptive_identity,"""senior government official""",https://www.wikidata.org/wiki/Q180095
+LIBSRC-LIB39-ENT-AAT-0021435,descriptive_identity,"""ruler""",https://www.wikidata.org/wiki/Q180095
+LIBSRC-LIB39-ENT-AAT-0021435,descriptive_identity,"""position""",https://www.wikidata.org/wiki/Q180095
+LIBSRC-LIB39-ENT-AAT-0022331,descriptive_identity,"""unique identifier""",https://www.wikidata.org/wiki/Q3745713
+LIBSRC-LIB39-ENT-AAT-0022331,descriptive_identity,"""machine-readable data""",https://www.wikidata.org/wiki/Q3745713
+LIBSRC-LIB39-ENT-AAT-0022518,descriptive_identity,"""primal cut""",https://www.wikidata.org/wiki/Q289005
+LIBSRC-LIB39-ENT-AAT-0022559,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q104009608
+LIBSRC-LIB39-ENT-AAT-0022683,descriptive_identity,"""cabin""",https://www.wikidata.org/wiki/Q60998095
+LIBSRC-LIB39-ENT-AAT-0022938,descriptive_identity,"""rite of passage""",https://www.wikidata.org/wiki/Q4960181
+LIBSRC-LIB39-ENT-AAT-0022971,descriptive_identity,"""storage and display accessories""",https://www.wikidata.org/wiki/Q111525822
+LIBSRC-LIB39-ENT-AAT-0022971,descriptive_identity,"""fittings""",https://www.wikidata.org/wiki/Q111525822
+LIBSRC-LIB39-ENT-AAT-0023011,descriptive_identity,"""canal""",https://www.wikidata.org/wiki/Q81282092
+LIBSRC-LIB39-ENT-AAT-0023194,descriptive_identity,"""festival""",https://www.wikidata.org/wiki/Q2304773
+LIBSRC-LIB39-ENT-AAT-0023194,descriptive_identity,"""annual event""",https://www.wikidata.org/wiki/Q2304773
+LIBSRC-LIB39-ENT-AAT-0023194,descriptive_identity,"""form of festival""",https://www.wikidata.org/wiki/Q2304773
+LIBSRC-LIB39-ENT-AAT-0023454,descriptive_identity,"""taxon""",https://www.wikidata.org/wiki/Q158808
+LIBSRC-LIB39-ENT-AAT-0023655,descriptive_identity,"""marking equipment""",https://www.wikidata.org/wiki/Q10677498
+LIBSRC-LIB39-ENT-AAT-0023655,descriptive_identity,"""physical tool""",https://www.wikidata.org/wiki/Q10677498
+LIBSRC-LIB39-ENT-AAT-0024170,descriptive_identity,"""footprint""",https://www.wikidata.org/wiki/Q97578363
+LIBSRC-LIB39-ENT-AAT-0024170,descriptive_identity,"""animal track""",https://www.wikidata.org/wiki/Q97578363
+LIBSRC-LIB39-ENT-AAT-0024457,descriptive_identity,"""animator""",https://www.wikidata.org/wiki/Q63772347
+LIBSRC-LIB39-ENT-AAT-0024457,descriptive_identity,"""occupation""",https://www.wikidata.org/wiki/Q63772347
+LIBSRC-LIB39-ENT-AAT-0024828,descriptive_identity,"""religion""",https://www.wikidata.org/wiki/Q161696
+LIBSRC-LIB39-ENT-AAT-0024828,descriptive_identity,"""religious movement""",https://www.wikidata.org/wiki/Q161696
+LIBSRC-LIB39-ENT-AAT-0024837,descriptive_identity,"""body adornment""",https://www.wikidata.org/wiki/Q678649
+LIBSRC-LIB39-ENT-AAT-0024837,descriptive_identity,"""type of arts""",https://www.wikidata.org/wiki/Q678649
+LIBSRC-LIB39-ENT-AAT-0024837,descriptive_identity,"""avant-garde""",https://www.wikidata.org/wiki/Q678649
+LIBSRC-LIB39-ENT-AAT-0024931,descriptive_identity,"""percussion instrument""",https://www.wikidata.org/wiki/Q99700503
+LIBSRC-LIB39-ENT-AAT-0024931,descriptive_identity,"""musical instrument""",https://www.wikidata.org/wiki/Q99700503
+LIBSRC-LIB39-ENT-AAT-0024931,descriptive_identity,"""type of musical instrument""",https://www.wikidata.org/wiki/Q99700503
+LIBSRC-LIB39-ENT-AAT-0024941,descriptive_identity,"""saying""",https://www.wikidata.org/wiki/Q1374354
+LIBSRC-LIB39-ENT-AAT-0024941,descriptive_identity,"""phrase""",https://www.wikidata.org/wiki/Q1374354
+LIBSRC-LIB39-ENT-AAT-0024941,component_relationship,"""Q48607982""",https://www.wikidata.org/wiki/Q1374354
+LIBSRC-LIB39-ENT-AAT-0025103,descriptive_identity,"""art""",https://www.wikidata.org/wiki/Q203209
+LIBSRC-LIB39-ENT-AAT-0025103,descriptive_identity,"""art movement""",https://www.wikidata.org/wiki/Q203209
+LIBSRC-LIB39-ENT-AAT-0025103,descriptive_identity,"""art genre""",https://www.wikidata.org/wiki/Q203209
+LIBSRC-LIB39-ENT-AAT-0025589,descriptive_identity,"""souvenir""",https://www.wikidata.org/wiki/Q917901
+LIBSRC-LIB39-ENT-AAT-0025589,descriptive_identity,"""coin""",https://www.wikidata.org/wiki/Q917901
+LIBSRC-LIB39-ENT-AAT-0025589,descriptive_identity,"""coin type""",https://www.wikidata.org/wiki/Q917901
+LIBSRC-LIB39-ENT-AAT-0025779,descriptive_identity,"""art movement""",https://www.wikidata.org/wiki/Q1351977
+LIBSRC-LIB39-ENT-AAT-0026194,descriptive_identity,"""Japanese doll""",https://www.wikidata.org/wiki/Q126810706
+LIBSRC-LIB39-ENT-AAT-0026215,descriptive_identity,"""print""",https://www.wikidata.org/wiki/Q98151500
+LIBSRC-LIB39-ENT-AAT-0026334,descriptive_identity,"""inflatable""",https://www.wikidata.org/wiki/Q169545
+LIBSRC-LIB39-ENT-AAT-0026334,descriptive_identity,"""product""",https://www.wikidata.org/wiki/Q169545
+LIBSRC-LIB39-ENT-AAT-0026334,component_relationship,"""vulcanized rubber""",https://www.wikidata.org/wiki/Q169545
+LIBSRC-LIB39-ENT-AAT-0026334,component_relationship,"""tire cord""",https://www.wikidata.org/wiki/Q169545
+LIBSRC-LIB39-ENT-AAT-0026334,component_relationship,"""sidewall""",https://www.wikidata.org/wiki/Q169545
+LIBSRC-LIB39-ENT-AAT-0026334,descriptive_identity,"""physical technological component""",https://www.wikidata.org/wiki/Q169545
+LIBSRC-LIB39-ENT-AAT-0026520,descriptive_identity,"""specification""",https://www.wikidata.org/wiki/Q324254
+LIBSRC-LIB39-ENT-AAT-0026520,descriptive_identity,"""knowledge organization system""",https://www.wikidata.org/wiki/Q324254
+LIBSRC-LIB39-ENT-AAT-0026520,descriptive_identity,"""knowledge base""",https://www.wikidata.org/wiki/Q324254
+LIBSRC-LIB39-ENT-AAT-0026520,descriptive_identity,"""data model""",https://www.wikidata.org/wiki/Q324254
+LIBSRC-LIB39-ENT-AAT-0026520,descriptive_identity,"""data schema""",https://www.wikidata.org/wiki/Q324254
+LIBSRC-LIB39-ENT-AAT-0026520,component_relationship,"""relation""",https://www.wikidata.org/wiki/Q324254
+LIBSRC-LIB39-ENT-AAT-0026520,component_relationship,"""class""",https://www.wikidata.org/wiki/Q324254
+LIBSRC-LIB39-ENT-AAT-0026520,component_relationship,"""RBox""",https://www.wikidata.org/wiki/Q324254
+LIBSRC-LIB39-ENT-AAT-0026520,component_relationship,"""ABox""",https://www.wikidata.org/wiki/Q324254
+LIBSRC-LIB39-ENT-AAT-0026520,component_relationship,"""TBox""",https://www.wikidata.org/wiki/Q324254
+LIBSRC-LIB39-ENT-AAT-0026520,component_relationship,"""attribute""",https://www.wikidata.org/wiki/Q324254
+LIBSRC-LIB39-ENT-AAT-0027555,descriptive_identity,"""word""",https://www.wikidata.org/wiki/Q1072684
+LIBSRC-LIB39-ENT-AAT-0027595,descriptive_identity,"""documentation file""",https://www.wikidata.org/wiki/Q84851343
+LIBSRC-LIB39-ENT-AAT-0027721,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q123311159
+LIBSRC-LIB39-ENT-AAT-0028061,descriptive_identity,"""softwood""",https://www.wikidata.org/wiki/Q96780079
+LIBSRC-LIB39-ENT-AAT-0028061,descriptive_identity,"""type of wood""",https://www.wikidata.org/wiki/Q96780079
+LIBSRC-LIB39-ENT-AAT-0028079,descriptive_identity,"""softwood""",https://www.wikidata.org/wiki/Q136403216
+LIBSRC-LIB39-ENT-AAT-0028079,descriptive_identity,"""type of wood""",https://www.wikidata.org/wiki/Q136403216
+LIBSRC-LIB39-ENT-AAT-0028200,descriptive_identity,"""ceremony""",https://www.wikidata.org/wiki/Q1359655
+LIBSRC-LIB39-ENT-AAT-0028200,component_relationship,"""Japanese tea ceremony""",https://www.wikidata.org/wiki/Q1359655
+LIBSRC-LIB39-ENT-AAT-0028200,component_relationship,"""Korean tea ceremony""",https://www.wikidata.org/wiki/Q1359655
+LIBSRC-LIB39-ENT-AAT-0028200,component_relationship,"""Chinese tea ceremony""",https://www.wikidata.org/wiki/Q1359655
+LIBSRC-LIB39-ENT-AAT-0028277,descriptive_identity,"""birch""",https://www.wikidata.org/wiki/Q118746621
+LIBSRC-LIB39-ENT-AAT-0028277,descriptive_identity,"""type of wood""",https://www.wikidata.org/wiki/Q118746621
+LIBSRC-LIB39-ENT-AAT-0028295,descriptive_identity,"""walnut""",https://www.wikidata.org/wiki/Q102256899
+LIBSRC-LIB39-ENT-AAT-0028295,descriptive_identity,"""food ingredient""",https://www.wikidata.org/wiki/Q102256899
+LIBSRC-LIB39-ENT-AAT-0028714,descriptive_identity,"""yellow""",https://www.wikidata.org/wiki/Q1324818
+LIBSRC-LIB39-ENT-AAT-0028714,descriptive_identity,"""orange""",https://www.wikidata.org/wiki/Q1324818
+LIBSRC-LIB39-ENT-AAT-0028714,descriptive_identity,"""color""",https://www.wikidata.org/wiki/Q1324818
+LIBSRC-LIB39-ENT-AAT-0028984,descriptive_identity,"""mythical tree""",https://www.wikidata.org/wiki/Q1651237
+LIBSRC-LIB39-ENT-AAT-0028984,descriptive_identity,"""plant-derived motif""",https://www.wikidata.org/wiki/Q1651237
+LIBSRC-LIB39-ENT-AAT-0028984,descriptive_identity,"""artistic theme""",https://www.wikidata.org/wiki/Q1651237
+LIBSRC-LIB39-ENT-AAT-0029511,descriptive_identity,"""open space""",https://www.wikidata.org/wiki/Q7831606
+LIBSRC-LIB39-ENT-AAT-0029646,descriptive_identity,"""neuropeptide""",https://www.wikidata.org/wiki/Q424418
+LIBSRC-LIB39-ENT-AAT-0029646,descriptive_identity,"""oxide""",https://www.wikidata.org/wiki/Q424418
+LIBSRC-LIB39-ENT-AAT-0029646,descriptive_identity,"""nitrogen compound""",https://www.wikidata.org/wiki/Q424418
+LIBSRC-LIB39-ENT-AAT-0029646,component_relationship,"""oxygen""",https://www.wikidata.org/wiki/Q424418
+LIBSRC-LIB39-ENT-AAT-0029646,component_relationship,"""nitrogen""",https://www.wikidata.org/wiki/Q424418
+LIBSRC-LIB39-ENT-AAT-0029646,descriptive_identity,"""structural class of chemical entities""",https://www.wikidata.org/wiki/Q424418
+LIBSRC-LIB39-ENT-AAT-0029687,descriptive_identity,"""packaging engineering""",https://www.wikidata.org/wiki/Q2071005
+LIBSRC-LIB39-ENT-AAT-0029687,descriptive_identity,"""technique""",https://www.wikidata.org/wiki/Q2071005
+LIBSRC-LIB39-ENT-AAT-0030122,descriptive_identity,"""chart""",https://www.wikidata.org/wiki/Q186693
+LIBSRC-LIB39-ENT-AAT-0030156,dimension_length,24000.0,https://www.wikidata.org/wiki/Q52324436
+LIBSRC-LIB39-ENT-AAT-0030156,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q52324436
+LIBSRC-LIB39-ENT-AAT-0030156,manufacturer_or_creator,"""Muetzelfeldtwerft in Cuxhaven""",https://www.wikidata.org/wiki/Q52324436
+LIBSRC-LIB39-ENT-AAT-0030169,descriptive_identity,"""seal""",https://www.wikidata.org/wiki/Q1132541
+LIBSRC-LIB39-ENT-AAT-0030169,descriptive_identity,"""plumbing fittings & support""",https://www.wikidata.org/wiki/Q1132541
+LIBSRC-LIB39-ENT-AAT-0030169,descriptive_identity,"""type of machine element""",https://www.wikidata.org/wiki/Q1132541
+LIBSRC-LIB39-ENT-AAT-0030169,descriptive_identity,"""product category""",https://www.wikidata.org/wiki/Q1132541
+LIBSRC-LIB39-ENT-AAT-0030169,material_identity,"""rubber""",https://www.wikidata.org/wiki/Q1132541
+LIBSRC-LIB39-ENT-AAT-0030501,descriptive_identity,"""visual artist""",https://www.wikidata.org/wiki/Q111363164
+LIBSRC-LIB39-ENT-AAT-0030501,descriptive_identity,"""occupation""",https://www.wikidata.org/wiki/Q111363164
+LIBSRC-LIB39-ENT-AAT-0030501,descriptive_identity,"""profession""",https://www.wikidata.org/wiki/Q111363164
+LIBSRC-LIB39-ENT-AAT-0030889,descriptive_identity,"""visual artist""",https://www.wikidata.org/wiki/Q111363164
+LIBSRC-LIB39-ENT-AAT-0030889,descriptive_identity,"""occupation""",https://www.wikidata.org/wiki/Q111363164
+LIBSRC-LIB39-ENT-AAT-0030889,descriptive_identity,"""profession""",https://www.wikidata.org/wiki/Q111363164
+LIBSRC-LIB39-ENT-AAT-0030979,mass,5.322026854e-23,https://www.wikidata.org/wiki/Q58447
+LIBSRC-LIB39-ENT-AAT-0030979,descriptive_identity,"""azane""",https://www.wikidata.org/wiki/Q58447
+LIBSRC-LIB39-ENT-AAT-0030979,descriptive_identity,"""monopropellant""",https://www.wikidata.org/wiki/Q58447
+LIBSRC-LIB39-ENT-AAT-0030979,component_relationship,"""hydrogen""",https://www.wikidata.org/wiki/Q58447
+LIBSRC-LIB39-ENT-AAT-0030979,component_relationship,"""nitrogen""",https://www.wikidata.org/wiki/Q58447
+LIBSRC-LIB39-ENT-AAT-0030979,descriptive_identity,"""type of chemical entity""",https://www.wikidata.org/wiki/Q58447
+LIBSRC-LIB39-ENT-AAT-0030980,descriptive_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Q810184
+LIBSRC-LIB39-ENT-AAT-0031014,descriptive_identity,"""steelpan""",https://www.wikidata.org/wiki/Q125447285
+LIBSRC-LIB39-ENT-AAT-0031014,descriptive_identity,"""musical instrument""",https://www.wikidata.org/wiki/Q125447285
+LIBSRC-LIB39-ENT-AAT-0031014,descriptive_identity,"""percussion instrument""",https://www.wikidata.org/wiki/Q125447285
+LIBSRC-LIB39-ENT-AAT-0031055,descriptive_identity,"""undersea landform""",https://www.wikidata.org/wiki/Q55436365
+LIBSRC-LIB39-ENT-AAT-0031055,descriptive_identity,"""valley""",https://www.wikidata.org/wiki/Q55436365
+LIBSRC-LIB39-ENT-AAT-0031145,descriptive_identity,"""former geographical object""",https://www.wikidata.org/wiki/Q21550629
+LIBSRC-LIB39-ENT-AAT-0031145,descriptive_identity,"""body of water""",https://www.wikidata.org/wiki/Q21550629
+LIBSRC-LIB39-ENT-AAT-0031146,descriptive_identity,"""body of water""",https://www.wikidata.org/wiki/Q39508083
+LIBSRC-LIB39-ENT-AAT-0031156,descriptive_identity,"""pond""",https://www.wikidata.org/wiki/Q3177968
+LIBSRC-LIB39-ENT-AAT-0031432,descriptive_identity,"""pressure pipeline""",https://www.wikidata.org/wiki/Q1262090
+LIBSRC-LIB39-ENT-AAT-0031432,descriptive_identity,"""thoroughfare""",https://www.wikidata.org/wiki/Q1262090
+LIBSRC-LIB39-ENT-AAT-0031524,descriptive_identity,"""microarray""",https://www.wikidata.org/wiki/Q591745
+LIBSRC-LIB39-ENT-AAT-0031538,descriptive_identity,"""nylon""",https://www.wikidata.org/wiki/Q109454
+LIBSRC-LIB39-ENT-AAT-0031538,component_relationship,"""carbon""",https://www.wikidata.org/wiki/Q109454
+LIBSRC-LIB39-ENT-AAT-0031538,descriptive_identity,"""type of polymer""",https://www.wikidata.org/wiki/Q109454
+LIBSRC-LIB39-ENT-AAT-0031881,descriptive_identity,"""taxon""",https://www.wikidata.org/wiki/Q917187
+LIBSRC-LIB39-ENT-AAT-0032028,descriptive_identity,"""hand- or footprint""",https://www.wikidata.org/wiki/Q97578339
+LIBSRC-LIB39-ENT-AAT-0033119,descriptive_identity,"""petroglyph""",https://www.wikidata.org/wiki/Q373661
+LIBSRC-LIB39-ENT-AAT-0033119,descriptive_identity,"""megalith""",https://www.wikidata.org/wiki/Q373661
+LIBSRC-LIB39-ENT-AAT-0034280,descriptive_identity,"""electronic device""",https://www.wikidata.org/wiki/Q913416
+LIBSRC-LIB39-ENT-AAT-0034280,descriptive_identity,"""broken equipment""",https://www.wikidata.org/wiki/Q913416
+LIBSRC-LIB39-ENT-AAT-0034280,descriptive_identity,"""computer science term""",https://www.wikidata.org/wiki/Q913416
+LIBSRC-LIB39-ENT-AAT-0034319,descriptive_identity,"""units of pixels per length""",https://www.wikidata.org/wiki/Q7398951
+LIBSRC-LIB39-ENT-AAT-0034473,descriptive_identity,"""wall""",https://www.wikidata.org/wiki/Q2357021
+LIBSRC-LIB39-ENT-AAT-0034712,descriptive_identity,"""concept""",https://www.wikidata.org/wiki/Q116617556
+LIBSRC-LIB39-ENT-AAT-0034722,descriptive_identity,"""painting movement""",https://www.wikidata.org/wiki/Q1159870
+LIBSRC-LIB39-ENT-AAT-0034722,descriptive_identity,"""art movement""",https://www.wikidata.org/wiki/Q1159870
+LIBSRC-LIB39-ENT-AAT-0034722,descriptive_identity,"""style of painting""",https://www.wikidata.org/wiki/Q1159870
+LIBSRC-LIB39-ENT-AAT-0034722,descriptive_identity,"""school of painting""",https://www.wikidata.org/wiki/Q1159870
+LIBSRC-LIB39-ENT-AAT-0034722,descriptive_identity,"""painting technique""",https://www.wikidata.org/wiki/Q1159870
+LIBSRC-LIB39-ENT-AAT-0034872,descriptive_identity,"""adposition""",https://www.wikidata.org/wiki/Q4833830
+LIBSRC-LIB39-ENT-AAT-0034872,descriptive_identity,"""part of speech""",https://www.wikidata.org/wiki/Q4833830
+LIBSRC-LIB39-ENT-AAT-0035031,descriptive_identity,"""physical quantity""",https://www.wikidata.org/wiki/Q904055
+LIBSRC-LIB39-ENT-AAT-0035209,descriptive_identity,"""folklore motif""",https://www.wikidata.org/wiki/Q127419399
+LIBSRC-LIB39-ENT-AAT-0035209,descriptive_identity,"""narrative motif""",https://www.wikidata.org/wiki/Q127419399
+LIBSRC-LIB39-ENT-AAT-0035315,descriptive_identity,"""art movement""",https://www.wikidata.org/wiki/Q134876986
+LIBSRC-LIB39-ENT-AAT-0035521,descriptive_identity,"""JavaScript library""",https://www.wikidata.org/wiki/Q95955903
+LIBSRC-LIB39-ENT-AAT-0035586,descriptive_identity,"""feeling""",https://www.wikidata.org/wiki/Q28510
+LIBSRC-LIB39-ENT-AAT-0035586,descriptive_identity,"""action""",https://www.wikidata.org/wiki/Q28510
+LIBSRC-LIB39-ENT-AAT-0035721,descriptive_identity,"""shape""",https://www.wikidata.org/wiki/Q505628
+LIBSRC-LIB39-ENT-AAT-0035721,descriptive_identity,"""non-degenerate quadric surface""",https://www.wikidata.org/wiki/Q505628
+LIBSRC-LIB39-ENT-AAT-0035891,descriptive_identity,"""Wikisource badge""",https://www.wikidata.org/wiki/Q20748092
+LIBSRC-LIB39-ENT-AAT-0035925,descriptive_identity,"""reprography""",https://www.wikidata.org/wiki/Q4787065
+LIBSRC-LIB39-ENT-AAT-0036084,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103905640
+LIBSRC-LIB39-ENT-AAT-0037294,descriptive_identity,"""fastener""",https://www.wikidata.org/wiki/Q15411420
+LIBSRC-LIB39-ENT-AAT-0038885,mass,1.794345016504e-22,https://www.wikidata.org/wiki/Q52353
+LIBSRC-LIB39-ENT-AAT-0038885,descriptive_identity,"""aromatic alcohol""",https://www.wikidata.org/wiki/Q52353
+LIBSRC-LIB39-ENT-AAT-0038885,descriptive_identity,"""phenyl compound""",https://www.wikidata.org/wiki/Q52353
+LIBSRC-LIB39-ENT-AAT-0038885,component_relationship,"""oxygen""",https://www.wikidata.org/wiki/Q52353
+LIBSRC-LIB39-ENT-AAT-0038885,component_relationship,"""carbon""",https://www.wikidata.org/wiki/Q52353
+LIBSRC-LIB39-ENT-AAT-0038885,descriptive_identity,"""type of chemical entity""",https://www.wikidata.org/wiki/Q52353
+LIBSRC-LIB39-ENT-AAT-0039249,descriptive_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Q443805
+LIBSRC-LIB39-ENT-AAT-0039297,descriptive_identity,"""logarithmic quantity""",https://www.wikidata.org/wiki/Q40936
+LIBSRC-LIB39-ENT-AAT-0039297,descriptive_identity,"""chemical quantity""",https://www.wikidata.org/wiki/Q40936
+LIBSRC-LIB39-ENT-AAT-0039297,descriptive_identity,"""acidity function""",https://www.wikidata.org/wiki/Q40936
+LIBSRC-LIB39-ENT-AAT-0039588,descriptive_identity,"""school of thought""",https://www.wikidata.org/wiki/Q1972942
+LIBSRC-LIB39-ENT-AAT-0039588,descriptive_identity,"""art group""",https://www.wikidata.org/wiki/Q1972942
+LIBSRC-LIB39-ENT-AAT-0040412,descriptive_identity,"""tortilla""",https://www.wikidata.org/wiki/Q39082052
+LIBSRC-LIB39-ENT-AAT-0040412,descriptive_identity,"""dish""",https://www.wikidata.org/wiki/Q39082052
+LIBSRC-LIB39-ENT-AAT-0041378,descriptive_identity,"""stone""",https://www.wikidata.org/wiki/Q5377800
+LIBSRC-LIB39-ENT-AAT-0041378,descriptive_identity,"""composite material""",https://www.wikidata.org/wiki/Q5377800
+LIBSRC-LIB39-ENT-AAT-0041378,descriptive_identity,"""manufactured product""",https://www.wikidata.org/wiki/Q5377800
+LIBSRC-LIB39-ENT-AAT-0041379,descriptive_identity,"""rock""",https://www.wikidata.org/wiki/Q11990990
+LIBSRC-LIB39-ENT-AAT-0041379,descriptive_identity,"""building stone""",https://www.wikidata.org/wiki/Q11990990
+LIBSRC-LIB39-ENT-AAT-0041379,descriptive_identity,"""non-renewable resource""",https://www.wikidata.org/wiki/Q11990990
+LIBSRC-LIB39-ENT-AAT-0041379,descriptive_identity,"""raw material""",https://www.wikidata.org/wiki/Q11990990
+LIBSRC-LIB39-ENT-AAT-0042164,component_relationship,"""Chumbivilcas""",https://www.wikidata.org/wiki/Q10411382
+LIBSRC-LIB39-ENT-AAT-0042164,descriptive_identity,"""horse breed""",https://www.wikidata.org/wiki/Q10411382
+LIBSRC-LIB39-ENT-AAT-0042300,descriptive_identity,"""music of the Caribbean""",https://www.wikidata.org/wiki/Q106634508
+LIBSRC-LIB39-ENT-AAT-0042300,descriptive_identity,"""music genre""",https://www.wikidata.org/wiki/Q106634508
+LIBSRC-LIB40-ENT-REL-0005333,descriptive_identity,"""television series episode""",https://www.wikidata.org/wiki/Q48466000
+LIBSRC-LIB40-ENT-REL-0005731,descriptive_identity,"""festival""",https://www.wikidata.org/wiki/Q110045984
+LIBSRC-LIB40-ENT-REL-0005838,descriptive_identity,"""techno-management fest""",https://www.wikidata.org/wiki/Q111717626
+LIBSRC-LIB40-ENT-REL-0005838,descriptive_identity,"""technical festival""",https://www.wikidata.org/wiki/Q111717626
+LIBSRC-LIB40-ENT-REL-0005841,descriptive_identity,"""techno-management fest""",https://www.wikidata.org/wiki/Q111718869
+LIBSRC-LIB40-ENT-REL-0005841,descriptive_identity,"""festival""",https://www.wikidata.org/wiki/Q111718869
+LIBSRC-LIB40-ENT-REL-0005841,descriptive_identity,"""techno-cultural fest""",https://www.wikidata.org/wiki/Q111718869
+LIBSRC-LIB40-ENT-REL-0005841,descriptive_identity,"""recurring event""",https://www.wikidata.org/wiki/Q111718869
+LIBSRC-LIB40-ENT-REL-0005842,descriptive_identity,"""cultural festival""",https://www.wikidata.org/wiki/Q111720471
+LIBSRC-LIB40-ENT-REL-0005842,descriptive_identity,"""sports festival""",https://www.wikidata.org/wiki/Q111720471
+LIBSRC-LIB40-ENT-REL-0008980,descriptive_identity,"""festival""",https://www.wikidata.org/wiki/Q137475087
+LIBSRC-LIB40-ENT-REL-0013684,descriptive_identity,"""music festival""",https://www.wikidata.org/wiki/Q5499959
+LIBSRC-LIB40-ENT-REL-0013684,descriptive_identity,"""recurring event""",https://www.wikidata.org/wiki/Q5499959
+LIBSRC-LIB40-ENT-REL-0014147,descriptive_identity,"""film festival""",https://www.wikidata.org/wiki/Q60169665
+LIBSRC-LIB40-ENT-REL-0015818,descriptive_identity,"""music festival""",https://www.wikidata.org/wiki/Q7846688
+LIBSRC-LIB40-ENT-REL-0016219,descriptive_identity,"""food festival""",https://www.wikidata.org/wiki/Q890140
+LIBSRC-LIB40-ENT-REL-0017629,descriptive_identity,"""legendary bird""",https://www.wikidata.org/wiki/Q136788867
+LIBSRC-LIB40-ENT-REL-0019127,descriptive_identity,"""lake monster""",https://www.wikidata.org/wiki/Q4300415
+LIBSRC-LIB40-ENT-REL-0020587,descriptive_identity,"""Christianity""",https://www.wikidata.org/wiki/Q20850091
+LIBSRC-LIB40-ENT-REL-0020587,descriptive_identity,"""folk religion""",https://www.wikidata.org/wiki/Q20850091
+LIBSRC-LIB40-ENT-REL-0021442,descriptive_identity,"""act""",https://www.wikidata.org/wiki/Q1188761
+LIBSRC-LIB40-ENT-REL-0021442,descriptive_identity,"""contrition""",https://www.wikidata.org/wiki/Q1188761
+LIBSRC-LIB40-ENT-REL-0021442,descriptive_identity,"""Prayer in the Catholic Church""",https://www.wikidata.org/wiki/Q1188761
+LIBSRC-LIB40-ENT-REL-0021832,descriptive_identity,"""greeting""",https://www.wikidata.org/wiki/Q1552334
+LIBSRC-LIB43-ENT-OBJ-0001673,descriptive_identity,"""shoe""",https://www.wikidata.org/wiki/Q100348236
+LIBSRC-LIB43-ENT-OBJ-0003011,descriptive_identity,"""hairstyle accessory""",https://www.wikidata.org/wiki/Q102976959
+LIBSRC-LIB43-ENT-OBJ-0003011,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/23db6bd6bcbd07ed6239c5dd8fd97275""",https://www.wikidata.org/wiki/Q102976959
+LIBSRC-LIB43-ENT-OBJ-0003022,descriptive_identity,"""engineering award""",https://www.wikidata.org/wiki/Q10328052
+LIBSRC-LIB43-ENT-OBJ-0003022,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q10328052
+LIBSRC-LIB43-ENT-OBJ-0004254,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q108678740
+LIBSRC-LIB43-ENT-OBJ-0004254,descriptive_identity,"""engineering award""",https://www.wikidata.org/wiki/Q108678740
+LIBSRC-LIB43-ENT-OBJ-0004276,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q109031808
+LIBSRC-LIB43-ENT-OBJ-0004276,descriptive_identity,"""engineering award""",https://www.wikidata.org/wiki/Q109031808
+LIBSRC-LIB43-ENT-OBJ-0004277,descriptive_identity,"""engineering award""",https://www.wikidata.org/wiki/Q109033494
+LIBSRC-LIB43-ENT-OBJ-0004277,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q109033494
+LIBSRC-LIB43-ENT-OBJ-0004316,descriptive_identity,"""evening dress""",https://www.wikidata.org/wiki/Q109379785
+LIBSRC-LIB43-ENT-OBJ-0004316,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/ee7fd154227e6426d5cbd638bdb9ed58""",https://www.wikidata.org/wiki/Q109379785
+LIBSRC-LIB43-ENT-OBJ-0004321,descriptive_identity,"""court dress""",https://www.wikidata.org/wiki/Q109414213
+LIBSRC-LIB43-ENT-OBJ-0004321,manufacturer_or_creator,"""G. & E. Spitzer""",https://www.wikidata.org/wiki/Q109414213
+LIBSRC-LIB43-ENT-OBJ-0004321,material_identity,"""sequin""",https://www.wikidata.org/wiki/Q109414213
+LIBSRC-LIB43-ENT-OBJ-0004321,material_identity,"""Chantilly lace""",https://www.wikidata.org/wiki/Q109414213
+LIBSRC-LIB43-ENT-OBJ-0004321,material_identity,"""silk product""",https://www.wikidata.org/wiki/Q109414213
+LIBSRC-LIB43-ENT-OBJ-0004384,descriptive_identity,"""boot""",https://www.wikidata.org/wiki/Q109610020
+LIBSRC-LIB43-ENT-OBJ-0004384,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/2f1811f7021fe8a10cb3eb826ea754c7""",https://www.wikidata.org/wiki/Q109610020
+LIBSRC-LIB43-ENT-OBJ-0004384,material_identity,"""bronze""",https://www.wikidata.org/wiki/Q109610020
+LIBSRC-LIB43-ENT-OBJ-0004384,material_identity,"""silk product""",https://www.wikidata.org/wiki/Q109610020
+LIBSRC-LIB43-ENT-OBJ-0004384,material_identity,"""glass""",https://www.wikidata.org/wiki/Q109610020
+LIBSRC-LIB43-ENT-OBJ-0004384,material_identity,"""snakeskin""",https://www.wikidata.org/wiki/Q109610020
+LIBSRC-LIB43-ENT-OBJ-0004384,material_identity,"""wool""",https://www.wikidata.org/wiki/Q109610020
+LIBSRC-LIB43-ENT-OBJ-0004384,material_identity,"""steel""",https://www.wikidata.org/wiki/Q109610020
+LIBSRC-LIB43-ENT-OBJ-0004438,descriptive_identity,"""evening dress""",https://www.wikidata.org/wiki/Q109692029
+LIBSRC-LIB43-ENT-OBJ-0004438,manufacturer_or_creator,"""August Brisac""",https://www.wikidata.org/wiki/Q109692029
+LIBSRC-LIB43-ENT-OBJ-0004438,material_identity,"""chenille""",https://www.wikidata.org/wiki/Q109692029
+LIBSRC-LIB43-ENT-OBJ-0004438,material_identity,"""galloon""",https://www.wikidata.org/wiki/Q109692029
+LIBSRC-LIB43-ENT-OBJ-0004438,material_identity,"""chiffon""",https://www.wikidata.org/wiki/Q109692029
+LIBSRC-LIB43-ENT-OBJ-0004438,material_identity,"""guipure""",https://www.wikidata.org/wiki/Q109692029
+LIBSRC-LIB43-ENT-OBJ-0004438,material_identity,"""brocade""",https://www.wikidata.org/wiki/Q109692029
+LIBSRC-LIB43-ENT-OBJ-0004438,material_identity,"""sequin""",https://www.wikidata.org/wiki/Q109692029
+LIBSRC-LIB43-ENT-OBJ-0004438,material_identity,"""tulle""",https://www.wikidata.org/wiki/Q109692029
+LIBSRC-LIB43-ENT-OBJ-0004438,material_identity,"""satin""",https://www.wikidata.org/wiki/Q109692029
+LIBSRC-LIB43-ENT-OBJ-0004438,material_identity,"""silver thread""",https://www.wikidata.org/wiki/Q109692029
+LIBSRC-LIB43-ENT-OBJ-0004459,descriptive_identity,"""court dress""",https://www.wikidata.org/wiki/Q109414213
+LIBSRC-LIB43-ENT-OBJ-0004459,manufacturer_or_creator,"""G. & E. Spitzer""",https://www.wikidata.org/wiki/Q109414213
+LIBSRC-LIB43-ENT-OBJ-0004459,material_identity,"""sequin""",https://www.wikidata.org/wiki/Q109414213
+LIBSRC-LIB43-ENT-OBJ-0004459,material_identity,"""Chantilly lace""",https://www.wikidata.org/wiki/Q109414213
+LIBSRC-LIB43-ENT-OBJ-0004459,material_identity,"""silk product""",https://www.wikidata.org/wiki/Q109414213
+LIBSRC-LIB43-ENT-OBJ-0005254,descriptive_identity,"""suppressor""",https://www.wikidata.org/wiki/Q112534416
+LIBSRC-LIB43-ENT-OBJ-0005254,manufacturer_or_creator,"""SureFire""",https://www.wikidata.org/wiki/Q112534416
+LIBSRC-LIB43-ENT-OBJ-0005303,descriptive_identity,"""compression shorts""",https://www.wikidata.org/wiki/Q11349518
+LIBSRC-LIB43-ENT-OBJ-0007941,descriptive_identity,"""bracelet""",https://www.wikidata.org/wiki/Q116297469
+LIBSRC-LIB43-ENT-OBJ-0008157,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q116311467
+LIBSRC-LIB43-ENT-OBJ-0008171,descriptive_identity,"""robe""",https://www.wikidata.org/wiki/Q116313092
+LIBSRC-LIB43-ENT-OBJ-0013054,descriptive_identity,"""sculpture""",https://www.wikidata.org/wiki/Q122934233
+LIBSRC-LIB43-ENT-OBJ-0013054,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q122934233
+LIBSRC-LIB43-ENT-OBJ-0013054,manufacturer_or_creator,"""Medallic Art Company""",https://www.wikidata.org/wiki/Q122934233
+LIBSRC-LIB43-ENT-OBJ-0013054,manufacturer_or_creator,"""Q52156592""",https://www.wikidata.org/wiki/Q122934233
+LIBSRC-LIB43-ENT-OBJ-0013054,material_identity,"""bronze""",https://www.wikidata.org/wiki/Q122934233
+LIBSRC-LIB43-ENT-OBJ-0013062,descriptive_identity,"""sculpture""",https://www.wikidata.org/wiki/Q122934250
+LIBSRC-LIB43-ENT-OBJ-0013062,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q122934250
+LIBSRC-LIB43-ENT-OBJ-0013062,manufacturer_or_creator,"""Medallic Art Company""",https://www.wikidata.org/wiki/Q122934250
+LIBSRC-LIB43-ENT-OBJ-0013062,manufacturer_or_creator,"""Q52156592""",https://www.wikidata.org/wiki/Q122934250
+LIBSRC-LIB43-ENT-OBJ-0013062,material_identity,"""bronze""",https://www.wikidata.org/wiki/Q122934250
+LIBSRC-LIB43-ENT-OBJ-0013362,descriptive_identity,"""imperial crown""",https://www.wikidata.org/wiki/Q124617881
+LIBSRC-LIB43-ENT-OBJ-0014628,descriptive_identity,"""clothing""",https://www.wikidata.org/wiki/Q131219511
+LIBSRC-LIB43-ENT-OBJ-0014628,descriptive_identity,"""costume""",https://www.wikidata.org/wiki/Q131219511
+LIBSRC-LIB43-ENT-OBJ-0014628,descriptive_identity,"""fashion style""",https://www.wikidata.org/wiki/Q131219511
+LIBSRC-LIB43-ENT-OBJ-0014628,descriptive_identity,"""traditional costume""",https://www.wikidata.org/wiki/Q131219511
+LIBSRC-LIB43-ENT-OBJ-0014628,descriptive_identity,"""type of costume""",https://www.wikidata.org/wiki/Q131219511
+LIBSRC-LIB43-ENT-OBJ-0017682,descriptive_identity,"""portable stove""",https://www.wikidata.org/wiki/Q1642572
+LIBSRC-LIB43-ENT-OBJ-0018060,descriptive_identity,"""engineering award""",https://www.wikidata.org/wiki/Q19873358
+LIBSRC-LIB43-ENT-OBJ-0018060,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q19873358
+LIBSRC-LIB43-ENT-OBJ-0018060,descriptive_identity,"""science award""",https://www.wikidata.org/wiki/Q19873358
+LIBSRC-LIB43-ENT-OBJ-0018070,descriptive_identity,"""suppressor""",https://www.wikidata.org/wiki/Q19910618
+LIBSRC-LIB43-ENT-OBJ-0018258,descriptive_identity,"""science award""",https://www.wikidata.org/wiki/Q21531768
+LIBSRC-LIB43-ENT-OBJ-0018258,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q21531768
+LIBSRC-LIB43-ENT-OBJ-0018258,descriptive_identity,"""award of the American Society of Mechanical Engineers""",https://www.wikidata.org/wiki/Q21531768
+LIBSRC-LIB43-ENT-OBJ-0018295,descriptive_identity,"""service award""",https://www.wikidata.org/wiki/Q22032147
+LIBSRC-LIB43-ENT-OBJ-0018403,descriptive_identity,"""award""",https://www.wikidata.org/wiki/Q24589629
+LIBSRC-LIB43-ENT-OBJ-0018403,descriptive_identity,"""engineering award""",https://www.wikidata.org/wiki/Q24589629
+LIBSRC-LIB43-ENT-OBJ-0018403,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q24589629
+LIBSRC-LIB43-ENT-OBJ-0019253,descriptive_identity,"""work of art""",https://www.wikidata.org/wiki/Q4010421
+LIBSRC-LIB43-ENT-OBJ-0019253,descriptive_identity,"""dress""",https://www.wikidata.org/wiki/Q4010421
+LIBSRC-LIB43-ENT-OBJ-0019253,manufacturer_or_creator,"""Lizzy Gardiner""",https://www.wikidata.org/wiki/Q4010421
+LIBSRC-LIB43-ENT-OBJ-0019253,material_identity,"""American Express Gold Card""",https://www.wikidata.org/wiki/Q4010421
+LIBSRC-LIB43-ENT-OBJ-0019391,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q4287097
+LIBSRC-LIB43-ENT-OBJ-0019391,descriptive_identity,"""ministerial awards of the Russian Federation""",https://www.wikidata.org/wiki/Q4287097
+LIBSRC-LIB43-ENT-OBJ-0019948,descriptive_identity,"""science award""",https://www.wikidata.org/wiki/Q5970391
+LIBSRC-LIB43-ENT-OBJ-0019948,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q5970391
+LIBSRC-LIB43-ENT-OBJ-0019948,descriptive_identity,"""engineering award""",https://www.wikidata.org/wiki/Q5970391
+LIBSRC-LIB43-ENT-OBJ-0020131,descriptive_identity,"""plate armour""",https://www.wikidata.org/wiki/Q60752240
+LIBSRC-LIB43-ENT-OBJ-0020131,descriptive_identity,"""militaria""",https://www.wikidata.org/wiki/Q60752240
+LIBSRC-LIB43-ENT-OBJ-0020278,descriptive_identity,"""militaria""",https://www.wikidata.org/wiki/Q60759024
+LIBSRC-LIB43-ENT-OBJ-0020278,descriptive_identity,"""plate armour""",https://www.wikidata.org/wiki/Q60759024
+LIBSRC-LIB43-ENT-OBJ-0020278,descriptive_identity,"""cranequin""",https://www.wikidata.org/wiki/Q60759024
+LIBSRC-LIB43-ENT-OBJ-0020323,descriptive_identity,"""militaria""",https://www.wikidata.org/wiki/Q79478294
+LIBSRC-LIB43-ENT-OBJ-0020323,descriptive_identity,"""cranequin""",https://www.wikidata.org/wiki/Q79478294
+LIBSRC-LIB43-ENT-OBJ-0020575,descriptive_identity,"""militaria""",https://www.wikidata.org/wiki/Q79478294
+LIBSRC-LIB43-ENT-OBJ-0020575,descriptive_identity,"""cranequin""",https://www.wikidata.org/wiki/Q79478294
+LIBSRC-LIB43-ENT-OBJ-0020966,descriptive_identity,"""work of art""",https://www.wikidata.org/wiki/Q63851659
+LIBSRC-LIB43-ENT-OBJ-0020966,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q63851659
+LIBSRC-LIB43-ENT-OBJ-0020966,manufacturer_or_creator,"""Giovanni Cavino""",https://www.wikidata.org/wiki/Q63851659
+LIBSRC-LIB43-ENT-OBJ-0021000,descriptive_identity,"""work of art""",https://www.wikidata.org/wiki/Q63851780
+LIBSRC-LIB43-ENT-OBJ-0021000,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q63851780
+LIBSRC-LIB43-ENT-OBJ-0021000,manufacturer_or_creator,"""Leone Leoni""",https://www.wikidata.org/wiki/Q63851780
+LIBSRC-LIB43-ENT-OBJ-0021000,material_identity,"""bronze""",https://www.wikidata.org/wiki/Q63851780
+LIBSRC-LIB43-ENT-OBJ-0021286,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q678263
+LIBSRC-LIB43-ENT-OBJ-0021286,descriptive_identity,"""science award""",https://www.wikidata.org/wiki/Q678263
+LIBSRC-LIB43-ENT-OBJ-0021287,descriptive_identity,"""science award""",https://www.wikidata.org/wiki/Q678414
+LIBSRC-LIB43-ENT-OBJ-0021287,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q678414
+LIBSRC-LIB43-ENT-OBJ-0021489,descriptive_identity,"""jewelry""",https://www.wikidata.org/wiki/Q718838
+LIBSRC-LIB43-ENT-OBJ-0021489,descriptive_identity,"""regalia""",https://www.wikidata.org/wiki/Q718838
+LIBSRC-LIB43-ENT-OBJ-0021513,descriptive_identity,"""medal""",https://www.wikidata.org/wiki/Q7241173
+LIBSRC-LIB43-ENT-OBJ-0021513,descriptive_identity,"""science award""",https://www.wikidata.org/wiki/Q7241173
+LIBSRC-LIB43-ENT-OBJ-0022979,descriptive_identity,"""award""",https://www.wikidata.org/wiki/Q817363
+LIBSRC-LIB43-ENT-OBJ-0022979,descriptive_identity,"""civil decoration""",https://www.wikidata.org/wiki/Q817363
+LIBSRC-LIB43-ENT-OBJ-0026109,dimension_length,133.5,https://www.wikidata.org/wiki/Q100311969
+LIBSRC-LIB43-ENT-OBJ-0026109,descriptive_identity,"""archaeological artefact""",https://www.wikidata.org/wiki/Q100311969
+LIBSRC-LIB43-ENT-OBJ-0026109,descriptive_identity,"""spatula""",https://www.wikidata.org/wiki/Q100311969
+LIBSRC-LIB43-ENT-OBJ-0026109,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/ccd04f4eb894e21795416ae4329513b7""",https://www.wikidata.org/wiki/Q100311969
+LIBSRC-LIB43-ENT-OBJ-0026109,material_identity,"""bronze""",https://www.wikidata.org/wiki/Q100311969
+LIBSRC-LIB43-ENT-OBJ-0027749,descriptive_identity,"""archaeological artefact""",https://www.wikidata.org/wiki/Q100348768
+LIBSRC-LIB43-ENT-OBJ-0027749,descriptive_identity,"""mold""",https://www.wikidata.org/wiki/Q100348768
+LIBSRC-LIB43-ENT-OBJ-0027749,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/023e4a4740597d4327333e62d59f4347""",https://www.wikidata.org/wiki/Q100348768
+LIBSRC-LIB43-ENT-OBJ-0027749,material_identity,"""plaster""",https://www.wikidata.org/wiki/Q100348768
+LIBSRC-LIB43-ENT-OBJ-0028814,descriptive_identity,"""water-dropper""",https://www.wikidata.org/wiki/Q102961755
+LIBSRC-LIB43-ENT-OBJ-0028814,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/3eaab63885f8be6e497a6c927e472bfa""",https://www.wikidata.org/wiki/Q102961755
+LIBSRC-LIB43-ENT-OBJ-0028857,descriptive_identity,"""bowl""",https://www.wikidata.org/wiki/Q102962565
+LIBSRC-LIB43-ENT-OBJ-0028857,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/55865d061b86f2a7cd47fea4e4c02db9""",https://www.wikidata.org/wiki/Q102962565
+LIBSRC-LIB43-ENT-OBJ-0028958,descriptive_identity,"""dish""",https://www.wikidata.org/wiki/Q102964506
+LIBSRC-LIB43-ENT-OBJ-0028958,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/fbfa9375085b021fd834a51d72e2f4b5""",https://www.wikidata.org/wiki/Q102964506
+LIBSRC-LIB43-ENT-OBJ-0029026,descriptive_identity,"""vase""",https://www.wikidata.org/wiki/Q102966588
+LIBSRC-LIB43-ENT-OBJ-0029026,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/819a7e671edc2799c66ec24a3de162bf""",https://www.wikidata.org/wiki/Q102966588
+LIBSRC-LIB43-ENT-OBJ-0029078,descriptive_identity,"""mirror""",https://www.wikidata.org/wiki/Q102968590
+LIBSRC-LIB43-ENT-OBJ-0029078,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/33b65c3136a9907430f842e329722076""",https://www.wikidata.org/wiki/Q102968590
+LIBSRC-LIB43-ENT-OBJ-0029098,descriptive_identity,"""bowl""",https://www.wikidata.org/wiki/Q102969364
+LIBSRC-LIB43-ENT-OBJ-0029098,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/323b0a034ba051705c6372a0edb46902""",https://www.wikidata.org/wiki/Q102969364
+LIBSRC-LIB43-ENT-OBJ-0029151,descriptive_identity,"""mold""",https://www.wikidata.org/wiki/Q102970454
+LIBSRC-LIB43-ENT-OBJ-0029151,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/cb10026f27da40a436a65fe3cd3c10ed""",https://www.wikidata.org/wiki/Q102970454
+LIBSRC-LIB43-ENT-OBJ-0029324,descriptive_identity,"""soba choko""",https://www.wikidata.org/wiki/Q102972998
+LIBSRC-LIB43-ENT-OBJ-0029324,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/5a46d62c553d2ddb3afcb2437aea2e0c""",https://www.wikidata.org/wiki/Q102972998
+LIBSRC-LIB43-ENT-OBJ-0029365,descriptive_identity,"""plate""",https://www.wikidata.org/wiki/Q102973969
+LIBSRC-LIB43-ENT-OBJ-0029365,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/735548ea71e8bd31ade4998c44d93dd5""",https://www.wikidata.org/wiki/Q102973969
+LIBSRC-LIB43-ENT-OBJ-0029489,descriptive_identity,"""vase""",https://www.wikidata.org/wiki/Q103298914
+LIBSRC-LIB43-ENT-OBJ-0029489,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/f24a47c495f80b861672728746f286dc""",https://www.wikidata.org/wiki/Q103298914
+LIBSRC-LIB43-ENT-OBJ-0029622,descriptive_identity,"""vase""",https://www.wikidata.org/wiki/Q103311937
+LIBSRC-LIB43-ENT-OBJ-0029622,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/cd4c8503673c75b14a08c054b6b662a3""",https://www.wikidata.org/wiki/Q103311937
+LIBSRC-LIB43-ENT-OBJ-0029827,descriptive_identity,"""gantry crane""",https://www.wikidata.org/wiki/Q104056007
+LIBSRC-LIB43-ENT-OBJ-0029953,descriptive_identity,"""video game weapon""",https://www.wikidata.org/wiki/Q104776664
+LIBSRC-LIB43-ENT-OBJ-0029953,descriptive_identity,"""fictional pump-action shotgun""",https://www.wikidata.org/wiki/Q104776664
+LIBSRC-LIB43-ENT-OBJ-0030235,descriptive_identity,"""heritage site""",https://www.wikidata.org/wiki/Q105223486
+LIBSRC-LIB43-ENT-OBJ-0030235,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q105223486
+LIBSRC-LIB43-ENT-OBJ-0030317,descriptive_identity,"""espresso machine""",https://www.wikidata.org/wiki/Q105672793
+LIBSRC-LIB43-ENT-OBJ-0030317,manufacturer_or_creator,"""La Pavoni""",https://www.wikidata.org/wiki/Q105672793
+LIBSRC-LIB43-ENT-OBJ-0030407,descriptive_identity,"""Q5738516""",https://www.wikidata.org/wiki/Q106138578
+LIBSRC-LIB43-ENT-OBJ-0030414,descriptive_identity,"""bicycle tool""",https://www.wikidata.org/wiki/Q106189150
+LIBSRC-LIB43-ENT-OBJ-0032603,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q106263426
+LIBSRC-LIB43-ENT-OBJ-0032651,descriptive_identity,"""nuclear reactor""",https://www.wikidata.org/wiki/Q106464234
+LIBSRC-LIB43-ENT-OBJ-0032651,descriptive_identity,"""nuclear reactor""",https://www.wikidata.org/wiki/Q106464234
+LIBSRC-LIB43-ENT-OBJ-0032651,manufacturer_or_creator,"""Nuclear Power Corporation of India""",https://www.wikidata.org/wiki/Q106464234
+LIBSRC-LIB43-ENT-OBJ-0032671,descriptive_identity,"""heritage site""",https://www.wikidata.org/wiki/Q106514550
+LIBSRC-LIB43-ENT-OBJ-0032671,descriptive_identity,"""rail crane""",https://www.wikidata.org/wiki/Q106514550
+LIBSRC-LIB43-ENT-OBJ-0032797,descriptive_identity,"""plate""",https://www.wikidata.org/wiki/Q106582804
+LIBSRC-LIB43-ENT-OBJ-0032797,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/21b6321815698e2b671751cf50826f7e""",https://www.wikidata.org/wiki/Q106582804
+LIBSRC-LIB43-ENT-OBJ-0032884,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q106765807
+LIBSRC-LIB43-ENT-OBJ-0032884,descriptive_identity,"""water well""",https://www.wikidata.org/wiki/Q106765807
+LIBSRC-LIB43-ENT-OBJ-0032992,dimension_length,46000.0,https://www.wikidata.org/wiki/Q107110036
+LIBSRC-LIB43-ENT-OBJ-0032992,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q107110036
+LIBSRC-LIB43-ENT-OBJ-0032992,manufacturer_or_creator,"""Baltic Shipyard""",https://www.wikidata.org/wiki/Q107110036
+LIBSRC-LIB43-ENT-OBJ-0033052,descriptive_identity,"""musical instrument""",https://www.wikidata.org/wiki/Q107324948
+LIBSRC-LIB43-ENT-OBJ-0033052,descriptive_identity,"""type of musical instrument""",https://www.wikidata.org/wiki/Q107324948
+LIBSRC-LIB43-ENT-OBJ-0033052,descriptive_identity,"""stick zither""",https://www.wikidata.org/wiki/Q107324948
+LIBSRC-LIB43-ENT-OBJ-0033052,descriptive_identity,"""tube zither""",https://www.wikidata.org/wiki/Q107324948
+LIBSRC-LIB43-ENT-OBJ-0033052,descriptive_identity,"""chordophone""",https://www.wikidata.org/wiki/Q107324948
+LIBSRC-LIB43-ENT-OBJ-0033691,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q108417556
+LIBSRC-LIB43-ENT-OBJ-0033827,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q108871059
+LIBSRC-LIB43-ENT-OBJ-0033827,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q108871059
+LIBSRC-LIB43-ENT-OBJ-0034019,descriptive_identity,"""brake""",https://www.wikidata.org/wiki/Q109474579
+LIBSRC-LIB43-ENT-OBJ-0034111,descriptive_identity,"""hand fan""",https://www.wikidata.org/wiki/Q109659907
+LIBSRC-LIB43-ENT-OBJ-0034111,descriptive_identity,"""painting""",https://www.wikidata.org/wiki/Q109659907
+LIBSRC-LIB43-ENT-OBJ-0034111,manufacturer_or_creator,"""Louis Billotey""",https://www.wikidata.org/wiki/Q109659907
+LIBSRC-LIB43-ENT-OBJ-0034111,material_identity,"""gauze""",https://www.wikidata.org/wiki/Q109659907
+LIBSRC-LIB43-ENT-OBJ-0034111,material_identity,"""nacre""",https://www.wikidata.org/wiki/Q109659907
+LIBSRC-LIB43-ENT-OBJ-0034111,material_identity,"""gouache paint""",https://www.wikidata.org/wiki/Q109659907
+LIBSRC-LIB43-ENT-OBJ-0034127,descriptive_identity,"""engine fuel system""",https://www.wikidata.org/wiki/Q109699536
+LIBSRC-LIB43-ENT-OBJ-0034127,descriptive_identity,"""carburetor""",https://www.wikidata.org/wiki/Q109699536
+LIBSRC-LIB43-ENT-OBJ-0034179,descriptive_identity,"""hand fan""",https://www.wikidata.org/wiki/Q109781814
+LIBSRC-LIB43-ENT-OBJ-0034179,manufacturer_or_creator,"""Henri Alberti""",https://www.wikidata.org/wiki/Q109781814
+LIBSRC-LIB43-ENT-OBJ-0034179,material_identity,"""grenadine""",https://www.wikidata.org/wiki/Q109781814
+LIBSRC-LIB43-ENT-OBJ-0034179,material_identity,"""nacre""",https://www.wikidata.org/wiki/Q109781814
+LIBSRC-LIB43-ENT-OBJ-0034179,material_identity,"""gouache paint""",https://www.wikidata.org/wiki/Q109781814
+LIBSRC-LIB43-ENT-OBJ-0034190,descriptive_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Q1190389
+LIBSRC-LIB43-ENT-OBJ-0034205,descriptive_identity,"""open-source software""",https://www.wikidata.org/wiki/Q109808045
+LIBSRC-LIB43-ENT-OBJ-0034205,descriptive_identity,"""open hardware""",https://www.wikidata.org/wiki/Q109808045
+LIBSRC-LIB43-ENT-OBJ-0034205,descriptive_identity,"""communication protocol""",https://www.wikidata.org/wiki/Q109808045
+LIBSRC-LIB43-ENT-OBJ-0034599,dimension_length,4900.0,https://www.wikidata.org/wiki/Q110647059
+LIBSRC-LIB43-ENT-OBJ-0034599,mass,3735300.0,https://www.wikidata.org/wiki/Q110647059
+LIBSRC-LIB43-ENT-OBJ-0034599,descriptive_identity,"""ExPRESS Logistics Carrier""",https://www.wikidata.org/wiki/Q110647059
+LIBSRC-LIB43-ENT-OBJ-0034761,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q111027878
+LIBSRC-LIB43-ENT-OBJ-0034764,mass,20400.0,https://www.wikidata.org/wiki/Q1110462
+LIBSRC-LIB43-ENT-OBJ-0034764,rated_power,48.7,https://www.wikidata.org/wiki/Q1110462
+LIBSRC-LIB43-ENT-OBJ-0034764,descriptive_identity,"""ground-penetrating radar""",https://www.wikidata.org/wiki/Q1110462
+LIBSRC-LIB43-ENT-OBJ-0034764,descriptive_identity,"""space instrument""",https://www.wikidata.org/wiki/Q1110462
+LIBSRC-LIB43-ENT-OBJ-0034764,manufacturer_or_creator,"""Alenia Spazio""",https://www.wikidata.org/wiki/Q1110462
+LIBSRC-LIB43-ENT-OBJ-0034764,manufacturer_or_creator,"""Jet Propulsion Laboratory""",https://www.wikidata.org/wiki/Q1110462
+LIBSRC-LIB43-ENT-OBJ-0034764,manufacturer_or_creator,"""Italian Space Agency""",https://www.wikidata.org/wiki/Q1110462
+LIBSRC-LIB43-ENT-OBJ-0034764,manufacturer_or_creator,"""Sapienza University of Rome""",https://www.wikidata.org/wiki/Q1110462
+LIBSRC-LIB43-ENT-OBJ-0034764,manufacturer_or_creator,"""University of Iowa""",https://www.wikidata.org/wiki/Q1110462
+LIBSRC-LIB43-ENT-OBJ-0035059,descriptive_identity,"""harbour crane""",https://www.wikidata.org/wiki/Q111819879
+LIBSRC-LIB43-ENT-OBJ-0035076,descriptive_identity,"""road bridge""",https://www.wikidata.org/wiki/Q111852250
+LIBSRC-LIB43-ENT-OBJ-0035076,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q111852250
+LIBSRC-LIB43-ENT-OBJ-0035244,descriptive_identity,"""television character""",https://www.wikidata.org/wiki/Q2546234
+LIBSRC-LIB43-ENT-OBJ-0035244,descriptive_identity,"""fictional humanoid""",https://www.wikidata.org/wiki/Q2546234
+LIBSRC-LIB43-ENT-OBJ-0035244,manufacturer_or_creator,"""Jim Henson""",https://www.wikidata.org/wiki/Q2546234
+LIBSRC-LIB43-ENT-OBJ-0036972,dimension_length,255.0,https://www.wikidata.org/wiki/Q112239692
+LIBSRC-LIB43-ENT-OBJ-0036972,mass,1260.0,https://www.wikidata.org/wiki/Q112239692
+LIBSRC-LIB43-ENT-OBJ-0036972,descriptive_identity,"""mathematical instrument""",https://www.wikidata.org/wiki/Q112239692
+LIBSRC-LIB43-ENT-OBJ-0036972,material_identity,"""cloth""",https://www.wikidata.org/wiki/Q112239692
+LIBSRC-LIB43-ENT-OBJ-0036972,material_identity,"""brass""",https://www.wikidata.org/wiki/Q112239692
+LIBSRC-LIB43-ENT-OBJ-0036972,material_identity,"""wood""",https://www.wikidata.org/wiki/Q112239692
+LIBSRC-LIB43-ENT-OBJ-0036972,material_identity,"""silver""",https://www.wikidata.org/wiki/Q112239692
+LIBSRC-LIB43-ENT-OBJ-0036972,material_identity,"""porcelain""",https://www.wikidata.org/wiki/Q112239692
+LIBSRC-LIB43-ENT-OBJ-0036972,material_identity,"""steel""",https://www.wikidata.org/wiki/Q112239692
+LIBSRC-LIB43-ENT-OBJ-0036972,manufacturer_or_creator,"""Louis Pierre Florimond Lennel""",https://www.wikidata.org/wiki/Q112239692
+LIBSRC-LIB43-ENT-OBJ-0037037,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q112287055
+LIBSRC-LIB43-ENT-OBJ-0037037,descriptive_identity,"""physical model""",https://www.wikidata.org/wiki/Q112287055
+LIBSRC-LIB43-ENT-OBJ-0037089,descriptive_identity,"""suppressor""",https://www.wikidata.org/wiki/Q112534416
+LIBSRC-LIB43-ENT-OBJ-0037089,manufacturer_or_creator,"""SureFire""",https://www.wikidata.org/wiki/Q112534416
+LIBSRC-LIB43-ENT-OBJ-0038726,descriptive_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Q1148235
+LIBSRC-LIB43-ENT-OBJ-0038850,descriptive_identity,"""physical technological component""",https://www.wikidata.org/wiki/Q1151285
+LIBSRC-LIB43-ENT-OBJ-0038850,descriptive_identity,"""Q16644283""",https://www.wikidata.org/wiki/Q1151285
+LIBSRC-LIB43-ENT-OBJ-0038940,dimension_length,104000.0,https://www.wikidata.org/wiki/Q115572230
+LIBSRC-LIB43-ENT-OBJ-0038940,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q115572230
+LIBSRC-LIB43-ENT-OBJ-0039063,dimension_length,144000.0,https://www.wikidata.org/wiki/Q115690595
+LIBSRC-LIB43-ENT-OBJ-0039063,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q115690595
+LIBSRC-LIB43-ENT-OBJ-0039063,descriptive_identity,"""architectural heritage monument""",https://www.wikidata.org/wiki/Q115690595
+LIBSRC-LIB43-ENT-OBJ-0039063,descriptive_identity,"""Cable crane""",https://www.wikidata.org/wiki/Q115690595
+LIBSRC-LIB43-ENT-OBJ-0039063,manufacturer_or_creator,"""Adolf Bleichert & Co.""",https://www.wikidata.org/wiki/Q115690595
+LIBSRC-LIB43-ENT-OBJ-0039063,material_identity,"""steel""",https://www.wikidata.org/wiki/Q115690595
+LIBSRC-LIB43-ENT-OBJ-0039063,material_identity,"""girder""",https://www.wikidata.org/wiki/Q115690595
+LIBSRC-LIB43-ENT-OBJ-0039082,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q115796146
+LIBSRC-LIB43-ENT-OBJ-0039238,descriptive_identity,"""seal""",https://www.wikidata.org/wiki/Q116236550
+LIBSRC-LIB43-ENT-OBJ-0039398,descriptive_identity,"""cylinder seal""",https://www.wikidata.org/wiki/Q116241648
+LIBSRC-LIB43-ENT-OBJ-0039597,descriptive_identity,"""bottle""",https://www.wikidata.org/wiki/Q116242749
+LIBSRC-LIB43-ENT-OBJ-0040694,descriptive_identity,"""weight""",https://www.wikidata.org/wiki/Q116273864
+LIBSRC-LIB43-ENT-OBJ-0040849,descriptive_identity,"""bottle""",https://www.wikidata.org/wiki/Q116274996
+LIBSRC-LIB43-ENT-OBJ-0041302,descriptive_identity,"""cylinder seal""",https://www.wikidata.org/wiki/Q116282319
+LIBSRC-LIB43-ENT-OBJ-0041305,descriptive_identity,"""cylinder seal""",https://www.wikidata.org/wiki/Q116282322
+LIBSRC-LIB43-ENT-OBJ-0041306,descriptive_identity,"""cylinder seal""",https://www.wikidata.org/wiki/Q116282323
+LIBSRC-LIB43-ENT-OBJ-0041308,descriptive_identity,"""cylinder seal""",https://www.wikidata.org/wiki/Q116282325
+LIBSRC-LIB43-ENT-OBJ-0041309,descriptive_identity,"""cylinder seal""",https://www.wikidata.org/wiki/Q116282326
+LIBSRC-LIB43-ENT-OBJ-0041338,descriptive_identity,"""cylinder seal""",https://www.wikidata.org/wiki/Q116282437
+LIBSRC-LIB43-ENT-OBJ-0041339,descriptive_identity,"""seal""",https://www.wikidata.org/wiki/Q116282442
+LIBSRC-LIB43-ENT-OBJ-0041362,descriptive_identity,"""cylinder seal""",https://www.wikidata.org/wiki/Q116282552
+LIBSRC-LIB43-ENT-OBJ-0041366,descriptive_identity,"""cylinder seal""",https://www.wikidata.org/wiki/Q116282557
+LIBSRC-LIB43-ENT-OBJ-0041367,descriptive_identity,"""cylinder seal""",https://www.wikidata.org/wiki/Q116282559
+LIBSRC-LIB43-ENT-OBJ-0044355,descriptive_identity,"""vase""",https://www.wikidata.org/wiki/Q116314063
+LIBSRC-LIB43-ENT-OBJ-0051425,descriptive_identity,"""cylinder seal""",https://www.wikidata.org/wiki/Q116407422
+LIBSRC-LIB43-ENT-OBJ-0051437,descriptive_identity,"""cylinder seal""",https://www.wikidata.org/wiki/Q116407902
+LIBSRC-LIB43-ENT-OBJ-0051438,descriptive_identity,"""cylinder seal""",https://www.wikidata.org/wiki/Q116407902
+LIBSRC-LIB43-ENT-OBJ-0051444,descriptive_identity,"""seal""",https://www.wikidata.org/wiki/Q116407959
+LIBSRC-LIB43-ENT-OBJ-0051452,descriptive_identity,"""cylinder seal""",https://www.wikidata.org/wiki/Q116408001
+LIBSRC-LIB43-ENT-OBJ-0051676,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q116414216
+LIBSRC-LIB43-ENT-OBJ-0051676,descriptive_identity,"""historic building""",https://www.wikidata.org/wiki/Q116414216
+LIBSRC-LIB43-ENT-OBJ-0051676,descriptive_identity,"""mine shaft""",https://www.wikidata.org/wiki/Q116414216
+LIBSRC-LIB43-ENT-OBJ-0053433,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q116747868
+LIBSRC-LIB43-ENT-OBJ-0053517,dimension_length,133000.0,https://www.wikidata.org/wiki/Q117028339
+LIBSRC-LIB43-ENT-OBJ-0053517,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117028339
+LIBSRC-LIB43-ENT-OBJ-0053518,dimension_length,146000.0,https://www.wikidata.org/wiki/Q117028529
+LIBSRC-LIB43-ENT-OBJ-0053518,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117028529
+LIBSRC-LIB43-ENT-OBJ-0053526,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117042328
+LIBSRC-LIB43-ENT-OBJ-0053533,dimension_length,41000.0,https://www.wikidata.org/wiki/Q117067435
+LIBSRC-LIB43-ENT-OBJ-0053533,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117067435
+LIBSRC-LIB43-ENT-OBJ-0053534,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117067436
+LIBSRC-LIB43-ENT-OBJ-0053534,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117067436
+LIBSRC-LIB43-ENT-OBJ-0053539,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117067445
+LIBSRC-LIB43-ENT-OBJ-0053539,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117067445
+LIBSRC-LIB43-ENT-OBJ-0053540,dimension_length,47000.0,https://www.wikidata.org/wiki/Q117067446
+LIBSRC-LIB43-ENT-OBJ-0053540,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117067446
+LIBSRC-LIB43-ENT-OBJ-0053541,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117067447
+LIBSRC-LIB43-ENT-OBJ-0053541,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117067447
+LIBSRC-LIB43-ENT-OBJ-0053546,dimension_length,45000.0,https://www.wikidata.org/wiki/Q117070615
+LIBSRC-LIB43-ENT-OBJ-0053546,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117070615
+LIBSRC-LIB43-ENT-OBJ-0053551,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q112035732
+LIBSRC-LIB43-ENT-OBJ-0053552,dimension_length,45000.0,https://www.wikidata.org/wiki/Q117071150
+LIBSRC-LIB43-ENT-OBJ-0053552,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117071150
+LIBSRC-LIB43-ENT-OBJ-0053554,dimension_length,55000.0,https://www.wikidata.org/wiki/Q117072501
+LIBSRC-LIB43-ENT-OBJ-0053554,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117072501
+LIBSRC-LIB43-ENT-OBJ-0053558,dimension_length,46000.0,https://www.wikidata.org/wiki/Q117072571
+LIBSRC-LIB43-ENT-OBJ-0053558,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117072571
+LIBSRC-LIB43-ENT-OBJ-0053559,dimension_length,36000.0,https://www.wikidata.org/wiki/Q117072766
+LIBSRC-LIB43-ENT-OBJ-0053559,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117072766
+LIBSRC-LIB43-ENT-OBJ-0053562,dimension_length,41000.0,https://www.wikidata.org/wiki/Q117073035
+LIBSRC-LIB43-ENT-OBJ-0053562,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117073035
+LIBSRC-LIB43-ENT-OBJ-0053563,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117073039
+LIBSRC-LIB43-ENT-OBJ-0053564,dimension_length,50000.0,https://www.wikidata.org/wiki/Q117073049
+LIBSRC-LIB43-ENT-OBJ-0053564,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117073049
+LIBSRC-LIB43-ENT-OBJ-0053566,dimension_length,35000.0,https://www.wikidata.org/wiki/Q117073055
+LIBSRC-LIB43-ENT-OBJ-0053566,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117073055
+LIBSRC-LIB43-ENT-OBJ-0053572,dimension_length,225000.0,https://www.wikidata.org/wiki/Q117073570
+LIBSRC-LIB43-ENT-OBJ-0053572,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117073570
+LIBSRC-LIB43-ENT-OBJ-0053574,dimension_length,48000.0,https://www.wikidata.org/wiki/Q117073599
+LIBSRC-LIB43-ENT-OBJ-0053574,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117073599
+LIBSRC-LIB43-ENT-OBJ-0053575,descriptive_identity,"""expendable launch vehicle""",https://www.wikidata.org/wiki/Q22949
+LIBSRC-LIB43-ENT-OBJ-0053575,descriptive_identity,"""rocket family""",https://www.wikidata.org/wiki/Q22949
+LIBSRC-LIB43-ENT-OBJ-0053575,manufacturer_or_creator,"""United Launch Alliance""",https://www.wikidata.org/wiki/Q22949
+LIBSRC-LIB43-ENT-OBJ-0053575,manufacturer_or_creator,"""General Dynamics""",https://www.wikidata.org/wiki/Q22949
+LIBSRC-LIB43-ENT-OBJ-0053575,manufacturer_or_creator,"""Convair""",https://www.wikidata.org/wiki/Q22949
+LIBSRC-LIB43-ENT-OBJ-0053575,manufacturer_or_creator,"""Lockheed Martin""",https://www.wikidata.org/wiki/Q22949
+LIBSRC-LIB43-ENT-OBJ-0053577,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117073758
+LIBSRC-LIB43-ENT-OBJ-0053578,dimension_length,38000.0,https://www.wikidata.org/wiki/Q117076328
+LIBSRC-LIB43-ENT-OBJ-0053578,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117076328
+LIBSRC-LIB43-ENT-OBJ-0053578,manufacturer_or_creator,"""Volkswerft""",https://www.wikidata.org/wiki/Q117076328
+LIBSRC-LIB43-ENT-OBJ-0053579,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117076346
+LIBSRC-LIB43-ENT-OBJ-0053579,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117076346
+LIBSRC-LIB43-ENT-OBJ-0053580,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117076724
+LIBSRC-LIB43-ENT-OBJ-0053580,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117076724
+LIBSRC-LIB43-ENT-OBJ-0053580,manufacturer_or_creator,"""Ganz-Danubius""",https://www.wikidata.org/wiki/Q117076724
+LIBSRC-LIB43-ENT-OBJ-0053581,dimension_length,38000.0,https://www.wikidata.org/wiki/Q117076725
+LIBSRC-LIB43-ENT-OBJ-0053581,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117076725
+LIBSRC-LIB43-ENT-OBJ-0053581,manufacturer_or_creator,"""Volkswerft""",https://www.wikidata.org/wiki/Q117076725
+LIBSRC-LIB43-ENT-OBJ-0053582,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117076726
+LIBSRC-LIB43-ENT-OBJ-0053582,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117076726
+LIBSRC-LIB43-ENT-OBJ-0053583,dimension_length,36000.0,https://www.wikidata.org/wiki/Q117076727
+LIBSRC-LIB43-ENT-OBJ-0053583,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117076727
+LIBSRC-LIB43-ENT-OBJ-0053584,dimension_length,38000.0,https://www.wikidata.org/wiki/Q117076729
+LIBSRC-LIB43-ENT-OBJ-0053584,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117076729
+LIBSRC-LIB43-ENT-OBJ-0053584,manufacturer_or_creator,"""Meyer Wismar""",https://www.wikidata.org/wiki/Q117076729
+LIBSRC-LIB43-ENT-OBJ-0053585,descriptive_identity,"""given name""",https://www.wikidata.org/wiki/Q111664994
+LIBSRC-LIB43-ENT-OBJ-0053585,descriptive_identity,"""male given name""",https://www.wikidata.org/wiki/Q111664994
+LIBSRC-LIB43-ENT-OBJ-0053588,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117077376
+LIBSRC-LIB43-ENT-OBJ-0053588,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077376
+LIBSRC-LIB43-ENT-OBJ-0053588,manufacturer_or_creator,"""Ganz-Danubius""",https://www.wikidata.org/wiki/Q117077376
+LIBSRC-LIB43-ENT-OBJ-0053589,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117077377
+LIBSRC-LIB43-ENT-OBJ-0053589,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077377
+LIBSRC-LIB43-ENT-OBJ-0053591,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117077379
+LIBSRC-LIB43-ENT-OBJ-0053591,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077379
+LIBSRC-LIB43-ENT-OBJ-0053592,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117077380
+LIBSRC-LIB43-ENT-OBJ-0053592,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077380
+LIBSRC-LIB43-ENT-OBJ-0053593,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117077381
+LIBSRC-LIB43-ENT-OBJ-0053593,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077381
+LIBSRC-LIB43-ENT-OBJ-0053594,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117077382
+LIBSRC-LIB43-ENT-OBJ-0053594,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077382
+LIBSRC-LIB43-ENT-OBJ-0053597,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117077385
+LIBSRC-LIB43-ENT-OBJ-0053597,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077385
+LIBSRC-LIB43-ENT-OBJ-0053598,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117077386
+LIBSRC-LIB43-ENT-OBJ-0053598,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077386
+LIBSRC-LIB43-ENT-OBJ-0053600,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117077388
+LIBSRC-LIB43-ENT-OBJ-0053600,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077388
+LIBSRC-LIB43-ENT-OBJ-0053602,dimension_length,38000.0,https://www.wikidata.org/wiki/Q117077390
+LIBSRC-LIB43-ENT-OBJ-0053602,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077390
+LIBSRC-LIB43-ENT-OBJ-0053608,dimension_length,38000.0,https://www.wikidata.org/wiki/Q117077396
+LIBSRC-LIB43-ENT-OBJ-0053608,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077396
+LIBSRC-LIB43-ENT-OBJ-0053608,manufacturer_or_creator,"""Volkswerft""",https://www.wikidata.org/wiki/Q117077396
+LIBSRC-LIB43-ENT-OBJ-0053609,dimension_length,56000.0,https://www.wikidata.org/wiki/Q117077397
+LIBSRC-LIB43-ENT-OBJ-0053609,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077397
+LIBSRC-LIB43-ENT-OBJ-0053609,manufacturer_or_creator,"""Marinearsenal Warnowwerft""",https://www.wikidata.org/wiki/Q117077397
+LIBSRC-LIB43-ENT-OBJ-0053613,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117077401
+LIBSRC-LIB43-ENT-OBJ-0053613,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077401
+LIBSRC-LIB43-ENT-OBJ-0053613,manufacturer_or_creator,"""Ganz-Danubius""",https://www.wikidata.org/wiki/Q117077401
+LIBSRC-LIB43-ENT-OBJ-0053614,dimension_length,38000.0,https://www.wikidata.org/wiki/Q117077402
+LIBSRC-LIB43-ENT-OBJ-0053614,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077402
+LIBSRC-LIB43-ENT-OBJ-0053617,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117077405
+LIBSRC-LIB43-ENT-OBJ-0053617,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077405
+LIBSRC-LIB43-ENT-OBJ-0053619,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117077407
+LIBSRC-LIB43-ENT-OBJ-0053619,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077407
+LIBSRC-LIB43-ENT-OBJ-0053619,manufacturer_or_creator,"""Ganz-Danubius""",https://www.wikidata.org/wiki/Q117077407
+LIBSRC-LIB43-ENT-OBJ-0053620,descriptive_identity,"""human""",https://www.wikidata.org/wiki/Q4454563
+LIBSRC-LIB43-ENT-OBJ-0053621,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117077461
+LIBSRC-LIB43-ENT-OBJ-0053621,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077461
+LIBSRC-LIB43-ENT-OBJ-0053622,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117077462
+LIBSRC-LIB43-ENT-OBJ-0053622,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077462
+LIBSRC-LIB43-ENT-OBJ-0053623,dimension_length,70000.0,https://www.wikidata.org/wiki/Q117077468
+LIBSRC-LIB43-ENT-OBJ-0053623,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077468
+LIBSRC-LIB43-ENT-OBJ-0053623,manufacturer_or_creator,"""Cantieri Aeronautici e Navali Triestini""",https://www.wikidata.org/wiki/Q117077468
+LIBSRC-LIB43-ENT-OBJ-0053625,dimension_length,55000.0,https://www.wikidata.org/wiki/Q117077487
+LIBSRC-LIB43-ENT-OBJ-0053625,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077487
+LIBSRC-LIB43-ENT-OBJ-0053626,dimension_length,55000.0,https://www.wikidata.org/wiki/Q117077488
+LIBSRC-LIB43-ENT-OBJ-0053626,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077488
+LIBSRC-LIB43-ENT-OBJ-0053630,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117077807
+LIBSRC-LIB43-ENT-OBJ-0053630,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117077807
+LIBSRC-LIB43-ENT-OBJ-0053632,descriptive_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Q4685626
+LIBSRC-LIB43-ENT-OBJ-0053633,descriptive_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Q107225784
+LIBSRC-LIB43-ENT-OBJ-0053634,descriptive_identity,"""horse""",https://www.wikidata.org/wiki/Q140299252
+LIBSRC-LIB43-ENT-OBJ-0053634,descriptive_identity,"""individual animal""",https://www.wikidata.org/wiki/Q140299252
+LIBSRC-LIB43-ENT-OBJ-0053641,dimension_length,73000.0,https://www.wikidata.org/wiki/Q117103222
+LIBSRC-LIB43-ENT-OBJ-0053641,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117103222
+LIBSRC-LIB43-ENT-OBJ-0053760,dimension_length,85000.0,https://www.wikidata.org/wiki/Q117109606
+LIBSRC-LIB43-ENT-OBJ-0053760,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117109606
+LIBSRC-LIB43-ENT-OBJ-0053761,dimension_length,40000.0,https://www.wikidata.org/wiki/Q117111020
+LIBSRC-LIB43-ENT-OBJ-0053761,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q117111020
+LIBSRC-LIB43-ENT-OBJ-0053864,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q117317492
+LIBSRC-LIB43-ENT-OBJ-0053864,manufacturer_or_creator,"""Xuzhou Construction Machinery Group (XCMG)""",https://www.wikidata.org/wiki/Q117317492
+LIBSRC-LIB43-ENT-OBJ-0053869,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q117320606
+LIBSRC-LIB43-ENT-OBJ-0053869,descriptive_identity,"""architectural landmark""",https://www.wikidata.org/wiki/Q117320606
+LIBSRC-LIB43-ENT-OBJ-0054856,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q11753226
+LIBSRC-LIB43-ENT-OBJ-0055021,descriptive_identity,"""machine""",https://www.wikidata.org/wiki/Q178898
+LIBSRC-LIB43-ENT-OBJ-0055021,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q178898
+LIBSRC-LIB43-ENT-OBJ-0055021,descriptive_identity,"""gas pump""",https://www.wikidata.org/wiki/Q178898
+LIBSRC-LIB43-ENT-OBJ-0056355,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q120367487
+LIBSRC-LIB43-ENT-OBJ-0056356,descriptive_identity,"""engine fuel system""",https://www.wikidata.org/wiki/Q12038938
+LIBSRC-LIB43-ENT-OBJ-0056356,descriptive_identity,"""fuel injection""",https://www.wikidata.org/wiki/Q12038938
+LIBSRC-LIB43-ENT-OBJ-0056356,descriptive_identity,"""fuel injection""",https://www.wikidata.org/wiki/Q12038938
+LIBSRC-LIB43-ENT-OBJ-0056988,descriptive_identity,"""pedal""",https://www.wikidata.org/wiki/Q116768916
+LIBSRC-LIB43-ENT-OBJ-0056988,descriptive_identity,"""pedal""",https://www.wikidata.org/wiki/Q116768916
+LIBSRC-LIB43-ENT-OBJ-0057114,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q122219969
+LIBSRC-LIB43-ENT-OBJ-0057614,descriptive_identity,"""data storage""",https://www.wikidata.org/wiki/Q122979864
+LIBSRC-LIB43-ENT-OBJ-0057614,descriptive_identity,"""memory module""",https://www.wikidata.org/wiki/Q122979864
+LIBSRC-LIB43-ENT-OBJ-0057614,descriptive_identity,"""software library""",https://www.wikidata.org/wiki/Q122979864
+LIBSRC-LIB43-ENT-OBJ-0057614,descriptive_identity,"""ROM cartridge""",https://www.wikidata.org/wiki/Q122979864
+LIBSRC-LIB43-ENT-OBJ-0057614,descriptive_identity,"""commercial software""",https://www.wikidata.org/wiki/Q122979864
+LIBSRC-LIB43-ENT-OBJ-0057614,manufacturer_or_creator,"""Texas Instruments""",https://www.wikidata.org/wiki/Q122979864
+LIBSRC-LIB43-ENT-OBJ-0059325,descriptive_identity,"""rail crane""",https://www.wikidata.org/wiki/Q124149371
+LIBSRC-LIB43-ENT-OBJ-0059325,descriptive_identity,"""harbour crane""",https://www.wikidata.org/wiki/Q124149371
+LIBSRC-LIB43-ENT-OBJ-0059343,descriptive_identity,"""radio device""",https://www.wikidata.org/wiki/Q124216122
+LIBSRC-LIB43-ENT-OBJ-0059343,descriptive_identity,"""space instrument""",https://www.wikidata.org/wiki/Q124216122
+LIBSRC-LIB43-ENT-OBJ-0059344,descriptive_identity,"""radio device""",https://www.wikidata.org/wiki/Q124216123
+LIBSRC-LIB43-ENT-OBJ-0059344,descriptive_identity,"""space instrument""",https://www.wikidata.org/wiki/Q124216123
+LIBSRC-LIB43-ENT-OBJ-0059390,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q124313973
+LIBSRC-LIB43-ENT-OBJ-0059390,manufacturer_or_creator,"""Duesenberg""",https://www.wikidata.org/wiki/Q124313973
+LIBSRC-LIB43-ENT-OBJ-0059428,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q124408508
+LIBSRC-LIB43-ENT-OBJ-0059440,descriptive_identity,"""Historical fire engines""",https://www.wikidata.org/wiki/Q124429093
+LIBSRC-LIB43-ENT-OBJ-0059464,descriptive_identity,"""video game weapon""",https://www.wikidata.org/wiki/Q124453588
+LIBSRC-LIB43-ENT-OBJ-0059464,descriptive_identity,"""cut content""",https://www.wikidata.org/wiki/Q124453588
+LIBSRC-LIB43-ENT-OBJ-0059464,descriptive_identity,"""fictional weapon""",https://www.wikidata.org/wiki/Q124453588
+LIBSRC-LIB43-ENT-OBJ-0059464,manufacturer_or_creator,"""Valve Corporation""",https://www.wikidata.org/wiki/Q124453588
+LIBSRC-LIB43-ENT-OBJ-0059478,descriptive_identity,"""turbofan""",https://www.wikidata.org/wiki/Q1244829
+LIBSRC-LIB43-ENT-OBJ-0059478,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q1244829
+LIBSRC-LIB43-ENT-OBJ-0059653,dimension_length,22450.0,https://www.wikidata.org/wiki/Q125096448
+LIBSRC-LIB43-ENT-OBJ-0059653,descriptive_identity,"""preserved watercraft""",https://www.wikidata.org/wiki/Q125096448
+LIBSRC-LIB43-ENT-OBJ-0059653,descriptive_identity,"""museum ship""",https://www.wikidata.org/wiki/Q125096448
+LIBSRC-LIB43-ENT-OBJ-0059653,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q125096448
+LIBSRC-LIB43-ENT-OBJ-0059653,manufacturer_or_creator,"""Schiffs- und Maschinenbau AG Mannheim""",https://www.wikidata.org/wiki/Q125096448
+LIBSRC-LIB43-ENT-OBJ-0059657,descriptive_identity,"""motorcycle component""",https://www.wikidata.org/wiki/Q1251187
+LIBSRC-LIB43-ENT-OBJ-0059700,dimension_length,60960.0,https://www.wikidata.org/wiki/Q125256003
+LIBSRC-LIB43-ENT-OBJ-0059700,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q125256003
+LIBSRC-LIB43-ENT-OBJ-0059700,descriptive_identity,"""barge""",https://www.wikidata.org/wiki/Q125256003
+LIBSRC-LIB43-ENT-OBJ-0059700,manufacturer_or_creator,"""Jeffboat""",https://www.wikidata.org/wiki/Q125256003
+LIBSRC-LIB43-ENT-OBJ-0059739,descriptive_identity,"""AeroPress""",https://www.wikidata.org/wiki/Q125401269
+LIBSRC-LIB43-ENT-OBJ-0059739,material_identity,"""Copolyester""",https://www.wikidata.org/wiki/Q125401269
+LIBSRC-LIB43-ENT-OBJ-0059739,material_identity,"""polycarbonate""",https://www.wikidata.org/wiki/Q125401269
+LIBSRC-LIB43-ENT-OBJ-0059739,material_identity,"""polypropylene""",https://www.wikidata.org/wiki/Q125401269
+LIBSRC-LIB43-ENT-OBJ-0059740,descriptive_identity,"""AeroPress""",https://www.wikidata.org/wiki/Q125401270
+LIBSRC-LIB43-ENT-OBJ-0059740,material_identity,"""polypropylene""",https://www.wikidata.org/wiki/Q125401270
+LIBSRC-LIB43-ENT-OBJ-0059742,descriptive_identity,"""AeroPress""",https://www.wikidata.org/wiki/Q125401272
+LIBSRC-LIB43-ENT-OBJ-0059742,material_identity,"""Tritan""",https://www.wikidata.org/wiki/Q125401272
+LIBSRC-LIB43-ENT-OBJ-0059855,descriptive_identity,"""vehicle component""",https://www.wikidata.org/wiki/Q1256781
+LIBSRC-LIB43-ENT-OBJ-0059884,descriptive_identity,"""coupling""",https://www.wikidata.org/wiki/Q1258035
+LIBSRC-LIB43-ENT-OBJ-0060616,descriptive_identity,"""electrical connector""",https://www.wikidata.org/wiki/Q126327352
+LIBSRC-LIB43-ENT-OBJ-0060616,descriptive_identity,"""PCI Express slot""",https://www.wikidata.org/wiki/Q126327352
+LIBSRC-LIB43-ENT-OBJ-0060739,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q134691976
+LIBSRC-LIB43-ENT-OBJ-0060740,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126701336
+LIBSRC-LIB43-ENT-OBJ-0060741,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126701534
+LIBSRC-LIB43-ENT-OBJ-0060744,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126701764
+LIBSRC-LIB43-ENT-OBJ-0060745,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126701888
+LIBSRC-LIB43-ENT-OBJ-0060749,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126701995
+LIBSRC-LIB43-ENT-OBJ-0060750,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126702176
+LIBSRC-LIB43-ENT-OBJ-0060751,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126702177
+LIBSRC-LIB43-ENT-OBJ-0060752,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126702178
+LIBSRC-LIB43-ENT-OBJ-0060753,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126702196
+LIBSRC-LIB43-ENT-OBJ-0060765,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126704053
+LIBSRC-LIB43-ENT-OBJ-0060766,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126704090
+LIBSRC-LIB43-ENT-OBJ-0060767,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126704091
+LIBSRC-LIB43-ENT-OBJ-0060772,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126704345
+LIBSRC-LIB43-ENT-OBJ-0060773,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126704346
+LIBSRC-LIB43-ENT-OBJ-0060775,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126704610
+LIBSRC-LIB43-ENT-OBJ-0060776,descriptive_identity,"""water well""",https://www.wikidata.org/wiki/Q49288109
+LIBSRC-LIB43-ENT-OBJ-0060779,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126705157
+LIBSRC-LIB43-ENT-OBJ-0060781,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126704318
+LIBSRC-LIB43-ENT-OBJ-0060783,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q134691976
+LIBSRC-LIB43-ENT-OBJ-0060801,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126706997
+LIBSRC-LIB43-ENT-OBJ-0060802,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126706998
+LIBSRC-LIB43-ENT-OBJ-0060803,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126707138
+LIBSRC-LIB43-ENT-OBJ-0060809,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126701764
+LIBSRC-LIB43-ENT-OBJ-0060811,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126712422
+LIBSRC-LIB43-ENT-OBJ-0060817,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126712652
+LIBSRC-LIB43-ENT-OBJ-0060818,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126712679
+LIBSRC-LIB43-ENT-OBJ-0060820,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126712757
+LIBSRC-LIB43-ENT-OBJ-0060822,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126712941
+LIBSRC-LIB43-ENT-OBJ-0060826,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126714430
+LIBSRC-LIB43-ENT-OBJ-0060831,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126715284
+LIBSRC-LIB43-ENT-OBJ-0060835,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126715759
+LIBSRC-LIB43-ENT-OBJ-0060836,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q134691976
+LIBSRC-LIB43-ENT-OBJ-0060838,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126716114
+LIBSRC-LIB43-ENT-OBJ-0060841,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126716435
+LIBSRC-LIB43-ENT-OBJ-0060842,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126716506
+LIBSRC-LIB43-ENT-OBJ-0060843,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126716510
+LIBSRC-LIB43-ENT-OBJ-0060848,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126716680
+LIBSRC-LIB43-ENT-OBJ-0060850,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126716893
+LIBSRC-LIB43-ENT-OBJ-0060962,descriptive_identity,"""semiconductor detector""",https://www.wikidata.org/wiki/Q127325183
+LIBSRC-LIB43-ENT-OBJ-0060962,descriptive_identity,"""photodetector""",https://www.wikidata.org/wiki/Q127325183
+LIBSRC-LIB43-ENT-OBJ-0060995,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q127444292
+LIBSRC-LIB43-ENT-OBJ-0061085,descriptive_identity,"""scribbler""",https://www.wikidata.org/wiki/Q127784180
+LIBSRC-LIB43-ENT-OBJ-0061085,descriptive_identity,"""textile machine""",https://www.wikidata.org/wiki/Q127784180
+LIBSRC-LIB43-ENT-OBJ-0061085,descriptive_identity,"""machine""",https://www.wikidata.org/wiki/Q127784180
+LIBSRC-LIB43-ENT-OBJ-0061581,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q130343779
+LIBSRC-LIB43-ENT-OBJ-0061615,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q130379248
+LIBSRC-LIB43-ENT-OBJ-0061617,descriptive_identity,"""video game weapon""",https://www.wikidata.org/wiki/Q130380666
+LIBSRC-LIB43-ENT-OBJ-0061617,descriptive_identity,"""fictional pump-action shotgun""",https://www.wikidata.org/wiki/Q130380666
+LIBSRC-LIB43-ENT-OBJ-0061841,mass,2000.0,https://www.wikidata.org/wiki/Q131279193
+LIBSRC-LIB43-ENT-OBJ-0061841,descriptive_identity,"""electric bicycle engine""",https://www.wikidata.org/wiki/Q131279193
+LIBSRC-LIB43-ENT-OBJ-0061841,manufacturer_or_creator,"""Bosch eBike Systems""",https://www.wikidata.org/wiki/Q131279193
+LIBSRC-LIB43-ENT-OBJ-0061842,mass,2700.0,https://www.wikidata.org/wiki/Q131279212
+LIBSRC-LIB43-ENT-OBJ-0061842,descriptive_identity,"""electric bicycle engine""",https://www.wikidata.org/wiki/Q131279212
+LIBSRC-LIB43-ENT-OBJ-0061842,manufacturer_or_creator,"""Shimano""",https://www.wikidata.org/wiki/Q131279212
+LIBSRC-LIB43-ENT-OBJ-0061879,descriptive_identity,"""bowl""",https://www.wikidata.org/wiki/Q131316797
+LIBSRC-LIB43-ENT-OBJ-0061879,descriptive_identity,"""porcelain ware""",https://www.wikidata.org/wiki/Q131316797
+LIBSRC-LIB43-ENT-OBJ-0061879,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/891d6cb54ab3a0d6f82491496e033649""",https://www.wikidata.org/wiki/Q131316797
+LIBSRC-LIB43-ENT-OBJ-0061879,material_identity,"""porcelain""",https://www.wikidata.org/wiki/Q131316797
+LIBSRC-LIB43-ENT-OBJ-0061992,descriptive_identity,"""rocket engine""",https://www.wikidata.org/wiki/Q131395120
+LIBSRC-LIB43-ENT-OBJ-0062027,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q131444390
+LIBSRC-LIB43-ENT-OBJ-0062158,descriptive_identity,"""brand""",https://www.wikidata.org/wiki/Q131629851
+LIBSRC-LIB43-ENT-OBJ-0062158,descriptive_identity,"""parcel locker""",https://www.wikidata.org/wiki/Q131629851
+LIBSRC-LIB43-ENT-OBJ-0062318,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q131932733
+LIBSRC-LIB43-ENT-OBJ-0062363,descriptive_identity,"""winepress""",https://www.wikidata.org/wiki/Q132131729
+LIBSRC-LIB43-ENT-OBJ-0062476,descriptive_identity,"""motorcycle component""",https://www.wikidata.org/wiki/Q1325991
+LIBSRC-LIB43-ENT-OBJ-0062644,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q133809370
+LIBSRC-LIB43-ENT-OBJ-0063257,descriptive_identity,"""lathe""",https://www.wikidata.org/wiki/Q133892331
+LIBSRC-LIB43-ENT-OBJ-0063257,descriptive_identity,"""memorial""",https://www.wikidata.org/wiki/Q133892331
+LIBSRC-LIB43-ENT-OBJ-0063311,descriptive_identity,"""physical technological component""",https://www.wikidata.org/wiki/Q811491
+LIBSRC-LIB43-ENT-OBJ-0063311,descriptive_identity,"""ship element""",https://www.wikidata.org/wiki/Q811491
+LIBSRC-LIB43-ENT-OBJ-0063311,descriptive_identity,"""nautical term""",https://www.wikidata.org/wiki/Q811491
+LIBSRC-LIB43-ENT-OBJ-0063406,descriptive_identity,"""consulting""",https://www.wikidata.org/wiki/Q134561853
+LIBSRC-LIB43-ENT-OBJ-0063406,descriptive_identity,"""company""",https://www.wikidata.org/wiki/Q134561853
+LIBSRC-LIB43-ENT-OBJ-0063406,descriptive_identity,"""compressor""",https://www.wikidata.org/wiki/Q134561853
+LIBSRC-LIB43-ENT-OBJ-0063406,descriptive_identity,"""supply""",https://www.wikidata.org/wiki/Q134561853
+LIBSRC-LIB43-ENT-OBJ-0063834,descriptive_identity,"""stationary plasma thruster""",https://www.wikidata.org/wiki/Q135470168
+LIBSRC-LIB43-ENT-OBJ-0063834,descriptive_identity,"""ion thruster""",https://www.wikidata.org/wiki/Q135470168
+LIBSRC-LIB43-ENT-OBJ-0063834,manufacturer_or_creator,"""Astra""",https://www.wikidata.org/wiki/Q135470168
+LIBSRC-LIB43-ENT-OBJ-0063904,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q136026201
+LIBSRC-LIB43-ENT-OBJ-0063904,manufacturer_or_creator,"""G\u00f6taverken""",https://www.wikidata.org/wiki/Q136026201
+LIBSRC-LIB43-ENT-OBJ-0063921,descriptive_identity,"""open hardware""",https://www.wikidata.org/wiki/Q136088942
+LIBSRC-LIB43-ENT-OBJ-0063931,descriptive_identity,"""open hardware""",https://www.wikidata.org/wiki/Q136094528
+LIBSRC-LIB43-ENT-OBJ-0063980,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q136297714
+LIBSRC-LIB43-ENT-OBJ-0063990,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q136306374
+LIBSRC-LIB43-ENT-OBJ-0063990,manufacturer_or_creator,"""ASEA""",https://www.wikidata.org/wiki/Q136306374
+LIBSRC-LIB43-ENT-OBJ-0064001,descriptive_identity,"""PCI Express slot""",https://www.wikidata.org/wiki/Q136353381
+LIBSRC-LIB43-ENT-OBJ-0064004,descriptive_identity,"""PCI Express version""",https://www.wikidata.org/wiki/Q136353468
+LIBSRC-LIB43-ENT-OBJ-0064006,descriptive_identity,"""PCI Express version""",https://www.wikidata.org/wiki/Q136353523
+LIBSRC-LIB43-ENT-OBJ-0064008,descriptive_identity,"""PCI Express version""",https://www.wikidata.org/wiki/Q136353632
+LIBSRC-LIB43-ENT-OBJ-0064075,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q136497892
+LIBSRC-LIB43-ENT-OBJ-0064075,descriptive_identity,"""spring""",https://www.wikidata.org/wiki/Q136497892
+LIBSRC-LIB43-ENT-OBJ-0064160,descriptive_identity,"""seal impression""",https://www.wikidata.org/wiki/Q136719184
+LIBSRC-LIB43-ENT-OBJ-0064160,descriptive_identity,"""inscription""",https://www.wikidata.org/wiki/Q136719184
+LIBSRC-LIB43-ENT-OBJ-0064160,descriptive_identity,"""jar""",https://www.wikidata.org/wiki/Q136719184
+LIBSRC-LIB43-ENT-OBJ-0064251,descriptive_identity,"""turbojet""",https://www.wikidata.org/wiki/Q136913982
+LIBSRC-LIB43-ENT-OBJ-0064406,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q137375934
+LIBSRC-LIB43-ENT-OBJ-0064406,descriptive_identity,"""V8""",https://www.wikidata.org/wiki/Q137375934
+LIBSRC-LIB43-ENT-OBJ-0064406,manufacturer_or_creator,"""Cl\u00e9ment-Bayard""",https://www.wikidata.org/wiki/Q137375934
+LIBSRC-LIB43-ENT-OBJ-0064770,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q137781227
+LIBSRC-LIB43-ENT-OBJ-0064770,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/4f8cd021ad811c30a894e932b453bb33""",https://www.wikidata.org/wiki/Q137781227
+LIBSRC-LIB43-ENT-OBJ-0064770,material_identity,"""wood""",https://www.wikidata.org/wiki/Q137781227
+LIBSRC-LIB43-ENT-OBJ-0064770,material_identity,"""metal""",https://www.wikidata.org/wiki/Q137781227
+LIBSRC-LIB43-ENT-OBJ-0067732,descriptive_identity,"""hydraulic drive system""",https://www.wikidata.org/wiki/Q140420536
+LIBSRC-LIB43-ENT-OBJ-0067758,descriptive_identity,"""reciprocating engine""",https://www.wikidata.org/wiki/Q1412885
+LIBSRC-LIB43-ENT-OBJ-0067758,descriptive_identity,"""engine family""",https://www.wikidata.org/wiki/Q1412885
+LIBSRC-LIB43-ENT-OBJ-0067758,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q1412885
+LIBSRC-LIB43-ENT-OBJ-0067758,descriptive_identity,"""internal combustion engine""",https://www.wikidata.org/wiki/Q1412885
+LIBSRC-LIB43-ENT-OBJ-0067758,manufacturer_or_creator,"""Rolls-Royce""",https://www.wikidata.org/wiki/Q1412885
+LIBSRC-LIB43-ENT-OBJ-0067804,dimension_length,181000.0,https://www.wikidata.org/wiki/Q1429386
+LIBSRC-LIB43-ENT-OBJ-0067804,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q1429386
+LIBSRC-LIB43-ENT-OBJ-0067880,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q14680783
+LIBSRC-LIB43-ENT-OBJ-0067991,descriptive_identity,"""Hiero 6""",https://www.wikidata.org/wiki/Q14947908
+LIBSRC-LIB43-ENT-OBJ-0067991,descriptive_identity,"""internal combustion engine""",https://www.wikidata.org/wiki/Q14947908
+LIBSRC-LIB43-ENT-OBJ-0067991,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q14947908
+LIBSRC-LIB43-ENT-OBJ-0067991,manufacturer_or_creator,"""Warchalowski, Eissler & Co.""",https://www.wikidata.org/wiki/Q14947908
+LIBSRC-LIB43-ENT-OBJ-0068112,descriptive_identity,"""mobile crane""",https://www.wikidata.org/wiki/Q1540045
+LIBSRC-LIB43-ENT-OBJ-0068112,manufacturer_or_creator,"""Leo Gottwald""",https://www.wikidata.org/wiki/Q1540045
+LIBSRC-LIB43-ENT-OBJ-0068115,descriptive_identity,"""propfan""",https://www.wikidata.org/wiki/Q1540226
+LIBSRC-LIB43-ENT-OBJ-0068115,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q1540226
+LIBSRC-LIB43-ENT-OBJ-0068172,descriptive_identity,"""JT3D""",https://www.wikidata.org/wiki/Q15617995
+LIBSRC-LIB43-ENT-OBJ-0068172,descriptive_identity,"""jet engine""",https://www.wikidata.org/wiki/Q15617995
+LIBSRC-LIB43-ENT-OBJ-0068172,descriptive_identity,"""engine model""",https://www.wikidata.org/wiki/Q15617995
+LIBSRC-LIB43-ENT-OBJ-0068172,manufacturer_or_creator,"""Pratt & Whitney""",https://www.wikidata.org/wiki/Q15617995
+LIBSRC-LIB43-ENT-OBJ-0068239,descriptive_identity,"""turbofan""",https://www.wikidata.org/wiki/Q1591044
+LIBSRC-LIB43-ENT-OBJ-0068239,manufacturer_or_creator,"""NPC of gas turbine construction \u00abSalut\u00bb""",https://www.wikidata.org/wiki/Q1591044
+LIBSRC-LIB43-ENT-OBJ-0068239,manufacturer_or_creator,"""Ivchenko-Progress""",https://www.wikidata.org/wiki/Q1591044
+LIBSRC-LIB43-ENT-OBJ-0068239,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q1591044
+LIBSRC-LIB43-ENT-OBJ-0068255,descriptive_identity,"""engine model""",https://www.wikidata.org/wiki/Q15925416
+LIBSRC-LIB43-ENT-OBJ-0068255,descriptive_identity,"""Volkswagen air-cooled engine""",https://www.wikidata.org/wiki/Q15925416
+LIBSRC-LIB43-ENT-OBJ-0068373,mass,19600.0,https://www.wikidata.org/wiki/Q1617823
+LIBSRC-LIB43-ENT-OBJ-0068373,rated_power,45.7,https://www.wikidata.org/wiki/Q1617823
+LIBSRC-LIB43-ENT-OBJ-0068373,component_relationship,"""charge-coupled device""",https://www.wikidata.org/wiki/Q1617823
+LIBSRC-LIB43-ENT-OBJ-0068373,descriptive_identity,"""multispectral camera""",https://www.wikidata.org/wiki/Q1617823
+LIBSRC-LIB43-ENT-OBJ-0068373,descriptive_identity,"""stereo camera""",https://www.wikidata.org/wiki/Q1617823
+LIBSRC-LIB43-ENT-OBJ-0068373,descriptive_identity,"""space instrument""",https://www.wikidata.org/wiki/Q1617823
+LIBSRC-LIB43-ENT-OBJ-0068373,descriptive_identity,"""still camera""",https://www.wikidata.org/wiki/Q1617823
+LIBSRC-LIB43-ENT-OBJ-0068373,manufacturer_or_creator,"""Astrium""",https://www.wikidata.org/wiki/Q1617823
+LIBSRC-LIB43-ENT-OBJ-0068373,manufacturer_or_creator,"""Jena-Optronik""",https://www.wikidata.org/wiki/Q1617823
+LIBSRC-LIB43-ENT-OBJ-0068373,manufacturer_or_creator,"""German Aerospace Center""",https://www.wikidata.org/wiki/Q1617823
+LIBSRC-LIB43-ENT-OBJ-0068549,descriptive_identity,"""clock generator""",https://www.wikidata.org/wiki/Q1665584
+LIBSRC-LIB43-ENT-OBJ-0068549,descriptive_identity,"""chipset""",https://www.wikidata.org/wiki/Q1665584
+LIBSRC-LIB43-ENT-OBJ-0068549,manufacturer_or_creator,"""Intel""",https://www.wikidata.org/wiki/Q1665584
+LIBSRC-LIB43-ENT-OBJ-0068655,descriptive_identity,"""historic site""",https://www.wikidata.org/wiki/Q16899205
+LIBSRC-LIB43-ENT-OBJ-0068655,descriptive_identity,"""wharf""",https://www.wikidata.org/wiki/Q16899205
+LIBSRC-LIB43-ENT-OBJ-0068655,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q16899205
+LIBSRC-LIB43-ENT-OBJ-0068748,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q135032636
+LIBSRC-LIB43-ENT-OBJ-0068799,descriptive_identity,"""aircraft component""",https://www.wikidata.org/wiki/Q17039323
+LIBSRC-LIB43-ENT-OBJ-0068799,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q17039323
+LIBSRC-LIB43-ENT-OBJ-0068850,descriptive_identity,"""gantry crane""",https://www.wikidata.org/wiki/Q17124148
+LIBSRC-LIB43-ENT-OBJ-0068943,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q17427859
+LIBSRC-LIB43-ENT-OBJ-0068949,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q17439665
+LIBSRC-LIB43-ENT-OBJ-0068961,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q17452749
+LIBSRC-LIB43-ENT-OBJ-0068969,descriptive_identity,"""pump building""",https://www.wikidata.org/wiki/Q17454000
+LIBSRC-LIB43-ENT-OBJ-0068969,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q17454000
+LIBSRC-LIB43-ENT-OBJ-0068982,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q17460501
+LIBSRC-LIB43-ENT-OBJ-0069010,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q17530430
+LIBSRC-LIB43-ENT-OBJ-0069015,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q17534676
+LIBSRC-LIB43-ENT-OBJ-0069015,descriptive_identity,"""destroyed building or structure""",https://www.wikidata.org/wiki/Q17534676
+LIBSRC-LIB43-ENT-OBJ-0069043,descriptive_identity,"""buttercross""",https://www.wikidata.org/wiki/Q17550130
+LIBSRC-LIB43-ENT-OBJ-0069043,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q17550130
+LIBSRC-LIB43-ENT-OBJ-0069044,descriptive_identity,"""steam crane""",https://www.wikidata.org/wiki/Q17553616
+LIBSRC-LIB43-ENT-OBJ-0069047,descriptive_identity,"""windpump""",https://www.wikidata.org/wiki/Q17556208
+LIBSRC-LIB43-ENT-OBJ-0069106,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q17578049
+LIBSRC-LIB43-ENT-OBJ-0069110,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q17589771
+LIBSRC-LIB43-ENT-OBJ-0069119,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q17597076
+LIBSRC-LIB43-ENT-OBJ-0069152,descriptive_identity,"""milestone""",https://www.wikidata.org/wiki/Q17643858
+LIBSRC-LIB43-ENT-OBJ-0069152,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q17643858
+LIBSRC-LIB43-ENT-OBJ-0069152,material_identity,"""ashlar""",https://www.wikidata.org/wiki/Q17643858
+LIBSRC-LIB43-ENT-OBJ-0069153,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q17644317
+LIBSRC-LIB43-ENT-OBJ-0069153,descriptive_identity,"""built structure""",https://www.wikidata.org/wiki/Q17644317
+LIBSRC-LIB43-ENT-OBJ-0069242,descriptive_identity,"""cheese press""",https://www.wikidata.org/wiki/Q17775719
+LIBSRC-LIB43-ENT-OBJ-0069242,material_identity,"""granite""",https://www.wikidata.org/wiki/Q17775719
+LIBSRC-LIB43-ENT-OBJ-0069281,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q17792538
+LIBSRC-LIB43-ENT-OBJ-0069361,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q17829405
+LIBSRC-LIB43-ENT-OBJ-0069587,mass,1750000000.0,https://www.wikidata.org/wiki/Q18289303
+LIBSRC-LIB43-ENT-OBJ-0069587,descriptive_identity,"""architectural ensemble""",https://www.wikidata.org/wiki/Q18289303
+LIBSRC-LIB43-ENT-OBJ-0069587,descriptive_identity,"""gantry crane""",https://www.wikidata.org/wiki/Q18289303
+LIBSRC-LIB43-ENT-OBJ-0069587,descriptive_identity,"""architectural landmark""",https://www.wikidata.org/wiki/Q18289303
+LIBSRC-LIB43-ENT-OBJ-0069587,component_relationship,"""beam""",https://www.wikidata.org/wiki/Q18289303
+LIBSRC-LIB43-ENT-OBJ-0069587,component_relationship,"""observation deck""",https://www.wikidata.org/wiki/Q18289303
+LIBSRC-LIB43-ENT-OBJ-0069587,component_relationship,"""stairs""",https://www.wikidata.org/wiki/Q18289303
+LIBSRC-LIB43-ENT-OBJ-0069587,component_relationship,"""spreader""",https://www.wikidata.org/wiki/Q18289303
+LIBSRC-LIB43-ENT-OBJ-0069587,component_relationship,"""rail""",https://www.wikidata.org/wiki/Q18289303
+LIBSRC-LIB43-ENT-OBJ-0069587,material_identity,"""steel""",https://www.wikidata.org/wiki/Q18289303
+LIBSRC-LIB43-ENT-OBJ-0069640,descriptive_identity,"""multi-lane serial bus""",https://www.wikidata.org/wiki/Q184292
+LIBSRC-LIB43-ENT-OBJ-0069640,descriptive_identity,"""interface standard""",https://www.wikidata.org/wiki/Q184292
+LIBSRC-LIB43-ENT-OBJ-0069640,descriptive_identity,"""communication protocol""",https://www.wikidata.org/wiki/Q184292
+LIBSRC-LIB43-ENT-OBJ-0069640,descriptive_identity,"""audio/video connector""",https://www.wikidata.org/wiki/Q184292
+LIBSRC-LIB43-ENT-OBJ-0069640,descriptive_identity,"""proprietary protocol""",https://www.wikidata.org/wiki/Q184292
+LIBSRC-LIB43-ENT-OBJ-0069697,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q1869345
+LIBSRC-LIB43-ENT-OBJ-0069750,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q135049712
+LIBSRC-LIB43-ENT-OBJ-0069853,descriptive_identity,"""exhaust system""",https://www.wikidata.org/wiki/Q1971413
+LIBSRC-LIB43-ENT-OBJ-0069853,descriptive_identity,"""motorcycle component""",https://www.wikidata.org/wiki/Q1971413
+LIBSRC-LIB43-ENT-OBJ-0069958,descriptive_identity,"""turbofan""",https://www.wikidata.org/wiki/Q1999175
+LIBSRC-LIB43-ENT-OBJ-0069958,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q1999175
+LIBSRC-LIB43-ENT-OBJ-0070241,dimension_length,197950.0,https://www.wikidata.org/wiki/Q2064405
+LIBSRC-LIB43-ENT-OBJ-0070241,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q2064405
+LIBSRC-LIB43-ENT-OBJ-0070241,descriptive_identity,"""pipe-laying ship""",https://www.wikidata.org/wiki/Q2064405
+LIBSRC-LIB43-ENT-OBJ-0070241,manufacturer_or_creator,"""Fincantieri""",https://www.wikidata.org/wiki/Q2064405
+LIBSRC-LIB43-ENT-OBJ-0070302,descriptive_identity,"""mobile crane""",https://www.wikidata.org/wiki/Q20827302
+LIBSRC-LIB43-ENT-OBJ-0070302,manufacturer_or_creator,"""Landmaschinenbau D\u00f6beln""",https://www.wikidata.org/wiki/Q20827302
+LIBSRC-LIB43-ENT-OBJ-0070342,dimension_length,65.0,https://www.wikidata.org/wiki/Q21027959
+LIBSRC-LIB43-ENT-OBJ-0070342,mass,430.0,https://www.wikidata.org/wiki/Q21027959
+LIBSRC-LIB43-ENT-OBJ-0070342,rated_power,5.0,https://www.wikidata.org/wiki/Q21027959
+LIBSRC-LIB43-ENT-OBJ-0070342,rated_power,2.8,https://www.wikidata.org/wiki/Q21027959
+LIBSRC-LIB43-ENT-OBJ-0070342,descriptive_identity,"""CMOS camera""",https://www.wikidata.org/wiki/Q21027959
+LIBSRC-LIB43-ENT-OBJ-0070342,descriptive_identity,"""space instrument""",https://www.wikidata.org/wiki/Q21027959
+LIBSRC-LIB43-ENT-OBJ-0070342,manufacturer_or_creator,"""OIP Space Instruments""",https://www.wikidata.org/wiki/Q21027959
+LIBSRC-LIB43-ENT-OBJ-0070435,descriptive_identity,"""machine element""",https://www.wikidata.org/wiki/Q2144090
+LIBSRC-LIB43-ENT-OBJ-0070545,descriptive_identity,"""pin grid array""",https://www.wikidata.org/wiki/Q21855851
+LIBSRC-LIB43-ENT-OBJ-0070545,descriptive_identity,"""CPU socket""",https://www.wikidata.org/wiki/Q21855851
+LIBSRC-LIB43-ENT-OBJ-0070786,dimension_length,360.0,https://www.wikidata.org/wiki/Q22116952
+LIBSRC-LIB43-ENT-OBJ-0070786,mass,20000.0,https://www.wikidata.org/wiki/Q22116952
+LIBSRC-LIB43-ENT-OBJ-0070786,descriptive_identity,"""technology demonstration""",https://www.wikidata.org/wiki/Q22116952
+LIBSRC-LIB43-ENT-OBJ-0070786,descriptive_identity,"""espresso machine""",https://www.wikidata.org/wiki/Q22116952
+LIBSRC-LIB43-ENT-OBJ-0070786,descriptive_identity,"""International Space Station experiment""",https://www.wikidata.org/wiki/Q22116952
+LIBSRC-LIB43-ENT-OBJ-0070786,descriptive_identity,"""International Space Station facility""",https://www.wikidata.org/wiki/Q22116952
+LIBSRC-LIB43-ENT-OBJ-0070786,manufacturer_or_creator,"""Argotec""",https://www.wikidata.org/wiki/Q22116952
+LIBSRC-LIB43-ENT-OBJ-0071323,dimension_length,141410.0,https://www.wikidata.org/wiki/Q2436804
+LIBSRC-LIB43-ENT-OBJ-0071323,dimension_length,121750.0,https://www.wikidata.org/wiki/Q2436804
+LIBSRC-LIB43-ENT-OBJ-0071323,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q2436804
+LIBSRC-LIB43-ENT-OBJ-0071323,descriptive_identity,"""catamaran""",https://www.wikidata.org/wiki/Q2436804
+LIBSRC-LIB43-ENT-OBJ-0071323,manufacturer_or_creator,"""W\u00e4rtsil\u00e4""",https://www.wikidata.org/wiki/Q2436804
+LIBSRC-LIB43-ENT-OBJ-0071342,descriptive_identity,"""cavity""",https://www.wikidata.org/wiki/Q245656
+LIBSRC-LIB43-ENT-OBJ-0071342,descriptive_identity,"""machine element""",https://www.wikidata.org/wiki/Q245656
+LIBSRC-LIB43-ENT-OBJ-0071429,descriptive_identity,"""tower crane""",https://www.wikidata.org/wiki/Q24737035
+LIBSRC-LIB43-ENT-OBJ-0071429,manufacturer_or_creator,"""Kirow Ardelt GmbH""",https://www.wikidata.org/wiki/Q24737035
+LIBSRC-LIB43-ENT-OBJ-0071661,descriptive_identity,"""vehicle component""",https://www.wikidata.org/wiki/Q25384035
+LIBSRC-LIB43-ENT-OBJ-0071662,descriptive_identity,"""turbofan""",https://www.wikidata.org/wiki/Q25385061
+LIBSRC-LIB43-ENT-OBJ-0071662,descriptive_identity,"""jet engine""",https://www.wikidata.org/wiki/Q25385061
+LIBSRC-LIB43-ENT-OBJ-0071663,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q136307392
+LIBSRC-LIB43-ENT-OBJ-0071738,descriptive_identity,"""turbofan""",https://www.wikidata.org/wiki/Q2576221
+LIBSRC-LIB43-ENT-OBJ-0071738,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q2576221
+LIBSRC-LIB43-ENT-OBJ-0072048,descriptive_identity,"""turbofan""",https://www.wikidata.org/wiki/Q2635817
+LIBSRC-LIB43-ENT-OBJ-0072048,manufacturer_or_creator,"""Kuznetsov Design Bureau""",https://www.wikidata.org/wiki/Q2635817
+LIBSRC-LIB43-ENT-OBJ-0072048,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q2635817
+LIBSRC-LIB43-ENT-OBJ-0072133,descriptive_identity,"""hand pump""",https://www.wikidata.org/wiki/Q26395349
+LIBSRC-LIB43-ENT-OBJ-0072137,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26397315
+LIBSRC-LIB43-ENT-OBJ-0072138,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26397316
+LIBSRC-LIB43-ENT-OBJ-0072194,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26403464
+LIBSRC-LIB43-ENT-OBJ-0072238,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26420086
+LIBSRC-LIB43-ENT-OBJ-0072240,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q26420520
+LIBSRC-LIB43-ENT-OBJ-0072241,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26420545
+LIBSRC-LIB43-ENT-OBJ-0072242,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q26420585
+LIBSRC-LIB43-ENT-OBJ-0072244,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q26420188
+LIBSRC-LIB43-ENT-OBJ-0072249,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26422311
+LIBSRC-LIB43-ENT-OBJ-0072253,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q120916775
+LIBSRC-LIB43-ENT-OBJ-0072266,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26425728
+LIBSRC-LIB43-ENT-OBJ-0072281,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26429230
+LIBSRC-LIB43-ENT-OBJ-0072314,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26432957
+LIBSRC-LIB43-ENT-OBJ-0072318,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26434083
+LIBSRC-LIB43-ENT-OBJ-0072322,descriptive_identity,"""cowshed""",https://www.wikidata.org/wiki/Q26434684
+LIBSRC-LIB43-ENT-OBJ-0072323,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26434765
+LIBSRC-LIB43-ENT-OBJ-0072334,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26435414
+LIBSRC-LIB43-ENT-OBJ-0072335,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26435465
+LIBSRC-LIB43-ENT-OBJ-0072337,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26435532
+LIBSRC-LIB43-ENT-OBJ-0072365,descriptive_identity,"""water trough""",https://www.wikidata.org/wiki/Q26439645
+LIBSRC-LIB43-ENT-OBJ-0072366,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26439721
+LIBSRC-LIB43-ENT-OBJ-0072369,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26439904
+LIBSRC-LIB43-ENT-OBJ-0072370,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26439975
+LIBSRC-LIB43-ENT-OBJ-0072377,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26440227
+LIBSRC-LIB43-ENT-OBJ-0072379,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26440331
+LIBSRC-LIB43-ENT-OBJ-0072381,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26440359
+LIBSRC-LIB43-ENT-OBJ-0072382,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26440462
+LIBSRC-LIB43-ENT-OBJ-0072385,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26440604
+LIBSRC-LIB43-ENT-OBJ-0072405,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26442554
+LIBSRC-LIB43-ENT-OBJ-0072414,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26443300
+LIBSRC-LIB43-ENT-OBJ-0072419,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q120916775
+LIBSRC-LIB43-ENT-OBJ-0072433,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q120916775
+LIBSRC-LIB43-ENT-OBJ-0072435,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26446243
+LIBSRC-LIB43-ENT-OBJ-0072443,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26447887
+LIBSRC-LIB43-ENT-OBJ-0072447,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26448859
+LIBSRC-LIB43-ENT-OBJ-0072490,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26454645
+LIBSRC-LIB43-ENT-OBJ-0072497,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26456003
+LIBSRC-LIB43-ENT-OBJ-0072504,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26456692
+LIBSRC-LIB43-ENT-OBJ-0072505,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26456794
+LIBSRC-LIB43-ENT-OBJ-0072506,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26456796
+LIBSRC-LIB43-ENT-OBJ-0072507,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26457107
+LIBSRC-LIB43-ENT-OBJ-0072514,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26457635
+LIBSRC-LIB43-ENT-OBJ-0072520,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26458467
+LIBSRC-LIB43-ENT-OBJ-0072525,descriptive_identity,"""war memorial""",https://www.wikidata.org/wiki/Q26459386
+LIBSRC-LIB43-ENT-OBJ-0072525,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26459386
+LIBSRC-LIB43-ENT-OBJ-0072527,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26459616
+LIBSRC-LIB43-ENT-OBJ-0072529,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q120916775
+LIBSRC-LIB43-ENT-OBJ-0072533,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q126702260
+LIBSRC-LIB43-ENT-OBJ-0072546,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q120916775
+LIBSRC-LIB43-ENT-OBJ-0072554,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26462602
+LIBSRC-LIB43-ENT-OBJ-0072555,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26462754
+LIBSRC-LIB43-ENT-OBJ-0072569,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26468429
+LIBSRC-LIB43-ENT-OBJ-0072570,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26468752
+LIBSRC-LIB43-ENT-OBJ-0072576,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26470106
+LIBSRC-LIB43-ENT-OBJ-0072590,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26471969
+LIBSRC-LIB43-ENT-OBJ-0072595,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26472335
+LIBSRC-LIB43-ENT-OBJ-0072598,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26472392
+LIBSRC-LIB43-ENT-OBJ-0072600,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26472564
+LIBSRC-LIB43-ENT-OBJ-0072609,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26595450
+LIBSRC-LIB43-ENT-OBJ-0072611,descriptive_identity,"""boiler house""",https://www.wikidata.org/wiki/Q26473578
+LIBSRC-LIB43-ENT-OBJ-0072611,descriptive_identity,"""pigsty""",https://www.wikidata.org/wiki/Q26473578
+LIBSRC-LIB43-ENT-OBJ-0072611,descriptive_identity,"""chicken coop""",https://www.wikidata.org/wiki/Q26473578
+LIBSRC-LIB43-ENT-OBJ-0072627,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26477364
+LIBSRC-LIB43-ENT-OBJ-0072637,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26480337
+LIBSRC-LIB43-ENT-OBJ-0072645,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26482352
+LIBSRC-LIB43-ENT-OBJ-0072647,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q26483125
+LIBSRC-LIB43-ENT-OBJ-0072647,descriptive_identity,"""milestone""",https://www.wikidata.org/wiki/Q26483125
+LIBSRC-LIB43-ENT-OBJ-0072648,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26483140
+LIBSRC-LIB43-ENT-OBJ-0072651,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26483881
+LIBSRC-LIB43-ENT-OBJ-0072658,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26485299
+LIBSRC-LIB43-ENT-OBJ-0072659,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26485330
+LIBSRC-LIB43-ENT-OBJ-0072660,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26485383
+LIBSRC-LIB43-ENT-OBJ-0072677,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26489229
+LIBSRC-LIB43-ENT-OBJ-0072687,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26491662
+LIBSRC-LIB43-ENT-OBJ-0072689,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26492185
+LIBSRC-LIB43-ENT-OBJ-0072728,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26503091
+LIBSRC-LIB43-ENT-OBJ-0072735,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q26504596
+LIBSRC-LIB43-ENT-OBJ-0072741,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26506357
+LIBSRC-LIB43-ENT-OBJ-0072743,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26506486
+LIBSRC-LIB43-ENT-OBJ-0072762,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q120916775
+LIBSRC-LIB43-ENT-OBJ-0072771,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26512267
+LIBSRC-LIB43-ENT-OBJ-0072780,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26514943
+LIBSRC-LIB43-ENT-OBJ-0072782,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26515297
+LIBSRC-LIB43-ENT-OBJ-0072787,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26604727
+LIBSRC-LIB43-ENT-OBJ-0072791,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26517692
+LIBSRC-LIB43-ENT-OBJ-0072806,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26519152
+LIBSRC-LIB43-ENT-OBJ-0072830,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26523454
+LIBSRC-LIB43-ENT-OBJ-0072859,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26529402
+LIBSRC-LIB43-ENT-OBJ-0072870,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26531546
+LIBSRC-LIB43-ENT-OBJ-0072872,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26531924
+LIBSRC-LIB43-ENT-OBJ-0072874,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26531927
+LIBSRC-LIB43-ENT-OBJ-0072877,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q120916775
+LIBSRC-LIB43-ENT-OBJ-0072882,descriptive_identity,"""manger""",https://www.wikidata.org/wiki/Q26533421
+LIBSRC-LIB43-ENT-OBJ-0072903,descriptive_identity,"""steam crane""",https://www.wikidata.org/wiki/Q26535641
+LIBSRC-LIB43-ENT-OBJ-0072915,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26581206
+LIBSRC-LIB43-ENT-OBJ-0072919,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26540163
+LIBSRC-LIB43-ENT-OBJ-0072936,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q120916775
+LIBSRC-LIB43-ENT-OBJ-0072948,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26546097
+LIBSRC-LIB43-ENT-OBJ-0072949,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26546164
+LIBSRC-LIB43-ENT-OBJ-0072956,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q26547274
+LIBSRC-LIB43-ENT-OBJ-0072957,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q26547275
+LIBSRC-LIB43-ENT-OBJ-0072960,descriptive_identity,"""built structure""",https://www.wikidata.org/wiki/Q26548229
+LIBSRC-LIB43-ENT-OBJ-0072960,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26548229
+LIBSRC-LIB43-ENT-OBJ-0072960,descriptive_identity,"""former building or structure""",https://www.wikidata.org/wiki/Q26548229
+LIBSRC-LIB43-ENT-OBJ-0072999,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26554984
+LIBSRC-LIB43-ENT-OBJ-0073002,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26555589
+LIBSRC-LIB43-ENT-OBJ-0073015,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26557991
+LIBSRC-LIB43-ENT-OBJ-0073018,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26558321
+LIBSRC-LIB43-ENT-OBJ-0073029,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26563671
+LIBSRC-LIB43-ENT-OBJ-0073031,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26564722
+LIBSRC-LIB43-ENT-OBJ-0073033,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26564824
+LIBSRC-LIB43-ENT-OBJ-0073064,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26571265
+LIBSRC-LIB43-ENT-OBJ-0073071,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26572065
+LIBSRC-LIB43-ENT-OBJ-0073091,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26578408
+LIBSRC-LIB43-ENT-OBJ-0073097,descriptive_identity,"""cowshed""",https://www.wikidata.org/wiki/Q26580127
+LIBSRC-LIB43-ENT-OBJ-0073114,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26583538
+LIBSRC-LIB43-ENT-OBJ-0073129,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26586519
+LIBSRC-LIB43-ENT-OBJ-0073166,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26591898
+LIBSRC-LIB43-ENT-OBJ-0073173,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26593985
+LIBSRC-LIB43-ENT-OBJ-0073186,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26595214
+LIBSRC-LIB43-ENT-OBJ-0073192,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26595510
+LIBSRC-LIB43-ENT-OBJ-0073235,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26601619
+LIBSRC-LIB43-ENT-OBJ-0073262,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26604501
+LIBSRC-LIB43-ENT-OBJ-0073273,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q120916775
+LIBSRC-LIB43-ENT-OBJ-0073277,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26604727
+LIBSRC-LIB43-ENT-OBJ-0073287,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26610406
+LIBSRC-LIB43-ENT-OBJ-0073289,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26610644
+LIBSRC-LIB43-ENT-OBJ-0073332,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26614155
+LIBSRC-LIB43-ENT-OBJ-0073340,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q26615329
+LIBSRC-LIB43-ENT-OBJ-0073346,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26615921
+LIBSRC-LIB43-ENT-OBJ-0073348,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26616076
+LIBSRC-LIB43-ENT-OBJ-0073349,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26616082
+LIBSRC-LIB43-ENT-OBJ-0073350,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26616084
+LIBSRC-LIB43-ENT-OBJ-0073375,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26621451
+LIBSRC-LIB43-ENT-OBJ-0073378,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26621688
+LIBSRC-LIB43-ENT-OBJ-0073379,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26621784
+LIBSRC-LIB43-ENT-OBJ-0073382,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26621992
+LIBSRC-LIB43-ENT-OBJ-0073386,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26622452
+LIBSRC-LIB43-ENT-OBJ-0073387,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26622488
+LIBSRC-LIB43-ENT-OBJ-0073395,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26624982
+LIBSRC-LIB43-ENT-OBJ-0073416,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26629047
+LIBSRC-LIB43-ENT-OBJ-0073421,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26630546
+LIBSRC-LIB43-ENT-OBJ-0073423,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26630950
+LIBSRC-LIB43-ENT-OBJ-0073424,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26631278
+LIBSRC-LIB43-ENT-OBJ-0073445,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26633087
+LIBSRC-LIB43-ENT-OBJ-0073449,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26634994
+LIBSRC-LIB43-ENT-OBJ-0073471,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26591898
+LIBSRC-LIB43-ENT-OBJ-0073480,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26544896
+LIBSRC-LIB43-ENT-OBJ-0073481,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26642168
+LIBSRC-LIB43-ENT-OBJ-0073482,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26642916
+LIBSRC-LIB43-ENT-OBJ-0073484,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26643170
+LIBSRC-LIB43-ENT-OBJ-0073485,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q120916775
+LIBSRC-LIB43-ENT-OBJ-0073486,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26643432
+LIBSRC-LIB43-ENT-OBJ-0073502,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26648105
+LIBSRC-LIB43-ENT-OBJ-0073504,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26648277
+LIBSRC-LIB43-ENT-OBJ-0073505,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26648311
+LIBSRC-LIB43-ENT-OBJ-0073523,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26650921
+LIBSRC-LIB43-ENT-OBJ-0073563,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26660046
+LIBSRC-LIB43-ENT-OBJ-0073568,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26661957
+LIBSRC-LIB43-ENT-OBJ-0073585,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26664905
+LIBSRC-LIB43-ENT-OBJ-0073586,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26665012
+LIBSRC-LIB43-ENT-OBJ-0073613,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q26671917
+LIBSRC-LIB43-ENT-OBJ-0073678,descriptive_identity,"""belt""",https://www.wikidata.org/wiki/Q26961707
+LIBSRC-LIB43-ENT-OBJ-0073696,descriptive_identity,"""water well pump""",https://www.wikidata.org/wiki/Q27082033
+LIBSRC-LIB43-ENT-OBJ-0073696,descriptive_identity,"""bollard""",https://www.wikidata.org/wiki/Q27082033
+LIBSRC-LIB43-ENT-OBJ-0073717,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q27084371
+LIBSRC-LIB43-ENT-OBJ-0073856,descriptive_identity,"""bus chassis model""",https://www.wikidata.org/wiki/Q27950745
+LIBSRC-LIB43-ENT-OBJ-0073856,manufacturer_or_creator,"""Volvo Buses""",https://www.wikidata.org/wiki/Q27950745
+LIBSRC-LIB43-ENT-OBJ-0073856,descriptive_identity,"""front-engine, rear-wheel-drive layout""",https://www.wikidata.org/wiki/Q27950745
+LIBSRC-LIB43-ENT-OBJ-0073889,descriptive_identity,"""software""",https://www.wikidata.org/wiki/Q11916456
+LIBSRC-LIB43-ENT-OBJ-0074063,descriptive_identity,"""reservoir""",https://www.wikidata.org/wiki/Q2870630
+LIBSRC-LIB43-ENT-OBJ-0074097,descriptive_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Q2044386
+LIBSRC-LIB43-ENT-OBJ-0076623,descriptive_identity,"""inkwell""",https://www.wikidata.org/wiki/Q29234506
+LIBSRC-LIB43-ENT-OBJ-0076623,material_identity,"""porcelain""",https://www.wikidata.org/wiki/Q29234506
+LIBSRC-LIB43-ENT-OBJ-0076623,material_identity,"""copper""",https://www.wikidata.org/wiki/Q29234506
+LIBSRC-LIB43-ENT-OBJ-0076623,material_identity,"""ceramic""",https://www.wikidata.org/wiki/Q29234506
+LIBSRC-LIB43-ENT-OBJ-0078728,mass,8200.0,https://www.wikidata.org/wiki/Q29348533
+LIBSRC-LIB43-ENT-OBJ-0078728,rated_power,13.5,https://www.wikidata.org/wiki/Q29348533
+LIBSRC-LIB43-ENT-OBJ-0078728,descriptive_identity,"""space instrument""",https://www.wikidata.org/wiki/Q29348533
+LIBSRC-LIB43-ENT-OBJ-0078728,descriptive_identity,"""particle detector""",https://www.wikidata.org/wiki/Q29348533
+LIBSRC-LIB43-ENT-OBJ-0078728,manufacturer_or_creator,"""Research Institute in Astrophysics and Planetology""",https://www.wikidata.org/wiki/Q29348533
+LIBSRC-LIB43-ENT-OBJ-0078728,manufacturer_or_creator,"""Swedish Institute of Space Physics""",https://www.wikidata.org/wiki/Q29348533
+LIBSRC-LIB43-ENT-OBJ-0078747,descriptive_identity,"""seal""",https://www.wikidata.org/wiki/Q29382425
+LIBSRC-LIB43-ENT-OBJ-0078747,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/3f86ef3ceb51566e183e2026e7949841""",https://www.wikidata.org/wiki/Q29382425
+LIBSRC-LIB43-ENT-OBJ-0078747,material_identity,"""clay""",https://www.wikidata.org/wiki/Q29382425
+LIBSRC-LIB43-ENT-OBJ-0079116,descriptive_identity,"""cowshed""",https://www.wikidata.org/wiki/Q29493549
+LIBSRC-LIB43-ENT-OBJ-0079128,descriptive_identity,"""cowshed""",https://www.wikidata.org/wiki/Q29493951
+LIBSRC-LIB43-ENT-OBJ-0079257,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q29501056
+LIBSRC-LIB43-ENT-OBJ-0079257,descriptive_identity,"""wall""",https://www.wikidata.org/wiki/Q29501056
+LIBSRC-LIB43-ENT-OBJ-0079383,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q29506582
+LIBSRC-LIB43-ENT-OBJ-0079394,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q29507967
+LIBSRC-LIB43-ENT-OBJ-0079428,descriptive_identity,"""building""",https://www.wikidata.org/wiki/Q29575963
+LIBSRC-LIB43-ENT-OBJ-0079428,descriptive_identity,"""built structure""",https://www.wikidata.org/wiki/Q29575963
+LIBSRC-LIB43-ENT-OBJ-0079428,descriptive_identity,"""winepress""",https://www.wikidata.org/wiki/Q29575963
+LIBSRC-LIB43-ENT-OBJ-0079450,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q29651636
+LIBSRC-LIB43-ENT-OBJ-0079450,descriptive_identity,"""built structure""",https://www.wikidata.org/wiki/Q29651636
+LIBSRC-LIB43-ENT-OBJ-0079451,descriptive_identity,"""software""",https://www.wikidata.org/wiki/Q19599499
+LIBSRC-LIB43-ENT-OBJ-0079452,descriptive_identity,"""automobile manufacturer""",https://www.wikidata.org/wiki/Q1609604
+LIBSRC-LIB43-ENT-OBJ-0079453,descriptive_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Q223667
+LIBSRC-LIB43-ENT-OBJ-0079481,dimension_length,121940.0,https://www.wikidata.org/wiki/Q29855611
+LIBSRC-LIB43-ENT-OBJ-0079481,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q29855611
+LIBSRC-LIB43-ENT-OBJ-0079481,descriptive_identity,"""pipe-laying ship""",https://www.wikidata.org/wiki/Q29855611
+LIBSRC-LIB43-ENT-OBJ-0079481,manufacturer_or_creator,"""Blohm+Voss""",https://www.wikidata.org/wiki/Q29855611
+LIBSRC-LIB43-ENT-OBJ-0079486,descriptive_identity,"""shipwreck""",https://www.wikidata.org/wiki/Q103914468
+LIBSRC-LIB43-ENT-OBJ-0079486,descriptive_identity,"""steamship""",https://www.wikidata.org/wiki/Q103914468
+LIBSRC-LIB43-ENT-OBJ-0079500,dimension_length,91440.0,https://www.wikidata.org/wiki/Q29919460
+LIBSRC-LIB43-ENT-OBJ-0079500,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q29919460
+LIBSRC-LIB43-ENT-OBJ-0079655,descriptive_identity,"""harbour crane""",https://www.wikidata.org/wiki/Q30306640
+LIBSRC-LIB43-ENT-OBJ-0079655,descriptive_identity,"""listed building in Sweden""",https://www.wikidata.org/wiki/Q30306640
+LIBSRC-LIB43-ENT-OBJ-0079682,descriptive_identity,"""inro""",https://www.wikidata.org/wiki/Q30504488
+LIBSRC-LIB43-ENT-OBJ-0079682,manufacturer_or_creator,"""J\u014dka""",https://www.wikidata.org/wiki/Q30504488
+LIBSRC-LIB43-ENT-OBJ-0079693,descriptive_identity,"""shotgun""",https://www.wikidata.org/wiki/Q30591949
+LIBSRC-LIB43-ENT-OBJ-0080073,descriptive_identity,"""digital audio workstation""",https://www.wikidata.org/wiki/Q3199759
+LIBSRC-LIB43-ENT-OBJ-0080649,descriptive_identity,"""winepress""",https://www.wikidata.org/wiki/Q34338338
+LIBSRC-LIB43-ENT-OBJ-0080650,descriptive_identity,"""winepress""",https://www.wikidata.org/wiki/Q34338434
+LIBSRC-LIB43-ENT-OBJ-0082500,dimension_length,1645.0,https://www.wikidata.org/wiki/Q3744414
+LIBSRC-LIB43-ENT-OBJ-0082500,mass,317500.0,https://www.wikidata.org/wiki/Q3744414
+LIBSRC-LIB43-ENT-OBJ-0082500,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q3744414
+LIBSRC-LIB43-ENT-OBJ-0082500,manufacturer_or_creator,"""Fiat Aviazione""",https://www.wikidata.org/wiki/Q3744414
+LIBSRC-LIB43-ENT-OBJ-0082676,descriptive_identity,"""file system""",https://www.wikidata.org/wiki/Q389314
+LIBSRC-LIB43-ENT-OBJ-0082676,descriptive_identity,"""free software""",https://www.wikidata.org/wiki/Q389314
+LIBSRC-LIB43-ENT-OBJ-0082676,descriptive_identity,"""archive file format""",https://www.wikidata.org/wiki/Q389314
+LIBSRC-LIB43-ENT-OBJ-0082785,descriptive_identity,"""computer hardware""",https://www.wikidata.org/wiki/Q4033611
+LIBSRC-LIB43-ENT-OBJ-0082785,manufacturer_or_creator,"""Apple Inc.""",https://www.wikidata.org/wiki/Q4033611
+LIBSRC-LIB43-ENT-OBJ-0082837,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q40693075
+LIBSRC-LIB43-ENT-OBJ-0082844,descriptive_identity,"""motorcycle component""",https://www.wikidata.org/wiki/Q408118
+LIBSRC-LIB43-ENT-OBJ-0082869,descriptive_identity,"""front-engine design""",https://www.wikidata.org/wiki/Q4115030
+LIBSRC-LIB43-ENT-OBJ-0082869,descriptive_identity,"""rear-wheel drive""",https://www.wikidata.org/wiki/Q4115030
+LIBSRC-LIB43-ENT-OBJ-0082869,descriptive_identity,"""line shaft""",https://www.wikidata.org/wiki/Q4115030
+LIBSRC-LIB43-ENT-OBJ-0082869,descriptive_identity,"""powertrain layout""",https://www.wikidata.org/wiki/Q4115030
+LIBSRC-LIB43-ENT-OBJ-0083094,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q41621035
+LIBSRC-LIB43-ENT-OBJ-0083143,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q4206283
+LIBSRC-LIB43-ENT-OBJ-0083189,descriptive_identity,"""pumpjack""",https://www.wikidata.org/wiki/Q42331777
+LIBSRC-LIB43-ENT-OBJ-0083360,descriptive_identity,"""plate""",https://www.wikidata.org/wiki/Q43229589
+LIBSRC-LIB43-ENT-OBJ-0083360,descriptive_identity,"""work of art""",https://www.wikidata.org/wiki/Q43229589
+LIBSRC-LIB43-ENT-OBJ-0083360,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/b5dc9d68d70eda186c16d8b920a52752""",https://www.wikidata.org/wiki/Q43229589
+LIBSRC-LIB43-ENT-OBJ-0083360,material_identity,"""Imari ware""",https://www.wikidata.org/wiki/Q43229589
+LIBSRC-LIB43-ENT-OBJ-0083409,descriptive_identity,"""harbour crane""",https://www.wikidata.org/wiki/Q438054
+LIBSRC-LIB43-ENT-OBJ-0083527,descriptive_identity,"""hand tool""",https://www.wikidata.org/wiki/Q4530524
+LIBSRC-LIB43-ENT-OBJ-0083527,descriptive_identity,"""dental equipment""",https://www.wikidata.org/wiki/Q4530524
+LIBSRC-LIB43-ENT-OBJ-0083532,descriptive_identity,"""motorcycle component""",https://www.wikidata.org/wiki/Q453140
+LIBSRC-LIB43-ENT-OBJ-0083547,descriptive_identity,"""audio effects unit""",https://www.wikidata.org/wiki/Q4547602
+LIBSRC-LIB43-ENT-OBJ-0083549,descriptive_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Q449795
+LIBSRC-LIB43-ENT-OBJ-0083621,descriptive_identity,"""file system""",https://www.wikidata.org/wiki/Q4655170
+LIBSRC-LIB43-ENT-OBJ-0083727,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q4713795
+LIBSRC-LIB43-ENT-OBJ-0083985,descriptive_identity,"""coffee percolator""",https://www.wikidata.org/wiki/Q48807643
+LIBSRC-LIB43-ENT-OBJ-0083985,manufacturer_or_creator,"""Richard Sapper""",https://www.wikidata.org/wiki/Q48807643
+LIBSRC-LIB43-ENT-OBJ-0083985,manufacturer_or_creator,"""Alessi""",https://www.wikidata.org/wiki/Q48807643
+LIBSRC-LIB43-ENT-OBJ-0083985,material_identity,"""stainless steel""",https://www.wikidata.org/wiki/Q48807643
+LIBSRC-LIB43-ENT-OBJ-0084057,descriptive_identity,"""street furniture""",https://www.wikidata.org/wiki/Q48976137
+LIBSRC-LIB43-ENT-OBJ-0084057,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q48976137
+LIBSRC-LIB43-ENT-OBJ-0084057,descriptive_identity,"""infrastructure""",https://www.wikidata.org/wiki/Q48976137
+LIBSRC-LIB43-ENT-OBJ-0084152,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49317293
+LIBSRC-LIB43-ENT-OBJ-0084152,descriptive_identity,"""Kulturdenkmal""",https://www.wikidata.org/wiki/Q49317293
+LIBSRC-LIB43-ENT-OBJ-0084166,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49351956
+LIBSRC-LIB43-ENT-OBJ-0084166,descriptive_identity,"""Upper Lusatian house""",https://www.wikidata.org/wiki/Q49351956
+LIBSRC-LIB43-ENT-OBJ-0084169,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49352670
+LIBSRC-LIB43-ENT-OBJ-0084169,descriptive_identity,"""Upper Lusatian house""",https://www.wikidata.org/wiki/Q49352670
+LIBSRC-LIB43-ENT-OBJ-0084189,descriptive_identity,"""Upper Lusatian house""",https://www.wikidata.org/wiki/Q49398056
+LIBSRC-LIB43-ENT-OBJ-0084189,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49398056
+LIBSRC-LIB43-ENT-OBJ-0084199,descriptive_identity,"""Upper Lusatian house""",https://www.wikidata.org/wiki/Q49419454
+LIBSRC-LIB43-ENT-OBJ-0084199,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49419454
+LIBSRC-LIB43-ENT-OBJ-0084199,material_identity,"""wood""",https://www.wikidata.org/wiki/Q49419454
+LIBSRC-LIB43-ENT-OBJ-0084204,descriptive_identity,"""Upper Lusatian house""",https://www.wikidata.org/wiki/Q49427022
+LIBSRC-LIB43-ENT-OBJ-0084204,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49427022
+LIBSRC-LIB43-ENT-OBJ-0084219,descriptive_identity,"""aisled house""",https://www.wikidata.org/wiki/Q49434098
+LIBSRC-LIB43-ENT-OBJ-0084219,descriptive_identity,"""timber-framed building""",https://www.wikidata.org/wiki/Q49434098
+LIBSRC-LIB43-ENT-OBJ-0084219,descriptive_identity,"""Upper Lusatian house""",https://www.wikidata.org/wiki/Q49434098
+LIBSRC-LIB43-ENT-OBJ-0084219,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49434098
+LIBSRC-LIB43-ENT-OBJ-0084220,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49435042
+LIBSRC-LIB43-ENT-OBJ-0084220,descriptive_identity,"""Upper Lusatian house""",https://www.wikidata.org/wiki/Q49435042
+LIBSRC-LIB43-ENT-OBJ-0084222,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49435725
+LIBSRC-LIB43-ENT-OBJ-0084222,descriptive_identity,"""timber-framed building""",https://www.wikidata.org/wiki/Q49435725
+LIBSRC-LIB43-ENT-OBJ-0084222,descriptive_identity,"""barn""",https://www.wikidata.org/wiki/Q49435725
+LIBSRC-LIB43-ENT-OBJ-0084222,descriptive_identity,"""aisled house""",https://www.wikidata.org/wiki/Q49435725
+LIBSRC-LIB43-ENT-OBJ-0084225,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49435993
+LIBSRC-LIB43-ENT-OBJ-0084225,material_identity,"""wood""",https://www.wikidata.org/wiki/Q49435993
+LIBSRC-LIB43-ENT-OBJ-0084226,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49436001
+LIBSRC-LIB43-ENT-OBJ-0084226,descriptive_identity,"""Upper Lusatian house""",https://www.wikidata.org/wiki/Q49436001
+LIBSRC-LIB43-ENT-OBJ-0084231,descriptive_identity,"""Upper Lusatian house""",https://www.wikidata.org/wiki/Q49436836
+LIBSRC-LIB43-ENT-OBJ-0084231,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49436836
+LIBSRC-LIB43-ENT-OBJ-0084231,material_identity,"""wood""",https://www.wikidata.org/wiki/Q49436836
+LIBSRC-LIB43-ENT-OBJ-0084233,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49436865
+LIBSRC-LIB43-ENT-OBJ-0084233,descriptive_identity,"""Upper Lusatian house""",https://www.wikidata.org/wiki/Q49436865
+LIBSRC-LIB43-ENT-OBJ-0084234,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49436997
+LIBSRC-LIB43-ENT-OBJ-0084234,material_identity,"""wood""",https://www.wikidata.org/wiki/Q49436997
+LIBSRC-LIB43-ENT-OBJ-0084237,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49437106
+LIBSRC-LIB43-ENT-OBJ-0084237,material_identity,"""wood""",https://www.wikidata.org/wiki/Q49437106
+LIBSRC-LIB43-ENT-OBJ-0084239,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49437239
+LIBSRC-LIB43-ENT-OBJ-0084239,material_identity,"""wood""",https://www.wikidata.org/wiki/Q49437239
+LIBSRC-LIB43-ENT-OBJ-0084268,descriptive_identity,"""hand well pump""",https://www.wikidata.org/wiki/Q49564858
+LIBSRC-LIB43-ENT-OBJ-0084586,descriptive_identity,"""automotive part""",https://www.wikidata.org/wiki/Q4993268
+LIBSRC-LIB43-ENT-OBJ-0084586,descriptive_identity,"""electrical switch""",https://www.wikidata.org/wiki/Q4993268
+LIBSRC-LIB43-ENT-OBJ-0084760,descriptive_identity,"""fan painting""",https://www.wikidata.org/wiki/Q50813745
+LIBSRC-LIB43-ENT-OBJ-0084760,manufacturer_or_creator,"""Kishi Ganku""",https://www.wikidata.org/wiki/Q50813745
+LIBSRC-LIB43-ENT-OBJ-0084760,material_identity,"""paper""",https://www.wikidata.org/wiki/Q50813745
+LIBSRC-LIB43-ENT-OBJ-0084992,descriptive_identity,"""reservoir""",https://www.wikidata.org/wiki/Q5182044
+LIBSRC-LIB43-ENT-OBJ-0085019,descriptive_identity,"""windmill""",https://www.wikidata.org/wiki/Q5190293
+LIBSRC-LIB43-ENT-OBJ-0085019,descriptive_identity,"""windpump""",https://www.wikidata.org/wiki/Q5190293
+LIBSRC-LIB43-ENT-OBJ-0085156,descriptive_identity,"""machine tool""",https://www.wikidata.org/wiki/Q5284052
+LIBSRC-LIB43-ENT-OBJ-0085156,descriptive_identity,"""scientific instrument""",https://www.wikidata.org/wiki/Q5284052
+LIBSRC-LIB43-ENT-OBJ-0085227,descriptive_identity,"""air compressor""",https://www.wikidata.org/wiki/Q5357647
+LIBSRC-LIB43-ENT-OBJ-0085309,descriptive_identity,"""built structure""",https://www.wikidata.org/wiki/Q5429987
+LIBSRC-LIB43-ENT-OBJ-0085309,descriptive_identity,"""Fairbairn crane""",https://www.wikidata.org/wiki/Q5429987
+LIBSRC-LIB43-ENT-OBJ-0085442,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q55029292
+LIBSRC-LIB43-ENT-OBJ-0085444,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q55047803
+LIBSRC-LIB43-ENT-OBJ-0085447,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q55050178
+LIBSRC-LIB43-ENT-OBJ-0085647,descriptive_identity,"""fusion reactor""",https://www.wikidata.org/wiki/Q55607386
+LIBSRC-LIB43-ENT-OBJ-0085647,descriptive_identity,"""tokamak""",https://www.wikidata.org/wiki/Q55607386
+LIBSRC-LIB43-ENT-OBJ-0085832,descriptive_identity,"""engine""",https://www.wikidata.org/wiki/Q557828
+LIBSRC-LIB43-ENT-OBJ-0085832,component_relationship,"""DC motor""",https://www.wikidata.org/wiki/Q557828
+LIBSRC-LIB43-ENT-OBJ-0085832,descriptive_identity,"""internal combustion engine component""",https://www.wikidata.org/wiki/Q557828
+LIBSRC-LIB43-ENT-OBJ-0086012,descriptive_identity,"""historic site""",https://www.wikidata.org/wiki/Q55886734
+LIBSRC-LIB43-ENT-OBJ-0086012,descriptive_identity,"""lathe""",https://www.wikidata.org/wiki/Q55886734
+LIBSRC-LIB43-ENT-OBJ-0086089,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q56144098
+LIBSRC-LIB43-ENT-OBJ-0086118,descriptive_identity,"""human settlement""",https://www.wikidata.org/wiki/Q136242840
+LIBSRC-LIB43-ENT-OBJ-0086281,descriptive_identity,"""cheese press""",https://www.wikidata.org/wiki/Q56621073
+LIBSRC-LIB43-ENT-OBJ-0086283,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q56621326
+LIBSRC-LIB43-ENT-OBJ-0087046,descriptive_identity,"""vase""",https://www.wikidata.org/wiki/Q59390789
+LIBSRC-LIB43-ENT-OBJ-0087046,manufacturer_or_creator,"""Royal Boch""",https://www.wikidata.org/wiki/Q59390789
+LIBSRC-LIB43-ENT-OBJ-0087918,descriptive_identity,"""microcontroller""",https://www.wikidata.org/wiki/Q6043417
+LIBSRC-LIB43-ENT-OBJ-0087933,descriptive_identity,"""vase""",https://www.wikidata.org/wiki/Q60520450
+LIBSRC-LIB43-ENT-OBJ-0087933,manufacturer_or_creator,"""Philippe Wolfers""",https://www.wikidata.org/wiki/Q60520450
+LIBSRC-LIB43-ENT-OBJ-0087933,material_identity,"""lead glass""",https://www.wikidata.org/wiki/Q60520450
+LIBSRC-LIB43-ENT-OBJ-0087933,material_identity,"""bronze""",https://www.wikidata.org/wiki/Q60520450
+LIBSRC-LIB43-ENT-OBJ-0088366,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q60762242
+LIBSRC-LIB43-ENT-OBJ-0088465,descriptive_identity,"""biplane""",https://www.wikidata.org/wiki/Q60788323
+LIBSRC-LIB43-ENT-OBJ-0089579,descriptive_identity,"""crane""",https://www.wikidata.org/wiki/Q63021589
+LIBSRC-LIB43-ENT-OBJ-0089579,manufacturer_or_creator,"""Johann Wilhelm Sp\u00e4th""",https://www.wikidata.org/wiki/Q63021589
+LIBSRC-LIB43-ENT-OBJ-0089606,descriptive_identity,"""water pump""",https://www.wikidata.org/wiki/Q63168849
+LIBSRC-LIB43-ENT-OBJ-0089644,dimension_length,11200.0,https://www.wikidata.org/wiki/Q63440172
+LIBSRC-LIB43-ENT-OBJ-0089644,mass,15900000.0,https://www.wikidata.org/wiki/Q63440172
+LIBSRC-LIB43-ENT-OBJ-0089644,descriptive_identity,"""space station module""",https://www.wikidata.org/wiki/Q63440172
+LIBSRC-LIB43-ENT-OBJ-0089644,manufacturer_or_creator,"""Mitsubishi Precision""",https://www.wikidata.org/wiki/Q63440172
+LIBSRC-LIB43-ENT-OBJ-0089644,manufacturer_or_creator,"""Kawasaki Heavy Industries""",https://www.wikidata.org/wiki/Q63440172
+LIBSRC-LIB43-ENT-OBJ-0089644,manufacturer_or_creator,"""Mitsubishi Heavy Industries""",https://www.wikidata.org/wiki/Q63440172
+LIBSRC-LIB43-ENT-OBJ-0089644,manufacturer_or_creator,"""NEC""",https://www.wikidata.org/wiki/Q63440172
+LIBSRC-LIB43-ENT-OBJ-0089644,manufacturer_or_creator,"""Mitsubishi Electric""",https://www.wikidata.org/wiki/Q63440172
+LIBSRC-LIB43-ENT-OBJ-0089645,descriptive_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Q2044384
+LIBSRC-LIB43-ENT-OBJ-0089646,mass,1200000.0,https://www.wikidata.org/wiki/Q63440210
+LIBSRC-LIB43-ENT-OBJ-0089646,descriptive_identity,"""Pressurized Mating Adapter""",https://www.wikidata.org/wiki/Q63440210
+LIBSRC-LIB43-ENT-OBJ-0089646,manufacturer_or_creator,"""Boeing""",https://www.wikidata.org/wiki/Q63440210
+LIBSRC-LIB43-ENT-OBJ-0089647,dimension_length,3660.0,https://www.wikidata.org/wiki/Q63441153
+LIBSRC-LIB43-ENT-OBJ-0089647,mass,4200000.0,https://www.wikidata.org/wiki/Q63441153
+LIBSRC-LIB43-ENT-OBJ-0089647,descriptive_identity,"""space station module""",https://www.wikidata.org/wiki/Q63441153
+LIBSRC-LIB43-ENT-OBJ-0089647,manufacturer_or_creator,"""Mitsubishi Heavy Industries""",https://www.wikidata.org/wiki/Q63441153
+LIBSRC-LIB43-ENT-OBJ-0090107,manufacturer_or_creator,"""China North Industries Group Corporation Limited""",https://www.wikidata.org/wiki/Q65042054
+LIBSRC-LIB43-ENT-OBJ-0090107,descriptive_identity,"""pistol""",https://www.wikidata.org/wiki/Q65042054
+LIBSRC-LIB43-ENT-OBJ-0090443,dimension_length,382000.0,https://www.wikidata.org/wiki/Q664284
+LIBSRC-LIB43-ENT-OBJ-0090443,descriptive_identity,"""pipe-laying ship""",https://www.wikidata.org/wiki/Q664284
+LIBSRC-LIB43-ENT-OBJ-0090443,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q664284
+LIBSRC-LIB43-ENT-OBJ-0090443,descriptive_identity,"""working vessel""",https://www.wikidata.org/wiki/Q664284
+LIBSRC-LIB43-ENT-OBJ-0090443,manufacturer_or_creator,"""Hanwha Ocean""",https://www.wikidata.org/wiki/Q664284
+LIBSRC-LIB43-ENT-OBJ-0090542,descriptive_identity,"""wind tunnel""",https://www.wikidata.org/wiki/Q66891290
+LIBSRC-LIB43-ENT-OBJ-0090646,descriptive_identity,"""bearing""",https://www.wikidata.org/wiki/Q6736207
+LIBSRC-LIB43-ENT-OBJ-0090821,descriptive_identity,"""compressor""",https://www.wikidata.org/wiki/Q692403
+LIBSRC-LIB43-ENT-OBJ-0091498,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q7361323
+LIBSRC-LIB43-ENT-OBJ-0091593,dimension_length,203610.0,https://www.wikidata.org/wiki/Q7393484
+LIBSRC-LIB43-ENT-OBJ-0091593,descriptive_identity,"""cargo ship""",https://www.wikidata.org/wiki/Q7393484
+LIBSRC-LIB43-ENT-OBJ-0091593,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q7393484
+LIBSRC-LIB43-ENT-OBJ-0091593,manufacturer_or_creator,"""Todd Pacific Shipyards, Los Angeles Division""",https://www.wikidata.org/wiki/Q7393484
+LIBSRC-LIB43-ENT-OBJ-0091596,dimension_length,203810.0,https://www.wikidata.org/wiki/Q7393736
+LIBSRC-LIB43-ENT-OBJ-0091596,descriptive_identity,"""cargo ship""",https://www.wikidata.org/wiki/Q7393736
+LIBSRC-LIB43-ENT-OBJ-0091596,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q7393736
+LIBSRC-LIB43-ENT-OBJ-0091598,dimension_length,203810.0,https://www.wikidata.org/wiki/Q7393766
+LIBSRC-LIB43-ENT-OBJ-0091598,descriptive_identity,"""cargo ship""",https://www.wikidata.org/wiki/Q7393766
+LIBSRC-LIB43-ENT-OBJ-0091598,descriptive_identity,"""crane vessel""",https://www.wikidata.org/wiki/Q7393766
+LIBSRC-LIB43-ENT-OBJ-0091619,descriptive_identity,"""single""",https://www.wikidata.org/wiki/Q1875581
+LIBSRC-LIB43-ENT-OBJ-0091619,descriptive_identity,"""song""",https://www.wikidata.org/wiki/Q1875581
+LIBSRC-LIB43-ENT-OBJ-0091741,descriptive_identity,"""windpump""",https://www.wikidata.org/wiki/Q7602443
+LIBSRC-LIB43-ENT-OBJ-0091741,descriptive_identity,"""post mill""",https://www.wikidata.org/wiki/Q7602443
+LIBSRC-LIB43-ENT-OBJ-0092004,component_relationship,"""Volvo BB57""",https://www.wikidata.org/wiki/Q7941284
+LIBSRC-LIB43-ENT-OBJ-0092004,descriptive_identity,"""bus chassis model""",https://www.wikidata.org/wiki/Q7941284
+LIBSRC-LIB43-ENT-OBJ-0092004,manufacturer_or_creator,"""Volvo Buses""",https://www.wikidata.org/wiki/Q7941284
+LIBSRC-LIB43-ENT-OBJ-0092004,descriptive_identity,"""front-engine, rear-wheel-drive layout""",https://www.wikidata.org/wiki/Q7941284
+LIBSRC-LIB43-ENT-OBJ-0092173,descriptive_identity,"""militaria""",https://www.wikidata.org/wiki/Q79478294
+LIBSRC-LIB43-ENT-OBJ-0092173,descriptive_identity,"""cranequin""",https://www.wikidata.org/wiki/Q79478294
+LIBSRC-LIB43-ENT-OBJ-0092365,descriptive_identity,"""physical tool""",https://www.wikidata.org/wiki/Q79501554
+LIBSRC-LIB43-ENT-OBJ-0092397,descriptive_identity,"""windmill""",https://www.wikidata.org/wiki/Q7967301
+LIBSRC-LIB43-ENT-OBJ-0092397,descriptive_identity,"""windpump""",https://www.wikidata.org/wiki/Q7967301
+LIBSRC-LIB43-ENT-OBJ-0092827,descriptive_identity,"""physical tool""",https://www.wikidata.org/wiki/Q80083990
+LIBSRC-LIB43-ENT-OBJ-0093276,descriptive_identity,"""turbojet""",https://www.wikidata.org/wiki/Q839981
+LIBSRC-LIB43-ENT-OBJ-0093276,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q839981
+LIBSRC-LIB43-ENT-OBJ-0093372,descriptive_identity,"""steam boiler""",https://www.wikidata.org/wiki/Q8564070
+LIBSRC-LIB43-ENT-OBJ-0093372,descriptive_identity,"""vessel""",https://www.wikidata.org/wiki/Q8564070
+LIBSRC-LIB43-ENT-OBJ-0093610,descriptive_identity,"""cylinder seal""",https://www.wikidata.org/wiki/Q87809026
+LIBSRC-LIB43-ENT-OBJ-0093610,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/13803d077c22ebf5ddc3c66ea536f416""",https://www.wikidata.org/wiki/Q87809026
+LIBSRC-LIB43-ENT-OBJ-0093610,material_identity,"""limestone""",https://www.wikidata.org/wiki/Q87809026
+LIBSRC-LIB43-ENT-OBJ-0093611,descriptive_identity,"""cylinder seal""",https://www.wikidata.org/wiki/Q87809289
+LIBSRC-LIB43-ENT-OBJ-0093611,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/f4e01b265e54d9de9c5e15c25ee4ab3b""",https://www.wikidata.org/wiki/Q87809289
+LIBSRC-LIB43-ENT-OBJ-0093611,material_identity,"""limestone""",https://www.wikidata.org/wiki/Q87809289
+LIBSRC-LIB43-ENT-OBJ-0093671,descriptive_identity,"""machine element""",https://www.wikidata.org/wiki/Q881952
+LIBSRC-LIB43-ENT-OBJ-0094417,component_relationship,"""olive""",https://www.wikidata.org/wiki/Q894346
+LIBSRC-LIB43-ENT-OBJ-0094417,descriptive_identity,"""fastener""",https://www.wikidata.org/wiki/Q894346
+LIBSRC-LIB43-ENT-OBJ-0094418,descriptive_identity,"""coupling""",https://www.wikidata.org/wiki/Q894396
+LIBSRC-LIB43-ENT-OBJ-0094698,dimension_length,508.0,https://www.wikidata.org/wiki/Q90224563
+LIBSRC-LIB43-ENT-OBJ-0094698,descriptive_identity,"""slide rule""",https://www.wikidata.org/wiki/Q90224563
+LIBSRC-LIB43-ENT-OBJ-0094698,manufacturer_or_creator,"""Keuffel and Esser""",https://www.wikidata.org/wiki/Q90224563
+LIBSRC-LIB43-ENT-OBJ-0094698,material_identity,"""metal""",https://www.wikidata.org/wiki/Q90224563
+LIBSRC-LIB43-ENT-OBJ-0094698,material_identity,"""plastic""",https://www.wikidata.org/wiki/Q90224563
+LIBSRC-LIB43-ENT-OBJ-0095589,descriptive_identity,"""machine element""",https://www.wikidata.org/wiki/Q953477
+LIBSRC-LIB43-ENT-OBJ-0095589,component_relationship,"""Cylinder bank""",https://www.wikidata.org/wiki/Q953477
+LIBSRC-LIB43-ENT-OBJ-0095589,component_relationship,"""water jacket""",https://www.wikidata.org/wiki/Q953477
+LIBSRC-LIB43-ENT-OBJ-0095589,descriptive_identity,"""physical technological component""",https://www.wikidata.org/wiki/Q953477
+LIBSRC-LIB43-ENT-OBJ-0095589,material_identity,"""cast iron""",https://www.wikidata.org/wiki/Q953477
+LIBSRC-LIB43-ENT-OBJ-0095589,material_identity,"""aluminium""",https://www.wikidata.org/wiki/Q953477
+LIBSRC-LIB43-ENT-OBJ-0095721,descriptive_identity,"""hand fan""",https://www.wikidata.org/wiki/Q96181401
+LIBSRC-LIB43-ENT-OBJ-0095721,manufacturer_or_creator,"""Empress Gongsheng""",https://www.wikidata.org/wiki/Q96181401
+LIBSRC-LIB43-ENT-OBJ-0096006,descriptive_identity,"""dwelling""",https://www.wikidata.org/wiki/Q98058348
+LIBSRC-LIB43-ENT-OBJ-0096006,descriptive_identity,"""winepress""",https://www.wikidata.org/wiki/Q98058348
+LIBSRC-LIB43-ENT-OBJ-0096007,descriptive_identity,"""winepress""",https://www.wikidata.org/wiki/Q98059010
+LIBSRC-LIB43-ENT-OBJ-0096010,descriptive_identity,"""winepress""",https://www.wikidata.org/wiki/Q98059058
+LIBSRC-LIB43-ENT-OBJ-0096606,descriptive_identity,"""pump""",https://www.wikidata.org/wiki/Q137767112
+LIBSRC-LIB43-ENT-OBJ-0097590,descriptive_identity,"""software calculator""",https://www.wikidata.org/wiki/Q98843656
+LIBSRC-LIB43-ENT-OBJ-0097590,descriptive_identity,"""proprietary software""",https://www.wikidata.org/wiki/Q98843656
+LIBSRC-LIB43-ENT-OBJ-0098117,descriptive_identity,"""rocket engine""",https://www.wikidata.org/wiki/Q23678
+LIBSRC-LIB43-ENT-OBJ-0098181,descriptive_identity,"""turbofan""",https://www.wikidata.org/wiki/Q56801
+LIBSRC-LIB43-ENT-OBJ-0098181,descriptive_identity,"""aircraft engine""",https://www.wikidata.org/wiki/Q56801
+LIBSRC-LIB43-ENT-OBJ-0098195,descriptive_identity,"""musical group""",https://www.wikidata.org/wiki/Q12303760
+LIBSRC-LIB43-ENT-OBJ-0098377,descriptive_identity,"""fictional pump-action shotgun""",https://www.wikidata.org/wiki/Q104776623
+LIBSRC-LIB43-ENT-OBJ-0098377,descriptive_identity,"""video game weapon""",https://www.wikidata.org/wiki/Q104776623
+LIBSRC-LIB43-ENT-OBJ-0098378,descriptive_identity,"""video game weapon""",https://www.wikidata.org/wiki/Q104776664
+LIBSRC-LIB43-ENT-OBJ-0098378,descriptive_identity,"""fictional pump-action shotgun""",https://www.wikidata.org/wiki/Q104776664
+LIBSRC-LIB43-ENT-OBJ-0099093,descriptive_identity,"""video game weapon""",https://www.wikidata.org/wiki/Q124453588
+LIBSRC-LIB43-ENT-OBJ-0099093,descriptive_identity,"""cut content""",https://www.wikidata.org/wiki/Q124453588
+LIBSRC-LIB43-ENT-OBJ-0099093,descriptive_identity,"""fictional weapon""",https://www.wikidata.org/wiki/Q124453588
+LIBSRC-LIB43-ENT-OBJ-0099093,manufacturer_or_creator,"""Valve Corporation""",https://www.wikidata.org/wiki/Q124453588
+LIBSRC-LIB43-ENT-OBJ-0099604,descriptive_identity,"""pistol""",https://www.wikidata.org/wiki/Q29383186
+LIBSRC-LIB43-ENT-OBJ-0100037,descriptive_identity,"""fictional shotgun""",https://www.wikidata.org/wiki/Q80979144
+LIBSRC-LIB47-ENT-SPT-0000067,descriptive_identity,"""running event""",https://www.wikidata.org/wiki/Q102503360
+LIBSRC-LIB47-ENT-SPT-0000067,descriptive_identity,"""virtual event""",https://www.wikidata.org/wiki/Q102503360
+LIBSRC-LIB47-ENT-SPT-0000067,descriptive_identity,"""recurring event""",https://www.wikidata.org/wiki/Q102503360
+LIBSRC-LIB47-ENT-SPT-0000075,descriptive_identity,"""Pumpkin regatta""",https://www.wikidata.org/wiki/Q1028972
+LIBSRC-LIB47-ENT-SPT-0000075,descriptive_identity,"""recurring sporting event""",https://www.wikidata.org/wiki/Q1028972
+LIBSRC-LIB47-ENT-SPT-0005860,descriptive_identity,"""card game""",https://www.wikidata.org/wiki/Q138568618
+LIBSRC-LIB47-ENT-SPT-0005860,manufacturer_or_creator,"""Mark Thornborrow""",https://www.wikidata.org/wiki/Q138568618
+LIBSRC-LIB47-ENT-SPT-0005860,manufacturer_or_creator,"""Imie Howard""",https://www.wikidata.org/wiki/Q138568618
+LIBSRC-LIB47-ENT-SPT-0007232,descriptive_identity,"""sport""",https://www.wikidata.org/wiki/Q1922335
+LIBSRC-LIB47-ENT-SPT-0007232,descriptive_identity,"""boardsport""",https://www.wikidata.org/wiki/Q1922335
+LIBSRC-LIB47-ENT-SPT-0007813,descriptive_identity,"""decompression model""",https://www.wikidata.org/wiki/Q23808090
+LIBSRC-LIB47-ENT-SPT-0007975,descriptive_identity,"""decompression algorithm""",https://www.wikidata.org/wiki/Q25066459
+LIBSRC-LIB47-ENT-SPT-0008661,descriptive_identity,"""powerboating""",https://www.wikidata.org/wiki/Q3008828
+LIBSRC-LIB47-ENT-SPT-0010171,descriptive_identity,"""chess playing software""",https://www.wikidata.org/wiki/Q494713
+LIBSRC-LIB47-ENT-SPT-0010171,descriptive_identity,"""free software""",https://www.wikidata.org/wiki/Q494713
+LIBSRC-LIB47-ENT-SPT-0010171,descriptive_identity,"""GNU package""",https://www.wikidata.org/wiki/Q494713
+LIBSRC-LIB47-ENT-SPT-0010703,descriptive_identity,"""marathon""",https://www.wikidata.org/wiki/Q5265930
+LIBSRC-LIB47-ENT-SPT-0010830,descriptive_identity,"""horse race""",https://www.wikidata.org/wiki/Q5421744
+LIBSRC-LIB47-ENT-SPT-0011260,descriptive_identity,"""university""",https://www.wikidata.org/wiki/Q5599655
+LIBSRC-LIB47-ENT-SPT-0011260,descriptive_identity,"""racing""",https://www.wikidata.org/wiki/Q5599655
+LIBSRC-LIB47-ENT-SPT-0011260,descriptive_identity,"""competition""",https://www.wikidata.org/wiki/Q5599655
+LIBSRC-LIB47-ENT-SPT-0013528,descriptive_identity,"""decompression algorithm""",https://www.wikidata.org/wiki/Q7709737
+LIBSRC-LIB48-ENT-ULN-0004132,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103948308
+LIBSRC-LIB48-ENT-ULN-0006371,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103965138
+LIBSRC-LIB48-ENT-ULN-0006973,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103956831
+LIBSRC-LIB48-ENT-ULN-0008026,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q104083122
+LIBSRC-LIB48-ENT-ULN-0010369,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103972438
+LIBSRC-LIB48-ENT-ULN-0010493,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103892964
+LIBSRC-LIB48-ENT-ULN-0011594,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q104080084
+LIBSRC-LIB48-ENT-ULN-0012329,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103971507
+LIBSRC-LIB48-ENT-ULN-0012606,descriptive_identity,"""biographical article""",https://www.wikidata.org/wiki/Q95419746
+LIBSRC-LIB48-ENT-ULN-0012640,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103967514
+LIBSRC-LIB48-ENT-ULN-0013489,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103893641
+LIBSRC-LIB48-ENT-ULN-0014065,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103899545
+LIBSRC-LIB48-ENT-ULN-0014446,descriptive_identity,"""human""",https://www.wikidata.org/wiki/Q47163
+LIBSRC-LIB48-ENT-ULN-0014698,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103889406
+LIBSRC-LIB48-ENT-ULN-0016855,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103969888
+LIBSRC-LIB48-ENT-ULN-0017584,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103914878
+LIBSRC-LIB48-ENT-ULN-0018123,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103927370
+LIBSRC-LIB48-ENT-ULN-0019459,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103966237
+LIBSRC-LIB48-ENT-ULN-0020344,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103962348
+LIBSRC-LIB48-ENT-ULN-0020542,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103970767
+LIBSRC-LIB48-ENT-ULN-0020813,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q104080084
+LIBSRC-LIB48-ENT-ULN-0021197,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103954555
+LIBSRC-LIB48-ENT-ULN-0024448,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103922639
+LIBSRC-LIB48-ENT-ULN-0024536,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q104075893
+LIBSRC-LIB48-ENT-ULN-0024757,descriptive_identity,"""biographical article""",https://www.wikidata.org/wiki/Q96778415
+LIBSRC-LIB48-ENT-ULN-0025685,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q104080066
+LIBSRC-LIB48-ENT-ULN-0026199,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103931152
+LIBSRC-LIB48-ENT-ULN-0027232,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q103960102
+LIBSRC-LIB48-ENT-ULN-0027309,descriptive_identity,"""encyclopedia article""",https://www.wikidata.org/wiki/Q104020730
