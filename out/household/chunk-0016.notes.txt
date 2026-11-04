@@ -1,0 +1,2 @@
+Encountered rate limit (OVER_RATE_LIMIT/429/403) with Smithsonian API using DEMO_KEY.
+HTTP 429 Rate Limit/Forbidden on Smithsonian API for https://api.si.edu/openaccess/api/v1.0/search?q=0650202&api_key=DEMO_KEY
