@@ -1,0 +1,185 @@
+canonical_dedup_key,column_name,value,source_url
+CORPUS-FOOD-FOO-EURO-0000056,food_identity,"""pierogi""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Varenyky&language=en&format=json
+CORPUS-FOOD-FOO-EURO-0000056,descriptive_identity,"""type of pasta""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q697800&format=json
+CORPUS-FOOD-FOO-EURO-0000056,descriptive_identity,"""stuffed pasta""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q697800&format=json
+CORPUS-FOOD-FOO-EURO-0000056,ingredient_relationship,"""potato""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q697800&format=json
+CORPUS-FOOD-FOO-OCEA-0000076,food_identity,"""roasted corn""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Roasted%20Corn&language=en&format=json
+CORPUS-FOOD-FOO-OCEA-0000076,descriptive_identity,"""street food""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q105502704&format=json
+CORPUS-FOOD-FOO-OCEA-0000076,ingredient_relationship,"""maize""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q105502704&format=json
+CORPUS-FOOD-FOO-OCEA-0000076,ingredient_relationship,"""margarine""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q105502704&format=json
+CORPUS-FOOD-FOO-OCEA-0000076,ingredient_relationship,"""sauce""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q105502704&format=json
+CORPUS-FOOD-FOO-EURO-0000115,food_identity,"""port glass""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Port%20Wine%20Glass&language=en&format=json
+CORPUS-FOOD-FOO-EURO-0000115,descriptive_identity,"""drinking glass""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q107616440&format=json
+CORPUS-FOOD-FOO-NAME-0000214,food_identity,"""Manapua""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Manapua&language=en&format=json
+CORPUS-FOOD-FOO-NAME-0000214,descriptive_identity,"""food""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q122828168&format=json
+CORPUS-FOOD-FOO-NAME-0000241,food_identity,"""brown stew chicken""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Brown%20Stew%20Chicken&language=en&format=json
+CORPUS-FOOD-FOO-NAME-0000241,descriptive_identity,"""stew""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q17027457&format=json
+CORPUS-FOOD-FOO-NAME-0000241,descriptive_identity,"""chicken dish""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q17027457&format=json
+CORPUS-FOOD-FOO-NAME-0000241,ingredient_relationship,"""chicken as food""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q17027457&format=json
+CORPUS-FOOD-FOO-SASIA-0000109,food_identity,"""Morog polao""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Morog%20Polao&language=en&format=json
+CORPUS-FOOD-FOO-OCEA-0000021,food_identity,"""bile up""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Boil-Up&language=en&format=json
+CORPUS-FOOD-FOO-OCEA-0000021,descriptive_identity,"""egg dish""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q4938317&format=json
+CORPUS-FOOD-FOO-OCEA-0000021,ingredient_relationship,"""egg as food""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q4938317&format=json
+CORPUS-FOOD-FOO-SASIA-0000296,food_identity,"""Chotpoti""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Chotpoti&language=en&format=json
+CORPUS-FOOD-FOO-SASIA-0000296,descriptive_identity,"""food""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5105407&format=json
+CORPUS-FOOD-FOO-SASIA-0000296,ingredient_relationship,"""potato""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5105407&format=json
+CORPUS-FOOD-FOO-LATAM-0000021,food_identity,"""Milanesa napolitana""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Milanesa%20Napolitana&language=en&format=json
+CORPUS-FOOD-FOO-LATAM-0000021,descriptive_identity,"""beef dish""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q4499565&format=json
+CORPUS-FOOD-FOO-LATAM-0000021,ingredient_relationship,"""Milanesa""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q4499565&format=json
+CORPUS-FOOD-FOO-LATAM-0000334,food_identity,"""oncilla""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Tigrillo&language=en&format=json
+CORPUS-FOOD-FOO-LATAM-0000334,descriptive_identity,"""organisms known by a particular common name""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q141494925&format=json
+CORPUS-FOOD-FOO-LATAM-0000334,descriptive_identity,"""individual animal""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q141494925&format=json
+CORPUS-FOOD-FOO-LATAM-0000015,food_identity,"""p\u00e3o de queijo""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=P%C3%A3o%20de%20Queijo&language=en&format=json
+CORPUS-FOOD-FOO-LATAM-0000015,descriptive_identity,"""cheese bun""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2065278&format=json
+CORPUS-FOOD-FOO-LATAM-0000015,descriptive_identity,"""bread""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2065278&format=json
+CORPUS-FOOD-FOO-LATAM-0000015,descriptive_identity,"""baked good""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2065278&format=json
+CORPUS-FOOD-FOO-LATAM-0000015,descriptive_identity,"""dish""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2065278&format=json
+CORPUS-FOOD-FOO-LATAM-0000015,ingredient_relationship,"""cassava root""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2065278&format=json
+CORPUS-FOOD-FOO-LATAM-0000292,food_identity,"""Soyo (soup)""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=So%27o%20Josopy&language=en&format=json
+CORPUS-FOOD-FOO-LATAM-0000160,food_identity,"""asado negro""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Asado%20Negro&language=en&format=json
+CORPUS-FOOD-FOO-LATAM-0000160,descriptive_identity,"""beef dish""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5484363&format=json
+CORPUS-FOOD-FOO-LATAM-0000160,ingredient_relationship,"""beef""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5484363&format=json
+CORPUS-FOOD-FOO-LATAM-0000160,ingredient_relationship,"""red wine""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5484363&format=json
+CORPUS-FOOD-FOO-SEASIA-0000068,food_identity,"""es teler""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Es%20Teler&language=en&format=json
+CORPUS-FOOD-FOO-SEASIA-0000068,descriptive_identity,"""drink""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5396648&format=json
+CORPUS-FOOD-FOO-SEASIA-0000068,descriptive_identity,"""traditional food""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5396648&format=json
+CORPUS-FOOD-FOO-SEASIA-0000068,descriptive_identity,"""frozen dessert""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5396648&format=json
+CORPUS-FOOD-FOO-SEASIA-0000068,ingredient_relationship,"""crushed ice""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5396648&format=json
+CORPUS-FOOD-FOO-SEASIA-0000068,ingredient_relationship,"""avocado""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5396648&format=json
+CORPUS-FOOD-FOO-SEASIA-0000068,ingredient_relationship,"""coconut""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5396648&format=json
+CORPUS-FOOD-FOO-SEASIA-0000068,ingredient_relationship,"""jackfruit""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5396648&format=json
+CORPUS-FOOD-FOO-SEASIA-0000068,ingredient_relationship,"""condensed milk""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5396648&format=json
+CORPUS-FOOD-FOO-SEASIA-0000068,ingredient_relationship,"""syrup""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5396648&format=json
+CORPUS-FOOD-FOO-LATAM-0000054,food_identity,"""Quesillo""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Quesillo&language=en&format=json
+CORPUS-FOOD-FOO-LATAM-0000054,descriptive_identity,"""food""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q773695&format=json
+CORPUS-FOOD-FOO-LATAM-0000054,descriptive_identity,"""cheese""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q773695&format=json
+CORPUS-FOOD-FOO-SASIA-0000015,food_identity,"""medu vada""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Medu%20Vada&language=en&format=json
+CORPUS-FOOD-FOO-SASIA-0000015,descriptive_identity,"""breakfast""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q25302803&format=json
+CORPUS-FOOD-FOO-SASIA-0000015,descriptive_identity,"""food""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q25302803&format=json
+CORPUS-FOOD-FOO-SASIA-0000015,descriptive_identity,"""Vada""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q25302803&format=json
+CORPUS-FOOD-FOO-SASIA-0000015,ingredient_relationship,"""Vigna mungo""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q25302803&format=json
+CORPUS-FOOD-FOO-SEASIA-0000302,food_identity,"""yam wun sen""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Yam%20Wun%20Sen&language=en&format=json
+CORPUS-FOOD-FOO-SEASIA-0000302,descriptive_identity,"""yam""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q55238847&format=json
+CORPUS-FOOD-FOO-SEASIA-0000302,descriptive_identity,"""pasta salad""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q55238847&format=json
+CORPUS-FOOD-FOO-NAME-0000195,food_identity,"""green chile cheeseburger""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Green%20Chile%20Cheeseburger&language=en&format=json
+CORPUS-FOOD-FOO-NAME-0000195,descriptive_identity,"""dish""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q135870257&format=json
+CORPUS-FOOD-FOO-NAME-0000195,ingredient_relationship,"""New Mexico chile""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q135870257&format=json
+CORPUS-FOOD-FOO-NAME-0000195,ingredient_relationship,"""patty""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q135870257&format=json
+CORPUS-FOOD-FOO-NAME-0000195,ingredient_relationship,"""burger bun""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q135870257&format=json
+CORPUS-FOOD-FOO-NAME-0000195,ingredient_relationship,"""lettuce""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q135870257&format=json
+CORPUS-FOOD-FOO-NAME-0000195,ingredient_relationship,"""cheese""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q135870257&format=json
+CORPUS-FOOD-FOO-LATAM-0000187,food_identity,"""Mosto""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Mosto&language=en&format=json
+CORPUS-FOOD-FOO-LATAM-0000187,descriptive_identity,"""family name""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q124234141&format=json
+CORPUS-FOOD-FOO-EURO-0000407,food_identity,"""Bacalhau \u00e0 Gomes de S\u00e1""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Bacalhau%20%C3%A0%20Gomes%20de%20S%C3%A1&language=en&format=json
+CORPUS-FOOD-FOO-SASIA-0000129,food_identity,"""Gundruk""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Gundruk&language=en&format=json
+CORPUS-FOOD-FOO-AFRI-0000045,food_identity,"""ugali""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Ugali&language=en&format=json
+CORPUS-FOOD-FOO-EURO-0000107,food_identity,"""caf\u00e9 au lait""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Caf%C3%A9%20au%20Lait&language=en&format=json
+CORPUS-FOOD-FOO-EURO-0000107,descriptive_identity,"""milk coffee""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q259109&format=json
+CORPUS-FOOD-FOO-EURO-0000107,ingredient_relationship,"""coffee""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q259109&format=json
+CORPUS-FOOD-FOO-EURO-0000107,ingredient_relationship,"""milk""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q259109&format=json
+CORPUS-FOOD-FOO-LATAM-0000053,food_identity,"""pabell\u00f3n criollo""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Pabell%C3%B3n%20Criollo&language=en&format=json
+CORPUS-FOOD-FOO-LATAM-0000053,descriptive_identity,"""rice dish""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3359952&format=json
+CORPUS-FOOD-FOO-LATAM-0000053,descriptive_identity,"""platter""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3359952&format=json
+CORPUS-FOOD-FOO-LATAM-0000053,ingredient_relationship,"""white rice""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3359952&format=json
+CORPUS-FOOD-FOO-LATAM-0000053,ingredient_relationship,"""ropa vieja""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3359952&format=json
+CORPUS-FOOD-FOO-LATAM-0000053,ingredient_relationship,"""frijoles negros""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3359952&format=json
+CORPUS-FOOD-FOO-LATAM-0000053,ingredient_relationship,"""tajada""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3359952&format=json
+CORPUS-FOOD-FOO-LATAM-0000167,food_identity,"""Canelaz""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Canelazo&language=en&format=json
+CORPUS-FOOD-FOO-LATAM-0000167,descriptive_identity,"""alcoholic beverage""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5032256&format=json
+CORPUS-FOOD-FOO-LATAM-0000167,descriptive_identity,"""Christmas beverage""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5032256&format=json
+CORPUS-FOOD-FOO-NAME-0000025,food_identity,"""chili""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Chili%20con%20Carne&language=en&format=json
+CORPUS-FOOD-FOO-NAME-0000025,descriptive_identity,"""dish""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q863794&format=json
+CORPUS-FOOD-FOO-NAME-0000025,descriptive_identity,"""stew""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q863794&format=json
+CORPUS-FOOD-FOO-NAME-0000025,ingredient_relationship,"""minced meat""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q863794&format=json
+CORPUS-FOOD-FOO-NAME-0000025,ingredient_relationship,"""chili pepper""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q863794&format=json
+CORPUS-FOOD-FOO-EASIA-0000034,food_identity,"""bibimbap""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Bibimbap&language=en&format=json
+CORPUS-FOOD-FOO-EASIA-0000034,descriptive_identity,"""dish""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q648352&format=json
+CORPUS-FOOD-FOO-EASIA-0000034,descriptive_identity,"""rice dish""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q648352&format=json
+CORPUS-FOOD-FOO-EASIA-0000034,ingredient_relationship,"""namul""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q648352&format=json
+CORPUS-FOOD-FOO-EASIA-0000034,ingredient_relationship,"""gochujang""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q648352&format=json
+CORPUS-FOOD-FOO-EASIA-0000034,ingredient_relationship,"""egg as food""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q648352&format=json
+CORPUS-FOOD-FOO-EASIA-0000034,ingredient_relationship,"""meat""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q648352&format=json
+CORPUS-FOOD-FOO-EASIA-0000034,ingredient_relationship,"""rice""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q648352&format=json
+CORPUS-FOOD-FOO-LATAM-0000266,food_identity,"""Machas a la parmesana""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Machas%20a%20la%20Parmesana&language=en&format=json
+CORPUS-FOOD-FOO-LATAM-0000266,descriptive_identity,"""food""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q17077460&format=json
+CORPUS-FOOD-FOO-LATAM-0000266,ingredient_relationship,"""Mesodesma donacium""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q17077460&format=json
+CORPUS-FOOD-FOO-LATAM-0000266,ingredient_relationship,"""Parmesan""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q17077460&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,food_identity,"""shawarma""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Shawarma&language=en&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,descriptive_identity,"""stuffed flatbread""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,descriptive_identity,"""wrap""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,descriptive_identity,"""snack""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,ingredient_relationship,"""meat""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,ingredient_relationship,"""sauce""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,ingredient_relationship,"""vegetable""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,ingredient_relationship,"""pita""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,ingredient_relationship,"""lavash""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,ingredient_relationship,"""Syzygium""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,ingredient_relationship,"""lemon juice""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,ingredient_relationship,"""cabbage""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,ingredient_relationship,"""cardamom""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,ingredient_relationship,"""turmeric""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,ingredient_relationship,"""garlic""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,ingredient_relationship,"""paprika""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,ingredient_relationship,"""Morkovcha""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,ingredient_relationship,"""cumin seed""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,ingredient_relationship,"""taboon bread""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000023,ingredient_relationship,"""cinnamon""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3412448&format=json
+CORPUS-FOOD-FOO-SASIA-0000227,food_identity,"""Payesh""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Payesh&language=en&format=json
+CORPUS-FOOD-FOO-SASIA-0000227,descriptive_identity,"""academic journal""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q50521866&format=json
+CORPUS-FOOD-FOO-SASIA-0000227,descriptive_identity,"""open-access journal""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q50521866&format=json
+CORPUS-FOOD-FOO-NAME-0000076,food_identity,"""Menudo""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Menudo&language=en&format=json
+CORPUS-FOOD-FOO-NAME-0000076,descriptive_identity,"""musical group""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Alexis Grull\u00f3n""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Fernando Sallaberry""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Nefty Sallaberry""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Rawy Torres""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Xavier Serbi\u00e1""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Ren\u00e9 Farrait""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Ray Reyes""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Charlie Masso""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Raymond Acevedo""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Ralphy Rodr\u00edguez""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Ricky Mel\u00e9ndez""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Angelo Garcia""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Johnny Lozada""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Carlos Mel\u00e9ndez""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Draco Rosa""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""\u00d3scar Mel\u00e9ndez""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Roy Rossell\u00f3""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Carlito Olivero""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Anthony Galindo""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000076,ingredient_relationship,"""Ezra Gilmore""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2555767&format=json
+CORPUS-FOOD-FOO-NAME-0000352,food_identity,"""she-crab soup""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=She-Crab%20Soup&language=en&format=json
+CORPUS-FOOD-FOO-NAME-0000352,descriptive_identity,"""soup""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q20658501&format=json
+CORPUS-FOOD-FOO-NAME-0000352,descriptive_identity,"""fish soup""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q20658501&format=json
+CORPUS-FOOD-FOO-NAME-0000352,descriptive_identity,"""crab dish""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q20658501&format=json
+CORPUS-FOOD-FOO-NAME-0000352,ingredient_relationship,"""Callinectes sapidus""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q20658501&format=json
+CORPUS-FOOD-FOO-LATAM-0000116,food_identity,"""Caldo verde""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Caldo%20Verde&language=en&format=json
+CORPUS-FOOD-FOO-LATAM-0000116,descriptive_identity,"""soup""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q770977&format=json
+CORPUS-FOOD-FOO-LATAM-0000116,ingredient_relationship,"""potato""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q770977&format=json
+CORPUS-FOOD-FOO-EURO-0000365,food_identity,"""Irish coffee""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Irish%20Coffee&language=en&format=json
+CORPUS-FOOD-FOO-EURO-0000365,descriptive_identity,"""IBA official cocktail""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q622954&format=json
+CORPUS-FOOD-FOO-EURO-0000365,descriptive_identity,"""liqueur coffee""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q622954&format=json
+CORPUS-FOOD-FOO-EURO-0000365,descriptive_identity,"""hot beverage""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q622954&format=json
+CORPUS-FOOD-FOO-EURO-0000365,descriptive_identity,"""warm alcoholic drink""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q622954&format=json
+CORPUS-FOOD-FOO-EURO-0000365,descriptive_identity,"""caffeinated alcoholic drink""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q622954&format=json
+CORPUS-FOOD-FOO-EURO-0000365,ingredient_relationship,"""Irish whiskey""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q622954&format=json
+CORPUS-FOOD-FOO-EURO-0000365,ingredient_relationship,"""coffee""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q622954&format=json
+CORPUS-FOOD-FOO-EURO-0000365,ingredient_relationship,"""cream""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q622954&format=json
+CORPUS-FOOD-FOO-EURO-0000365,ingredient_relationship,"""brown sugar""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q622954&format=json
+CORPUS-FOOD-FOO-EURO-0000365,ingredient_relationship,"""Irish coffee glass""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q622954&format=json
+CORPUS-FOOD-FOO-AFRI-0000214,food_identity,"""Jalebi""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Zlabia&language=en&format=json
+CORPUS-FOOD-FOO-AFRI-0000214,descriptive_identity,"""pastry""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q59139&format=json
+CORPUS-FOOD-FOO-AFRI-0000214,descriptive_identity,"""confectionery""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q59139&format=json
+CORPUS-FOOD-FOO-AFRI-0000214,ingredient_relationship,"""pastry flour""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q59139&format=json
+CORPUS-FOOD-FOO-LATAM-0000088,food_identity,"""Paraguay cheese""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Queso%20Paraguay&language=en&format=json
+CORPUS-FOOD-FOO-AFRI-0000213,food_identity,"""Chakhchoukha""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Chakhchoukha&language=en&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000183,food_identity,"""ayran""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Doogh&language=en&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000183,descriptive_identity,"""dish""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q192892&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000183,descriptive_identity,"""fermented milk products, other than sour cream and cottage cheese""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q192892&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000183,descriptive_identity,"""yoghurt and other types of milk or cream, fermented or soured""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q192892&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000183,descriptive_identity,"""yogurt drink""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q192892&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000183,ingredient_relationship,"""yogurt""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q192892&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000183,ingredient_relationship,"""table salt""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q192892&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000183,ingredient_relationship,"""drinking water""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q192892&format=json
+CORPUS-FOOD-FOO-MIDEAST-0000183,ingredient_relationship,"""milk""",https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q192892&format=json
