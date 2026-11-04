@@ -1,0 +1,23 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG05-CAT08-ERA07-2010S-ASAHI-CLASS-DESTROYER-MITSUBISHI-HEAVY-INDUSTRIES,descriptive_identity,Destroyer,https://en.wikipedia.org/wiki/Asahi-class_destroyer
+IDB-REG05-CAT08-ERA07-2010S-ASAHI-CLASS-DESTROYER-MITSUBISHI-HEAVY-INDUSTRIES,dimension_length,151000,https://en.wikipedia.org/wiki/Asahi-class_destroyer
+IDB-REG05-CAT08-ERA07-2010S-ASAHI-CLASS-DESTROYER-MITSUBISHI-HEAVY-INDUSTRIES,draft,5400,https://en.wikipedia.org/wiki/Asahi-class_destroyer
+LIBSRC-LIB44-ENT-VEH-0041347,dimension_length,34500,https://en.wikipedia.org/wiki/Russian_frigate_Shtandart
+LIBSRC-LIB44-ENT-VEH-0041347,draft,3300,https://en.wikipedia.org/wiki/Russian_frigate_Shtandart
+LIBSRC-LIB44-ENT-VEH-0041347,identity_label,Shtandart,https://en.wikipedia.org/wiki/Russian_frigate_Shtandart
+LIBSRC-LIB44-ENT-VEH-0041347,manufacturer_or_creator,Shipyard of Olonets city,https://en.wikipedia.org/wiki/Russian_frigate_Shtandart
+LIBSRC-LIB44-ENT-VEH-0044841,descriptive_identity,Royal Yacht,https://en.wikipedia.org/wiki/SMY_Hohenzollern
+LIBSRC-LIB44-ENT-VEH-0044841,dimension_length,120000,https://en.wikipedia.org/wiki/SMY_Hohenzollern
+LIBSRC-LIB44-ENT-VEH-0044841,draft,4800,https://en.wikipedia.org/wiki/SMY_Hohenzollern
+LIBSRC-LIB44-ENT-VEH-0044841,identity_label,S.M.Y. Hohenzollern III,https://en.wikipedia.org/wiki/SMY_Hohenzollern
+LIBSRC-LIB44-ENT-VEH-0044841,manufacturer_or_creator,AG Vulcan Stettin,https://en.wikipedia.org/wiki/SMY_Hohenzollern
+LIBSRC-LIB44-ENT-VEH-0044863,descriptive_identity,Fort,https://en.wikipedia.org/wiki/Fort_of_Le%C3%A7a_da_Palmeira
+LIBSRC-LIB44-ENT-VEH-0132831,descriptive_identity,Q11879590,https://www.wikidata.org/wiki/Q3934354
+LIBSRC-LIB44-ENT-VEH-0132831,identity_label,Ricarda,https://www.wikidata.org/wiki/Q3934354
+LIBSRC-LIB44-ENT-VEH-0132883,descriptive_identity,sailing yacht,https://en.wikipedia.org/wiki/Maltese_Falcon_%28yacht%29
+LIBSRC-LIB44-ENT-VEH-0132883,dimension_length,88100,https://en.wikipedia.org/wiki/Maltese_Falcon_%28yacht%29
+LIBSRC-LIB44-ENT-VEH-0132883,draft,11000,https://en.wikipedia.org/wiki/Maltese_Falcon_%28yacht%29
+LIBSRC-LIB44-ENT-VEH-0132883,identity_label,Maltese Falcon,https://en.wikipedia.org/wiki/Maltese_Falcon_%28yacht%29
+LIBSRC-LIB44-ENT-VEH-0132883,manufacturer_or_creator,"Perini Navi, Dearsan Shipyards, Tuzla, Istanbul",https://en.wikipedia.org/wiki/Maltese_Falcon_%28yacht%29
+LIBSRC-LIB44-ENT-VEH-0133437,descriptive_identity,Pinnace,https://en.wikipedia.org/wiki/Kalmar_Nyckel
+LIBSRC-LIB44-ENT-VEH-0133437,identity_label,Kalmar Nyckel,https://en.wikipedia.org/wiki/Kalmar_Nyckel
