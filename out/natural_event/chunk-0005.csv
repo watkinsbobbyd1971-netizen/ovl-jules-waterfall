@@ -1,0 +1,107 @@
+canonical_dedup_key,column_name,value,source_url
+CAT20_REG_04_ERA_05_2021_893_ardabil_earthquake_ent_dis_0000194,location,Iran,http://www.wikidata.org/entity/Q4645112
+CAT20_REG_04_ERA_05_2021_893_ardabil_earthquake_ent_dis_0000194,event_type,earthquake,http://www.wikidata.org/entity/Q4645112
+CAT20_REG_04_ERA_05_2021_893_ardabil_earthquake_ent_dis_0000194,phenomenon_time,0893-03-27T00:00:00Z,http://www.wikidata.org/entity/Q4645112
+CAT20_REG_04_ERA_05_2021_893_ardabil_earthquake_ent_dis_0000194,location,Point(48.2 38.2),http://www.wikidata.org/entity/Q4645112
+CAT20_REG_01_ERA_07_2022_1906_aleutian_islands_earthquake_ent_dis_0001911,event_type,earthquake,http://www.wikidata.org/entity/Q4558487
+CAT20_REG_01_ERA_07_2022_1906_aleutian_islands_earthquake_ent_dis_0001911,phenomenon_time,1906-08-17T00:00:00Z,http://www.wikidata.org/entity/Q4558487
+CAT20_REG_01_ERA_07_2022_1906_aleutian_islands_earthquake_ent_dis_0001911,location,Point(-178.36 50.6),http://www.wikidata.org/entity/Q4558487
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP146-REC29141,location,Chile,http://www.wikidata.org/entity/Q2834857
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP146-REC29141,location,Argentina,http://www.wikidata.org/entity/Q2834857
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP146-REC29141,event_type,earthquake,http://www.wikidata.org/entity/Q2834857
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP146-REC29141,event_type,natural disaster,http://www.wikidata.org/entity/Q2834857
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP146-REC29141,event_type,disaster,http://www.wikidata.org/entity/Q2834857
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP146-REC29141,phenomenon_time,1949-12-17T00:00:00Z,http://www.wikidata.org/entity/Q2834857
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP146-REC29141,location,Point(-69.596 -53.923),http://www.wikidata.org/entity/Q2834857
+IDB-REG_04-CAT_17-ERA_07-2025-ACC05-HOP147-REC29274,location,Mongolia,http://www.wikidata.org/entity/Q5914014
+IDB-REG_04-CAT_17-ERA_07-2025-ACC05-HOP147-REC29274,event_type,earthquake,http://www.wikidata.org/entity/Q5914014
+IDB-REG_04-CAT_17-ERA_07-2025-ACC05-HOP147-REC29274,phenomenon_time,1957-12-04T00:00:00Z,http://www.wikidata.org/entity/Q5914014
+IDB-REG_04-CAT_17-ERA_07-2025-ACC05-HOP147-REC29274,location,Point(99.368 45.189),http://www.wikidata.org/entity/Q5914014
+IDB-REG_04-CAT_15-ERA_07-2025-ACC05-HOP137-REC27244,location,Chile,http://www.wikidata.org/entity/Q4551488
+IDB-REG_04-CAT_15-ERA_07-2025-ACC05-HOP137-REC27244,event_type,earthquake,http://www.wikidata.org/entity/Q4551488
+IDB-REG_04-CAT_15-ERA_07-2025-ACC05-HOP137-REC27244,event_type,natural disaster,http://www.wikidata.org/entity/Q4551488
+IDB-REG_04-CAT_15-ERA_07-2025-ACC05-HOP137-REC27244,event_type,disaster,http://www.wikidata.org/entity/Q4551488
+IDB-REG_04-CAT_15-ERA_07-2025-ACC05-HOP137-REC27244,phenomenon_time,1647-01-01T00:00:00Z,http://www.wikidata.org/entity/Q4551488
+IDB-REG_04-CAT_15-ERA_07-2025-ACC05-HOP137-REC27244,location,Point(-70.6 -33.4),http://www.wikidata.org/entity/Q4551488
+IDB-REG_01-CAT_17-ERA_07-2025-ACC05-HOP157-REC31311,event_type,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q841223
+IDB-REG_03-CAT_15-ERA_07-2025-ACC05-HOP163-REC32473,location,Philippines,http://www.wikidata.org/entity/Q30637192
+IDB-REG_03-CAT_15-ERA_07-2025-ACC05-HOP163-REC32473,event_type,earthquake,http://www.wikidata.org/entity/Q30637192
+IDB-REG_03-CAT_15-ERA_07-2025-ACC05-HOP163-REC32473,event_type,natural disaster,http://www.wikidata.org/entity/Q30637192
+IDB-REG_03-CAT_15-ERA_07-2025-ACC05-HOP163-REC32473,event_type,disaster,http://www.wikidata.org/entity/Q30637192
+IDB-REG_03-CAT_15-ERA_07-2025-ACC05-HOP163-REC32473,phenomenon_time,2017-04-28T00:00:00Z,http://www.wikidata.org/entity/Q30637192
+IDB-REG_03-CAT_15-ERA_07-2025-ACC05-HOP163-REC32473,location,Point(125.066 5.504),http://www.wikidata.org/entity/Q30637192
+IDB-REG_04-CAT_16-ERA_07-2025-ACC05-HOP154-REC30674,location,Indonesia,http://www.wikidata.org/entity/Q20180189
+IDB-REG_04-CAT_16-ERA_07-2025-ACC05-HOP154-REC30674,event_type,earthquake,http://www.wikidata.org/entity/Q20180189
+IDB-REG_04-CAT_16-ERA_07-2025-ACC05-HOP154-REC30674,phenomenon_time,1629-08-01T00:00:00Z,http://www.wikidata.org/entity/Q20180189
+IDB-REG_04-CAT_16-ERA_07-2025-ACC05-HOP154-REC30674,location,Point(129.9 -4.6),http://www.wikidata.org/entity/Q20180189
+IDB-REG_03-CAT_15-ERA_07-2025-ACC05-HOP148-REC29533,location,Italy,http://www.wikidata.org/entity/Q3984725
+IDB-REG_03-CAT_15-ERA_07-2025-ACC05-HOP148-REC29533,event_type,earthquake,http://www.wikidata.org/entity/Q3984725
+IDB-REG_03-CAT_15-ERA_07-2025-ACC05-HOP148-REC29533,phenomenon_time,1971-02-06T00:00:00Z,http://www.wikidata.org/entity/Q3984725
+IDB-REG_03-CAT_15-ERA_07-2025-ACC05-HOP148-REC29533,location,Point(11.87 42.4187),http://www.wikidata.org/entity/Q3984725
+IDB-REG_02-CAT_17-ERA_07-2025-ACC05-HOP165-REC32802,location,Greece,http://www.wikidata.org/entity/Q108708406
+IDB-REG_02-CAT_17-ERA_07-2025-ACC05-HOP165-REC32802,event_type,earthquake,http://www.wikidata.org/entity/Q108708406
+IDB-REG_02-CAT_17-ERA_07-2025-ACC05-HOP165-REC32802,event_type,natural disaster,http://www.wikidata.org/entity/Q108708406
+IDB-REG_02-CAT_17-ERA_07-2025-ACC05-HOP165-REC32802,event_type,disaster,http://www.wikidata.org/entity/Q108708406
+IDB-REG_02-CAT_17-ERA_07-2025-ACC05-HOP165-REC32802,location,Crete,http://www.wikidata.org/entity/Q108708406
+IDB-REG_02-CAT_17-ERA_07-2025-ACC05-HOP165-REC32802,phenomenon_time,2021-09-27T00:00:00Z,http://www.wikidata.org/entity/Q108708406
+IDB-REG_02-CAT_17-ERA_07-2025-ACC05-HOP165-REC32802,location,Point(25.2935 35.1085),http://www.wikidata.org/entity/Q108708406
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP141-REC28091,location,United States,http://www.wikidata.org/entity/Q4555367
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP141-REC28091,event_type,earthquake,http://www.wikidata.org/entity/Q4555367
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP141-REC28091,phenomenon_time,1872-01-01T00:00:00Z,http://www.wikidata.org/entity/Q4555367
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP141-REC28091,location,Point(-118.06 36.61),http://www.wikidata.org/entity/Q4555367
+IDB-REG_03-CAT_16-ERA_07-2025-ACC05-HOP166-REC33173,location,Mexico,http://www.wikidata.org/entity/Q137663507
+IDB-REG_03-CAT_16-ERA_07-2025-ACC05-HOP166-REC33173,event_type,earthquake,http://www.wikidata.org/entity/Q137663507
+IDB-REG_03-CAT_16-ERA_07-2025-ACC05-HOP166-REC33173,phenomenon_time,2026-01-02T00:00:00Z,http://www.wikidata.org/entity/Q137663507
+IDB-REG_03-CAT_16-ERA_07-2025-ACC05-HOP166-REC33173,location,Point(-99.303 16.902),http://www.wikidata.org/entity/Q137663507
+IDB-REG_03-CAT_16-ERA_07-2025-ACC05-HOP166-REC33173,duration,33,http://www.wikidata.org/entity/Q137663507
+IDB-REG_04-CAT_15-ERA_07-2025-ACC05-HOP139-REC27664,location,Japan,http://www.wikidata.org/entity/Q11634365
+IDB-REG_04-CAT_15-ERA_07-2025-ACC05-HOP139-REC27664,event_type,earthquake in Japan,http://www.wikidata.org/entity/Q11634365
+IDB-REG_04-CAT_15-ERA_07-2025-ACC05-HOP139-REC27664,phenomenon_time,1804-07-10T00:00:00Z,http://www.wikidata.org/entity/Q11634365
+IDB-REG_04-CAT_15-ERA_07-2025-ACC05-HOP139-REC27664,location,Point(139.95 39.05),http://www.wikidata.org/entity/Q11634365
+IDB-REG_04-CAT_17-ERA_07-2025-ACC05-HOP150-REC29904,location,Mexico,http://www.wikidata.org/entity/Q1798567
+IDB-REG_04-CAT_17-ERA_07-2025-ACC05-HOP150-REC29904,event_type,earthquake,http://www.wikidata.org/entity/Q1798567
+IDB-REG_04-CAT_17-ERA_07-2025-ACC05-HOP150-REC29904,location,Mexico City,http://www.wikidata.org/entity/Q1798567
+IDB-REG_04-CAT_17-ERA_07-2025-ACC05-HOP150-REC29904,phenomenon_time,1985-09-19T00:00:00Z,http://www.wikidata.org/entity/Q1798567
+IDB-REG_04-CAT_17-ERA_07-2025-ACC05-HOP150-REC29904,location,Point(-102.53 18.19),http://www.wikidata.org/entity/Q1798567
+IDB-REG_04-CAT_17-ERA_07-2025-ACC05-HOP150-REC29904,magnitude_with_scale,8,http://www.wikidata.org/entity/Q1798567
+LIBSRC-LIB57-ENT-DIS-0001033,location,Iran,http://www.wikidata.org/entity/Q55600396
+LIBSRC-LIB57-ENT-DIS-0001033,event_type,earthquake,http://www.wikidata.org/entity/Q55600396
+LIBSRC-LIB57-ENT-DIS-0001033,phenomenon_time,1780-01-08T00:00:00Z,http://www.wikidata.org/entity/Q55600396
+LIBSRC-LIB57-ENT-DIS-0001033,location,Point(46.0 38.2),http://www.wikidata.org/entity/Q55600396
+LIBSRC-LIB57-ENT-DIS-0004765,event_type,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q841223
+LIBSRC-LIB57-ENT-DIS-0004775,location,India,http://www.wikidata.org/entity/Q4606332
+LIBSRC-LIB57-ENT-DIS-0004775,event_type,earthquake,http://www.wikidata.org/entity/Q4606332
+LIBSRC-LIB57-ENT-DIS-0004775,phenomenon_time,2006-01-01T00:00:00Z,http://www.wikidata.org/entity/Q4606332
+LIBSRC-LIB57-ENT-DIS-0004775,location,Point(70.682 23.726),http://www.wikidata.org/entity/Q4606332
+LIBSRC-LIB57-ENT-DIS-0002987,location,Italy,http://www.wikidata.org/entity/Q3984725
+LIBSRC-LIB57-ENT-DIS-0002987,event_type,earthquake,http://www.wikidata.org/entity/Q3984725
+LIBSRC-LIB57-ENT-DIS-0002987,phenomenon_time,1971-02-06T00:00:00Z,http://www.wikidata.org/entity/Q3984725
+LIBSRC-LIB57-ENT-DIS-0002987,location,Point(11.87 42.4187),http://www.wikidata.org/entity/Q3984725
+LIBSRC-LIB57-ENT-DIS-0001354,event_type,earthquake,http://www.wikidata.org/entity/Q97300522
+LIBSRC-LIB57-ENT-DIS-0001354,phenomenon_time,1850-09-12T00:00:00Z,http://www.wikidata.org/entity/Q97300522
+LIBSRC-LIB57-ENT-DIS-0001354,location,Point(102.06666667 27.11666667),http://www.wikidata.org/entity/Q97300522
+LIBSRC-LIB57-ENT-DIS-0007473,event_type,volcanic eruption,http://www.wikidata.org/entity/Q141984325
+LIBSRC-LIB57-ENT-DIS-0007473,location,Reventador,http://www.wikidata.org/entity/Q141984325
+LIBSRC-LIB57-ENT-DIS-0007473,phenomenon_time,2002-11-03T00:00:00Z,http://www.wikidata.org/entity/Q141984325
+LIBSRC-LIB57-ENT-DIS-0007473,phenomenon_time,2003-01-10T00:00:00Z,http://www.wikidata.org/entity/Q141984325
+LIBSRC-LIB57-ENT-DIS-0003384,location,United States,http://www.wikidata.org/entity/Q4582911
+LIBSRC-LIB57-ENT-DIS-0003384,event_type,earthquake,http://www.wikidata.org/entity/Q4582911
+LIBSRC-LIB57-ENT-DIS-0003384,phenomenon_time,1986-07-21T00:00:00Z,http://www.wikidata.org/entity/Q4582911
+LIBSRC-LIB57-ENT-DIS-0003384,location,Point(-118.45 37.53),http://www.wikidata.org/entity/Q4582911
+LIBSRC-LIB57-ENT-DIS-0006202,location,Croatia,http://www.wikidata.org/entity/Q104535090
+LIBSRC-LIB57-ENT-DIS-0006202,event_type,earthquake,http://www.wikidata.org/entity/Q104535090
+LIBSRC-LIB57-ENT-DIS-0006202,location,Sisak-Moslavina County,http://www.wikidata.org/entity/Q104535090
+LIBSRC-LIB57-ENT-DIS-0006202,phenomenon_time,2020-12-29T00:00:00Z,http://www.wikidata.org/entity/Q104535090
+LIBSRC-LIB57-ENT-DIS-0006202,location,Point(16.255 45.422),http://www.wikidata.org/entity/Q104535090
+LIBSRC-LIB57-ENT-DIS-0006202,magnitude_with_scale,6.4,http://www.wikidata.org/entity/Q104535090
+LIBSRC-LIB57-ENT-DIS-0006262,location,Greece,http://www.wikidata.org/entity/Q108708406
+LIBSRC-LIB57-ENT-DIS-0006262,event_type,earthquake,http://www.wikidata.org/entity/Q108708406
+LIBSRC-LIB57-ENT-DIS-0006262,event_type,natural disaster,http://www.wikidata.org/entity/Q108708406
+LIBSRC-LIB57-ENT-DIS-0006262,event_type,disaster,http://www.wikidata.org/entity/Q108708406
+LIBSRC-LIB57-ENT-DIS-0006262,location,Crete,http://www.wikidata.org/entity/Q108708406
+LIBSRC-LIB57-ENT-DIS-0006262,phenomenon_time,2021-09-27T00:00:00Z,http://www.wikidata.org/entity/Q108708406
+LIBSRC-LIB57-ENT-DIS-0006262,location,Point(25.2935 35.1085),http://www.wikidata.org/entity/Q108708406
+LIBSRC-LIB57-ENT-DIS-0000194,location,Iran,http://www.wikidata.org/entity/Q4645112
+LIBSRC-LIB57-ENT-DIS-0000194,event_type,earthquake,http://www.wikidata.org/entity/Q4645112
+LIBSRC-LIB57-ENT-DIS-0000194,phenomenon_time,0893-03-27T00:00:00Z,http://www.wikidata.org/entity/Q4645112
+LIBSRC-LIB57-ENT-DIS-0000194,location,Point(48.2 38.2),http://www.wikidata.org/entity/Q4645112
