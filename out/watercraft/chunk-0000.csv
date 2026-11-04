@@ -1,0 +1,30 @@
+canonical_dedup_key,column_name,value,source_url
+DRV-CORPUS-L02-0004911,mass,2914000.0,http://www.wikidata.org/entity/Q205408
+DRV-CORPUS-L02-0003785,mass,202800.0,http://www.wikidata.org/entity/Q208984
+DRV-CORPUS-L02-0003785,manufacturer_or_creator,"Jet Propulsion Laboratory",http://www.wikidata.org/entity/Q208984
+DRV-CORPUS-L02-0005503,mass,4713000.0,http://www.wikidata.org/entity/Q269668
+DRV-CORPUS-L02-0005503,dimension_length,56000.0,http://www.wikidata.org/entity/Q117080092
+DRV-CORPUS-L02-0005503,manufacturer_or_creator,"Niigata Shipbuilding & Repair",http://www.wikidata.org/entity/Q117080092
+DRV-CORPUS-L02-0003617,dimension_length,11430.0,http://www.wikidata.org/entity/Q327075
+DRV-CORPUS-L02-0003617,mass,809000.0,http://www.wikidata.org/entity/Q327075
+DRV-CORPUS-L02-0003617,manufacturer_or_creator,"Lockheed Martin Space",http://www.wikidata.org/entity/Q327075
+DRV-CORPUS-L02-0003617,propulsion_type,"lithium-ion battery",http://www.wikidata.org/entity/Q327075
+DRV-CORPUS-L02-0003617,propulsion_type,"spacecraft solar array",http://www.wikidata.org/entity/Q327075
+DRV-CORPUS-L02-0003617,mass,2454000.0,http://www.wikidata.org/entity/Q327075
+DRV-CORPUS-L02-0002382,dimension_length,29700.0,http://www.wikidata.org/entity/Q486066
+DRV-CORPUS-L02-0002382,manufacturer_or_creator,"Komsomolsk-on-Amur Aircraft Production Association",http://www.wikidata.org/entity/Q486066
+DRV-CORPUS-L02-0002382,propulsion_type,"PowerJet SaM146",http://www.wikidata.org/entity/Q486066
+DRV-CORPUS-L02-0002382,manufacturer_or_creator,"Yakovlev Corporation",http://www.wikidata.org/entity/Q486066
+IDB-REG04-CAT08-ERA01-ACC03-HOP1480-REC295894-LIBSRC-LIB48-ENT-ULN-0073165,dimension_length,148000.0,http://www.wikidata.org/entity/Q122785358
+IDB-REG04-CAT08-ERA01-ACC03-HOP1480-REC295894-LIBSRC-LIB48-ENT-ULN-0073165,dimension_length,48000.0,http://www.wikidata.org/entity/Q122787274
+IDB-REG04-CAT08-ERA01-ACC03-HOP1480-REC295894-LIBSRC-LIB48-ENT-ULN-0073165,dimension_length,3300.990498,http://www.wikidata.org/entity/Q141715329
+IDB-REG04-CAT08-ERA01-ACC03-HOP1480-REC295894-LIBSRC-LIB48-ENT-ULN-0073165,draft,1219.2024,http://www.wikidata.org/entity/Q141715329
+IDB-REG04-CAT08-ERA01-ACC03-HOP1480-REC295894-LIBSRC-LIB48-ENT-ULN-0073165,mass,81646.6266,http://www.wikidata.org/entity/Q141715329
+IDB-REG04-CAT08-ERA01-ACC03-HOP1480-REC295894-LIBSRC-LIB48-ENT-ULN-0073165,manufacturer_or_creator,"P. Evanson Boat Company",http://www.wikidata.org/entity/Q141715329
+IDB-REG04-CAT08-ERA01-ACC03-HOP1480-REC295894-LIBSRC-LIB48-ENT-ULN-0073165,dimension_length,3096.7740959999996,http://www.wikidata.org/entity/Q141715329
+IDB-REG04-CAT08-ERA01-ACC03-HOP1616-REC323054-LIBSRC-LIB48-ENT-ULN-0100325,dimension_length,67000.0,http://www.wikidata.org/entity/Q115574012
+IDB-REG04-CAT08-ERA01-ACC03-HOP1616-REC323054-LIBSRC-LIB48-ENT-ULN-0100325,manufacturer_or_creator,"Vard Brattvaag",http://www.wikidata.org/entity/Q115574012
+IDB-REG04-CAT08-ERA01-ACC03-HOP1616-REC323054-LIBSRC-LIB48-ENT-ULN-0100325,dimension_length,149000.0,http://www.wikidata.org/entity/Q122800288
+IDB-REG04-CAT08-ERA01-ACC03-HOP2477-REC495254-LIBSRC-LIB48-ENT-ULN-0272525,dimension_length,291740.0,http://www.wikidata.org/entity/Q84262558
+IDB-REG04-CAT08-ERA01-ACC03-HOP2477-REC495254-LIBSRC-LIB48-ENT-ULN-0272525,draft,18400.0,http://www.wikidata.org/entity/Q84262558
+IDB-REG04-CAT08-ERA01-ACC03-HOP2454-REC490634-LIBSRC-LIB48-ENT-ULN-0267905,manufacturer_or_creator,"John Lewis and Sons Limited",http://www.wikidata.org/entity/Q97983682
