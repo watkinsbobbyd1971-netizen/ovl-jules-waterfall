@@ -1,0 +1,10 @@
+column_name,data_type,unit,description
+component_relationship,JSON,,value types: string
+construction_date,JSON,,value types: string
+creator_or_attribution,JSON,,value types: string
+descriptive_identity,JSON,,value types: string
+dimension_length,JSON,mm,value types: number
+identity_label,JSON,,value types: string
+location,JSON,,value types: string
+material_identity,JSON,,value types: string
+structural_relationship,JSON,,value types: string
