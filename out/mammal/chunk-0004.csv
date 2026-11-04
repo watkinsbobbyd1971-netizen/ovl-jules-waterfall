@@ -1,0 +1,16 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_03-CAT_13-ERA_01-1200-ACC04-HOP16289-REC3257703,scientific_identity,"Leptonychotes weddellii (Lesson, 1826)",https://api.gbif.org/v1/species/2434784
+IDB-REG_03-CAT_13-ERA_01-1200-ACC04-HOP16289-REC3257703,taxon_authority,"(Lesson, 1826) ",https://api.gbif.org/v1/species/2434784
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP18806-REC3761073,scientific_identity,Pebble-mound mice,https://api.gbif.org/v1/species/165474763
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP18764-REC3752673,scientific_identity,Gazella (Wagner 1848) Blainville 1816,https://api.gbif.org/v1/species/225696757
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP18764-REC3752673,taxon_authority,"(Wagner, 1848) Blainville, 1816",https://api.gbif.org/v1/species/225696757
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP13812-REC2762313,scientific_identity,"Pardus Fitzinger, 1868",https://api.gbif.org/v1/species/4833936
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP13812-REC2762313,taxon_authority,"Fitzinger, 1868",https://api.gbif.org/v1/species/4833936
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP18842-REC3768353,scientific_identity,"Odobenus Brisson, 1762",https://api.gbif.org/v1/species/202603297
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP18842-REC3768353,taxon_authority,"Brisson, 1762",https://api.gbif.org/v1/species/202603297
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP15517-REC3103213,scientific_identity,"Funisciurus Trouessart, 1880",https://api.gbif.org/v1/species/102122516
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP15517-REC3103213,taxon_authority,"Trouessart, 1880",https://api.gbif.org/v1/species/102122516
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP18006-REC3601193,scientific_identity,Gazella (Wagner 1848) Blainville 1816,https://api.gbif.org/v1/species/225696757
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP18006-REC3601193,taxon_authority,"(Wagner, 1848) Blainville, 1816",https://api.gbif.org/v1/species/225696757
+IDB-REG_02-CAT_14-ERA_01-1200-ACC04-HOP17206-REC3441012,scientific_identity,Cervus elaphus Linnaeus 1758,https://api.gbif.org/v1/species/308661409
+IDB-REG_02-CAT_14-ERA_01-1200-ACC04-HOP17206-REC3441012,taxon_authority,"Linnaeus, 1758",https://api.gbif.org/v1/species/308661409
