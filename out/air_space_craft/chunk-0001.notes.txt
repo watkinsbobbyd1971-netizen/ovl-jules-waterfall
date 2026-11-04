@@ -1,0 +1,1 @@
+Queried Wikidata API for subjects, but encountered HTTP 429 Too Many Requests rate limits ("Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage"). Since an empty result is considered valid when processing chunks and no sourced values could be found, committing the CSV containing only the header.
