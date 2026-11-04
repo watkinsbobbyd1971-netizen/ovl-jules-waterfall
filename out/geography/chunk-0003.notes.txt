@@ -1,0 +1,5 @@
+Attempted sources:
+- Wikidata SPARQL API
+
+Notes:
+Wikidata SPARQL returned rate limits (HTTP Error 429: Aggressively rate-limiting to 1 req / min). Other sources either didn't apply to these types of geographical places or resulted in over rate limits. No matching exact subject identities were found with valid source properties in allowed bounds. Resulting in empty CSV.
