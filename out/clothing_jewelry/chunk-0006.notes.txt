@@ -1,0 +1,1 @@
+Attempted to fetch data from the Smithsonian Open Access API since the entities are all Smithsonian (SMI) related, but the API returned HTTP Error 429: Too Many Requests due to rate limits with the DEMO_KEY. Therefore, no sourced values could be added.
