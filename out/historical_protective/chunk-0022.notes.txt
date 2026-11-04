@@ -1,0 +1,4 @@
+Attempted to search for subjects in Wikidata, Art Institute of Chicago, Cleveland Museum of Art, and Europeana.
+Smithsonian API requires credentials, which is forbidden.
+Wikidata returned aggressive 429 Too Many Requests rate limits even with custom UUID User-Agents.
+No matches found for cultural artifacts outside the Smithsonian.
