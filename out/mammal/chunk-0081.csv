@@ -1,0 +1,8 @@
+canonical_dedup_key,column_name,value,source_url
+CORPUS-ANIMALS-ANI-MAML-0000034,life_stage,"""adult""",https://www.gbif.org/species/5219153
+CORPUS-ANIMALS-ANI-MAML-0000392,life_stage,"""adult""",https://www.gbif.org/species/2440911
+CORPUS-ANIMALS-ANI-MAML-0000392,sex,"""male""",https://www.gbif.org/species/2440911
+CORPUS-ANIMALS-ANI-MAML-0000397,life_stage,"""adult""",https://www.gbif.org/species/5220174
+CORPUS-ANIMALS-ANI-MAML-0000397,sex,"""male""",https://www.gbif.org/species/5220174
+CORPUS-ANIMALS-ANI-MAML-0000644,life_stage,"""adult""",https://www.gbif.org/species/2440957
+CORPUS-ANIMALS-ANI-MAML-0000644,sex,"""male""",https://www.gbif.org/species/2440957
