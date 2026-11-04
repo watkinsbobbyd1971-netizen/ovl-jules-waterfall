@@ -1,0 +1,1 @@
+Attempted to match subjects in Wikidata, GBIF, etc., but the subjects in this chunk (e.g., 'Inlaid Wood Stands', 'Basket', 'Wristband') are generic object types and highly ambiguous. No exact species or specific entity matches could be found to extract strict biological or descriptive properties (e.g., body_mass, anatomical_length) with real sources.
