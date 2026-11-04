@@ -1,0 +1,1 @@
+Attempted to find exact matches for subjects using the GBIF Species Match API (/v1/species/match) and search fallback for birds (class='aves'). False positives rejected using matchType=EXACT and string matching on scientificName/vernacularName.
