@@ -1,0 +1,374 @@
+canonical_dedup_key,column_name,value,source_url
+CORPUS-FOOD-FOO-LATAM-0000321,food_identity,Arroz atollado,https://www.wikidata.org/wiki/Q5706291
+CORPUS-FOOD-FOO-LATAM-0000321,identity_label,Arroz atollado,https://www.wikidata.org/wiki/Q5706291
+CORPUS-FOOD-FOO-LATAM-0000321,ingredient_relationship,potato,https://www.wikidata.org/wiki/Q5706291
+CORPUS-FOOD-FOO-LATAM-0000321,ingredient_relationship,rice,https://www.wikidata.org/wiki/Q5706291
+CORPUS-FOOD-FOO-SEASIA-0000278,food_identity,maja blanca,https://www.wikidata.org/wiki/Q17077846
+CORPUS-FOOD-FOO-SEASIA-0000278,identity_label,maja blanca,https://www.wikidata.org/wiki/Q17077846
+CORPUS-FOOD-FOO-SEASIA-0000278,descriptive_identity,Filipino dessert,https://www.wikidata.org/wiki/Q17077846
+CORPUS-FOOD-FOO-SEASIA-0000278,ingredient_relationship,coconut milk,https://www.wikidata.org/wiki/Q17077846
+CORPUS-FOOD-FOO-SASIA-0000064,food_identity,Laal maans,https://www.wikidata.org/wiki/Q6466556
+CORPUS-FOOD-FOO-SASIA-0000064,identity_label,Laal maans,https://www.wikidata.org/wiki/Q6466556
+CORPUS-FOOD-FOO-SASIA-0000064,descriptive_identity,ethnic food of Rajasthan,https://www.wikidata.org/wiki/Q6466556
+CORPUS-FOOD-FOO-SASIA-0000064,ingredient_relationship,lamb meat,https://www.wikidata.org/wiki/Q6466556
+CORPUS-FOOD-FOO-AFRI-0000089,food_identity,bunny chow,https://www.wikidata.org/wiki/Q4997887
+CORPUS-FOOD-FOO-AFRI-0000089,identity_label,bunny chow,https://www.wikidata.org/wiki/Q4997887
+CORPUS-FOOD-FOO-AFRI-0000089,descriptive_identity,South African dish consisting of a hollowed-out loaf of white bread filled with curry,https://www.wikidata.org/wiki/Q4997887
+CORPUS-FOOD-FOO-AFRI-0000089,ingredient_relationship,white bread,https://www.wikidata.org/wiki/Q4997887
+CORPUS-FOOD-FOO-AFRI-0000089,ingredient_relationship,curry,https://www.wikidata.org/wiki/Q4997887
+CORPUS-FOOD-FOO-SEASIA-0000258,food_identity,xôi,https://www.wikidata.org/wiki/Q3543273
+CORPUS-FOOD-FOO-SEASIA-0000258,identity_label,xôi,https://www.wikidata.org/wiki/Q3543273
+CORPUS-FOOD-FOO-SEASIA-0000258,descriptive_identity,Vietnamese rice dish,https://www.wikidata.org/wiki/Q3543273
+CORPUS-FOOD-FOO-SEASIA-0000258,ingredient_relationship,glutinous rice,https://www.wikidata.org/wiki/Q3543273
+CORPUS-FOOD-FOO-NAME-0000091,food_identity,jerk chicken,https://www.wikidata.org/wiki/Q94642789
+CORPUS-FOOD-FOO-NAME-0000091,identity_label,jerk chicken,https://www.wikidata.org/wiki/Q94642789
+CORPUS-FOOD-FOO-NAME-0000091,descriptive_identity,dish,https://www.wikidata.org/wiki/Q94642789
+CORPUS-FOOD-FOO-NAME-0000091,ingredient_relationship,jerk spice,https://www.wikidata.org/wiki/Q94642789
+CORPUS-FOOD-FOO-NAME-0000091,ingredient_relationship,chicken,https://www.wikidata.org/wiki/Q94642789
+CORPUS-FOOD-FOO-SASIA-0000188,food_identity,Alu tama,https://www.wikidata.org/wiki/Q30692629
+CORPUS-FOOD-FOO-SASIA-0000188,identity_label,Alu tama,https://www.wikidata.org/wiki/Q30692629
+CORPUS-FOOD-FOO-SASIA-0000188,descriptive_identity,Nepali soup,https://www.wikidata.org/wiki/Q30692629
+CORPUS-FOOD-FOO-LATAM-0000283,food_identity,toaster,https://www.wikidata.org/wiki/Q14890
+CORPUS-FOOD-FOO-LATAM-0000283,identity_label,toaster,https://www.wikidata.org/wiki/Q14890
+CORPUS-FOOD-FOO-LATAM-0000283,descriptive_identity,small oven for cooking bread,https://www.wikidata.org/wiki/Q14890
+CORPUS-FOOD-FOO-LATAM-0000283,ingredient_relationship,heating element,https://www.wikidata.org/wiki/Q14890
+CORPUS-FOOD-FOO-SEASIA-0000216,food_identity,Bika Ambon,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-SEASIA-0000216,identity_label,Bika Ambon,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-SEASIA-0000216,descriptive_identity,traditional Indonesian cake originating from Medan made from tapioca flour,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-SEASIA-0000216,ingredient_relationship,flour,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-SEASIA-0000216,ingredient_relationship,sugar,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-SEASIA-0000216,ingredient_relationship,egg as food,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-SEASIA-0000216,ingredient_relationship,coconut milk,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-SEASIA-0000216,ingredient_relationship,hot water,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-SEASIA-0000216,ingredient_relationship,coconut,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-SEASIA-0000216,ingredient_relationship,sago flour,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-SEASIA-0000216,ingredient_relationship,Kaffir Lime Leaf,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-SEASIA-0000216,ingredient_relationship,table salt,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-SEASIA-0000216,ingredient_relationship,turmeric rhizome,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-SEASIA-0000216,ingredient_relationship,Q427457,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-SEASIA-0000216,ingredient_relationship,Q4287,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-SEASIA-0000216,ingredient_relationship,Q2098111,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-SEASIA-0000216,ingredient_relationship,Pandanus amaryllifolius,https://www.wikidata.org/wiki/Q4907305
+CORPUS-FOOD-FOO-LATAM-0000192,food_identity,garrapiñada,https://www.wikidata.org/wiki/Q5875513
+CORPUS-FOOD-FOO-LATAM-0000192,identity_label,garrapiñada,https://www.wikidata.org/wiki/Q5875513
+CORPUS-FOOD-FOO-LATAM-0000192,descriptive_identity,Uruguayan peanut snack,https://www.wikidata.org/wiki/Q5875513
+CORPUS-FOOD-FOO-LATAM-0000192,ingredient_relationship,peanut,https://www.wikidata.org/wiki/Q5875513
+CORPUS-FOOD-FOO-SEASIA-0000103,food_identity,tom kha kai,https://www.wikidata.org/wiki/Q2268672
+CORPUS-FOOD-FOO-SEASIA-0000103,identity_label,tom kha kai,https://www.wikidata.org/wiki/Q2268672
+CORPUS-FOOD-FOO-SEASIA-0000103,descriptive_identity,Thai coconut milk and chicken soup,https://www.wikidata.org/wiki/Q2268672
+CORPUS-FOOD-FOO-SEASIA-0000103,ingredient_relationship,Agaricus bisporus,https://www.wikidata.org/wiki/Q2268672
+CORPUS-FOOD-FOO-SEASIA-0000103,ingredient_relationship,Alpinia galanga,https://www.wikidata.org/wiki/Q2268672
+CORPUS-FOOD-FOO-SEASIA-0000103,ingredient_relationship,coconut milk,https://www.wikidata.org/wiki/Q2268672
+CORPUS-FOOD-FOO-SEASIA-0000103,ingredient_relationship,chicken as food,https://www.wikidata.org/wiki/Q2268672
+CORPUS-FOOD-FOO-SEASIA-0000103,ingredient_relationship,Cymbopogon citratus,https://www.wikidata.org/wiki/Q2268672
+CORPUS-FOOD-FOO-MIDEAST-0000037,food_identity,kibbeh nayeh,https://www.wikidata.org/wiki/Q1643361
+CORPUS-FOOD-FOO-MIDEAST-0000037,identity_label,kibbeh nayeh,https://www.wikidata.org/wiki/Q1643361
+CORPUS-FOOD-FOO-MIDEAST-0000037,descriptive_identity,Levantine dish made of raw meat,https://www.wikidata.org/wiki/Q1643361
+CORPUS-FOOD-FOO-MIDEAST-0000037,ingredient_relationship,lamb meat,https://www.wikidata.org/wiki/Q1643361
+CORPUS-FOOD-FOO-SASIA-0000248,food_identity,pesarattu,https://www.wikidata.org/wiki/Q7171328
+CORPUS-FOOD-FOO-SASIA-0000248,identity_label,pesarattu,https://www.wikidata.org/wiki/Q7171328
+CORPUS-FOOD-FOO-SASIA-0000248,descriptive_identity,type of Indian bread,https://www.wikidata.org/wiki/Q7171328
+CORPUS-FOOD-FOO-SASIA-0000248,ingredient_relationship,Vigna radiata,https://www.wikidata.org/wiki/Q7171328
+CORPUS-FOOD-FOO-AFRI-0000135,food_identity,Plakali,https://www.wikidata.org/wiki/Q3391081
+CORPUS-FOOD-FOO-AFRI-0000135,identity_label,Plakali,https://www.wikidata.org/wiki/Q3391081
+CORPUS-FOOD-FOO-AFRI-0000135,descriptive_identity,Ghanaian food,https://www.wikidata.org/wiki/Q3391081
+CORPUS-FOOD-FOO-SEASIA-0000034,food_identity,lahpet,https://www.wikidata.org/wiki/Q52666405
+CORPUS-FOOD-FOO-SEASIA-0000034,identity_label,lahpet,https://www.wikidata.org/wiki/Q52666405
+CORPUS-FOOD-FOO-SEASIA-0000034,descriptive_identity,Burmese pickled tea,https://www.wikidata.org/wiki/Q52666405
+CORPUS-FOOD-FOO-SEASIA-0000034,ingredient_relationship,tea leaves,https://www.wikidata.org/wiki/Q52666405
+CORPUS-FOOD-FOO-NAME-0000272,food_identity,Arroz con dulce,https://www.wikidata.org/wiki/Q122842234
+CORPUS-FOOD-FOO-NAME-0000272,identity_label,Arroz con dulce,https://www.wikidata.org/wiki/Q122842234
+CORPUS-FOOD-FOO-NAME-0000272,descriptive_identity,Puerto Rican dessert,https://www.wikidata.org/wiki/Q122842234
+CORPUS-FOOD-FOO-SASIA-0000167,food_identity,Rajma,https://www.wikidata.org/wiki/Q2723476
+CORPUS-FOOD-FOO-SASIA-0000167,identity_label,Rajma,https://www.wikidata.org/wiki/Q2723476
+CORPUS-FOOD-FOO-SASIA-0000167,descriptive_identity,"red kidney beans dish, originating from the Indian subcontinent",https://www.wikidata.org/wiki/Q2723476
+CORPUS-FOOD-FOO-SASIA-0000167,ingredient_relationship,Q18175531,https://www.wikidata.org/wiki/Q2723476
+CORPUS-FOOD-FOO-SEASIA-0000197,food_identity,char siu rice,https://www.wikidata.org/wiki/Q4526137
+CORPUS-FOOD-FOO-SEASIA-0000197,identity_label,char siu rice,https://www.wikidata.org/wiki/Q4526137
+CORPUS-FOOD-FOO-SEASIA-0000197,descriptive_identity,rice dish in Hong Kong,https://www.wikidata.org/wiki/Q4526137
+CORPUS-FOOD-FOO-SEASIA-0000197,ingredient_relationship,Q1204605,https://www.wikidata.org/wiki/Q4526137
+CORPUS-FOOD-FOO-SEASIA-0000197,ingredient_relationship,Q523224,https://www.wikidata.org/wiki/Q4526137
+CORPUS-FOOD-FOO-NAME-0000260,food_identity,Ajiaco,https://www.wikidata.org/wiki/Q412754
+CORPUS-FOOD-FOO-NAME-0000260,identity_label,Ajiaco,https://www.wikidata.org/wiki/Q412754
+CORPUS-FOOD-FOO-NAME-0000260,descriptive_identity,South American soup,https://www.wikidata.org/wiki/Q412754
+CORPUS-FOOD-FOO-NAME-0000260,ingredient_relationship,Q10998,https://www.wikidata.org/wiki/Q412754
+CORPUS-FOOD-FOO-SEASIA-0000130,food_identity,Mont lin maya,https://www.wikidata.org/wiki/Q13072182
+CORPUS-FOOD-FOO-SEASIA-0000130,identity_label,Mont lin maya,https://www.wikidata.org/wiki/Q13072182
+CORPUS-FOOD-FOO-SEASIA-0000130,descriptive_identity,"Crisp, round savory pancake",https://www.wikidata.org/wiki/Q13072182
+CORPUS-FOOD-FOO-MIDEAST-0000097,food_identity,Kabsa,https://www.wikidata.org/wiki/Q1720857
+CORPUS-FOOD-FOO-MIDEAST-0000097,identity_label,Kabsa,https://www.wikidata.org/wiki/Q1720857
+CORPUS-FOOD-FOO-MIDEAST-0000097,descriptive_identity,Arab rice dish,https://www.wikidata.org/wiki/Q1720857
+CORPUS-FOOD-FOO-MIDEAST-0000097,ingredient_relationship,rice,https://www.wikidata.org/wiki/Q1720857
+CORPUS-FOOD-FOO-MIDEAST-0000097,ingredient_relationship,Q10990,https://www.wikidata.org/wiki/Q1720857
+CORPUS-FOOD-FOO-MIDEAST-0000097,ingredient_relationship,Q14625808,https://www.wikidata.org/wiki/Q1720857
+CORPUS-FOOD-FOO-MIDEAST-0000097,ingredient_relationship,Q83165,https://www.wikidata.org/wiki/Q1720857
+CORPUS-FOOD-FOO-MIDEAST-0000097,ingredient_relationship,Q2370943,https://www.wikidata.org/wiki/Q1720857
+CORPUS-FOOD-FOO-MIDEAST-0000097,ingredient_relationship,Q28165,https://www.wikidata.org/wiki/Q1720857
+CORPUS-FOOD-FOO-MIDEAST-0000097,ingredient_relationship,Q460570,https://www.wikidata.org/wiki/Q1720857
+CORPUS-FOOD-FOO-MIDEAST-0000097,ingredient_relationship,Q3406628,https://www.wikidata.org/wiki/Q1720857
+CORPUS-FOOD-FOO-MIDEAST-0000097,ingredient_relationship,Q20638126,https://www.wikidata.org/wiki/Q1720857
+CORPUS-FOOD-FOO-SASIA-0000026,food_identity,rosogolla,https://www.wikidata.org/wiki/Q3349224
+CORPUS-FOOD-FOO-SASIA-0000026,identity_label,rosogolla,https://www.wikidata.org/wiki/Q3349224
+CORPUS-FOOD-FOO-SASIA-0000026,descriptive_identity,syrupy dessert popular in the Indian subcontinent and regions with South Asian diaspora,https://www.wikidata.org/wiki/Q3349224
+CORPUS-FOOD-FOO-SASIA-0000026,ingredient_relationship,Q381350,https://www.wikidata.org/wiki/Q3349224
+CORPUS-FOOD-FOO-SASIA-0000026,ingredient_relationship,Q4027534,https://www.wikidata.org/wiki/Q3349224
+CORPUS-FOOD-FOO-SASIA-0000026,ingredient_relationship,Q5094870,https://www.wikidata.org/wiki/Q3349224
+CORPUS-FOOD-FOO-LATAM-0000104,food_identity,mazamorra morada,https://www.wikidata.org/wiki/Q5203061
+CORPUS-FOOD-FOO-LATAM-0000104,identity_label,mazamorra morada,https://www.wikidata.org/wiki/Q5203061
+CORPUS-FOOD-FOO-LATAM-0000104,descriptive_identity,Peruvian purple corn pudding,https://www.wikidata.org/wiki/Q5203061
+CORPUS-FOOD-FOO-LATAM-0000104,ingredient_relationship,Q2420000,https://www.wikidata.org/wiki/Q5203061
+CORPUS-FOOD-FOO-NAME-0000216,food_identity,li hing mui,https://www.wikidata.org/wiki/Q6539361
+CORPUS-FOOD-FOO-NAME-0000216,identity_label,li hing mui,https://www.wikidata.org/wiki/Q6539361
+CORPUS-FOOD-FOO-NAME-0000216,descriptive_identity,salty dried Chinese plum,https://www.wikidata.org/wiki/Q6539361
+CORPUS-FOOD-FOO-NAME-0000216,ingredient_relationship,Prunus mume,https://www.wikidata.org/wiki/Q6539361
+CORPUS-FOOD-FOO-LATAM-0000018,food_identity,Carne-de-sol,https://www.wikidata.org/wiki/Q2939742
+CORPUS-FOOD-FOO-LATAM-0000018,identity_label,Carne-de-sol,https://www.wikidata.org/wiki/Q2939742
+CORPUS-FOOD-FOO-LATAM-0000018,descriptive_identity,Beef dish from northeastern Brazil,https://www.wikidata.org/wiki/Q2939742
+CORPUS-FOOD-FOO-OCEA-0000057,food_identity,Keke,https://www.wikidata.org/wiki/Q66264057
+CORPUS-FOOD-FOO-OCEA-0000057,identity_label,Keke,https://www.wikidata.org/wiki/Q66264057
+CORPUS-FOOD-FOO-OCEA-0000057,descriptive_identity,male given name,https://www.wikidata.org/wiki/Q66264057
+CORPUS-FOOD-FOO-LATAM-0000364,food_identity,natillas,https://www.wikidata.org/wiki/Q2706236
+CORPUS-FOOD-FOO-LATAM-0000364,identity_label,natillas,https://www.wikidata.org/wiki/Q2706236
+CORPUS-FOOD-FOO-LATAM-0000364,descriptive_identity,custard dessert,https://www.wikidata.org/wiki/Q2706236
+CORPUS-FOOD-FOO-LATAM-0000364,ingredient_relationship,egg as food,https://www.wikidata.org/wiki/Q2706236
+CORPUS-FOOD-FOO-LATAM-0000364,ingredient_relationship,sugar,https://www.wikidata.org/wiki/Q2706236
+CORPUS-FOOD-FOO-LATAM-0000364,ingredient_relationship,Q8495,https://www.wikidata.org/wiki/Q2706236
+CORPUS-FOOD-FOO-NAME-0000388,food_identity,Akra,https://www.wikidata.org/wiki/Q37491388
+CORPUS-FOOD-FOO-NAME-0000388,identity_label,Akra,https://www.wikidata.org/wiki/Q37491388
+CORPUS-FOOD-FOO-NAME-0000388,descriptive_identity,family name,https://www.wikidata.org/wiki/Q37491388
+CORPUS-FOOD-FOO-NAME-0000156,food_identity,Brunswick stew,https://www.wikidata.org/wiki/Q994169
+CORPUS-FOOD-FOO-NAME-0000156,identity_label,Brunswick stew,https://www.wikidata.org/wiki/Q994169
+CORPUS-FOOD-FOO-NAME-0000156,descriptive_identity,"stew from the southern US, containing tomatoes, beans, corn, okra, and game meat (squirrel, rabbit, possum, or substituted with chicken)",https://www.wikidata.org/wiki/Q994169
+CORPUS-FOOD-FOO-NAME-0000156,ingredient_relationship,Q12047207,https://www.wikidata.org/wiki/Q994169
+CORPUS-FOOD-FOO-NAME-0000156,ingredient_relationship,Q19862498,https://www.wikidata.org/wiki/Q994169
+CORPUS-FOOD-FOO-NAME-0000156,ingredient_relationship,Q25618328,https://www.wikidata.org/wiki/Q994169
+CORPUS-FOOD-FOO-NAME-0000156,ingredient_relationship,Q379813,https://www.wikidata.org/wiki/Q994169
+CORPUS-FOOD-FOO-NAME-0000156,ingredient_relationship,tomato,https://www.wikidata.org/wiki/Q994169
+CORPUS-FOOD-FOO-NAME-0000156,ingredient_relationship,tomato,https://www.wikidata.org/wiki/Q994169
+CORPUS-FOOD-FOO-NAME-0000156,ingredient_relationship,Q104007010,https://www.wikidata.org/wiki/Q994169
+CORPUS-FOOD-FOO-NAME-0000156,ingredient_relationship,Q10990,https://www.wikidata.org/wiki/Q994169
+CORPUS-FOOD-FOO-NAME-0000156,ingredient_relationship,Q11004,https://www.wikidata.org/wiki/Q994169
+CORPUS-FOOD-FOO-NAME-0000156,ingredient_relationship,okra,https://www.wikidata.org/wiki/Q994169
+CORPUS-FOOD-FOO-NAME-0000156,ingredient_relationship,Q11575,https://www.wikidata.org/wiki/Q994169
+CORPUS-FOOD-FOO-AFRI-0000053,food_identity,puff puff,https://www.wikidata.org/wiki/Q7258860
+CORPUS-FOOD-FOO-AFRI-0000053,identity_label,puff puff,https://www.wikidata.org/wiki/Q7258860
+CORPUS-FOOD-FOO-AFRI-0000053,descriptive_identity,"deep-fried sweet dough, significant to West Africa, especially Nigeria",https://www.wikidata.org/wiki/Q7258860
+CORPUS-FOOD-FOO-AFRI-0000053,ingredient_relationship,flour,https://www.wikidata.org/wiki/Q7258860
+CORPUS-FOOD-FOO-AFRI-0000053,ingredient_relationship,Q719725,https://www.wikidata.org/wiki/Q7258860
+CORPUS-FOOD-FOO-AFRI-0000053,ingredient_relationship,sugar,https://www.wikidata.org/wiki/Q7258860
+CORPUS-FOOD-FOO-AFRI-0000053,ingredient_relationship,cooking oil,https://www.wikidata.org/wiki/Q7258860
+CORPUS-FOOD-FOO-AFRI-0000053,ingredient_relationship,water,https://www.wikidata.org/wiki/Q7258860
+CORPUS-FOOD-FOO-AFRI-0000053,ingredient_relationship,Q34172,https://www.wikidata.org/wiki/Q7258860
+CORPUS-FOOD-FOO-SASIA-0000158,food_identity,Phirni,https://www.wikidata.org/wiki/Q110894306
+CORPUS-FOOD-FOO-SASIA-0000158,identity_label,Phirni,https://www.wikidata.org/wiki/Q110894306
+CORPUS-FOOD-FOO-SASIA-0000158,descriptive_identity,rice pudding dessert,https://www.wikidata.org/wiki/Q110894306
+CORPUS-FOOD-FOO-NAME-0000068,food_identity,Huli-huli,https://www.wikidata.org/wiki/Q12020911
+CORPUS-FOOD-FOO-NAME-0000068,identity_label,Huli-huli,https://www.wikidata.org/wiki/Q12020911
+CORPUS-FOOD-FOO-NAME-0000068,descriptive_identity,Hawaiian chicken dish,https://www.wikidata.org/wiki/Q12020911
+CORPUS-FOOD-FOO-SEASIA-0000012,food_identity,pickle,https://www.wikidata.org/wiki/Q1503784
+CORPUS-FOOD-FOO-SEASIA-0000012,identity_label,pickle,https://www.wikidata.org/wiki/Q1503784
+CORPUS-FOOD-FOO-SEASIA-0000012,descriptive_identity,food preserved via anaerobic fermentation in brine or immersion in vinegar,https://www.wikidata.org/wiki/Q1503784
+CORPUS-FOOD-FOO-EASIA-0000230,food_identity,anmitsu,https://www.wikidata.org/wiki/Q557968
+CORPUS-FOOD-FOO-EASIA-0000230,identity_label,anmitsu,https://www.wikidata.org/wiki/Q557968
+CORPUS-FOOD-FOO-EASIA-0000230,descriptive_identity,mitsumame with red bean paste,https://www.wikidata.org/wiki/Q557968
+CORPUS-FOOD-FOO-EASIA-0000230,ingredient_relationship,Q103169,https://www.wikidata.org/wiki/Q557968
+CORPUS-FOOD-FOO-SEASIA-0000175,food_identity,Sisig,https://www.wikidata.org/wiki/Q152288
+CORPUS-FOOD-FOO-SEASIA-0000175,identity_label,Sisig,https://www.wikidata.org/wiki/Q152288
+CORPUS-FOOD-FOO-SEASIA-0000175,descriptive_identity,A Filipino dish that consists of pork scraps,https://www.wikidata.org/wiki/Q152288
+CORPUS-FOOD-FOO-SEASIA-0000175,ingredient_relationship,Q191768,https://www.wikidata.org/wiki/Q152288
+CORPUS-FOOD-FOO-MIDEAST-0000035,food_identity,muhammara,https://www.wikidata.org/wiki/Q3866940
+CORPUS-FOOD-FOO-MIDEAST-0000035,identity_label,muhammara,https://www.wikidata.org/wiki/Q3866940
+CORPUS-FOOD-FOO-MIDEAST-0000035,descriptive_identity,Red pepper dip from Syrian cuisine,https://www.wikidata.org/wiki/Q3866940
+CORPUS-FOOD-FOO-MIDEAST-0000035,ingredient_relationship,walnut,https://www.wikidata.org/wiki/Q3866940
+CORPUS-FOOD-FOO-MIDEAST-0000035,ingredient_relationship,Q486606,https://www.wikidata.org/wiki/Q3866940
+CORPUS-FOOD-FOO-MIDEAST-0000035,ingredient_relationship,Q1548030,https://www.wikidata.org/wiki/Q3866940
+CORPUS-FOOD-FOO-MIDEAST-0000035,ingredient_relationship,Q13188,https://www.wikidata.org/wiki/Q3866940
+CORPUS-FOOD-FOO-MIDEAST-0000192,food_identity,Balaleet,https://www.wikidata.org/wiki/Q12198963
+CORPUS-FOOD-FOO-MIDEAST-0000192,identity_label,Balaleet,https://www.wikidata.org/wiki/Q12198963
+CORPUS-FOOD-FOO-MIDEAST-0000192,descriptive_identity,sweet and savoury Arabian dish,https://www.wikidata.org/wiki/Q12198963
+CORPUS-FOOD-FOO-EURO-0000036,food_identity,Irish stew,https://www.wikidata.org/wiki/Q755730
+CORPUS-FOOD-FOO-EURO-0000036,identity_label,Irish stew,https://www.wikidata.org/wiki/Q755730
+CORPUS-FOOD-FOO-EURO-0000036,descriptive_identity,lamb or mutton and root vegetable stew native to Ireland,https://www.wikidata.org/wiki/Q755730
+CORPUS-FOOD-FOO-EURO-0000036,ingredient_relationship,lamb meat,https://www.wikidata.org/wiki/Q755730
+CORPUS-FOOD-FOO-EURO-0000009,food_identity,baguette,https://www.wikidata.org/wiki/Q208172
+CORPUS-FOOD-FOO-EURO-0000009,identity_label,baguette,https://www.wikidata.org/wiki/Q208172
+CORPUS-FOOD-FOO-EURO-0000009,descriptive_identity,Long French white bread,https://www.wikidata.org/wiki/Q208172
+CORPUS-FOOD-FOO-EURO-0000009,ingredient_relationship,table salt,https://www.wikidata.org/wiki/Q208172
+CORPUS-FOOD-FOO-EURO-0000009,ingredient_relationship,water,https://www.wikidata.org/wiki/Q208172
+CORPUS-FOOD-FOO-EURO-0000009,ingredient_relationship,flour,https://www.wikidata.org/wiki/Q208172
+CORPUS-FOOD-FOO-EURO-0000009,ingredient_relationship,Q45422,https://www.wikidata.org/wiki/Q208172
+CORPUS-FOOD-FOO-SEASIA-0000167,food_identity,terasi bawang,https://www.wikidata.org/wiki/Q97196240
+CORPUS-FOOD-FOO-SEASIA-0000167,identity_label,terasi bawang,https://www.wikidata.org/wiki/Q97196240
+CORPUS-FOOD-FOO-SEASIA-0000167,descriptive_identity,Indonesian dish,https://www.wikidata.org/wiki/Q97196240
+CORPUS-FOOD-FOO-SEASIA-0000167,ingredient_relationship,Q1127705,https://www.wikidata.org/wiki/Q97196240
+CORPUS-FOOD-FOO-SEASIA-0000167,ingredient_relationship,Q3406628,https://www.wikidata.org/wiki/Q97196240
+CORPUS-FOOD-FOO-SEASIA-0000167,ingredient_relationship,Q432426,https://www.wikidata.org/wiki/Q97196240
+CORPUS-FOOD-FOO-SEASIA-0000167,ingredient_relationship,table salt,https://www.wikidata.org/wiki/Q97196240
+CORPUS-FOOD-FOO-LATAM-0000085,food_identity,chipa,https://www.wikidata.org/wiki/Q9748820
+CORPUS-FOOD-FOO-LATAM-0000085,identity_label,chipa,https://www.wikidata.org/wiki/Q9748820
+CORPUS-FOOD-FOO-LATAM-0000085,descriptive_identity,traditional food from Paraguay and northeastern Argentina,https://www.wikidata.org/wiki/Q9748820
+CORPUS-FOOD-FOO-SASIA-0000218,food_identity,chikki,https://www.wikidata.org/wiki/Q3535125
+CORPUS-FOOD-FOO-SASIA-0000218,identity_label,chikki,https://www.wikidata.org/wiki/Q3535125
+CORPUS-FOOD-FOO-SASIA-0000218,descriptive_identity,peanut-based confection,https://www.wikidata.org/wiki/Q3535125
+CORPUS-FOOD-FOO-SASIA-0000218,ingredient_relationship,peanut,https://www.wikidata.org/wiki/Q3535125
+CORPUS-FOOD-FOO-AFRI-0000005,food_identity,Maghrebi mint tea,https://www.wikidata.org/wiki/Q937101
+CORPUS-FOOD-FOO-AFRI-0000005,identity_label,Maghrebi mint tea,https://www.wikidata.org/wiki/Q937101
+CORPUS-FOOD-FOO-AFRI-0000005,descriptive_identity,tea preparation and form of tea consumption in the Maghreb countries,https://www.wikidata.org/wiki/Q937101
+CORPUS-FOOD-FOO-AFRI-0000005,ingredient_relationship,Q1079875,https://www.wikidata.org/wiki/Q937101
+CORPUS-FOOD-FOO-AFRI-0000005,ingredient_relationship,Q160114,https://www.wikidata.org/wiki/Q937101
+CORPUS-FOOD-FOO-AFRI-0000005,ingredient_relationship,sugar,https://www.wikidata.org/wiki/Q937101
+CORPUS-FOOD-FOO-AFRI-0000005,ingredient_relationship,Q1089546,https://www.wikidata.org/wiki/Q937101
+CORPUS-FOOD-FOO-AFRI-0000005,ingredient_relationship,Q161235,https://www.wikidata.org/wiki/Q937101
+CORPUS-FOOD-FOO-SASIA-0000351,food_identity,Dum Aloo,https://www.wikidata.org/wiki/Q3041144
+CORPUS-FOOD-FOO-SASIA-0000351,identity_label,Dum Aloo,https://www.wikidata.org/wiki/Q3041144
+CORPUS-FOOD-FOO-SASIA-0000351,descriptive_identity,potato dish,https://www.wikidata.org/wiki/Q3041144
+CORPUS-FOOD-FOO-SASIA-0000351,ingredient_relationship,potato,https://www.wikidata.org/wiki/Q3041144
+CORPUS-FOOD-FOO-SASIA-0000051,food_identity,dhokla,https://www.wikidata.org/wiki/Q171983
+CORPUS-FOOD-FOO-SASIA-0000051,identity_label,dhokla,https://www.wikidata.org/wiki/Q171983
+CORPUS-FOOD-FOO-SASIA-0000051,descriptive_identity,Indian vegetarian dish,https://www.wikidata.org/wiki/Q171983
+CORPUS-FOOD-FOO-SASIA-0000051,ingredient_relationship,chickpea,https://www.wikidata.org/wiki/Q171983
+CORPUS-FOOD-FOO-SASIA-0000051,ingredient_relationship,Q165199,https://www.wikidata.org/wiki/Q171983
+CORPUS-FOOD-FOO-SASIA-0000051,ingredient_relationship,Q20856764,https://www.wikidata.org/wiki/Q171983
+CORPUS-FOOD-FOO-SASIA-0000051,ingredient_relationship,Q15046077,https://www.wikidata.org/wiki/Q171983
+CORPUS-FOOD-FOO-SASIA-0000051,ingredient_relationship,Q179731,https://www.wikidata.org/wiki/Q171983
+CORPUS-FOOD-FOO-SASIA-0000051,ingredient_relationship,mustard oil,https://www.wikidata.org/wiki/Q171983
+CORPUS-FOOD-FOO-SASIA-0000011,food_identity,tandoori chicken,https://www.wikidata.org/wiki/Q1057649
+CORPUS-FOOD-FOO-SASIA-0000011,identity_label,tandoori chicken,https://www.wikidata.org/wiki/Q1057649
+CORPUS-FOOD-FOO-SASIA-0000011,descriptive_identity,Indian subcontinent chicken dish,https://www.wikidata.org/wiki/Q1057649
+CORPUS-FOOD-FOO-SASIA-0000011,ingredient_relationship,chicken as food,https://www.wikidata.org/wiki/Q1057649
+CORPUS-FOOD-FOO-SASIA-0000011,ingredient_relationship,Q13317,https://www.wikidata.org/wiki/Q1057649
+CORPUS-FOOD-FOO-EURO-0000452,food_identity,carbonara,https://www.wikidata.org/wiki/Q876624
+CORPUS-FOOD-FOO-EURO-0000452,identity_label,carbonara,https://www.wikidata.org/wiki/Q876624
+CORPUS-FOOD-FOO-EURO-0000452,descriptive_identity,pasta dish,https://www.wikidata.org/wiki/Q876624
+CORPUS-FOOD-FOO-EURO-0000452,ingredient_relationship,Q194632,https://www.wikidata.org/wiki/Q876624
+CORPUS-FOOD-FOO-EURO-0000452,ingredient_relationship,Q3143131,https://www.wikidata.org/wiki/Q876624
+CORPUS-FOOD-FOO-EURO-0000452,ingredient_relationship,pecorino,https://www.wikidata.org/wiki/Q876624
+CORPUS-FOOD-FOO-EURO-0000452,ingredient_relationship,egg as food,https://www.wikidata.org/wiki/Q876624
+CORPUS-FOOD-FOO-EURO-0000452,ingredient_relationship,table salt,https://www.wikidata.org/wiki/Q876624
+CORPUS-FOOD-FOO-EURO-0000452,ingredient_relationship,Q20026,https://www.wikidata.org/wiki/Q876624
+CORPUS-FOOD-FOO-EASIA-0000277,food_identity,Sukiyaki,https://www.wikidata.org/wiki/Q89601303
+CORPUS-FOOD-FOO-EASIA-0000277,identity_label,Sukiyaki,https://www.wikidata.org/wiki/Q89601303
+CORPUS-FOOD-FOO-EASIA-0000277,descriptive_identity,vocal track by Selena y Los Dinos; 1989 studio recording,https://www.wikidata.org/wiki/Q89601303
+CORPUS-FOOD-FOO-EURO-0000092,food_identity,stroopwafel,https://www.wikidata.org/wiki/Q267877
+CORPUS-FOOD-FOO-EURO-0000092,identity_label,stroopwafel,https://www.wikidata.org/wiki/Q267877
+CORPUS-FOOD-FOO-EURO-0000092,descriptive_identity,two round waffle-like wafers with a caramel filling in the middle,https://www.wikidata.org/wiki/Q267877
+CORPUS-FOOD-FOO-EURO-0000092,ingredient_relationship,Q6584340,https://www.wikidata.org/wiki/Q267877
+CORPUS-FOOD-FOO-EURO-0000092,ingredient_relationship,Q178024,https://www.wikidata.org/wiki/Q267877
+CORPUS-FOOD-FOO-NAME-0000071,food_identity,taco,https://www.wikidata.org/wiki/Q191655
+CORPUS-FOOD-FOO-NAME-0000071,identity_label,taco,https://www.wikidata.org/wiki/Q191655
+CORPUS-FOOD-FOO-NAME-0000071,descriptive_identity,"Mexican dish consisting of a corn or wheat tortilla folded or rolled around a filling, salsa and vegetabes",https://www.wikidata.org/wiki/Q191655
+CORPUS-FOOD-FOO-NAME-0000071,ingredient_relationship,taco shell,https://www.wikidata.org/wiki/Q191655
+CORPUS-FOOD-FOO-NAME-0000071,ingredient_relationship,meat,https://www.wikidata.org/wiki/Q191655
+CORPUS-FOOD-FOO-NAME-0000071,ingredient_relationship,Q15660894,https://www.wikidata.org/wiki/Q191655
+CORPUS-FOOD-FOO-NAME-0000071,ingredient_relationship,Q204251,https://www.wikidata.org/wiki/Q191655
+CORPUS-FOOD-FOO-NAME-0000071,ingredient_relationship,Q745361,https://www.wikidata.org/wiki/Q191655
+CORPUS-FOOD-FOO-NAME-0000071,ingredient_relationship,Q15660894,https://www.wikidata.org/wiki/Q191655
+CORPUS-FOOD-FOO-NAME-0000071,ingredient_relationship,Q204251,https://www.wikidata.org/wiki/Q191655
+CORPUS-FOOD-FOO-LATAM-0000107,food_identity,Pisco Sour,https://www.wikidata.org/wiki/Q673012
+CORPUS-FOOD-FOO-LATAM-0000107,identity_label,Pisco Sour,https://www.wikidata.org/wiki/Q673012
+CORPUS-FOOD-FOO-LATAM-0000107,descriptive_identity,cocktail typical of South American cuisine,https://www.wikidata.org/wiki/Q673012
+CORPUS-FOOD-FOO-LATAM-0000107,ingredient_relationship,Q388502,https://www.wikidata.org/wiki/Q673012
+CORPUS-FOOD-FOO-LATAM-0000107,ingredient_relationship,Q1375049,https://www.wikidata.org/wiki/Q673012
+CORPUS-FOOD-FOO-LATAM-0000107,ingredient_relationship,Q796758,https://www.wikidata.org/wiki/Q673012
+CORPUS-FOOD-FOO-LATAM-0000107,ingredient_relationship,Q6584340,https://www.wikidata.org/wiki/Q673012
+CORPUS-FOOD-FOO-LATAM-0000107,ingredient_relationship,Angostura bitters,https://www.wikidata.org/wiki/Q673012
+CORPUS-FOOD-FOO-MIDEAST-0000265,food_identity,rakı,https://www.wikidata.org/wiki/Q638290
+CORPUS-FOOD-FOO-MIDEAST-0000265,identity_label,rakı,https://www.wikidata.org/wiki/Q638290
+CORPUS-FOOD-FOO-MIDEAST-0000265,descriptive_identity,"unsweetened, anise-flavored alcoholic drink",https://www.wikidata.org/wiki/Q638290
+CORPUS-FOOD-FOO-MIDEAST-0000265,ingredient_relationship,Q10978,https://www.wikidata.org/wiki/Q638290
+CORPUS-FOOD-FOO-MIDEAST-0000265,ingredient_relationship,Q33873455,https://www.wikidata.org/wiki/Q638290
+CORPUS-FOOD-FOO-MIDEAST-0000265,ingredient_relationship,fig,https://www.wikidata.org/wiki/Q638290
+CORPUS-FOOD-FOO-MIDEAST-0000265,ingredient_relationship,Q1652093,https://www.wikidata.org/wiki/Q638290
+CORPUS-FOOD-FOO-MIDEAST-0000265,ingredient_relationship,barrel,https://www.wikidata.org/wiki/Q638290
+CORPUS-FOOD-FOO-MIDEAST-0000265,ingredient_relationship,pomace,https://www.wikidata.org/wiki/Q638290
+CORPUS-FOOD-FOO-SEASIA-0000067,food_identity,gado-gado,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,identity_label,gado-gado,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,descriptive_identity,Indonesian salad dish originating from Java island,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,Q2480049,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,Q11004,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,Q15149436,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,Q1062531,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,table salt,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,palm sugar,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,Tempeh,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,Sechium edule,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,Cucumis sativus,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,Q177378,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,Q272754,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,Q1385709,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,Q426850,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,chicken egg,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,Tamarindus indica,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,lontong,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,Q2202864,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,Q523224,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,Q715542,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-SEASIA-0000067,ingredient_relationship,egg as food,https://www.wikidata.org/wiki/Q209304
+CORPUS-FOOD-FOO-MIDEAST-0000088,food_identity,Jerusalem mixed grill,https://www.wikidata.org/wiki/Q6185223
+CORPUS-FOOD-FOO-MIDEAST-0000088,identity_label,Jerusalem mixed grill,https://www.wikidata.org/wiki/Q6185223
+CORPUS-FOOD-FOO-MIDEAST-0000088,descriptive_identity,Israeli grilled meat dish,https://www.wikidata.org/wiki/Q6185223
+CORPUS-FOOD-FOO-NAME-0000007,food_identity,banana pudding,https://www.wikidata.org/wiki/Q4853875
+CORPUS-FOOD-FOO-NAME-0000007,identity_label,banana pudding,https://www.wikidata.org/wiki/Q4853875
+CORPUS-FOOD-FOO-NAME-0000007,descriptive_identity,pudding made with bananas,https://www.wikidata.org/wiki/Q4853875
+CORPUS-FOOD-FOO-NAME-0000007,ingredient_relationship,egg as food,https://www.wikidata.org/wiki/Q4853875
+CORPUS-FOOD-FOO-SEASIA-0000204,food_identity,Roti sai mai,https://www.wikidata.org/wiki/Q16307825
+CORPUS-FOOD-FOO-SEASIA-0000204,identity_label,Roti sai mai,https://www.wikidata.org/wiki/Q16307825
+CORPUS-FOOD-FOO-SEASIA-0000204,descriptive_identity,Sweet roti with cotton candy,https://www.wikidata.org/wiki/Q16307825
+CORPUS-FOOD-FOO-SASIA-0000337,food_identity,Aam panna,https://www.wikidata.org/wiki/Q4661428
+CORPUS-FOOD-FOO-SASIA-0000337,identity_label,Aam panna,https://www.wikidata.org/wiki/Q4661428
+CORPUS-FOOD-FOO-SASIA-0000337,descriptive_identity,Indian drink,https://www.wikidata.org/wiki/Q4661428
+CORPUS-FOOD-FOO-SASIA-0000095,food_identity,zarda,https://www.wikidata.org/wiki/Q8066663
+CORPUS-FOOD-FOO-SASIA-0000095,identity_label,zarda,https://www.wikidata.org/wiki/Q8066663
+CORPUS-FOOD-FOO-SASIA-0000095,descriptive_identity,traditional South Asian sweet dish,https://www.wikidata.org/wiki/Q8066663
+CORPUS-FOOD-FOO-SASIA-0000095,ingredient_relationship,rice,https://www.wikidata.org/wiki/Q8066663
+CORPUS-FOOD-FOO-SASIA-0000095,ingredient_relationship,Q8495,https://www.wikidata.org/wiki/Q8066663
+CORPUS-FOOD-FOO-SASIA-0000095,ingredient_relationship,sugar,https://www.wikidata.org/wiki/Q8066663
+CORPUS-FOOD-FOO-SASIA-0000095,ingredient_relationship,saffron,https://www.wikidata.org/wiki/Q8066663
+CORPUS-FOOD-FOO-SASIA-0000095,ingredient_relationship,rice,https://www.wikidata.org/wiki/Q8066663
+CORPUS-FOOD-FOO-SASIA-0000095,ingredient_relationship,Q8495,https://www.wikidata.org/wiki/Q8066663
+CORPUS-FOOD-FOO-SASIA-0000095,ingredient_relationship,sugar,https://www.wikidata.org/wiki/Q8066663
+CORPUS-FOOD-FOO-SASIA-0000095,ingredient_relationship,saffron,https://www.wikidata.org/wiki/Q8066663
+CORPUS-FOOD-FOO-SEASIA-0000124,food_identity,Kare-kare,https://www.wikidata.org/wiki/Q3272179
+CORPUS-FOOD-FOO-SEASIA-0000124,identity_label,Kare-kare,https://www.wikidata.org/wiki/Q3272179
+CORPUS-FOOD-FOO-SEASIA-0000124,descriptive_identity,Filipino cuisine,https://www.wikidata.org/wiki/Q3272179
+CORPUS-FOOD-FOO-SEASIA-0000124,ingredient_relationship,oxtail,https://www.wikidata.org/wiki/Q3272179
+CORPUS-FOOD-FOO-SEASIA-0000270,food_identity,Dagang rice,https://www.wikidata.org/wiki/Q3234514
+CORPUS-FOOD-FOO-SEASIA-0000270,identity_label,Dagang rice,https://www.wikidata.org/wiki/Q3234514
+CORPUS-FOOD-FOO-SEASIA-0000270,descriptive_identity,Traditional food of Terengganu origin,https://www.wikidata.org/wiki/Q3234514
+CORPUS-FOOD-FOO-LATAM-0000277,food_identity,majarete,https://www.wikidata.org/wiki/Q5990243
+CORPUS-FOOD-FOO-LATAM-0000277,identity_label,majarete,https://www.wikidata.org/wiki/Q5990243
+CORPUS-FOOD-FOO-LATAM-0000277,descriptive_identity,corn pudding,https://www.wikidata.org/wiki/Q5990243
+CORPUS-FOOD-FOO-LATAM-0000277,ingredient_relationship,maize,https://www.wikidata.org/wiki/Q5990243
+CORPUS-FOOD-FOO-LATAM-0000277,ingredient_relationship,coconut milk,https://www.wikidata.org/wiki/Q5990243
+CORPUS-FOOD-FOO-LATAM-0000308,food_identity,Bobó de camarão,https://www.wikidata.org/wiki/Q2908226
+CORPUS-FOOD-FOO-LATAM-0000308,identity_label,Bobó de camarão,https://www.wikidata.org/wiki/Q2908226
+CORPUS-FOOD-FOO-LATAM-0000308,descriptive_identity,Brazilian shrimp chowder,https://www.wikidata.org/wiki/Q2908226
+CORPUS-FOOD-FOO-NAME-0000224,food_identity,churro,https://www.wikidata.org/wiki/Q727605
+CORPUS-FOOD-FOO-NAME-0000224,identity_label,churro,https://www.wikidata.org/wiki/Q727605
+CORPUS-FOOD-FOO-NAME-0000224,descriptive_identity,fried-dough pastry,https://www.wikidata.org/wiki/Q727605
+CORPUS-FOOD-FOO-NAME-0000224,ingredient_relationship,flour,https://www.wikidata.org/wiki/Q727605
+CORPUS-FOOD-FOO-SASIA-0000120,food_identity,Lamprais,https://www.wikidata.org/wiki/Q30587986
+CORPUS-FOOD-FOO-SASIA-0000120,identity_label,Lamprais,https://www.wikidata.org/wiki/Q30587986
+CORPUS-FOOD-FOO-SASIA-0000120,descriptive_identity,Sri Lankan rice dish,https://www.wikidata.org/wiki/Q30587986
+CORPUS-FOOD-FOO-MIDEAST-0000163,food_identity,pastırma,https://www.wikidata.org/wiki/Q2056399
+CORPUS-FOOD-FOO-MIDEAST-0000163,identity_label,pastırma,https://www.wikidata.org/wiki/Q2056399
+CORPUS-FOOD-FOO-MIDEAST-0000163,descriptive_identity,"Anatolian cuisine cold cut, also found in neighbouring countries",https://www.wikidata.org/wiki/Q2056399
+CORPUS-FOOD-FOO-MIDEAST-0000163,ingredient_relationship,Q957434,https://www.wikidata.org/wiki/Q2056399
+CORPUS-FOOD-FOO-MIDEAST-0000163,ingredient_relationship,Q473194,https://www.wikidata.org/wiki/Q2056399
+CORPUS-FOOD-FOO-MIDEAST-0000163,ingredient_relationship,Q1722914,https://www.wikidata.org/wiki/Q2056399
+CORPUS-FOOD-FOO-NAME-0000150,food_identity,Pastelón,https://www.wikidata.org/wiki/Q17084248
+CORPUS-FOOD-FOO-NAME-0000150,identity_label,Pastelón,https://www.wikidata.org/wiki/Q17084248
+CORPUS-FOOD-FOO-NAME-0000150,descriptive_identity,Puerto Rican casserole,https://www.wikidata.org/wiki/Q17084248
+CORPUS-FOOD-FOO-MIDEAST-0000008,food_identity,pide,https://www.wikidata.org/wiki/Q4815005
+CORPUS-FOOD-FOO-MIDEAST-0000008,identity_label,pide,https://www.wikidata.org/wiki/Q4815005
+CORPUS-FOOD-FOO-MIDEAST-0000008,descriptive_identity,Turkish oven-baked flatbread,https://www.wikidata.org/wiki/Q4815005
+CORPUS-FOOD-FOO-MIDEAST-0000211,food_identity,çiğ köfte,https://www.wikidata.org/wiki/Q2444993
+CORPUS-FOOD-FOO-MIDEAST-0000211,identity_label,çiğ köfte,https://www.wikidata.org/wiki/Q2444993
+CORPUS-FOOD-FOO-MIDEAST-0000211,descriptive_identity,raw meat or vegan bulgur dish from Turkish cuisine,https://www.wikidata.org/wiki/Q2444993
+CORPUS-FOOD-FOO-MIDEAST-0000211,ingredient_relationship,Urfa biber,https://www.wikidata.org/wiki/Q2444993
+CORPUS-FOOD-FOO-MIDEAST-0000211,ingredient_relationship,bulgur,https://www.wikidata.org/wiki/Q2444993
+CORPUS-FOOD-FOO-MIDEAST-0000211,ingredient_relationship,lamb meat,https://www.wikidata.org/wiki/Q2444993
+CORPUS-FOOD-FOO-MIDEAST-0000211,ingredient_relationship,Q957434,https://www.wikidata.org/wiki/Q2444993
+CORPUS-FOOD-FOO-MIDEAST-0000211,ingredient_relationship,onion,https://www.wikidata.org/wiki/Q2444993
+CORPUS-FOOD-FOO-MIDEAST-0000211,ingredient_relationship,Q65522500,https://www.wikidata.org/wiki/Q2444993
+CORPUS-FOOD-FOO-MIDEAST-0000211,ingredient_relationship,garlic,https://www.wikidata.org/wiki/Q2444993
