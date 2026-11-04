@@ -1,0 +1,772 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP502-REC100201,descriptive_identity,square,http://www.wikidata.org/entity/Q9293120
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP502-REC100201,location,Point(-123.123 49.2812),http://www.wikidata.org/entity/Q9293120
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP502-REC100201,construction_date,1983-01-01T00:00:00Z,http://www.wikidata.org/entity/Q9293120
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP502-REC100201,creator_or_attribution,Arthur Erickson,http://www.wikidata.org/entity/Q9293120
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP502-REC100201,descriptive_identity,courthouse,http://www.wikidata.org/entity/Q9293120
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP517-REC103351,descriptive_identity,fire station,http://www.wikidata.org/entity/Q139019135
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP517-REC103351,location,Point(12.872583333 52.574333333),http://www.wikidata.org/entity/Q139019135
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP485-REC96841,descriptive_identity,casa consistorial,http://www.wikidata.org/entity/Q126822841
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP485-REC96841,location,Point(-2.4727675 41.350837),http://www.wikidata.org/entity/Q126822841
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP486-REC97051,descriptive_identity,casa consistorial,http://www.wikidata.org/entity/Q126823314
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP486-REC97051,location,Point(-4.5019763 41.4745154),http://www.wikidata.org/entity/Q126823314
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP489-REC97681,descriptive_identity,courthouse,http://www.wikidata.org/entity/Q130429286
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP489-REC97681,location,Point(19.916069446 39.617460319),http://www.wikidata.org/entity/Q130429286
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP489-REC97681,component_relationship,Court of first instance of Corfu,http://www.wikidata.org/entity/Q130429286
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP489-REC97681,descriptive_identity,appellate court,http://www.wikidata.org/entity/Q130429286
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP489-REC97681,component_relationship,Court of first instance of Thesprotia,http://www.wikidata.org/entity/Q130429286
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP534-REC106711,descriptive_identity,correctional facility,http://www.wikidata.org/entity/Q1714407
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP534-REC106711,location,Point(9.17226 47.6638),http://www.wikidata.org/entity/Q1714407
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP495-REC98941,descriptive_identity,county courthouse,http://www.wikidata.org/entity/Q5015351
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP495-REC98941,location,Point(-82.4464 38.4197),http://www.wikidata.org/entity/Q5015351
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP518-REC103561,descriptive_identity,fire station,http://www.wikidata.org/entity/Q27083122
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP518-REC103561,location,Point(-0.190116 51.502897),http://www.wikidata.org/entity/Q27083122
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP520-REC103981,descriptive_identity,fire station,http://www.wikidata.org/entity/Q28926326
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP520-REC103981,location,Point(141.1056944 -36.1229167),http://www.wikidata.org/entity/Q28926326
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP494-REC98731,descriptive_identity,county courthouse,http://www.wikidata.org/entity/Q39050916
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP494-REC98731,location,Point(-106.675157 46.267768),http://www.wikidata.org/entity/Q39050916
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP494-REC98731,construction_date,1913-01-01T00:00:00Z,http://www.wikidata.org/entity/Q39050916
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP494-REC98731,creator_or_attribution,Link & Haire,http://www.wikidata.org/entity/Q39050916
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP528-REC105451,descriptive_identity,prison,http://www.wikidata.org/entity/Q109743213
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP503-REC100411,descriptive_identity,city gate,http://www.wikidata.org/entity/Q110254980
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP503-REC100411,location,Point(0.311198707 41.096087245),http://www.wikidata.org/entity/Q110254980
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP514-REC102721,descriptive_identity,fire station,http://www.wikidata.org/entity/Q113292526
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP514-REC102721,location,Point(-0.047629548 41.236070409),http://www.wikidata.org/entity/Q113292526
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP529-REC105661,descriptive_identity,prisoner-of-war camp,http://www.wikidata.org/entity/Q114077000
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP529-REC105661,location,Point(-3.4787706 55.035661),http://www.wikidata.org/entity/Q114077000
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP516-REC103141,descriptive_identity,fire station,http://www.wikidata.org/entity/Q124042246
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP516-REC103141,location,Point(8.464433 52.070795),http://www.wikidata.org/entity/Q124042246
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP472-REC94321,descriptive_identity,casa consistorial,http://www.wikidata.org/entity/Q126817486
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP472-REC94321,location,Point(-5.3466296 37.7072671),http://www.wikidata.org/entity/Q126817486
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP473-REC94531,descriptive_identity,casa consistorial,http://www.wikidata.org/entity/Q126817916
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP473-REC94531,location,Point(-0.441516832 42.056216285),http://www.wikidata.org/entity/Q126817916
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP474-REC94741,descriptive_identity,casa consistorial,http://www.wikidata.org/entity/Q126818356
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP474-REC94741,location,Point(-1.097004522 40.685864376),http://www.wikidata.org/entity/Q126818356
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP475-REC94951,descriptive_identity,casa consistorial,http://www.wikidata.org/entity/Q126818794
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP475-REC94951,location,Point(-1.274898795 41.633410215),http://www.wikidata.org/entity/Q126818794
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP477-REC95371,descriptive_identity,casa consistorial,http://www.wikidata.org/entity/Q126819673
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP477-REC95371,location,Point(-5.1049359 40.4501057),http://www.wikidata.org/entity/Q126819673
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP481-REC96001,descriptive_identity,casa consistorial,http://www.wikidata.org/entity/Q126821085
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP481-REC96001,location,Point(-5.0059278 42.9757846),http://www.wikidata.org/entity/Q126821085
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP484-REC96631,descriptive_identity,casa consistorial,http://www.wikidata.org/entity/Q126822375
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP484-REC96631,location,Point(-6.487806 40.9595042),http://www.wikidata.org/entity/Q126822375
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP546-REC109021,descriptive_identity,prison,http://www.wikidata.org/entity/Q607542
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP546-REC109021,location,Point(-0.129 51.4992),http://www.wikidata.org/entity/Q607542
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP541-REC108181,descriptive_identity,youth detention center,http://www.wikidata.org/entity/Q4856534
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP541-REC108181,location,Point(115.919085 -32.109705),http://www.wikidata.org/entity/Q4856534
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP541-REC108181,construction_date,1997-09-01T00:00:00Z,http://www.wikidata.org/entity/Q4856534
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP544-REC108601,descriptive_identity,prison,http://www.wikidata.org/entity/Q5471561
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP544-REC108601,location,Point(-103.142715 38.085049),http://www.wikidata.org/entity/Q5471561
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP545-REC108811,descriptive_identity,prison,http://www.wikidata.org/entity/Q5635219
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP545-REC108811,location,Point(-0.0059 50.8725),http://www.wikidata.org/entity/Q5635219
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP545-REC108811,construction_date,1853-01-01T00:00:00Z,http://www.wikidata.org/entity/Q5635219
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP547-REC109231,descriptive_identity,prison,http://www.wikidata.org/entity/Q6781151
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP547-REC109231,location,Point(152.649 -25.4792),http://www.wikidata.org/entity/Q6781151
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP547-REC109231,construction_date,2003-04-16T00:00:00Z,http://www.wikidata.org/entity/Q6781151
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP565-REC112801,descriptive_identity,hospital,http://www.wikidata.org/entity/Q11386759
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP565-REC112801,location,Point(133.76527778 34.58833333),http://www.wikidata.org/entity/Q11386759
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP565-REC112801,construction_date,1971-07-02T00:00:00Z,http://www.wikidata.org/entity/Q11386759
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP566-REC113011,descriptive_identity,hospital,http://www.wikidata.org/entity/Q11421089
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP566-REC113011,location,Point(136.878417 34.278667),http://www.wikidata.org/entity/Q11421089
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP566-REC113011,construction_date,2008-04-01T00:00:00Z,http://www.wikidata.org/entity/Q11421089
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP567-REC113221,descriptive_identity,hospital,http://www.wikidata.org/entity/Q11466733
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP567-REC113221,location,Point(131.248583 33.958111),http://www.wikidata.org/entity/Q11466733
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP569-REC113641,descriptive_identity,hospital,http://www.wikidata.org/entity/Q11528444
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP569-REC113641,location,Point(139.724444 35.569444),http://www.wikidata.org/entity/Q11528444
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP570-REC113851,descriptive_identity,hospital,http://www.wikidata.org/entity/Q11571600
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP570-REC113851,location,Point(134.699497 34.838807),http://www.wikidata.org/entity/Q11571600
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP570-REC113851,construction_date,1898-01-01T00:00:00Z,http://www.wikidata.org/entity/Q11571600
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP570-REC113851,descriptive_identity,medical organization,http://www.wikidata.org/entity/Q11571600
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP570-REC113851,construction_date,1898-05-16T00:00:00Z,http://www.wikidata.org/entity/Q11571600
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP596-REC119101,descriptive_identity,mosque,http://www.wikidata.org/entity/Q12242685
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP596-REC119101,location,Point(-1.31338 34.88126),http://www.wikidata.org/entity/Q12242685
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP596-REC119101,descriptive_identity,madrasa,http://www.wikidata.org/entity/Q12242685
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP538-REC107551,descriptive_identity,prison,http://www.wikidata.org/entity/Q28446484
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP538-REC107551,location,Point(-82.011758 27.591173),http://www.wikidata.org/entity/Q28446484
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP538-REC107551,construction_date,1991-01-01T00:00:00Z,http://www.wikidata.org/entity/Q28446484
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP551-REC110071,descriptive_identity,hospital,http://www.wikidata.org/entity/Q101002037
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP554-REC110701,descriptive_identity,hospital,http://www.wikidata.org/entity/Q102244541
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP554-REC110701,location,Point(3.301667026 6.546435579),http://www.wikidata.org/entity/Q102244541
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP554-REC110701,descriptive_identity,medical facility,http://www.wikidata.org/entity/Q102244541
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP577-REC115321,descriptive_identity,school building,http://www.wikidata.org/entity/Q105023315
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP577-REC115321,location,Point(13.7205 51.05674),http://www.wikidata.org/entity/Q105023315
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP579-REC115741,descriptive_identity,university building,http://www.wikidata.org/entity/Q106497026
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP579-REC115741,location,Point(-87.677710471 42.052234425),http://www.wikidata.org/entity/Q106497026
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP581-REC116161,descriptive_identity,school building,http://www.wikidata.org/entity/Q107321774
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP581-REC116161,location,Point(-94.645206733 31.593623696),http://www.wikidata.org/entity/Q107321774
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP583-REC116581,descriptive_identity,school building,http://www.wikidata.org/entity/Q108073413
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP583-REC116581,location,Point(-106.431439132 31.772404821),http://www.wikidata.org/entity/Q108073413
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP584-REC116791,descriptive_identity,kindergarten,http://www.wikidata.org/entity/Q109599409
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP584-REC116791,location,Point(14.4224167 50.0573611),http://www.wikidata.org/entity/Q109599409
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP584-REC116791,construction_date,1950-01-01T00:00:00Z,http://www.wikidata.org/entity/Q109599409
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP584-REC116791,creator_or_attribution,Lubor Marek,http://www.wikidata.org/entity/Q109599409
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP584-REC116791,descriptive_identity,school building,http://www.wikidata.org/entity/Q109599409
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP561-REC112171,descriptive_identity,medical facility,http://www.wikidata.org/entity/Q110760894
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP561-REC112171,descriptive_identity,cancer care facility,http://www.wikidata.org/entity/Q110760894
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP586-REC117001,descriptive_identity,public school,http://www.wikidata.org/entity/Q111131068
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP586-REC117001,location,Point(9.96459 53.43584),http://www.wikidata.org/entity/Q111131068
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP586-REC117001,construction_date,1909-01-01T00:00:00Z,http://www.wikidata.org/entity/Q111131068
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP586-REC117001,descriptive_identity,school building,http://www.wikidata.org/entity/Q111131068
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP587-REC117211,descriptive_identity,student center,http://www.wikidata.org/entity/Q111513630
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP587-REC117211,location,Point(-79.400253 43.660828),http://www.wikidata.org/entity/Q111513630
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP587-REC117211,construction_date,1911-01-01T00:00:00Z,http://www.wikidata.org/entity/Q111513630
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP587-REC117211,creator_or_attribution,Gordon & Helliwell,http://www.wikidata.org/entity/Q111513630
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP587-REC117211,descriptive_identity,university building,http://www.wikidata.org/entity/Q111513630
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP589-REC117631,descriptive_identity,private school,http://www.wikidata.org/entity/Q112592255
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP589-REC117631,location,Point(101.561209 -2.086043),http://www.wikidata.org/entity/Q112592255
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP589-REC117631,descriptive_identity,madrasah ibtidaiyah,http://www.wikidata.org/entity/Q112592255
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP563-REC112591,descriptive_identity,hospital,http://www.wikidata.org/entity/Q113290059
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP563-REC112591,construction_date,1984-01-01T00:00:00Z,http://www.wikidata.org/entity/Q113290059
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP563-REC112591,descriptive_identity,company,http://www.wikidata.org/entity/Q113290059
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP563-REC112591,descriptive_identity,clinic,http://www.wikidata.org/entity/Q113290059
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP563-REC112591,descriptive_identity,business,http://www.wikidata.org/entity/Q113290059
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP592-REC118261,descriptive_identity,school,http://www.wikidata.org/entity/Q114802469
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP592-REC118261,location,Point(-1.3979928 6.0675358),http://www.wikidata.org/entity/Q114802469
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP592-REC118261,construction_date,1969-01-01T00:00:00Z,http://www.wikidata.org/entity/Q114802469
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP592-REC118261,descriptive_identity,high school,http://www.wikidata.org/entity/Q114802469
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP592-REC118261,descriptive_identity,boarding school,http://www.wikidata.org/entity/Q114802469
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP592-REC118261,descriptive_identity,mixed-sex education,http://www.wikidata.org/entity/Q114802469
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP592-REC118261,descriptive_identity,public school,http://www.wikidata.org/entity/Q114802469
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP592-REC118261,descriptive_identity,day school,http://www.wikidata.org/entity/Q114802469
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP592-REC118261,descriptive_identity,educational institution,http://www.wikidata.org/entity/Q114802469
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP575-REC114901,descriptive_identity,hospital,http://www.wikidata.org/entity/Q119857220
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP575-REC114901,location,Point(-111.72296 33.38442),http://www.wikidata.org/entity/Q119857220
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP575-REC114901,construction_date,2007-01-01T00:00:00Z,http://www.wikidata.org/entity/Q119857220
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP598-REC119521,descriptive_identity,public school,http://www.wikidata.org/entity/Q123424720
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP598-REC119521,location,Point(108.3056 -6.9826),http://www.wikidata.org/entity/Q123424720
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP598-REC119521,construction_date,1992-01-27T00:00:00Z,http://www.wikidata.org/entity/Q123424720
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP598-REC119521,descriptive_identity,madrasah aliyah,http://www.wikidata.org/entity/Q123424720
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP650-REC129811,descriptive_identity,shopping center,http://www.wikidata.org/entity/Q6369002
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP650-REC129811,location,Point(-116.601 43.6013),http://www.wikidata.org/entity/Q6369002
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP650-REC129811,construction_date,1965-08-26T00:00:00Z,http://www.wikidata.org/entity/Q6369002
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP656-REC131071,descriptive_identity,city museum,http://www.wikidata.org/entity/Q11391164
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP656-REC131071,location,Point(141.46440278 40.508525),http://www.wikidata.org/entity/Q11391164
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP656-REC131071,construction_date,1983-07-01T00:00:00Z,http://www.wikidata.org/entity/Q11391164
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP656-REC131071,construction_date,1983-07-15T00:00:00Z,http://www.wikidata.org/entity/Q11391164
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP699-REC139681,descriptive_identity,English country house,http://www.wikidata.org/entity/Q15882437
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP699-REC139681,location,Point(-0.77939 51.521882),http://www.wikidata.org/entity/Q15882437
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP702-REC140311,descriptive_identity,mansion,http://www.wikidata.org/entity/Q17739140
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP702-REC140311,location,Point(-3.43052 52.4912),http://www.wikidata.org/entity/Q17739140
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP703-REC140521,descriptive_identity,country house,http://www.wikidata.org/entity/Q17845246
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP703-REC140521,location,Point(-4.04027 55.6833),http://www.wikidata.org/entity/Q17845246
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP691-REC138001,descriptive_identity,market hall,http://www.wikidata.org/entity/Q26674837
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP691-REC138001,location,Point(-2.358513 51.382444),http://www.wikidata.org/entity/Q26674837
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP675-REC134851,descriptive_identity,hotel,http://www.wikidata.org/entity/Q110976307
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP675-REC134851,location,Point(115.10524 -8.810302),http://www.wikidata.org/entity/Q110976307
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP679-REC135691,descriptive_identity,hotel,http://www.wikidata.org/entity/Q110978548
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP679-REC135691,location,Point(115.13511 -8.845006),http://www.wikidata.org/entity/Q110978548
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP679-REC135691,descriptive_identity,villa hotel,http://www.wikidata.org/entity/Q110978548
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP679-REC135691,location,Point(115.144486427 -8.837452964),http://www.wikidata.org/entity/Q110978548
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP679-REC135691,location,Point(115.143456 -8.818505),http://www.wikidata.org/entity/Q110978548
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP679-REC135691,location,Point(115.1435 -8.81825),http://www.wikidata.org/entity/Q110978548
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP679-REC135691,location,Point(115.143617 -8.818484),http://www.wikidata.org/entity/Q110978548
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP682-REC136321,descriptive_identity,hotel,http://www.wikidata.org/entity/Q110982070
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP682-REC136321,location,Point(114.996522 -8.177653),http://www.wikidata.org/entity/Q110982070
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP685-REC136951,descriptive_identity,hotel,http://www.wikidata.org/entity/Q111052110
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP685-REC136951,location,Point(77.074944 28.43175),http://www.wikidata.org/entity/Q111052110
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP687-REC137371,descriptive_identity,hotel,http://www.wikidata.org/entity/Q111052562
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP687-REC137371,location,Point(74.047272 14.971781),http://www.wikidata.org/entity/Q111052562
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP688-REC137581,descriptive_identity,hotel,http://www.wikidata.org/entity/Q111052805
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP688-REC137581,location,Point(116.860591 -1.226658),http://www.wikidata.org/entity/Q111052805
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP657-REC131281,descriptive_identity,office building,http://www.wikidata.org/entity/Q115869261
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP657-REC131281,location,Point(-73.890178406 40.860634629),http://www.wikidata.org/entity/Q115869261
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP657-REC131281,construction_date,1986-01-01T00:00:00Z,http://www.wikidata.org/entity/Q115869261
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP657-REC131281,creator_or_attribution,Q459464,http://www.wikidata.org/entity/Q115869261
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP659-REC131701,descriptive_identity,barracks,http://www.wikidata.org/entity/Q120700364
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP659-REC131701,construction_date,1794-01-01T00:00:00Z,http://www.wikidata.org/entity/Q120700364
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP660-REC131911,descriptive_identity,custom house,http://www.wikidata.org/entity/Q122903101
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP660-REC131911,location,Point(14.524617791 50.121197208),http://www.wikidata.org/entity/Q122903101
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP696-REC139051,descriptive_identity,mansion,http://www.wikidata.org/entity/Q123520144
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP696-REC139051,location,Point(-4.052757 51.920351),http://www.wikidata.org/entity/Q123520144
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP663-REC132541,descriptive_identity,office building,http://www.wikidata.org/entity/Q126699475
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP663-REC132541,location,Point(-5.93192 54.5968),http://www.wikidata.org/entity/Q126699475
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP663-REC132541,construction_date,1919-01-01T00:00:00Z,http://www.wikidata.org/entity/Q126699475
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP664-REC132751,descriptive_identity,inn,http://www.wikidata.org/entity/Q100960410
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP664-REC132751,location,Point(-80.126134 43.913499),http://www.wikidata.org/entity/Q100960410
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP664-REC132751,construction_date,1873-01-01T00:00:00Z,http://www.wikidata.org/entity/Q100960410
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP665-REC132961,descriptive_identity,hotel,http://www.wikidata.org/entity/Q104862676
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP665-REC132961,location,Point(-118.4203 33.95965),http://www.wikidata.org/entity/Q104862676
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP651-REC130021,descriptive_identity,office building,http://www.wikidata.org/entity/Q104960080
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP651-REC130021,location,Point(3.124444 50.901662),http://www.wikidata.org/entity/Q104960080
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP651-REC130021,creator_or_attribution,ONO architectuur,http://www.wikidata.org/entity/Q104960080
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP666-REC133171,descriptive_identity,mountain hut,http://www.wikidata.org/entity/Q105755919
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP666-REC133171,location,Point(14.177816 46.170123),http://www.wikidata.org/entity/Q105755919
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP666-REC133171,descriptive_identity,inn,http://www.wikidata.org/entity/Q105755919
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP652-REC130231,descriptive_identity,clergy house,http://www.wikidata.org/entity/Q106458502
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP652-REC130231,location,Point(-82.740132 42.035649),http://www.wikidata.org/entity/Q106458502
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP652-REC130231,construction_date,1908-01-01T00:00:00Z,http://www.wikidata.org/entity/Q106458502
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP653-REC130441,descriptive_identity,administrative building,http://www.wikidata.org/entity/Q108073154
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP653-REC130441,location,Point(-96.336519979 30.618648526),http://www.wikidata.org/entity/Q108073154
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP654-REC130651,descriptive_identity,police station,http://www.wikidata.org/entity/Q109888230
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP654-REC130651,location,Point(2.404546209 48.856150293),http://www.wikidata.org/entity/Q109888230
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP672-REC134221,descriptive_identity,hotel,http://www.wikidata.org/entity/Q110775265
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP672-REC134221,location,Point(115.5376619 -8.4998672),http://www.wikidata.org/entity/Q110775265
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP672-REC134221,construction_date,2014-01-01T00:00:00Z,http://www.wikidata.org/entity/Q110775265
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP672-REC134221,location,Point(115.53802 -8.50016),http://www.wikidata.org/entity/Q110775265
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP672-REC134221,location,Point(115.5380768 -8.498846),http://www.wikidata.org/entity/Q110775265
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP717-REC143251,descriptive_identity,cultural heritage,http://www.wikidata.org/entity/Q10391472
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP717-REC143251,location,Point(-9.36441932 38.72631024),http://www.wikidata.org/entity/Q10391472
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP717-REC143251,descriptive_identity,Roman villa,http://www.wikidata.org/entity/Q10391472
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP717-REC143251,descriptive_identity,ancient Roman structure,http://www.wikidata.org/entity/Q10391472
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP717-REC143251,descriptive_identity,Roman archaeological site,http://www.wikidata.org/entity/Q10391472
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP745-REC148921,descriptive_identity,masia,http://www.wikidata.org/entity/Q102888899
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP745-REC148921,location,Point(2.424703098 41.660807235),http://www.wikidata.org/entity/Q102888899
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP750-REC149971,descriptive_identity,house,http://www.wikidata.org/entity/Q104390813
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP750-REC149971,location,Point(-81.217469 42.980041),http://www.wikidata.org/entity/Q104390813
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP750-REC149971,construction_date,1897-01-01T00:00:00Z,http://www.wikidata.org/entity/Q104390813
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP709-REC141781,descriptive_identity,English country house,http://www.wikidata.org/entity/Q4458348
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP709-REC141781,location,Point(-0.63452 51.40645),http://www.wikidata.org/entity/Q4458348
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP712-REC142201,descriptive_identity,garden,http://www.wikidata.org/entity/Q5104374
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP712-REC142201,location,Point(-2.69299 53.05732),http://www.wikidata.org/entity/Q5104374
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP712-REC142201,construction_date,1804-01-01T00:00:00Z,http://www.wikidata.org/entity/Q5104374
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP712-REC142201,creator_or_attribution,J. M. W. Turner,http://www.wikidata.org/entity/Q5104374
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP712-REC142201,descriptive_identity,English country house,http://www.wikidata.org/entity/Q5104374
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP737-REC147241,descriptive_identity,domus,http://www.wikidata.org/entity/Q16537527
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP737-REC147241,location,Point(14.3476 40.8059),http://www.wikidata.org/entity/Q16537527
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP737-REC147241,descriptive_identity,ancient Roman structure,http://www.wikidata.org/entity/Q16537527
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP741-REC148081,descriptive_identity,Roman villa,http://www.wikidata.org/entity/Q17658778
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP741-REC148081,location,Point(-1.45061 51.8473),http://www.wikidata.org/entity/Q17658778
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP741-REC148081,descriptive_identity,ancient Roman structure,http://www.wikidata.org/entity/Q17658778
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP705-REC140941,descriptive_identity,country house,http://www.wikidata.org/entity/Q24663966
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP705-REC140941,location,Point(-2.9606864 53.04083),http://www.wikidata.org/entity/Q24663966
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP707-REC141361,descriptive_identity,mansion,http://www.wikidata.org/entity/Q29495663
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP707-REC141361,location,Point(-3.6529124 52.595757),http://www.wikidata.org/entity/Q29495663
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP751-REC150181,descriptive_identity,masia,http://www.wikidata.org/entity/Q104759534
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP751-REC150181,location,Point(2.835681845 41.71497449),http://www.wikidata.org/entity/Q104759534
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP758-REC151441,descriptive_identity,house,http://www.wikidata.org/entity/Q104962073
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP758-REC151441,creator_or_attribution,architecten de vylder vinck taillieu,http://www.wikidata.org/entity/Q104962073
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP760-REC151861,descriptive_identity,house,http://www.wikidata.org/entity/Q105713885
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP760-REC151861,location,Point(-82.179471 42.402022),http://www.wikidata.org/entity/Q105713885
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP760-REC151861,construction_date,1870-01-01T00:00:00Z,http://www.wikidata.org/entity/Q105713885
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP718-REC143461,descriptive_identity,villa,http://www.wikidata.org/entity/Q106045471
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP718-REC143461,location,Point(11.649924 44.66794),http://www.wikidata.org/entity/Q106045471
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP718-REC143461,construction_date,1850-01-01T00:00:00Z,http://www.wikidata.org/entity/Q106045471
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP722-REC144301,descriptive_identity,villa,http://www.wikidata.org/entity/Q110948148
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP722-REC144301,location,Point(14.364611111 50.100055555),http://www.wikidata.org/entity/Q110948148
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP722-REC144301,creator_or_attribution,Jaroslav Böhm,http://www.wikidata.org/entity/Q110948148
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP727-REC145351,descriptive_identity,archaeological site,http://www.wikidata.org/entity/Q121865308
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP727-REC145351,location,Point(-1.0986547 51.6981482),http://www.wikidata.org/entity/Q121865308
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP727-REC145351,descriptive_identity,Roman villa,http://www.wikidata.org/entity/Q121865308
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP730-REC145981,descriptive_identity,villa,http://www.wikidata.org/entity/Q126363437
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP730-REC145981,location,Point(7.62239 47.05624),http://www.wikidata.org/entity/Q126363437
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP730-REC145981,construction_date,1860-01-01T00:00:00Z,http://www.wikidata.org/entity/Q126363437
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP734-REC146611,descriptive_identity,villa,http://www.wikidata.org/entity/Q136299561
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP734-REC146611,location,Point(13.847094 51.061265),http://www.wikidata.org/entity/Q136299561
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP734-REC146611,construction_date,1899-01-01T00:00:00Z,http://www.wikidata.org/entity/Q136299561
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP735-REC146821,descriptive_identity,archaeological site,http://www.wikidata.org/entity/Q139861034
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP735-REC146821,location,Point(-2.82646 51.06209),http://www.wikidata.org/entity/Q139861034
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP735-REC146821,descriptive_identity,Roman villa,http://www.wikidata.org/entity/Q139861034
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP212-REC42361,descriptive_identity,tower block,http://www.wikidata.org/entity/Q548679
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP212-REC42361,location,Point(103.86 1.2825),http://www.wikidata.org/entity/Q548679
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP212-REC42361,construction_date,2010-06-23T00:00:00Z,http://www.wikidata.org/entity/Q548679
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP212-REC42361,creator_or_attribution,Moshe Safdie,http://www.wikidata.org/entity/Q548679
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP212-REC42361,descriptive_identity,hotel,http://www.wikidata.org/entity/Q548679
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP212-REC42361,descriptive_identity,casino hotel,http://www.wikidata.org/entity/Q548679
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP190-REC37951,descriptive_identity,skyscraper,http://www.wikidata.org/entity/Q1357866
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP190-REC37951,location,Point(20.984722222 52.233055555),http://www.wikidata.org/entity/Q1357866
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP190-REC37951,construction_date,2016-01-01T00:00:00Z,http://www.wikidata.org/entity/Q1357866
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP190-REC37951,construction_date,2016-05-01T00:00:00Z,http://www.wikidata.org/entity/Q1357866
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP209-REC41731,descriptive_identity,residential tower,http://www.wikidata.org/entity/Q1621843
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP209-REC41731,location,Point(8.84422 54.13166),http://www.wikidata.org/entity/Q1621843
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP209-REC41731,construction_date,1972-01-01T00:00:00Z,http://www.wikidata.org/entity/Q1621843
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP220-REC43831,descriptive_identity,shopping center,http://www.wikidata.org/entity/Q1795768
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP220-REC43831,location,Point(12.37722222 51.33833333),http://www.wikidata.org/entity/Q1795768
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP220-REC43831,construction_date,1893-01-01T00:00:00Z,http://www.wikidata.org/entity/Q1795768
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP220-REC43831,descriptive_identity,concert hall,http://www.wikidata.org/entity/Q1795768
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP220-REC43831,descriptive_identity,exhibition park,http://www.wikidata.org/entity/Q1795768
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP215-REC42991,descriptive_identity,opera house,http://www.wikidata.org/entity/Q2510029
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP215-REC42991,location,Point(11.964166666 57.711111111),http://www.wikidata.org/entity/Q2510029
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP215-REC42991,construction_date,1994-09-30T00:00:00Z,http://www.wikidata.org/entity/Q2510029
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP211-REC42151,descriptive_identity,tower block,http://www.wikidata.org/entity/Q3530524
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP211-REC42151,location,Point(139.75322 35.70334),http://www.wikidata.org/entity/Q3530524
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP211-REC42151,construction_date,1999-02-01T00:00:00Z,http://www.wikidata.org/entity/Q3530524
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP211-REC42151,construction_date,2000-06-01T00:00:00Z,http://www.wikidata.org/entity/Q3530524
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP211-REC42151,creator_or_attribution,Kenzō Tange,http://www.wikidata.org/entity/Q3530524
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP211-REC42151,descriptive_identity,hotel,http://www.wikidata.org/entity/Q3530524
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP211-REC42151,location,Point(139.7535 35.703694),http://www.wikidata.org/entity/Q3530524
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP211-REC42151,location,Point(139.754 35.7036),http://www.wikidata.org/entity/Q3530524
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP198-REC39421,descriptive_identity,skyscraper,http://www.wikidata.org/entity/Q3538182
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP198-REC39421,location,Point(-74.011 40.7207),http://www.wikidata.org/entity/Q3538182
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP198-REC39421,construction_date,1988-08-10T00:00:00Z,http://www.wikidata.org/entity/Q3538182
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP198-REC39421,creator_or_attribution,Kohn Pedersen Fox,http://www.wikidata.org/entity/Q3538182
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP198-REC39421,descriptive_identity,office building,http://www.wikidata.org/entity/Q3538182
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP204-REC40681,descriptive_identity,skyscraper,http://www.wikidata.org/entity/Q7414128
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP204-REC40681,location,Point(-122.397 37.7899),http://www.wikidata.org/entity/Q7414128
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP204-REC40681,construction_date,2017-01-01T00:00:00Z,http://www.wikidata.org/entity/Q7414128
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP204-REC40681,creator_or_attribution,César Pelli,http://www.wikidata.org/entity/Q7414128
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP206-REC41101,descriptive_identity,skyscraper,http://www.wikidata.org/entity/Q9189645
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP206-REC41101,location,Point(140.123 35.6095),http://www.wikidata.org/entity/Q9189645
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP206-REC41101,construction_date,2009-02-01T00:00:00Z,http://www.wikidata.org/entity/Q9189645
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP206-REC41101,descriptive_identity,apartment building,http://www.wikidata.org/entity/Q9189645
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP189-REC37741,descriptive_identity,skyscraper,http://www.wikidata.org/entity/Q12059576
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP189-REC37741,location,Point(-90.06583 29.94792),http://www.wikidata.org/entity/Q12059576
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP189-REC37741,descriptive_identity,hotel,http://www.wikidata.org/entity/Q12059576
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP189-REC37741,location,Point(-90.0653 29.9497),http://www.wikidata.org/entity/Q12059576
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP191-REC38161,descriptive_identity,skyscraper,http://www.wikidata.org/entity/Q15477116
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP191-REC38161,location,Point(110.34 20.0203),http://www.wikidata.org/entity/Q15477116
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP191-REC38161,construction_date,2008-05-31T00:00:00Z,http://www.wikidata.org/entity/Q15477116
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP191-REC38161,descriptive_identity,office building,http://www.wikidata.org/entity/Q15477116
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP768-REC153541,descriptive_identity,barn,http://www.wikidata.org/entity/Q17778031
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP768-REC153541,location,Point(-5.08445 56.2437),http://www.wikidata.org/entity/Q17778031
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP770-REC153961,descriptive_identity,barn,http://www.wikidata.org/entity/Q26281558
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP770-REC153961,location,Point(1.350416176 52.12796559),http://www.wikidata.org/entity/Q26281558
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP772-REC154381,descriptive_identity,barn,http://www.wikidata.org/entity/Q26296461
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP772-REC154381,location,Point(-0.7544532 51.194072),http://www.wikidata.org/entity/Q26296461
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP773-REC154591,descriptive_identity,barn,http://www.wikidata.org/entity/Q26302197
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP773-REC154591,location,Point(1.238332933 52.45114624),http://www.wikidata.org/entity/Q26302197
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP779-REC155641,descriptive_identity,barn,http://www.wikidata.org/entity/Q26371366
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP779-REC155641,location,Point(0.588649 51.064338),http://www.wikidata.org/entity/Q26371366
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP780-REC155851,descriptive_identity,barn,http://www.wikidata.org/entity/Q26382690
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP780-REC155851,location,Point(-1.694154 51.890652),http://www.wikidata.org/entity/Q26382690
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP781-REC156061,descriptive_identity,thatched barn,http://www.wikidata.org/entity/Q26386402
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP781-REC156061,location,Point(-1.089418 51.158917),http://www.wikidata.org/entity/Q26386402
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP782-REC156271,descriptive_identity,barn,http://www.wikidata.org/entity/Q26390631
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP782-REC156271,location,Point(-3.047404 50.837054),http://www.wikidata.org/entity/Q26390631
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP197-REC39211,descriptive_identity,skyscraper,http://www.wikidata.org/entity/Q30766281
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP197-REC39211,location,Point(108.87786 34.1947),http://www.wikidata.org/entity/Q30766281
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP197-REC39211,construction_date,2019-01-01T00:00:00Z,http://www.wikidata.org/entity/Q30766281
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP197-REC39211,construction_date,2017-01-01T00:00:00Z,http://www.wikidata.org/entity/Q30766281
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP213-REC42571,descriptive_identity,tower block,http://www.wikidata.org/entity/Q66969234
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP213-REC42571,location,Point(-1.480907 53.827898),http://www.wikidata.org/entity/Q66969234
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP213-REC42571,construction_date,1962-01-01T00:00:00Z,http://www.wikidata.org/entity/Q66969234
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP187-REC37321,descriptive_identity,skyscraper,http://www.wikidata.org/entity/Q106002354
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP187-REC37321,location,Point(114.025818 22.615216),http://www.wikidata.org/entity/Q106002354
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP187-REC37321,construction_date,2019-01-01T00:00:00Z,http://www.wikidata.org/entity/Q106002354
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP187-REC37321,creator_or_attribution,HPP Architekten,http://www.wikidata.org/entity/Q106002354
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP764-REC152701,descriptive_identity,barn,http://www.wikidata.org/entity/Q110020705
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP764-REC152701,location,Point(10.343698 53.346686),http://www.wikidata.org/entity/Q110020705
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP764-REC152701,descriptive_identity,timber-framed house,http://www.wikidata.org/entity/Q110020705
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP765-REC152911,descriptive_identity,barn,http://www.wikidata.org/entity/Q134701263
+IDB-REG_01-CAT_15-ERA_03-1780-ACC05-HOP765-REC152911,location,Point(-95.14203 39.67651),http://www.wikidata.org/entity/Q134701263
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP366-REC73021,descriptive_identity,brewery,http://www.wikidata.org/entity/Q1021189
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP366-REC73021,construction_date,1880-01-01T00:00:00Z,http://www.wikidata.org/entity/Q1021189
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP317-REC63361,descriptive_identity,road bridge,http://www.wikidata.org/entity/Q1031728
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP317-REC63361,location,Point(11.5961 50.9284),http://www.wikidata.org/entity/Q1031728
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP317-REC63361,construction_date,1913-11-15T00:00:00Z,http://www.wikidata.org/entity/Q1031728
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP317-REC63361,descriptive_identity,concrete arch bridge,http://www.wikidata.org/entity/Q1031728
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP317-REC63361,descriptive_identity,tram bridge,http://www.wikidata.org/entity/Q1031728
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP303-REC60421,descriptive_identity,railway station,http://www.wikidata.org/entity/Q1048827
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP303-REC60421,location,Point(135.7715 34.9326),http://www.wikidata.org/entity/Q1048827
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP303-REC60421,construction_date,1895-11-03T00:00:00Z,http://www.wikidata.org/entity/Q1048827
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP303-REC60421,construction_date,1997-01-01T00:00:00Z,http://www.wikidata.org/entity/Q1048827
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP369-REC73651,descriptive_identity,factory,http://www.wikidata.org/entity/Q1404247
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP369-REC73651,location,Point(13.701968 51.023297),http://www.wikidata.org/entity/Q1404247
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP369-REC73651,construction_date,1856-01-01T00:00:00Z,http://www.wikidata.org/entity/Q1404247
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP369-REC73651,descriptive_identity,brewery,http://www.wikidata.org/entity/Q1404247
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP369-REC73651,descriptive_identity,business,http://www.wikidata.org/entity/Q1404247
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP315-REC62941,descriptive_identity,railway station,http://www.wikidata.org/entity/Q10868188
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP301-REC60001,descriptive_identity,railway station,http://www.wikidata.org/entity/Q104527702
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP301-REC60001,location,Point(74.8554685 31.2877742),http://www.wikidata.org/entity/Q104527702
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP302-REC60211,descriptive_identity,railway station,http://www.wikidata.org/entity/Q104699511
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP302-REC60211,location,Point(72.4704112 22.9645191),http://www.wikidata.org/entity/Q104699511
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP304-REC60631,descriptive_identity,railway station,http://www.wikidata.org/entity/Q105427011
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP304-REC60631,location,Point(75.9863393 24.6025879),http://www.wikidata.org/entity/Q105427011
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP319-REC63781,descriptive_identity,bridge,http://www.wikidata.org/entity/Q105624005
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP319-REC63781,location,Point(120.524513888 30.030755555),http://www.wikidata.org/entity/Q105624005
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP306-REC61051,descriptive_identity,railway station,http://www.wikidata.org/entity/Q106310994
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP306-REC61051,location,Point(-1.6717 53.6833),http://www.wikidata.org/entity/Q106310994
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP306-REC61051,construction_date,1891-01-01T00:00:00Z,http://www.wikidata.org/entity/Q106310994
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP306-REC61051,construction_date,1919-01-01T00:00:00Z,http://www.wikidata.org/entity/Q106310994
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP308-REC61471,descriptive_identity,railway station,http://www.wikidata.org/entity/Q107121321
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP308-REC61471,location,Point(-3.2353 51.9958),http://www.wikidata.org/entity/Q107121321
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP308-REC61471,construction_date,1864-01-01T00:00:00Z,http://www.wikidata.org/entity/Q107121321
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP309-REC61681,descriptive_identity,railway station,http://www.wikidata.org/entity/Q107394796
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP309-REC61681,location,Point(-3.1069 54.607),http://www.wikidata.org/entity/Q107394796
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP309-REC61681,construction_date,1922-01-01T00:00:00Z,http://www.wikidata.org/entity/Q107394796
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP343-REC68401,descriptive_identity,wind farm,http://www.wikidata.org/entity/Q107589803
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP343-REC68401,location,Point(5.281 52.6873),http://www.wikidata.org/entity/Q107589803
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP326-REC65041,descriptive_identity,footbridge,http://www.wikidata.org/entity/Q108292335
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP326-REC65041,location,Point(14.3807697 50.012395),http://www.wikidata.org/entity/Q108292335
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP312-REC62311,descriptive_identity,railway station,http://www.wikidata.org/entity/Q108478920
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP312-REC62311,location,Point(21.3795411 54.6218962),http://www.wikidata.org/entity/Q108478920
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP313-REC62521,descriptive_identity,railway station,http://www.wikidata.org/entity/Q108541460
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP313-REC62521,location,Point(14.781933 50.881763),http://www.wikidata.org/entity/Q108541460
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP313-REC62521,component_relationship,train station Olbersdorf-Niederdorf,http://www.wikidata.org/entity/Q108541460
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP327-REC65251,descriptive_identity,bridge,http://www.wikidata.org/entity/Q108697885
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP327-REC65251,location,Point(14.4015169 50.0825817),http://www.wikidata.org/entity/Q108697885
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP327-REC65251,descriptive_identity,subway,http://www.wikidata.org/entity/Q108697885
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP345-REC68821,descriptive_identity,coal-fired power station,http://www.wikidata.org/entity/Q111181247
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP352-REC70291,descriptive_identity,oil-fired power station,http://www.wikidata.org/entity/Q116697234
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP352-REC70291,location,Point(-84.54315 41.471822),http://www.wikidata.org/entity/Q116697234
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP352-REC70291,descriptive_identity,natural gas-fired power station,http://www.wikidata.org/entity/Q116697234
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP354-REC70711,descriptive_identity,battery energy storage system,http://www.wikidata.org/entity/Q116697764
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP354-REC70711,location,Point(-118.3045 34.6864),http://www.wikidata.org/entity/Q116697764
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP360-REC71971,descriptive_identity,gas turbine power station,http://www.wikidata.org/entity/Q116714210
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP360-REC71971,location,Point(-120.8679 35.9515),http://www.wikidata.org/entity/Q116714210
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP360-REC71971,descriptive_identity,natural gas-fired power station,http://www.wikidata.org/entity/Q116714210
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP361-REC72181,descriptive_identity,natural gas-fired power station,http://www.wikidata.org/entity/Q116714699
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP361-REC72181,location,Point(-108.3136 42.8475),http://www.wikidata.org/entity/Q116714699
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP364-REC72601,descriptive_identity,onshore wind farm,http://www.wikidata.org/entity/Q116715369
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP364-REC72601,location,Point(-78.5436 40.4381),http://www.wikidata.org/entity/Q116715369
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP293-REC58531,descriptive_identity,metro station,http://www.wikidata.org/entity/Q133895372
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP293-REC58531,location,Point(87.480336111 43.916713888),http://www.wikidata.org/entity/Q133895372
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP293-REC58531,construction_date,2025-04-17T00:00:00Z,http://www.wikidata.org/entity/Q133895372
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP293-REC58531,descriptive_identity,airport railway station,http://www.wikidata.org/entity/Q133895372
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP293-REC58531,descriptive_identity,underground station,http://www.wikidata.org/entity/Q133895372
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP422-REC84361,descriptive_identity,brickworks,http://www.wikidata.org/entity/Q124514208
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP422-REC84361,location,Point(-4.7064757 55.708936),http://www.wikidata.org/entity/Q124514208
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP422-REC84361,construction_date,1907-01-01T00:00:00Z,http://www.wikidata.org/entity/Q124514208
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP423-REC84571,descriptive_identity,brickworks,http://www.wikidata.org/entity/Q124514437
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP423-REC84571,location,Point(-3.6693016 55.976493),http://www.wikidata.org/entity/Q124514437
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP423-REC84571,construction_date,1928-01-01T00:00:00Z,http://www.wikidata.org/entity/Q124514437
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP379-REC75751,descriptive_identity,windmill,http://www.wikidata.org/entity/Q133854053
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP379-REC75751,location,Point(-1.015402929 37.635561347),http://www.wikidata.org/entity/Q133854053
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP399-REC79741,descriptive_identity,watermill,http://www.wikidata.org/entity/Q140026685
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP399-REC79741,location,Point(-0.693027777 47.621666666),http://www.wikidata.org/entity/Q140026685
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP399-REC79741,descriptive_identity,residential building,http://www.wikidata.org/entity/Q140026685
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP417-REC83311,descriptive_identity,distillery,http://www.wikidata.org/entity/Q116203715
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP417-REC83311,location,Point(115.8746461 -31.9503137),http://www.wikidata.org/entity/Q116203715
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP378-REC75541,descriptive_identity,windmill,http://www.wikidata.org/entity/Q118188826
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP378-REC75541,location,Point(-4.392275 54.328548),http://www.wikidata.org/entity/Q118188826
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP415-REC82891,descriptive_identity,granite yard,http://www.wikidata.org/entity/Q110969968
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP375-REC74911,descriptive_identity,brewery,http://www.wikidata.org/entity/Q880640
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP375-REC74911,construction_date,1436-03-18T00:00:00Z,http://www.wikidata.org/entity/Q880640
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP375-REC74911,descriptive_identity,trademark,http://www.wikidata.org/entity/Q880640
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP383-REC76591,descriptive_identity,windmill,http://www.wikidata.org/entity/Q2145370
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP383-REC76591,location,Point(3.033737 50.775365),http://www.wikidata.org/entity/Q2145370
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP402-REC80371,descriptive_identity,watermill,http://www.wikidata.org/entity/Q2293489
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP402-REC80371,location,Point(6.140086 51.344272),http://www.wikidata.org/entity/Q2293489
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP388-REC77431,descriptive_identity,windmill,http://www.wikidata.org/entity/Q2691647
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP388-REC77431,location,Point(5.504167 51.637222),http://www.wikidata.org/entity/Q2691647
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP388-REC77431,construction_date,1842-01-01T00:00:00Z,http://www.wikidata.org/entity/Q2691647
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP388-REC77431,descriptive_identity,watermill,http://www.wikidata.org/entity/Q2691647
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP388-REC77431,descriptive_identity,stellingmill,http://www.wikidata.org/entity/Q2691647
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP389-REC77641,descriptive_identity,windmill,http://www.wikidata.org/entity/Q2999609
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP389-REC77641,location,Point(6.713956 52.788358),http://www.wikidata.org/entity/Q2999609
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP389-REC77641,descriptive_identity,smock mill on a small hill,http://www.wikidata.org/entity/Q2999609
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP419-REC83731,descriptive_identity,shipyard,http://www.wikidata.org/entity/Q11887488
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP419-REC83731,location,Point(22.126118 60.454407),http://www.wikidata.org/entity/Q11887488
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP419-REC83731,construction_date,1974-01-01T00:00:00Z,http://www.wikidata.org/entity/Q11887488
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP387-REC77221,descriptive_identity,windmill,http://www.wikidata.org/entity/Q26433437
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP387-REC77221,location,Point(-4.187541 50.354904),http://www.wikidata.org/entity/Q26433437
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP403-REC80581,descriptive_identity,watermill,http://www.wikidata.org/entity/Q26523300
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP403-REC80581,location,Point(-2.44319 53.193493),http://www.wikidata.org/entity/Q26523300
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP403-REC80581,construction_date,1609-01-01T00:00:00Z,http://www.wikidata.org/entity/Q26523300
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP406-REC81001,descriptive_identity,watermill,http://www.wikidata.org/entity/Q47169694
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP406-REC81001,location,Point(2.50056 41.90376),http://www.wikidata.org/entity/Q47169694
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP406-REC81001,construction_date,1400-01-01T00:00:00Z,http://www.wikidata.org/entity/Q47169694
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP407-REC81211,descriptive_identity,watermill,http://www.wikidata.org/entity/Q55076733
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP407-REC81211,location,Point(3.71444911 50.832657),http://www.wikidata.org/entity/Q55076733
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP391-REC78061,descriptive_identity,windmill,http://www.wikidata.org/entity/Q55599232
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP391-REC78061,location,Point(27.6219904 62.91003125),http://www.wikidata.org/entity/Q55599232
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP408-REC81421,descriptive_identity,ruins,http://www.wikidata.org/entity/Q64578278
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP408-REC81421,location,Point(-1.568476736 53.84421749),http://www.wikidata.org/entity/Q64578278
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP408-REC81421,construction_date,1785-01-01T00:00:00Z,http://www.wikidata.org/entity/Q64578278
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP408-REC81421,descriptive_identity,watermill,http://www.wikidata.org/entity/Q64578278
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP392-REC78271,descriptive_identity,windmill,http://www.wikidata.org/entity/Q66815788
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP392-REC78271,location,Point(-25.064288061 36.980833597),http://www.wikidata.org/entity/Q66815788
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP392-REC78271,descriptive_identity,cultural heritage,http://www.wikidata.org/entity/Q66815788
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP392-REC78271,descriptive_identity,architectural ensemble,http://www.wikidata.org/entity/Q66815788
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP392-REC78271,location,Point(-25.064543381 36.98127904),http://www.wikidata.org/entity/Q66815788
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP410-REC81841,descriptive_identity,watermill,http://www.wikidata.org/entity/Q96655551
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP411-REC82051,descriptive_identity,factory,http://www.wikidata.org/entity/Q102230738
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP411-REC82051,location,Point(-0.259508 51.659657),http://www.wikidata.org/entity/Q102230738
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP413-REC82471,descriptive_identity,heat-only boiler station,http://www.wikidata.org/entity/Q108169289
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP413-REC82471,location,Point(43.063458 44.034901),http://www.wikidata.org/entity/Q108169289
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP413-REC82471,descriptive_identity,historic building,http://www.wikidata.org/entity/Q108169289
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP377-REC75331,descriptive_identity,windmill,http://www.wikidata.org/entity/Q108782129
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP377-REC75331,location,Point(-2.9038817 53.9310771),http://www.wikidata.org/entity/Q108782129
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP414-REC82681,descriptive_identity,car factory,http://www.wikidata.org/entity/Q109927949
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP414-REC82681,construction_date,1959-04-21T00:00:00Z,http://www.wikidata.org/entity/Q109927949
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP472-REC94231,descriptive_identity,casa consistorial,http://www.wikidata.org/entity/Q126817301
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP472-REC94231,location,Point(-5.1527622 36.6119305),http://www.wikidata.org/entity/Q126817301
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP473-REC94441,descriptive_identity,casa consistorial,http://www.wikidata.org/entity/Q126817734
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP473-REC94441,location,Point(-0.166320174 41.93136992),http://www.wikidata.org/entity/Q126817734
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP475-REC94861,descriptive_identity,casa consistorial,http://www.wikidata.org/entity/Q126818607
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP475-REC94861,location,Point(-0.992196932 41.452180636),http://www.wikidata.org/entity/Q126818607
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP476-REC95071,descriptive_identity,casa consistorial,http://www.wikidata.org/entity/Q126819045
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP476-REC95071,location,Point(-5.5582612 43.4090706),http://www.wikidata.org/entity/Q126819045
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP484-REC96751,descriptive_identity,casa consistorial,http://www.wikidata.org/entity/Q126822636
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP484-REC96751,location,Point(-3.6522795 41.5486905),http://www.wikidata.org/entity/Q126822636
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP485-REC96961,descriptive_identity,casa consistorial,http://www.wikidata.org/entity/Q126823106
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP485-REC96961,location,Point(-2.476277777 41.717305555),http://www.wikidata.org/entity/Q126823106
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP486-REC97171,descriptive_identity,casa consistorial,http://www.wikidata.org/entity/Q126823599
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP486-REC97171,location,Point(-5.1857553 41.3524631),http://www.wikidata.org/entity/Q126823599
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP433-REC86461,descriptive_identity,mint,http://www.wikidata.org/entity/Q127431604
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP433-REC86461,location,http://www.wikidata.org/.well-known/genid/eebb47448057dcf3b0768cbd1dd693bb,http://www.wikidata.org/entity/Q127431604
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP469-REC93601,descriptive_identity,city hall,http://www.wikidata.org/entity/Q124672550
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP469-REC93601,location,Point(-2.3775 53.5403),http://www.wikidata.org/entity/Q124672550
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP438-REC87511,descriptive_identity,water tower,http://www.wikidata.org/entity/Q753148
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP438-REC87511,location,Point(7.12972 51.2786),http://www.wikidata.org/entity/Q753148
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP457-REC91291,descriptive_identity,tower,http://www.wikidata.org/entity/Q1431547
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP457-REC91291,location,Point(2.348777777 48.857763888),http://www.wikidata.org/entity/Q1431547
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP457-REC91291,construction_date,1523-01-01T00:00:00Z,http://www.wikidata.org/entity/Q1431547
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP457-REC91291,descriptive_identity,bell chamber,http://www.wikidata.org/entity/Q1431547
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP450-REC89821,descriptive_identity,castle,http://www.wikidata.org/entity/Q11952313
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP450-REC89821,location,Point(1.109599 41.154485),http://www.wikidata.org/entity/Q11952313
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP450-REC89821,descriptive_identity,watchtower,http://www.wikidata.org/entity/Q11952313
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP488-REC97591,descriptive_identity,courthouse,http://www.wikidata.org/entity/Q12404648
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP488-REC97591,location,Point(35.203611111 31.780833333),http://www.wikidata.org/entity/Q12404648
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP488-REC97591,construction_date,1992-01-01T00:00:00Z,http://www.wikidata.org/entity/Q12404648
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP488-REC97591,creator_or_attribution,Ram Karmi,http://www.wikidata.org/entity/Q12404648
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP488-REC97591,creator_or_attribution,Ada Karmi-Melamede,http://www.wikidata.org/entity/Q12404648
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP454-REC90661,descriptive_identity,clock tower,http://www.wikidata.org/entity/Q13090177
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP454-REC90661,location,Point(17.731266589 43.133844511),http://www.wikidata.org/entity/Q13090177
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP454-REC90661,descriptive_identity,historic building,http://www.wikidata.org/entity/Q13090177
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP494-REC98641,descriptive_identity,police station,http://www.wikidata.org/entity/Q30103024
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP494-REC98641,location,Point(151.0753837 -30.171630972),http://www.wikidata.org/entity/Q30103024
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP494-REC98641,descriptive_identity,courthouse,http://www.wikidata.org/entity/Q30103024
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP494-REC98641,location,Point(151.0754 -30.1716),http://www.wikidata.org/entity/Q30103024
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP439-REC87721,descriptive_identity,archive building,http://www.wikidata.org/entity/Q104218077
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP439-REC87721,location,Point(7.539869 46.7877668),http://www.wikidata.org/entity/Q104218077
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP439-REC87721,construction_date,1612-01-01T00:00:00Z,http://www.wikidata.org/entity/Q104218077
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP439-REC87721,descriptive_identity,prison tower,http://www.wikidata.org/entity/Q104218077
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP440-REC87931,descriptive_identity,tower,http://www.wikidata.org/entity/Q105046784
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP440-REC87931,location,Point(12.5607144 41.8167863),http://www.wikidata.org/entity/Q105046784
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP440-REC87931,descriptive_identity,tomb,http://www.wikidata.org/entity/Q105046784
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP440-REC87931,descriptive_identity,archaeological site,http://www.wikidata.org/entity/Q105046784
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP462-REC92341,descriptive_identity,city hall,http://www.wikidata.org/entity/Q105439849
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP442-REC88351,descriptive_identity,tower,http://www.wikidata.org/entity/Q106953401
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP442-REC88351,location,Point(9.215803 48.085823),http://www.wikidata.org/entity/Q106953401
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP442-REC88351,descriptive_identity,fortification,http://www.wikidata.org/entity/Q106953401
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP442-REC88351,descriptive_identity,local museum,http://www.wikidata.org/entity/Q106953401
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP463-REC92551,descriptive_identity,Rathaus,http://www.wikidata.org/entity/Q107320767
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP463-REC92551,location,Point(-100.207049893 34.423930051),http://www.wikidata.org/entity/Q107320767
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP446-REC89191,descriptive_identity,tower,http://www.wikidata.org/entity/Q113042804
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP446-REC89191,location,Point(9.16371 45.86577),http://www.wikidata.org/entity/Q113042804
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP446-REC89191,descriptive_identity,defensive tower,http://www.wikidata.org/entity/Q113042804
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP434-REC86671,descriptive_identity,water tower,http://www.wikidata.org/entity/Q115119243
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP434-REC86671,location,Point(13.648025 52.310558),http://www.wikidata.org/entity/Q115119243
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP434-REC86671,construction_date,1902-01-01T00:00:00Z,http://www.wikidata.org/entity/Q115119243
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP466-REC93181,descriptive_identity,city hall,http://www.wikidata.org/entity/Q116256995
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP466-REC93181,location,Point(130.4175 33.617777777),http://www.wikidata.org/entity/Q116256995
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP466-REC93181,construction_date,1971-09-01T00:00:00Z,http://www.wikidata.org/entity/Q116256995
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP466-REC93181,material_identity,reinforced concrete construction,http://www.wikidata.org/entity/Q116256995
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP452-REC90241,descriptive_identity,light beacon,http://www.wikidata.org/entity/Q123739047
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP452-REC90241,location,Point(99.098033333 7.468361111),http://www.wikidata.org/entity/Q123739047
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP452-REC90241,construction_date,1971-03-23T00:00:00Z,http://www.wikidata.org/entity/Q123739047
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP533-REC106411,descriptive_identity,concentration camp,http://www.wikidata.org/entity/Q152658
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP533-REC106411,location,Point(23.594136 51.446992),http://www.wikidata.org/entity/Q152658
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP533-REC106411,construction_date,1942-05-01T00:00:00Z,http://www.wikidata.org/entity/Q152658
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP533-REC106411,descriptive_identity,extermination camp,http://www.wikidata.org/entity/Q152658
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP506-REC101161,descriptive_identity,city gate,http://www.wikidata.org/entity/Q2488593
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP506-REC101161,location,Point(6.57236695 53.218474),http://www.wikidata.org/entity/Q2488593
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP539-REC107671,descriptive_identity,concentration camp,http://www.wikidata.org/entity/Q2935302
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP539-REC107671,location,Point(0.47166667 47.19444444),http://www.wikidata.org/entity/Q2935302
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP539-REC107671,descriptive_identity,military camp,http://www.wikidata.org/entity/Q2935302
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP507-REC101371,descriptive_identity,city gate,http://www.wikidata.org/entity/Q3398944
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP507-REC101371,location,Point(2.35583 48.8497),http://www.wikidata.org/entity/Q3398944
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP507-REC101371,descriptive_identity,destroyed building or structure,http://www.wikidata.org/entity/Q3398944
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP544-REC108721,descriptive_identity,prison,http://www.wikidata.org/entity/Q5635123
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP544-REC108721,location,Point(-2.09167 57.1333),http://www.wikidata.org/entity/Q5635123
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP544-REC108721,construction_date,1890-01-01T00:00:00Z,http://www.wikidata.org/entity/Q5635123
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP499-REC99691,descriptive_identity,courthouse,http://www.wikidata.org/entity/Q6893714
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP499-REC99691,location,Point(-114.051944 35.191944),http://www.wikidata.org/entity/Q6893714
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP499-REC99691,creator_or_attribution,Lescher & Mahoney,http://www.wikidata.org/entity/Q6893714
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP547-REC109351,descriptive_identity,concentration camp,http://www.wikidata.org/entity/Q7065149
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP547-REC109351,location,Point(12.7786 50.2742),http://www.wikidata.org/entity/Q7065149
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP549-REC109771,descriptive_identity,prison,http://www.wikidata.org/entity/Q8054992
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP549-REC109771,construction_date,1952-01-01T00:00:00Z,http://www.wikidata.org/entity/Q8054992
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP536-REC107041,descriptive_identity,prison,http://www.wikidata.org/entity/Q20435138
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP538-REC107461,descriptive_identity,prison,http://www.wikidata.org/entity/Q28206745
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP538-REC107461,location,Point(-75.529852 39.741318),http://www.wikidata.org/entity/Q28206745
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP538-REC107461,construction_date,1982-01-01T00:00:00Z,http://www.wikidata.org/entity/Q28206745
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP523-REC104521,descriptive_identity,extinguisher station,http://www.wikidata.org/entity/Q49350645
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP523-REC104521,location,Point(14.638781 50.878419),http://www.wikidata.org/entity/Q49350645
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP523-REC104521,construction_date,1867-01-01T00:00:00Z,http://www.wikidata.org/entity/Q49350645
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP545-REC108931,descriptive_identity,prison,http://www.wikidata.org/entity/Q57981283
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP545-REC108931,location,Point(12.3216766 45.4260761),http://www.wikidata.org/entity/Q57981283
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP545-REC108931,construction_date,1556-01-01T00:00:00Z,http://www.wikidata.org/entity/Q57981283
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP545-REC108931,descriptive_identity,monastery,http://www.wikidata.org/entity/Q57981283
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP545-REC108931,descriptive_identity,hospital,http://www.wikidata.org/entity/Q57981283
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP545-REC108931,descriptive_identity,printery,http://www.wikidata.org/entity/Q57981283
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP545-REC108931,descriptive_identity,former hospital,http://www.wikidata.org/entity/Q57981283
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP545-REC108931,descriptive_identity,secularized church,http://www.wikidata.org/entity/Q57981283
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP500-REC99901,descriptive_identity,courthouse,http://www.wikidata.org/entity/Q74679920
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP500-REC99901,location,Point(-6.9701 54.2476),http://www.wikidata.org/entity/Q74679920
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP512-REC102211,descriptive_identity,city gate,http://www.wikidata.org/entity/Q99308493
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP512-REC102211,location,Point(12.2875 43.1281),http://www.wikidata.org/entity/Q99308493
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP554-REC110611,descriptive_identity,hospital,http://www.wikidata.org/entity/Q102149940
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP554-REC110611,location,Point(7.082083333 4.825611111),http://www.wikidata.org/entity/Q102149940
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP554-REC110611,descriptive_identity,medical facility,http://www.wikidata.org/entity/Q102149940
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP526-REC105151,descriptive_identity,prison,http://www.wikidata.org/entity/Q104854393
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP526-REC105151,location,Point(85.31263 27.69732),http://www.wikidata.org/entity/Q104854393
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP526-REC105151,component_relationship,Central Jail Hospital,http://www.wikidata.org/entity/Q104854393
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP557-REC111241,descriptive_identity,private hospital,http://www.wikidata.org/entity/Q105957165
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP557-REC111241,location,Point(3.23302153 6.541675316),http://www.wikidata.org/entity/Q105957165
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP557-REC111241,construction_date,2016-01-08T00:00:00Z,http://www.wikidata.org/entity/Q105957165
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP513-REC102421,descriptive_identity,fire station,http://www.wikidata.org/entity/Q107635496
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP513-REC102421,location,Point(13.318166571 50.794410763),http://www.wikidata.org/entity/Q107635496
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP559-REC111661,descriptive_identity,hospital,http://www.wikidata.org/entity/Q108123166
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP559-REC111661,location,Point(-76.988055555 42.876666666),http://www.wikidata.org/entity/Q108123166
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP527-REC105361,descriptive_identity,prison,http://www.wikidata.org/entity/Q109119439
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP561-REC112081,descriptive_identity,hospital,http://www.wikidata.org/entity/Q110242595
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP561-REC112081,location,Point(112.232594444 -7.553259131),http://www.wikidata.org/entity/Q110242595
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP528-REC105571,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q112977917
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP528-REC105571,location,Point(9.1746 48.8316),http://www.wikidata.org/entity/Q112977917
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP528-REC105571,component_relationship,civilian internment enclosure,http://www.wikidata.org/entity/Q112977917
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP528-REC105571,descriptive_identity,military prison,http://www.wikidata.org/entity/Q112977917
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP515-REC102841,descriptive_identity,fire station,http://www.wikidata.org/entity/Q116760310
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP515-REC102841,location,Point(14.412454444 48.560050277),http://www.wikidata.org/entity/Q116760310
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP516-REC103051,descriptive_identity,fire station,http://www.wikidata.org/entity/Q116838604
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP516-REC103051,location,Point(11.899030038 50.337120107),http://www.wikidata.org/entity/Q116838604
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP516-REC103051,construction_date,1875-08-09T00:00:00Z,http://www.wikidata.org/entity/Q116838604
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP530-REC105991,descriptive_identity,prison,http://www.wikidata.org/entity/Q129620609
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP530-REC105991,construction_date,1958-10-28T00:00:00Z,http://www.wikidata.org/entity/Q129620609
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP530-REC105991,descriptive_identity,drunk tank,http://www.wikidata.org/entity/Q129620609
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP504-REC100741,descriptive_identity,city gate,http://www.wikidata.org/entity/Q134577144
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP504-REC100741,construction_date,1690-01-01T00:00:00Z,http://www.wikidata.org/entity/Q134577144
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP532-REC106201,descriptive_identity,prison,http://www.wikidata.org/entity/Q136699369
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP532-REC106201,location,Point(-111.04226 45.67954),http://www.wikidata.org/entity/Q136699369
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP532-REC106201,creator_or_attribution,Fred F. Willson,http://www.wikidata.org/entity/Q136699369
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP576-REC115021,descriptive_identity,hospital,http://www.wikidata.org/entity/Q1208336
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP576-REC115021,location,Point(8.40943 48.9719),http://www.wikidata.org/entity/Q1208336
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP576-REC115021,construction_date,1851-01-01T00:00:00Z,http://www.wikidata.org/entity/Q1208336
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP607-REC121321,descriptive_identity,library,http://www.wikidata.org/entity/Q10856462
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP607-REC121321,construction_date,1995-01-01T00:00:00Z,http://www.wikidata.org/entity/Q10856462
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP563-REC112501,descriptive_identity,hospital,http://www.wikidata.org/entity/Q11236215
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP563-REC112501,location,Point(129.87277778 32.73611111),http://www.wikidata.org/entity/Q11236215
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP563-REC112501,construction_date,1930-08-11T00:00:00Z,http://www.wikidata.org/entity/Q11236215
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP565-REC112921,descriptive_identity,hospital,http://www.wikidata.org/entity/Q11406043
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP565-REC112921,location,Point(140.13861111 35.60138889),http://www.wikidata.org/entity/Q11406043
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP565-REC112921,construction_date,2003-01-01T00:00:00Z,http://www.wikidata.org/entity/Q11406043
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP566-REC113131,descriptive_identity,hospital,http://www.wikidata.org/entity/Q11440935
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP566-REC113131,location,Point(135.611334 34.849368),http://www.wikidata.org/entity/Q11440935
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP566-REC113131,construction_date,1985-01-01T00:00:00Z,http://www.wikidata.org/entity/Q11440935
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP566-REC113131,construction_date,1985-11-01T00:00:00Z,http://www.wikidata.org/entity/Q11440935
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP568-REC113551,descriptive_identity,hospital,http://www.wikidata.org/entity/Q11514051
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP568-REC113551,location,Point(139.796225393 35.650796724),http://www.wikidata.org/entity/Q11514051
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP570-REC113971,descriptive_identity,hospital,http://www.wikidata.org/entity/Q11582253
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP570-REC113971,location,Point(137.973333 36.226667),http://www.wikidata.org/entity/Q11582253
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP570-REC113971,construction_date,1908-01-10T00:00:00Z,http://www.wikidata.org/entity/Q11582253
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP601-REC120061,descriptive_identity,municipal library,http://www.wikidata.org/entity/Q100999055
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP601-REC120061,location,Point(-7.170003 40.168761),http://www.wikidata.org/entity/Q100999055
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP604-REC120691,descriptive_identity,municipal library,http://www.wikidata.org/entity/Q105451761
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP604-REC120691,location,Point(9.08523 45.67007),http://www.wikidata.org/entity/Q105451761
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP604-REC120691,descriptive_identity,library of an Italian territorial body,http://www.wikidata.org/entity/Q105451761
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP606-REC121111,descriptive_identity,municipal library,http://www.wikidata.org/entity/Q107136862
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP606-REC121111,location,Point(25.37322 60.47698),http://www.wikidata.org/entity/Q107136862
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP583-REC116491,descriptive_identity,American Indian boarding school,http://www.wikidata.org/entity/Q107920206
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP583-REC116491,location,Point(-106.6555 35.1087),http://www.wikidata.org/entity/Q107920206
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP583-REC116491,construction_date,1884-01-01T00:00:00Z,http://www.wikidata.org/entity/Q107920206
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP608-REC121531,descriptive_identity,academic library,http://www.wikidata.org/entity/Q108921986
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP608-REC121531,location,Point(3.24208307 6.603982052),http://www.wikidata.org/entity/Q108921986
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP608-REC121531,construction_date,2016-01-01T00:00:00Z,http://www.wikidata.org/entity/Q108921986
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP610-REC121951,descriptive_identity,library,http://www.wikidata.org/entity/Q109943699
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP610-REC121951,location,Point(4.646666666 8.5375),http://www.wikidata.org/entity/Q109943699
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP627-REC125311,descriptive_identity,shopping center,http://www.wikidata.org/entity/Q110453283
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP627-REC125311,location,Point(24.779566666 60.732583333),http://www.wikidata.org/entity/Q110453283
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP585-REC116911,descriptive_identity,one-room school,http://www.wikidata.org/entity/Q110682351
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP585-REC116911,location,Point(-99.08461 39.71377),http://www.wikidata.org/entity/Q110682351
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP585-REC116911,construction_date,1899-01-01T00:00:00Z,http://www.wikidata.org/entity/Q110682351
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP585-REC116911,material_identity,wood,http://www.wikidata.org/entity/Q110682351
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP562-REC112291,descriptive_identity,hospital,http://www.wikidata.org/entity/Q111095944
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP612-REC122371,descriptive_identity,institutional repository,http://www.wikidata.org/entity/Q111308607
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP612-REC122371,descriptive_identity,document repository,http://www.wikidata.org/entity/Q111308607
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP612-REC122371,descriptive_identity,open-access repository,http://www.wikidata.org/entity/Q111308607
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP614-REC122791,descriptive_identity,document repository,http://www.wikidata.org/entity/Q111309134
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP586-REC117121,descriptive_identity,school building,http://www.wikidata.org/entity/Q111340594
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP586-REC117121,location,Point(9.77548 52.41521),http://www.wikidata.org/entity/Q111340594
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP586-REC117121,descriptive_identity,Grundschule,http://www.wikidata.org/entity/Q111340594
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP618-REC123421,descriptive_identity,public library,http://www.wikidata.org/entity/Q112076106
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP618-REC123421,location,Point(13.157749869 43.612190894),http://www.wikidata.org/entity/Q112076106
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP618-REC123421,descriptive_identity,library of an Italian territorial body,http://www.wikidata.org/entity/Q112076106
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP619-REC123631,descriptive_identity,university library,http://www.wikidata.org/entity/Q112085239
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP619-REC123631,location,Point(12.63697224 43.723706394),http://www.wikidata.org/entity/Q112085239
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP620-REC123841,descriptive_identity,public library,http://www.wikidata.org/entity/Q112759252
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP620-REC123841,location,Point(11.4134003 44.3532543),http://www.wikidata.org/entity/Q112759252
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP620-REC123841,descriptive_identity,library of an Italian territorial body,http://www.wikidata.org/entity/Q112759252
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP624-REC124681,descriptive_identity,public library,http://www.wikidata.org/entity/Q112844425
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP624-REC124681,location,Point(14.6629765 41.374675),http://www.wikidata.org/entity/Q112844425
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP625-REC124891,descriptive_identity,public library,http://www.wikidata.org/entity/Q112844645
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP625-REC124891,location,Point(15.270601 40.7396309),http://www.wikidata.org/entity/Q112844645
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP625-REC124891,descriptive_identity,library of an Italian territorial body,http://www.wikidata.org/entity/Q112844645
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP592-REC118381,descriptive_identity,vocational school,http://www.wikidata.org/entity/Q115707656
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP592-REC118381,location,Point(8.4088796 49.0069281),http://www.wikidata.org/entity/Q115707656
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP592-REC118381,creator_or_attribution,Heinz Mohl,http://www.wikidata.org/entity/Q115707656
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP592-REC118381,descriptive_identity,school building,http://www.wikidata.org/entity/Q115707656
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP572-REC114391,descriptive_identity,hospital,http://www.wikidata.org/entity/Q116743820
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP572-REC114391,location,Point(38.322336 37.767139),http://www.wikidata.org/entity/Q116743820
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP572-REC114391,construction_date,2012-01-01T00:00:00Z,http://www.wikidata.org/entity/Q116743820
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP597-REC119221,descriptive_identity,university building,http://www.wikidata.org/entity/Q123034208
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP597-REC119221,location,Point(-82.107 39.3252),http://www.wikidata.org/entity/Q123034208
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP597-REC119221,construction_date,1962-01-01T00:00:00Z,http://www.wikidata.org/entity/Q123034208
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP643-REC128461,descriptive_identity,private road,http://www.wikidata.org/entity/Q3368038
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP643-REC128461,location,Point(2.33741 48.8664),http://www.wikidata.org/entity/Q3368038
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP643-REC128461,descriptive_identity,covered passages of Paris,http://www.wikidata.org/entity/Q3368038
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP643-REC128461,descriptive_identity,passageway,http://www.wikidata.org/entity/Q3368038
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP644-REC128671,descriptive_identity,shopping center,http://www.wikidata.org/entity/Q4692570
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP644-REC128671,location,Point(-79.292305555 43.784194444),http://www.wikidata.org/entity/Q4692570
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP644-REC128671,construction_date,1966-01-01T00:00:00Z,http://www.wikidata.org/entity/Q4692570
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP644-REC128671,construction_date,1966-10-26T00:00:00Z,http://www.wikidata.org/entity/Q4692570
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP647-REC129301,descriptive_identity,shopping center,http://www.wikidata.org/entity/Q5371782
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP647-REC129301,location,Point(103.7957 1.5487),http://www.wikidata.org/entity/Q5371782
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP647-REC129301,construction_date,2006-01-04T00:00:00Z,http://www.wikidata.org/entity/Q5371782
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP647-REC129301,descriptive_identity,shopping mall,http://www.wikidata.org/entity/Q5371782
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP647-REC129301,location,Point(103.795972222 1.549305555),http://www.wikidata.org/entity/Q5371782
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP648-REC129511,descriptive_identity,shopping center,http://www.wikidata.org/entity/Q5604053
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP648-REC129511,location,Point(-79.5824 40.3059),http://www.wikidata.org/entity/Q5604053
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP648-REC129511,construction_date,2005-01-01T00:00:00Z,http://www.wikidata.org/entity/Q5604053
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP628-REC125521,descriptive_identity,shopping center,http://www.wikidata.org/entity/Q11332602
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP628-REC125521,location,Point(136.250306 36.096389),http://www.wikidata.org/entity/Q11332602
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP628-REC125521,construction_date,2000-10-27T00:00:00Z,http://www.wikidata.org/entity/Q11332602
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP629-REC125731,descriptive_identity,shopping center,http://www.wikidata.org/entity/Q11722828
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP629-REC125731,location,Point(14.4905556 50.0305556),http://www.wikidata.org/entity/Q11722828
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP629-REC125731,construction_date,2005-01-01T00:00:00Z,http://www.wikidata.org/entity/Q11722828
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP641-REC128041,descriptive_identity,shopping mall,http://www.wikidata.org/entity/Q24841224
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP641-REC128041,location,Point(114.2321 22.4244),http://www.wikidata.org/entity/Q24841224
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP649-REC129721,descriptive_identity,shopping center,http://www.wikidata.org/entity/Q60946147
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP649-REC129721,location,Point(131.891591 43.114796),http://www.wikidata.org/entity/Q60946147
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP649-REC129721,construction_date,1914-01-01T00:00:00Z,http://www.wikidata.org/entity/Q60946147
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP649-REC129721,material_identity,brick,http://www.wikidata.org/entity/Q60946147
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP649-REC129721,descriptive_identity,architectural landmark,http://www.wikidata.org/entity/Q60946147
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP651-REC130141,descriptive_identity,barracks,http://www.wikidata.org/entity/Q105759459
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP651-REC130141,location,Point(147.1637 -41.4784),http://www.wikidata.org/entity/Q105759459
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP669-REC133711,descriptive_identity,hotel,http://www.wikidata.org/entity/Q109042380
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP669-REC133711,location,Point(2.313341126 48.869728396),http://www.wikidata.org/entity/Q109042380
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP669-REC133711,construction_date,2015-01-19T00:00:00Z,http://www.wikidata.org/entity/Q109042380
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP669-REC133711,descriptive_identity,palace hotel,http://www.wikidata.org/entity/Q109042380
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP670-REC133921,descriptive_identity,hotel,http://www.wikidata.org/entity/Q110439171
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP670-REC133921,location,Point(13.04658 47.79958),http://www.wikidata.org/entity/Q110439171
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP672-REC134341,descriptive_identity,hotel,http://www.wikidata.org/entity/Q110941789
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP672-REC134341,location,Point(115.260689 -8.684964),http://www.wikidata.org/entity/Q110941789
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP673-REC134551,descriptive_identity,hotel,http://www.wikidata.org/entity/Q110975990
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP673-REC134551,location,Point(115.154251 -8.682249),http://www.wikidata.org/entity/Q110975990
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP673-REC134551,construction_date,2011-01-01T00:00:00Z,http://www.wikidata.org/entity/Q110975990
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP673-REC134551,descriptive_identity,resort hotel,http://www.wikidata.org/entity/Q110975990
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP674-REC134761,descriptive_identity,hotel,http://www.wikidata.org/entity/Q110976208
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP674-REC134761,location,Point(115.172737 -8.723059),http://www.wikidata.org/entity/Q110976208
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP674-REC134761,construction_date,1974-01-01T00:00:00Z,http://www.wikidata.org/entity/Q110976208
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP674-REC134761,descriptive_identity,resort hotel,http://www.wikidata.org/entity/Q110976208
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP674-REC134761,construction_date,1985-01-01T00:00:00Z,http://www.wikidata.org/entity/Q110976208
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP677-REC135391,descriptive_identity,hotel,http://www.wikidata.org/entity/Q110978192
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP677-REC135391,location,Point(115.2583 -8.5117),http://www.wikidata.org/entity/Q110978192
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP677-REC135391,location,Point(115.25819858 -8.511365703),http://www.wikidata.org/entity/Q110978192
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP679-REC135601,descriptive_identity,hotel,http://www.wikidata.org/entity/Q110978451
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP679-REC135601,location,Point(115.2691557 -8.5035564),http://www.wikidata.org/entity/Q110978451
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP679-REC135601,location,Point(115.26916 -8.503556),http://www.wikidata.org/entity/Q110978451
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP679-REC135601,location,Point(115.269532 -8.500846),http://www.wikidata.org/entity/Q110978451
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP680-REC135811,descriptive_identity,hotel,http://www.wikidata.org/entity/Q110978671
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP680-REC135811,location,Point(115.440536 -8.479121),http://www.wikidata.org/entity/Q110978671
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP680-REC135811,descriptive_identity,guest house,http://www.wikidata.org/entity/Q110978671
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP682-REC136231,descriptive_identity,hotel,http://www.wikidata.org/entity/Q110981979
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP682-REC136231,location,Point(106.830042 -6.149118),http://www.wikidata.org/entity/Q110981979
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP684-REC136651,descriptive_identity,hotel,http://www.wikidata.org/entity/Q111051790
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP684-REC136651,location,Point(77.045219466 28.470785654),http://www.wikidata.org/entity/Q111051790
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP685-REC136861,descriptive_identity,hotel,http://www.wikidata.org/entity/Q111052017
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP685-REC136861,location,Point(77.052384 28.449704),http://www.wikidata.org/entity/Q111052017
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP655-REC130981,descriptive_identity,office building,http://www.wikidata.org/entity/Q113134950
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP655-REC130981,location,Point(12.51552 55.67917),http://www.wikidata.org/entity/Q113134950
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP658-REC131401,descriptive_identity,office building,http://www.wikidata.org/entity/Q116820578
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP658-REC131401,location,Point(-73.987938 40.736435),http://www.wikidata.org/entity/Q116820578
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP658-REC131401,construction_date,1963-01-01T00:00:00Z,http://www.wikidata.org/entity/Q116820578
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP658-REC131401,creator_or_attribution,Q459464,http://www.wikidata.org/entity/Q116820578
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP660-REC131821,descriptive_identity,ruins,http://www.wikidata.org/entity/Q122158562
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP660-REC131821,location,Point(40.72677 34.74969),http://www.wikidata.org/entity/Q122158562
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP660-REC131821,construction_date,0101-01-01T00:00:00Z,http://www.wikidata.org/entity/Q122158562
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP660-REC131821,descriptive_identity,barracks,http://www.wikidata.org/entity/Q122158562
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP660-REC131821,descriptive_identity,cultural heritage,http://www.wikidata.org/entity/Q122158562
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP660-REC131821,descriptive_identity,feature,http://www.wikidata.org/entity/Q122158562
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP660-REC131821,descriptive_identity,cultural property,http://www.wikidata.org/entity/Q122158562
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP630-REC125941,descriptive_identity,shopping center,http://www.wikidata.org/entity/Q123299155
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP630-REC125941,location,Point(4.48684 51.90207),http://www.wikidata.org/entity/Q123299155
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP630-REC125941,descriptive_identity,food court,http://www.wikidata.org/entity/Q123299155
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP661-REC132031,descriptive_identity,office building,http://www.wikidata.org/entity/Q123678219
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP661-REC132031,location,Point(4.483722462 51.919012344),http://www.wikidata.org/entity/Q123678219
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP631-REC126151,descriptive_identity,shopping arcade,http://www.wikidata.org/entity/Q126828201
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP631-REC126151,location,Point(114.164375066 22.454147531),http://www.wikidata.org/entity/Q126828201
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP635-REC126991,descriptive_identity,shopping center,http://www.wikidata.org/entity/Q138347798
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP635-REC126991,location,Point(24.793654 60.183261),http://www.wikidata.org/entity/Q138347798
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP635-REC126991,construction_date,1962-01-01T00:00:00Z,http://www.wikidata.org/entity/Q138347798
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP635-REC126991,creator_or_attribution,Heikki Siren,http://www.wikidata.org/entity/Q138347798
+IDB-REG_01-CAT_15-ERA_04-1890-ACC05-HOP635-REC126991,creator_or_attribution,Kaija Siren,http://www.wikidata.org/entity/Q138347798
