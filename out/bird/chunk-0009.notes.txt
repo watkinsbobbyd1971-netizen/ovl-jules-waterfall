@@ -1,0 +1,4 @@
+Attempted sources:
+- GBIF API (species match)
+- Wikidata SPARQL (filtered by wd:Q518 Aves)
+Subjects appeared to be artifacts/documents, not birds.
