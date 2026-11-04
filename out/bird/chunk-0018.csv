@@ -1,0 +1,512 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16153-REC3230412,descriptive_identity,Tools and Equipment,https://clevelandart.org/art/1937.869
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16153-REC3230412,integument_description,"leather, quills, beads",https://clevelandart.org/art/1937.869
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16007-REC3201292,descriptive_identity,Mask,https://clevelandart.org/art/1969.2
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16007-REC3201292,integument_description,"Wood, plant fibers, paint, and iron",https://clevelandart.org/art/1969.2
+IDB-REG_03-CAT_11-ERA_03-1780-ACC04-HOP15381-REC3076013,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_11-ERA_03-1780-ACC04-HOP15381-REC3076013,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_11-ERA_03-1780-ACC04-HOP15381-REC3076013,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17303-REC3460572,descriptive_identity,Garment,https://clevelandart.org/art/1915.659
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17303-REC3460572,integument_description,"Silk taffeta, brocaded",https://clevelandart.org/art/1915.659
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15951-REC3190092,descriptive_identity,Ceramic,https://clevelandart.org/art/1966.117.a
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15951-REC3190092,integument_description,porcelain with wucai (five color) overglaze enamel decoration,https://clevelandart.org/art/1966.117.a
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15772-REC3154392,descriptive_identity,Tools and Equipment,https://clevelandart.org/art/2010.199
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15772-REC3154392,integument_description,"Wood, copper, glass beads, sinew, leather, and thread",https://clevelandart.org/art/2010.199
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15481-REC3096152,descriptive_identity,Tools and Equipment,https://clevelandart.org/art/2012.42
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15481-REC3096152,integument_description,Nephrite and metal,https://clevelandart.org/art/2012.42
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16150-REC3229852,descriptive_identity,Wedge,https://api.vam.ac.uk/v2/museumobject/O383065
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15259-REC3051632,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15259-REC3051632,integument_description,banded travertine,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15702-REC3140252,descriptive_identity,Silver,https://clevelandart.org/art/1947.276
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15702-REC3140252,integument_description,silver,https://clevelandart.org/art/1947.276
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15488-REC3097552,descriptive_identity,Portfolio,https://clevelandart.org/art/1976.37.12
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15488-REC3097552,integument_description,gelatin silver print,https://clevelandart.org/art/1976.37.12
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15887-REC3177352,descriptive_identity,Clamp,https://api.vam.ac.uk/v2/museumobject/O7475
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15887-REC3177352,integument_description,steel,https://api.vam.ac.uk/v2/museumobject/O7475
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15276-REC3055132,descriptive_identity,Lime container,https://api.vam.ac.uk/v2/museumobject/O456079
+IDB-REG_03-CAT_11-ERA_03-1780-ACC04-HOP16127-REC3225393,descriptive_identity,Enamel,https://clevelandart.org/art/1940.136
+IDB-REG_03-CAT_11-ERA_03-1780-ACC04-HOP16127-REC3225393,integument_description,enamel on metal with gold stand,https://clevelandart.org/art/1940.136
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15349-REC3069692,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15349-REC3069692,integument_description,banded travertine,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15968-REC3193592,descriptive_identity,Mask,https://clevelandart.org/art/1969.2
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15968-REC3193592,integument_description,"Wood, plant fibers, paint, and iron",https://clevelandart.org/art/1969.2
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15918-REC3183512,descriptive_identity,Basketry,https://clevelandart.org/art/1929.326
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15918-REC3183512,integument_description,Plant fibers and dye,https://clevelandart.org/art/1929.326
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17707-REC3541352,descriptive_identity,Charcoal,https://api.vam.ac.uk/v2/museumobject/O117520
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16169-REC3233772,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16169-REC3233772,integument_description,banded travertine,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15971-REC3194012,descriptive_identity,Textile,https://clevelandart.org/art/1965.314
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15971-REC3194012,integument_description,wool,https://clevelandart.org/art/1965.314
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13366-REC2673072,descriptive_identity,Shuttle,https://api.vam.ac.uk/v2/museumobject/O1516272
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13366-REC2673072,integument_description,"wood, metal",https://api.vam.ac.uk/v2/museumobject/O1516272
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13826-REC2765192,descriptive_identity,Garment,https://clevelandart.org/art/1915.466.a
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13826-REC2765192,integument_description,Raffia and dye,https://clevelandart.org/art/1915.466.a
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP12889-REC2577732,descriptive_identity,Textile,https://clevelandart.org/art/1971.138
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP12889-REC2577732,integument_description,"tabby, double cloth weave, two lengths: wool",https://clevelandart.org/art/1971.138
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15985-REC3196812,descriptive_identity,Textile,https://clevelandart.org/art/1956.831
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15985-REC3196812,integument_description,beadwork on cloth,https://clevelandart.org/art/1956.831
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13854-REC2770792,descriptive_identity,T-shirt,https://api.vam.ac.uk/v2/museumobject/O1177181
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13854-REC2770792,integument_description,cotton (textile),https://api.vam.ac.uk/v2/museumobject/O1177181
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP12949-REC2589632,descriptive_identity,Sample,https://api.vam.ac.uk/v2/museumobject/O1767537
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP12949-REC2589632,integument_description,glass,https://api.vam.ac.uk/v2/museumobject/O1767537
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP14674-REC2934732,descriptive_identity,Raincoat,https://api.vam.ac.uk/v2/museumobject/O1457191
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP14674-REC2934732,integument_description,PVC,https://api.vam.ac.uk/v2/museumobject/O1457191
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP14318-REC2863472,descriptive_identity,Embroidery,https://clevelandart.org/art/1926.490
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP14318-REC2863472,integument_description,"silk thread on silk ground, embroidery",https://clevelandart.org/art/1926.490
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16937-REC3387212,descriptive_identity,Textile,https://clevelandart.org/art/2007.2.3
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16937-REC3387212,integument_description,cotton and camelid fiber,https://clevelandart.org/art/2007.2.3
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP18640-REC3727972,descriptive_identity,Textile,https://clevelandart.org/art/1925.485
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP18640-REC3727972,integument_description,batik; cotton,https://clevelandart.org/art/1925.485
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17493-REC3498512,descriptive_identity,Textile,https://clevelandart.org/art/1940.498
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17493-REC3498512,integument_description,camelid fiber; tapestry and complementary-weft weave,https://clevelandart.org/art/1940.498
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP14844-REC2968752,descriptive_identity,Garment,https://clevelandart.org/art/1915.466.a
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP14844-REC2968752,integument_description,Raffia and dye,https://clevelandart.org/art/1915.466.a
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16326-REC3265132,descriptive_identity,Door,https://api.vam.ac.uk/v2/museumobject/O128175
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16326-REC3265132,integument_description,"plaster, paint",https://api.vam.ac.uk/v2/museumobject/O128175
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP18942-REC3788312,descriptive_identity,Pair of moccasins,https://api.vam.ac.uk/v2/museumobject/O361116
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP18942-REC3788312,integument_description,"leather, beads",https://api.vam.ac.uk/v2/museumobject/O361116
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17232-REC3446292,descriptive_identity,Garment,https://clevelandart.org/art/1915.466.a
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17232-REC3446292,integument_description,Raffia and dye,https://clevelandart.org/art/1915.466.a
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP12850-REC2569892,descriptive_identity,Textile,https://clevelandart.org/art/2007.2.3
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP12850-REC2569892,integument_description,cotton and camelid fiber,https://clevelandart.org/art/2007.2.3
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15793-REC3158452,descriptive_identity,Arms and Armor,https://clevelandart.org/art/1916.1639
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15793-REC3158452,integument_description,steel,https://clevelandart.org/art/1916.1639
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13621-REC2724032,descriptive_identity,Garment,https://clevelandart.org/art/1918.828
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13621-REC2724032,integument_description,"embroidery, silk",https://clevelandart.org/art/1918.828
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP18078-REC3615552,descriptive_identity,Shoe sole,https://api.vam.ac.uk/v2/museumobject/O331888
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP18078-REC3615552,integument_description,leather,https://api.vam.ac.uk/v2/museumobject/O331888
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP14123-REC2824412,descriptive_identity,Textile,https://clevelandart.org/art/1940.498
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP14123-REC2824412,integument_description,camelid fiber; tapestry and complementary-weft weave,https://clevelandart.org/art/1940.498
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16430-REC3285992,descriptive_identity,Raincoat,https://api.vam.ac.uk/v2/museumobject/O1457191
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16430-REC3285992,integument_description,PVC,https://api.vam.ac.uk/v2/museumobject/O1457191
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP12997-REC2599292,descriptive_identity,Textile,https://clevelandart.org/art/2007.2.3
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP12997-REC2599292,integument_description,cotton and camelid fiber,https://clevelandart.org/art/2007.2.3
+IDB-REG_03-CAT_13-ERA_03-1780-ACC04-HOP15758-REC3151403,descriptive_identity,Metalwork,https://clevelandart.org/art/1957.400.1
+IDB-REG_03-CAT_13-ERA_03-1780-ACC04-HOP15758-REC3151403,integument_description,hammered and cut gold,https://clevelandart.org/art/1957.400.1
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17509-REC3501732,descriptive_identity,Garment,https://clevelandart.org/art/1915.466.a
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17509-REC3501732,integument_description,Raffia and dye,https://clevelandart.org/art/1915.466.a
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13455-REC2690992,descriptive_identity,Petticoat,https://api.vam.ac.uk/v2/museumobject/O360181
+IDB-REG_02-CAT_12-ERA_03-1780-ACC04-HOP15237-REC3047362,descriptive_identity,Headdress,https://api.vam.ac.uk/v2/museumobject/O364719
+IDB-REG_02-CAT_12-ERA_03-1780-ACC04-HOP15237-REC3047362,integument_description,"linen, silk (fiber)",https://api.vam.ac.uk/v2/museumobject/O364719
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15406-REC3081032,descriptive_identity,Stone,https://api.vam.ac.uk/v2/museumobject/O383684
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP14545-REC2908832,descriptive_identity,Hat box,https://api.vam.ac.uk/v2/museumobject/O317995
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15028-REC3005572,descriptive_identity,overcoat,https://api.vam.ac.uk/v2/museumobject/O1811215
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15028-REC3005572,integument_description,Silk,https://api.vam.ac.uk/v2/museumobject/O1811215
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13728-REC2745592,descriptive_identity,Undershirt,https://api.vam.ac.uk/v2/museumobject/O1743895
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13728-REC2745592,integument_description,Cotton,https://api.vam.ac.uk/v2/museumobject/O1743895
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15161-REC3032032,descriptive_identity,Textile,https://clevelandart.org/art/1965.314
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15161-REC3032032,integument_description,wool,https://clevelandart.org/art/1965.314
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16305-REC3260932,descriptive_identity,Textile,https://clevelandart.org/art/1965.314
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16305-REC3260932,integument_description,wool,https://clevelandart.org/art/1965.314
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13739-REC2747692,descriptive_identity,Garment,https://clevelandart.org/art/1915.466.a
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13739-REC2747692,integument_description,Raffia and dye,https://clevelandart.org/art/1915.466.a
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP14341-REC2868092,descriptive_identity,Coat,https://api.vam.ac.uk/v2/museumobject/O132501
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP14341-REC2868092,integument_description,"cotton, wadding",https://api.vam.ac.uk/v2/museumobject/O132501
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17691-REC3538132,descriptive_identity,Headdress,https://api.vam.ac.uk/v2/museumobject/O364719
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17691-REC3538132,integument_description,"linen, silk (fiber)",https://api.vam.ac.uk/v2/museumobject/O364719
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3972,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3972,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3972,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3933,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3933,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3933,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3962,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3962,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3962,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3872,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3872,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3872,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3943,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3943,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3943,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3853,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3853,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3853,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3833,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3833,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3833,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3952,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3952,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3952,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3893,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3893,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3893,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3842,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3842,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3842,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3832,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3832,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3832,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3813,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3813,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3813,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3873,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3873,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3873,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3913,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3913,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3913,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3983,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3983,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3983,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3822,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3822,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3822,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3892,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3892,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3892,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3912,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3912,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3912,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3932,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3932,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3932,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3882,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3882,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3882,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3883,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3883,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3883,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3852,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3852,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3852,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3982,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3982,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3982,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3902,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3902,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3902,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3953,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3953,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3953,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3942,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3942,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3942,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3922,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3922,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3922,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3923,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3923,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3923,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3973,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3973,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3973,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3963,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3963,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3963,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3802,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3802,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3802,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3812,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3812,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3812,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3993,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3993,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3993,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3992,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3992,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3992,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3903,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3903,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3903,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3803,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3803,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3803,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3862,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3862,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3862,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3863,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3863,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3863,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3823,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3823,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3823,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3843,scientific_identity,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3843,descriptive_identity,CLASS,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_03-CAT_14-ERA_04-1880S-ACC04-HOP20-REC3843,identity_label,Aves,https://api.gbif.org/v1/species/match?name=Aves
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13804-REC2760712,descriptive_identity,Coat,https://api.vam.ac.uk/v2/museumobject/O132501
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13804-REC2760712,integument_description,"cotton, wadding",https://api.vam.ac.uk/v2/museumobject/O132501
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16247-REC3249292,descriptive_identity,Silver,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16247-REC3249292,integument_description,silver gilt,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17445-REC3488992,descriptive_identity,Embroidery,https://clevelandart.org/art/1926.490
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17445-REC3488992,integument_description,"silk thread on silk ground, embroidery",https://clevelandart.org/art/1926.490
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP18682-REC3736212,descriptive_identity,Basketry,https://clevelandart.org/art/1929.268
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP18682-REC3736212,integument_description,coiled,https://clevelandart.org/art/1929.268
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17966-REC3593012,descriptive_identity,Head ornament,https://api.vam.ac.uk/v2/museumobject/O80064
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17966-REC3593012,integument_description,"silver, carnelian",https://api.vam.ac.uk/v2/museumobject/O80064
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14847-REC2969292,descriptive_identity,Lantern slide,https://api.vam.ac.uk/v2/museumobject/O1470715
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14847-REC2969292,integument_description,photosensitive,https://api.vam.ac.uk/v2/museumobject/O1470715
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16265-REC3252932,descriptive_identity,Jewelry,https://clevelandart.org/art/1917.1055
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16265-REC3252932,integument_description,glass,https://clevelandart.org/art/1917.1055
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15193-REC3038592,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.171
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15193-REC3038592,integument_description,marble,https://clevelandart.org/art/1990.171
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP13740-REC2747952,descriptive_identity,Textile,https://clevelandart.org/art/1946.226
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP13740-REC2747952,integument_description,camelid fiber: plain weave with embroidery,https://clevelandart.org/art/1946.226
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15622-REC3124272,descriptive_identity,Arms and Armor,https://clevelandart.org/art/1964.88.z
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15622-REC3124272,integument_description,steel,https://clevelandart.org/art/1964.88.z
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15170-REC3033832,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15170-REC3033832,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15363-REC3072472,descriptive_identity,Silver,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15363-REC3072472,integument_description,silver gilt,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15672-REC3134352,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.171
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15672-REC3134352,integument_description,marble,https://clevelandart.org/art/1990.171
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15235-REC3046852,descriptive_identity,Vessels,https://clevelandart.org/art/1996.301
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15235-REC3046852,integument_description,Terracotta,https://clevelandart.org/art/1996.301
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP18045-REC3608832,descriptive_identity,Cloth,https://api.vam.ac.uk/v2/museumobject/O1314671
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP18045-REC3608832,integument_description,"linen, silk thread",https://api.vam.ac.uk/v2/museumobject/O1314671
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15607-REC3121332,descriptive_identity,Musical Instrument,https://clevelandart.org/art/1915.442
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15607-REC3121332,integument_description,Probably hippopotamus ivory,https://clevelandart.org/art/1915.442
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14616-REC2923092,descriptive_identity,Beer bottle,https://api.vam.ac.uk/v2/museumobject/O9530
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14616-REC2923092,integument_description,"glass, paper",https://api.vam.ac.uk/v2/museumobject/O9530
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15681-REC3136172,descriptive_identity,Musical Instrument,https://clevelandart.org/art/1915.442
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15681-REC3136172,integument_description,Probably hippopotamus ivory,https://clevelandart.org/art/1915.442
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16734-REC3346732,descriptive_identity,Pendant,https://api.vam.ac.uk/v2/museumobject/O79764
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16734-REC3346732,integument_description,silver,https://api.vam.ac.uk/v2/museumobject/O79764
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16138-REC3227452,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16138-REC3227452,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15842-REC3168372,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15842-REC3168372,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16330-REC3265952,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16330-REC3265952,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15114-REC3022772,descriptive_identity,Textile,https://clevelandart.org/art/1916.1529.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15114-REC3022772,integument_description,crimson silk brocade; scalloped border with fringe,https://clevelandart.org/art/1916.1529.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP12965-REC2592832,descriptive_identity,Sepulchral monument,https://api.vam.ac.uk/v2/museumobject/O313053
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP12965-REC2592832,integument_description,marble,https://api.vam.ac.uk/v2/museumobject/O313053
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15265-REC3052872,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15265-REC3052872,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15308-REC3061412,descriptive_identity,Jewelry,https://clevelandart.org/art/1917.1055
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15308-REC3061412,integument_description,glass,https://clevelandart.org/art/1917.1055
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15525-REC3104952,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15525-REC3104952,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16091-REC3218072,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16091-REC3218072,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15923-REC3184472,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.171
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15923-REC3184472,integument_description,marble,https://clevelandart.org/art/1990.171
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15289-REC3057772,descriptive_identity,Silver,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15289-REC3057772,integument_description,silver gilt,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15510-REC3101872,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.171
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15510-REC3101872,integument_description,marble,https://clevelandart.org/art/1990.171
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15761-REC3152132,descriptive_identity,Silver,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15761-REC3152132,integument_description,silver gilt,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15343-REC3068412,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15343-REC3068412,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15275-REC3054972,descriptive_identity,Jewelry,https://clevelandart.org/art/1953.181
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15275-REC3054972,integument_description,gold,https://clevelandart.org/art/1953.181
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16271-REC3254052,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16271-REC3254052,integument_description,banded travertine,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14255-REC2850992,descriptive_identity,Key,https://api.vam.ac.uk/v2/museumobject/O138477
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14255-REC2850992,integument_description,steel,https://api.vam.ac.uk/v2/museumobject/O138477
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14020-REC2803952,descriptive_identity,Metalwork,https://clevelandart.org/art/1951.539
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14020-REC2803952,integument_description,sheet brass inlaid with silver,https://clevelandart.org/art/1951.539
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16059-REC3211772,descriptive_identity,Print,https://clevelandart.org/art/2001.219
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16059-REC3211772,integument_description,etching and drypoint,https://clevelandart.org/art/2001.219
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16234-REC3246772,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16234-REC3246772,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP15946-REC3189162,descriptive_identity,Headband,https://api.vam.ac.uk/v2/museumobject/O100897
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP15946-REC3189162,integument_description,"cotton (textile), lamé",https://api.vam.ac.uk/v2/museumobject/O100897
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP18202-REC3640312,descriptive_identity,Brass,https://api.vam.ac.uk/v2/museumobject/O40105
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP18202-REC3640312,integument_description,Brass,https://api.vam.ac.uk/v2/museumobject/O40105
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15153-REC3030472,descriptive_identity,Vessels,https://clevelandart.org/art/1996.301
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15153-REC3030472,integument_description,Terracotta,https://clevelandart.org/art/1996.301
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP12781-REC2556012,descriptive_identity,Textile,https://clevelandart.org/art/2007.2.3
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP12781-REC2556012,integument_description,cotton and camelid fiber,https://clevelandart.org/art/2007.2.3
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15895-REC3178872,descriptive_identity,Jewelry,https://clevelandart.org/art/1917.1055
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15895-REC3178872,integument_description,glass,https://clevelandart.org/art/1917.1055
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15696-REC3139112,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15696-REC3139112,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15391-REC3078072,descriptive_identity,Jewelry,https://clevelandart.org/art/1917.1055
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15391-REC3078072,integument_description,glass,https://clevelandart.org/art/1917.1055
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15620-REC3123992,descriptive_identity,Footed plate,https://api.vam.ac.uk/v2/museumobject/O1485191
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15620-REC3123992,integument_description,thermoset,https://api.vam.ac.uk/v2/museumobject/O1485191
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15945-REC3188812,descriptive_identity,Silver,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15945-REC3188812,integument_description,silver gilt,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15655-REC3130852,descriptive_identity,Pendant,https://api.vam.ac.uk/v2/museumobject/O79764
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15655-REC3130852,integument_description,silver,https://api.vam.ac.uk/v2/museumobject/O79764
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16612-REC3322232,descriptive_identity,Ceramic,https://clevelandart.org/art/1998.257
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16612-REC3322232,integument_description,salt-glazed stoneware,https://clevelandart.org/art/1998.257
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16295-REC3258952,descriptive_identity,Ornament,https://api.vam.ac.uk/v2/museumobject/O1742793
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP13912-REC2782392,descriptive_identity,Ticket,https://api.vam.ac.uk/v2/museumobject/O1826650
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP13912-REC2782392,integument_description,"paper, ink",https://api.vam.ac.uk/v2/museumobject/O1826650
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15757-REC3151292,descriptive_identity,Pendant,https://api.vam.ac.uk/v2/museumobject/O79764
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15757-REC3151292,integument_description,silver,https://api.vam.ac.uk/v2/museumobject/O79764
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15455-REC3090812,descriptive_identity,Ornament,https://api.vam.ac.uk/v2/museumobject/O1742793
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14331-REC2866112,descriptive_identity,Pendant,https://api.vam.ac.uk/v2/museumobject/O88716
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14331-REC2866112,integument_description,limestone,https://api.vam.ac.uk/v2/museumobject/O88716
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP13300-REC2659892,descriptive_identity,Sextant,https://api.vam.ac.uk/v2/museumobject/O473525
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP15306-REC3061083,descriptive_identity,Feather,https://api.vam.ac.uk/v2/museumobject/O1114482
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP15306-REC3061083,integument_description,feather,https://api.vam.ac.uk/v2/museumobject/O1114482
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14421-REC2884172,descriptive_identity,Lantern slide,https://api.vam.ac.uk/v2/museumobject/O1470715
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14421-REC2884172,integument_description,photosensitive,https://api.vam.ac.uk/v2/museumobject/O1470715
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15490-REC3097952,descriptive_identity,Metalwork,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15490-REC3097952,integument_description,cast gold,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15585-REC3116852,descriptive_identity,Metalwork,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15585-REC3116852,integument_description,cast gold,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16906-REC3381032,descriptive_identity,Metalwork,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16906-REC3381032,integument_description,cast gold,https://clevelandart.org/art/1939.509
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP16099-REC3219773,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.176
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP16099-REC3219773,integument_description,banded travertine,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15705-REC3140932,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15705-REC3140932,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16065-REC3212892,descriptive_identity,Jewelry,https://clevelandart.org/art/1917.1055
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16065-REC3212892,integument_description,glass,https://clevelandart.org/art/1917.1055
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14424-REC2884732,descriptive_identity,Print,https://clevelandart.org/art/1923.182
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14424-REC2884732,integument_description,etching,https://clevelandart.org/art/1923.182
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15863-REC3172572,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15863-REC3172572,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP17603-REC3520472,descriptive_identity,Basketry,https://clevelandart.org/art/1929.268
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP17603-REC3520472,integument_description,coiled,https://clevelandart.org/art/1929.268
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15106-REC3021092,descriptive_identity,Lantern slide,https://api.vam.ac.uk/v2/museumobject/O1470715
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15106-REC3021092,integument_description,photosensitive,https://api.vam.ac.uk/v2/museumobject/O1470715
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15750-REC3149892,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15750-REC3149892,integument_description,banded travertine,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16185-REC3236972,descriptive_identity,Jewelry,https://clevelandart.org/art/1917.1055
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16185-REC3236972,integument_description,glass,https://clevelandart.org/art/1917.1055
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15879-REC3175792,descriptive_identity,Seals,https://clevelandart.org/art/1964.458
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15879-REC3175792,integument_description,agate,https://clevelandart.org/art/1964.458
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15282-REC3056372,descriptive_identity,Sculpture,https://clevelandart.org/art/1976.29
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15282-REC3056372,integument_description,soapstone,https://clevelandart.org/art/1976.29
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP17027-REC3405252,descriptive_identity,Jewelry,https://clevelandart.org/art/1953.181
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP17027-REC3405252,integument_description,gold,https://clevelandart.org/art/1953.181
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP13828-REC2765452,descriptive_identity,Pendant,https://api.vam.ac.uk/v2/museumobject/O88716
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP13828-REC2765452,integument_description,limestone,https://api.vam.ac.uk/v2/museumobject/O88716
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP18080-REC3615952,descriptive_identity,Textile,https://clevelandart.org/art/1965.314
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP18080-REC3615952,integument_description,wool,https://clevelandart.org/art/1965.314
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15490-REC3097812,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15490-REC3097812,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16259-REC3251672,descriptive_identity,Seals,https://clevelandart.org/art/1964.458
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16259-REC3251672,integument_description,agate,https://clevelandart.org/art/1964.458
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15501-REC3100052,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15501-REC3100052,integument_description,banded travertine,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16035-REC3206872,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.171
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16035-REC3206872,integument_description,marble,https://clevelandart.org/art/1990.171
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16045-REC3208832,descriptive_identity,Silver,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16045-REC3208832,integument_description,silver gilt,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15678-REC3135472,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15678-REC3135472,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15464-REC3092772,descriptive_identity,Metalwork,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15464-REC3092772,integument_description,cast gold,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP18000-REC3599992,descriptive_identity,Wrapper,https://api.vam.ac.uk/v2/museumobject/O351851
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15718-REC3143592,descriptive_identity,Seat,https://api.vam.ac.uk/v2/museumobject/O53321
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15718-REC3143592,integument_description,"Oak, Maple, Paint",https://api.vam.ac.uk/v2/museumobject/O53321
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15961-REC3192172,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15961-REC3192172,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP17873-REC3574512,descriptive_identity,Pair of drumsticks,https://api.vam.ac.uk/v2/museumobject/O10736
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP17873-REC3574512,integument_description,beech,https://api.vam.ac.uk/v2/museumobject/O10736
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP16247-REC3249243,descriptive_identity,Mask,https://clevelandart.org/art/1990.23
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP16247-REC3249243,integument_description,"Wood, rawhide, cane, paint, bone, natural fiber, and metal",https://clevelandart.org/art/1990.23
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15603-REC3120492,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15603-REC3120492,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14321-REC2864012,descriptive_identity,Lantern,https://api.vam.ac.uk/v2/museumobject/O125087
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14321-REC2864012,integument_description,iron,https://api.vam.ac.uk/v2/museumobject/O125087
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14011-REC2802132,descriptive_identity,badge,https://api.vam.ac.uk/v2/museumobject/O1811140
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14011-REC2802132,integument_description,"Printing ink, Metal, Plastic",https://api.vam.ac.uk/v2/museumobject/O1811140
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15324-REC3064632,descriptive_identity,Metalwork,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15324-REC3064632,integument_description,cast gold,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP15461-REC3092002,descriptive_identity,Musical Instrument,https://clevelandart.org/art/1915.442
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP15461-REC3092002,integument_description,Probably hippopotamus ivory,https://clevelandart.org/art/1915.442
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15667-REC3133232,descriptive_identity,Embroidery,https://clevelandart.org/art/1944.283
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15667-REC3133232,integument_description,embroidery; silk and silver filé on linen ground,https://clevelandart.org/art/1944.283
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15256-REC3051052,descriptive_identity,Musical Instrument,https://clevelandart.org/art/1915.442
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15256-REC3051052,integument_description,Probably hippopotamus ivory,https://clevelandart.org/art/1915.442
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15751-REC3150032,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15751-REC3150032,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16014-REC3202672,descriptive_identity,Textile,https://clevelandart.org/art/1916.1295
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16014-REC3202672,integument_description,"Silk taquete, brocaded",https://clevelandart.org/art/1916.1295
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15586-REC3117132,descriptive_identity,Metalwork,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15586-REC3117132,integument_description,cast gold,https://clevelandart.org/art/1939.509
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP15400-REC3079913,descriptive_identity,Headdress,https://api.vam.ac.uk/v2/museumobject/O364719
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP15400-REC3079913,integument_description,"linen, silk (fiber)",https://api.vam.ac.uk/v2/museumobject/O364719
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15810-REC3161932,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15810-REC3161932,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16122-REC3224232,descriptive_identity,Metalwork,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16122-REC3224232,integument_description,cast gold,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15212-REC3042232,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15212-REC3042232,integument_description,banded travertine,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16127-REC3225212,descriptive_identity,Silver,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16127-REC3225212,integument_description,silver gilt,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP18490-REC3697852,descriptive_identity,Candlestick,https://api.vam.ac.uk/v2/museumobject/O120845
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP18490-REC3697852,integument_description,"Copper gilt, Champlevé enamel",https://api.vam.ac.uk/v2/museumobject/O120845
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16288-REC3257552,descriptive_identity,Sculpture,https://clevelandart.org/art/1976.29
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16288-REC3257552,integument_description,soapstone,https://clevelandart.org/art/1976.29
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP12808-REC2561472,descriptive_identity,Textile,https://clevelandart.org/art/2007.2.3
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP12808-REC2561472,integument_description,cotton and camelid fiber,https://clevelandart.org/art/2007.2.3
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15914-REC3182652,descriptive_identity,Metalwork,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15914-REC3182652,integument_description,cast gold,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15511-REC3102152,descriptive_identity,Metalwork,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15511-REC3102152,integument_description,cast gold,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15202-REC3040272,descriptive_identity,Metalwork,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15202-REC3040272,integument_description,cast gold,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15633-REC3126512,descriptive_identity,Jewelry,https://clevelandart.org/art/1917.1055
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15633-REC3126512,integument_description,glass,https://clevelandart.org/art/1917.1055
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP15892-REC3178333,descriptive_identity,Silver,https://clevelandart.org/art/1947.276
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP15892-REC3178333,integument_description,silver,https://clevelandart.org/art/1947.276
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15843-REC3168512,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15843-REC3168512,integument_description,banded travertine,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14966-REC2993092,descriptive_identity,Textile,https://clevelandart.org/art/1946.226
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14966-REC2993092,integument_description,camelid fiber: plain weave with embroidery,https://clevelandart.org/art/1946.226
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15783-REC3156472,descriptive_identity,Silver,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15783-REC3156472,integument_description,silver gilt,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15741-REC3148072,descriptive_identity,Silver,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15741-REC3148072,integument_description,silver gilt,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15667-REC3133372,descriptive_identity,Silver,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15667-REC3133372,integument_description,silver gilt,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14943-REC2988472,descriptive_identity,Ticket,https://api.vam.ac.uk/v2/museumobject/O1826650
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14943-REC2988472,integument_description,"paper, ink",https://api.vam.ac.uk/v2/museumobject/O1826650
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP15212-REC3042393,descriptive_identity,Man's Sash,https://api.vam.ac.uk/v2/museumobject/O77735
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16136-REC3227032,descriptive_identity,Silver,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16136-REC3227032,integument_description,silver gilt,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15665-REC3132812,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15665-REC3132812,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15562-REC3112372,descriptive_identity,Jewelry,https://clevelandart.org/art/1917.1055
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15562-REC3112372,integument_description,glass,https://clevelandart.org/art/1917.1055
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP16014-REC3202693,descriptive_identity,Bird pendant,https://api.vam.ac.uk/v2/museumobject/O40722
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16126-REC3225072,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16126-REC3225072,integument_description,banded travertine,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15195-REC3038872,descriptive_identity,Musical Instrument,https://clevelandart.org/art/1915.442
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15195-REC3038872,integument_description,Probably hippopotamus ivory,https://clevelandart.org/art/1915.442
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16239-REC3247752,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16239-REC3247752,integument_description,banded travertine,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15347-REC3069392,descriptive_identity,Metalwork,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15347-REC3069392,integument_description,cast gold,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14614-REC2922672,descriptive_identity,Ribbon,https://api.vam.ac.uk/v2/museumobject/O80585
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14614-REC2922672,integument_description,silk (textile),https://api.vam.ac.uk/v2/museumobject/O80585
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15086-REC3017172,descriptive_identity,Beer bottle,https://api.vam.ac.uk/v2/museumobject/O9530
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15086-REC3017172,integument_description,"glass, paper",https://api.vam.ac.uk/v2/museumobject/O9530
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16210-REC3241872,descriptive_identity,Silver,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16210-REC3241872,integument_description,silver gilt,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15377-REC3075272,descriptive_identity,Sculpture,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15377-REC3075272,integument_description,banded travertine,https://clevelandart.org/art/1990.176
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15399-REC3079752,descriptive_identity,Sculpture,https://clevelandart.org/art/1976.29
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15399-REC3079752,integument_description,soapstone,https://clevelandart.org/art/1976.29
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15679-REC3135612,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15679-REC3135612,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15403-REC3080452,descriptive_identity,Sculpture,https://clevelandart.org/art/1976.29
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15403-REC3080452,integument_description,soapstone,https://clevelandart.org/art/1976.29
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP13520-REC2703852,descriptive_identity,Lantern slide,https://api.vam.ac.uk/v2/museumobject/O1470715
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP13520-REC2703852,integument_description,photosensitive,https://api.vam.ac.uk/v2/museumobject/O1470715
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16143-REC3228432,descriptive_identity,Bottle and stopper,https://api.vam.ac.uk/v2/museumobject/O250168
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16143-REC3228432,integument_description,glass,https://api.vam.ac.uk/v2/museumobject/O250168
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15496-REC3099072,descriptive_identity,Tweezers,https://api.vam.ac.uk/v2/museumobject/O22054
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15496-REC3099072,integument_description,bronze,https://api.vam.ac.uk/v2/museumobject/O22054
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16034-REC3206732,descriptive_identity,Sculpture,https://clevelandart.org/art/1976.29
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16034-REC3206732,integument_description,soapstone,https://clevelandart.org/art/1976.29
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16040-REC3207992,descriptive_identity,Ceramic,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16040-REC3207992,integument_description,glazed porcelain,https://clevelandart.org/art/1983.28
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP12951-REC2590032,descriptive_identity,Metalwork,https://clevelandart.org/art/1951.539
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP12951-REC2590032,integument_description,sheet brass inlaid with silver,https://clevelandart.org/art/1951.539
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14754-REC2950672,descriptive_identity,Metalwork,https://clevelandart.org/art/1951.539
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP14754-REC2950672,integument_description,sheet brass inlaid with silver,https://clevelandart.org/art/1951.539
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16120-REC3223812,descriptive_identity,Ornament,https://api.vam.ac.uk/v2/museumobject/O1742793
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15660-REC3131832,descriptive_identity,Jewelry,https://clevelandart.org/art/1953.181
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15660-REC3131832,integument_description,gold,https://clevelandart.org/art/1953.181
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP18031-REC3606152,descriptive_identity,Ceramic,https://clevelandart.org/art/1997.278
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP18031-REC3606152,integument_description,earthenware,https://clevelandart.org/art/1997.278
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15384-REC3076672,descriptive_identity,Metalwork,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15384-REC3076672,integument_description,cast gold,https://clevelandart.org/art/1939.509
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15676-REC3135052,descriptive_identity,Jewelry,https://clevelandart.org/art/1953.181
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15676-REC3135052,integument_description,gold,https://clevelandart.org/art/1953.181
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15455-REC3090952,descriptive_identity,Silver,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15455-REC3090952,integument_description,silver gilt,https://clevelandart.org/art/1965.467.a
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15191-REC3038032,descriptive_identity,Ceramic,https://clevelandart.org/art/1915.581
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15191-REC3038032,integument_description,"fritware, pierced and underglaze painting",https://clevelandart.org/art/1915.581
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP15373-REC3074432,descriptive_identity,Ornament,https://api.vam.ac.uk/v2/museumobject/O1742793
