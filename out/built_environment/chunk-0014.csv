@@ -1,0 +1,59 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB58-ENT-BLD-0085311,descriptive_identity,document repository,https://www.wikidata.org/wiki/Q111308871
+LIBSRC-LIB58-ENT-BLD-0085306,descriptive_identity,document repository,https://www.wikidata.org/wiki/Q111308864
+LIBSRC-LIB58-ENT-BLD-0085340,descriptive_identity,document repository,https://www.wikidata.org/wiki/Q111308900
+LIBSRC-LIB58-ENT-BLD-0085388,descriptive_identity,document repository,https://www.wikidata.org/wiki/Q111308955
+LIBSRC-LIB58-ENT-BLD-0085338,descriptive_identity,document repository,https://www.wikidata.org/wiki/Q111308898
+LIBSRC-LIB58-ENT-BLD-0085283,descriptive_identity,document repository,https://www.wikidata.org/wiki/Q111308830
+LIBSRC-LIB58-ENT-BLD-0085420,descriptive_identity,document repository,https://www.wikidata.org/wiki/Q111308996
+LIBSRC-LIB58-ENT-BLD-0085348,descriptive_identity,document repository,https://www.wikidata.org/wiki/Q111308909
+LIBSRC-LIB58-ENT-BLD-0085273,descriptive_identity,document repository,https://www.wikidata.org/wiki/Q111308816
+LIBSRC-LIB58-ENT-BLD-0085398,descriptive_identity,document repository,https://www.wikidata.org/wiki/Q111308968
+LIBSRC-LIB58-ENT-BLD-0085544,descriptive_identity,document repository,https://www.wikidata.org/wiki/Q111309137
+LIBSRC-LIB58-ENT-BLD-0085529,descriptive_identity,document repository,https://www.wikidata.org/wiki/Q111309121
+LIBSRC-LIB58-ENT-BLD-0085458,descriptive_identity,document repository,https://www.wikidata.org/wiki/Q111309039
+LIBSRC-LIB58-ENT-BLD-0085446,descriptive_identity,document repository,https://www.wikidata.org/wiki/Q111309026
+LIBSRC-LIB58-ENT-BLD-0085584,descriptive_identity,document repository,https://www.wikidata.org/wiki/Q111309179
+LIBSRC-LIB58-ENT-BLD-0085621,descriptive_identity,main library,https://www.wikidata.org/wiki/Q111364780
+LIBSRC-LIB58-ENT-BLD-0085648,descriptive_identity,type of library,https://www.wikidata.org/wiki/Q1043939
+LIBSRC-LIB58-ENT-BLD-0085614,descriptive_identity,library branch,https://www.wikidata.org/wiki/Q111357401
+LIBSRC-LIB58-ENT-BLD-0085659,descriptive_identity,special library,https://www.wikidata.org/wiki/Q111648222
+LIBSRC-LIB58-ENT-BLD-0085666,descriptive_identity,conservation library,https://www.wikidata.org/wiki/Q111698005
+LIBSRC-LIB58-ENT-BLD-0085771,descriptive_identity,library,https://www.wikidata.org/wiki/Q111854125
+LIBSRC-LIB58-ENT-BLD-0085999,descriptive_identity,school library,https://www.wikidata.org/wiki/Q112036338
+LIBSRC-LIB58-ENT-BLD-0085690,descriptive_identity,university,https://www.wikidata.org/wiki/Q6884188
+LIBSRC-LIB58-ENT-BLD-0085845,descriptive_identity,public library,https://www.wikidata.org/wiki/Q111955598
+LIBSRC-LIB58-ENT-BLD-0085929,descriptive_identity,university library,https://www.wikidata.org/wiki/Q111988540
+LIBSRC-LIB58-ENT-BLD-0086038,descriptive_identity,public library,https://www.wikidata.org/wiki/Q112044716
+LIBSRC-LIB58-ENT-BLD-0085659,location,Italy,https://www.wikidata.org/wiki/Q111648222
+LIBSRC-LIB58-ENT-BLD-0085621,location,United States,https://www.wikidata.org/wiki/Q111364780
+LIBSRC-LIB58-ENT-BLD-0085690,location,Japan,https://www.wikidata.org/wiki/Q6884188
+LIBSRC-LIB58-ENT-BLD-0085690,construction_date,1886,https://www.wikidata.org/wiki/Q6884188
+LIBSRC-LIB58-ENT-BLD-0085666,location,Italy,https://www.wikidata.org/wiki/Q111698005
+LIBSRC-LIB58-ENT-BLD-0085771,location,Italy,https://www.wikidata.org/wiki/Q111854125
+LIBSRC-LIB58-ENT-BLD-0085929,location,Italy,https://www.wikidata.org/wiki/Q111988540
+LIBSRC-LIB58-ENT-BLD-0086038,location,Italy,https://www.wikidata.org/wiki/Q112044716
+LIBSRC-LIB58-ENT-BLD-0085845,location,Italy,https://www.wikidata.org/wiki/Q111955598
+LIBSRC-LIB58-ENT-BLD-0085999,location,Italy,https://www.wikidata.org/wiki/Q112036338
+LIBSRC-LIB58-ENT-BLD-0086051,descriptive_identity,public library,https://www.wikidata.org/wiki/Q112044730
+LIBSRC-LIB58-ENT-BLD-0086051,location,Italy,https://www.wikidata.org/wiki/Q112044730
+LIBSRC-LIB58-ENT-BLD-0086132,descriptive_identity,conservation library,https://www.wikidata.org/wiki/Q112075537
+LIBSRC-LIB58-ENT-BLD-0086132,location,Italy,https://www.wikidata.org/wiki/Q112075537
+LIBSRC-LIB58-ENT-BLD-0086143,descriptive_identity,special library,https://www.wikidata.org/wiki/Q112076076
+LIBSRC-LIB58-ENT-BLD-0086143,location,Italy,https://www.wikidata.org/wiki/Q112076076
+LIBSRC-LIB58-ENT-BLD-0085614,location,United States,https://www.wikidata.org/wiki/Q111357401
+LIBSRC-LIB58-ENT-BLD-0086257,descriptive_identity,public library,https://www.wikidata.org/wiki/Q112076223
+LIBSRC-LIB58-ENT-BLD-0086257,location,Italy,https://www.wikidata.org/wiki/Q112076223
+LIBSRC-LIB58-ENT-BLD-0086319,descriptive_identity,public library,https://www.wikidata.org/wiki/Q112085156
+LIBSRC-LIB58-ENT-BLD-0086319,location,Italy,https://www.wikidata.org/wiki/Q112085156
+LIBSRC-LIB58-ENT-BLD-0086347,descriptive_identity,university library,https://www.wikidata.org/wiki/Q112085188
+LIBSRC-LIB58-ENT-BLD-0086347,location,Italy,https://www.wikidata.org/wiki/Q112085188
+LIBSRC-LIB58-ENT-BLD-0086390,descriptive_identity,public library,https://www.wikidata.org/wiki/Q112085249
+LIBSRC-LIB58-ENT-BLD-0086390,location,Italy,https://www.wikidata.org/wiki/Q112085249
+LIBSRC-LIB58-ENT-BLD-0086328,descriptive_identity,public library,https://www.wikidata.org/wiki/Q112085166
+LIBSRC-LIB58-ENT-BLD-0086328,location,Italy,https://www.wikidata.org/wiki/Q112085166
+LIBSRC-LIB58-ENT-BLD-0086636,descriptive_identity,public library,https://www.wikidata.org/wiki/Q112759318
+LIBSRC-LIB58-ENT-BLD-0086636,location,Italy,https://www.wikidata.org/wiki/Q112759318
+LIBSRC-LIB58-ENT-BLD-0086616,descriptive_identity,public library,https://www.wikidata.org/wiki/Q112759286
+LIBSRC-LIB58-ENT-BLD-0086616,location,Italy,https://www.wikidata.org/wiki/Q112759286
+LIBSRC-LIB58-ENT-BLD-0086538,location,Italy,https://www.wikidata.org/wiki/Q112659883
