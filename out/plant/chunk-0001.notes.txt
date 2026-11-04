@@ -1,0 +1,1 @@
+Searched Wikidata, GBIF, and Open Tree of Life. Could not find verifiable values matching the exact allowed plant-specific columns (e.g., anatomical_relationship, plant_part_length, plant_structure, life_stage) with sufficient quality for the subset of subjects in this chunk. Thus, producing an empty result file as allowed by AGENTS.md.
