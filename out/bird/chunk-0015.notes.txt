@@ -1,0 +1,1 @@
+Queried GBIF species match API for all subjects with class=Aves. Used EXACT matchType to avoid false positives. Extracted scientific name via regex from complex subject strings.
