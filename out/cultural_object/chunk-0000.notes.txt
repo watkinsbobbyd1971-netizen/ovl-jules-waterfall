@@ -1,0 +1,1 @@
+Queried the MET API for all subjects with an exact match. Filtered out ambiguous responses where the total number of objects found was not 1.
