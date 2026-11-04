@@ -1,0 +1,531 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB36-ENT-WRD-0029451,identity_label,"""proper palmar digital artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0006137
+LIBSRC-LIB36-ENT-WRD-0029451,anatomical_identity,"""palmar digital artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0006137
+LIBSRC-LIB36-ENT-WRD-0007462,identity_label,"""yolk sac""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001040
+LIBSRC-LIB36-ENT-WRD-0007462,anatomical_identity,"""extraembryonic tissue""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001040
+LIBSRC-LIB36-ENT-WRD-0007462,anatomical_identity,"""extraembryonic membrane""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001040
+LIBSRC-LIB36-ENT-WRD-0007462,anatomical_identity,"""epithelial sac""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001040
+LIBSRC-LIB36-ENT-WRD-0030385,identity_label,"""respiration organ""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000171
+LIBSRC-LIB36-ENT-WRD-0030385,anatomical_identity,"""organ""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000171
+LIBSRC-LIB36-ENT-WRD-0030385,anatomical_relationship,"""respiratory system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000171
+LIBSRC-LIB36-ENT-WRD-0077185,identity_label,"""sublingual dorsal and ventral separate""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2001474
+LIBSRC-LIB36-ENT-WRD-0077185,anatomical_identity,"""anatomical cluster""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2001474
+LIBSRC-LIB36-ENT-WRD-0029896,identity_label,"""lesser omentum""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002399
+LIBSRC-LIB36-ENT-WRD-0029896,anatomical_identity,"""omentum""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002399
+LIBSRC-LIB36-ENT-WRD-0029896,anatomical_identity,"""mesoderm-derived structure""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002399
+LIBSRC-LIB36-ENT-WRD-0029896,anatomical_identity,"""zone of stomach""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002399
+LIBSRC-LIB36-ENT-WRD-0029896,anatomical_relationship,"""visceral peritoneum""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002399
+LIBSRC-LIB36-ENT-WRD-0029896,anatomical_relationship,"""ventral mesogastrium""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002399
+LIBSRC-LIB36-ENT-WRD-0009779,identity_label,"""Villus""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma82505
+LIBSRC-LIB36-ENT-WRD-0009779,anatomical_identity,"""Region of organ component""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma82505
+LIBSRC-LIB36-ENT-WRD-0021169,identity_label,"""mucosa of oral region""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0003343
+LIBSRC-LIB36-ENT-WRD-0021169,anatomical_identity,"""mouth mucosa""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0003343
+LIBSRC-LIB36-ENT-WRD-0021169,anatomical_relationship,"""oral opening""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0003343
+LIBSRC-LIB36-ENT-WRD-0028032,identity_label,"""epithelium of lobular bronchiole""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8600001
+LIBSRC-LIB36-ENT-WRD-0028032,anatomical_identity,"""epithelium of bronchiole""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8600001
+LIBSRC-LIB36-ENT-WRD-0028032,anatomical_relationship,"""lobular bronchiole""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8600001
+LIBSRC-LIB36-ENT-WRD-0029077,identity_label,"""Bone""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma30317
+LIBSRC-LIB36-ENT-WRD-0029077,anatomical_identity,"""General anatomical term""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma30317
+LIBSRC-LIB36-ENT-WRD-0030107,identity_label,"""unencapsulated tactile receptor""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0035501
+LIBSRC-LIB36-ENT-WRD-0030107,anatomical_identity,"""tactile mechanoreceptor""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0035501
+LIBSRC-LIB36-ENT-WRD-0030107,anatomical_relationship,"""dermis""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0035501
+LIBSRC-LIB36-ENT-WRD-0029917,identity_label,"""Endoplasm""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma66856
+LIBSRC-LIB36-ENT-WRD-0029917,anatomical_identity,"""Region of cytoplasm""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma66856
+LIBSRC-LIB36-ENT-WRD-0078463,identity_label,"""transition metal ion transport""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0000041
+LIBSRC-LIB36-ENT-WRD-0078463,anatomical_identity,"""metal ion transport""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0000041
+LIBSRC-LIB36-ENT-WRD-0002429,identity_label,"""eminentia granularis""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2002106
+LIBSRC-LIB36-ENT-WRD-0002429,anatomical_identity,"""regional part of brain""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2002106
+LIBSRC-LIB36-ENT-WRD-0002429,anatomical_relationship,"""cerebellum""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2002106
+LIBSRC-LIB36-ENT-WRD-0077540,identity_label,"""presumptive neural plate""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007284
+LIBSRC-LIB36-ENT-WRD-0077540,anatomical_identity,"""future central nervous system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007284
+LIBSRC-LIB36-ENT-WRD-0077540,anatomical_relationship,"""gastrula""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007284
+LIBSRC-LIB36-ENT-WRD-0029467,identity_label,"""external iliac artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001308
+LIBSRC-LIB36-ENT-WRD-0029467,anatomical_identity,"""iliac artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001308
+LIBSRC-LIB36-ENT-WRD-0029467,anatomical_relationship,"""common iliac artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001308
+LIBSRC-LIB36-ENT-WRD-0030284,identity_label,"""lumbosacral nerve plexus""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001815
+LIBSRC-LIB36-ENT-WRD-0030284,anatomical_identity,"""neuron projection bundle""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001815
+LIBSRC-LIB36-ENT-WRD-0030284,anatomical_identity,"""spinal nerve plexus""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001815
+LIBSRC-LIB36-ENT-WRD-0029380,identity_label,"""parathyroid gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001132
+LIBSRC-LIB36-ENT-WRD-0029380,anatomical_identity,"""endocrine gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001132
+LIBSRC-LIB36-ENT-WRD-0029380,anatomical_relationship,"""endocrine system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001132
+LIBSRC-LIB36-ENT-WRD-0029644,identity_label,"""right inferior pulmonary vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8920016
+LIBSRC-LIB36-ENT-WRD-0029644,anatomical_identity,"""pulmonary vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8920016
+LIBSRC-LIB36-ENT-WRD-0029644,anatomical_identity,"""lung blood vessel""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8920016
+LIBSRC-LIB36-ENT-WRD-0029644,anatomical_identity,"""thoracic vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8920016
+LIBSRC-LIB36-ENT-WRD-0029644,anatomical_relationship,"""lung""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8920016
+LIBSRC-LIB36-ENT-WRD-0029734,identity_label,"""pulmonary valve""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002146
+LIBSRC-LIB36-ENT-WRD-0029734,anatomical_identity,"""semi-lunar valve""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002146
+LIBSRC-LIB36-ENT-WRD-0029171,identity_label,"""erectile tissue""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0008324
+LIBSRC-LIB36-ENT-WRD-0029171,anatomical_identity,"""tissue""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0008324
+LIBSRC-LIB36-ENT-WRD-0040168,identity_label,"""somatic diversification of immune receptors via somatic mutation""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0002566
+LIBSRC-LIB36-ENT-WRD-0040168,anatomical_identity,"""somatic diversification of immune receptors""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0002566
+LIBSRC-LIB36-ENT-WRD-0034686,identity_label,"""fourth ventricle lateral aperture""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0003992
+LIBSRC-LIB36-ENT-WRD-0034686,anatomical_identity,"""fourth ventricle aperture""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0003992
+LIBSRC-LIB36-ENT-WRD-0075368,identity_label,"""defense response to nematode""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0002215
+LIBSRC-LIB36-ENT-WRD-0075368,anatomical_identity,"""defense response""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0002215
+LIBSRC-LIB36-ENT-WRD-0075368,anatomical_identity,"""response to other organism""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0002215
+LIBSRC-LIB36-ENT-WRD-0046530,identity_label,"""high endothelial venule of appendix""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8410039
+LIBSRC-LIB36-ENT-WRD-0046530,anatomical_identity,"""venule of appendix""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8410039
+LIBSRC-LIB36-ENT-WRD-0046530,anatomical_identity,"""high endothelial venule""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8410039
+LIBSRC-LIB36-ENT-WRD-0046530,anatomical_relationship,"""vermiform appendix""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8410039
+LIBSRC-LIB36-ENT-WRD-0028928,identity_label,"""stratum granulosum of epidermis""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002069
+LIBSRC-LIB36-ENT-WRD-0028928,anatomical_identity,"""integumentary system layer""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002069
+LIBSRC-LIB36-ENT-WRD-0028928,anatomical_relationship,"""skin epidermis""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002069
+LIBSRC-LIB36-ENT-WRD-0031069,identity_label,"""tongue taste bud""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0014451
+LIBSRC-LIB36-ENT-WRD-0031069,anatomical_identity,"""taste bud""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0014451
+LIBSRC-LIB36-ENT-WRD-0031069,anatomical_identity,"""digestive system element""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0014451
+LIBSRC-LIB36-ENT-WRD-0031069,anatomical_relationship,"""tongue""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0014451
+LIBSRC-LIB36-ENT-WRD-0031069,anatomical_relationship,"""gustatory papilla of tongue""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0014451
+LIBSRC-LIB36-ENT-WRD-0078735,identity_label,"""positive regulation of acetate catabolic process""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0045754
+LIBSRC-LIB36-ENT-WRD-0078735,anatomical_identity,"""positive regulation of catabolic process""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0045754
+LIBSRC-LIB36-ENT-WRD-0078735,anatomical_identity,"""regulation of acetate catabolic process""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0045754
+LIBSRC-LIB36-ENT-WRD-0078735,anatomical_identity,"""positive regulation of small molecule metabolic process""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0045754
+LIBSRC-LIB36-ENT-WRD-0027341,identity_label,"""substantia gelatinosa""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002181
+LIBSRC-LIB36-ENT-WRD-0027341,anatomical_identity,"""lamina of gray matter of spinal cord""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002181
+LIBSRC-LIB36-ENT-WRD-0027341,anatomical_relationship,"""dorsal horn of spinal cord""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002181
+LIBSRC-LIB36-ENT-WRD-0053923,identity_label,"""depressor supercilii""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0008591
+LIBSRC-LIB36-ENT-WRD-0053923,anatomical_identity,"""facial muscle""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0008591
+LIBSRC-LIB36-ENT-WRD-0014495,identity_label,"""anti-arrhythmia drug""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_38070
+LIBSRC-LIB36-ENT-WRD-0014495,anatomical_identity,"""cardiovascular drug""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_38070
+LIBSRC-LIB36-ENT-WRD-0029729,identity_label,"""Left atrium""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma7097
+LIBSRC-LIB36-ENT-WRD-0029729,anatomical_identity,"""Cardiac atrium""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma7097
+LIBSRC-LIB36-ENT-WRD-0020161,identity_label,"""olfactory tract linking bulb to ipsilateral dorsal telencephalon""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0034730
+LIBSRC-LIB36-ENT-WRD-0020161,anatomical_identity,"""olfactory tract""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0034730
+LIBSRC-LIB36-ENT-WRD-0027821,identity_label,"""pectoral fin spine""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2001787
+LIBSRC-LIB36-ENT-WRD-0027821,anatomical_identity,"""pectoral fin lepidotrichium""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2001787
+LIBSRC-LIB36-ENT-WRD-0027821,anatomical_identity,"""paired fin spine""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2001787
+LIBSRC-LIB36-ENT-WRD-0000546,identity_label,"""sublingual nucleus""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002881
+LIBSRC-LIB36-ENT-WRD-0000546,anatomical_identity,"""nucleus of medulla oblongata""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002881
+LIBSRC-LIB36-ENT-WRD-0000546,anatomical_relationship,"""medulla oblongata""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002881
+LIBSRC-LIB36-ENT-WRD-0008332,identity_label,"""dorsal iris""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8480063
+LIBSRC-LIB36-ENT-WRD-0008332,anatomical_identity,"""organ part""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8480063
+LIBSRC-LIB36-ENT-WRD-0008332,anatomical_relationship,"""iris""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8480063
+LIBSRC-LIB36-ENT-WRD-0030643,identity_label,"""muscle of pelvic girdle""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001497
+LIBSRC-LIB36-ENT-WRD-0030643,anatomical_identity,"""muscle of pelvis""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001497
+LIBSRC-LIB36-ENT-WRD-0030643,anatomical_identity,"""pelvic complex muscle""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001497
+LIBSRC-LIB36-ENT-WRD-0030643,anatomical_relationship,"""pelvic girdle region""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001497
+LIBSRC-LIB36-ENT-WRD-0030643,anatomical_relationship,"""musculature of pelvic girdle""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001497
+LIBSRC-LIB36-ENT-WRD-0024047,identity_label,"""mucosa of cardia of stomach""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004996
+LIBSRC-LIB36-ENT-WRD-0024047,anatomical_identity,"""mucosa of stomach""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004996
+LIBSRC-LIB36-ENT-WRD-0024047,anatomical_relationship,"""cardia of stomach""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004996
+LIBSRC-LIB36-ENT-WRD-0059281,identity_label,"""common cardinal vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002064
+LIBSRC-LIB36-ENT-WRD-0059281,anatomical_identity,"""embryonic structure""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002064
+LIBSRC-LIB36-ENT-WRD-0059281,anatomical_identity,"""trunk blood vessel""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002064
+LIBSRC-LIB36-ENT-WRD-0059281,anatomical_identity,"""cardinal vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002064
+LIBSRC-LIB36-ENT-WRD-0059281,anatomical_relationship,"""vasculature of trunk""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002064
+LIBSRC-LIB36-ENT-WRD-0029796,identity_label,"""hormone""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_24621
+LIBSRC-LIB36-ENT-WRD-0029796,anatomical_identity,"""molecular messenger""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_24621
+LIBSRC-LIB36-ENT-WRD-0029796,anatomical_identity,"""agonist""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_24621
+LIBSRC-LIB36-ENT-WRD-0050345,identity_label,"""uropygial gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007802
+LIBSRC-LIB36-ENT-WRD-0050345,anatomical_identity,"""exocrine gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007802
+LIBSRC-LIB36-ENT-WRD-0050345,anatomical_relationship,"""tail""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007802
+LIBSRC-LIB36-ENT-WRD-0005173,identity_label,"""red bone marrow of iliac crest""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8410079
+LIBSRC-LIB36-ENT-WRD-0005173,anatomical_identity,"""red bone marrow""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8410079
+LIBSRC-LIB36-ENT-WRD-0005173,anatomical_relationship,"""iliac crest""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8410079
+LIBSRC-LIB36-ENT-WRD-0050523,identity_label,"""pectoral appendage apical ectodermal ridge""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005421
+LIBSRC-LIB36-ENT-WRD-0050523,anatomical_identity,"""apical ectodermal ridge""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005421
+LIBSRC-LIB36-ENT-WRD-0050523,anatomical_relationship,"""pectoral appendage bud""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005421
+LIBSRC-LIB36-ENT-WRD-0025913,identity_label,"""deep cervical fascia""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0013490
+LIBSRC-LIB36-ENT-WRD-0025913,anatomical_identity,"""cervical fascia""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0013490
+LIBSRC-LIB36-ENT-WRD-0025163,identity_label,"""mucosa of upper lip""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005031
+LIBSRC-LIB36-ENT-WRD-0025163,anatomical_identity,"""mucosa of lip""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005031
+LIBSRC-LIB36-ENT-WRD-0025163,anatomical_relationship,"""upper lip""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005031
+LIBSRC-LIB36-ENT-WRD-0076590,identity_label,"""head""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000033
+LIBSRC-LIB36-ENT-WRD-0076590,anatomical_identity,"""subdivision of organism along main body axis""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000033
+LIBSRC-LIB36-ENT-WRD-0076590,anatomical_relationship,"""anterior region of body""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000033
+LIBSRC-LIB36-ENT-WRD-0076590,anatomical_relationship,"""craniocervical region""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000033
+LIBSRC-LIB36-ENT-WRD-0072092,identity_label,"""syncytiotrophoblast""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000371
+LIBSRC-LIB36-ENT-WRD-0072092,anatomical_identity,"""embryonic structure""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000371
+LIBSRC-LIB36-ENT-WRD-0072092,anatomical_relationship,"""trophoblast""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000371
+LIBSRC-LIB36-ENT-WRD-0072092,anatomical_relationship,"""ectoplacental cone""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000371
+LIBSRC-LIB36-ENT-WRD-0038500,identity_label,"""larynx""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001737
+LIBSRC-LIB36-ENT-WRD-0038500,anatomical_identity,"""proximo-distal subdivision of respiratory tract""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001737
+LIBSRC-LIB36-ENT-WRD-0038500,anatomical_relationship,"""respiratory tract""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001737
+LIBSRC-LIB36-ENT-WRD-0005511,identity_label,"""esophagus""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001043
+LIBSRC-LIB36-ENT-WRD-0005511,anatomical_identity,"""organ""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001043
+LIBSRC-LIB36-ENT-WRD-0005511,anatomical_identity,"""subdivision of digestive tract""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001043
+LIBSRC-LIB36-ENT-WRD-0005511,anatomical_identity,"""digestive system element""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001043
+LIBSRC-LIB36-ENT-WRD-0005511,anatomical_relationship,"""system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001043
+LIBSRC-LIB36-ENT-WRD-0005511,anatomical_relationship,"""upper digestive tract""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001043
+LIBSRC-LIB36-ENT-WRD-0029551,identity_label,"""superficial middle cerebral vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0035231
+LIBSRC-LIB36-ENT-WRD-0029551,anatomical_identity,"""cerebral vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0035231
+LIBSRC-LIB36-ENT-WRD-0081689,identity_label,"""central cardiac conduction system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2005074
+LIBSRC-LIB36-ENT-WRD-0081689,anatomical_identity,"""conducting system of heart""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2005074
+LIBSRC-LIB36-ENT-WRD-0067052,identity_label,"""lateral ocellus""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0003162
+LIBSRC-LIB36-ENT-WRD-0067052,anatomical_identity,"""dorsal ocellus""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0003162
+LIBSRC-LIB36-ENT-WRD-0030788,identity_label,"""spleen B cell corona""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0010421
+LIBSRC-LIB36-ENT-WRD-0030788,anatomical_identity,"""secondary follicle corona""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0010421
+LIBSRC-LIB36-ENT-WRD-0030788,anatomical_relationship,"""spleen""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0010421
+LIBSRC-LIB36-ENT-WRD-0030788,anatomical_relationship,"""spleen secondary B follicle""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0010421
+LIBSRC-LIB36-ENT-WRD-0062209,identity_label,"""quality of interaction of a substance with electromagnetic radiation""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FPATO_0070060
+LIBSRC-LIB36-ENT-WRD-0062209,anatomical_identity,"""quality of a substance""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FPATO_0070060
+LIBSRC-LIB36-ENT-WRD-0032921,identity_label,"""gonadal vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0003848
+LIBSRC-LIB36-ENT-WRD-0032921,anatomical_identity,"""vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0003848
+LIBSRC-LIB36-ENT-WRD-0032921,anatomical_relationship,"""system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0003848
+LIBSRC-LIB36-ENT-WRD-0043384,identity_label,"""honey""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0036016
+LIBSRC-LIB36-ENT-WRD-0043384,anatomical_identity,"""regurgitated substance""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0036016
+LIBSRC-LIB36-ENT-WRD-0029872,identity_label,"""Ventral root""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma77516
+LIBSRC-LIB36-ENT-WRD-0029872,anatomical_identity,"""General anatomical term""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma77516
+LIBSRC-LIB36-ENT-WRD-0072424,identity_label,"""prefrontal cortex""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000451
+LIBSRC-LIB36-ENT-WRD-0072424,anatomical_identity,"""regional part of brain""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000451
+LIBSRC-LIB36-ENT-WRD-0072424,anatomical_relationship,"""cerebral cortex""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000451
+LIBSRC-LIB36-ENT-WRD-0072424,anatomical_relationship,"""frontal cortex""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000451
+LIBSRC-LIB36-ENT-WRD-0029538,identity_label,"""central vein of liver""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0006841
+LIBSRC-LIB36-ENT-WRD-0029538,anatomical_identity,"""vein of abdomen""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0006841
+LIBSRC-LIB36-ENT-WRD-0029538,anatomical_identity,"""liver blood vessel""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0006841
+LIBSRC-LIB36-ENT-WRD-0029538,anatomical_relationship,"""liver lobule""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0006841
+LIBSRC-LIB36-ENT-WRD-0070922,identity_label,"""joint space of elbow""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004099
+LIBSRC-LIB36-ENT-WRD-0070922,anatomical_identity,"""anatomical space""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004099
+LIBSRC-LIB36-ENT-WRD-0070922,anatomical_relationship,"""elbow joint""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004099
+LIBSRC-LIB36-ENT-WRD-0030016,identity_label,"""lymph node germinal center mantle zone""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0010420
+LIBSRC-LIB36-ENT-WRD-0030016,anatomical_identity,"""secondary follicle corona""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0010420
+LIBSRC-LIB36-ENT-WRD-0030016,anatomical_relationship,"""lymph node""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0010420
+LIBSRC-LIB36-ENT-WRD-0030016,anatomical_relationship,"""lymph node secondary follicle""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0010420
+LIBSRC-LIB36-ENT-WRD-0023414,identity_label,"""skeleton""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004288
+LIBSRC-LIB36-ENT-WRD-0023414,anatomical_identity,"""anatomical collection""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004288
+LIBSRC-LIB36-ENT-WRD-0023414,anatomical_relationship,"""skeletal system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004288
+LIBSRC-LIB36-ENT-WRD-0029884,identity_label,"""peritoneum""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002358
+LIBSRC-LIB36-ENT-WRD-0029884,anatomical_identity,"""serous membrane""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002358
+LIBSRC-LIB36-ENT-WRD-0029884,anatomical_relationship,"""abdominal wall""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002358
+LIBSRC-LIB36-ENT-WRD-0029884,anatomical_relationship,"""peritoneal sac""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002358
+LIBSRC-LIB36-ENT-WRD-0070930,identity_label,"""caudate-putamen""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005383
+LIBSRC-LIB36-ENT-WRD-0070930,anatomical_identity,"""central nervous system cell part cluster""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005383
+LIBSRC-LIB36-ENT-WRD-0070930,anatomical_relationship,"""dorsal striatum""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005383
+LIBSRC-LIB36-ENT-WRD-0046720,identity_label,"""midline crest""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_1000009
+LIBSRC-LIB36-ENT-WRD-0046720,anatomical_identity,"""subdivision of head""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_1000009
+LIBSRC-LIB36-ENT-WRD-0033058,identity_label,"""nervous system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001016
+LIBSRC-LIB36-ENT-WRD-0033058,anatomical_identity,"""anatomical system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001016
+LIBSRC-LIB36-ENT-WRD-0043626,identity_label,"""Brodmann area""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0013529
+LIBSRC-LIB36-ENT-WRD-0043626,anatomical_identity,"""regional part of brain""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0013529
+LIBSRC-LIB36-ENT-WRD-0043626,anatomical_relationship,"""cerebral cortex""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0013529
+LIBSRC-LIB36-ENT-WRD-0041590,identity_label,"""maxillary shank""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0018336
+LIBSRC-LIB36-ENT-WRD-0041590,anatomical_identity,"""zone of bone organ""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0018336
+LIBSRC-LIB36-ENT-WRD-0041590,anatomical_relationship,"""maxilla""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0018336
+LIBSRC-LIB36-ENT-WRD-0029992,identity_label,"""Osteoblast""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma66780
+LIBSRC-LIB36-ENT-WRD-0029992,anatomical_identity,"""Connective tissue cell""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma66780
+LIBSRC-LIB36-ENT-WRD-0013068,identity_label,"""platypus calcaneus spur""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0011581
+LIBSRC-LIB36-ENT-WRD-0013068,anatomical_identity,"""lower limb segment""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0011581
+LIBSRC-LIB36-ENT-WRD-0013068,anatomical_relationship,"""pes""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0011581
+LIBSRC-LIB36-ENT-WRD-0029520,identity_label,"""inferior anastomotic vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8600091
+LIBSRC-LIB36-ENT-WRD-0029520,anatomical_identity,"""head blood vessel""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8600091
+LIBSRC-LIB36-ENT-WRD-0029520,anatomical_identity,"""craniocervical region vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8600091
+LIBSRC-LIB36-ENT-WRD-0029520,anatomical_relationship,"""system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8600091
+LIBSRC-LIB36-ENT-WRD-0029520,anatomical_relationship,"""head""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8600091
+LIBSRC-LIB36-ENT-WRD-0055300,identity_label,"""upper leg nerve""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004214
+LIBSRC-LIB36-ENT-WRD-0055300,anatomical_identity,"""leg nerve""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004214
+LIBSRC-LIB36-ENT-WRD-0055300,anatomical_relationship,"""hindlimb stylopod""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004214
+LIBSRC-LIB36-ENT-WRD-0055999,identity_label,"""electroception""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0050956
+LIBSRC-LIB36-ENT-WRD-0055999,anatomical_identity,"""sensory perception of electrical stimulus""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0050956
+LIBSRC-LIB36-ENT-WRD-0018757,identity_label,"""cuticle of hair""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002076
+LIBSRC-LIB36-ENT-WRD-0018757,anatomical_identity,"""cell layer""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002076
+LIBSRC-LIB36-ENT-WRD-0018757,anatomical_relationship,"""hair shaft""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002076
+LIBSRC-LIB36-ENT-WRD-0029858,identity_label,"""vena cava""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004087
+LIBSRC-LIB36-ENT-WRD-0029858,anatomical_identity,"""thoracic cavity vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004087
+LIBSRC-LIB36-ENT-WRD-0029858,anatomical_identity,"""great vessel of heart""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004087
+LIBSRC-LIB36-ENT-WRD-0077435,identity_label,"""inner cortex of lens""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8930000
+LIBSRC-LIB36-ENT-WRD-0077435,anatomical_identity,"""lens fiber""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8930000
+LIBSRC-LIB36-ENT-WRD-0077435,anatomical_relationship,"""lens cortex""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_8930000
+LIBSRC-LIB36-ENT-WRD-0074938,identity_label,"""rectal valve""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0017627
+LIBSRC-LIB36-ENT-WRD-0074938,anatomical_identity,"""valve""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0017627
+LIBSRC-LIB36-ENT-WRD-0074938,anatomical_relationship,"""rectum""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0017627
+LIBSRC-LIB36-ENT-WRD-0030074,identity_label,"""nervous system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001016
+LIBSRC-LIB36-ENT-WRD-0030074,anatomical_identity,"""anatomical system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001016
+LIBSRC-LIB36-ENT-WRD-0055866,identity_label,"""modified sebaceous gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0015251
+LIBSRC-LIB36-ENT-WRD-0055866,anatomical_identity,"""sebaceous gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0015251
+LIBSRC-LIB36-ENT-WRD-0014501,identity_label,"""anticoagulant""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_50249
+LIBSRC-LIB36-ENT-WRD-0014501,anatomical_identity,"""hematologic agent""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_50249
+LIBSRC-LIB36-ENT-WRD-0025827,identity_label,"""propellant""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_76414
+LIBSRC-LIB36-ENT-WRD-0025827,anatomical_identity,"""application""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_76414
+LIBSRC-LIB36-ENT-WRD-0005228,identity_label,"""Brodmann (1909) area 7""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0013538
+LIBSRC-LIB36-ENT-WRD-0005228,anatomical_identity,"""Brodmann area""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0013538
+LIBSRC-LIB36-ENT-WRD-0027439,identity_label,"""metal atom""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_33521
+LIBSRC-LIB36-ENT-WRD-0027439,anatomical_identity,"""atom""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_33521
+LIBSRC-LIB36-ENT-WRD-0073096,identity_label,"""atypical epithelium""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000488
+LIBSRC-LIB36-ENT-WRD-0073096,anatomical_identity,"""epithelium""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000488
+LIBSRC-LIB36-ENT-WRD-0001618,identity_label,"""Adduction""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma23864
+LIBSRC-LIB36-ENT-WRD-0001618,anatomical_identity,"""Joint movement""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma23864
+LIBSRC-LIB36-ENT-WRD-0077877,identity_label,"""stapes base""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002496
+LIBSRC-LIB36-ENT-WRD-0077877,anatomical_identity,"""zone of bone organ""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002496
+LIBSRC-LIB36-ENT-WRD-0077877,anatomical_relationship,"""stapes bone""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002496
+LIBSRC-LIB36-ENT-WRD-0073541,identity_label,"""stratum lucidum of epidermis""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002071
+LIBSRC-LIB36-ENT-WRD-0073541,anatomical_identity,"""integumentary system layer""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002071
+LIBSRC-LIB36-ENT-WRD-0073541,anatomical_relationship,"""skin epidermis""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002071
+LIBSRC-LIB36-ENT-WRD-0029662,identity_label,"""subclavian vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001587
+LIBSRC-LIB36-ENT-WRD-0029662,anatomical_identity,"""vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001587
+LIBSRC-LIB36-ENT-WRD-0029662,anatomical_relationship,"""system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001587
+LIBSRC-LIB36-ENT-WRD-0029070,identity_label,"""parenchyma""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000353
+LIBSRC-LIB36-ENT-WRD-0029070,anatomical_identity,"""organ part""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000353
+LIBSRC-LIB36-ENT-WRD-0029109,identity_label,"""membrane bone""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007842
+LIBSRC-LIB36-ENT-WRD-0029109,anatomical_identity,"""bone element""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007842
+LIBSRC-LIB36-ENT-WRD-0030785,identity_label,"""tunicate tunic""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0011302
+LIBSRC-LIB36-ENT-WRD-0030785,anatomical_identity,"""surface structure""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0011302
+LIBSRC-LIB36-ENT-WRD-0030785,anatomical_relationship,"""integumental system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0011302
+LIBSRC-LIB36-ENT-WRD-0030785,anatomical_relationship,"""adult organism""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0011302
+LIBSRC-LIB36-ENT-WRD-0029463,identity_label,"""ileal artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005628
+LIBSRC-LIB36-ENT-WRD-0029463,anatomical_identity,"""systemic artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005628
+LIBSRC-LIB36-ENT-WRD-0029463,anatomical_relationship,"""superior mesenteric artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005628
+LIBSRC-LIB36-ENT-WRD-0076837,identity_label,"""superelliptic""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FPATO_0002318
+LIBSRC-LIB36-ENT-WRD-0076837,anatomical_identity,"""2-D shape""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FPATO_0002318
+LIBSRC-LIB36-ENT-WRD-0073829,identity_label,"""supratendinal bridge""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0018366
+LIBSRC-LIB36-ENT-WRD-0073829,anatomical_identity,"""bone element""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0018366
+LIBSRC-LIB36-ENT-WRD-0028506,identity_label,"""sigmoid colon""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001159
+LIBSRC-LIB36-ENT-WRD-0028506,anatomical_identity,"""proximal-distal subdivision of colon""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001159
+LIBSRC-LIB36-ENT-WRD-0046410,identity_label,"""hindlimb skeleton""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001441
+LIBSRC-LIB36-ENT-WRD-0046410,anatomical_identity,"""skeleton of limb""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001441
+LIBSRC-LIB36-ENT-WRD-0046410,anatomical_identity,"""pelvic appendage skeleton""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001441
+LIBSRC-LIB36-ENT-WRD-0046410,anatomical_relationship,"""hindlimb""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001441
+LIBSRC-LIB36-ENT-WRD-0046410,anatomical_relationship,"""skeleton of pelvic complex""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001441
+LIBSRC-LIB36-ENT-WRD-0009667,identity_label,"""Vombatidae""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FNCBITaxon_9338
+LIBSRC-LIB36-ENT-WRD-0009667,anatomical_identity,"""Diprotodontia""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FNCBITaxon_9338
+LIBSRC-LIB36-ENT-WRD-0006913,identity_label,"""pigment cell differentiation""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0050931
+LIBSRC-LIB36-ENT-WRD-0006913,anatomical_identity,"""cell differentiation""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0050931
+LIBSRC-LIB36-ENT-WRD-0006913,anatomical_relationship,"""developmental pigmentation""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0050931
+LIBSRC-LIB36-ENT-WRD-0001567,identity_label,"""organ subunit""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000063
+LIBSRC-LIB36-ENT-WRD-0001567,anatomical_identity,"""organ part""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000063
+LIBSRC-LIB36-ENT-WRD-0028875,identity_label,"""Lambda""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma264773
+LIBSRC-LIB36-ENT-WRD-0028875,anatomical_identity,"""Midline anatomical point of skull""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma264773
+LIBSRC-LIB36-ENT-WRD-0009035,identity_label,"""Arthropoda""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FNCBITaxon_6656
+LIBSRC-LIB36-ENT-WRD-0009035,anatomical_identity,"""Panarthropoda""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FNCBITaxon_6656
+LIBSRC-LIB36-ENT-WRD-0026244,identity_label,"""corpus striatum""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000369
+LIBSRC-LIB36-ENT-WRD-0026244,anatomical_identity,"""regional part of brain""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000369
+LIBSRC-LIB36-ENT-WRD-0026244,anatomical_relationship,"""basal ganglion""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000369
+LIBSRC-LIB36-ENT-WRD-0030639,identity_label,"""heel""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0015875
+LIBSRC-LIB36-ENT-WRD-0030639,anatomical_identity,"""segment of pes""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0015875
+LIBSRC-LIB36-ENT-WRD-0030639,anatomical_relationship,"""tarsal region""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0015875
+LIBSRC-LIB36-ENT-WRD-0030762,identity_label,"""temporalis muscle""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001598
+LIBSRC-LIB36-ENT-WRD-0030762,anatomical_identity,"""masticatory muscle""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001598
+LIBSRC-LIB36-ENT-WRD-0030762,anatomical_relationship,"""head""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001598
+LIBSRC-LIB36-ENT-WRD-0019022,identity_label,"""malleus bone""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001689
+LIBSRC-LIB36-ENT-WRD-0019022,anatomical_identity,"""auditory ossicle bone""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001689
+LIBSRC-LIB36-ENT-WRD-0019022,anatomical_identity,"""endochondral bone""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001689
+LIBSRC-LIB36-ENT-WRD-0019022,anatomical_identity,"""neural crest-derived structure""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001689
+LIBSRC-LIB36-ENT-WRD-0019022,anatomical_identity,"""malleus endochondral element""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001689
+LIBSRC-LIB36-ENT-WRD-0006740,identity_label,"""haploid""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FPATO_0001375
+LIBSRC-LIB36-ENT-WRD-0006740,anatomical_identity,"""euploid""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FPATO_0001375
+LIBSRC-LIB36-ENT-WRD-0050697,identity_label,"""pedicellaria""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0008261
+LIBSRC-LIB36-ENT-WRD-0050697,anatomical_identity,"""appendage""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0008261
+LIBSRC-LIB36-ENT-WRD-0039528,identity_label,"""skeleton""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004288
+LIBSRC-LIB36-ENT-WRD-0039528,anatomical_identity,"""anatomical collection""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004288
+LIBSRC-LIB36-ENT-WRD-0039528,anatomical_relationship,"""skeletal system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004288
+LIBSRC-LIB36-ENT-WRD-0030536,identity_label,"""abdominal external oblique muscle""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005442
+LIBSRC-LIB36-ENT-WRD-0030536,anatomical_identity,"""abdominal oblique muscle""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005442
+LIBSRC-LIB36-ENT-WRD-0030536,anatomical_relationship,"""anterior abdominal wall""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005442
+LIBSRC-LIB36-ENT-WRD-0003529,identity_label,"""taxis""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0042330
+LIBSRC-LIB36-ENT-WRD-0003529,anatomical_identity,"""locomotion""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0042330
+LIBSRC-LIB36-ENT-WRD-0003529,anatomical_relationship,"""response to external stimulus""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0042330
+LIBSRC-LIB36-ENT-WRD-0028949,identity_label,"""nephron""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001285
+LIBSRC-LIB36-ENT-WRD-0028949,anatomical_identity,"""organ part""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001285
+LIBSRC-LIB36-ENT-WRD-0028949,anatomical_relationship,"""uriniferous tubule""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001285
+LIBSRC-LIB36-ENT-WRD-0060016,identity_label,"""caudal fin hook""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2001949
+LIBSRC-LIB36-ENT-WRD-0060016,anatomical_identity,"""fin hook""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2001949
+LIBSRC-LIB36-ENT-WRD-0060016,anatomical_relationship,"""caudal fin lepidotrichium""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2001949
+LIBSRC-LIB36-ENT-WRD-0056228,identity_label,"""uropygial gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007802
+LIBSRC-LIB36-ENT-WRD-0056228,anatomical_identity,"""exocrine gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007802
+LIBSRC-LIB36-ENT-WRD-0056228,anatomical_relationship,"""tail""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007802
+LIBSRC-LIB36-ENT-WRD-0029446,identity_label,"""coronary artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001621
+LIBSRC-LIB36-ENT-WRD-0029446,anatomical_identity,"""heart blood vessel""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001621
+LIBSRC-LIB36-ENT-WRD-0029446,anatomical_identity,"""systemic artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001621
+LIBSRC-LIB36-ENT-WRD-0029446,anatomical_relationship,"""system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001621
+LIBSRC-LIB36-ENT-WRD-0029446,anatomical_relationship,"""heart""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001621
+LIBSRC-LIB36-ENT-WRD-0030705,identity_label,"""Teres major""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma32549
+LIBSRC-LIB36-ENT-WRD-0030705,anatomical_identity,"""Intrinsic muscle of shoulder""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma32549
+LIBSRC-LIB36-ENT-WRD-0058384,identity_label,"""pre-Botzinger complex""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0006007
+LIBSRC-LIB36-ENT-WRD-0058384,anatomical_identity,"""cell cluster""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0006007
+LIBSRC-LIB36-ENT-WRD-0058384,anatomical_relationship,"""medulla oblongata""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0006007
+LIBSRC-LIB36-ENT-WRD-0078846,identity_label,"""bilirubin IXalpha""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_16990
+LIBSRC-LIB36-ENT-WRD-0078846,anatomical_identity,"""dicarboxylic acid""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_16990
+LIBSRC-LIB36-ENT-WRD-0078846,anatomical_identity,"""biladienes""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_16990
+LIBSRC-LIB36-ENT-WRD-0041613,identity_label,"""lateral lemniscus""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002953
+LIBSRC-LIB36-ENT-WRD-0041613,anatomical_identity,"""nervous system lemniscus""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002953
+LIBSRC-LIB36-ENT-WRD-0023935,identity_label,"""caudal-fin stay""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2001700
+LIBSRC-LIB36-ENT-WRD-0023935,anatomical_identity,"""fin bone""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2001700
+LIBSRC-LIB36-ENT-WRD-0023935,anatomical_identity,"""dermal bone""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2001700
+LIBSRC-LIB36-ENT-WRD-0023935,anatomical_relationship,"""caudal fin skeleton""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_2001700
+LIBSRC-LIB36-ENT-WRD-0071572,identity_label,"""interthalamic adhesion""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0006681
+LIBSRC-LIB36-ENT-WRD-0071572,anatomical_identity,"""nervous system commissure""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0006681
+LIBSRC-LIB36-ENT-WRD-0076809,identity_label,"""mucosa of laryngopharynx""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004987
+LIBSRC-LIB36-ENT-WRD-0076809,anatomical_identity,"""pharyngeal mucosa""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004987
+LIBSRC-LIB36-ENT-WRD-0076809,anatomical_relationship,"""hypopharynx""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0004987
+LIBSRC-LIB36-ENT-WRD-0069553,identity_label,"""epicranial aponeurosis""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0006661
+LIBSRC-LIB36-ENT-WRD-0069553,anatomical_identity,"""aponeurosis""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0006661
+LIBSRC-LIB36-ENT-WRD-0069553,anatomical_relationship,"""scalp""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0006661
+LIBSRC-LIB36-ENT-WRD-0029201,identity_label,"""platysma""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005467
+LIBSRC-LIB36-ENT-WRD-0029201,anatomical_identity,"""facial muscle""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005467
+LIBSRC-LIB36-ENT-WRD-0029201,anatomical_identity,"""hypodermis skeletal muscle layer""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005467
+LIBSRC-LIB36-ENT-WRD-0029325,identity_label,"""tympanic membrane""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002364
+LIBSRC-LIB36-ENT-WRD-0029325,anatomical_identity,"""membrane organ""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002364
+LIBSRC-LIB36-ENT-WRD-0029325,anatomical_relationship,"""middle ear""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002364
+LIBSRC-LIB36-ENT-WRD-0018408,identity_label,"""forceps minor of corpus callosum""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0034678
+LIBSRC-LIB36-ENT-WRD-0018408,anatomical_identity,"""cerebral hemisphere white matter""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0034678
+LIBSRC-LIB36-ENT-WRD-0018408,anatomical_relationship,"""corpus callosum""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0034678
+LIBSRC-LIB36-ENT-WRD-0018408,anatomical_relationship,"""genu of corpus callosum""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0034678
+LIBSRC-LIB36-ENT-WRD-0029432,identity_label,"""anterior cerebral artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001624
+LIBSRC-LIB36-ENT-WRD-0029432,anatomical_identity,"""cerebral artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001624
+LIBSRC-LIB36-ENT-WRD-0000997,identity_label,"""accessory XI nerve cranial component""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0009673
+LIBSRC-LIB36-ENT-WRD-0000997,anatomical_identity,"""cranial nerve""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0009673
+LIBSRC-LIB36-ENT-WRD-0000997,anatomical_relationship,"""vagus nerve""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0009673
+LIBSRC-LIB36-ENT-WRD-0000997,anatomical_relationship,"""accessory XI nerve""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0009673
+LIBSRC-LIB36-ENT-WRD-0022759,identity_label,"""omasum""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007362
+LIBSRC-LIB36-ENT-WRD-0022759,anatomical_identity,"""stomach non-glandular region""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007362
+LIBSRC-LIB36-ENT-WRD-0022759,anatomical_relationship,"""ruminant forestomach""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007362
+LIBSRC-LIB36-ENT-WRD-0022759,anatomical_relationship,"""reticulorumen""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007362
+LIBSRC-LIB36-ENT-WRD-0000747,identity_label,"""cuticle""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001002
+LIBSRC-LIB36-ENT-WRD-0000747,anatomical_identity,"""acellular anatomical structure""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001002
+LIBSRC-LIB36-ENT-WRD-0054107,identity_label,"""superior colliculus""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001945
+LIBSRC-LIB36-ENT-WRD-0054107,anatomical_identity,"""regional part of brain""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001945
+LIBSRC-LIB36-ENT-WRD-0054107,anatomical_identity,"""visual processing part of nervous system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001945
+LIBSRC-LIB36-ENT-WRD-0054107,anatomical_identity,"""lateral structure""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001945
+LIBSRC-LIB36-ENT-WRD-0054107,anatomical_relationship,"""corpora quadrigemina""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001945
+LIBSRC-LIB36-ENT-WRD-0054107,anatomical_relationship,"""midbrain tectum""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001945
+LIBSRC-LIB36-ENT-WRD-0038619,identity_label,"""anterior jugular vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001104
+LIBSRC-LIB36-ENT-WRD-0038619,anatomical_identity,"""jugular vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001104
+LIBSRC-LIB36-ENT-WRD-0081170,identity_label,"""circadian rhythm""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0007623
+LIBSRC-LIB36-ENT-WRD-0081170,anatomical_identity,"""rhythmic process""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0007623
+LIBSRC-LIB36-ENT-WRD-0030277,identity_label,"""internal carotid nerve plexus""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002024
+LIBSRC-LIB36-ENT-WRD-0030277,anatomical_identity,"""autonomic nerve plexus""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002024
+LIBSRC-LIB36-ENT-WRD-0010787,identity_label,"""Phocidae""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FNCBITaxon_9709
+LIBSRC-LIB36-ENT-WRD-0010787,anatomical_identity,"""Pinnipedia""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FNCBITaxon_9709
+LIBSRC-LIB36-ENT-WRD-0029815,identity_label,"""Parathyroid hormone""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma83374
+LIBSRC-LIB36-ENT-WRD-0029815,anatomical_identity,"""Hormone""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma83374
+LIBSRC-LIB36-ENT-WRD-0002710,identity_label,"""tympanic membrane""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002364
+LIBSRC-LIB36-ENT-WRD-0002710,anatomical_identity,"""membrane organ""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002364
+LIBSRC-LIB36-ENT-WRD-0002710,anatomical_relationship,"""middle ear""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002364
+LIBSRC-LIB36-ENT-WRD-0032058,identity_label,"""alveolar gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0013223
+LIBSRC-LIB36-ENT-WRD-0032058,anatomical_identity,"""gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0013223
+LIBSRC-LIB36-ENT-WRD-0028818,identity_label,"""organism subdivision""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000475
+LIBSRC-LIB36-ENT-WRD-0028818,anatomical_identity,"""multicellular anatomical structure""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000475
+LIBSRC-LIB36-ENT-WRD-0028818,anatomical_relationship,"""multicellular organism""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000475
+LIBSRC-LIB36-ENT-WRD-0074819,identity_label,"""buccal fat pad""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0012167
+LIBSRC-LIB36-ENT-WRD-0074819,anatomical_identity,"""head connective tissue""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0012167
+LIBSRC-LIB36-ENT-WRD-0074819,anatomical_identity,"""fat pad""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0012167
+LIBSRC-LIB36-ENT-WRD-0074819,anatomical_relationship,"""cheek""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0012167
+LIBSRC-LIB36-ENT-WRD-0000702,identity_label,"""beak""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005094
+LIBSRC-LIB36-ENT-WRD-0000702,anatomical_identity,"""surface structure""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005094
+LIBSRC-LIB36-ENT-WRD-0000702,anatomical_relationship,"""head""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005094
+LIBSRC-LIB36-ENT-WRD-0030746,identity_label,"""supratendinal bridge""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0018366
+LIBSRC-LIB36-ENT-WRD-0030746,anatomical_identity,"""bone element""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0018366
+LIBSRC-LIB36-ENT-WRD-0000150,identity_label,"""inner nuclear layer of retina""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001791
+LIBSRC-LIB36-ENT-WRD-0000150,anatomical_identity,"""layer of retina""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001791
+LIBSRC-LIB36-ENT-WRD-0000150,anatomical_relationship,"""retinal neural layer""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001791
+LIBSRC-LIB36-ENT-WRD-0075064,identity_label,"""diploid""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FPATO_0001394
+LIBSRC-LIB36-ENT-WRD-0075064,anatomical_identity,"""euploid""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FPATO_0001394
+LIBSRC-LIB36-ENT-WRD-0059251,identity_label,"""bulbo-urethral gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002366
+LIBSRC-LIB36-ENT-WRD-0059251,anatomical_identity,"""mucous gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002366
+LIBSRC-LIB36-ENT-WRD-0059251,anatomical_identity,"""seminal fluid secreting gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002366
+LIBSRC-LIB36-ENT-WRD-0059251,anatomical_identity,"""male accessory sex gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002366
+LIBSRC-LIB36-ENT-WRD-0059251,anatomical_identity,"""male urethral gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002366
+LIBSRC-LIB36-ENT-WRD-0059251,anatomical_relationship,"""male urethra""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002366
+LIBSRC-LIB36-ENT-WRD-0059251,anatomical_relationship,"""exocrine system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002366
+LIBSRC-LIB36-ENT-WRD-0026864,identity_label,"""antenna""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000972
+LIBSRC-LIB36-ENT-WRD-0026864,anatomical_identity,"""appendage""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000972
+LIBSRC-LIB36-ENT-WRD-0026864,anatomical_identity,"""lateral structure""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000972
+LIBSRC-LIB36-ENT-WRD-0026864,anatomical_relationship,"""head""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000972
+LIBSRC-LIB36-ENT-WRD-0029522,identity_label,"""anterior vertebral vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0039186
+LIBSRC-LIB36-ENT-WRD-0029522,anatomical_identity,"""vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0039186
+LIBSRC-LIB36-ENT-WRD-0029522,anatomical_relationship,"""vertebral vein""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0039186
+LIBSRC-LIB36-ENT-WRD-0074638,identity_label,"""posterior semicircular duct""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001858
+LIBSRC-LIB36-ENT-WRD-0074638,anatomical_identity,"""semicircular duct""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001858
+LIBSRC-LIB36-ENT-WRD-0074638,anatomical_relationship,"""posterior semicircular canal""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001858
+LIBSRC-LIB36-ENT-WRD-0030630,identity_label,"""Surface of instep""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma0326827
+LIBSRC-LIB36-ENT-WRD-0030630,anatomical_identity,"""Surface of segment of foot""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma0326827
+LIBSRC-LIB36-ENT-WRD-0045292,identity_label,"""regurgitated pellet""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0036018
+LIBSRC-LIB36-ENT-WRD-0045292,anatomical_identity,"""regurgitated substance""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0036018
+LIBSRC-LIB36-ENT-WRD-0030139,identity_label,"""Commissure""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma76741
+LIBSRC-LIB36-ENT-WRD-0030139,anatomical_identity,"""Decussation""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma76741
+LIBSRC-LIB36-ENT-WRD-0029711,identity_label,"""trabecula carnea cardiac muscle tissue""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0003452
+LIBSRC-LIB36-ENT-WRD-0029711,anatomical_identity,"""cardiac muscle tissue of ventricle""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0003452
+LIBSRC-LIB36-ENT-WRD-0029711,anatomical_relationship,"""trabecula carnea""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0003452
+LIBSRC-LIB36-ENT-WRD-0071254,identity_label,"""receptor modulator""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_90710
+LIBSRC-LIB36-ENT-WRD-0071254,anatomical_identity,"""drug""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_90710
+LIBSRC-LIB36-ENT-WRD-0039714,identity_label,"""blastula stage""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000108
+LIBSRC-LIB36-ENT-WRD-0039714,anatomical_identity,"""life cycle stage""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000108
+LIBSRC-LIB36-ENT-WRD-0039714,anatomical_relationship,"""embryo stage""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000108
+DRV-CORPUS-L17-0005398,identity_label,"""tracheoesophageal septum""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0036070
+DRV-CORPUS-L17-0005398,anatomical_identity,"""septum""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0036070
+DRV-CORPUS-L17-0005398,anatomical_identity,"""mesoderm-derived structure""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0036070
+DRV-CORPUS-L17-0005299,identity_label,"""zygote stage""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000106
+DRV-CORPUS-L17-0005299,anatomical_identity,"""life cycle stage""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000106
+DRV-CORPUS-L17-0005299,anatomical_relationship,"""embryo stage""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000106
+DRV-CORPUS-L17-0001616,identity_label,"""Back""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma25056
+DRV-CORPUS-L17-0001616,anatomical_identity,"""Subdivision of trunk""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma25056
+DRV-CORPUS-L17-0000733,identity_label,"""parotoid gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0013219
+DRV-CORPUS-L17-0000733,anatomical_identity,"""gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0013219
+DRV-CORPUS-L17-0000951,identity_label,"""Anaphase cell nucleus""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma0327008
+DRV-CORPUS-L17-0000951,anatomical_identity,"""Cell nucleus""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma0327008
+DRV-CORPUS-L17-0000541,identity_label,"""interthalamic adhesion""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0006681
+DRV-CORPUS-L17-0000541,anatomical_identity,"""nervous system commissure""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0006681
+DRV-CORPUS-L17-0003644,identity_label,"""Rathke's pouch""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005356
+DRV-CORPUS-L17-0003644,anatomical_identity,"""developing anatomical structure""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005356
+DRV-CORPUS-L17-0003644,anatomical_identity,"""epithelial sac""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005356
+DRV-CORPUS-L17-0003644,anatomical_identity,"""ecto-epithelium""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005356
+DRV-CORPUS-L17-0003644,anatomical_relationship,"""head""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005356
+DRV-CORPUS-L17-0005809,identity_label,"""ovary""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000992
+DRV-CORPUS-L17-0005809,anatomical_identity,"""gonad""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000992
+DRV-CORPUS-L17-0005809,anatomical_identity,"""female reproductive organ""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000992
+DRV-CORPUS-L17-0005809,anatomical_relationship,"""female reproductive system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0000992
+DRV-CORPUS-L17-0006995,identity_label,"""immune organ""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005057
+DRV-CORPUS-L17-0006995,anatomical_identity,"""organ""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005057
+DRV-CORPUS-L17-0006995,anatomical_relationship,"""immune system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0005057
+DRV-CORPUS-L17-0003886,identity_label,"""premolar tooth""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007120
+DRV-CORPUS-L17-0003886,anatomical_identity,"""molariform tooth""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0007120
+DRV-CORPUS-L17-0001106,identity_label,"""ossicone""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0013213
+DRV-CORPUS-L17-0001106,anatomical_identity,"""cranial appendage""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0013213
+DRV-CORPUS-L17-0004335,identity_label,"""melon organ""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0008960
+DRV-CORPUS-L17-0004335,anatomical_identity,"""echolocation organ""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0008960
+DRV-CORPUS-L17-0004335,anatomical_relationship,"""head""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0008960
+DRV-CORPUS-L17-0002091,identity_label,"""median nerve""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001148
+DRV-CORPUS-L17-0002091,anatomical_identity,"""arm nerve""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001148
+DRV-CORPUS-L17-0002091,anatomical_relationship,"""arm""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001148
+DRV-CORPUS-L17-0002091,anatomical_relationship,"""brachial nerve plexus""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001148
+DRV-CORPUS-L17-0000974,identity_label,"""androgenic hair""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0037464
+DRV-CORPUS-L17-0000974,anatomical_identity,"""terminal hair""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0037464
+DRV-CORPUS-L17-0005103,identity_label,"""zygomatic gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0010240
+DRV-CORPUS-L17-0005103,anatomical_identity,"""buccal salivary gland""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0010240
+DRV-CORPUS-L17-0005103,anatomical_relationship,"""cheek""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0010240
+DRV-CORPUS-L17-0002154,identity_label,"""bronchial artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002040
+DRV-CORPUS-L17-0002154,anatomical_identity,"""systemic artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002040
+DRV-CORPUS-L17-0002154,anatomical_relationship,"""system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002040
+DRV-CORPUS-L17-0002154,anatomical_relationship,"""systemic arterial system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0002040
+DRV-CORPUS-L17-0005271,identity_label,"""femoral nerve""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001267
+DRV-CORPUS-L17-0005271,anatomical_identity,"""leg nerve""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001267
+DRV-CORPUS-L17-0005271,anatomical_relationship,"""leg""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001267
+DRV-CORPUS-L17-0001046,identity_label,"""renin-angiotensin system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0018229
+DRV-CORPUS-L17-0001046,anatomical_identity,"""organ system subdivision""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0018229
+DRV-CORPUS-L17-0001046,anatomical_relationship,"""endocrine system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0018229
+DRV-CORPUS-L17-0014179,identity_label,"""vegetal hemisphere""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0012285
+DRV-CORPUS-L17-0014179,anatomical_identity,"""hemisphere of embryo""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0012285
+DRV-CORPUS-L17-0003926,identity_label,"""canonical deoxyribonucleoside residue""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_33793
+DRV-CORPUS-L17-0003926,anatomical_identity,"""canonical nucleoside residue""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_33793
+DRV-CORPUS-L17-0001685,identity_label,"""basilar artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001633
+DRV-CORPUS-L17-0001685,anatomical_identity,"""head blood vessel""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001633
+DRV-CORPUS-L17-0001685,anatomical_identity,"""systemic artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001633
+DRV-CORPUS-L17-0001685,anatomical_identity,"""branch of vertebral artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001633
+DRV-CORPUS-L17-0001685,anatomical_relationship,"""subclavian artery""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001633
+DRV-CORPUS-L17-0001685,anatomical_relationship,"""vasculature of head""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001633
+DRV-CORPUS-L17-0000501,identity_label,"""Adenine""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma82774
+DRV-CORPUS-L17-0000501,anatomical_identity,"""Purine""",https://www.ebi.ac.uk/ols4/ontologies/fma/classes/http%253A%252F%252Fpurl.org%252Fsig%252Font%252Ffma%252Ffma82774
+DRV-CORPUS-L17-0000509,identity_label,"""pharyngeal tonsil""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001732
+DRV-CORPUS-L17-0000509,anatomical_identity,"""tonsil""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001732
+DRV-CORPUS-L17-0000509,anatomical_identity,"""nasal-associated lymphoid tissue""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001732
+DRV-CORPUS-L17-0000509,anatomical_relationship,"""nasopharynx""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001732
+DRV-CORPUS-L17-0000930,identity_label,"""amygdala""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001876
+DRV-CORPUS-L17-0000930,anatomical_identity,"""basal ganglion""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001876
+DRV-CORPUS-L17-0000930,anatomical_identity,"""cerebral hemisphere gray matter""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001876
+DRV-CORPUS-L17-0000930,anatomical_relationship,"""limbic system""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001876
+DRV-CORPUS-L17-0000930,anatomical_relationship,"""cerebral hemisphere""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001876
+DRV-CORPUS-L17-0000930,anatomical_relationship,"""temporal lobe""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0001876
+DRV-CORPUS-L05-0024034,identity_label,"""grooming behavior""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FNBO_0000027
+DRV-CORPUS-L05-0024034,anatomical_identity,"""behavior process""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FNBO_0000027
+DRV-CORPUS-L17-0000819,identity_label,"""Ambystoma mexicanum""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FNCBITaxon_8296
+DRV-CORPUS-L17-0000819,anatomical_identity,"""Ambystoma""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FNCBITaxon_8296
+DRV-CORPUS-L17-0004391,identity_label,"""pharmacological role""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_52210
+DRV-CORPUS-L17-0004391,anatomical_identity,"""biological role""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FCHEBI_52210
+DRV-CORPUS-L17-0002599,identity_label,"""protein-containing complex""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0032991
+DRV-CORPUS-L17-0002599,anatomical_identity,"""complex of molecules""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0032991
+DRV-CORPUS-L17-0002599,anatomical_identity,"""cellular_component""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0032991
+DRV-CORPUS-L17-0001570,identity_label,"""axilla""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0009472
+DRV-CORPUS-L17-0001570,anatomical_identity,"""external soft tissue zone""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0009472
+DRV-CORPUS-L17-0001570,anatomical_relationship,"""pectoral girdle region""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FUBERON_0009472
+DRV-CORPUS-L17-0005912,identity_label,"""gluconeogenesis""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0006094
+DRV-CORPUS-L17-0005912,anatomical_identity,"""glucose metabolic process""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0006094
+DRV-CORPUS-L17-0005912,anatomical_identity,"""hexose biosynthetic process""",https://www.ebi.ac.uk/ols4/ontologies/uberon/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FGO_0006094
