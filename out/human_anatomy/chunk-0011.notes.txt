@@ -1,0 +1,3 @@
+Queried Wikidata SPARQL for exact matches of subject_name against rdfs:label@en.
+Enforced strict semantic class filtering to instances/subclasses of anatomical structure (wd:Q4936952).
+Most subjects in this chunk are museum artifacts and do not match the semantic class 'anatomical structure', yielding expected 0 results without false positives.
