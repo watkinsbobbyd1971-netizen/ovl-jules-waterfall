@@ -1,0 +1,217 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-2549220,identity_label,"""Sphaceloma curcumae""",https://api.gbif.org/v1/species/match?name=Sphaceloma%20curcumae&strict=true
+LIBSRC-LIB50-ENT-BIO-2549220,scientific_identity,"""Sphaceloma curcumae Thirum.""",https://api.gbif.org/v1/species/match?name=Sphaceloma%20curcumae&strict=true
+LIBSRC-LIB50-ENT-BIO-2549220,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Sphaceloma%20curcumae&strict=true
+LIBSRC-LIB50-ENT-BIO-2549443,identity_label,"""Elsinoe urerae""",https://api.gbif.org/v1/species/match?name=Elsinoe%20urerae&strict=true
+LIBSRC-LIB50-ENT-BIO-2549443,scientific_identity,"""Elsinoe urerae Hansf.""",https://api.gbif.org/v1/species/match?name=Elsinoe%20urerae&strict=true
+LIBSRC-LIB50-ENT-BIO-2549443,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Elsinoe%20urerae&strict=true
+LIBSRC-LIB50-ENT-BIO-2542456,identity_label,"""Pezicula aescula""",https://api.gbif.org/v1/species/match?name=Pezicula%20aescula&strict=true
+LIBSRC-LIB50-ENT-BIO-2542456,scientific_identity,"""Pezicula aescula Kitschstein""",https://api.gbif.org/v1/species/match?name=Pezicula%20aescula&strict=true
+LIBSRC-LIB50-ENT-BIO-2542456,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Pezicula%20aescula&strict=true
+LIBSRC-LIB50-ENT-BIO-2522909,identity_label,"""Acanthotubeufia filiformis""",https://api.gbif.org/v1/species/match?name=Acanthotubeufia%20filiformis&strict=true
+LIBSRC-LIB50-ENT-BIO-2522909,scientific_identity,"""Acanthotubeufia filiformis (Promp. & A.N.Mill.) Y.Z.Lu & K.D.Hyde""",https://api.gbif.org/v1/species/match?name=Acanthotubeufia%20filiformis&strict=true
+LIBSRC-LIB50-ENT-BIO-2522909,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Acanthotubeufia%20filiformis&strict=true
+LIBSRC-LIB50-ENT-BIO-2503948,identity_label,"""Daptonema setifer""",https://api.gbif.org/v1/species/match?name=Daptonema%20setifer&strict=true
+LIBSRC-LIB50-ENT-BIO-2503948,scientific_identity,"""Daptonema setifer (Gerlach, 1952) Lorenzen, 1977""",https://api.gbif.org/v1/species/match?name=Daptonema%20setifer&strict=true
+LIBSRC-LIB50-ENT-BIO-2503948,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Daptonema%20setifer&strict=true
+LIBSRC-LIB50-ENT-BIO-2525540,identity_label,"""Dactylogyrus symavesi""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20symavesi&strict=true
+LIBSRC-LIB50-ENT-BIO-2525540,scientific_identity,"""Dactylogyrus symavesi Rizvi, 1978""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20symavesi&strict=true
+LIBSRC-LIB50-ENT-BIO-2525540,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20symavesi&strict=true
+LIBSRC-LIB50-ENT-BIO-2525778,identity_label,"""Dactylogyrus bucephalophoroides""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20bucephalophoroides&strict=true
+LIBSRC-LIB50-ENT-BIO-2525778,scientific_identity,"""Dactylogyrus bucephalophoroides Li & Zhang, 1988""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20bucephalophoroides&strict=true
+LIBSRC-LIB50-ENT-BIO-2525778,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20bucephalophoroides&strict=true
+LIBSRC-LIB50-ENT-BIO-2525554,identity_label,"""Dactylogyrus auriformis""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20auriformis&strict=true
+LIBSRC-LIB50-ENT-BIO-2525554,scientific_identity,"""Dactylogyrus auriformis Zhang & Ji, 1980""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20auriformis&strict=true
+LIBSRC-LIB50-ENT-BIO-2525554,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20auriformis&strict=true
+LIBSRC-LIB50-ENT-BIO-2529337,identity_label,"""Singhiogyrus catlaius""",https://api.gbif.org/v1/species/match?name=Singhiogyrus%20catlaius&strict=true
+LIBSRC-LIB50-ENT-BIO-2529337,scientific_identity,"""Singhiogyrus catlaius Singh & Kumar, 2004""",https://api.gbif.org/v1/species/match?name=Singhiogyrus%20catlaius&strict=true
+LIBSRC-LIB50-ENT-BIO-2529337,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Singhiogyrus%20catlaius&strict=true
+LIBSRC-LIB50-ENT-BIO-2541001,identity_label,"""Phlyctema dissepta""",https://api.gbif.org/v1/species/match?name=Phlyctema%20dissepta&strict=true
+LIBSRC-LIB50-ENT-BIO-2541001,scientific_identity,"""Phlyctema dissepta Berk.""",https://api.gbif.org/v1/species/match?name=Phlyctema%20dissepta&strict=true
+LIBSRC-LIB50-ENT-BIO-2541001,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Phlyctema%20dissepta&strict=true
+LIBSRC-LIB50-ENT-BIO-2542412,identity_label,"""Pezicula alnicola""",https://api.gbif.org/v1/species/match?name=Pezicula%20alnicola&strict=true
+LIBSRC-LIB50-ENT-BIO-2542412,scientific_identity,"""Pezicula alnicola J.W.Groves""",https://api.gbif.org/v1/species/match?name=Pezicula%20alnicola&strict=true
+LIBSRC-LIB50-ENT-BIO-2542412,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Pezicula%20alnicola&strict=true
+LIBSRC-LIB50-ENT-BIO-2542463,identity_label,"""Pezicula pseudocinnamomea""",https://api.gbif.org/v1/species/match?name=Pezicula%20pseudocinnamomea&strict=true
+LIBSRC-LIB50-ENT-BIO-2542463,scientific_identity,"""Pezicula pseudocinnamomea Chen Chen, Verkley & Crous""",https://api.gbif.org/v1/species/match?name=Pezicula%20pseudocinnamomea&strict=true
+LIBSRC-LIB50-ENT-BIO-2542463,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Pezicula%20pseudocinnamomea&strict=true
+LIBSRC-LIB50-ENT-BIO-2527094,identity_label,"""Cryptovalsa mangrovei""",https://api.gbif.org/v1/species/match?name=Cryptovalsa%20mangrovei&strict=true
+LIBSRC-LIB50-ENT-BIO-2527094,scientific_identity,"""Cryptovalsa mangrovei Abdel-Wahab & Inderb.""",https://api.gbif.org/v1/species/match?name=Cryptovalsa%20mangrovei&strict=true
+LIBSRC-LIB50-ENT-BIO-2527094,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Cryptovalsa%20mangrovei&strict=true
+LIBSRC-LIB50-ENT-BIO-2527166,identity_label,"""Eutypella heveae""",https://api.gbif.org/v1/species/match?name=Eutypella%20heveae&strict=true
+LIBSRC-LIB50-ENT-BIO-2527166,scientific_identity,"""Eutypella heveae H.S.Yates""",https://api.gbif.org/v1/species/match?name=Eutypella%20heveae&strict=true
+LIBSRC-LIB50-ENT-BIO-2527166,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Eutypella%20heveae&strict=true
+LIBSRC-LIB50-ENT-BIO-2527233,identity_label,"""Eutypella tilakii""",https://api.gbif.org/v1/species/match?name=Eutypella%20tilakii&strict=true
+LIBSRC-LIB50-ENT-BIO-2527233,scientific_identity,"""Eutypella tilakii R.Rao""",https://api.gbif.org/v1/species/match?name=Eutypella%20tilakii&strict=true
+LIBSRC-LIB50-ENT-BIO-2527233,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Eutypella%20tilakii&strict=true
+LIBSRC-LIB50-ENT-BIO-2529045,identity_label,"""Diatrype patella""",https://api.gbif.org/v1/species/match?name=Diatrype%20patella&strict=true
+LIBSRC-LIB50-ENT-BIO-2529045,scientific_identity,"""Diatrype patella Rehm""",https://api.gbif.org/v1/species/match?name=Diatrype%20patella&strict=true
+LIBSRC-LIB50-ENT-BIO-2529045,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Diatrype%20patella&strict=true
+LIBSRC-LIB50-ENT-BIO-2497608,identity_label,"""Arthopyrenia platycarpa""",https://api.gbif.org/v1/species/match?name=Arthopyrenia%20platycarpa&strict=true
+LIBSRC-LIB50-ENT-BIO-2497608,scientific_identity,"""Arthopyrenia platycarpa M\u00fcll.Arg., 1893""",https://api.gbif.org/v1/species/match?name=Arthopyrenia%20platycarpa&strict=true
+LIBSRC-LIB50-ENT-BIO-2497608,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Arthopyrenia%20platycarpa&strict=true
+LIBSRC-LIB50-ENT-BIO-2545267,identity_label,"""Urocystis thaxteri""",https://api.gbif.org/v1/species/match?name=Urocystis%20thaxteri&strict=true
+LIBSRC-LIB50-ENT-BIO-2545267,scientific_identity,"""Urocystis thaxteri V\u00e1nky""",https://api.gbif.org/v1/species/match?name=Urocystis%20thaxteri&strict=true
+LIBSRC-LIB50-ENT-BIO-2545267,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Urocystis%20thaxteri&strict=true
+LIBSRC-LIB50-ENT-BIO-2525173,identity_label,"""Philepitta castanea""",https://api.gbif.org/v1/species/match?name=Philepitta%20castanea&strict=true
+LIBSRC-LIB50-ENT-BIO-2525173,scientific_identity,"""Philepitta castanea (Statius Muller, 1776)""",https://api.gbif.org/v1/species/match?name=Philepitta%20castanea&strict=true
+LIBSRC-LIB50-ENT-BIO-2525173,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Philepitta%20castanea&strict=true
+LIBSRC-LIB50-ENT-BIO-2549213,identity_label,"""Delphinornis larsenii""",https://api.gbif.org/v1/species/match?name=Delphinornis%20larsenii&strict=true
+LIBSRC-LIB50-ENT-BIO-2549213,scientific_identity,"""Delphinornis larsenii Wiman, 1905""",https://api.gbif.org/v1/species/match?name=Delphinornis%20larsenii&strict=true
+LIBSRC-LIB50-ENT-BIO-2549213,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Delphinornis%20larsenii&strict=true
+LIBSRC-LIB50-ENT-BIO-2549170,identity_label,"""Graptolithus peosta""",https://api.gbif.org/v1/species/match?name=Graptolithus%20peosta&strict=true
+LIBSRC-LIB50-ENT-BIO-2549170,scientific_identity,"""Graptolithus peosta (Hall, 1861)""",https://api.gbif.org/v1/species/match?name=Graptolithus%20peosta&strict=true
+LIBSRC-LIB50-ENT-BIO-2549170,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Graptolithus%20peosta&strict=true
+LIBSRC-LIB50-ENT-BIO-2499825,identity_label,"""Theristus flevensis""",https://api.gbif.org/v1/species/match?name=Theristus%20flevensis&strict=true
+LIBSRC-LIB50-ENT-BIO-2499825,scientific_identity,"""Theristus flevensis Schuurmans Stekhoven, 1935""",https://api.gbif.org/v1/species/match?name=Theristus%20flevensis&strict=true
+LIBSRC-LIB50-ENT-BIO-2499825,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Theristus%20flevensis&strict=true
+LIBSRC-LIB50-ENT-BIO-2500006,identity_label,"""Neptunomonas phycophila""",https://api.gbif.org/v1/species/match?name=Neptunomonas%20phycophila&strict=true
+LIBSRC-LIB50-ENT-BIO-2500006,scientific_identity,"""Neptunomonas phycophila Frommlet et al., 2015""",https://api.gbif.org/v1/species/match?name=Neptunomonas%20phycophila&strict=true
+LIBSRC-LIB50-ENT-BIO-2500006,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Neptunomonas%20phycophila&strict=true
+LIBSRC-LIB50-ENT-BIO-2508697,identity_label,"""Globorotalia decorata""",https://api.gbif.org/v1/species/match?name=Globorotalia%20decorata&strict=true
+LIBSRC-LIB50-ENT-BIO-2508697,scientific_identity,"""Globorotalia decorata Cushman & Todd, 1948""",https://api.gbif.org/v1/species/match?name=Globorotalia%20decorata&strict=true
+LIBSRC-LIB50-ENT-BIO-2508697,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Globorotalia%20decorata&strict=true
+LIBSRC-LIB50-ENT-BIO-2508831,identity_label,"""Globorotalia grandis""",https://api.gbif.org/v1/species/match?name=Globorotalia%20grandis&strict=true
+LIBSRC-LIB50-ENT-BIO-2508831,scientific_identity,"""Globorotalia grandis Galloway & Wissler, 1927""",https://api.gbif.org/v1/species/match?name=Globorotalia%20grandis&strict=true
+LIBSRC-LIB50-ENT-BIO-2508831,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Globorotalia%20grandis&strict=true
+LIBSRC-LIB50-ENT-BIO-2547400,identity_label,"""Helicoprion ergassaminon""",https://api.gbif.org/v1/species/match?name=Helicoprion%20ergassaminon&strict=true
+LIBSRC-LIB50-ENT-BIO-2547400,scientific_identity,"""Helicoprion ergassaminon Bendix-Almgreen, 1966""",https://api.gbif.org/v1/species/match?name=Helicoprion%20ergassaminon&strict=true
+LIBSRC-LIB50-ENT-BIO-2547400,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Helicoprion%20ergassaminon&strict=true
+LIBSRC-LIB50-ENT-BIO-2521082,identity_label,"""Carpobothrium rhinobati""",https://api.gbif.org/v1/species/match?name=Carpobothrium%20rhinobati&strict=true
+LIBSRC-LIB50-ENT-BIO-2521082,scientific_identity,"""Carpobothrium rhinobati Sarada & Vijaya Lakshmi, 1993""",https://api.gbif.org/v1/species/match?name=Carpobothrium%20rhinobati&strict=true
+LIBSRC-LIB50-ENT-BIO-2521082,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Carpobothrium%20rhinobati&strict=true
+LIBSRC-LIB50-ENT-BIO-2517826,identity_label,"""Anthobothrium peruanum""",https://api.gbif.org/v1/species/match?name=Anthobothrium%20peruanum&strict=true
+LIBSRC-LIB50-ENT-BIO-2517826,scientific_identity,"""Anthobothrium peruanum Rego, Vincente & Herrera, 1968""",https://api.gbif.org/v1/species/match?name=Anthobothrium%20peruanum&strict=true
+LIBSRC-LIB50-ENT-BIO-2517826,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Anthobothrium%20peruanum&strict=true
+LIBSRC-LIB50-ENT-BIO-2525961,identity_label,"""Dactylogyrus intermedioides""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20intermedioides&strict=true
+LIBSRC-LIB50-ENT-BIO-2525961,scientific_identity,"""Dactylogyrus intermedioides Gusev, Jalali & Moln\u00e1r, 1993""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20intermedioides&strict=true
+LIBSRC-LIB50-ENT-BIO-2525961,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20intermedioides&strict=true
+LIBSRC-LIB50-ENT-BIO-2525581,identity_label,"""Dactylogyrus securiformis""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20securiformis&strict=true
+LIBSRC-LIB50-ENT-BIO-2525581,scientific_identity,"""Dactylogyrus securiformis Gusev, 1955""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20securiformis&strict=true
+LIBSRC-LIB50-ENT-BIO-2525581,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20securiformis&strict=true
+LIBSRC-LIB50-ENT-BIO-2526131,identity_label,"""Dactylogyrus pollens""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20pollens&strict=true
+LIBSRC-LIB50-ENT-BIO-2526131,scientific_identity,"""Dactylogyrus pollens Zhang & Guo, 1981""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20pollens&strict=true
+LIBSRC-LIB50-ENT-BIO-2526131,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20pollens&strict=true
+LIBSRC-LIB50-ENT-BIO-2529018,identity_label,"""Diatrype dalbergiae""",https://api.gbif.org/v1/species/match?name=Diatrype%20dalbergiae&strict=true
+LIBSRC-LIB50-ENT-BIO-2529018,scientific_identity,"""Diatrype dalbergiae Crous""",https://api.gbif.org/v1/species/match?name=Diatrype%20dalbergiae&strict=true
+LIBSRC-LIB50-ENT-BIO-2529018,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Diatrype%20dalbergiae&strict=true
+LIBSRC-LIB50-ENT-BIO-2528133,identity_label,"""Myxosporium candidissimum""",https://api.gbif.org/v1/species/match?name=Myxosporium%20candidissimum&strict=true
+LIBSRC-LIB50-ENT-BIO-2528133,scientific_identity,"""Myxosporium candidissimum Racib.""",https://api.gbif.org/v1/species/match?name=Myxosporium%20candidissimum&strict=true
+LIBSRC-LIB50-ENT-BIO-2528133,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Myxosporium%20candidissimum&strict=true
+LIBSRC-LIB50-ENT-BIO-2545160,identity_label,"""Tuburcinia hederae""",https://api.gbif.org/v1/species/match?name=Tuburcinia%20hederae&strict=true
+LIBSRC-LIB50-ENT-BIO-2545160,scientific_identity,"""Tuburcinia hederae Sousa da C\u00e2mara""",https://api.gbif.org/v1/species/match?name=Tuburcinia%20hederae&strict=true
+LIBSRC-LIB50-ENT-BIO-2545160,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Tuburcinia%20hederae&strict=true
+LIBSRC-LIB50-ENT-BIO-2525816,identity_label,"""Dactylogyrus zoanyngi""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20zoanyngi&strict=true
+LIBSRC-LIB50-ENT-BIO-2525816,scientific_identity,"""Dactylogyrus zoanyngi Ha Ky, 1971""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20zoanyngi&strict=true
+LIBSRC-LIB50-ENT-BIO-2525816,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20zoanyngi&strict=true
+LIBSRC-LIB50-ENT-BIO-2497598,identity_label,"""Arthopyrenia olivatra""",https://api.gbif.org/v1/species/match?name=Arthopyrenia%20olivatra&strict=true
+LIBSRC-LIB50-ENT-BIO-2497598,scientific_identity,"""Arthopyrenia olivatra Norman""",https://api.gbif.org/v1/species/match?name=Arthopyrenia%20olivatra&strict=true
+LIBSRC-LIB50-ENT-BIO-2497598,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Arthopyrenia%20olivatra&strict=true
+LIBSRC-LIB50-ENT-BIO-2525309,identity_label,"""Dactylogyrus petruschewskyi""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20petruschewskyi&strict=true
+LIBSRC-LIB50-ENT-BIO-2525309,scientific_identity,"""Dactylogyrus petruschewskyi Gusev, 1955""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20petruschewskyi&strict=true
+LIBSRC-LIB50-ENT-BIO-2525309,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20petruschewskyi&strict=true
+LIBSRC-LIB50-ENT-BIO-2540995,identity_label,"""Phlyctema hyperici""",https://api.gbif.org/v1/species/match?name=Phlyctema%20hyperici&strict=true
+LIBSRC-LIB50-ENT-BIO-2540995,scientific_identity,"""Phlyctema hyperici Holl\u00f3s""",https://api.gbif.org/v1/species/match?name=Phlyctema%20hyperici&strict=true
+LIBSRC-LIB50-ENT-BIO-2540995,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Phlyctema%20hyperici&strict=true
+LIBSRC-LIB50-ENT-BIO-2499251,identity_label,"""Graecodiscus teresae""",https://api.gbif.org/v1/species/match?name=Graecodiscus%20teresae&strict=true
+LIBSRC-LIB50-ENT-BIO-2499251,scientific_identity,"""Graecodiscus teresae Vachard, 1993""",https://api.gbif.org/v1/species/match?name=Graecodiscus%20teresae&strict=true
+LIBSRC-LIB50-ENT-BIO-2499251,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Graecodiscus%20teresae&strict=true
+LIBSRC-LIB50-ENT-BIO-2530670,identity_label,"""Phaeoisaria filiformis""",https://api.gbif.org/v1/species/match?name=Phaeoisaria%20filiformis&strict=true
+LIBSRC-LIB50-ENT-BIO-2530670,scientific_identity,"""Phaeoisaria filiformis D.F.Bao, Z.L.Luo, K.D.Hyde & H.Y.Su""",https://api.gbif.org/v1/species/match?name=Phaeoisaria%20filiformis&strict=true
+LIBSRC-LIB50-ENT-BIO-2530670,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Phaeoisaria%20filiformis&strict=true
+LIBSRC-LIB50-ENT-BIO-2527637,identity_label,"""Libertella ulmicola""",https://api.gbif.org/v1/species/match?name=Libertella%20ulmicola&strict=true
+LIBSRC-LIB50-ENT-BIO-2527637,scientific_identity,"""Libertella ulmicola Dearn. & Barthol.""",https://api.gbif.org/v1/species/match?name=Libertella%20ulmicola&strict=true
+LIBSRC-LIB50-ENT-BIO-2527637,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Libertella%20ulmicola&strict=true
+LIBSRC-LIB50-ENT-BIO-2529035,identity_label,"""Diatrype leucoxantha""",https://api.gbif.org/v1/species/match?name=Diatrype%20leucoxantha&strict=true
+LIBSRC-LIB50-ENT-BIO-2529035,scientific_identity,"""Diatrype leucoxantha Rehm""",https://api.gbif.org/v1/species/match?name=Diatrype%20leucoxantha&strict=true
+LIBSRC-LIB50-ENT-BIO-2529035,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Diatrype%20leucoxantha&strict=true
+LIBSRC-LIB50-ENT-BIO-2499057,identity_label,"""Xenolaimus pauroamphus""",https://api.gbif.org/v1/species/match?name=Xenolaimus%20pauroamphus&strict=true
+LIBSRC-LIB50-ENT-BIO-2499057,scientific_identity,"""Xenolaimus pauroamphus Nichols, 1979""",https://api.gbif.org/v1/species/match?name=Xenolaimus%20pauroamphus&strict=true
+LIBSRC-LIB50-ENT-BIO-2499057,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Xenolaimus%20pauroamphus&strict=true
+LIBSRC-LIB50-ENT-BIO-2503152,identity_label,"""Echinoderes dujardinii""",https://api.gbif.org/v1/species/match?name=Echinoderes%20dujardinii&strict=true
+LIBSRC-LIB50-ENT-BIO-2503152,scientific_identity,"""Echinoderes dujardinii Clapar\u00e8de, 1863""",https://api.gbif.org/v1/species/match?name=Echinoderes%20dujardinii&strict=true
+LIBSRC-LIB50-ENT-BIO-2503152,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Echinoderes%20dujardinii&strict=true
+LIBSRC-LIB50-ENT-BIO-2549488,identity_label,"""Elsinoe necatrix""",https://api.gbif.org/v1/species/match?name=Elsinoe%20necatrix&strict=true
+LIBSRC-LIB50-ENT-BIO-2549488,scientific_identity,"""Elsinoe necatrix N.Q.Pham, Marinc. & M.J.Wingf.""",https://api.gbif.org/v1/species/match?name=Elsinoe%20necatrix&strict=true
+LIBSRC-LIB50-ENT-BIO-2549488,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Elsinoe%20necatrix&strict=true
+LIBSRC-LIB50-ENT-BIO-2499591,identity_label,"""Marinobacterium aestuariivivens""",https://api.gbif.org/v1/species/match?name=Marinobacterium%20aestuariivivens&strict=true
+LIBSRC-LIB50-ENT-BIO-2499591,scientific_identity,"""Marinobacterium aestuariivivens Park et al., 2016""",https://api.gbif.org/v1/species/match?name=Marinobacterium%20aestuariivivens&strict=true
+LIBSRC-LIB50-ENT-BIO-2499591,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Marinobacterium%20aestuariivivens&strict=true
+LIBSRC-LIB50-ENT-BIO-2508735,identity_label,"""Globorotalia martinezi""",https://api.gbif.org/v1/species/match?name=Globorotalia%20martinezi&strict=true
+LIBSRC-LIB50-ENT-BIO-2508735,scientific_identity,"""Globorotalia martinezi Perconig, 1968""",https://api.gbif.org/v1/species/match?name=Globorotalia%20martinezi&strict=true
+LIBSRC-LIB50-ENT-BIO-2508735,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Globorotalia%20martinezi&strict=true
+LIBSRC-LIB50-ENT-BIO-2522949,identity_label,"""Harpellomyces eccentricus""",https://api.gbif.org/v1/species/match?name=Harpellomyces%20eccentricus&strict=true
+LIBSRC-LIB50-ENT-BIO-2522949,scientific_identity,"""Harpellomyces eccentricus Lichtw. & S.T.Moss""",https://api.gbif.org/v1/species/match?name=Harpellomyces%20eccentricus&strict=true
+LIBSRC-LIB50-ENT-BIO-2522949,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Harpellomyces%20eccentricus&strict=true
+LIBSRC-LIB50-ENT-BIO-2536952,identity_label,"""Pterodroma axillaris""",https://api.gbif.org/v1/species/match?name=Pterodroma%20axillaris&strict=true
+LIBSRC-LIB50-ENT-BIO-2536952,scientific_identity,"""Pterodroma axillaris (Salvin, 1893)""",https://api.gbif.org/v1/species/match?name=Pterodroma%20axillaris&strict=true
+LIBSRC-LIB50-ENT-BIO-2536952,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Pterodroma%20axillaris&strict=true
+LIBSRC-LIB50-ENT-BIO-2515837,identity_label,"""Helicoma indicum""",https://api.gbif.org/v1/species/match?name=Helicoma%20indicum&strict=true
+LIBSRC-LIB50-ENT-BIO-2515837,scientific_identity,"""Helicoma indicum Gawas & Bhat""",https://api.gbif.org/v1/species/match?name=Helicoma%20indicum&strict=true
+LIBSRC-LIB50-ENT-BIO-2515837,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Helicoma%20indicum&strict=true
+LIBSRC-LIB50-ENT-BIO-2499993,identity_label,"""Theristus agilis""",https://api.gbif.org/v1/species/match?name=Theristus%20agilis&strict=true
+LIBSRC-LIB50-ENT-BIO-2499993,scientific_identity,"""Theristus agilis (de Man, 1880) Filipjev, 1918""",https://api.gbif.org/v1/species/match?name=Theristus%20agilis&strict=true
+LIBSRC-LIB50-ENT-BIO-2499993,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Theristus%20agilis&strict=true
+LIBSRC-LIB50-ENT-BIO-2549314,identity_label,"""Sphaceloma sorbi""",https://api.gbif.org/v1/species/match?name=Sphaceloma%20sorbi&strict=true
+LIBSRC-LIB50-ENT-BIO-2549314,scientific_identity,"""Sphaceloma sorbi (Rostr.) Jenkins""",https://api.gbif.org/v1/species/match?name=Sphaceloma%20sorbi&strict=true
+LIBSRC-LIB50-ENT-BIO-2549314,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Sphaceloma%20sorbi&strict=true
+LIBSRC-LIB50-ENT-BIO-2549471,identity_label,"""Elsinoe mezoneuri""",https://api.gbif.org/v1/species/match?name=Elsinoe%20mezoneuri&strict=true
+LIBSRC-LIB50-ENT-BIO-2549471,scientific_identity,"""Elsinoe mezoneuri T.S.Ramakr. & K.Ramakr.""",https://api.gbif.org/v1/species/match?name=Elsinoe%20mezoneuri&strict=true
+LIBSRC-LIB50-ENT-BIO-2549471,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Elsinoe%20mezoneuri&strict=true
+LIBSRC-LIB50-ENT-BIO-2535878,identity_label,"""Aquisalimonas asiatica""",https://api.gbif.org/v1/species/match?name=Aquisalimonas%20asiatica&strict=true
+LIBSRC-LIB50-ENT-BIO-2535878,scientific_identity,"""Aquisalimonas asiatica M\u00e1rquez et al., 2007""",https://api.gbif.org/v1/species/match?name=Aquisalimonas%20asiatica&strict=true
+LIBSRC-LIB50-ENT-BIO-2535878,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Aquisalimonas%20asiatica&strict=true
+LIBSRC-LIB50-ENT-BIO-2528107,identity_label,"""Didymellopsis perigena""",https://api.gbif.org/v1/species/match?name=Didymellopsis%20perigena&strict=true
+LIBSRC-LIB50-ENT-BIO-2528107,scientific_identity,"""Didymellopsis perigena (Nyl.) Grube & Hafellner""",https://api.gbif.org/v1/species/match?name=Didymellopsis%20perigena&strict=true
+LIBSRC-LIB50-ENT-BIO-2528107,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Didymellopsis%20perigena&strict=true
+LIBSRC-LIB50-ENT-BIO-2525945,identity_label,"""Dactylogyrus larindae""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20larindae&strict=true
+LIBSRC-LIB50-ENT-BIO-2525945,scientific_identity,"""Dactylogyrus larindae Crafford, Luus-Powell & Avenant-Oldewage, 2012""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20larindae&strict=true
+LIBSRC-LIB50-ENT-BIO-2525945,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20larindae&strict=true
+LIBSRC-LIB50-ENT-BIO-2525802,identity_label,"""Dactylogyrus takahashii""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20takahashii&strict=true
+LIBSRC-LIB50-ENT-BIO-2525802,scientific_identity,"""Dactylogyrus takahashii Ogawa & Egusa, 1982""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20takahashii&strict=true
+LIBSRC-LIB50-ENT-BIO-2525802,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20takahashii&strict=true
+LIBSRC-LIB50-ENT-BIO-2526012,identity_label,"""Dactylogyrus onychocirrus""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20onychocirrus&strict=true
+LIBSRC-LIB50-ENT-BIO-2526012,scientific_identity,"""Dactylogyrus onychocirrus Lang, 1981""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20onychocirrus&strict=true
+LIBSRC-LIB50-ENT-BIO-2526012,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20onychocirrus&strict=true
+LIBSRC-LIB50-ENT-BIO-2525673,identity_label,"""Dactylogyrus omenti""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20omenti&strict=true
+LIBSRC-LIB50-ENT-BIO-2525673,scientific_identity,"""Dactylogyrus omenti Benovics, Ki\u010dinjaov\u00e1 & Simkov\u00e1, 2017""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20omenti&strict=true
+LIBSRC-LIB50-ENT-BIO-2525673,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Dactylogyrus%20omenti&strict=true
+LIBSRC-LIB50-ENT-BIO-2542500,identity_label,"""Pezicula alni""",https://api.gbif.org/v1/species/match?name=Pezicula%20alni&strict=true
+LIBSRC-LIB50-ENT-BIO-2542500,scientific_identity,"""Pezicula alni (Fuckel) Rehm""",https://api.gbif.org/v1/species/match?name=Pezicula%20alni&strict=true
+LIBSRC-LIB50-ENT-BIO-2542500,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Pezicula%20alni&strict=true
+LIBSRC-LIB50-ENT-BIO-2542492,identity_label,"""Pezicula rubens""",https://api.gbif.org/v1/species/match?name=Pezicula%20rubens&strict=true
+LIBSRC-LIB50-ENT-BIO-2542492,scientific_identity,"""Pezicula rubens (Sacc. & Roum.) Rehm""",https://api.gbif.org/v1/species/match?name=Pezicula%20rubens&strict=true
+LIBSRC-LIB50-ENT-BIO-2542492,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Pezicula%20rubens&strict=true
+LIBSRC-LIB50-ENT-BIO-2532206,identity_label,"""Neothroacocotyle coryphaenae""",https://api.gbif.org/v1/species/match?name=Neothroacocotyle%20coryphaenae&strict=true
+LIBSRC-LIB50-ENT-BIO-2532206,scientific_identity,"""Neothroacocotyle coryphaenae""",https://api.gbif.org/v1/species/match?name=Neothroacocotyle%20coryphaenae&strict=true
+LIBSRC-LIB50-ENT-BIO-2532206,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Neothroacocotyle%20coryphaenae&strict=true
+LIBSRC-LIB50-ENT-BIO-2529034,identity_label,"""Diatrype polygonia""",https://api.gbif.org/v1/species/match?name=Diatrype%20polygonia&strict=true
+LIBSRC-LIB50-ENT-BIO-2529034,scientific_identity,"""Diatrype polygonia Rehm""",https://api.gbif.org/v1/species/match?name=Diatrype%20polygonia&strict=true
+LIBSRC-LIB50-ENT-BIO-2529034,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Diatrype%20polygonia&strict=true
+LIBSRC-LIB50-ENT-BIO-2530122,identity_label,"""Eutypa acerina""",https://api.gbif.org/v1/species/match?name=Eutypa%20acerina&strict=true
+LIBSRC-LIB50-ENT-BIO-2530122,scientific_identity,"""Eutypa acerina Romell""",https://api.gbif.org/v1/species/match?name=Eutypa%20acerina&strict=true
+LIBSRC-LIB50-ENT-BIO-2530122,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Eutypa%20acerina&strict=true
+LIBSRC-LIB50-ENT-BIO-2527708,identity_label,"""Peroneutypa gliricidiae""",https://api.gbif.org/v1/species/match?name=Peroneutypa%20gliricidiae&strict=true
+LIBSRC-LIB50-ENT-BIO-2527708,scientific_identity,"""Peroneutypa gliricidiae (Rehm) Carmar\u00e1n & A.I.Romero""",https://api.gbif.org/v1/species/match?name=Peroneutypa%20gliricidiae&strict=true
+LIBSRC-LIB50-ENT-BIO-2527708,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Peroneutypa%20gliricidiae&strict=true
+LIBSRC-LIB50-ENT-BIO-2549862,identity_label,"""Haplophragmium tuberosum""",https://api.gbif.org/v1/species/match?name=Haplophragmium%20tuberosum&strict=true
+LIBSRC-LIB50-ENT-BIO-2549862,scientific_identity,"""Haplophragmium tuberosum Terquem, 1886""",https://api.gbif.org/v1/species/match?name=Haplophragmium%20tuberosum&strict=true
+LIBSRC-LIB50-ENT-BIO-2549862,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Haplophragmium%20tuberosum&strict=true
+LIBSRC-LIB50-ENT-BIO-2537547,identity_label,"""Discosia vagans""",https://api.gbif.org/v1/species/match?name=Discosia%20vagans&strict=true
+LIBSRC-LIB50-ENT-BIO-2537547,scientific_identity,"""Discosia vagans De Not.""",https://api.gbif.org/v1/species/match?name=Discosia%20vagans&strict=true
+LIBSRC-LIB50-ENT-BIO-2537547,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Discosia%20vagans&strict=true
+LIBSRC-LIB50-ENT-BIO-2499846,identity_label,"""Theristus scanicus""",https://api.gbif.org/v1/species/match?name=Theristus%20scanicus&strict=true
+LIBSRC-LIB50-ENT-BIO-2499846,scientific_identity,"""Theristus scanicus Allg\u00e9n, 1949""",https://api.gbif.org/v1/species/match?name=Theristus%20scanicus&strict=true
+LIBSRC-LIB50-ENT-BIO-2499846,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Theristus%20scanicus&strict=true
+LIBSRC-LIB50-ENT-BIO-2541934,identity_label,"""Cryptosporiopsis kaki""",https://api.gbif.org/v1/species/match?name=Cryptosporiopsis%20kaki&strict=true
+LIBSRC-LIB50-ENT-BIO-2541934,scientific_identity,"""Cryptosporiopsis kaki (Hara) Weindlm.""",https://api.gbif.org/v1/species/match?name=Cryptosporiopsis%20kaki&strict=true
+LIBSRC-LIB50-ENT-BIO-2541934,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Cryptosporiopsis%20kaki&strict=true
+LIBSRC-LIB50-ENT-BIO-2497363,identity_label,"""Hoffmaenneria niddensis""",https://api.gbif.org/v1/species/match?name=Hoffmaenneria%20niddensis&strict=true
+LIBSRC-LIB50-ENT-BIO-2497363,scientific_identity,"""Hoffmaenneria niddensis (Skwarra, 1921)""",https://api.gbif.org/v1/species/match?name=Hoffmaenneria%20niddensis&strict=true
+LIBSRC-LIB50-ENT-BIO-2497363,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Hoffmaenneria%20niddensis&strict=true
+LIBSRC-LIB50-ENT-BIO-2515784,identity_label,"""Helicoma inthanonense""",https://api.gbif.org/v1/species/match?name=Helicoma%20inthanonense&strict=true
+LIBSRC-LIB50-ENT-BIO-2515784,scientific_identity,"""Helicoma inthanonense (Boonmee & K.D.Hyde) Boonmee & K.D.Hyde""",https://api.gbif.org/v1/species/match?name=Helicoma%20inthanonense&strict=true
+LIBSRC-LIB50-ENT-BIO-2515784,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Helicoma%20inthanonense&strict=true
+LIBSRC-LIB50-ENT-BIO-2530091,identity_label,"""Keronella gracilis""",https://api.gbif.org/v1/species/match?name=Keronella%20gracilis&strict=true
+LIBSRC-LIB50-ENT-BIO-2530091,scientific_identity,"""Keronella gracilis Wiackowski, 1985""",https://api.gbif.org/v1/species/match?name=Keronella%20gracilis&strict=true
+LIBSRC-LIB50-ENT-BIO-2530091,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/match?name=Keronella%20gracilis&strict=true
