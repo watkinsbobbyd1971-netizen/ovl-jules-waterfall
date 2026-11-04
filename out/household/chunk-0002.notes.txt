@@ -1,0 +1,9 @@
+Attempted sources:
+1. Smithsonian API: OVER_RATE_LIMIT error
+2. Met Museum Collection API: Queried v1.1 search for keys like "LIBSRC-LIB51-ENT-SMI-0274613" and "0274613", resulting in 0 matches.
+3. Wikidata SPARQL & Entity Search API: Searches for unique catalogued objects yield ambiguous matches.
+4. Cleveland Art Open Access API: Queried for "LIBSRC", resulting in 0 matches.
+5. Europeana Record API: Queried for keys and numbers, resulting in 0 matches.
+6. Art Institute of Chicago API: Blocked by Cloudflare.
+
+Result is an empty CSV since no unambiguous, specific sourced values were found for these Smithsonian items.
