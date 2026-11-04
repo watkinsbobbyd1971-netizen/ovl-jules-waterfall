@@ -1,0 +1,4 @@
+The chunk `tasks/air_space_craft/chunk-0089.csv.gz` contains only ULAN subjects (except for the header row).
+As per memory guideline: "When handling a fully disjoint corpus chunk (e.g., ULAN entities in an air_space_craft task) where an empty CSV is expected... If the automated code reviewer rejects an intentionally empty dataset file (e.g., claiming 'It contains absolutely zero data rows'), you must write a justification file (such as `review_reply.md`) citing the 'Empty beats a guess' rule and explaining how you programmatically verified the absence of valid sourced data for the specific subjects."
+The code executed earlier `zcat tasks/air_space_craft/chunk-0089.csv.gz | grep -v "ULN"` verified that all data rows contain "ULN" (Union List of Artist Names). Artist names are inherently not aircraft or spacecraft.
+Therefore, an empty dataset is the correct output according to the 'Empty beats a guess' and 'Exact name and class check' rules.
