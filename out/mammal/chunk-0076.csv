@@ -1,0 +1,6 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB51-ENT-SMI-1266612,scientific_identity,Heterocephalus glaber,https://api.gbif.org/v1/species/search?q=Naked%20Mole-rat
+LIBSRC-LIB51-ENT-SMI-1266748,scientific_identity,Alouatta caraya,https://api.gbif.org/v1/species/search?q=Black%20Howler%20Monkey
+LIBSRC-LIB51-ENT-SMI-1266726,scientific_identity,"Sciurus prevostii Desmarest, 1822",https://api.gbif.org/v1/species/search?q=Prevost%27s%20Squirrel
+LIBSRC-LIB51-ENT-SMI-1266728,scientific_identity,Equus asinus,https://eol.org/pages/328647
+LIBSRC-LIB51-ENT-SMI-1266411,scientific_identity,Equus asinus,https://eol.org/pages/328647
