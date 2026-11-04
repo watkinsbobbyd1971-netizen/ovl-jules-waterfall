@@ -1,0 +1,3 @@
+Attempted sources:
+- GBIF API (/v1/species/match and /v1/species/search)
+Filtered results by exact matches to taxonomic classes (reptilia, actinopterygii, etc.) to prevent false positives from miscategorized artifacts.

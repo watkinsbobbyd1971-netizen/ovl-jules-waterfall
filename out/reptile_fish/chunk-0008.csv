@@ -1,0 +1,5 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB51-ENT-SMI-1266008,taxon_authority,"(Schneider, 1797)",https://www.gbif.org/species/299428213
+LIBSRC-LIB51-ENT-SMI-1266008,scientific_identity,"Uroplatus fimbriatus (Schneider, 1797)",https://www.gbif.org/species/299428213
+LIBSRC-LIB51-ENT-SMI-1266330,taxon_authority,"(Schneider, 1797)",https://www.gbif.org/species/299428213
+LIBSRC-LIB51-ENT-SMI-1266330,scientific_identity,"Uroplatus fimbriatus (Schneider, 1797)",https://www.gbif.org/species/299428213
