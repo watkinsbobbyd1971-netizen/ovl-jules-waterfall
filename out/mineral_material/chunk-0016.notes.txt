@@ -1,0 +1,3 @@
+Queried Met Open Access CSV dataset and Wikidata.
+Identified MET objects by ID and title matching. Excluded objects that had no exact match.
+Queried Wikidata for SMI subjects but properties like material_identity require complex property label resolution not easily done directly from entity JSON for arbitrary items, and most SMI items were books/records.
