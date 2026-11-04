@@ -1,0 +1,5 @@
+Attempted to find mineral materials for subjects in this chunk.
+Extracted MET Object IDs from the keys and searched the Met Open Access CSV dataset.
+The chunk consists of MET artifacts (e.g., drawings, prints), religious artifacts, and classification systems.
+Since the task category is 'mineral_material', these cultural artifacts and concepts are entirely out of scope (mismatched entity class).
+Therefore, outputting an empty CSV as required by the rules.
