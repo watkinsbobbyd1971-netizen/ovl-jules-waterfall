@@ -1,0 +1,88 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB36-ENT-WRD-0081633,descriptive_identity,"time interval",https://www.britannica.com/topic/Ramadan
+LIBSRC-LIB36-ENT-WRD-0081633,descriptive_identity,"calendar month",https://www.britannica.com/topic/Ramadan
+LIBSRC-LIB36-ENT-WRD-0080198,component_relationship,"lead",https://www.delpher.nl/nl/boeken1/gview?query=%22Chineesch+zilver%22+&coll=boeken1&identifier=XCpmAAAAcAAJ
+LIBSRC-LIB36-ENT-WRD-0081675,descriptive_identity,"detention punishment",https://it.wikisource.org/wiki/Codice_penale
+LIBSRC-LIB36-ENT-WRD-0080223,component_relationship,"alkane 1-monooxygenase activity",http://geneontology.org/external2go/rhea2go
+CAT04_REG_06_ERA_04_2013_bronze_fibula_yale_university_art_gallery__ent_obj_0000186,dimension_length,"55.0",https://artgallery.yale.edu/collections/objects/57963
+LIBSRC-LIB36-ENT-WRD-0081658,dimension_length,"600.0",http://kokoelmat.fng.fi/app?si=A+IV+3665
+LIBSRC-LIB36-ENT-WRD-0081658,dimension_length,"440.0",http://kokoelmat.fng.fi/app?si=A+IV+3665
+CAT04_REG_06_ERA_04_2011_ring_yale_university_art_gallery_inv_1938__ent_obj_0001306,dimension_length,"18.0",https://artgallery.yale.edu/collections/objects/86703
+CAT04_REG_06_ERA_04_2017_bronze_double_button_type_2_yale_universit_ent_obj_0000256,dimension_length,"13.0",https://artgallery.yale.edu/collections/objects/64656
+CAT04_REG_06_ERA_04_2015_ring_yale_university_art_gallery_inv_1938__ent_obj_0001376,dimension_length,"17.0",https://artgallery.yale.edu/collections/objects/86775
+CAT04_REG_06_ERA_04_2019_ring_yale_university_art_gallery_inv_1938__ent_obj_0001446,dimension_length,"23.0",https://artgallery.yale.edu/collections/objects/86847
+CAT04_REG_06_ERA_04_2017_bronze_ring_yale_university_art_gallery_in_ent_obj_0002566,dimension_length,"39.0",https://artgallery.yale.edu/collections/objects/73623
+CAT04_REG_06_ERA_04_2017_bronze_ring_yale_university_art_gallery_in_ent_obj_0002566,dimension_length,"45.0",https://artgallery.yale.edu/collections/objects/73623
+CAT04_REG_06_ERA_04_2017_bronze_double_button_type_2_yale_universit_ent_obj_0000256,material_identity,"bronze",https://artgallery.yale.edu/collections/objects/64656
+CAT04_REG_06_ERA_04_2011_ring_yale_university_art_gallery_inv_1938__ent_obj_0001306,material_identity,"bronze",https://artgallery.yale.edu/collections/objects/86703
+CAT04_REG_06_ERA_04_2015_ring_yale_university_art_gallery_inv_1938__ent_obj_0001376,material_identity,"bronze",https://artgallery.yale.edu/collections/objects/86775
+LIBSRC-LIB36-ENT-WRD-0081663,descriptive_identity,"music track with vocals",https://trendybeatz.com/artist-albums/1378/9ice-gongo-aso-album
+LIBSRC-LIB36-ENT-WRD-0081658,descriptive_identity,"painting",http://kokoelmat.fng.fi/app?si=A+IV+3665
+CAT04_REG_06_ERA_04_2013_bronze_fibula_yale_university_art_gallery__ent_obj_0000186,material_identity,"iron",https://artgallery.yale.edu/collections/objects/57963
+CAT04_REG_06_ERA_04_2019_ring_yale_university_art_gallery_inv_1938__ent_obj_0001446,material_identity,"bronze",https://artgallery.yale.edu/collections/objects/86847
+CAT04_REG_06_ERA_04_2011_ring_yale_university_art_gallery_inv_1938__ent_obj_0001306,descriptive_identity,"ring",https://artgallery.yale.edu/collections/objects/86703
+CAT04_REG_06_ERA_04_2015_ring_yale_university_art_gallery_inv_1938__ent_obj_0001376,descriptive_identity,"ring",https://artgallery.yale.edu/collections/objects/86775
+CAT04_REG_06_ERA_04_2013_two_bronze_rings_yale_university_art_galle_ent_obj_0002496,descriptive_identity,"ring",https://artgallery.yale.edu/collections/objects/46903
+CAT04_REG_06_ERA_04_2017_bronze_ring_yale_university_art_gallery_in_ent_obj_0002566,descriptive_identity,"ring",https://artgallery.yale.edu/collections/objects/73623
+CAT04_REG_06_ERA_04_2013_bronze_fibula_yale_university_art_gallery__ent_obj_0000186,material_identity,"bronze",https://artgallery.yale.edu/collections/objects/57963
+CAT04_REG_06_ERA_04_2019_ring_yale_university_art_gallery_inv_1938__ent_obj_0001446,descriptive_identity,"archaeological artefact",https://artgallery.yale.edu/collections/objects/86847
+CAT04_REG_06_ERA_04_2013_bronze_fibula_yale_university_art_gallery__ent_obj_0000186,descriptive_identity,"archaeological artefact",https://artgallery.yale.edu/collections/objects/57963
+CAT04_REG_06_ERA_04_2013_bronze_fibula_yale_university_art_gallery__ent_obj_0000186,descriptive_identity,"fibula",https://artgallery.yale.edu/collections/objects/57963
+CAT04_REG_06_ERA_04_2019_ring_yale_university_art_gallery_inv_1938__ent_obj_0001446,descriptive_identity,"ring",https://artgallery.yale.edu/collections/objects/86847
+CAT04_REG_06_ERA_04_2017_bronze_double_button_type_2_yale_universit_ent_obj_0000256,descriptive_identity,"archaeological artefact",https://artgallery.yale.edu/collections/objects/64656
+CAT04_REG_06_ERA_04_2011_ring_yale_university_art_gallery_inv_1938__ent_obj_0001306,descriptive_identity,"archaeological artefact",https://artgallery.yale.edu/collections/objects/86703
+CAT04_REG_06_ERA_04_2015_ring_yale_university_art_gallery_inv_1938__ent_obj_0001376,descriptive_identity,"archaeological artefact",https://artgallery.yale.edu/collections/objects/86775
+CAT04_REG_06_ERA_04_2013_two_bronze_rings_yale_university_art_galle_ent_obj_0002496,descriptive_identity,"archaeological artefact",https://artgallery.yale.edu/collections/objects/46903
+CAT04_REG_06_ERA_04_2017_bronze_ring_yale_university_art_gallery_in_ent_obj_0002566,descriptive_identity,"archaeological artefact",https://artgallery.yale.edu/collections/objects/73623
+CAT04_REG_06_ERA_04_2013_two_bronze_rings_yale_university_art_galle_ent_obj_0002496,material_identity,"bronze",https://artgallery.yale.edu/collections/objects/46903
+CAT04_REG_06_ERA_04_2017_bronze_ring_yale_university_art_gallery_in_ent_obj_0002566,material_identity,"bronze",https://artgallery.yale.edu/collections/objects/73623
+CAT04_REG_06_ERA_04_2017_bronze_double_button_type_2_yale_universit_ent_obj_0000256,descriptive_identity,"button",https://artgallery.yale.edu/collections/objects/64656
+CAT04_REG_06_ERA_04_2021_stone_button_yale_university_art_gallery_i_ent_obj_0000326,dimension_length,"12.8",https://artgallery.yale.edu/collections/objects/64747
+CAT04_REG_06_ERA_04_2021_stone_button_yale_university_art_gallery_i_ent_obj_0000326,dimension_length,"24.4",https://artgallery.yale.edu/collections/objects/64747
+CAT04_REG_06_ERA_04_2025_silver_earring_yale_university_art_gallery_ent_obj_0000396,dimension_length,"16.0",https://artgallery.yale.edu/collections/objects/64823
+CAT04_REG_06_ERA_04_2025_silver_earring_yale_university_art_gallery_ent_obj_0000396,dimension_length,"21.0",https://artgallery.yale.edu/collections/objects/64823
+CAT04_REG_06_ERA_07_1973_bronze_ring_yale_university_art_gallery_in_ent_obj_0000476,dimension_length,"15.0",https://artgallery.yale.edu/collections/objects/66955
+CAT04_REG_06_ERA_07_1973_bronze_ring_yale_university_art_gallery_in_ent_obj_0000476,dimension_length,"17.0",https://artgallery.yale.edu/collections/objects/66955
+CAT04_REG_06_ERA_07_1973_bronze_ring_yale_university_art_gallery_in_ent_obj_0000476,dimension_length,"14.5",https://artgallery.yale.edu/collections/objects/66955
+CAT04_REG_06_ERA_05_1963_bronze_scales_2_scales_yale_university_art_ent_obj_0000796,dimension_length,"42.0",https://artgallery.yale.edu/collections/objects/72310
+CAT04_REG_06_ERA_04_2023_ring_yale_university_art_gallery_inv_1938__ent_obj_0001516,dimension_length,"20.0",https://artgallery.yale.edu/collections/objects/86925
+CAT04_REG_06_ERA_05_1963_bronze_scales_2_scales_yale_university_art_ent_obj_0000796,dimension_length,"38.0",https://artgallery.yale.edu/collections/objects/72310
+CAT04_REG_06_ERA_04_2025_albert_roi_des_belges_victoire_1914_1918_ent_obj_0002706,mass,"10.32",https://opac.kbr.be/Library/doc/SYRACUSE/10073530
+CAT04_REG_06_ERA_04_2023_ring_yale_university_art_gallery_inv_1938__ent_obj_0001516,material_identity,"bronze",https://artgallery.yale.edu/collections/objects/86925
+CAT04_REG_06_ERA_05_1961_bronze_ring_yale_university_art_gallery_in_ent_obj_0001916,material_identity,"bronze",https://artgallery.yale.edu/collections/objects/211952
+CAT04_REG_06_ERA_07_1973_bronze_ring_yale_university_art_gallery_in_ent_obj_0000476,material_identity,"bronze",https://artgallery.yale.edu/collections/objects/66955
+CAT04_REG_06_ERA_07_1969_chain_mail_yale_university_art_gallery_inv_ent_obj_0000406,material_identity,"bronze",https://artgallery.yale.edu/collections/objects/65008
+CAT04_REG_06_ERA_05_1963_bronze_scales_2_scales_yale_university_art_ent_obj_0000796,material_identity,"bronze",https://artgallery.yale.edu/collections/objects/72310
+CAT04_REG_06_ERA_04_2025_silver_earring_yale_university_art_gallery_ent_obj_0000396,material_identity,"silver",https://artgallery.yale.edu/collections/objects/64823
+CAT04_REG_06_ERA_04_2021_stone_button_yale_university_art_gallery_i_ent_obj_0000326,descriptive_identity,"button",https://artgallery.yale.edu/collections/objects/64747
+CAT04_REG_06_ERA_05_1961_bronze_ring_yale_university_art_gallery_in_ent_obj_0001916,dimension_length,"17.0",https://artgallery.yale.edu/collections/objects/211952
+CAT04_REG_06_ERA_04_2025_albert_roi_des_belges_victoire_1914_1918_ent_obj_0002706,mass,"10.93",https://opac.kbr.be/Library/doc/SYRACUSE/10073511
+CAT04_REG_06_ERA_04_2025_albert_roi_des_belges_victoire_1914_1918_ent_obj_0002706,mass,"11.09",https://opac.kbr.be/Library/doc/SYRACUSE/10073517
+CAT04_REG_06_ERA_04_2025_albert_roi_des_belges_victoire_1914_1918_ent_obj_0002706,mass,"10.28",https://opac.kbr.be/Library/doc/SYRACUSE/10073525
+CAT04_REG_06_ERA_04_2023_ring_yale_university_art_gallery_inv_1938__ent_obj_0001516,descriptive_identity,"ring",https://artgallery.yale.edu/collections/objects/86925
+CAT04_REG_06_ERA_05_1961_bronze_ring_yale_university_art_gallery_in_ent_obj_0001916,descriptive_identity,"ring",https://artgallery.yale.edu/collections/objects/211952
+CAT04_REG_06_ERA_07_1973_bronze_ring_yale_university_art_gallery_in_ent_obj_0000476,descriptive_identity,"ring",https://artgallery.yale.edu/collections/objects/66955
+CAT04_REG_06_ERA_05_1963_bronze_scales_2_scales_yale_university_art_ent_obj_0000796,descriptive_identity,"armor scale",https://artgallery.yale.edu/collections/objects/72310
+CAT04_REG_06_ERA_04_2021_stone_button_yale_university_art_gallery_i_ent_obj_0000326,material_identity,"soapstone",https://artgallery.yale.edu/collections/objects/64747
+CAT04_REG_06_ERA_07_1969_chain_mail_yale_university_art_gallery_inv_ent_obj_0000406,descriptive_identity,"chainmail",https://artgallery.yale.edu/collections/objects/65008
+CAT04_REG_06_ERA_04_2023_ring_yale_university_art_gallery_inv_1938__ent_obj_0001516,descriptive_identity,"archaeological artefact",https://artgallery.yale.edu/collections/objects/86925
+CAT04_REG_06_ERA_05_1961_bronze_ring_yale_university_art_gallery_in_ent_obj_0001916,descriptive_identity,"archaeological artefact",https://artgallery.yale.edu/collections/objects/211952
+CAT04_REG_06_ERA_04_2025_silver_earring_yale_university_art_gallery_ent_obj_0000396,descriptive_identity,"archaeological artefact",https://artgallery.yale.edu/collections/objects/64823
+CAT04_REG_06_ERA_04_2021_stone_button_yale_university_art_gallery_i_ent_obj_0000326,descriptive_identity,"archaeological artefact",https://artgallery.yale.edu/collections/objects/64747
+CAT04_REG_06_ERA_07_1969_chain_mail_yale_university_art_gallery_inv_ent_obj_0000406,descriptive_identity,"archaeological artefact",https://artgallery.yale.edu/collections/objects/65008
+CAT04_REG_06_ERA_04_2025_albert_roi_des_belges_victoire_1914_1918_ent_obj_0002706,descriptive_identity,"work of art",https://opac.kbr.be/Library/doc/SYRACUSE/10073517
+CAT04_REG_06_ERA_04_2025_albert_roi_des_belges_victoire_1914_1918_ent_obj_0002706,descriptive_identity,"work of art",https://opac.kbr.be/Library/doc/SYRACUSE/10073525
+CAT04_REG_06_ERA_04_2025_albert_roi_des_belges_victoire_1914_1918_ent_obj_0002706,descriptive_identity,"work of art",https://opac.kbr.be/Library/doc/SYRACUSE/10073511
+CAT04_REG_06_ERA_04_2025_albert_roi_des_belges_victoire_1914_1918_ent_obj_0002706,descriptive_identity,"medal",https://opac.kbr.be/Library/doc/SYRACUSE/10073530
+CAT06_REG_06_ERA_01_1961_piecework_ent_wrd_0002906,descriptive_identity,"video game",https://store.steampowered.com/app/5272850/
+CAT04_REG_06_ERA_04_2025_silver_earring_yale_university_art_gallery_ent_obj_0000396,descriptive_identity,"earring",https://artgallery.yale.edu/collections/objects/64823
+CAT04_REG_06_ERA_04_2025_albert_roi_des_belges_victoire_1914_1918_ent_obj_0002706,descriptive_identity,"work of art",https://opac.kbr.be/Library/doc/SYRACUSE/10073530
+CAT06_REG_06_ERA_01_1961_piecework_ent_wrd_0002906,manufacturer_or_creator,"Warbyte Studios",https://store.steampowered.com/app/5272850/
+CAT04_REG_06_ERA_04_2025_albert_roi_des_belges_victoire_1914_1918_ent_obj_0002706,material_identity,"Silver-plated bronze",https://opac.kbr.be/Library/doc/SYRACUSE/10073525
+CAT04_REG_06_ERA_04_2025_albert_roi_des_belges_victoire_1914_1918_ent_obj_0002706,material_identity,"silver",https://opac.kbr.be/Library/doc/SYRACUSE/10073517
+CAT04_REG_06_ERA_04_2025_albert_roi_des_belges_victoire_1914_1918_ent_obj_0002706,descriptive_identity,"medal",https://opac.kbr.be/Library/doc/SYRACUSE/10073517
+CAT04_REG_06_ERA_04_2025_albert_roi_des_belges_victoire_1914_1918_ent_obj_0002706,descriptive_identity,"medal",https://opac.kbr.be/Library/doc/SYRACUSE/10073525
+CAT04_REG_06_ERA_04_2025_albert_roi_des_belges_victoire_1914_1918_ent_obj_0002706,descriptive_identity,"medal",https://opac.kbr.be/Library/doc/SYRACUSE/10073511
+CAT04_REG_06_ERA_07_1973_bronze_ring_yale_university_art_gallery_in_ent_obj_0000476,descriptive_identity,"archaeological artefact",https://artgallery.yale.edu/collections/objects/66955
+CAT04_REG_06_ERA_05_1963_bronze_scales_2_scales_yale_university_art_ent_obj_0000796,descriptive_identity,"archaeological artefact",https://artgallery.yale.edu/collections/objects/72310
+CAT04_REG_06_ERA_04_2025_albert_roi_des_belges_victoire_1914_1918_ent_obj_0002706,material_identity,"bronze",https://opac.kbr.be/Library/doc/SYRACUSE/10073530
