@@ -1,0 +1,8 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB51-ENT-SMI-0461977,material_identity,"""plastic""",http://www.wikidata.org/entity/Q2430984
+LIBSRC-LIB51-ENT-SMI-0661778,material_identity,"[""canvas"", ""oil paint""]",http://www.wikidata.org/entity/Q104536258
+LIBSRC-LIB51-ENT-SMI-1271230,material_identity,"[""bronze"", ""marble"", ""mahogany wood"", ""seashell""]",http://www.wikidata.org/entity/Q125140663
+LIBSRC-LIB51-ENT-SMI-1271230,creator_or_attribution,"[""John La Farge"", ""Augustus Saint-Gaudens""]",http://www.wikidata.org/entity/Q125140663
+LIBSRC-LIB51-ENT-SMI-0612831,material_identity,"""cottonwood""",http://www.wikidata.org/entity/Q122933458
+LIBSRC-LIB51-ENT-SMI-0612831,creator_or_attribution,"""Johnson Antonio""",http://www.wikidata.org/entity/Q122933458
+LIBSRC-LIB51-ENT-SMI-0518058,material_identity,"[""yucca root"", ""willow"", ""devil's claw""]",http://www.wikidata.org/entity/Q104413117
