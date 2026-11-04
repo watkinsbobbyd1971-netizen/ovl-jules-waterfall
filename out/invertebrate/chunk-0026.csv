@@ -1,0 +1,5 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-1241561,identity_label,"""Common psenuc jumping spider""",https://api.gbif.org/v1/species/9412291/vernacularNames
+LIBSRC-LIB50-ENT-BIO-1483301,identity_label,"""Finite achaea""",https://api.gbif.org/v1/species/6117156/vernacularNames
+LIBSRC-LIB50-ENT-BIO-1925501,identity_label,"""Tapered galaxias""",https://api.gbif.org/v1/species/8718241/vernacularNames
+LIBSRC-LIB50-ENT-BIO-0332811,identity_label,"""Tabira bitterling""",https://api.gbif.org/v1/species/4286919/vernacularNames
