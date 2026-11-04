@@ -1,0 +1,437 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB51-ENT-SMI-0094970,identity_label,Lantern slide,https://en.wikipedia.org/wiki/Magic_lantern
+LIBSRC-LIB51-ENT-SMI-0094970,material_identity,Glass,https://en.wikipedia.org/wiki/Magic_lantern
+LIBSRC-LIB51-ENT-SMI-0087933,identity_label,Lantern slide,https://en.wikipedia.org/wiki/Magic_lantern
+LIBSRC-LIB51-ENT-SMI-0087933,material_identity,Glass,https://en.wikipedia.org/wiki/Magic_lantern
+LIBSRC-LIB51-ENT-SMI-0099344,identity_label,Postcard,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0099344,material_identity,Paper,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0100802,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0100802,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0100802,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0101994,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0101994,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0101994,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0099040,identity_label,Postcard,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0099040,material_identity,Paper,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0108318,identity_label,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0108318,technique,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0086312,identity_label,Poster,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0086312,material_identity,Paper,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0106528,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0106528,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0106528,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0098016,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0098016,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0098016,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0108500,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0108500,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0108500,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0099020,identity_label,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0099020,technique,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0091048,identity_label,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0091048,technique,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0099209,identity_label,Poster,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0099209,material_identity,Paper,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0088393,identity_label,Poster,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0088393,material_identity,Paper,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0088449,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0088449,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0088449,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0104038,identity_label,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0104038,technique,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0096200,identity_label,Poster,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0096200,material_identity,Paper,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0095362,identity_label,Poster,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0095362,material_identity,Paper,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0089983,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0089983,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0089983,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0096859,identity_label,Poster,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0096859,material_identity,Paper,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0105357,identity_label,Purse,https://en.wikipedia.org/wiki/Handbag
+LIBSRC-LIB51-ENT-SMI-0103347,identity_label,Tile,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0103347,material_identity,Ceramic,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0089255,identity_label,Tile,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0089255,material_identity,Ceramic,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0100170,identity_label,Purse,https://en.wikipedia.org/wiki/Handbag
+LIBSRC-LIB51-ENT-SMI-0086423,identity_label,Film negative,https://en.wikipedia.org/wiki/Negative_(photography)
+LIBSRC-LIB51-ENT-SMI-0086423,technique,Photography,https://en.wikipedia.org/wiki/Negative_(photography)
+LIBSRC-LIB51-ENT-SMI-0096875,identity_label,Bag,https://en.wikipedia.org/wiki/Bag
+LIBSRC-LIB51-ENT-SMI-0090730,identity_label,Tile,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0090730,material_identity,Ceramic,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0092198,identity_label,Tile,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0092198,material_identity,Ceramic,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0106960,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0106960,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0087952,identity_label,Tile,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0087952,material_identity,Ceramic,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0090941,identity_label,Dish,https://en.wikipedia.org/wiki/Dish_(tableware)
+LIBSRC-LIB51-ENT-SMI-0086702,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0086702,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0100560,identity_label,Box,https://en.wikipedia.org/wiki/Box
+LIBSRC-LIB51-ENT-SMI-0108220,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0108220,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0090574,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0090574,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0086841,identity_label,Tile,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0086841,material_identity,Ceramic,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0101821,identity_label,Tile,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0101821,material_identity,Ceramic,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0089872,identity_label,Bag,https://en.wikipedia.org/wiki/Bag
+LIBSRC-LIB51-ENT-SMI-0086127,identity_label,Vase,https://en.wikipedia.org/wiki/Vase
+LIBSRC-LIB51-ENT-SMI-0099499,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0099499,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0093624,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0093624,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0101814,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0101814,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0101814,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0097458,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0097458,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0097458,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0102108,identity_label,Plate,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0102108,material_identity,Ceramic,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0098202,identity_label,Plate,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0098202,material_identity,Ceramic,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0105614,identity_label,Cup,https://en.wikipedia.org/wiki/Cup
+LIBSRC-LIB51-ENT-SMI-0104460,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0104460,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0104460,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0089689,identity_label,Plate,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0089689,material_identity,Ceramic,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0091322,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0091322,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0091322,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0099182,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0099182,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0099182,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0105534,identity_label,Pitcher,https://en.wikipedia.org/wiki/Pitcher_(container)
+LIBSRC-LIB51-ENT-SMI-0095149,identity_label,Pitcher,https://en.wikipedia.org/wiki/Pitcher_(container)
+LIBSRC-LIB51-ENT-SMI-0093720,identity_label,Jar,https://en.wikipedia.org/wiki/Jar
+LIBSRC-LIB51-ENT-SMI-0103866,identity_label,Plate,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0103866,material_identity,Ceramic,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0088518,identity_label,Jar,https://en.wikipedia.org/wiki/Jar
+LIBSRC-LIB51-ENT-SMI-0090552,identity_label,Cup,https://en.wikipedia.org/wiki/Cup
+LIBSRC-LIB51-ENT-SMI-0098590,identity_label,Plate,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0098590,material_identity,Ceramic,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0116004,identity_label,Lantern slide,https://en.wikipedia.org/wiki/Magic_lantern
+LIBSRC-LIB51-ENT-SMI-0116004,material_identity,Glass,https://en.wikipedia.org/wiki/Magic_lantern
+LIBSRC-LIB51-ENT-SMI-0133152,identity_label,Lantern slide,https://en.wikipedia.org/wiki/Magic_lantern
+LIBSRC-LIB51-ENT-SMI-0133152,material_identity,Glass,https://en.wikipedia.org/wiki/Magic_lantern
+LIBSRC-LIB51-ENT-SMI-0123912,identity_label,Plate,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0123912,material_identity,Ceramic,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0108874,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0108874,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0108874,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0113184,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0113184,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0113184,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0132977,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0132977,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0132977,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0115876,identity_label,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0115876,technique,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0119925,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0119925,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0119925,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0111373,identity_label,Poster,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0111373,material_identity,Paper,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0130971,identity_label,Postcard,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0130971,material_identity,Paper,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0137391,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0137391,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0137391,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0115546,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0115546,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0115546,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0111059,identity_label,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0111059,technique,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0114369,identity_label,Poster,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0114369,material_identity,Paper,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0119411,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0119411,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0119411,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0118605,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0118605,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0118605,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0120200,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0120200,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0120200,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0133900,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0133900,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0133900,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0109158,identity_label,Postcard,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0109158,material_identity,Paper,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0131605,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0131605,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0131605,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0136050,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0136050,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0136050,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0112505,identity_label,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0112505,technique,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0112465,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0112465,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0112465,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0137471,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0137471,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0137471,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0118965,identity_label,Box,https://en.wikipedia.org/wiki/Box
+LIBSRC-LIB51-ENT-SMI-0119939,identity_label,Dish,https://en.wikipedia.org/wiki/Dish_(tableware)
+LIBSRC-LIB51-ENT-SMI-0113194,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0113194,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0136572,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0136572,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0114325,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0114325,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0139275,identity_label,Box,https://en.wikipedia.org/wiki/Box
+LIBSRC-LIB51-ENT-SMI-0115716,identity_label,Film negative,https://en.wikipedia.org/wiki/Negative_(photography)
+LIBSRC-LIB51-ENT-SMI-0115716,technique,Photography,https://en.wikipedia.org/wiki/Negative_(photography)
+LIBSRC-LIB51-ENT-SMI-0113043,identity_label,Vase,https://en.wikipedia.org/wiki/Vase
+LIBSRC-LIB51-ENT-SMI-0133120,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0133120,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0114594,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0114594,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0138955,identity_label,Purse,https://en.wikipedia.org/wiki/Handbag
+LIBSRC-LIB51-ENT-SMI-0127896,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0127896,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0117317,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0117317,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0120843,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0120843,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0129470,identity_label,Film negative,https://en.wikipedia.org/wiki/Negative_(photography)
+LIBSRC-LIB51-ENT-SMI-0129470,technique,Photography,https://en.wikipedia.org/wiki/Negative_(photography)
+LIBSRC-LIB51-ENT-SMI-0131540,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0131540,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0130149,identity_label,Tile,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0130149,material_identity,Ceramic,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0110309,identity_label,Tile,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0110309,material_identity,Ceramic,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0138278,identity_label,Vase,https://en.wikipedia.org/wiki/Vase
+LIBSRC-LIB51-ENT-SMI-0128416,identity_label,Purse,https://en.wikipedia.org/wiki/Handbag
+LIBSRC-LIB51-ENT-SMI-0123398,identity_label,Tile,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0123398,material_identity,Ceramic,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0131697,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0131697,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0113575,identity_label,Dish,https://en.wikipedia.org/wiki/Dish_(tableware)
+LIBSRC-LIB51-ENT-SMI-0112396,identity_label,Plate,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0112396,material_identity,Ceramic,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0110873,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0110873,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0110873,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0110278,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0110278,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0110278,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0120267,identity_label,Plate,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0120267,material_identity,Ceramic,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0125051,identity_label,Plate,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0125051,material_identity,Ceramic,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0115978,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0115978,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0115978,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0119254,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0119254,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0119254,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0108668,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0108668,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0108668,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0135959,identity_label,Jar,https://en.wikipedia.org/wiki/Jar
+LIBSRC-LIB51-ENT-SMI-0116879,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0116879,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0116879,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0127082,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0127082,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0127082,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0122672,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0122672,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0122672,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0128084,identity_label,Cup,https://en.wikipedia.org/wiki/Cup
+LIBSRC-LIB51-ENT-SMI-0136921,identity_label,Jar,https://en.wikipedia.org/wiki/Jar
+LIBSRC-LIB51-ENT-SMI-0137724,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0137724,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0137724,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0136169,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0136169,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0136169,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0129396,identity_label,Pitcher,https://en.wikipedia.org/wiki/Pitcher_(container)
+LIBSRC-LIB51-ENT-SMI-0117480,identity_label,Plate,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0117480,material_identity,Ceramic,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0130545,identity_label,Plate,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0130545,material_identity,Ceramic,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0109382,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0109382,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0109382,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0113249,identity_label,Pitcher,https://en.wikipedia.org/wiki/Pitcher_(container)
+LIBSRC-LIB51-ENT-SMI-0112266,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0112266,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0112266,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0157334,identity_label,Lantern slide,https://en.wikipedia.org/wiki/Magic_lantern
+LIBSRC-LIB51-ENT-SMI-0157334,material_identity,Glass,https://en.wikipedia.org/wiki/Magic_lantern
+LIBSRC-LIB51-ENT-SMI-0143739,identity_label,Lantern slide,https://en.wikipedia.org/wiki/Magic_lantern
+LIBSRC-LIB51-ENT-SMI-0143739,material_identity,Glass,https://en.wikipedia.org/wiki/Magic_lantern
+LIBSRC-LIB51-ENT-SMI-0146714,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0146714,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0146714,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0146715,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0146715,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0146715,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0156194,identity_label,Poster,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0156194,material_identity,Paper,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0157685,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0157685,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0157685,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0164920,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0164920,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0164920,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0160224,identity_label,Postcard,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0160224,material_identity,Paper,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0155898,identity_label,Postcard,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0155898,material_identity,Paper,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0146852,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0146852,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0146852,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0169686,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0169686,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0169686,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0145273,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0145273,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0145273,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0147977,identity_label,Postcard,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0147977,material_identity,Paper,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0157681,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0157681,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0157681,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0146091,identity_label,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0146091,technique,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0159442,identity_label,Poster,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0159442,material_identity,Paper,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0165839,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0165839,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0165839,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0142177,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0142177,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0142177,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0165185,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0165185,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0165185,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0157423,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0157423,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0157423,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0149212,identity_label,Poster,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0149212,material_identity,Paper,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0142240,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0142240,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0142240,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0152389,identity_label,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0152389,technique,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0148917,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0148917,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0148917,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0161819,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0161819,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0161819,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0169928,identity_label,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0169928,technique,Drawing,https://en.wikipedia.org/wiki/Drawing
+LIBSRC-LIB51-ENT-SMI-0156710,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0156710,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0156710,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0157554,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0157554,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0157554,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0159016,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0159016,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0159016,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0162826,identity_label,Postcard,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0162826,material_identity,Paper,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0142309,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0142309,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0142309,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0149704,identity_label,Postcard,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0149704,material_identity,Paper,https://en.wikipedia.org/wiki/Postcard
+LIBSRC-LIB51-ENT-SMI-0142224,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0142224,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0142224,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0163720,identity_label,Photograph,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0163720,technique,Photography,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0163720,material_identity,Photographic paper,https://en.wikipedia.org/wiki/Photograph
+LIBSRC-LIB51-ENT-SMI-0157988,identity_label,Poster,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0157988,material_identity,Paper,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0146612,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0146612,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0146612,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0157064,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0157064,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0157064,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0168973,identity_label,Poster,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0168973,material_identity,Paper,https://en.wikipedia.org/wiki/Poster
+LIBSRC-LIB51-ENT-SMI-0163762,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0163762,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0163870,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0163870,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0165228,identity_label,Film negative,https://en.wikipedia.org/wiki/Negative_(photography)
+LIBSRC-LIB51-ENT-SMI-0165228,technique,Photography,https://en.wikipedia.org/wiki/Negative_(photography)
+LIBSRC-LIB51-ENT-SMI-0139653,identity_label,Tile,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0139653,material_identity,Ceramic,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0153323,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0153323,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0139358,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0139358,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0165436,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0165436,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0151270,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0151270,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0169607,identity_label,Bag,https://en.wikipedia.org/wiki/Bag
+LIBSRC-LIB51-ENT-SMI-0168630,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0168630,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0141213,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0141213,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0159260,identity_label,Tile,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0159260,material_identity,Ceramic,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0141065,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0141065,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0151728,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0151728,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0158526,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0158526,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0153075,identity_label,Tile,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0153075,material_identity,Ceramic,https://en.wikipedia.org/wiki/Tile
+LIBSRC-LIB51-ENT-SMI-0150884,identity_label,Film negative,https://en.wikipedia.org/wiki/Negative_(photography)
+LIBSRC-LIB51-ENT-SMI-0150884,technique,Photography,https://en.wikipedia.org/wiki/Negative_(photography)
+LIBSRC-LIB51-ENT-SMI-0148537,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0148537,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0146452,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0146452,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0169417,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0169417,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0164327,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0164327,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0165589,identity_label,Dish,https://en.wikipedia.org/wiki/Dish_(tableware)
+LIBSRC-LIB51-ENT-SMI-0164293,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0164293,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0142345,identity_label,Stereograph,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0142345,technique,Stereoscopy,https://en.wikipedia.org/wiki/Stereoscopy
+LIBSRC-LIB51-ENT-SMI-0150720,identity_label,Plate,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0150720,material_identity,Ceramic,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0164421,identity_label,Plate,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0164421,material_identity,Ceramic,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0158878,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0158878,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0158878,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0156531,identity_label,Pitcher,https://en.wikipedia.org/wiki/Pitcher_(container)
+LIBSRC-LIB51-ENT-SMI-0151226,identity_label,Pitcher,https://en.wikipedia.org/wiki/Pitcher_(container)
+LIBSRC-LIB51-ENT-SMI-0147266,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0147266,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0147266,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0165675,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0165675,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0165675,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0151404,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0151404,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0151404,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0142701,identity_label,Glass plate negative,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0142701,material_identity,Glass,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0142701,technique,Photography,https://en.wikipedia.org/wiki/Photographic_plate
+LIBSRC-LIB51-ENT-SMI-0159379,identity_label,Plate,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0159379,material_identity,Ceramic,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0153342,identity_label,Plate,https://en.wikipedia.org/wiki/Plate_(dishware)
+LIBSRC-LIB51-ENT-SMI-0153342,material_identity,Ceramic,https://en.wikipedia.org/wiki/Plate_(dishware)
