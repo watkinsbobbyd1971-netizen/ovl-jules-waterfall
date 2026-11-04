@@ -1,0 +1,40 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG10-CAT03-ERA07-2020-SOLAR-ORBITER,mass,209000.0,http://www.wikidata.org/entity/Q653731
+IDB-REG10-CAT03-ERA07-2020-SOLAR-ORBITER,dimension_length,2500.0,http://www.wikidata.org/entity/Q653731
+IDB-REG10-CAT03-ERA07-2020-SOLAR-ORBITER,descriptive_identity,"""solar probe""",http://www.wikidata.org/entity/Q653731
+IDB-REG06-CAT03-ERA06-2017-CARTOSAT-2D,descriptive_identity,"""Earth observation satellite""",http://www.wikidata.org/entity/Q28790233
+IDB-REG10-CAT03-ERA07-2024-SENTINEL-2C,manufacturer_or_creator,"""Airbus DS GmbH""",http://www.wikidata.org/entity/Q87410499
+IDB-REG10-CAT03-ERA07-2024-SENTINEL-2C,mass,1140000.0,http://www.wikidata.org/entity/Q87410499
+IDB-REG10-CAT03-ERA07-2024-SENTINEL-2C,dimension_length,3400.0,http://www.wikidata.org/entity/Q87410499
+IDB-REG10-CAT03-ERA07-2024-SENTINEL-2C,descriptive_identity,"""Sentinel-2""",http://www.wikidata.org/entity/Q87410499
+IDB-REG10-CAT03-ERA07-2020-SENTINEL-6,mass,1440000.0,http://www.wikidata.org/entity/Q102424477
+IDB-REG10-CAT03-ERA07-2020-SENTINEL-6,dimension_length,5300.0,http://www.wikidata.org/entity/Q102424477
+IDB-REG10-CAT03-ERA07-2020-SENTINEL-6,descriptive_identity,"""Sentinel-6""",http://www.wikidata.org/entity/Q102424477
+IDB-REG10-CAT03-ERA07-2022-DANURI,manufacturer_or_creator,"""Korea Aerospace Research Institute""",http://www.wikidata.org/entity/Q30749609
+IDB-REG10-CAT03-ERA07-2022-DANURI,mass,678000.0,http://www.wikidata.org/entity/Q30749609
+IDB-REG10-CAT03-ERA07-2022-DANURI,dimension_length,1820.0,http://www.wikidata.org/entity/Q30749609
+IDB-REG10-CAT03-ERA07-2022-DANURI,descriptive_identity,"""lunar orbiter""",http://www.wikidata.org/entity/Q30749609
+IDB-REG10-CAT03-ERA07-2022-TIANZHOU-5,manufacturer_or_creator,"""China Aerospace Science and Technology Corporation""",http://www.wikidata.org/entity/Q112119394
+IDB-REG10-CAT03-ERA07-2022-TIANZHOU-5,descriptive_identity,"""Tianzhou""",http://www.wikidata.org/entity/Q112119394
+IDB-REG10-CAT03-ERA07-2021-PRICHAL,manufacturer_or_creator,"""S.P. Korolev Rocket and Space Corporation Energia""",http://www.wikidata.org/entity/Q26701475
+IDB-REG10-CAT03-ERA07-2021-PRICHAL,mass,4650000.0,http://www.wikidata.org/entity/Q26701475
+IDB-REG10-CAT03-ERA07-2021-PRICHAL,descriptive_identity,"""space station module""",http://www.wikidata.org/entity/Q26701475
+IDB-REG06-CAT03-ERA06-2017-TELKOM-3S,manufacturer_or_creator,"""Thales Alenia Space""",http://www.wikidata.org/entity/Q18462946
+IDB-REG06-CAT03-ERA06-2017-TELKOM-3S,mass,3550000.0,http://www.wikidata.org/entity/Q18462946
+IDB-REG06-CAT03-ERA06-2017-TELKOM-3S,descriptive_identity,"""geostationary satellite""",http://www.wikidata.org/entity/Q18462946
+IDB-REG10-CAT03-ERA06-2016-TIANGONG-2,mass,8600000.0,http://www.wikidata.org/entity/Q3122598
+IDB-REG10-CAT03-ERA06-2016-TIANGONG-2,dimension_length,10400.0,http://www.wikidata.org/entity/Q3122598
+IDB-REG10-CAT03-ERA06-2016-TIANGONG-2,descriptive_identity,"""space laboratory""",http://www.wikidata.org/entity/Q3122598
+IDB-REG10-CAT03-ERA07-2021-TIANZHOU-3,manufacturer_or_creator,"""China Aerospace Science and Technology Corporation""",http://www.wikidata.org/entity/Q107348304
+IDB-REG10-CAT03-ERA07-2021-TIANZHOU-3,descriptive_identity,"""Tianzhou""",http://www.wikidata.org/entity/Q107348304
+IDB-REG10-CAT03-ERA06-2011-TIANGONG-1,mass,8506000.0,http://www.wikidata.org/entity/Q131500
+IDB-REG10-CAT03-ERA06-2011-TIANGONG-1,descriptive_identity,"""space laboratory""",http://www.wikidata.org/entity/Q131500
+IDB-REG10-CAT03-ERA07-2022-TIANZHOU-4,manufacturer_or_creator,"""China Aerospace Science and Technology Corporation""",http://www.wikidata.org/entity/Q108809373
+IDB-REG10-CAT03-ERA07-2022-TIANZHOU-4,descriptive_identity,"""Tianzhou""",http://www.wikidata.org/entity/Q108809373
+IDB-REG10-CAT03-ERA07-2021-TIANZHOU-2,manufacturer_or_creator,"""China Aerospace Science and Technology Corporation""",http://www.wikidata.org/entity/Q106823153
+IDB-REG10-CAT03-ERA07-2021-TIANZHOU-2,descriptive_identity,"""Tianzhou""",http://www.wikidata.org/entity/Q106823153
+IDB-REG10-CAT03-ERA07-2023-TIANZHOU-6,manufacturer_or_creator,"""China Aerospace Science and Technology Corporation""",http://www.wikidata.org/entity/Q118128651
+IDB-REG10-CAT03-ERA07-2023-TIANZHOU-6,descriptive_identity,"""Tianzhou""",http://www.wikidata.org/entity/Q118128651
+IDB-REG10-CAT03-ERA07-2024-TIANZHOU-7,descriptive_identity,"""Tianzhou""",http://www.wikidata.org/entity/Q123822390
+IDB-REG09-CAT03-ERA06-2013-E-CLASS-MELBOURNE-TRAM,manufacturer_or_creator,"""ALSTOM Transportation Germany""",http://www.wikidata.org/entity/Q5321494
+IDB-REG09-CAT03-ERA06-2013-E-CLASS-MELBOURNE-TRAM,descriptive_identity,"""rolling stock class""",http://www.wikidata.org/entity/Q5321494
