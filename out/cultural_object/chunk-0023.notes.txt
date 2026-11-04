@@ -1,0 +1,2 @@
+Tried MET API, got 403 Forbidden. Tried Smithsonian API, heavily rate limited (429).
+Using Wikidata SPARQL to match subjects by exact name.
