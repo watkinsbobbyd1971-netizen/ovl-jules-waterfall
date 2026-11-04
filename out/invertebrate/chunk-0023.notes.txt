@@ -1,0 +1,2 @@
+Used GBIF API (https://api.gbif.org/v1/species/match and /species/{id}) to find invertebrate taxonomy data.
+Processed 1000 subjects, found 3110 properties.
