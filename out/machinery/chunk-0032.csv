@@ -1,0 +1,7 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG10-CAT03-ERA06-2016-EXOMARS-TRACE-GAS-ORBITER,manufacturer_or_creator,"""Thales Alenia Space""",http://www.wikidata.org/entity/Q2090722
+IDB-REG10-CAT03-ERA06-2016-EXOMARS-TRACE-GAS-ORBITER,descriptive_identity,"""planetary probe""",http://www.wikidata.org/entity/Q2090722
+IDB-REG10-CAT03-ERA06-2017-HXMT,descriptive_identity,"""X-ray telescope""",http://www.wikidata.org/entity/Q3125220
+IDB-REG07-CAT03-ERA06-2013-DUBAISAT-2,descriptive_identity,"""Earth observation satellite""",http://www.wikidata.org/entity/Q5310494
+IDB-REG10-CAT03-ERA06-2011-CURIOSITY-ROVER,manufacturer_or_creator,"""Jet Propulsion Laboratory""",http://www.wikidata.org/entity/Q48485
+IDB-REG10-CAT03-ERA06-2011-CURIOSITY-ROVER,descriptive_identity,"""Mars rover""",http://www.wikidata.org/entity/Q48485
