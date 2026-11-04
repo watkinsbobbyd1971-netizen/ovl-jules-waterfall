@@ -1,0 +1,1 @@
+Attempted to use Wikidata (SPARQL and search API) to match items by Smithsonian ID and exact string matching but could not find unambiguous structured matches. Attempted to query the Smithsonian API and website, but it requires an API key (missing) or fails Cloudflare bot protection. Writing empty file as instructed.
