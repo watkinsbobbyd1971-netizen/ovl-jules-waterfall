@@ -1,0 +1,2 @@
+Tried sources: Wikidata (wbsearchentities, SPARQL)
+Some entries matched Wikidata using fuzzy name fallbacks and parsing parts of the names. Values were mapped to properties: wdt:P31 (event_type), wdt:P276 (location), wdt:P585 (phenomenon_time), wdt:P2522 (magnitude_with_scale).

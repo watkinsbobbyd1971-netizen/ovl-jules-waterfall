@@ -1,0 +1,109 @@
+canonical_dedup_key,column_name,value,source_url
+CAT20_REG_06_ERA_03_1973_1863_manila_earthquake_ent_dis_0001466,descriptive_identity,Earthquakes in the Philippines,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1863%20Manila%20earthquake&language=en&format=json
+CAT20_REG_06_ERA_03_1973_1863_manila_earthquake_ent_dis_0001466,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1863%20Manila%20earthquake&language=en&format=json
+CAT20_REG_06_ERA_03_1973_1863_manila_earthquake_ent_dis_0001466,identity_label,1863 Manila earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1863%20Manila%20earthquake&language=en&format=json
+CAT20_REG_06_ERA_03_1973_1863_manila_earthquake_ent_dis_0001466,location,Manila,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1863%20Manila%20earthquake&language=en&format=json
+CAT20_REG_06_ERA_03_1973_1863_manila_earthquake_ent_dis_0001466,phenomenon_time,1863-06-03T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1863%20Manila%20earthquake&language=en&format=json
+CAT20_REG_06_ERA_06_1971_1835_concepcion_earthquake_ent_dis_0001266,descriptive_identity,1834 earthquake in South America,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1835%20Concepcion%20earthquake&language=en&format=json
+CAT20_REG_06_ERA_06_1971_1835_concepcion_earthquake_ent_dis_0001266,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1835%20Concepcion%20earthquake&language=en&format=json
+CAT20_REG_06_ERA_06_1971_1835_concepcion_earthquake_ent_dis_0001266,identity_label,1834 Concepción earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1835%20Concepcion%20earthquake&language=en&format=json
+CAT20_REG_06_ERA_06_1971_1835_concepcion_earthquake_ent_dis_0001266,phenomenon_time,1835-01-01T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1835%20Concepcion%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_01-1200-ACC05-HOP153-REC30556,descriptive_identity,"earthquake occurred in Niigata Prefecture, Japan on October 23, 2004",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2004%20Niigata%20Prefecture%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_01-1200-ACC05-HOP153-REC30556,event_type,disaster,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2004%20Niigata%20Prefecture%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_01-1200-ACC05-HOP153-REC30556,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2004%20Niigata%20Prefecture%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_01-1200-ACC05-HOP153-REC30556,event_type,natural disaster,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2004%20Niigata%20Prefecture%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_01-1200-ACC05-HOP153-REC30556,identity_label,Chūetsu Earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2004%20Niigata%20Prefecture%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_01-1200-ACC05-HOP153-REC30556,location,Chūetsu region,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2004%20Niigata%20Prefecture%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_01-1200-ACC05-HOP153-REC30556,phenomenon_time,2004-10-23T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2004%20Niigata%20Prefecture%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_02-1650-ACC05-HOP136-REC27106,descriptive_identity,earthquake in Chile,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1575%20Valdivia%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_02-1650-ACC05-HOP136-REC27106,event_type,disaster,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1575%20Valdivia%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_02-1650-ACC05-HOP136-REC27106,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1575%20Valdivia%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_02-1650-ACC05-HOP136-REC27106,event_type,natural disaster,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1575%20Valdivia%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_02-1650-ACC05-HOP136-REC27106,identity_label,1575 Valdivia earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1575%20Valdivia%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_02-1650-ACC05-HOP136-REC27106,phenomenon_time,1575-12-26T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1575%20Valdivia%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_03-1780-ACC05-HOP135-REC26806,descriptive_identity,"earthquake that occurred on April 16 or April 22, 1088, on Easter Sunday, in the southern provinces of the Kingdom of Georgia",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1088%20Tmogvi%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_03-1780-ACC05-HOP135-REC26806,event_type,disaster,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1088%20Tmogvi%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_03-1780-ACC05-HOP135-REC26806,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1088%20Tmogvi%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_03-1780-ACC05-HOP135-REC26806,event_type,natural disaster,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1088%20Tmogvi%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_03-1780-ACC05-HOP135-REC26806,identity_label,1088 Tmogvi earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1088%20Tmogvi%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_03-1780-ACC05-HOP135-REC26806,phenomenon_time,1088-01-01T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1088%20Tmogvi%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_07-2025-ACC05-HOP166-REC33166,descriptive_identity,magnitude 8.8 earthquake in the Russian Far East,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2025%20Kamchatka%20Peninsula%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_07-2025-ACC05-HOP166-REC33166,event_type,Kamchatka earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2025%20Kamchatka%20Peninsula%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_07-2025-ACC05-HOP166-REC33166,event_type,megathrust earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2025%20Kamchatka%20Peninsula%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_07-2025-ACC05-HOP166-REC33166,identity_label,2025 Kamchatka earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2025%20Kamchatka%20Peninsula%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_07-2025-ACC05-HOP166-REC33166,phenomenon_time,2025-07-29T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2025%20Kamchatka%20Peninsula%20earthquake&language=en&format=json
+IDB-REG_06-CAT_15-ERA_07-2025-ACC05-HOP166-REC33166,phenomenon_time,2025-07-30T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2025%20Kamchatka%20Peninsula%20earthquake&language=en&format=json
+IDB-REG_06-CAT_16-ERA_03-1780-ACC05-HOP138-REC27506,descriptive_identity,earthquake in 1755,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1755%20Lisbon%20earthquake&language=en&format=json
+IDB-REG_06-CAT_16-ERA_03-1780-ACC05-HOP138-REC27506,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1755%20Lisbon%20earthquake&language=en&format=json
+IDB-REG_06-CAT_16-ERA_03-1780-ACC05-HOP138-REC27506,identity_label,1755 Lisbon earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1755%20Lisbon%20earthquake&language=en&format=json
+IDB-REG_06-CAT_16-ERA_03-1780-ACC05-HOP138-REC27506,location,Lisbon,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1755%20Lisbon%20earthquake&language=en&format=json
+IDB-REG_06-CAT_16-ERA_03-1780-ACC05-HOP138-REC27506,phenomenon_time,1755-11-01T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1755%20Lisbon%20earthquake&language=en&format=json
+IDB-REG_06-CAT_16-ERA_04-1890-ACC05-HOP166-REC33086,descriptive_identity,"Earthquake and landslides in Morobe Province, Papua New Guinea",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2002%20Morobe%20earthquake&language=en&format=json
+IDB-REG_06-CAT_16-ERA_04-1890-ACC05-HOP166-REC33086,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2002%20Morobe%20earthquake&language=en&format=json
+IDB-REG_06-CAT_16-ERA_04-1890-ACC05-HOP166-REC33086,event_type,landslide,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2002%20Morobe%20earthquake&language=en&format=json
+IDB-REG_06-CAT_16-ERA_04-1890-ACC05-HOP166-REC33086,identity_label,2002 Morobe earthquake and landslide,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2002%20Morobe%20earthquake&language=en&format=json
+IDB-REG_06-CAT_16-ERA_05-1965-ACC05-HOP149-REC29636,descriptive_identity,magnitude 5.9 California earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1975%20Oroville%20earthquake&language=en&format=json
+IDB-REG_06-CAT_16-ERA_05-1965-ACC05-HOP149-REC29636,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1975%20Oroville%20earthquake&language=en&format=json
+IDB-REG_06-CAT_16-ERA_05-1965-ACC05-HOP149-REC29636,identity_label,1975 Oroville Earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1975%20Oroville%20earthquake&language=en&format=json
+IDB-REG_06-CAT_16-ERA_05-1965-ACC05-HOP149-REC29636,phenomenon_time,1975-08-01T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1975%20Oroville%20earthquake&language=en&format=json
+IDB-REG_06-CAT_17-ERA_07-2025-ACC05-HOP162-REC32256,descriptive_identity,"2013 earthquakes centered in Dingxi, Gansu province, China",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2013%20Dingxi%20earthquake&language=en&format=json
+IDB-REG_06-CAT_17-ERA_07-2025-ACC05-HOP162-REC32256,event_type,disaster,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2013%20Dingxi%20earthquake&language=en&format=json
+IDB-REG_06-CAT_17-ERA_07-2025-ACC05-HOP162-REC32256,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2013%20Dingxi%20earthquake&language=en&format=json
+IDB-REG_06-CAT_17-ERA_07-2025-ACC05-HOP162-REC32256,event_type,natural disaster,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2013%20Dingxi%20earthquake&language=en&format=json
+IDB-REG_06-CAT_17-ERA_07-2025-ACC05-HOP162-REC32256,identity_label,2013 Dingxi earthquakes,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2013%20Dingxi%20earthquake&language=en&format=json
+IDB-REG_06-CAT_17-ERA_07-2025-ACC05-HOP162-REC32256,phenomenon_time,2013-07-22T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2013%20Dingxi%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0000388,descriptive_identity,natural disaster,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1356%20Basel%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0000388,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1356%20Basel%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0000388,identity_label,1356 Basel earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1356%20Basel%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0000388,phenomenon_time,1356-10-26T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1356%20Basel%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0001029,descriptive_identity,earthquake in Iran on 15 December 1778,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1778%20Kashan%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0001029,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1778%20Kashan%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0001029,identity_label,1778 Kashan earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1778%20Kashan%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0001029,phenomenon_time,1778-12-15T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1778%20Kashan%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0001949,descriptive_identity,earthquake in Taiwan,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1909%20Taipei%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0001949,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1909%20Taipei%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0001949,identity_label,1909 Taipei earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1909%20Taipei%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0001949,location,Taipei,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1909%20Taipei%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0001949,phenomenon_time,1909-01-01T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1909%20Taipei%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0002107,descriptive_identity,natural disaster in the northwest Pacific,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1918%20Kuril%20Islands%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0002107,event_type,Iturup earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1918%20Kuril%20Islands%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0002107,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1918%20Kuril%20Islands%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0002107,identity_label,1918 Kuril Islands earthquake and tsunami,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1918%20Kuril%20Islands%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0002107,phenomenon_time,1918-09-08T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1918%20Kuril%20Islands%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003043,descriptive_identity,"Mw 7.8 earthquake off northern Hokkaido, Japan",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1973%20Nemuro%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003043,event_type,off Nemuro Peninsula earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1973%20Nemuro%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003043,identity_label,1973 Nemuro earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1973%20Nemuro%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003043,phenomenon_time,1973-06-17T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1973%20Nemuro%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003215,descriptive_identity,earthquake in California,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1980%20Mammoth%20Lakes%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003215,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1980%20Mammoth%20Lakes%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003215,identity_label,1980 Mammoth Lakes earthquakes,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1980%20Mammoth%20Lakes%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003247,descriptive_identity,"1981 earthquake in southern California, United States",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1981%20Westmorland%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003247,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1981%20Westmorland%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003247,identity_label,1981 Westmorland earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1981%20Westmorland%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003485,descriptive_identity,"December 1989 earthquake in New South Wales, Australia",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1989%20Newcastle%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003485,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1989%20Newcastle%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003485,identity_label,1989 Newcastle earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1989%20Newcastle%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003485,phenomenon_time,1989-01-01T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1989%20Newcastle%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003485,phenomenon_time,1989-12-28T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1989%20Newcastle%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003632,descriptive_identity,Earthquake in Algeria,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1994%20Mascara%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003632,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1994%20Mascara%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003632,identity_label,1994 Mascara earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1994%20Mascara%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003643,descriptive_identity,earthquake in Cyprus,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1995%20Paphos%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003643,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1995%20Paphos%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003643,identity_label,1995 Paphos earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1995%20Paphos%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003751,descriptive_identity,September 1999 earthquake in Greece,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1999%20Athens%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003751,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1999%20Athens%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003751,identity_label,1999 Athens earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1999%20Athens%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0003751,phenomenon_time,1999-09-07T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=1999%20Athens%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0006161,descriptive_identity,earthquake in Japan,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2016%20Fukushima%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0006161,event_type,off Fukushima earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2016%20Fukushima%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0006161,identity_label,2016 Fukushima earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2016%20Fukushima%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0006161,location,North Pacific Ocean,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2016%20Fukushima%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0006161,phenomenon_time,2016-11-22T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2016%20Fukushima%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0006200,descriptive_identity,2020 earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2020%20Izmir%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0006200,event_type,disaster,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2020%20Izmir%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0006200,event_type,earthquake,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2020%20Izmir%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0006200,event_type,natural disaster,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2020%20Izmir%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0006200,identity_label,Aegean Sea earthquake of 2020,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2020%20Izmir%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0006200,location,Aegean Sea,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2020%20Izmir%20earthquake&language=en&format=json
+LIBSRC-LIB57-ENT-DIS-0006200,phenomenon_time,2020-10-30T00:00:00Z,https://www.wikidata.org/w/api.php?action=wbsearchentities&search=2020%20Izmir%20earthquake&language=en&format=json
