@@ -1,0 +1,783 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16000-REC3199881,descriptive_identity,"""Glass""",https://clevelandart.org/art/1961.44
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16000-REC3199881,material_identity,"""gold on blue glass""",https://clevelandart.org/art/1961.44
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16215-REC3242861,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1964.34
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16215-REC3242861,material_identity,"""stone""",https://clevelandart.org/art/1964.34
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16466-REC3293121,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1920.1975.a
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16466-REC3293121,material_identity,"""limestone""",https://clevelandart.org/art/1920.1975.a
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16640-REC3327841,descriptive_identity,"""Painting""",https://clevelandart.org/art/1994.3
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16640-REC3327841,material_identity,"""oil on canvas""",https://clevelandart.org/art/1994.3
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16753-REC3350521,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1990.9
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16753-REC3350521,material_identity,"""marble""",https://clevelandart.org/art/1990.9
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16820-REC3363821,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.156
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16820-REC3363821,material_identity,"""painted limestone""",https://clevelandart.org/art/1987.156
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16829-REC3365641,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1964.143
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16829-REC3365641,material_identity,"""wood, glass, and found objects""",https://clevelandart.org/art/1964.143
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16844-REC3368721,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/2006.5
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16844-REC3368721,material_identity,"""bronze""",https://clevelandart.org/art/2006.5
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16921-REC3384121,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.156
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16921-REC3384121,material_identity,"""painted limestone""",https://clevelandart.org/art/1987.156
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17021-REC3404141,descriptive_identity,"""Wood""",https://clevelandart.org/art/1929.566.2
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17021-REC3404141,material_identity,"""Wood and glass beads""",https://clevelandart.org/art/1929.566.2
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17025-REC3404981,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1983.86
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17025-REC3404981,material_identity,"""dry lacquer""",https://clevelandart.org/art/1983.86
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17109-REC3421641,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.156
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17109-REC3421641,material_identity,"""painted limestone""",https://clevelandart.org/art/1987.156
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17186-REC3437181,descriptive_identity,"""Textile""",https://clevelandart.org/art/1954.70
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17186-REC3437181,material_identity,"""silk""",https://clevelandart.org/art/1954.70
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17227-REC3445301,descriptive_identity,"""Portfolio""",https://clevelandart.org/art/1995.203.28.20
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17227-REC3445301,material_identity,"""photogravure""",https://clevelandart.org/art/1995.203.28.20
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17459-REC3491781,descriptive_identity,"""Garment""",https://clevelandart.org/art/2005.5.2
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17459-REC3491781,material_identity,"""cotton; plain weave, brocaded and complex alternating gauze with 5 shots of plain weave between gauze shots""",https://clevelandart.org/art/2005.5.2
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17506-REC3501021,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1958.177
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17506-REC3501021,material_identity,"""hammered and cut gold""",https://clevelandart.org/art/1958.177
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17519-REC3503681,descriptive_identity,"""Print""",https://clevelandart.org/art/2018.33.70
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17519-REC3503681,material_identity,"""letterpress poster""",https://clevelandart.org/art/2018.33.70
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17590-REC3517821,descriptive_identity,"""Tools and Equipment""",https://clevelandart.org/art/1915.42
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17590-REC3517821,material_identity,"""black to dark-green flint""",https://clevelandart.org/art/1915.42
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17592-REC3518241,descriptive_identity,"""Painting""",https://clevelandart.org/art/1963.102
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17592-REC3518241,material_identity,"""handscroll; ink and light color on paper""",https://clevelandart.org/art/1963.102
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17760-REC3551841,descriptive_identity,"""Leather""",https://clevelandart.org/art/1937.865
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17760-REC3551841,material_identity,"""Native-tanned hide, glass beads, metal beads, sinew thread """,https://clevelandart.org/art/1937.865
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17781-REC3556041,descriptive_identity,"""Netsuke""",https://clevelandart.org/art/1916.848
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17781-REC3556041,material_identity,"""lacquer with  sprinkled gold, silver, and mother-of-pearl design, coral, and wood""",https://clevelandart.org/art/1916.848
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17953-REC3590481,descriptive_identity,"""Textile""",https://clevelandart.org/art/1917.771
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17953-REC3590481,material_identity,"""natural fibers, cloth, glass beads, metal""",https://clevelandart.org/art/1917.771
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17954-REC3590621,descriptive_identity,"""Portrait Miniature""",https://clevelandart.org/art/1951.437
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17954-REC3590621,material_identity,"""watercolor on ivory in a later gold and woven hair bracelet""",https://clevelandart.org/art/1951.437
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18027-REC3605321,descriptive_identity,"""Stone""",https://clevelandart.org/art/1950.161
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18027-REC3605321,material_identity,"""chipped flint""",https://clevelandart.org/art/1950.161
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18242-REC3648301,descriptive_identity,"""Miscellaneous""",https://clevelandart.org/art/1916.313.c
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18242-REC3648301,material_identity,"""gilt metal""",https://clevelandart.org/art/1916.313.c
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18351-REC3670001,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.156
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18351-REC3670001,material_identity,"""painted limestone""",https://clevelandart.org/art/1987.156
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18562-REC3712281,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1916.1511
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18562-REC3712281,material_identity,"""steel, leather straps, brass rivets""",https://clevelandart.org/art/1916.1511
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18813-REC3762541,descriptive_identity,"""Textile""",https://clevelandart.org/art/1947.191
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18813-REC3762541,material_identity,"""wool""",https://clevelandart.org/art/1947.191
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18837-REC3767301,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/1969.85
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18837-REC3767301,material_identity,"""porcelain""",https://clevelandart.org/art/1969.85
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18868-REC3773461,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1974.57
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18868-REC3773461,material_identity,"""forged steel blade; partially gilt and russet steel hilt; steel wire, leather bands, wood core""",https://clevelandart.org/art/1974.57
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18883-REC3776401,descriptive_identity,"""Jade""",https://clevelandart.org/art/1989.351
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18883-REC3776401,material_identity,"""Jadeite, iron inlaid with brass""",https://clevelandart.org/art/1989.351
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18892-REC3778221,descriptive_identity,"""Leather""",https://clevelandart.org/art/1937.865
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18892-REC3778221,material_identity,"""Native-tanned hide, glass beads, metal beads, sinew thread """,https://clevelandart.org/art/1937.865
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18929-REC3785641,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1994.203
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18929-REC3785641,material_identity,"""gilt bronze""",https://clevelandart.org/art/1994.203
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18960-REC3791941,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1919.69
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18960-REC3791941,material_identity,"""steel""",https://clevelandart.org/art/1919.69
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18983-REC3796561,descriptive_identity,"""Painting""",https://clevelandart.org/art/1976.2
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18983-REC3796561,material_identity,"""oil on canvas""",https://clevelandart.org/art/1976.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13065-REC2612981,descriptive_identity,"""Drawing""",https://clevelandart.org/art/1978.37
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13065-REC2612981,material_identity,"""metalpoint""",https://clevelandart.org/art/1978.37
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13193-REC2638461,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/2021.3
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13193-REC2638461,material_identity,"""Terracotta (moldmade)""",https://clevelandart.org/art/2021.3
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13287-REC2657361,descriptive_identity,"""Drawing""",https://clevelandart.org/art/2009.155
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13287-REC2657361,material_identity,"""black charcoal and black and red pastel""",https://clevelandart.org/art/2009.155
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13298-REC2659461,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1917.338
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13298-REC2659461,material_identity,"""silver bronze""",https://clevelandart.org/art/1917.338
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13309-REC2661701,descriptive_identity,"""Lamp""",https://clevelandart.org/art/2018.281
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13309-REC2661701,material_identity,"""Leaded glass, bronze""",https://clevelandart.org/art/2018.281
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13382-REC2676261,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13382-REC2676261,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13483-REC2696561,descriptive_identity,"""Painting""",https://clevelandart.org/art/1965.233
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13483-REC2696561,material_identity,"""oil on canvas""",https://clevelandart.org/art/1965.233
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13490-REC2697821,descriptive_identity,"""Print""",https://clevelandart.org/art/1961.283
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13490-REC2697821,material_identity,"""etching""",https://clevelandart.org/art/1961.283
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13718-REC2743461,descriptive_identity,"""Stone""",https://clevelandart.org/art/2011.147
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13718-REC2743461,material_identity,"""sandstone""",https://clevelandart.org/art/2011.147
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13728-REC2745561,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13728-REC2745561,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13779-REC2755641,descriptive_identity,"""Painting""",https://clevelandart.org/art/1954.864
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13779-REC2755641,material_identity,"""oil on canvas""",https://clevelandart.org/art/1954.864
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13794-REC2758721,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1916.40
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13794-REC2758721,material_identity,"""steel, engraved""",https://clevelandart.org/art/1916.40
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13852-REC2770201,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13852-REC2770201,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13894-REC2778741,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13894-REC2778741,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13959-REC2791761,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1938.431
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13959-REC2791761,material_identity,"""hammered and cut gold""",https://clevelandart.org/art/1938.431
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14020-REC2803941,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14020-REC2803941,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14145-REC2828861,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14145-REC2828861,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14188-REC2837401,descriptive_identity,"""Garment""",https://clevelandart.org/art/2013.5
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14188-REC2837401,material_identity,"""Raffia palm fiber (Raphia ruffia or R. vinifera) and dye""",https://clevelandart.org/art/2013.5
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14205-REC2840901,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2007.151
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14205-REC2840901,material_identity,"""gelatin silver print""",https://clevelandart.org/art/2007.151
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14218-REC2843421,descriptive_identity,"""Print""",https://clevelandart.org/art/1930.532
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14218-REC2843421,material_identity,"""lithograph""",https://clevelandart.org/art/1930.532
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14231-REC2846081,descriptive_identity,"""Silver""",https://clevelandart.org/art/1940.246
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14231-REC2846081,material_identity,"""silver""",https://clevelandart.org/art/1940.246
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14636-REC2927141,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/2022.38
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14636-REC2927141,material_identity,"""Gilt silver (body) and brass (trefoil-shaped ring)""",https://clevelandart.org/art/2022.38
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14789-REC2957661,descriptive_identity,"""Mixed Media""",https://clevelandart.org/art/2011.35
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14789-REC2957661,material_identity,"""alpaca or llama hide, human hair, pigment, cotton; coca leaf contents""",https://clevelandart.org/art/2011.35
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14822-REC2964381,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14822-REC2964381,material_identity,"""stereoscopic albumen print from glass plate negative""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14837-REC2967321,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2013.200
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14837-REC2967321,material_identity,"""vintage gelatin silver print""",https://clevelandart.org/art/2013.200
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14932-REC2986221,descriptive_identity,"""Glass""",https://clevelandart.org/art/1991.16
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14932-REC2986221,material_identity,"""green glass""",https://clevelandart.org/art/1991.16
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15071-REC3014081,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1916.672
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15071-REC3014081,material_identity,"""steel, walnut stock with engraved stag horn; ball butt""",https://clevelandart.org/art/1916.672
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15120-REC3023881,descriptive_identity,"""Print""",https://clevelandart.org/art/2000.191
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15120-REC3023881,material_identity,"""color screenprint on 3 plexiglas panels""",https://clevelandart.org/art/2000.191
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15183-REC3036481,descriptive_identity,"""Tools and Equipment""",https://clevelandart.org/art/1991.21
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15183-REC3036481,material_identity,"""wood (maple?)""",https://clevelandart.org/art/1991.21
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15441-REC3088141,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15441-REC3088141,material_identity,"""Wood, ceramic or Formica, copper alloy, and iron alloy""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15468-REC3093461,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1935.309
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15468-REC3093461,material_identity,"""Gold""",https://clevelandart.org/art/1935.309
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15490-REC3097941,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15490-REC3097941,material_identity,"""Wood, ceramic or Formica, copper alloy, and iron alloy""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15997-REC3199301,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15997-REC3199301,material_identity,"""gold""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16305-REC3260901,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/1989.287
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16305-REC3260901,material_identity,"""porcelain with mottled blue glaze""",https://clevelandart.org/art/1989.287
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16478-REC3295481,descriptive_identity,"""Print""",https://clevelandart.org/art/1923.546
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16478-REC3295481,material_identity,"""engraving""",https://clevelandart.org/art/1923.546
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16542-REC3308361,descriptive_identity,"""Musical Instrument""",https://clevelandart.org/art/1929.343
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16542-REC3308361,material_identity,"""Wood, rawhide, and plant fiber""",https://clevelandart.org/art/1929.343
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16706-REC3341121,descriptive_identity,"""Painting""",https://clevelandart.org/art/1970.161
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16706-REC3341121,material_identity,"""oil on canvas""",https://clevelandart.org/art/1970.161
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16708-REC3341401,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.44
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16708-REC3341401,material_identity,"""Kaolin""",https://clevelandart.org/art/1987.44
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16793-REC3358481,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2017.9
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16793-REC3358481,material_identity,"""Photographs: photographs on enamel, framed in copper alloy metal frames; hair lockets: hair with pen and black and ink on cream-colored backing; case: leather  with metal push-clasp and velvet-lined interior""",https://clevelandart.org/art/2017.9
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16902-REC3380321,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/1976.89
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16902-REC3380321,material_identity,"""ceramic""",https://clevelandart.org/art/1976.89
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16939-REC3387741,descriptive_identity,"""Furniture and woodwork""",https://clevelandart.org/art/2006.138
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16939-REC3387741,material_identity,"""Wood, cotton, plant fiber, glass beads, and indigo""",https://clevelandart.org/art/2006.138
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16955-REC3390821,descriptive_identity,"""Textile""",https://clevelandart.org/art/1921.948
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16955-REC3390821,material_identity,"""Wool (handspun): tapestry weave""",https://clevelandart.org/art/1921.948
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17095-REC3418961,descriptive_identity,"""Print""",https://clevelandart.org/art/1952.532
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17095-REC3418961,material_identity,"""engraving""",https://clevelandart.org/art/1952.532
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17272-REC3454241,descriptive_identity,"""Wood""",https://clevelandart.org/art/1988.74
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17272-REC3454241,material_identity,"""carved bamboo""",https://clevelandart.org/art/1988.74
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17431-REC3486021,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/2023.97
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17431-REC3486021,material_identity,"""Gilt-bronze""",https://clevelandart.org/art/2023.97
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17460-REC3491901,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17460-REC3491901,material_identity,"""gold""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17468-REC3493441,descriptive_identity,"""Textile""",https://clevelandart.org/art/2022.22
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17468-REC3493441,material_identity,"""Cotton""",https://clevelandart.org/art/2022.22
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17521-REC3504081,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/2010.203
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17521-REC3504081,material_identity,"""Wood""",https://clevelandart.org/art/2010.203
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17550-REC3509961,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1915.606
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17550-REC3509961,material_identity,"""bronze""",https://clevelandart.org/art/1915.606
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17701-REC3540061,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1935.309
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17701-REC3540061,material_identity,"""Gold""",https://clevelandart.org/art/1935.309
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17708-REC3541461,descriptive_identity,"""Print""",https://clevelandart.org/art/1929.560.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17708-REC3541461,material_identity,"""etching""",https://clevelandart.org/art/1929.560.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17757-REC3551261,descriptive_identity,"""Cosmetic Objects""",https://clevelandart.org/art/1988.7
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17757-REC3551261,material_identity,"""ivory""",https://clevelandart.org/art/1988.7
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17829-REC3565681,descriptive_identity,"""Painting""",https://clevelandart.org/art/2018.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17829-REC3565681,material_identity,"""Gum tempera, silver, and gold on paper""",https://clevelandart.org/art/2018.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17874-REC3574781,descriptive_identity,"""Painting""",https://clevelandart.org/art/1963.515
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17874-REC3574781,material_identity,"""Handscroll; ink on paper""",https://clevelandart.org/art/1963.515
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18294-REC3658781,descriptive_identity,"""Garment""",https://clevelandart.org/art/1974.36
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18294-REC3658781,material_identity,"""embroidery, silk and applied gold leaf on silk ground""",https://clevelandart.org/art/1974.36
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18335-REC3666901,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1940.507
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18335-REC3666901,material_identity,"""bone, hematite, cotton thread, sinew""",https://clevelandart.org/art/1940.507
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18432-REC3686361,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1940.507
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18432-REC3686361,material_identity,"""bone, hematite, cotton thread, sinew""",https://clevelandart.org/art/1940.507
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18507-REC3701201,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.156
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18507-REC3701201,material_identity,"""painted limestone""",https://clevelandart.org/art/1987.156
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18574-REC3714781,descriptive_identity,"""Stone""",https://clevelandart.org/art/1951.178
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18574-REC3714781,material_identity,"""stone""",https://clevelandart.org/art/1951.178
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18808-REC3761401,descriptive_identity,"""Print""",https://clevelandart.org/art/1932.323
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18808-REC3761401,material_identity,"""etching""",https://clevelandart.org/art/1932.323
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18822-REC3764201,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1967.134
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18822-REC3764201,material_identity,"""ivory""",https://clevelandart.org/art/1967.134
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18831-REC3766161,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/2006.5
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18831-REC3766161,material_identity,"""bronze""",https://clevelandart.org/art/2006.5
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18940-REC3787861,descriptive_identity,"""Garment""",https://clevelandart.org/art/1929.566
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18940-REC3787861,material_identity,"""Wood and glass beads""",https://clevelandart.org/art/1929.566
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18963-REC3792481,descriptive_identity,"""Wood""",https://clevelandart.org/art/1929.566.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18963-REC3792481,material_identity,"""Wood and glass beads""",https://clevelandart.org/art/1929.566.2
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP19101-REC3820061,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1925.944
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP19101-REC3820061,material_identity,"""marble""",https://clevelandart.org/art/1925.944
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP12837-REC2567251,descriptive_identity,"""Painting""",https://clevelandart.org/art/1996.296
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP12837-REC2567251,material_identity,"""Gum tempera and gold on paper""",https://clevelandart.org/art/1996.296
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP12847-REC2569351,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/1993.111
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP12847-REC2569351,material_identity,"""ceramic""",https://clevelandart.org/art/1993.111
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP12923-REC2584471,descriptive_identity,"""Sampler""",https://clevelandart.org/art/1942.500
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP12923-REC2584471,material_identity,"""embroidery; silk on linen""",https://clevelandart.org/art/1942.500
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP12956-REC2591191,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1946.259
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP12956-REC2591191,material_identity,"""rock crystal with a garnet mounted in a gold granulated star""",https://clevelandart.org/art/1946.259
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13006-REC2601131,descriptive_identity,"""Textile""",https://clevelandart.org/art/1934.199
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13006-REC2601131,material_identity,"""wool: tapestry twill""",https://clevelandart.org/art/1934.199
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13052-REC2610371,descriptive_identity,"""Print""",https://clevelandart.org/art/1948.306
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13052-REC2610371,material_identity,"""color woodblock print""",https://clevelandart.org/art/1948.306
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13094-REC2618631,descriptive_identity,"""Print""",https://clevelandart.org/art/2023.125
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13094-REC2618631,material_identity,"""Stencil duplicate in black ink on technical paper""",https://clevelandart.org/art/2023.125
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13212-REC2642291,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13212-REC2642291,material_identity,"""stereoscopic albumen print from glass plate negative""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13248-REC2649431,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2014.601
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13248-REC2649431,material_identity,"""gelatin silver print""",https://clevelandart.org/art/2014.601
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13262-REC2652231,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/2021.3
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13262-REC2652231,material_identity,"""Terracotta (moldmade)""",https://clevelandart.org/art/2021.3
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13271-REC2654191,descriptive_identity,"""Silver""",https://clevelandart.org/art/1980.74.1
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13271-REC2654191,material_identity,"""Gilt silver and ivory""",https://clevelandart.org/art/1980.74.1
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13287-REC2657271,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13287-REC2657271,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13353-REC2670431,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13353-REC2670431,material_identity,"""Wood, ceramic or Formica, copper alloy, and iron alloy""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13354-REC2670711,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/2012.115
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13354-REC2670711,material_identity,"""Murano glass""",https://clevelandart.org/art/2012.115
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13397-REC2679251,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13397-REC2679251,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13412-REC2682331,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1987.210
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13412-REC2682331,material_identity,"""silver""",https://clevelandart.org/art/1987.210
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13417-REC2683311,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/1964.514
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13417-REC2683311,material_identity,"""soft-paste porcelain with enamel decoration""",https://clevelandart.org/art/1964.514
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13430-REC2685971,descriptive_identity,"""Print""",https://clevelandart.org/art/1928.91
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13430-REC2685971,material_identity,"""etching""",https://clevelandart.org/art/1928.91
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13437-REC2687231,descriptive_identity,"""Painting""",https://clevelandart.org/art/1987.146
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13437-REC2687231,material_identity,"""Gum tempera on sized cotton""",https://clevelandart.org/art/1987.146
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13463-REC2692551,descriptive_identity,"""Sampler""",https://clevelandart.org/art/1929.842
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13463-REC2692551,material_identity,"""Cotton, silk, dye""",https://clevelandart.org/art/1929.842
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13491-REC2698011,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1917.338
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13491-REC2698011,material_identity,"""silver bronze""",https://clevelandart.org/art/1917.338
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13524-REC2704731,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13524-REC2704731,material_identity,"""stereoscopic albumen print from glass plate negative""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13540-REC2707811,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2021.32
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13540-REC2707811,material_identity,"""gelatin silver print, wirephoto""",https://clevelandart.org/art/2021.32
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13584-REC2716631,descriptive_identity,"""Furniture and woodwork""",https://clevelandart.org/art/1967.153
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13584-REC2716631,material_identity,"""tortoise shell and brass inlay, gilt bronze""",https://clevelandart.org/art/1967.153
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13586-REC2717051,descriptive_identity,"""Silver""",https://clevelandart.org/art/2021.158
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13586-REC2717051,material_identity,"""Silver, ruby, textile""",https://clevelandart.org/art/2021.158
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13610-REC2721811,descriptive_identity,"""Print""",https://clevelandart.org/art/1931.205
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13610-REC2721811,material_identity,"""engraving""",https://clevelandart.org/art/1931.205
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13621-REC2724051,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13621-REC2724051,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13657-REC2731331,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13657-REC2731331,material_identity,"""stereoscopic albumen print from glass plate negative""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13669-REC2733711,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/2015.51
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13669-REC2733711,material_identity,"""brass photographic locket with 12 miniature albumen prints""",https://clevelandart.org/art/2015.51
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13680-REC2735951,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13680-REC2735951,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13683-REC2736511,descriptive_identity,"""Silver""",https://clevelandart.org/art/1936.352
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13683-REC2736511,material_identity,"""silver gilt""",https://clevelandart.org/art/1936.352
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13699-REC2739731,descriptive_identity,"""Print""",https://clevelandart.org/art/1920.540
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13699-REC2739731,material_identity,"""etching""",https://clevelandart.org/art/1920.540
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13814-REC2762691,descriptive_identity,"""Painting""",https://clevelandart.org/art/1964.283
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13814-REC2762691,material_identity,"""oil on canvas""",https://clevelandart.org/art/1964.283
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13819-REC2763671,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1917.338
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13819-REC2763671,material_identity,"""silver bronze""",https://clevelandart.org/art/1917.338
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13825-REC2764931,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13825-REC2764931,material_identity,"""stereoscopic albumen print from glass plate negative""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13858-REC2771511,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2007.147
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13858-REC2771511,material_identity,"""gelatin silver print from a photogram negative""",https://clevelandart.org/art/2007.147
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13867-REC2773331,descriptive_identity,"""Enamel""",https://clevelandart.org/art/1930.77
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13867-REC2773331,material_identity,"""enamel on copper""",https://clevelandart.org/art/1930.77
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13902-REC2780331,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13902-REC2780331,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13913-REC2782571,descriptive_identity,"""Print""",https://clevelandart.org/art/1935.135
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13913-REC2782571,material_identity,"""stencil""",https://clevelandart.org/art/1935.135
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13929-REC2785791,descriptive_identity,"""Leather""",https://clevelandart.org/art/1937.865
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13929-REC2785791,material_identity,"""Native-tanned hide, glass beads, metal beads, sinew thread """,https://clevelandart.org/art/1937.865
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13942-REC2788311,descriptive_identity,"""Lace""",https://clevelandart.org/art/1923.1001
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13942-REC2788311,material_identity,"""Needle lace (Argentan)""",https://clevelandart.org/art/1923.1001
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14020-REC2803991,descriptive_identity,"""Drawing""",https://clevelandart.org/art/1943.265.b
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14020-REC2803991,material_identity,"""black chalk""",https://clevelandart.org/art/1943.265.b
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14034-REC2806791,descriptive_identity,"""Textile""",https://clevelandart.org/art/2022.256
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14034-REC2806791,material_identity,"""Goatskin, grass, glass beads""",https://clevelandart.org/art/2022.256
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14093-REC2818551,descriptive_identity,"""Print""",https://clevelandart.org/art/2005.286
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14093-REC2818551,material_identity,"""wood engraving""",https://clevelandart.org/art/2005.286
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14173-REC2834511,descriptive_identity,"""Drawing""",https://clevelandart.org/art/1943.265.b
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14173-REC2834511,material_identity,"""black chalk""",https://clevelandart.org/art/1943.265.b
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14193-REC2838431,descriptive_identity,"""Tools and Equipment""",https://clevelandart.org/art/1973.219
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14193-REC2838431,material_identity,"""Wood and metal""",https://clevelandart.org/art/1973.219
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14228-REC2845431,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/2022.38
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14228-REC2845431,material_identity,"""Gilt silver (body) and brass (trefoil-shaped ring)""",https://clevelandart.org/art/2022.38
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14258-REC2851451,descriptive_identity,"""Drawing""",https://clevelandart.org/art/2008.144.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14258-REC2851451,material_identity,"""paper""",https://clevelandart.org/art/2008.144.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14300-REC2859851,descriptive_identity,"""Glass""",https://clevelandart.org/art/1916.554
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14300-REC2859851,material_identity,"""glass""",https://clevelandart.org/art/1916.554
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14334-REC2866711,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14334-REC2866711,material_identity,"""stereoscopic albumen print from glass plate negative""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14370-REC2873851,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14370-REC2873851,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14401-REC2880151,descriptive_identity,"""Painting""",https://clevelandart.org/art/1980.8
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14401-REC2880151,material_identity,"""oil on canvas""",https://clevelandart.org/art/1980.8
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14404-REC2880711,descriptive_identity,"""Painting""",https://clevelandart.org/art/1985.57
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14404-REC2880711,material_identity,"""oil on canvas""",https://clevelandart.org/art/1985.57
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14424-REC2884771,descriptive_identity,"""Print""",https://clevelandart.org/art/1930.158
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14424-REC2884771,material_identity,"""etching""",https://clevelandart.org/art/1930.158
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14451-REC2890091,descriptive_identity,"""Painting""",https://clevelandart.org/art/1922.1133
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14451-REC2890091,material_identity,"""oil on canvas""",https://clevelandart.org/art/1922.1133
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14466-REC2893171,descriptive_identity,"""Tapestry""",https://clevelandart.org/art/1985.32
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14466-REC2893171,material_identity,"""silk; slit tapestry weave (kesi)""",https://clevelandart.org/art/1985.32
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14500-REC2899891,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14500-REC2899891,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14509-REC2901711,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1916.1953
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14509-REC2901711,material_identity,"""steel""",https://clevelandart.org/art/1916.1953
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14548-REC2909411,descriptive_identity,"""Silver""",https://clevelandart.org/art/1940.377
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14548-REC2909411,material_identity,"""silver""",https://clevelandart.org/art/1940.377
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14571-REC2914031,descriptive_identity,"""Bound Volume""",https://clevelandart.org/art/1995.199.18.c
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14571-REC2914031,material_identity,"""photogravure""",https://clevelandart.org/art/1995.199.18.c
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14582-REC2916271,descriptive_identity,"""Enamel""",https://clevelandart.org/art/1952.277
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14582-REC2916271,material_identity,"""gilt copper with champlev\u00e9 enamel """,https://clevelandart.org/art/1952.277
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14607-REC2921311,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14607-REC2921311,material_identity,"""Wood, ceramic or Formica, copper alloy, and iron alloy""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14683-REC2936431,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14683-REC2936431,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14683-REC2936571,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14683-REC2936571,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14730-REC2945811,descriptive_identity,"""Garment""",https://clevelandart.org/art/1982.62
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14730-REC2945811,material_identity,"""beadwork""",https://clevelandart.org/art/1982.62
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14765-REC2952811,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14765-REC2952811,material_identity,"""stereoscopic albumen print from glass plate negative""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14766-REC2953091,descriptive_identity,"""Garment""",https://clevelandart.org/art/1996.2.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14766-REC2953091,material_identity,"""twill damask: silk""",https://clevelandart.org/art/1996.2.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14842-REC2968211,descriptive_identity,"""Textile""",https://clevelandart.org/art/2022.256
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14842-REC2968211,material_identity,"""Goatskin, grass, glass beads""",https://clevelandart.org/art/2022.256
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14867-REC2973391,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1940.128
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14867-REC2973391,material_identity,"""vizille alabaster""",https://clevelandart.org/art/1940.128
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14872-REC2974371,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14872-REC2974371,material_identity,"""stereoscopic albumen print from glass plate negative""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14875-REC2974931,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14875-REC2974931,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14879-REC2975631,descriptive_identity,"""Drawing""",https://clevelandart.org/art/1943.265.b
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14879-REC2975631,material_identity,"""black chalk""",https://clevelandart.org/art/1943.265.b
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14946-REC2989071,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2019.306.b
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14946-REC2989071,material_identity,"""Chromogenic print""",https://clevelandart.org/art/2019.306.b
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14960-REC2991871,descriptive_identity,"""Painting""",https://clevelandart.org/art/1945.25
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14960-REC2991871,material_identity,"""oil on wood panel""",https://clevelandart.org/art/1945.25
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14961-REC2992011,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1916.1919
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14961-REC2992011,material_identity,"""steel""",https://clevelandart.org/art/1916.1919
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14963-REC2992431,descriptive_identity,"""Painting""",https://clevelandart.org/art/1952.111
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14963-REC2992431,material_identity,"""Tempera and gold leaf on wood panel""",https://clevelandart.org/art/1952.111
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14975-REC2994811,descriptive_identity,"""Painting""",https://clevelandart.org/art/1966.125
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14975-REC2994811,material_identity,"""oil on canvas""",https://clevelandart.org/art/1966.125
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14981-REC2996071,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2022.34
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14981-REC2996071,material_identity,"""albumen print from collodion negative""",https://clevelandart.org/art/2022.34
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15022-REC3004331,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1946.259
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15022-REC3004331,material_identity,"""rock crystal with a garnet mounted in a gold granulated star""",https://clevelandart.org/art/1946.259
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15049-REC3009791,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1974.76
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15049-REC3009791,material_identity,"""painted wood""",https://clevelandart.org/art/1974.76
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15062-REC3012311,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1995.341
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15062-REC3012311,material_identity,"""bronze""",https://clevelandart.org/art/1995.341
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15068-REC3013571,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15068-REC3013571,material_identity,"""stereoscopic albumen print from glass plate negative""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15080-REC3015811,descriptive_identity,"""Painting""",https://clevelandart.org/art/2018.133
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15080-REC3015811,material_identity,"""Gum tempera and gold on paper""",https://clevelandart.org/art/2018.133
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15124-REC3024631,descriptive_identity,"""Painting""",https://clevelandart.org/art/1952.153
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15124-REC3024631,material_identity,"""oil on canvas""",https://clevelandart.org/art/1952.153
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15126-REC3025191,descriptive_identity,"""Drawing""",https://clevelandart.org/art/1994.103
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15126-REC3025191,material_identity,"""graphite (carpenter's pencil), with stumping""",https://clevelandart.org/art/1994.103
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15147-REC3029391,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2016.484
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15147-REC3029391,material_identity,"""vintage gelatin silver print""",https://clevelandart.org/art/2016.484
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15149-REC3029671,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.147
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15149-REC3029671,material_identity,"""sandstone""",https://clevelandart.org/art/1987.147
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15209-REC3041711,descriptive_identity,"""Musical Instrument""",https://clevelandart.org/art/1929.343
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15209-REC3041711,material_identity,"""Wood, rawhide, and plant fiber""",https://clevelandart.org/art/1929.343
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15472-REC3094211,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1973.27
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15472-REC3094211,material_identity,"""painted and welded metal""",https://clevelandart.org/art/1973.27
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15502-REC3100371,descriptive_identity,"""Textile""",https://clevelandart.org/art/1954.255
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15502-REC3100371,material_identity,"""Plain weave linen, printed""",https://clevelandart.org/art/1954.255
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15504-REC3100651,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/2015.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15504-REC3100651,material_identity,"""gold, hammered""",https://clevelandart.org/art/2015.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15526-REC3105131,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1946.259
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15526-REC3105131,material_identity,"""rock crystal with a garnet mounted in a gold granulated star""",https://clevelandart.org/art/1946.259
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15586-REC3117031,descriptive_identity,"""Print""",https://clevelandart.org/art/1921.507
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15586-REC3117031,material_identity,"""lithograph""",https://clevelandart.org/art/1921.507
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15718-REC3143491,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1917.1051.3
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15718-REC3143491,material_identity,"""bronze gilt""",https://clevelandart.org/art/1917.1051.3
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15751-REC3150071,descriptive_identity,"""Stone""",https://clevelandart.org/art/2023.50
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15751-REC3150071,material_identity,"""She stone""",https://clevelandart.org/art/2023.50
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15974-REC3194731,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15974-REC3194731,material_identity,"""Wood, ceramic or Formica, copper alloy, and iron alloy""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16013-REC3202431,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/1952.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16013-REC3202431,material_identity,"""porcelain""",https://clevelandart.org/art/1952.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16109-REC3221611,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1957.399
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16109-REC3221611,material_identity,"""hammered and cut gold""",https://clevelandart.org/art/1957.399
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16177-REC3235331,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16177-REC3235331,material_identity,"""Wood, ceramic or Formica, copper alloy, and iron alloy""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16201-REC3240091,descriptive_identity,"""Tools and Equipment""",https://clevelandart.org/art/1920.90
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16201-REC3240091,material_identity,"""iron alloy""",https://clevelandart.org/art/1920.90
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16258-REC3251431,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16258-REC3251431,material_identity,"""Wood, ceramic or Formica, copper alloy, and iron alloy""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16278-REC3255491,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1986.182
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16278-REC3255491,material_identity,"""silver""",https://clevelandart.org/art/1986.182
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16342-REC3268371,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/2022.150.11
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16342-REC3268371,material_identity,"""Porcelain with molded designs""",https://clevelandart.org/art/2022.150.11
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16347-REC3269351,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/2022.194
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16347-REC3269351,material_identity,"""Set of six dishes; porcelain with lobed rims and pink glaze""",https://clevelandart.org/art/2022.194
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16363-REC3272431,descriptive_identity,"""Mixed Media""",https://clevelandart.org/art/2016.544
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16363-REC3272431,material_identity,"""Undyed and dyed hemp rope and fibers; cotton; steel""",https://clevelandart.org/art/2016.544
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16536-REC3307151,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1930.742
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16536-REC3307151,material_identity,"""basse-taille enamel and gilding on silver, silver thread, gilt-silver buckle, cast and chased""",https://clevelandart.org/art/1930.742
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16542-REC3308271,descriptive_identity,"""Tools and Equipment""",https://clevelandart.org/art/1914.680
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16542-REC3308271,material_identity,"""boxwood with inscription inlaid in Egyptian blue""",https://clevelandart.org/art/1914.680
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16544-REC3308691,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/2022.38
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16544-REC3308691,material_identity,"""Gilt silver (body) and brass (trefoil-shaped ring)""",https://clevelandart.org/art/2022.38
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16635-REC3326891,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2017.179
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16635-REC3326891,material_identity,"""gelatin silver print""",https://clevelandart.org/art/2017.179
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16655-REC3330811,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1981.81
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16655-REC3330811,material_identity,"""cast bronze and wood""",https://clevelandart.org/art/1981.81
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16749-REC3349711,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1915.619
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16749-REC3349711,material_identity,"""bronze""",https://clevelandart.org/art/1915.619
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16855-REC3370851,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/2018.27
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16855-REC3370851,material_identity,"""Wood and plant fiber""",https://clevelandart.org/art/2018.27
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16860-REC3371831,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1985.3
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16860-REC3371831,material_identity,"""bronze""",https://clevelandart.org/art/1985.3
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16872-REC3374351,descriptive_identity,"""Painting""",https://clevelandart.org/art/1942.633
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16872-REC3374351,material_identity,"""tempera on wood panel""",https://clevelandart.org/art/1942.633
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16995-REC3398991,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/2022.194
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16995-REC3398991,material_identity,"""Set of six dishes; porcelain with lobed rims and pink glaze""",https://clevelandart.org/art/2022.194
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17059-REC3411731,descriptive_identity,"""Amulets""",https://clevelandart.org/art/1914.740
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17059-REC3411731,material_identity,"""turquoise faience""",https://clevelandart.org/art/1914.740
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17118-REC3423491,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1916.1696
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17118-REC3423491,material_identity,"""steel and horn (associated grip and blade)""",https://clevelandart.org/art/1916.1696
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17191-REC3438051,descriptive_identity,"""Wood""",https://clevelandart.org/art/1920.2011
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17191-REC3438051,material_identity,"""wood""",https://clevelandart.org/art/1920.2011
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17254-REC3450651,descriptive_identity,"""Stone""",https://clevelandart.org/art/1951.178
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17254-REC3450651,material_identity,"""stone""",https://clevelandart.org/art/1951.178
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17325-REC3464931,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1972.34
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17325-REC3464931,material_identity,"""bronze""",https://clevelandart.org/art/1972.34
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17367-REC3473331,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1976.29
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17367-REC3473331,material_identity,"""soapstone""",https://clevelandart.org/art/1976.29
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17440-REC3487891,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1980.203
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17440-REC3487891,material_identity,"""volcanic stone""",https://clevelandart.org/art/1980.203
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17590-REC3517851,descriptive_identity,"""Print""",https://clevelandart.org/art/1949.440.6
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17590-REC3517851,material_identity,"""lithograph""",https://clevelandart.org/art/1949.440.6
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17610-REC3521911,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/2012.37
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17610-REC3521911,material_identity,"""steel (originally blued, now black); leather straps""",https://clevelandart.org/art/2012.37
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17623-REC3524431,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1986.182
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17623-REC3524431,material_identity,"""silver""",https://clevelandart.org/art/1986.182
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17670-REC3533951,descriptive_identity,"""Painting""",https://clevelandart.org/art/1969.22
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17670-REC3533951,material_identity,"""oil on canvas""",https://clevelandart.org/art/1969.22
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17780-REC3555931,descriptive_identity,"""Textile""",https://clevelandart.org/art/2004.145
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17780-REC3555931,material_identity,"""Knotless net; silk, pigment""",https://clevelandart.org/art/2004.145
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17784-REC3556631,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1975.1008
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17784-REC3556631,material_identity,"""Copper alloy""",https://clevelandart.org/art/1975.1008
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17840-REC3567971,descriptive_identity,"""Silver""",https://clevelandart.org/art/1977.7
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17840-REC3567971,material_identity,"""hammered silver soldered together, with chased decoration""",https://clevelandart.org/art/1977.7
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17891-REC3578051,descriptive_identity,"""Textile""",https://clevelandart.org/art/1920.1950
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17891-REC3578051,material_identity,"""silk""",https://clevelandart.org/art/1920.1950
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17937-REC3587291,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17937-REC3587291,material_identity,"""gold""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17954-REC3590791,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1969.137
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17954-REC3590791,material_identity,"""Hippopotamus ivory and organic material""",https://clevelandart.org/art/1969.137
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17964-REC3592751,descriptive_identity,"""Textile""",https://clevelandart.org/art/1940.514
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17964-REC3592751,material_identity,"""looped camelid fiber""",https://clevelandart.org/art/1940.514
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17975-REC3594851,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1916.627.1
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17975-REC3594851,material_identity,"""metal and enamel""",https://clevelandart.org/art/1916.627.1
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18000-REC3599891,descriptive_identity,"""Portfolio""",https://clevelandart.org/art/1995.203.32.29
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18000-REC3599891,material_identity,"""photogravure""",https://clevelandart.org/art/1995.203.32.29
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18055-REC3610951,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/2022.38
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18055-REC3610951,material_identity,"""Gilt silver (body) and brass (trefoil-shaped ring)""",https://clevelandart.org/art/2022.38
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18095-REC3618931,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1959.43
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18095-REC3618931,material_identity,"""lindenwood with polychromy and gilding""",https://clevelandart.org/art/1959.43
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18173-REC3634471,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1057
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18173-REC3634471,material_identity,"""jade""",https://clevelandart.org/art/1917.1057
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18220-REC3643851,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2016.431
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18220-REC3643851,material_identity,"""vintage gelatin silver print""",https://clevelandart.org/art/2016.431
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18232-REC3646231,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2007.27
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18232-REC3646231,material_identity,"""gelatin silver print""",https://clevelandart.org/art/2007.27
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18331-REC3666111,descriptive_identity,"""Silver""",https://clevelandart.org/art/1968.242.c
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18331-REC3666111,material_identity,"""silver""",https://clevelandart.org/art/1968.242.c
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18386-REC3677031,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1990.32
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18386-REC3677031,material_identity,"""bronze""",https://clevelandart.org/art/1990.32
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18399-REC3679691,descriptive_identity,"""Jade""",https://clevelandart.org/art/2009.83
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18399-REC3679691,material_identity,"""jade (nephrite)""",https://clevelandart.org/art/2009.83
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18458-REC3691591,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1959.184
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18458-REC3691591,material_identity,"""limestone with carved decoration""",https://clevelandart.org/art/1959.184
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18478-REC3695511,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1984.46
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18478-REC3695511,material_identity,"""terracotta""",https://clevelandart.org/art/1984.46
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18533-REC3706571,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2011.298
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18533-REC3706571,material_identity,"""chromogenic (Fujicolor Crystal Archive) print""",https://clevelandart.org/art/2011.298
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18566-REC3713011,descriptive_identity,"""Jade""",https://clevelandart.org/art/1991.6
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18566-REC3713011,material_identity,"""serpentine stone""",https://clevelandart.org/art/1991.6
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18613-REC3722531,descriptive_identity,"""Print""",https://clevelandart.org/art/2005.431
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18613-REC3722531,material_identity,"""color woodcut""",https://clevelandart.org/art/2005.431
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18621-REC3724071,descriptive_identity,"""Musical Instrument""",https://clevelandart.org/art/1929.343
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18621-REC3724071,material_identity,"""Wood, rawhide, and plant fiber""",https://clevelandart.org/art/1929.343
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18649-REC3729671,descriptive_identity,"""Tools and Equipment""",https://clevelandart.org/art/1914.680
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18649-REC3729671,material_identity,"""boxwood with inscription inlaid in Egyptian blue""",https://clevelandart.org/art/1914.680
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18658-REC3731491,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/2010.263.a
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18658-REC3731491,material_identity,"""stone""",https://clevelandart.org/art/2010.263.a
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18660-REC3731911,descriptive_identity,"""Textile""",https://clevelandart.org/art/1996.181
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18660-REC3731911,material_identity,"""Linen thread: twining and braiding""",https://clevelandart.org/art/1996.181
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18662-REC3732331,descriptive_identity,"""Lacquer""",https://clevelandart.org/art/2011.34
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18662-REC3732331,material_identity,"""carved lacquer""",https://clevelandart.org/art/2011.34
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18686-REC3737091,descriptive_identity,"""Lace""",https://clevelandart.org/art/1920.957
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18686-REC3737091,material_identity,"""bobbin lace""",https://clevelandart.org/art/1920.957
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18745-REC3748851,descriptive_identity,"""Seals""",https://clevelandart.org/art/1973.160
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18745-REC3748851,material_identity,"""steatite""",https://clevelandart.org/art/1973.160
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18910-REC3781891,descriptive_identity,"""Painting""",https://clevelandart.org/art/1956.361
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18910-REC3781891,material_identity,"""oil on canvas""",https://clevelandart.org/art/1956.361
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18970-REC3793931,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1940.507
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18970-REC3793931,material_identity,"""bone, hematite, cotton thread, sinew""",https://clevelandart.org/art/1940.507
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18976-REC3795191,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1975.1008
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18976-REC3795191,material_identity,"""Copper alloy""",https://clevelandart.org/art/1975.1008
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP19144-REC3828651,descriptive_identity,"""Drawing""",https://clevelandart.org/art/2005.465
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP19144-REC3828651,material_identity,"""tempera on brown paper""",https://clevelandart.org/art/2005.465
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP12774-REC2554631,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/2021.3
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP12774-REC2554631,material_identity,"""Terracotta (moldmade)""",https://clevelandart.org/art/2021.3
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP12849-REC2569611,descriptive_identity,"""Sampler""",https://clevelandart.org/art/1943.98
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP12849-REC2569611,material_identity,"""embroidery; silk on cotton""",https://clevelandart.org/art/1943.98
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13005-REC2600971,descriptive_identity,"""Sampler""",https://clevelandart.org/art/1943.98
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13005-REC2600971,material_identity,"""embroidery; silk on cotton""",https://clevelandart.org/art/1943.98
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13043-REC2608531,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/2017.125
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13043-REC2608531,material_identity,"""steel, lead and wood""",https://clevelandart.org/art/2017.125
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13053-REC2610491,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1941.549
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13053-REC2610491,material_identity,"""bronze""",https://clevelandart.org/art/1941.549
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13158-REC2631491,descriptive_identity,"""Print""",https://clevelandart.org/art/2023.125
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13158-REC2631491,material_identity,"""Stencil duplicate in black ink on technical paper""",https://clevelandart.org/art/2023.125
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13178-REC2635551,descriptive_identity,"""Print""",https://clevelandart.org/art/2023.125
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13178-REC2635551,material_identity,"""Stencil duplicate in black ink on technical paper""",https://clevelandart.org/art/2023.125
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13201-REC2640171,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13201-REC2640171,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13226-REC2645071,descriptive_identity,"""Garment""",https://clevelandart.org/art/1996.2.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13226-REC2645071,material_identity,"""twill damask: silk""",https://clevelandart.org/art/1996.2.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13267-REC2653331,descriptive_identity,"""Painting""",https://clevelandart.org/art/2018.133
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13267-REC2653331,material_identity,"""Gum tempera and gold on paper""",https://clevelandart.org/art/2018.133
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13299-REC2659771,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13299-REC2659771,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13306-REC2661171,descriptive_identity,"""Drawing""",https://clevelandart.org/art/1943.265.b
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13306-REC2661171,material_identity,"""black chalk""",https://clevelandart.org/art/1943.265.b
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13308-REC2661591,descriptive_identity,"""Time-based Media""",https://clevelandart.org/art/2016.300
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13308-REC2661591,material_identity,"""Projector, slides""",https://clevelandart.org/art/2016.300
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13323-REC2664531,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/1952.16
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13323-REC2664531,material_identity,"""ceramic""",https://clevelandart.org/art/1952.16
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13328-REC2665511,descriptive_identity,"""Miscellaneous""",https://clevelandart.org/art/2009.72
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13328-REC2665511,material_identity,"""gold, orange agate, enamel""",https://clevelandart.org/art/2009.72
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13335-REC2666911,descriptive_identity,"""Painting""",https://clevelandart.org/art/1969.22
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13335-REC2666911,material_identity,"""oil on canvas""",https://clevelandart.org/art/1969.22
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13345-REC2668871,descriptive_identity,"""Print""",https://clevelandart.org/art/1934.79
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13345-REC2668871,material_identity,"""woodcut""",https://clevelandart.org/art/1934.79
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13381-REC2676151,descriptive_identity,"""Painting""",https://clevelandart.org/art/2018.120
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13381-REC2676151,material_identity,"""Gum tempera, ink, and gold on cotton cloth""",https://clevelandart.org/art/2018.120
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13425-REC2684971,descriptive_identity,"""Painting""",https://clevelandart.org/art/1958.44
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13425-REC2684971,material_identity,"""oil on canvas""",https://clevelandart.org/art/1958.44
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13465-REC2692811,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13465-REC2692811,material_identity,"""stereoscopic albumen print from glass plate negative""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13466-REC2693091,descriptive_identity,"""Garment""",https://clevelandart.org/art/1997.180
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13466-REC2693091,material_identity,"""Raffia palm fiber (Raphia ruffia or R. vinifera) and leopard claws""",https://clevelandart.org/art/1997.180
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13471-REC2694071,descriptive_identity,"""Painting""",https://clevelandart.org/art/1973.30
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13471-REC2694071,material_identity,"""oil on canvas""",https://clevelandart.org/art/1973.30
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13477-REC2695331,descriptive_identity,"""Painting""",https://clevelandart.org/art/1980.238.1
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13477-REC2695331,material_identity,"""oil on fabric""",https://clevelandart.org/art/1980.238.1
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13491-REC2698131,descriptive_identity,"""Mixed Media""",https://clevelandart.org/art/2007.121
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13491-REC2698131,material_identity,"""gelatin silver print, photogram""",https://clevelandart.org/art/2007.121
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13500-REC2699811,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1930.742
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13500-REC2699811,material_identity,"""basse-taille enamel and gilding on silver, silver thread, gilt-silver buckle, cast and chased""",https://clevelandart.org/art/1930.742
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13505-REC2700931,descriptive_identity,"""Print""",https://clevelandart.org/art/1931.205
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13505-REC2700931,material_identity,"""engraving""",https://clevelandart.org/art/1931.205
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13516-REC2703031,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1951.444
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13516-REC2703031,material_identity,"""bronze""",https://clevelandart.org/art/1951.444
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13535-REC2706811,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/1915.712
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13535-REC2706811,material_identity,"""Tin-glazed earthenware with luster-painted design""",https://clevelandart.org/art/1915.712
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13548-REC2709471,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13548-REC2709471,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13585-REC2716891,descriptive_identity,"""Painting""",https://clevelandart.org/art/1945.25
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13585-REC2716891,material_identity,"""oil on wood panel""",https://clevelandart.org/art/1945.25
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13588-REC2717451,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1917.338
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13588-REC2717451,material_identity,"""silver bronze""",https://clevelandart.org/art/1917.338
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13595-REC2718991,descriptive_identity,"""Garment""",https://clevelandart.org/art/1996.2.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13595-REC2718991,material_identity,"""twill damask: silk""",https://clevelandart.org/art/1996.2.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13627-REC2725291,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1946.259
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13627-REC2725291,material_identity,"""rock crystal with a garnet mounted in a gold granulated star""",https://clevelandart.org/art/1946.259
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13637-REC2727391,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13637-REC2727391,material_identity,"""gold""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13643-REC2728511,descriptive_identity,"""Painting""",https://clevelandart.org/art/1975.80
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13643-REC2728511,material_identity,"""oil on canvas""",https://clevelandart.org/art/1975.80
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13644-REC2728651,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2020.338
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13644-REC2728651,material_identity,"""inkjet print""",https://clevelandart.org/art/2020.338
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13649-REC2729631,descriptive_identity,"""Print""",https://clevelandart.org/art/1997.190
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13649-REC2729631,material_identity,"""lithograph""",https://clevelandart.org/art/1997.190
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13658-REC2731451,descriptive_identity,"""Print""",https://clevelandart.org/art/1941.26.8
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13658-REC2731451,material_identity,"""etching, engraving, sulphur tint or open bite, burnishing""",https://clevelandart.org/art/1941.26.8
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13668-REC2733551,descriptive_identity,"""Garment""",https://clevelandart.org/art/2010.802.1
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13668-REC2733551,material_identity,"""cotton: reverse appliqu\u00e9, appliqu\u00e9, embroidery""",https://clevelandart.org/art/2010.802.1
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13679-REC2735791,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/1991.167
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13679-REC2735791,material_identity,"""ceramic""",https://clevelandart.org/art/1991.167
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13719-REC2743771,descriptive_identity,"""Mixed Media""",https://clevelandart.org/art/2007.121
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13719-REC2743771,material_identity,"""gelatin silver print, photogram""",https://clevelandart.org/art/2007.121
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13759-REC2751751,descriptive_identity,"""Print""",https://clevelandart.org/art/1984.92
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13759-REC2751751,material_identity,"""mezzotint""",https://clevelandart.org/art/1984.92
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13763-REC2752451,descriptive_identity,"""Lamp""",https://clevelandart.org/art/2018.281
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13763-REC2752451,material_identity,"""Leaded glass, bronze""",https://clevelandart.org/art/2018.281
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13796-REC2759171,descriptive_identity,"""Painting""",https://clevelandart.org/art/1952.153
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13796-REC2759171,material_identity,"""oil on canvas""",https://clevelandart.org/art/1952.153
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13803-REC2760571,descriptive_identity,"""Drawing""",https://clevelandart.org/art/1943.265.b
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13803-REC2760571,material_identity,"""black chalk""",https://clevelandart.org/art/1943.265.b
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13805-REC2760851,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1967.28
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13805-REC2760851,material_identity,"""bronze""",https://clevelandart.org/art/1967.28
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13814-REC2762671,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2002.70
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13814-REC2762671,material_identity,"""gelatin silver print""",https://clevelandart.org/art/2002.70
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13819-REC2763791,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13819-REC2763791,material_identity,"""stereoscopic albumen print from glass plate negative""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13829-REC2765611,descriptive_identity,"""Furniture and woodwork""",https://clevelandart.org/art/1939.179.1
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13829-REC2765611,material_identity,"""gilded wood""",https://clevelandart.org/art/1939.179.1
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13836-REC2767151,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13836-REC2767151,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13838-REC2767431,descriptive_identity,"""Lacquer""",https://clevelandart.org/art/1987.42
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13838-REC2767431,material_identity,"""lacquer with mother-of-pearl inlay""",https://clevelandart.org/art/1987.42
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13850-REC2769951,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1987.210
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13850-REC2769951,material_identity,"""silver""",https://clevelandart.org/art/1987.210
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13854-REC2770651,descriptive_identity,"""Painting""",https://clevelandart.org/art/1931.449
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13854-REC2770651,material_identity,"""oil and gold on wood""",https://clevelandart.org/art/1931.449
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13921-REC2784091,descriptive_identity,"""Garment""",https://clevelandart.org/art/1997.180
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13921-REC2784091,material_identity,"""Raffia palm fiber (Raphia ruffia or R. vinifera) and leopard claws""",https://clevelandart.org/art/1997.180
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13933-REC2786471,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13933-REC2786471,material_identity,"""stereoscopic albumen print from glass plate negative""",https://clevelandart.org/art/2019.71
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13954-REC2790671,descriptive_identity,"""Painting""",https://clevelandart.org/art/1980.187
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13954-REC2790671,material_identity,"""Handscroll; ink and color on silk""",https://clevelandart.org/art/1980.187
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13955-REC2790951,descriptive_identity,"""Textile""",https://clevelandart.org/art/1937.180
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13955-REC2790951,material_identity,"""Cotton: paired plain weave warp; linen: unbleached weft; loom width, block printed""",https://clevelandart.org/art/1937.180
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13997-REC2799351,descriptive_identity,"""Silver""",https://clevelandart.org/art/1968.242.c
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13997-REC2799351,material_identity,"""silver""",https://clevelandart.org/art/1968.242.c
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13999-REC2799771,descriptive_identity,"""Silver""",https://clevelandart.org/art/1968.242.b
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP13999-REC2799771,material_identity,"""silver""",https://clevelandart.org/art/1968.242.b
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14015-REC2802991,descriptive_identity,"""Print""",https://clevelandart.org/art/2020.65
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14015-REC2802991,material_identity,"""Set of 10 woodblock prints mounted in handscroll format, printed with water-soluble colors""",https://clevelandart.org/art/2020.65
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14020-REC2803971,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2019.145
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14020-REC2803971,material_identity,"""gelatin silver print""",https://clevelandart.org/art/2019.145
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14025-REC2804951,descriptive_identity,"""Miscellaneous""",https://clevelandart.org/art/1953.386
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14025-REC2804951,material_identity,"""horn, bone, copper, abalone shell inlay""",https://clevelandart.org/art/1953.386
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14074-REC2814611,descriptive_identity,"""Painting""",https://clevelandart.org/art/1994.3
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14074-REC2814611,material_identity,"""oil on canvas""",https://clevelandart.org/art/1994.3
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14093-REC2818531,descriptive_identity,"""Photograph""",https://clevelandart.org/art/1996.358
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14093-REC2818531,material_identity,"""gelatin silver print""",https://clevelandart.org/art/1996.358
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14103-REC2820491,descriptive_identity,"""Print""",https://clevelandart.org/art/1934.350
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14103-REC2820491,material_identity,"""etching, drypoint, and engraving""",https://clevelandart.org/art/1934.350
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14111-REC2822171,descriptive_identity,"""Garment""",https://clevelandart.org/art/1996.2.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14111-REC2822171,material_identity,"""twill damask: silk""",https://clevelandart.org/art/1996.2.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14129-REC2825671,descriptive_identity,"""Miscellaneous""",https://clevelandart.org/art/1966.500.7
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14129-REC2825671,material_identity,"""silver gilt, opaque cloisonn\u00e9 enamel""",https://clevelandart.org/art/1966.500.7
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14166-REC2833091,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2017.9
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14166-REC2833091,material_identity,"""Photographs: photographs on enamel, framed in copper alloy metal frames; hair lockets: hair with pen and black and ink on cream-colored backing; case: leather  with metal push-clasp and velvet-lined interior""",https://clevelandart.org/art/2017.9
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14169-REC2833791,descriptive_identity,"""Photograph""",https://clevelandart.org/art/1991.269
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14169-REC2833791,material_identity,"""Gelatin silver print""",https://clevelandart.org/art/1991.269
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14193-REC2838411,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1917.338
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14193-REC2838411,material_identity,"""silver bronze""",https://clevelandart.org/art/1917.338
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14195-REC2838971,descriptive_identity,"""Drawing""",https://clevelandart.org/art/1951.277
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14195-REC2838971,material_identity,"""pen and brown ink""",https://clevelandart.org/art/1951.277
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14225-REC2844991,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14225-REC2844991,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14274-REC2854651,descriptive_identity,"""Tapestry""",https://clevelandart.org/art/1985.32
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14274-REC2854651,material_identity,"""silk; slit tapestry weave (kesi)""",https://clevelandart.org/art/1985.32
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14350-REC2869911,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2020.340
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14350-REC2869911,material_identity,"""cibachrome""",https://clevelandart.org/art/2020.340
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14406-REC2881111,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/1915.712
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14406-REC2881111,material_identity,"""Tin-glazed earthenware with luster-painted design""",https://clevelandart.org/art/1915.712
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14447-REC2889231,descriptive_identity,"""Silver""",https://clevelandart.org/art/1968.242.b
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14447-REC2889231,material_identity,"""silver""",https://clevelandart.org/art/1968.242.b
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14449-REC2889651,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2019.72
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14449-REC2889651,material_identity,"""stereoscopic albumen print""",https://clevelandart.org/art/2019.72
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14462-REC2892311,descriptive_identity,"""Garment""",https://clevelandart.org/art/2010.802.1
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14462-REC2892311,material_identity,"""cotton: reverse appliqu\u00e9, appliqu\u00e9, embroidery""",https://clevelandart.org/art/2010.802.1
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14535-REC2906871,descriptive_identity,"""Garment""",https://clevelandart.org/art/1996.2.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14535-REC2906871,material_identity,"""twill damask: silk""",https://clevelandart.org/art/1996.2.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14573-REC2914431,descriptive_identity,"""Embroidery""",https://clevelandart.org/art/1955.419
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14573-REC2914431,material_identity,"""Plain weave pi\u00f1a: needle lace (drawnwork) and embroidery""",https://clevelandart.org/art/1955.419
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14610-REC2921851,descriptive_identity,"""Musical Instrument""",https://clevelandart.org/art/2020.422
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14610-REC2921851,material_identity,"""Wood; mother-of-pearl inlay""",https://clevelandart.org/art/2020.422
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14630-REC2925911,descriptive_identity,"""Silver""",https://clevelandart.org/art/1940.246
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14630-REC2925911,material_identity,"""silver""",https://clevelandart.org/art/1940.246
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14631-REC2926191,descriptive_identity,"""Bound Volume""",https://clevelandart.org/art/1947.296
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14631-REC2926191,material_identity,"""wood engraving""",https://clevelandart.org/art/1947.296
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14672-REC2934311,descriptive_identity,"""Print""",https://clevelandart.org/art/2018.299.10
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14672-REC2934311,material_identity,"""etching and aquatint""",https://clevelandart.org/art/2018.299.10
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14694-REC2938791,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/1918.455.b
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14694-REC2938791,material_identity,"""pottery""",https://clevelandart.org/art/1918.455.b
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14704-REC2940751,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14704-REC2940751,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14750-REC2949991,descriptive_identity,"""Enamel""",https://clevelandart.org/art/1940.134
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14750-REC2949991,material_identity,"""enamel on metal""",https://clevelandart.org/art/1940.134
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14753-REC2950411,descriptive_identity,"""Mixed Media""",https://clevelandart.org/art/2007.121
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14753-REC2950411,material_identity,"""gelatin silver print, photogram""",https://clevelandart.org/art/2007.121
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14795-REC2958951,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1928.193
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14795-REC2958951,material_identity,"""terracotta""",https://clevelandart.org/art/1928.193
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14815-REC2962871,descriptive_identity,"""Knitting""",https://clevelandart.org/art/1920.314
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14815-REC2962871,material_identity,"""knitting""",https://clevelandart.org/art/1920.314
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14835-REC2966931,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/1964.514
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14835-REC2966931,material_identity,"""soft-paste porcelain with enamel decoration""",https://clevelandart.org/art/1964.514
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14841-REC2968191,descriptive_identity,"""Bound Volume""",https://clevelandart.org/art/1995.54.o
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14841-REC2968191,material_identity,"""gypsograph""",https://clevelandart.org/art/1995.54.o
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14861-REC2972111,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14861-REC2972111,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14862-REC2972251,descriptive_identity,"""Garment""",https://clevelandart.org/art/1974.1058
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14862-REC2972251,material_identity,"""Probably cotton and silver-plated copper foil""",https://clevelandart.org/art/1974.1058
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14891-REC2978131,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/2022.38
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14891-REC2978131,material_identity,"""Gilt silver (body) and brass (trefoil-shaped ring)""",https://clevelandart.org/art/2022.38
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14898-REC2979531,descriptive_identity,"""Painting""",https://clevelandart.org/art/1952.153
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14898-REC2979531,material_identity,"""oil on canvas""",https://clevelandart.org/art/1952.153
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14913-REC2982471,descriptive_identity,"""Furniture and woodwork""",https://clevelandart.org/art/1949.539.b
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14913-REC2982471,material_identity,"""ebony, marquetry in metal and tortoiseshell""",https://clevelandart.org/art/1949.539.b
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14919-REC2983731,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14919-REC2983731,material_identity,"""bronze""",https://clevelandart.org/art/1998.77.2
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14956-REC2991151,descriptive_identity,"""Drawing""",https://clevelandart.org/art/1943.265.b
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP14956-REC2991151,material_identity,"""black chalk""",https://clevelandart.org/art/1943.265.b
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15049-REC3009771,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/2012.115
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15049-REC3009771,material_identity,"""Murano glass""",https://clevelandart.org/art/2012.115
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15059-REC3011731,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1926.54
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15059-REC3011731,material_identity,"""bronze with silver inlay""",https://clevelandart.org/art/1926.54
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15317-REC3063251,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1986.182
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15317-REC3063251,material_identity,"""silver""",https://clevelandart.org/art/1986.182
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15360-REC3071931,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1952.85
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15360-REC3071931,material_identity,"""Gold""",https://clevelandart.org/art/1952.85
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15380-REC3075851,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2016.460
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15380-REC3075851,material_identity,"""gelatin silver print on vellum""",https://clevelandart.org/art/2016.460
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15539-REC3107771,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1996.267.1
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15539-REC3107771,material_identity,"""Wood, kaolin, and paint""",https://clevelandart.org/art/1996.267.1
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15627-REC3125271,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1917.338
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15627-REC3125271,material_identity,"""silver bronze""",https://clevelandart.org/art/1917.338
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15745-REC3148931,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1916.1639
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15745-REC3148931,material_identity,"""steel""",https://clevelandart.org/art/1916.1639
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15850-REC3169931,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1916.1639
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15850-REC3169931,material_identity,"""steel""",https://clevelandart.org/art/1916.1639
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15913-REC3182531,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1950.386
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15913-REC3182531,material_identity,"""hammered gold""",https://clevelandart.org/art/1950.386
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15969-REC3193731,descriptive_identity,"""Print""",https://clevelandart.org/art/2018.301
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP15969-REC3193731,material_identity,"""etching and drypoint on antique laid paper""",https://clevelandart.org/art/2018.301
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16103-REC3220471,descriptive_identity,"""Print""",https://clevelandart.org/art/2024.47
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16103-REC3220471,material_identity,"""lithograph""",https://clevelandart.org/art/2024.47
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16169-REC3233771,descriptive_identity,"""Stone""",https://clevelandart.org/art/1951.178
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16169-REC3233771,material_identity,"""stone""",https://clevelandart.org/art/1951.178
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16315-REC3262891,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1989.3
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16315-REC3262891,material_identity,"""bronze""",https://clevelandart.org/art/1989.3
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16442-REC3288371,descriptive_identity,"""Painting""",https://clevelandart.org/art/1994.3
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16442-REC3288371,material_identity,"""oil on canvas""",https://clevelandart.org/art/1994.3
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16443-REC3288511,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1959.187
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16443-REC3288511,material_identity,"""painted sandstone""",https://clevelandart.org/art/1959.187
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16444-REC3288651,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.156
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16444-REC3288651,material_identity,"""painted limestone""",https://clevelandart.org/art/1987.156
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16476-REC3295091,descriptive_identity,"""Painting""",https://clevelandart.org/art/1970.161
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16476-REC3295091,material_identity,"""oil on canvas""",https://clevelandart.org/art/1970.161
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16499-REC3299711,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1960.56
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16499-REC3299711,material_identity,"""granodiorite""",https://clevelandart.org/art/1960.56
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16518-REC3303491,descriptive_identity,"""Portrait Miniature""",https://clevelandart.org/art/1941.561
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16518-REC3303491,material_identity,"""watercolor on ivory in a gold frame with glazed reverse""",https://clevelandart.org/art/1941.561
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16587-REC3317351,descriptive_identity,"""Amulets""",https://clevelandart.org/art/1980.123
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16587-REC3317351,material_identity,"""polychrome faience""",https://clevelandart.org/art/1980.123
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16604-REC3320711,descriptive_identity,"""Painting""",https://clevelandart.org/art/1970.161
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16604-REC3320711,material_identity,"""oil on canvas""",https://clevelandart.org/art/1970.161
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16623-REC3324491,descriptive_identity,"""Lace""",https://clevelandart.org/art/1924.423
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16623-REC3324491,material_identity,"""Bobbin lace (Duchese lace)""",https://clevelandart.org/art/1924.423
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16654-REC3330651,descriptive_identity,"""Print""",https://clevelandart.org/art/2005.431
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16654-REC3330651,material_identity,"""color woodcut""",https://clevelandart.org/art/2005.431
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16708-REC3341431,descriptive_identity,"""Ivory""",https://clevelandart.org/art/1925.1293
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16708-REC3341431,material_identity,"""ivory""",https://clevelandart.org/art/1925.1293
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16713-REC3342551,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1916.658
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16713-REC3342551,material_identity,"""gold""",https://clevelandart.org/art/1916.658
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16832-REC3366351,descriptive_identity,"""Jade""",https://clevelandart.org/art/2009.83
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16832-REC3366351,material_identity,"""jade (nephrite)""",https://clevelandart.org/art/2009.83
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16939-REC3387631,descriptive_identity,"""Print""",https://clevelandart.org/art/2005.431
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16939-REC3387631,material_identity,"""color woodcut""",https://clevelandart.org/art/2005.431
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16942-REC3388331,descriptive_identity,"""Arms and Armor""",https://clevelandart.org/art/1915.619
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16942-REC3388331,material_identity,"""bronze""",https://clevelandart.org/art/1915.619
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16979-REC3395611,descriptive_identity,"""Painting""",https://clevelandart.org/art/1963.501
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP16979-REC3395611,material_identity,"""oil on canvas""",https://clevelandart.org/art/1963.501
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP17051-REC3410031,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/2022.158.b
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP17051-REC3410031,material_identity,"""Porcelain with underglaze blue""",https://clevelandart.org/art/2022.158.b
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP17078-REC3415491,descriptive_identity,"""Ivory""",https://clevelandart.org/art/1975.258
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP17078-REC3415491,material_identity,"""walrus ivory""",https://clevelandart.org/art/1975.258
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP17098-REC3419551,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1935.310
+IDB-REG_01-CAT_13-ERA_02-1650-ACC04-HOP17098-REC3419551,material_identity,"""Gold""",https://clevelandart.org/art/1935.310
