@@ -1,0 +1,2 @@
+Attempted to query Wikidata SPARQL, Smithsonian Open Access API, and Met Museum API.
+Could not find reliable unambiguous matches for the generic titles (e.g. 'drawing', 'postcard') and the identifiers did not match standard formats in the queried APIs, yielding no sourced values.
