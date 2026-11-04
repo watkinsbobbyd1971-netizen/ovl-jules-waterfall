@@ -1,0 +1,4 @@
+Searched Wikidata via SPARQL (HTTP 429).
+Searched English Wikipedia via API (HTTP 429).
+Searched Getty Vocabularies ULAN via HTML scraping and LOD (HTTP 403 Forbidden).
+Could not locate structured verfiable facts for these entities due to severe rate limits/blocks on APIs and ambiguous subject names. Submitting empty batch as permitted by AGENTS.md rule 5.
