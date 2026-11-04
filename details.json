@@ -1,0 +1,182 @@
+{
+  "entities": {
+    "Q126816734": {
+      "pageid": 120826584,
+      "ns": 0,
+      "title": "Q126816734",
+      "lastrevid": 2225997937,
+      "modified": "2024-08-12T21:03:56Z",
+      "type": "item",
+      "id": "Q126816734",
+      "labels": {
+        "gl": {
+          "language": "gl",
+          "value": "casa consistorial de Lobras"
+        },
+        "es": {
+          "language": "es",
+          "value": "casa consistorial de Lobras"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "casa consistorial de Lobras"
+        },
+        "en": {
+          "language": "en",
+          "value": "Lobras town hall"
+        }
+      },
+      "descriptions": {
+        "gl": {
+          "language": "gl",
+          "value": "edificio sede do Concello de Lobras"
+        },
+        "es": {
+          "language": "es",
+          "value": "edificio sede del Ayuntamiento de Lobras"
+        },
+        "ca": {
+          "language": "ca",
+          "value": "edifici seu de l'Ajuntament de Lobras"
+        },
+        "en": {
+          "language": "en",
+          "value": "municipal building in Lobras, Spain"
+        }
+      },
+      "aliases": {},
+      "claims": {
+        "P466": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P466",
+              "hash": "de19f80b37c4b645a8da6cd70fda7bb8881997a1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 126478993,
+                  "id": "Q126478993"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q126816734$50BB4DE6-E38E-478F-9DE8-6FD7977530C7",
+            "rank": "normal"
+          }
+        ],
+        "P127": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P127",
+              "hash": "db019b34a48d92ebeced648ef82da14ef2671937",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 126478993,
+                  "id": "Q126478993"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q126816734$7D973E80-AB38-4175-BBBF-094E3D0E3BED",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "69df494d7fa0613c7bd8f047afc1e87bdc03a0f2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 29,
+                  "id": "Q29"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q126816734$DFB1BFCC-657E-412E-A285-A15395C8988F",
+            "rank": "normal"
+          }
+        ],
+        "P131": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "3709af6b2d3327b8ba3c3d39cffefe9f3d015d83",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 582987,
+                  "id": "Q582987"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q126816734$485A130B-08F0-49A9-93A0-A7FEEF81C38A",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "faf06f668d74e2f4a80ad357a2acaa29f68c9802",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 112793351,
+                  "id": "Q112793351"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q126816734$D01E4969-514F-4691-8B26-FE510C988915",
+            "rank": "normal"
+          }
+        ],
+        "P625": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "1cedf5c59e0d5e4f94c7ca9bae96103d5715ec00",
+              "datavalue": {
+                "value": {
+                  "latitude": 36.9292554,
+                  "longitude": -3.2126256,
+                  "altitude": null,
+                  "precision": 1e-05,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "id": "Q126816734$58F47449-B1B0-434E-9E1C-CFB605877479",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {}
+    }
+  },
+  "success": 1
+}
