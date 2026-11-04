@@ -1,0 +1,23 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB36-ENT-WRD-0000014,descriptive_identity,"""magazine""",https://www.wikidata.org/wiki/Q463198
+LIBSRC-LIB36-ENT-WRD-0000023,component_relationship,"""physical substance""",https://www.wikidata.org/wiki/Q223557
+LIBSRC-LIB36-ENT-WRD-0000023,descriptive_identity,"""type of object""",https://www.wikidata.org/wiki/Q223557
+LIBSRC-LIB36-ENT-WRD-0000140,descriptive_identity,"""emergency landing""",https://www.wikidata.org/wiki/Q1975745
+LIBSRC-LIB36-ENT-WRD-0000181,component_relationship,"""Kirk Hammett""",https://www.wikidata.org/wiki/Q728170
+LIBSRC-LIB36-ENT-WRD-0000181,component_relationship,"""Jason Newsted""",https://www.wikidata.org/wiki/Q728170
+LIBSRC-LIB36-ENT-WRD-0000181,component_relationship,"""Rob McKillop""",https://www.wikidata.org/wiki/Q728170
+LIBSRC-LIB36-ENT-WRD-0000181,component_relationship,"""Perry Strickland""",https://www.wikidata.org/wiki/Q728170
+LIBSRC-LIB36-ENT-WRD-0000008,component_relationship,"""cell""",https://www.wikidata.org/wiki/Q7239
+LIBSRC-LIB36-ENT-WRD-0000008,component_relationship,"""organ system""",https://www.wikidata.org/wiki/Q7239
+LIBSRC-LIB36-ENT-WRD-0000043,component_relationship,"""beginning""",https://www.wikidata.org/wiki/Q3249551
+LIBSRC-LIB36-ENT-WRD-0000043,component_relationship,"""central part""",https://www.wikidata.org/wiki/Q3249551
+LIBSRC-LIB36-ENT-WRD-0000046,descriptive_identity,"""type of object""",https://www.wikidata.org/wiki/Q930933
+LIBSRC-LIB36-ENT-WRD-0000046,descriptive_identity,"""property""",https://www.wikidata.org/wiki/Q930933
+LIBSRC-LIB36-ENT-WRD-0001492,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q5027730
+LIBSRC-LIB36-ENT-WRD-0001456,descriptive_identity,"""type of sport""",https://www.wikidata.org/wiki/Q1194872
+LIBSRC-LIB36-ENT-WRD-0001456,descriptive_identity,"""aerial sport""",https://www.wikidata.org/wiki/Q1194872
+LIBSRC-LIB36-ENT-WRD-0002139,descriptive_identity,"""bodyweight exercise""",https://www.wikidata.org/wiki/Q43417
+LIBSRC-LIB36-ENT-WRD-0002139,descriptive_identity,"""weight training exercise""",https://www.wikidata.org/wiki/Q43417
+LIBSRC-LIB36-ENT-WRD-0002160,component_relationship,"""blade""",https://www.wikidata.org/wiki/Q40847
+LIBSRC-LIB36-ENT-WRD-0002517,descriptive_identity,"""commune of France""",https://www.wikidata.org/wiki/Q496066
+LIBSRC-LIB36-ENT-WRD-0002532,component_relationship,"""player""",https://www.wikidata.org/wiki/Q11410
