@@ -1,0 +1,68 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB39-ENT-AAT-0021835,descriptive_identity,"""sensor""",http://www.wikidata.org/entity/Q7075748
+LIBSRC-LIB39-ENT-AAT-0026237,component_relationship,"""copying""",http://www.wikidata.org/entity/Q194274
+LIBSRC-LIB43-ENT-OBJ-0004527,descriptive_identity,"""optical heart rate sensor band""",http://www.wikidata.org/entity/Q110505367
+LIBSRC-LIB43-ENT-OBJ-0033687,descriptive_identity,"""computer hardware""",http://www.wikidata.org/entity/Q108392067
+LIBSRC-LIB43-ENT-OBJ-0033701,descriptive_identity,"""microprocessor""",http://www.wikidata.org/entity/Q108485599
+LIBSRC-LIB43-ENT-OBJ-0034333,descriptive_identity,"""single-board computer""",http://www.wikidata.org/entity/Q110233532
+LIBSRC-LIB43-ENT-OBJ-0034333,manufacturer_or_creator,"""Leaflabs (United States)""",http://www.wikidata.org/entity/Q110233532
+LIBSRC-LIB43-ENT-OBJ-0038823,manufacturer_or_creator,"""Cyrix""",http://www.wikidata.org/entity/Q1148853
+LIBSRC-LIB43-ENT-OBJ-0038823,descriptive_identity,"""microprocessor""",http://www.wikidata.org/entity/Q1148853
+LIBSRC-LIB43-ENT-OBJ-0038956,manufacturer_or_creator,"""Canon Inc.""",http://www.wikidata.org/entity/Q115620997
+LIBSRC-LIB43-ENT-OBJ-0055050,descriptive_identity,"""radio telescope""",http://www.wikidata.org/entity/Q118974871
+LIBSRC-LIB43-ENT-OBJ-0055051,descriptive_identity,"""radio telescope""",http://www.wikidata.org/entity/Q118976477
+LIBSRC-LIB43-ENT-OBJ-0061640,manufacturer_or_creator,"""First Moscow radio component plant""",http://www.wikidata.org/entity/Q130404160
+LIBSRC-LIB43-ENT-OBJ-0061649,manufacturer_or_creator,"""Rodon""",http://www.wikidata.org/entity/Q130410893
+LIBSRC-LIB43-ENT-OBJ-0063964,manufacturer_or_creator,"""Q52152""",http://www.wikidata.org/entity/Q136214553
+LIBSRC-LIB43-ENT-OBJ-0068235,descriptive_identity,"""radio telescope""",http://www.wikidata.org/entity/Q1590725
+LIBSRC-LIB43-ENT-OBJ-0068533,manufacturer_or_creator,"""Arduino LLC""",http://www.wikidata.org/entity/Q16626381
+LIBSRC-LIB43-ENT-OBJ-0069828,descriptive_identity,"""radio interferometer""",http://www.wikidata.org/entity/Q1960708
+LIBSRC-LIB43-ENT-OBJ-0070929,descriptive_identity,"""microprocessor""",http://www.wikidata.org/entity/Q2258413
+LIBSRC-LIB43-ENT-OBJ-0071462,descriptive_identity,"""radio telescope""",http://www.wikidata.org/entity/Q24936661
+LIBSRC-LIB43-ENT-OBJ-0073753,descriptive_identity,"""floating-point unit""",http://www.wikidata.org/entity/Q2716936
+LIBSRC-LIB43-ENT-OBJ-0073753,manufacturer_or_creator,"""Intel""",http://www.wikidata.org/entity/Q2716936
+LIBSRC-LIB43-ENT-OBJ-0073907,descriptive_identity,"""radio telescope""",http://www.wikidata.org/entity/Q28132285
+LIBSRC-LIB43-ENT-OBJ-0073945,manufacturer_or_creator,"""Honeywell""",http://www.wikidata.org/entity/Q28233306
+LIBSRC-LIB43-ENT-OBJ-0073984,descriptive_identity,"""radio telescope""",http://www.wikidata.org/entity/Q28415915
+LIBSRC-LIB43-ENT-OBJ-0082544,descriptive_identity,"""chipset""",http://www.wikidata.org/entity/Q379289
+LIBSRC-LIB43-ENT-OBJ-0082549,descriptive_identity,"""file system""",http://www.wikidata.org/entity/Q379528
+LIBSRC-LIB43-ENT-OBJ-0082551,descriptive_identity,"""dot matrix impact printer""",http://www.wikidata.org/entity/Q3796541
+LIBSRC-LIB43-ENT-OBJ-0082551,manufacturer_or_creator,"""Apple Inc.""",http://www.wikidata.org/entity/Q3796541
+LIBSRC-LIB43-ENT-OBJ-0082670,manufacturer_or_creator,"""Olivetti""",http://www.wikidata.org/entity/Q3881831
+LIBSRC-LIB43-ENT-OBJ-0082694,descriptive_identity,"""microprocessor""",http://www.wikidata.org/entity/Q390864
+LIBSRC-LIB43-ENT-OBJ-0083603,descriptive_identity,"""radio telescope""",http://www.wikidata.org/entity/Q4638873
+LIBSRC-LIB43-ENT-OBJ-0083620,descriptive_identity,"""single-board computer""",http://www.wikidata.org/entity/Q4655065
+LIBSRC-LIB43-ENT-OBJ-0083816,descriptive_identity,"""radio telescope""",http://www.wikidata.org/entity/Q47540080
+LIBSRC-LIB43-ENT-OBJ-0084911,manufacturer_or_creator,"""Western Design Center""",http://www.wikidata.org/entity/Q512020
+LIBSRC-LIB43-ENT-OBJ-0085148,descriptive_identity,"""file system""",http://www.wikidata.org/entity/Q5281381
+LIBSRC-LIB43-ENT-OBJ-0086126,manufacturer_or_creator,"""European Space Agency""",http://www.wikidata.org/entity/Q56273858
+LIBSRC-LIB43-ENT-OBJ-0087827,descriptive_identity,"""microprocessor""",http://www.wikidata.org/entity/Q5969193
+LIBSRC-LIB43-ENT-OBJ-0090720,descriptive_identity,"""radio interferometer""",http://www.wikidata.org/entity/Q6807657
+LIBSRC-LIB43-ENT-OBJ-0091627,descriptive_identity,"""sound card""",http://www.wikidata.org/entity/Q741993
+LIBSRC-LIB43-ENT-OBJ-0091632,descriptive_identity,"""radio telescope""",http://www.wikidata.org/entity/Q742486
+LIBSRC-LIB43-ENT-OBJ-0091876,descriptive_identity,"""sound card""",http://www.wikidata.org/entity/Q7798958
+LIBSRC-LIB43-ENT-OBJ-0091876,manufacturer_or_creator,"""Media Vision""",http://www.wikidata.org/entity/Q7798958
+LIBSRC-LIB43-ENT-OBJ-0092400,descriptive_identity,"""radio telescope""",http://www.wikidata.org/entity/Q7969476
+LIBSRC-LIB43-ENT-OBJ-0092410,descriptive_identity,"""computer key""",http://www.wikidata.org/entity/Q798515
+LIBSRC-LIB43-ENT-OBJ-0097928,descriptive_identity,"""sundial""",http://www.wikidata.org/entity/Q99569950
+IDB-REG10-CAT04-ERA06-2016-OSIRIS-REX,component_relationship,"""OSIRIS-REx Sample Return Capsule""",http://www.wikidata.org/entity/Q604428
+IDB-REG10-CAT04-ERA06-2016-OSIRIS-REX,manufacturer_or_creator,"""Lockheed Martin Space""",http://www.wikidata.org/entity/Q604428
+IDB-REG10-CAT04-ERA06-2018-BEPICOLOMBO,descriptive_identity,"""space mission""",http://www.wikidata.org/entity/Q113169
+IDB-REG10-CAT04-ERA06-2014-HAYABUSA2,manufacturer_or_creator,"""Japan Aerospace Exploration Agency""",http://www.wikidata.org/entity/Q2113134
+IDB-REG10-CAT04-ERA06-2000S-AUSTRALIAN-SQUARE-KILOMETRE-ARRAY-PATHFINDER-CSIRO,descriptive_identity,"""radio interferometer""",http://www.wikidata.org/entity/Q3917556
+IDB-REG10-CAT04-ERA06-2010S-MOTOROLA-XOOM,manufacturer_or_creator,"""Q934853""",http://www.wikidata.org/entity/Q1056960
+IDB-REG10-CAT04-ERA06-2010S-MOTOROLA-XOOM,mass,730,http://www.wikidata.org/entity/Q1056960
+IDB-REG10-CAT04-ERA06-2010S-SAMSUNG-GALAXY-TAB-3-7-0,manufacturer_or_creator,"""Samsung Electronics""",http://www.wikidata.org/entity/Q14506815
+IDB-REG10-CAT04-ERA06-2010S-HTC-ONE-X,mass,130,http://www.wikidata.org/entity/Q696371
+IDB-REG10-CAT04-ERA06-2010S-HTC-ONE-X,manufacturer_or_creator,"""HTC""",http://www.wikidata.org/entity/Q696371
+IDB-REG10-CAT04-ERA06-2016-BIGELOW-EXPANDABLE-ACTIVITY-MODULE,descriptive_identity,"""International Space Station experiment""",http://www.wikidata.org/entity/Q114814769
+CAT04_REG_10_ERA_03_1993_bourse_de_bruxelles_comit_de_la_cote_ent_obj_0002740,mass,12.3,http://www.wikidata.org/entity/Q101197796
+CAT04_REG_10_ERA_03_1997_souvenir_de_19_cercle_sportive_du_cr_dit_a_ent_obj_0002810,mass,3.51,http://www.wikidata.org/entity/Q101223658
+CAT04_REG_10_ERA_05_2023_reconnaissance_de_la_commune_de_houx_ses_v_ent_obj_0002770,mass,9.9,http://www.wikidata.org/entity/Q101200501
+CAT06_REG_10_ERA_01_1973_evisceration_ent_wrd_0001730,descriptive_identity,"""eye surgery""",http://www.wikidata.org/entity/Q3507435
+CAT06_REG_10_ERA_01_1987_embrace_ent_wrd_0000820,descriptive_identity,"""hug""",http://www.wikidata.org/entity/Q111207089
+CAT06_REG_10_ERA_02_1965_rent_ent_wrd_0001920,descriptive_identity,"""money""",http://www.wikidata.org/entity/Q131625983
+CAT06_REG_10_ERA_02_2013_melee_ent_wrd_0002760,descriptive_identity,"""combat""",http://www.wikidata.org/entity/Q1293039
+CAT06_REG_10_ERA_02_2017_forehand_ent_wrd_0002830,descriptive_identity,"""tennis shot""",http://www.wikidata.org/entity/Q1333285
+DRV-CORPUS-L03-0019991,descriptive_identity,"""new religious movement""",http://www.wikidata.org/entity/Q11419029
+DRV-CORPUS-L03-0033102,descriptive_identity,"""Christian hymn""",http://www.wikidata.org/entity/Q10551758
