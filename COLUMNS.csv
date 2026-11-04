@@ -1,0 +1,11 @@
+column_name,data_type,unit,description
+amount_basis,JSON,,value types: string
+descriptive_identity,JSON,,value types: string
+food_energy,JSON,kcal,value types: number
+food_identity,JSON,,value types: string
+identity_label,JSON,,value types: string
+ingredient_relationship,JSON,,value types: string
+nutrient_activity,JSON,IU,value types: number
+nutrient_mass,JSON,g,value types: number
+portion_mass,JSON,g,value types: number
+preparation,JSON,,value types: string
