@@ -1,0 +1,57 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB44-ENT-VEH-0011185,manufacturer_or_creator,"""Japan Marine United Corporation""",https://www.wikidata.org/wiki/Q101925267
+LIBSRC-LIB44-ENT-VEH-0011190,manufacturer_or_creator,"""Imabari Shipbuilding""",https://www.wikidata.org/wiki/Q101925496
+LIBSRC-LIB44-ENT-VEH-0053590,manufacturer_or_creator,"""Imabari Shipbuilding Marugame Headquarters""",https://www.wikidata.org/wiki/Q117028593
+LIBSRC-LIB44-ENT-VEH-0055811,manufacturer_or_creator,"""Imabari Shipbuilding Hiroshima Shipyard""",https://www.wikidata.org/wiki/Q117067670
+LIBSRC-LIB44-ENT-VEH-0064251,manufacturer_or_creator,"""HD Hyundai Mipo""",https://www.wikidata.org/wiki/Q117110568
+LIBSRC-LIB44-ENT-VEH-0086390,manufacturer_or_creator,"""Ferus Smit""",https://www.wikidata.org/wiki/Q124743690
+IDB-REG03-CAT08-ERA06-2010S-L-SAMUEL-BECKETT,manufacturer_or_creator,"""Babcock International""",https://www.wikidata.org/wiki/Q15861613
+IDB-REG03-CAT08-ERA06-2010S-MEIN-SCHIFF-3,manufacturer_or_creator,"""STX Finland""",https://www.wikidata.org/wiki/Q16323072
+IDB-REG03-CAT08-ERA06-2010S-GERMAN-FRIGATE-BADEN-W-RTTEMBERG,manufacturer_or_creator,"""Blohm+Voss""",https://www.wikidata.org/wiki/Q21036291
+LIBSRC-LIB44-ENT-VEH-0124595,manufacturer_or_creator,"""Yangzhou Binjiang Shipbuilding""",https://www.wikidata.org/wiki/Q83637784
+LIBSRC-LIB44-ENT-VEH-0124622,manufacturer_or_creator,"""HHIC Phil""",https://www.wikidata.org/wiki/Q83637834
+IDB-REG03-CAT08-ERA06-2010S-MV-SOUND-OF-SOAY,manufacturer_or_creator,"""Cammell Laird""",https://www.wikidata.org/wiki/Q83641260
+LIBSRC-LIB44-ENT-VEH-0128786,manufacturer_or_creator,"""Tsuneishi Shipbuilding""",https://www.wikidata.org/wiki/Q83647131
+LIBSRC-LIB44-ENT-VEH-0130133,manufacturer_or_creator,"""Imabari Shipbuilding""",https://www.wikidata.org/wiki/Q83651234
+LIBSRC-LIB44-ENT-VEH-0133754,manufacturer_or_creator,"""Eastern Shipbuilding Group""",https://www.wikidata.org/wiki/Q84258641
+LIBSRC-LIB44-ENT-VEH-0135025,manufacturer_or_creator,"""China Shipbuilding Industry Corporation""",https://www.wikidata.org/wiki/Q97998501
+LIBSRC-LIB44-ENT-VEH-0011190,dimension_length,200000.0,https://www.wikidata.org/wiki/Q101925496
+LIBSRC-LIB44-ENT-VEH-0039085,dimension_length,245000.0,https://www.wikidata.org/wiki/Q105769479
+LIBSRC-LIB44-ENT-VEH-0039178,dimension_length,189900.0,https://www.wikidata.org/wiki/Q105769632
+LIBSRC-LIB44-ENT-VEH-0053528,dimension_length,292000.0,https://www.wikidata.org/wiki/Q117028527
+LIBSRC-LIB44-ENT-VEH-0053534,dimension_length,339000.0,https://www.wikidata.org/wiki/Q117028534
+LIBSRC-LIB44-ENT-VEH-0053540,dimension_length,224000.0,https://www.wikidata.org/wiki/Q117028540
+LIBSRC-LIB44-ENT-VEH-0053590,dimension_length,224000.0,https://www.wikidata.org/wiki/Q117028593
+LIBSRC-LIB44-ENT-VEH-0053646,dimension_length,295000.0,https://www.wikidata.org/wiki/Q117028650
+LIBSRC-LIB44-ENT-VEH-0055811,dimension_length,224000.0,https://www.wikidata.org/wiki/Q117067670
+LIBSRC-LIB44-ENT-VEH-0064137,dimension_length,78000.0,https://www.wikidata.org/wiki/Q117110289
+LIBSRC-LIB44-ENT-VEH-0064251,dimension_length,146000.0,https://www.wikidata.org/wiki/Q117110568
+LIBSRC-LIB44-ENT-VEH-0064286,dimension_length,199000.0,https://www.wikidata.org/wiki/Q117110645
+LIBSRC-LIB44-ENT-VEH-0064304,dimension_length,180000.0,https://www.wikidata.org/wiki/Q117110678
+LIBSRC-LIB44-ENT-VEH-0086390,dimension_length,122000.0,https://www.wikidata.org/wiki/Q124743690
+IDB-REG03-CAT08-ERA06-2010S-L-SAMUEL-BECKETT,dimension_length,89500.0,https://www.wikidata.org/wiki/Q15861613
+IDB-REG03-CAT08-ERA06-2010S-MEIN-SCHIFF-3,dimension_length,293200.0,https://www.wikidata.org/wiki/Q16323072
+IDB-REG03-CAT08-ERA06-2010S-GERMAN-FRIGATE-BADEN-W-RTTEMBERG,dimension_length,149520.0,https://www.wikidata.org/wiki/Q21036291
+LIBSRC-LIB44-ENT-VEH-0124595,dimension_length,199990.0,https://www.wikidata.org/wiki/Q83637784
+LIBSRC-LIB44-ENT-VEH-0124622,dimension_length,255000.0,https://www.wikidata.org/wiki/Q83637834
+LIBSRC-LIB44-ENT-VEH-0126117,dimension_length,74950.0,https://www.wikidata.org/wiki/Q83640443
+IDB-REG03-CAT08-ERA06-2010S-MV-SOUND-OF-SOAY,dimension_length,48600.0,https://www.wikidata.org/wiki/Q83641260
+LIBSRC-LIB44-ENT-VEH-0128786,dimension_length,189990.0,https://www.wikidata.org/wiki/Q83647131
+LIBSRC-LIB44-ENT-VEH-0130133,dimension_length,179970.0,https://www.wikidata.org/wiki/Q83651234
+LIBSRC-LIB44-ENT-VEH-0133744,dimension_length,199900.0,https://www.wikidata.org/wiki/Q84258615
+LIBSRC-LIB44-ENT-VEH-0133754,dimension_length,86560.0,https://www.wikidata.org/wiki/Q84258641
+LIBSRC-LIB44-ENT-VEH-0134094,dimension_length,57200.0,https://www.wikidata.org/wiki/Q84260467
+LIBSRC-LIB44-ENT-VEH-0134733,dimension_length,193840.0,https://www.wikidata.org/wiki/Q84262178
+LIBSRC-LIB44-ENT-VEH-0135874,dimension_length,179900.0,https://www.wikidata.org/wiki/Q84607922
+LIBSRC-LIB44-ENT-VEH-0138367,dimension_length,144380.0,https://www.wikidata.org/wiki/Q85981814
+LIBSRC-LIB44-ENT-VEH-0135025,dimension_length,269670.0,https://www.wikidata.org/wiki/Q97998501
+LIBSRC-LIB44-ENT-VEH-0011520,manufacturer_or_creator,"""Usuki Shipyard""",https://www.wikidata.org/wiki/Q103331797
+LIBSRC-LIB44-ENT-VEH-0029043,manufacturer_or_creator,"""Shin Kurushima Dockyard""",https://www.wikidata.org/wiki/Q104034364
+LIBSRC-LIB44-ENT-VEH-0029084,manufacturer_or_creator,"""Japan Marine United Corporation""",https://www.wikidata.org/wiki/Q104034428
+LIBSRC-LIB44-ENT-VEH-0029086,manufacturer_or_creator,"""Japan Marine United Corporation""",https://www.wikidata.org/wiki/Q104034431
+LIBSRC-LIB44-ENT-VEH-0029027,dimension_length,183000.0,https://www.wikidata.org/wiki/Q104034339
+LIBSRC-LIB44-ENT-VEH-0029043,dimension_length,199000.0,https://www.wikidata.org/wiki/Q104034364
+LIBSRC-LIB44-ENT-VEH-0029061,dimension_length,179900.0,https://www.wikidata.org/wiki/Q104034392
+LIBSRC-LIB44-ENT-VEH-0029084,dimension_length,291900.0,https://www.wikidata.org/wiki/Q104034428
+LIBSRC-LIB44-ENT-VEH-0029086,dimension_length,291900.0,https://www.wikidata.org/wiki/Q104034431
+LIBSRC-LIB44-ENT-VEH-0029111,dimension_length,325000.0,https://www.wikidata.org/wiki/Q104034714
