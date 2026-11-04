@@ -1,0 +1,8 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB36-ENT-WRD-0033733,descriptive_identity,"""supercomputer""",https://www.wikidata.org/wiki/Q74339224
+LIBSRC-LIB36-ENT-WRD-0033733,manufacturer_or_creator,"""Hewlett Packard Enterprise""",https://www.wikidata.org/wiki/Q74339224
+LIBSRC-LIB36-ENT-WRD-0033733,operating_state,"""SUSE Linux Enterprise Server""",https://www.wikidata.org/wiki/Q74339224
+LIBSRC-LIB36-ENT-WRD-0033883,descriptive_identity,"""electronic component""",https://www.wikidata.org/wiki/Q947546
+LIBSRC-LIB36-ENT-WRD-0037305,descriptive_identity,"""pipe-laying ship""",https://www.wikidata.org/wiki/Q117036829
+LIBSRC-LIB36-ENT-WRD-0037305,dimension_length,122000,https://www.wikidata.org/wiki/Q117036829
+LIBSRC-LIB36-ENT-WRD-0045008,descriptive_identity,"""machine""",https://www.wikidata.org/wiki/Q11019
