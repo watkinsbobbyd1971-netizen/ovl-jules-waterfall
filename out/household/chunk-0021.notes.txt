@@ -1,0 +1,3 @@
+Smithsonian Open Access API returned 429 Too Many Requests after implementing exponential backoff retry logic.
+Wikidata SPARQL returned 429 Too Many Requests.
+Wikidata SPARQL returned no results for specific ID searches using wdt:P217.
