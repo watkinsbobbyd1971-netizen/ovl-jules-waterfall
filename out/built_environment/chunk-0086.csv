@@ -1,0 +1,374 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP509-REC101665,construction_date,"""1995-01-01""",http://www.wikidata.org/entity/Q881790
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP509-REC101665,creator_or_attribution,"""Karl-Heinz Petzinka""",http://www.wikidata.org/entity/Q881790
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP514-REC102715,construction_date,"""1992-01-01""",http://www.wikidata.org/entity/Q113149786
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP525-REC104815,construction_date,"""1907-01-01""",http://www.wikidata.org/entity/Q6674119
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP577-REC115315,creator_or_attribution,"""Abscis Architecten""",http://www.wikidata.org/entity/Q104962575
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP498-REC99565,construction_date,"""1937-01-01""",http://www.wikidata.org/entity/Q65119523
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP497-REC99355,construction_date,"""1927-01-01""",http://www.wikidata.org/entity/Q5655822
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP498-REC99565,material_identity,"""stone""",http://www.wikidata.org/entity/Q65119523
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP587-REC117205,construction_date,"""1902-01-01""",http://www.wikidata.org/entity/Q111513054
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP578-REC115525,construction_date,"""1990-01-01""",http://www.wikidata.org/entity/Q105732732
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP587-REC117205,component_relationship,"""University of Toronto""",http://www.wikidata.org/entity/Q111513054
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP587-REC117205,creator_or_attribution,"""Darling and Pearson""",http://www.wikidata.org/entity/Q111513054
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP578-REC115525,creator_or_attribution,"""Mitchell/Giurgola""",http://www.wikidata.org/entity/Q105732732
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP667-REC133375,construction_date,"""1903-01-01""",http://www.wikidata.org/entity/Q1069054
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP652-REC130225,construction_date,"""1989-01-01""",http://www.wikidata.org/entity/Q106421324
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP597-REC119305,construction_date,"""1915-01-01""",http://www.wikidata.org/entity/Q123279378
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP597-REC119305,creator_or_attribution,"""Ernest Coxhead""",http://www.wikidata.org/entity/Q123279378
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP659-REC131695,construction_date,"""1975-01-01""",http://www.wikidata.org/entity/Q12058035
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP654-REC130645,construction_date,"""1866-01-01""",http://www.wikidata.org/entity/Q109771736
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP595-REC118885,construction_date,"""1344-01-01""",http://www.wikidata.org/entity/Q12192652
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP595-REC118885,component_relationship,"""Medina of Fez""",http://www.wikidata.org/entity/Q12192652
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP594-REC118675,construction_date,"""1930-01-01""",http://www.wikidata.org/entity/Q11838972
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP591-REC118045,construction_date,"""1916-01-01""",http://www.wikidata.org/entity/Q112673180
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP661-REC132115,component_relationship,"""Mexican Borders""",http://www.wikidata.org/entity/Q124153118
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP675-REC134845,construction_date,"""2014-01-01""",http://www.wikidata.org/entity/Q110976300
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP674-REC134635,construction_date,"""2000-01-01""",http://www.wikidata.org/entity/Q110976077
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP672-REC134215,construction_date,"""2002-01-01""",http://www.wikidata.org/entity/Q110775258
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP690-REC137995,construction_date,"""1854-01-01""",http://www.wikidata.org/entity/Q26615218
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP689-REC137785,construction_date,"""1839-01-01""",http://www.wikidata.org/entity/Q126699800
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP690-REC137995,material_identity,"""brick""",http://www.wikidata.org/entity/Q26615218
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP592-REC118255,construction_date,"""1965-01-01""",http://www.wikidata.org/entity/Q1146631
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP592-REC118255,component_relationship,"""University of Cambridge""",http://www.wikidata.org/entity/Q1146631
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP645-REC128965,construction_date,"""1998-01-01""",http://www.wikidata.org/entity/Q5054652
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP642-REC128335,construction_date,"""1983-01-01""",http://www.wikidata.org/entity/Q3022301
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP641-REC128125,construction_date,"""2005-01-01""",http://www.wikidata.org/entity/Q2734894
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP635-REC126865,construction_date,"""1786-01-01""",http://www.wikidata.org/entity/Q136324321
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP627-REC125395,construction_date,"""1869-01-01""",http://www.wikidata.org/entity/Q112482228
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP635-REC126865,component_relationship,"""Palais-Royal""",http://www.wikidata.org/entity/Q136324321
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP635-REC126865,material_identity,"""wood""",http://www.wikidata.org/entity/Q136324321
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP759-REC151645,construction_date,"""2017-06-19""",http://www.wikidata.org/entity/Q105199742
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP750-REC149965,construction_date,"""1852-01-01""",http://www.wikidata.org/entity/Q104390793
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP749-REC149755,construction_date,"""1885-01-01""",http://www.wikidata.org/entity/Q104389667
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP714-REC142615,creator_or_attribution,"""Robert Adam""",http://www.wikidata.org/entity/Q5587188
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP728-REC145555,construction_date,"""1650-01-01""",http://www.wikidata.org/entity/Q106086918
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP720-REC143875,construction_date,"""1950-01-01""",http://www.wikidata.org/entity/Q106084025
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP719-REC143665,construction_date,"""1750-01-01""",http://www.wikidata.org/entity/Q106073966
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP730-REC145975,component_relationship,"""list of cultural properties in Burgdorf (rest of the city)""",http://www.wikidata.org/entity/Q126363431
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP724-REC144715,component_relationship,"""Villa d'Este""",http://www.wikidata.org/entity/Q112318824
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP724-REC144715,construction_date,"""1600-01-01""",http://www.wikidata.org/entity/Q112318824
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP740-REC147865,construction_date,"""1906-01-01""",http://www.wikidata.org/entity/Q17597600
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP730-REC145975,construction_date,"""1844-01-01""",http://www.wikidata.org/entity/Q126363431
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP764-REC152695,construction_date,"""1847-01-01""",http://www.wikidata.org/entity/Q109857168
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP736-REC147025,component_relationship,"""cult site at Keston villa""",http://www.wikidata.org/entity/Q15133926
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP698-REC139465,component_relationship,"""list of cultural properties in Sion""",http://www.wikidata.org/entity/Q139815611
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP700-REC139885,construction_date,"""1780-01-01""",http://www.wikidata.org/entity/Q17526545
+IDB-REG_05-CAT_15-ERA_04-1890-ACC05-HOP701-REC140095,construction_date,"""1779-01-01""",http://www.wikidata.org/entity/Q17546561
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP190-REC37945,construction_date,"""2009-01-01""",http://www.wikidata.org/entity/Q135552999
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP189-REC37735,construction_date,"""1996-07-01""",http://www.wikidata.org/entity/Q1201889
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP188-REC37525,construction_date,"""1904-01-01""",http://www.wikidata.org/entity/Q1139633
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP189-REC37735,creator_or_attribution,"""NTT Facilities""",http://www.wikidata.org/entity/Q1201889
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP188-REC37525,creator_or_attribution,"""Cyrus L. W. Eidlitz""",http://www.wikidata.org/entity/Q1139633
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP188-REC37525,material_identity,"""aluminium""",http://www.wikidata.org/entity/Q1139633
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP218-REC43405,construction_date,"""1973-01-01""",http://www.wikidata.org/entity/Q7691935
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP214-REC42775,construction_date,"""1877-01-01""",http://www.wikidata.org/entity/Q12170034
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP214-REC42775,creator_or_attribution,"""Fellner & Helmer""",http://www.wikidata.org/entity/Q12170034
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP232-REC46345,construction_date,"""1929-01-01""",http://www.wikidata.org/entity/Q11913674
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP225-REC44875,construction_date,"""2011-06-10""",http://www.wikidata.org/entity/Q105074892
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP235-REC46975,construction_date,"""2010-01-01""",http://www.wikidata.org/entity/Q134323945
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP247-REC49285,creator_or_attribution,"""Giulio Casanova""",http://www.wikidata.org/entity/Q30898725
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP225-REC44875,component_relationship,"""conventional cinema hall""",http://www.wikidata.org/entity/Q105074892
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP239-REC47605,construction_date,"""2001-12-04""",http://www.wikidata.org/entity/Q140119322
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP239-REC47605,component_relationship,"""multiplex cinema hall""",http://www.wikidata.org/entity/Q140119322
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP249-REC49705,construction_date,"""1734-01-01""",http://www.wikidata.org/entity/Q101999278
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP207-REC41305,construction_date,"""1971-01-01""",http://www.wikidata.org/entity/Q107491388
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP207-REC41305,component_relationship,"""Seaview House""",http://www.wikidata.org/entity/Q107491388
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP210-REC41935,construction_date,"""2002-01-01""",http://www.wikidata.org/entity/Q2395570
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP210-REC41935,creator_or_attribution,"""HM Architecten""",http://www.wikidata.org/entity/Q2395570
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP254-REC50755,construction_date,"""1926-01-01""",http://www.wikidata.org/entity/Q117806206
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP258-REC51595,construction_date,"""1912-01-01""",http://www.wikidata.org/entity/Q1327556
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP258-REC51595,creator_or_attribution,"""Albert Richardson""",http://www.wikidata.org/entity/Q1327556
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP199-REC39625,construction_date,"""2000-01-01""",http://www.wikidata.org/entity/Q4595673
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP195-REC38995,construction_date,"""2015-01-01""",http://www.wikidata.org/entity/Q28057934
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP193-REC38575,construction_date,"""1973-01-01""",http://www.wikidata.org/entity/Q20715099
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP199-REC39625,creator_or_attribution,"""Kaplan McLaughlin Diaz""",http://www.wikidata.org/entity/Q4595673
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP265-REC52855,construction_date,"""1894-01-01""",http://www.wikidata.org/entity/Q137377587
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP271-REC54115,construction_date,"""1962-01-01""",http://www.wikidata.org/entity/Q137379074
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP270-REC53905,construction_date,"""1897-01-01""",http://www.wikidata.org/entity/Q137378817
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP268-REC53485,construction_date,"""1958-01-01""",http://www.wikidata.org/entity/Q137378325
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP261-REC52015,construction_date,"""1927-01-01""",http://www.wikidata.org/entity/Q137376545
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP253-REC50545,creator_or_attribution,"""Daniel Ramos Corea""",http://www.wikidata.org/entity/Q114269711
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP379-REC75745,construction_date,"""1930-01-01""",http://www.wikidata.org/entity/Q133825378
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP410-REC81835,construction_date,"""1900-01-01""",http://www.wikidata.org/entity/Q130298972
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP378-REC75535,construction_date,"""1700-01-01""",http://www.wikidata.org/entity/Q117847905
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP379-REC75745,component_relationship,"""Windmills in the Campo de Cartagena""",http://www.wikidata.org/entity/Q133825378
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP378-REC75535,material_identity,"""wood""",http://www.wikidata.org/entity/Q117847905
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP372-REC74275,construction_date,"""1992-01-01""",http://www.wikidata.org/entity/Q4041653
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP371-REC74065,construction_date,"""1516-01-01""",http://www.wikidata.org/entity/Q256392
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP367-REC73225,construction_date,"""1849-01-01""",http://www.wikidata.org/entity/Q116694410
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP366-REC73015,construction_date,"""2018-01-01""",http://www.wikidata.org/entity/Q100544743
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP457-REC91285,construction_date,"""1935-01-01""",http://www.wikidata.org/entity/Q1421460
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP453-REC90445,construction_date,"""1859-01-01""",http://www.wikidata.org/entity/Q126700851
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP449-REC89605,construction_date,"""1000-01-01""",http://www.wikidata.org/entity/Q116486396
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP441-REC88135,construction_date,"""1550-01-01""",http://www.wikidata.org/entity/Q106073281
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP436-REC87085,component_relationship,"""Dynamite factory Kr\u00fcmmel""",http://www.wikidata.org/entity/Q2551758
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP493-REC98425,construction_date,"""1728-01-01""",http://www.wikidata.org/entity/Q23129350
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP493-REC98425,creator_or_attribution,"""Charles Fran\u00e7ois de Mondion""",http://www.wikidata.org/entity/Q23129350
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP466-REC93175,construction_date,"""1905-01-01""",http://www.wikidata.org/entity/Q116052035
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP466-REC93175,creator_or_attribution,"""Jan Gratema""",http://www.wikidata.org/entity/Q116052035
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP426-REC85195,construction_date,"""1883-01-01""",http://www.wikidata.org/entity/Q126409417
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP417-REC83305,construction_date,"""1920-01-01""",http://www.wikidata.org/entity/Q116171445
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP417-REC83305,creator_or_attribution,"""Jiran Kohout architekti""",http://www.wikidata.org/entity/Q116171445
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP424-REC84775,construction_date,"""1853-01-01""",http://www.wikidata.org/entity/Q124514718
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP422-REC84355,construction_date,"""1860-01-01""",http://www.wikidata.org/entity/Q124514199
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP412-REC82255,construction_date,"""1914-01-01""",http://www.wikidata.org/entity/Q105963118
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP412-REC82255,component_relationship,"""Pijpenmakerij P. van der Want""",http://www.wikidata.org/entity/Q105963118
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP460-REC91915,component_relationship,"""Nicolaaskerk""",http://www.wikidata.org/entity/Q17395557
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP454-REC90655,construction_date,"""1560-01-01""",http://www.wikidata.org/entity/Q13071790
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP578-REC115435,construction_date,"""2017-01-01""",http://www.wikidata.org/entity/Q105653401
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP578-REC115435,creator_or_attribution,"""PCF Architects""",http://www.wikidata.org/entity/Q105653401
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP593-REC118585,construction_date,"""1934-01-01""",http://www.wikidata.org/entity/Q116792673
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP593-REC118585,component_relationship,"""Usachevka""",http://www.wikidata.org/entity/Q116792673
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP587-REC117325,construction_date,"""1863-01-01""",http://www.wikidata.org/entity/Q112066113
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP584-REC116695,construction_date,"""1823-01-01""",http://www.wikidata.org/entity/Q108771846
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP587-REC117325,component_relationship,"""list of cultural properties in Plateau de Diesse""",http://www.wikidata.org/entity/Q112066113
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP580-REC115855,component_relationship,"""Near Northside Historic District""",http://www.wikidata.org/entity/Q106696147
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP544-REC108715,construction_date,"""1860-01-01""",http://www.wikidata.org/entity/Q56311069
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP535-REC106825,construction_date,"""1976-08-26""",http://www.wikidata.org/entity/Q17628334
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP523-REC104515,construction_date,"""1890-01-01""",http://www.wikidata.org/entity/Q49347327
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP582-REC116275,construction_date,"""1895-01-01""",http://www.wikidata.org/entity/Q107338912
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP657-REC131395,construction_date,"""1934-01-01""",http://www.wikidata.org/entity/Q116787045
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP653-REC130555,construction_date,"""1973-01-01""",http://www.wikidata.org/entity/Q108839396
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP657-REC131395,component_relationship,"""Snabgress garage and warehouse""",http://www.wikidata.org/entity/Q116787045
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP654-REC130765,creator_or_attribution,"""Will Alsop""",http://www.wikidata.org/entity/Q1111633
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP708-REC141475,component_relationship,"""list of cultural properties in Thal""",http://www.wikidata.org/entity/Q29786905
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP695-REC138955,component_relationship,"""Heritage district of Yazd""",http://www.wikidata.org/entity/Q118998178
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP660-REC131815,construction_date,"""0165-01-01""",http://www.wikidata.org/entity/Q122158556
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP660-REC131815,component_relationship,"""Dura-Europos""",http://www.wikidata.org/entity/Q122158556
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP660-REC131815,material_identity,"""stone""",http://www.wikidata.org/entity/Q122158556
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP710-REC141895,construction_date,"""1828-01-01""",http://www.wikidata.org/entity/Q4805929
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP710-REC141895,component_relationship,"""Pendleton Historic District""",http://www.wikidata.org/entity/Q4805929
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP694-REC138745,construction_date,"""1699-01-01""",http://www.wikidata.org/entity/Q105946604
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP680-REC135805,construction_date,"""2001-01-01""",http://www.wikidata.org/entity/Q110978664
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP677-REC135385,construction_date,"""2014-01-01""",http://www.wikidata.org/entity/Q110978186
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP675-REC134965,construction_date,"""2006-01-01""",http://www.wikidata.org/entity/Q110976428
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP673-REC134545,construction_date,"""2012-01-01""",http://www.wikidata.org/entity/Q110975984
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP669-REC133705,construction_date,"""1981-03-16""",http://www.wikidata.org/entity/Q10902069
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP646-REC129085,construction_date,"""1987-01-01""",http://www.wikidata.org/entity/Q5123457
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP644-REC128665,construction_date,"""2008-07-04""",http://www.wikidata.org/entity/Q4672823
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP643-REC128455,construction_date,"""1996-01-01""",http://www.wikidata.org/entity/Q3352816
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP641-REC128035,construction_date,"""1983-01-01""",http://www.wikidata.org/entity/Q24521780
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP640-REC127825,construction_date,"""1998-01-01""",http://www.wikidata.org/entity/Q2014804
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP638-REC127405,construction_date,"""2001-01-01""",http://www.wikidata.org/entity/Q16894547
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP636-REC127195,construction_date,"""1979-01-01""",http://www.wikidata.org/entity/Q14716302
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP632-REC126355,construction_date,"""2024-01-01""",http://www.wikidata.org/entity/Q131689015
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP629-REC125725,construction_date,"""1968-03-06""",http://www.wikidata.org/entity/Q11705283
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP628-REC125515,construction_date,"""1986-09-10""",http://www.wikidata.org/entity/Q11330329
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP629-REC125725,component_relationship,"""Movies at Montgomery Mall""",http://www.wikidata.org/entity/Q11705283
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP640-REC127825,creator_or_attribution,"""Philippe Gorce""",http://www.wikidata.org/entity/Q2014804
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP639-REC127615,component_relationship,"""Stirling Arcade""",http://www.wikidata.org/entity/Q17843869
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP656-REC131185,component_relationship,"""China\u2013Russia border""",http://www.wikidata.org/entity/Q115110321
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP215-REC42895,construction_date,"""1770-01-01""",http://www.wikidata.org/entity/Q1796145
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP215-REC42895,creator_or_attribution,"""Ange-Jacques Gabriel""",http://www.wikidata.org/entity/Q1796145
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP215-REC42895,component_relationship,"""Palace of Versailles""",http://www.wikidata.org/entity/Q1796145
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP201-REC40165,construction_date,"""2014-12-17""",http://www.wikidata.org/entity/Q58208336
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP197-REC39325,construction_date,"""2004-05-20""",http://www.wikidata.org/entity/Q3402410
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP201-REC40165,creator_or_attribution,"""Jean Nouvel""",http://www.wikidata.org/entity/Q58208336
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP761-REC152185,construction_date,"""1820-01-01""",http://www.wikidata.org/entity/Q105952579
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP758-REC151555,construction_date,"""2000-01-01""",http://www.wikidata.org/entity/Q105071546
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP749-REC149665,creator_or_attribution,"""Frank Baldwin Hunter""",http://www.wikidata.org/entity/Q103821165
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP715-REC142945,material_identity,"""tile""",http://www.wikidata.org/entity/Q5887632
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP736-REC147145,construction_date,"""1800-01-01""",http://www.wikidata.org/entity/Q1590164
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP731-REC146095,construction_date,"""1920-01-01""",http://www.wikidata.org/entity/Q130262228
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP731-REC146095,creator_or_attribution,"""A.R. Wittop Koning""",http://www.wikidata.org/entity/Q130262228
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP726-REC145045,component_relationship,"""Architectural heritage group Kaiser-Wilhelm-Stra\u00dfe 1-26""",http://www.wikidata.org/entity/Q116764750
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP723-REC144415,component_relationship,"""Architectural monuments group Hanomag, G\u00f6ttinger Stra\u00dfe 14""",http://www.wikidata.org/entity/Q111831688
+IDB-REG_05-CAT_15-ERA_05-1965-ACC05-HOP728-REC145465,construction_date,"""2007-01-01""",http://www.wikidata.org/entity/Q12402365
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP211-REC42055,construction_date,"""2016-01-01""",http://www.wikidata.org/entity/Q2947557
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP204-REC40795,construction_date,"""1994-01-01""",http://www.wikidata.org/entity/Q7727300
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP198-REC39535,construction_date,"""2018-01-01""",http://www.wikidata.org/entity/Q4255374
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP194-REC38695,construction_date,"""1999-01-01""",http://www.wikidata.org/entity/Q2257273
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP193-REC38485,construction_date,"""2019-01-01""",http://www.wikidata.org/entity/Q19458189
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP192-REC38275,construction_date,"""1999-01-01""",http://www.wikidata.org/entity/Q16890460
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP191-REC38065,construction_date,"""2001-01-01""",http://www.wikidata.org/entity/Q14693082
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP190-REC37855,construction_date,"""2002-02-21""",http://www.wikidata.org/entity/Q12811774
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP189-REC37645,construction_date,"""2012-01-01""",http://www.wikidata.org/entity/Q118835364
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP204-REC40795,creator_or_attribution,"""Paul Rudolph""",http://www.wikidata.org/entity/Q7727300
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP198-REC39535,creator_or_attribution,"""RMJM""",http://www.wikidata.org/entity/Q4255374
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP189-REC37645,material_identity,"""concrete""",http://www.wikidata.org/entity/Q118835364
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP195-REC38905,component_relationship,"""Platinum Park""",http://www.wikidata.org/entity/Q26000285
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP189-REC37645,component_relationship,"""Mansudae Apartments""",http://www.wikidata.org/entity/Q118835364
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP216-REC43105,construction_date,"""1850-01-01""",http://www.wikidata.org/entity/Q3981961
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP216-REC43105,creator_or_attribution,"""Tommaso Meduna""",http://www.wikidata.org/entity/Q3981961
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP238-REC47515,construction_date,"""2019-05-16""",http://www.wikidata.org/entity/Q139987427
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP237-REC47305,construction_date,"""1996-01-01""",http://www.wikidata.org/entity/Q138961128
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP240-REC47935,construction_date,"""1970-01-01""",http://www.wikidata.org/entity/Q16205135
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP238-REC47515,component_relationship,"""multiplex cinema hall""",http://www.wikidata.org/entity/Q139987427
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP237-REC47305,component_relationship,"""conventional cinema hall""",http://www.wikidata.org/entity/Q138961128
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP245-REC48985,component_relationship,"""Thick Tower, Sibiu""",http://www.wikidata.org/entity/Q16901460
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP257-REC51295,component_relationship,"""Berkeley Repertory Theatre""",http://www.wikidata.org/entity/Q125372139
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP251-REC50035,construction_date,"""1950-01-01""",http://www.wikidata.org/entity/Q106083840
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP270-REC53815,construction_date,"""1914-01-01""",http://www.wikidata.org/entity/Q137378720
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP266-REC53185,construction_date,"""1963-01-01""",http://www.wikidata.org/entity/Q137377976
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP265-REC52975,construction_date,"""1954-01-01""",http://www.wikidata.org/entity/Q137377735
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP262-REC52345,construction_date,"""1900-01-01""",http://www.wikidata.org/entity/Q137376960
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP261-REC52135,construction_date,"""1908-01-01""",http://www.wikidata.org/entity/Q137376682
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP221-REC44155,construction_date,"""2017-01-01""",http://www.wikidata.org/entity/Q43885213
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP406-REC81115,construction_date,"""1834-01-01""",http://www.wikidata.org/entity/Q49319552
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP409-REC81745,construction_date,"""1853-01-01""",http://www.wikidata.org/entity/Q83283304
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP400-REC79855,construction_date,"""1862-01-01""",http://www.wikidata.org/entity/Q15910221
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP397-REC79225,construction_date,"""1795-01-01""",http://www.wikidata.org/entity/Q116854258
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP397-REC79225,material_identity,"""brick""",http://www.wikidata.org/entity/Q116854258
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP385-REC76915,construction_date,"""1862-01-01""",http://www.wikidata.org/entity/Q2332115
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP369-REC73765,construction_date,"""1877-01-01""",http://www.wikidata.org/entity/Q16929854
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP370-REC73975,component_relationship,"""Pavillon Schlo\u00dfbr\u00e4ugasse 3 in Au in der Hallertau""",http://www.wikidata.org/entity/Q2240106
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP424-REC84685,construction_date,"""1820-01-01""",http://www.wikidata.org/entity/Q124514617
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP423-REC84475,construction_date,"""1873-01-01""",http://www.wikidata.org/entity/Q124514335
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP422-REC84265,construction_date,"""1903-01-01""",http://www.wikidata.org/entity/Q124514089
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP416-REC83005,construction_date,"""1964-09-30""",http://www.wikidata.org/entity/Q112628332
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP375-REC74815,construction_date,"""1999-01-01""",http://www.wikidata.org/entity/Q7754815
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP384-REC76705,construction_date,"""1856-01-01""",http://www.wikidata.org/entity/Q2221368
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP524-REC104635,construction_date,"""1922-01-01""",http://www.wikidata.org/entity/Q55026644
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP459-REC91615,construction_date,"""1893-01-01""",http://www.wikidata.org/entity/Q1603211
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP459-REC91615,component_relationship,"""GFZ Helmholtz Centre for Geosciences""",http://www.wikidata.org/entity/Q1603211
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP454-REC90775,component_relationship,"""Palazzo dei Normanni""",http://www.wikidata.org/entity/Q132247422
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP440-REC87835,material_identity,"""stone""",http://www.wikidata.org/entity/Q104782666
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP492-REC98335,creator_or_attribution,"""Jacques Depelsenaire""",http://www.wikidata.org/entity/Q19951202
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP463-REC92455,creator_or_attribution,"""Joseph-Fran\u00e7ois Mangin""",http://www.wikidata.org/entity/Q1065206
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP466-REC93085,construction_date,"""1849-01-01""",http://www.wikidata.org/entity/Q114186376
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP463-REC92455,construction_date,"""1812-01-01""",http://www.wikidata.org/entity/Q1065206
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP463-REC92455,component_relationship,"""New York City Hall rotunda""",http://www.wikidata.org/entity/Q1065206
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP463-REC92455,material_identity,"""limestone""",http://www.wikidata.org/entity/Q1065206
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP463-REC92455,dimension_length,65760.72945,http://www.wikidata.org/entity/Q1065206
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP491-REC98125,creator_or_attribution,"""Q16875340""",http://www.wikidata.org/entity/Q16901733
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP490-REC97915,creator_or_attribution,"""McDonald Brothers""",http://www.wikidata.org/entity/Q14691004
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP495-REC98965,component_relationship,"""Plattsmouth Main Street Historic District""",http://www.wikidata.org/entity/Q65067010
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP464-REC92665,construction_date,"""1535-01-01""",http://www.wikidata.org/entity/Q108667033
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP450-REC89935,construction_date,"""1805-01-01""",http://www.wikidata.org/entity/Q120762360
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP597-REC119335,construction_date,"""1890-01-01""",http://www.wikidata.org/entity/Q123376268
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP594-REC118705,construction_date,"""1924-01-01""",http://www.wikidata.org/entity/Q11882005
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP577-REC115345,construction_date,"""1962-01-01""",http://www.wikidata.org/entity/Q10511376
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP593-REC118495,construction_date,"""1968-01-01""",http://www.wikidata.org/entity/Q116334621
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP599-REC119755,construction_date,"""1999-03-22""",http://www.wikidata.org/entity/Q123424966
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP587-REC117235,construction_date,"""2003-01-01""",http://www.wikidata.org/entity/Q111598630
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP586-REC117025,construction_date,"""1936-01-01""",http://www.wikidata.org/entity/Q111194505
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP587-REC117235,component_relationship,"""University of Toronto""",http://www.wikidata.org/entity/Q111598630
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP586-REC117025,component_relationship,"""University of Toronto""",http://www.wikidata.org/entity/Q111194505
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP579-REC115765,construction_date,"""1994-01-01""",http://www.wikidata.org/entity/Q106497051
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP579-REC115765,material_identity,"""concrete""",http://www.wikidata.org/entity/Q106497051
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP563-REC112405,construction_date,"""1987-05-01""",http://www.wikidata.org/entity/Q111991651
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP628-REC125425,construction_date,"""1996-07-10""",http://www.wikidata.org/entity/Q11284577
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP662-REC132355,construction_date,"""2004-01-01""",http://www.wikidata.org/entity/Q125679132
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP662-REC132355,creator_or_attribution,"""Paul de Ruiter""",http://www.wikidata.org/entity/Q125679132
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP731-REC146005,construction_date,"""1920-01-01""",http://www.wikidata.org/entity/Q127009195
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP742-REC148315,construction_date,"""1908-01-01""",http://www.wikidata.org/entity/Q100960396
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP731-REC146005,material_identity,"""brick""",http://www.wikidata.org/entity/Q127009195
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP692-REC138235,construction_date,"""1917-01-01""",http://www.wikidata.org/entity/Q10343715
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP692-REC138235,creator_or_attribution,"""Manuel Joaquim Norte J\u00fanior""",http://www.wikidata.org/entity/Q10343715
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP717-REC143275,construction_date,"""1893-01-01""",http://www.wikidata.org/entity/Q104535349
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP738-REC147475,creator_or_attribution,"""Harry Elte""",http://www.wikidata.org/entity/Q17302141
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP717-REC143275,creator_or_attribution,"""Alfred Bayer""",http://www.wikidata.org/entity/Q104535349
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP732-REC146215,component_relationship,"""Q18775611""",http://www.wikidata.org/entity/Q13135585
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP725-REC144955,component_relationship,"""Bogenstra\u00dfe 4/8 ensemble""",http://www.wikidata.org/entity/Q115610396
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP711-REC142015,construction_date,"""1910-01-01""",http://www.wikidata.org/entity/Q491165
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP705-REC140965,construction_date,"""1800-01-01""",http://www.wikidata.org/entity/Q25205766
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP712-REC142225,construction_date,"""1750-01-01""",http://www.wikidata.org/entity/Q5133243
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP712-REC142225,creator_or_attribution,"""Isaac Ware""",http://www.wikidata.org/entity/Q5133243
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP675-REC134875,construction_date,"""2012-01-01""",http://www.wikidata.org/entity/Q110976332
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP650-REC129835,construction_date,"""1987-02-23""",http://www.wikidata.org/entity/Q63993465
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP648-REC129415,construction_date,"""2002-01-01""",http://www.wikidata.org/entity/Q5518440
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP645-REC128995,construction_date,"""2004-01-01""",http://www.wikidata.org/entity/Q5062164
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP644-REC128785,construction_date,"""1991-01-01""",http://www.wikidata.org/entity/Q4873963
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP638-REC127525,construction_date,"""1998-01-01""",http://www.wikidata.org/entity/Q17065684
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP642-REC128365,construction_date,"""1891-01-01""",http://www.wikidata.org/entity/Q29482085
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP196-REC39025,construction_date,"""1957-01-01""",http://www.wikidata.org/entity/Q2818016
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP196-REC39025,creator_or_attribution,"""Carson & Lundin""",http://www.wikidata.org/entity/Q2818016
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP749-REC149785,component_relationship,"""West Woodfield Heritage Conservation District""",http://www.wikidata.org/entity/Q104389854
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP758-REC151465,creator_or_attribution,"""Marie-Jos\u00e9 Van Hee architecten""",http://www.wikidata.org/entity/Q104962349
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP245-REC48895,construction_date,"""1921-01-01""",http://www.wikidata.org/entity/Q7308080
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP764-REC152725,construction_date,"""1911-01-01""",http://www.wikidata.org/entity/Q111914743
+IDB-REG_05-CAT_15-ERA_06-2015-ACC05-HOP764-REC152725,material_identity,"""wood""",http://www.wikidata.org/entity/Q111914743
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP212-REC42385,construction_date,"""2013-01-01""",http://www.wikidata.org/entity/Q56322662
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP212-REC42385,creator_or_attribution,"""Will Alsop""",http://www.wikidata.org/entity/Q56322662
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP249-REC49735,construction_date,"""1964-06-07""",http://www.wikidata.org/entity/Q10332119
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP194-REC38605,construction_date,"""1913-01-01""",http://www.wikidata.org/entity/Q21016348
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP194-REC38605,creator_or_attribution,"""J. Milton Dyer""",http://www.wikidata.org/entity/Q21016348
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP204-REC40705,construction_date,"""1982-01-01""",http://www.wikidata.org/entity/Q7494691
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP210-REC41965,construction_date,"""1960-01-01""",http://www.wikidata.org/entity/Q251582
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP251-REC50155,component_relationship,"""Municipal Auditorium""",http://www.wikidata.org/entity/Q107358765
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP252-REC50365,creator_or_attribution,"""Daniele Donghi""",http://www.wikidata.org/entity/Q111244474
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP205-REC40915,construction_date,"""2011-01-01""",http://www.wikidata.org/entity/Q788064
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP203-REC40495,construction_date,"""1920-01-01""",http://www.wikidata.org/entity/Q7073736
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP203-REC40495,creator_or_attribution,"""Hoit, Price and Barnes""",http://www.wikidata.org/entity/Q7073736
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP201-REC40075,creator_or_attribution,"""Adrian Smith + Gordon Gill Architecture""",http://www.wikidata.org/entity/Q54952515
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP198-REC39445,creator_or_attribution,"""Delano & Aldrich""",http://www.wikidata.org/entity/Q3661607
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP198-REC39445,component_relationship,"""Wall Street Historic District""",http://www.wikidata.org/entity/Q3661607
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP189-REC37765,component_relationship,"""Eighth Avenue Place""",http://www.wikidata.org/entity/Q122475410
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP189-REC37765,construction_date,"""2014-01-01""",http://www.wikidata.org/entity/Q122475410
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP262-REC52255,construction_date,"""1902-01-01""",http://www.wikidata.org/entity/Q137376846
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP336-REC67165,construction_date,"""2023-01-01""",http://www.wikidata.org/entity/Q50842519
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP269-REC53725,construction_date,"""1947-01-01""",http://www.wikidata.org/entity/Q137378614
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP268-REC53515,construction_date,"""1928-01-01""",http://www.wikidata.org/entity/Q137378363
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP264-REC52675,construction_date,"""1900-01-01""",http://www.wikidata.org/entity/Q137377364
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP263-REC52465,construction_date,"""1966-01-01""",http://www.wikidata.org/entity/Q137377110
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP271-REC54145,construction_date,"""1928-01-01""",http://www.wikidata.org/entity/Q137376432
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP266-REC53095,construction_date,"""1894-01-01""",http://www.wikidata.org/entity/Q61722498
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP453-REC90475,construction_date,"""1649-01-01""",http://www.wikidata.org/entity/Q126714985
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP435-REC86905,construction_date,"""1901-01-01""",http://www.wikidata.org/entity/Q1438439
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP439-REC87745,material_identity,"""stone""",http://www.wikidata.org/entity/Q104649275
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP462-REC92365,construction_date,"""1850-01-01""",http://www.wikidata.org/entity/Q106044439
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP413-REC82495,construction_date,"""1919-01-01""",http://www.wikidata.org/entity/Q108492448
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP413-REC82495,component_relationship,"""Uni\u00f3n Naval de Levante""",http://www.wikidata.org/entity/Q108492448
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP413-REC82495,material_identity,"""concrete""",http://www.wikidata.org/entity/Q108492448
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP414-REC82705,construction_date,"""http://www.wikidata.org/.well-known/genid/7f96b1024c2719d7fd554160685a11e0""",http://www.wikidata.org/entity/Q110029696
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP373-REC74515,construction_date,"""1988-01-01""",http://www.wikidata.org/entity/Q5584074
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP370-REC73885,construction_date,"""1834-01-01""",http://www.wikidata.org/entity/Q1942919
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP368-REC73465,construction_date,"""1934-01-01""",http://www.wikidata.org/entity/Q1299917
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP415-REC82915,construction_date,"""1830-01-01""",http://www.wikidata.org/entity/Q111133115
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP415-REC82915,component_relationship,"""Blair Village Heritage Conservation District""",http://www.wikidata.org/entity/Q111133115
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP426-REC85015,construction_date,"""1857-01-01""",http://www.wikidata.org/entity/Q124723156
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP464-REC92785,construction_date,"""1604-01-01""",http://www.wikidata.org/entity/Q110702195
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP540-REC107905,component_relationship,"""Nebengeb\u00e4ude""",http://www.wikidata.org/entity/Q41313029
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP540-REC107905,creator_or_attribution,"""Peter Speeth""",http://www.wikidata.org/entity/Q41313029
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP489-REC97615,construction_date,"""1759-01-01""",http://www.wikidata.org/entity/Q126707007
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP501-REC100135,construction_date,"""1972-01-01""",http://www.wikidata.org/entity/Q8454126
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP493-REC98455,construction_date,"""1898-01-01""",http://www.wikidata.org/entity/Q23640732
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP499-REC99715,creator_or_attribution,"""Q106978928""",http://www.wikidata.org/entity/Q7010303
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP488-REC97405,construction_date,"""1903-01-01""",http://www.wikidata.org/entity/Q108877712
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP486-REC97195,construction_date,"""1900-04-21""",http://www.wikidata.org/entity/Q10343996
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP547-REC109375,construction_date,"""1815-12-08""",http://www.wikidata.org/entity/Q7083595
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP498-REC99505,construction_date,"""1874-01-01""",http://www.wikidata.org/entity/Q25240885
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP498-REC99505,creator_or_attribution,"""Lewis P. Rogers""",http://www.wikidata.org/entity/Q25240885
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP528-REC105595,creator_or_attribution,"""Thomas Brown""",http://www.wikidata.org/entity/Q113855595
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP467-REC93205,construction_date,"""1879-01-01""",http://www.wikidata.org/entity/Q11692172
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP662-REC132265,creator_or_attribution,"""Nikken Sekkei""",http://www.wikidata.org/entity/Q125172567
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP656-REC131005,creator_or_attribution,"""Julius Schulte-Frohlinde""",http://www.wikidata.org/entity/Q113469856
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP662-REC132265,construction_date,"""2018-04-01""",http://www.wikidata.org/entity/Q125172567
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP594-REC118615,construction_date,"""1895-01-01""",http://www.wikidata.org/entity/Q11699982
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP656-REC131005,construction_date,"""1934-01-01""",http://www.wikidata.org/entity/Q113469856
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP654-REC130795,construction_date,"""1922-01-01""",http://www.wikidata.org/entity/Q111431494
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP662-REC132265,material_identity,"""steel reinforced concrete""",http://www.wikidata.org/entity/Q125172567
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP594-REC118615,material_identity,"""brick""",http://www.wikidata.org/entity/Q11699982
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP585-REC116935,creator_or_attribution,"""Henning Larsen""",http://www.wikidata.org/entity/Q110914448
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP576-REC115045,creator_or_attribution,"""Gustav Carl Eduard Blohm""",http://www.wikidata.org/entity/Q100427343
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP576-REC115045,construction_date,"""1909-01-01""",http://www.wikidata.org/entity/Q100427343
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP658-REC131425,component_relationship,"""Riverdale Presbyterian Church Complex""",http://www.wikidata.org/entity/Q116935973
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP659-REC131635,creator_or_attribution,"""Kazimierz Sk\u00f3rewicz""",http://www.wikidata.org/entity/Q119150157
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP659-REC131635,construction_date,"""1925-01-01""",http://www.wikidata.org/entity/Q119150157
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP659-REC131635,component_relationship,"""Sejm and Senate Complex of Poland""",http://www.wikidata.org/entity/Q119150157
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP651-REC130165,construction_date,"""1550-01-01""",http://www.wikidata.org/entity/Q106061136
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP578-REC115465,creator_or_attribution,"""Welton Becket and Associates""",http://www.wikidata.org/entity/Q105694606
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP578-REC115465,construction_date,"""1964-01-01""",http://www.wikidata.org/entity/Q105694606
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP668-REC133525,construction_date,"""1962-01-01""",http://www.wikidata.org/entity/Q107639598
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP644-REC128695,construction_date,"""1994-01-01""",http://www.wikidata.org/entity/Q4734201
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP640-REC127855,construction_date,"""1990-01-01""",http://www.wikidata.org/entity/Q20711313
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP665-REC132895,dimension_length,290500.0,http://www.wikidata.org/entity/Q1044037
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP750-REC149905,construction_date,"""1865-01-01""",http://www.wikidata.org/entity/Q104390500
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP749-REC149695,construction_date,"""1862-01-01""",http://www.wikidata.org/entity/Q104124706
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP742-REC148225,construction_date,"""1914-01-01""",http://www.wikidata.org/entity/Q100363042
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP750-REC149905,component_relationship,"""Blackfriars/Petersville Heritage Conservation District""",http://www.wikidata.org/entity/Q104390500
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP727-REC145285,component_relationship,"""Pair of Bronze Figurines, excavated at Dura-Europos, Field Register K62""",http://www.wikidata.org/entity/Q121301973
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP734-REC146755,construction_date,"""1904-01-01""",http://www.wikidata.org/entity/Q139373441
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP734-REC146755,material_identity,"""plaster""",http://www.wikidata.org/entity/Q139373441
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP734-REC146755,component_relationship,"""Q2006187""",http://www.wikidata.org/entity/Q139373441
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP734-REC146755,creator_or_attribution,"""Pieter van de Wint""",http://www.wikidata.org/entity/Q139373441
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP695-REC138985,construction_date,"""1800-01-01""",http://www.wikidata.org/entity/Q121636438
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP715-REC142975,material_identity,"""plaster""",http://www.wikidata.org/entity/Q5895500
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP721-REC144025,construction_date,"""1906-01-01""",http://www.wikidata.org/entity/Q10715480
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP721-REC144025,component_relationship,"""Q30509916""",http://www.wikidata.org/entity/Q10715480
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP721-REC144025,creator_or_attribution,"""Selim A. Lindqvist""",http://www.wikidata.org/entity/Q10715480
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP692-REC138355,construction_date,"""1550-01-01""",http://www.wikidata.org/entity/Q106051458
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP705-REC140875,component_relationship,"""Q42370154""",http://www.wikidata.org/entity/Q2284173
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP679-REC135625,construction_date,"""1999-01-01""",http://www.wikidata.org/entity/Q110978475
+IDB-REG_05-CAT_15-ERA_07-2025-ACC05-HOP675-REC134995,construction_date,"""2011-01-01""",http://www.wikidata.org/entity/Q110976461
