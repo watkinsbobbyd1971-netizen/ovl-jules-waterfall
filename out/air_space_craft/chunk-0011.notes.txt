@@ -1,0 +1,4 @@
+Attempted to source values from Wikidata API (wbsearchentities and Special:EntityData).
+Queried using exact subject names and searched for relevant entities (description check).
+However, all items in this chunk appear to be miscategorized artists (with '-ULN-' in their canonical_dedup_key indicating Union List of Artist Names).
+Because the category is 'air_space_craft', we only extracted properties for entities matching aircraft or spacecraft characteristics, yielding 0 valid results.
