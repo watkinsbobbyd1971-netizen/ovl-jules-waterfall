@@ -1,0 +1,720 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1834-REC366661,location,"{""latitude"": 52.930722222222, ""longitude"": 6.7986111111111}",https://www.wikidata.org/wiki/Special:EntityData/Q2679819.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1834-REC366661,place_identity,"""museum""",https://www.wikidata.org/wiki/Special:EntityData/Q2679819.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1846-REC369181,location,"{""latitude"": 58.84628, ""longitude"": 9.08539}",https://www.wikidata.org/wiki/Special:EntityData/Q34852634.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1846-REC369181,place_identity,"""waterfall""",https://www.wikidata.org/wiki/Special:EntityData/Q34852634.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1852-REC370231,location,"{""latitude"": 70.077169, ""longitude"": 27.681972}",https://www.wikidata.org/wiki/Special:EntityData/Q34760029.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1852-REC370231,elevation,39000.0,https://www.wikidata.org/wiki/Special:EntityData/Q34760029.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1852-REC370231,place_identity,"""rapids""",https://www.wikidata.org/wiki/Special:EntityData/Q34760029.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1844-REC368761,location,"{""latitude"": 58.53059, ""longitude"": 8.25418}",https://www.wikidata.org/wiki/Special:EntityData/Q34749940.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1844-REC368761,elevation,160000.0,https://www.wikidata.org/wiki/Special:EntityData/Q34749940.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1844-REC368761,place_identity,"""waterfall""",https://www.wikidata.org/wiki/Special:EntityData/Q34749940.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1849-REC369601,place_identity,"""family name""",https://www.wikidata.org/wiki/Special:EntityData/Q5473438.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1851-REC370021,location,"{""latitude"": 65.44661, ""longitude"": 12.77519}",https://www.wikidata.org/wiki/Special:EntityData/Q34760693.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1851-REC370021,place_identity,"""waterfall""",https://www.wikidata.org/wiki/Special:EntityData/Q34760693.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1843-REC368551,location,"{""latitude"": 60.14564, ""longitude"": 5.24315}",https://www.wikidata.org/wiki/Special:EntityData/Q56249130.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1843-REC368551,place_identity,"""island""",https://www.wikidata.org/wiki/Special:EntityData/Q56249130.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1841-REC368131,location,"{""latitude"": 67.983333333333, ""longitude"": 13}",https://www.wikidata.org/wiki/Special:EntityData/Q1420953.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1841-REC368131,elevation,1029000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1420953.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1841-REC368131,place_identity,"""island""",https://www.wikidata.org/wiki/Special:EntityData/Q1420953.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1845-REC368971,location,"{""latitude"": 62.89827, ""longitude"": 10.69997}",https://www.wikidata.org/wiki/Special:EntityData/Q34759363.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1845-REC368971,place_identity,"""waterfall""",https://www.wikidata.org/wiki/Special:EntityData/Q34759363.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1853-REC370441,location,"{""latitude"": 59.54464, ""longitude"": 9.40172}",https://www.wikidata.org/wiki/Special:EntityData/Q34838093.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1853-REC370441,place_identity,"""waterfall""",https://www.wikidata.org/wiki/Special:EntityData/Q34838093.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1860-REC371911,location,"{""latitude"": 61.61563, ""longitude"": 8.72295}",https://www.wikidata.org/wiki/Special:EntityData/Q34842749.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1860-REC371911,place_identity,"""glacier""",https://www.wikidata.org/wiki/Special:EntityData/Q34842749.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1866-REC373171,location,"{""latitude"": -65.9667, ""longitude"": -64.35}",https://www.wikidata.org/wiki/Special:EntityData/Q4916551.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1866-REC373171,location,"{""latitude"": -65.96667, ""longitude"": -64.03333}",https://www.wikidata.org/wiki/Special:EntityData/Q4916551.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1866-REC373171,place_identity,"""glacier""",https://www.wikidata.org/wiki/Special:EntityData/Q4916551.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1870-REC373801,location,"{""latitude"": -38.905, ""longitude"": 174.491}",https://www.wikidata.org/wiki/Special:EntityData/Q126163246.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1870-REC373801,place_identity,"""p\u0101""",https://www.wikidata.org/wiki/Special:EntityData/Q126163246.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1859-REC371701,location,"{""latitude"": 59.85619, ""longitude"": 6.49314}",https://www.wikidata.org/wiki/Special:EntityData/Q34678761.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1859-REC371701,elevation,819000.0,https://www.wikidata.org/wiki/Special:EntityData/Q34678761.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1859-REC371701,place_identity,"""waterfall""",https://www.wikidata.org/wiki/Special:EntityData/Q34678761.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1881-REC376111,location,"{""latitude"": 35.35, ""longitude"": 72.06666667}",https://www.wikidata.org/wiki/Special:EntityData/Q21283350.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1881-REC376111,place_identity,"""union council of Pakistan""",https://www.wikidata.org/wiki/Special:EntityData/Q21283350.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1876-REC375061,location,"{""latitude"": -10.966666666667, ""longitude"": -74.65}",https://www.wikidata.org/wiki/Special:EntityData/Q35341949.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1876-REC375061,place_identity,"""stream""",https://www.wikidata.org/wiki/Special:EntityData/Q35341949.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1878-REC375481,location,"{""latitude"": -3.1333333333333, ""longitude"": 142.35}",https://www.wikidata.org/wiki/Special:EntityData/Q1771821.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1878-REC375481,elevation,4000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1771821.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1878-REC375481,place_identity,"""city""",https://www.wikidata.org/wiki/Special:EntityData/Q1771821.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1893-REC378421,location,"{""latitude"": 49.299444444444, ""longitude"": 19.951944444444}",https://www.wikidata.org/wiki/Special:EntityData/Q144786.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1893-REC378421,elevation,837000.0,https://www.wikidata.org/wiki/Special:EntityData/Q144786.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1893-REC378421,place_identity,"""urban municipality of Poland""",https://www.wikidata.org/wiki/Special:EntityData/Q144786.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1894-REC378631,location,"{""latitude"": 49.611388888889, ""longitude"": 19.010555555556}",https://www.wikidata.org/wiki/Special:EntityData/Q787991.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1894-REC378631,elevation,1220000.0,https://www.wikidata.org/wiki/Special:EntityData/Q787991.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1894-REC378631,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q787991.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1970-REC393961,location,"{""latitude"": 63.840331, ""longitude"": 20.117011}",https://www.wikidata.org/wiki/Special:EntityData/Q10424673.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1970-REC393961,place_identity,"""manor house""",https://www.wikidata.org/wiki/Special:EntityData/Q10424673.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1970-REC393961,place_identity,"""architectural ensemble""",https://www.wikidata.org/wiki/Special:EntityData/Q10424673.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1975-REC394801,location,"{""latitude"": 46.028742, ""longitude"": 14.348439}",https://www.wikidata.org/wiki/Special:EntityData/Q2417773.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1975-REC394801,elevation,339000.0,https://www.wikidata.org/wiki/Special:EntityData/Q2417773.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1975-REC394801,place_identity,"""human settlement""",https://www.wikidata.org/wiki/Special:EntityData/Q2417773.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1976-REC395011,location,"{""latitude"": 45.892131, ""longitude"": 15.511425}",https://www.wikidata.org/wiki/Special:EntityData/Q2373793.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1976-REC395011,location,"{""latitude"": 45.89392, ""longitude"": 15.50887}",https://www.wikidata.org/wiki/Special:EntityData/Q2373793.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1976-REC395011,elevation,154000.0,https://www.wikidata.org/wiki/Special:EntityData/Q2373793.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1976-REC395011,place_identity,"""human settlement""",https://www.wikidata.org/wiki/Special:EntityData/Q2373793.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP800-REC159811,location,"{""latitude"": 33.463333333333, ""longitude"": 65.203055555556}",https://www.wikidata.org/wiki/Special:EntityData/Q21745090.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP800-REC159811,place_identity,"""river""",https://www.wikidata.org/wiki/Special:EntityData/Q21745090.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP814-REC162751,place_identity,"""family name""",https://www.wikidata.org/wiki/Special:EntityData/Q140930771.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP826-REC165061,location,"{""latitude"": 34.435277777778, ""longitude"": 64.575555555556}",https://www.wikidata.org/wiki/Special:EntityData/Q21810286.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP826-REC165061,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q21810286.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP833-REC166531,location,"{""latitude"": 33.045555555556, ""longitude"": 60.669444444444}",https://www.wikidata.org/wiki/Special:EntityData/Q21755965.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP833-REC166531,elevation,882000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21755965.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP833-REC166531,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q21755965.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP831-REC166111,location,"{""latitude"": 33.487, ""longitude"": 62.8888}",https://www.wikidata.org/wiki/Special:EntityData/Q21755109.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP831-REC166111,elevation,1958000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21755109.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP831-REC166111,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q21755109.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP847-REC169261,location,"{""latitude"": 35.512222222222, ""longitude"": 68.3375}",https://www.wikidata.org/wiki/Special:EntityData/Q21770787.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP847-REC169261,place_identity,"""river""",https://www.wikidata.org/wiki/Special:EntityData/Q21770787.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP850-REC169891,location,"{""latitude"": 35.6275, ""longitude"": 66.478333333333}",https://www.wikidata.org/wiki/Special:EntityData/Q21765123.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP850-REC169891,elevation,3537000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21765123.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP850-REC169891,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q21765123.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP864-REC172621,location,"{""latitude"": 36.294166666667, ""longitude"": 70.361111111111}",https://www.wikidata.org/wiki/Special:EntityData/Q21775257.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP864-REC172621,elevation,4481000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21775257.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP864-REC172621,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q21775257.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP866-REC173041,location,"{""latitude"": 35.205277777778, ""longitude"": 70.911666666667}",https://www.wikidata.org/wiki/Special:EntityData/Q21776595.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP866-REC173041,elevation,3588000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21776595.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP866-REC173041,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q21776595.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP868-REC173461,location,"{""latitude"": 32.991388888889, ""longitude"": 69.475}",https://www.wikidata.org/wiki/Special:EntityData/Q21777364.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP868-REC173461,elevation,2119000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21777364.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP868-REC173461,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q21777364.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP875-REC174931,location,"{""latitude"": 33.418611111111, ""longitude"": 68.331944444444}",https://www.wikidata.org/wiki/Special:EntityData/Q21782182.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP875-REC174931,elevation,2210000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21782182.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP875-REC174931,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q21782182.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP857-REC171361,location,"{""latitude"": 35.5225, ""longitude"": 66.939444444444}",https://www.wikidata.org/wiki/Special:EntityData/Q21769187.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP857-REC171361,elevation,3790000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21769187.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP857-REC171361,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q21769187.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP822-REC164221,location,"{""latitude"": 34.049166666667, ""longitude"": 70.968055555556}",https://www.wikidata.org/wiki/Special:EntityData/Q21751078.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP822-REC164221,elevation,1889000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21751078.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP822-REC164221,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q21751078.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP926-REC185011,location,"{""latitude"": 37.5635, ""longitude"": 70.4444}",https://www.wikidata.org/wiki/Special:EntityData/Q15040970.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP926-REC185011,elevation,1740000.0,https://www.wikidata.org/wiki/Special:EntityData/Q15040970.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP926-REC185011,place_identity,"""airport""",https://www.wikidata.org/wiki/Special:EntityData/Q15040970.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP922-REC184381,location,"{""latitude"": 32.768611111111, ""longitude"": 64.778611111111}",https://www.wikidata.org/wiki/Special:EntityData/Q21820080.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP922-REC184381,elevation,1259000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21820080.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP922-REC184381,place_identity,"""valley""",https://www.wikidata.org/wiki/Special:EntityData/Q21820080.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP960-REC191941,location,"{""latitude"": -72.3167, ""longitude"": 168.917}",https://www.wikidata.org/wiki/Special:EntityData/Q6386045.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP960-REC191941,place_identity,"""glacier""",https://www.wikidata.org/wiki/Special:EntityData/Q6386045.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP965-REC192991,location,"{""latitude"": 47.44777778, ""longitude"": 13.79611111}",https://www.wikidata.org/wiki/Special:EntityData/Q16319152.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP965-REC192991,elevation,1107000.0,https://www.wikidata.org/wiki/Special:EntityData/Q16319152.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP965-REC192991,place_identity,"""waterfall""",https://www.wikidata.org/wiki/Special:EntityData/Q16319152.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP969-REC193621,location,"{""latitude"": 48.2007, ""longitude"": 16.3689}",https://www.wikidata.org/wiki/Special:EntityData/Q86451981.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP969-REC193621,place_identity,"""museum""",https://www.wikidata.org/wiki/Special:EntityData/Q86451981.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP961-REC192151,location,"{""latitude"": -72.1167, ""longitude"": 26.1}",https://www.wikidata.org/wiki/Special:EntityData/Q6885367.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP961-REC192151,place_identity,"""glacier""",https://www.wikidata.org/wiki/Special:EntityData/Q6885367.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP990-REC197821,location,"{""latitude"": 51.05638888888889, ""longitude"": 4.341388888888889}",https://www.wikidata.org/wiki/Special:EntityData/Q700580.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP990-REC197821,place_identity,"""fort""",https://www.wikidata.org/wiki/Special:EntityData/Q700580.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP993-REC198451,location,"{""latitude"": 43.220073, ""longitude"": 24.689361}",https://www.wikidata.org/wiki/Special:EntityData/Q2461525.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP993-REC198451,elevation,275000.0,https://www.wikidata.org/wiki/Special:EntityData/Q2461525.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP993-REC198451,place_identity,"""village of Bulgaria""",https://www.wikidata.org/wiki/Special:EntityData/Q2461525.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP993-REC198451,place_identity,"""kmetstvo of Bulgaria""",https://www.wikidata.org/wiki/Special:EntityData/Q2461525.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP997-REC199291,location,"{""latitude"": 42.645702, ""longitude"": 27.649498}",https://www.wikidata.org/wiki/Special:EntityData/Q2597663.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP997-REC199291,elevation,25000.0,https://www.wikidata.org/wiki/Special:EntityData/Q2597663.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP997-REC199291,place_identity,"""kmetstvo of Bulgaria""",https://www.wikidata.org/wiki/Special:EntityData/Q2597663.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP997-REC199291,place_identity,"""city in Bulgaria""",https://www.wikidata.org/wiki/Special:EntityData/Q2597663.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1003-REC200411,location,"{""latitude"": -3.4821666666667, ""longitude"": 29.352361111111}",https://www.wikidata.org/wiki/Special:EntityData/Q1402785.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1003-REC200411,location,"{""latitude"": -3.4811111111111, ""longitude"": 29.352777777778}",https://www.wikidata.org/wiki/Special:EntityData/Q1402785.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1003-REC200411,place_identity,"""monument""",https://www.wikidata.org/wiki/Special:EntityData/Q1402785.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1004-REC200621,location,"{""latitude"": -17.65944444, ""longitude"": -62.71972222}",https://www.wikidata.org/wiki/Special:EntityData/Q1725562.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1004-REC200621,elevation,291000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1725562.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1004-REC200621,place_identity,"""city""",https://www.wikidata.org/wiki/Special:EntityData/Q1725562.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP981-REC196141,location,"{""latitude"": 40.125005702551164, ""longitude"": 46.577623990255006}",https://www.wikidata.org/wiki/Special:EntityData/Q3133665.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP981-REC196141,elevation,1053000.0,https://www.wikidata.org/wiki/Special:EntityData/Q3133665.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP981-REC196141,place_identity,"""human settlement""",https://www.wikidata.org/wiki/Special:EntityData/Q3133665.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1008-REC201461,location,"{""latitude"": -5.95, ""longitude"": -54.166666666667}",https://www.wikidata.org/wiki/Special:EntityData/Q22024129.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1008-REC201461,elevation,229000.0,https://www.wikidata.org/wiki/Special:EntityData/Q22024129.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1008-REC201461,place_identity,"""waterfall""",https://www.wikidata.org/wiki/Special:EntityData/Q22024129.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1015-REC202931,location,"{""latitude"": 0.483889, ""longitude"": -61.7017}",https://www.wikidata.org/wiki/Special:EntityData/Q10362909.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1015-REC202931,place_identity,"""river""",https://www.wikidata.org/wiki/Special:EntityData/Q10362909.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1006-REC201041,location,"{""latitude"": 0.46666666666667, ""longitude"": -54.716666666667}",https://www.wikidata.org/wiki/Special:EntityData/Q22015579.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1006-REC201041,elevation,318000.0,https://www.wikidata.org/wiki/Special:EntityData/Q22015579.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1006-REC201041,place_identity,"""waterfall""",https://www.wikidata.org/wiki/Special:EntityData/Q22015579.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1016-REC203141,location,"{""latitude"": -22.87722535809352, ""longitude"": -43.24363471020466}",https://www.wikidata.org/wiki/Special:EntityData/Q2474815.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1016-REC203141,place_identity,"""open-access publisher""",https://www.wikidata.org/wiki/Special:EntityData/Q2474815.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1016-REC203141,place_identity,"""scientific organization""",https://www.wikidata.org/wiki/Special:EntityData/Q2474815.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1016-REC203141,place_identity,"""research institute""",https://www.wikidata.org/wiki/Special:EntityData/Q2474815.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1016-REC203141,place_identity,"""higher education institution""",https://www.wikidata.org/wiki/Special:EntityData/Q2474815.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1025-REC204821,location,"{""latitude"": 57, ""longitude"": -5}",https://www.wikidata.org/wiki/Special:EntityData/Q22.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1025-REC204821,place_identity,"""constituent country of the United Kingdom""",https://www.wikidata.org/wiki/Special:EntityData/Q22.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1025-REC204821,place_identity,"""nation""",https://www.wikidata.org/wiki/Special:EntityData/Q22.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1025-REC204821,place_identity,"""country""",https://www.wikidata.org/wiki/Special:EntityData/Q22.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1027-REC205241,place_identity,"""taxon""",https://www.wikidata.org/wiki/Special:EntityData/Q2082751.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1030-REC205871,location,"{""latitude"": 42.199158, ""longitude"": -71.154442}",https://www.wikidata.org/wiki/Special:EntityData/Q54079.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1030-REC205871,place_identity,"""county of Massachusetts""",https://www.wikidata.org/wiki/Special:EntityData/Q54079.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1032-REC206291,location,"{""latitude"": 57.64966, ""longitude"": -130.65396}",https://www.wikidata.org/wiki/Special:EntityData/Q22475351.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1032-REC206291,place_identity,"""glacier""",https://www.wikidata.org/wiki/Special:EntityData/Q22475351.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1033-REC206501,location,"{""latitude"": 76.426111111111, ""longitude"": -82.909444444444}",https://www.wikidata.org/wiki/Special:EntityData/Q3914294.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1033-REC206501,elevation,41000.0,https://www.wikidata.org/wiki/Special:EntityData/Q3914294.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1033-REC206501,place_identity,"""airport""",https://www.wikidata.org/wiki/Special:EntityData/Q3914294.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1033-REC206501,place_identity,"""commercial traffic aerodrome""",https://www.wikidata.org/wiki/Special:EntityData/Q3914294.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1037-REC207341,location,"{""latitude"": 3.2352777777778, ""longitude"": 19.771111111111}",https://www.wikidata.org/wiki/Special:EntityData/Q3275195.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1037-REC207341,location,"{""latitude"": 3.266667, ""longitude"": 19.766667}",https://www.wikidata.org/wiki/Special:EntityData/Q3275195.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1037-REC207341,elevation,420000.0,https://www.wikidata.org/wiki/Special:EntityData/Q3275195.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1037-REC207341,place_identity,"""airport""",https://www.wikidata.org/wiki/Special:EntityData/Q3275195.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1037-REC207341,place_identity,"""commercial traffic aerodrome""",https://www.wikidata.org/wiki/Special:EntityData/Q3275195.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1042-REC208391,location,"{""latitude"": 46.34903, ""longitude"": 9.07703}",https://www.wikidata.org/wiki/Special:EntityData/Q141686313.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1042-REC208391,place_identity,"""glacier""",https://www.wikidata.org/wiki/Special:EntityData/Q141686313.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1050-REC209861,location,"{""latitude"": -37, ""longitude"": -73.533333333333}",https://www.wikidata.org/wiki/Special:EntityData/Q5856194.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1050-REC209861,place_identity,"""lighthouse""",https://www.wikidata.org/wiki/Special:EntityData/Q5856194.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1056-REC211121,location,"{""latitude"": 31.04194, ""longitude"": 121.46013}",https://www.wikidata.org/wiki/Special:EntityData/Q10919619.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1056-REC211121,place_identity,"""town of China""",https://www.wikidata.org/wiki/Special:EntityData/Q10919619.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1034-REC206711,location,"{""latitude"": 49.67023, ""longitude"": -125.07964}",https://www.wikidata.org/wiki/Special:EntityData/Q22407860.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1034-REC206711,place_identity,"""waterfall""",https://www.wikidata.org/wiki/Special:EntityData/Q22407860.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1062-REC212381,location,"{""latitude"": 26.26717, ""longitude"": 107.5143}",https://www.wikidata.org/wiki/Special:EntityData/Q1207027.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1062-REC212381,elevation,800000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1207027.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1062-REC212381,place_identity,"""county-level city of China""",https://www.wikidata.org/wiki/Special:EntityData/Q1207027.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1045-REC208811,location,"{""latitude"": 46.6031, ""longitude"": 9.03083}",https://www.wikidata.org/wiki/Special:EntityData/Q141686364.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1045-REC208811,place_identity,"""glacier""",https://www.wikidata.org/wiki/Special:EntityData/Q141686364.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1088-REC217421,location,"{""latitude"": 10.4625, ""longitude"": -84.70333333333333}",https://www.wikidata.org/wiki/Special:EntityData/Q641588.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1088-REC217421,elevation,1670000.0,https://www.wikidata.org/wiki/Special:EntityData/Q641588.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1088-REC217421,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q641588.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1089-REC217631,location,"{""latitude"": 22.026944444444, ""longitude"": -78.789444444444}",https://www.wikidata.org/wiki/Special:EntityData/Q651520.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1089-REC217631,elevation,102000.0,https://www.wikidata.org/wiki/Special:EntityData/Q651520.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1089-REC217631,place_identity,"""airport""",https://www.wikidata.org/wiki/Special:EntityData/Q651520.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1011-REC202091,location,"{""latitude"": -30.812777777778, ""longitude"": -53.895}",https://www.wikidata.org/wiki/Special:EntityData/Q1750149.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1011-REC202091,elevation,277000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1750149.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1011-REC202091,place_identity,"""municipality of Brazil""",https://www.wikidata.org/wiki/Special:EntityData/Q1750149.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1097-REC219311,location,"{""latitude"": 48.932777777778, ""longitude"": 8.9563888888889}",https://www.wikidata.org/wiki/Special:EntityData/Q61928.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1097-REC219311,elevation,217000.0,https://www.wikidata.org/wiki/Special:EntityData/Q61928.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1097-REC219311,place_identity,"""urban municipality in Germany""",https://www.wikidata.org/wiki/Special:EntityData/Q61928.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1097-REC219311,place_identity,"""Greater district town in Baden-W\u00fcrttemberg""",https://www.wikidata.org/wiki/Special:EntityData/Q61928.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1100-REC219941,location,"{""latitude"": 49.930833333333, ""longitude"": 9.5675}",https://www.wikidata.org/wiki/Special:EntityData/Q508822.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1100-REC219941,elevation,150000.0,https://www.wikidata.org/wiki/Special:EntityData/Q508822.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1100-REC219941,place_identity,"""municipality without town privileges in Germany""",https://www.wikidata.org/wiki/Special:EntityData/Q508822.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1099-REC219731,location,"{""latitude"": 48.56666666666667, ""longitude"": 12.633333333333333}",https://www.wikidata.org/wiki/Special:EntityData/Q529488.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1099-REC219731,elevation,408000.0,https://www.wikidata.org/wiki/Special:EntityData/Q529488.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1099-REC219731,place_identity,"""market municipality of Germany""",https://www.wikidata.org/wiki/Special:EntityData/Q529488.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1099-REC219731,place_identity,"""municipality without town privileges in Germany""",https://www.wikidata.org/wiki/Special:EntityData/Q529488.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1104-REC220781,place_identity,"""family name""",https://www.wikidata.org/wiki/Special:EntityData/Q28331858.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1121-REC224141,location,"{""latitude"": 48.5741795073507, ""longitude"": 13.4654998317116}",https://www.wikidata.org/wiki/Special:EntityData/Q267182.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1121-REC224141,place_identity,"""cathedral""",https://www.wikidata.org/wiki/Special:EntityData/Q267182.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1134-REC226661,location,"{""latitude"": 59.201666666667, ""longitude"": 27.535277777778}",https://www.wikidata.org/wiki/Special:EntityData/Q10854876.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1134-REC226661,place_identity,"""village""",https://www.wikidata.org/wiki/Special:EntityData/Q10854876.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP996-REC199081,location,"{""latitude"": 43.506584, ""longitude"": 23.147602}",https://www.wikidata.org/wiki/Special:EntityData/Q1086324.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP996-REC199081,elevation,202000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1086324.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP996-REC199081,place_identity,"""village of Bulgaria""",https://www.wikidata.org/wiki/Special:EntityData/Q1086324.json
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP996-REC199081,place_identity,"""kmetstvo of Bulgaria""",https://www.wikidata.org/wiki/Special:EntityData/Q1086324.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1172-REC234221,location,"{""latitude"": 42.88103828, ""longitude"": -8.54619423}",https://www.wikidata.org/wiki/Special:EntityData/Q12397113.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1172-REC234221,place_identity,"""parador""",https://www.wikidata.org/wiki/Special:EntityData/Q12397113.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1166-REC233171,location,"{""latitude"": 41.048311111111, ""longitude"": -0.13265}",https://www.wikidata.org/wiki/Special:EntityData/Q8342648.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1166-REC233171,place_identity,"""castle""",https://www.wikidata.org/wiki/Special:EntityData/Q8342648.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1166-REC233171,place_identity,"""Monument (Spain)""",https://www.wikidata.org/wiki/Special:EntityData/Q8342648.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1166-REC233171,place_identity,"""parador""",https://www.wikidata.org/wiki/Special:EntityData/Q8342648.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1166-REC233171,place_identity,"""hotel""",https://www.wikidata.org/wiki/Special:EntityData/Q8342648.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1173-REC234431,place_identity,"""museum""",https://www.wikidata.org/wiki/Special:EntityData/Q17043309.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1174-REC234641,place_identity,"""type of building""",https://www.wikidata.org/wiki/Special:EntityData/Q91717.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1175-REC234851,location,"{""latitude"": 41.3064, ""longitude"": 1.65833}",https://www.wikidata.org/wiki/Special:EntityData/Q8342506.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1175-REC234851,place_identity,"""castle""",https://www.wikidata.org/wiki/Special:EntityData/Q8342506.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1179-REC235691,location,"{""latitude"": 69.4275, ""longitude"": 28.132222222222}",https://www.wikidata.org/wiki/Special:EntityData/Q24317794.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1179-REC235691,elevation,210000.0,https://www.wikidata.org/wiki/Special:EntityData/Q24317794.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1179-REC235691,place_identity,"""lake""",https://www.wikidata.org/wiki/Special:EntityData/Q24317794.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1179-REC235691,place_identity,"""group of lakes or ponds""",https://www.wikidata.org/wiki/Special:EntityData/Q24317794.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1183-REC236531,location,"{""latitude"": 63.42641, ""longitude"": 23.31392}",https://www.wikidata.org/wiki/Special:EntityData/Q23040362.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1183-REC236531,place_identity,"""local museum""",https://www.wikidata.org/wiki/Special:EntityData/Q23040362.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1183-REC236531,place_identity,"""wooden house""",https://www.wikidata.org/wiki/Special:EntityData/Q23040362.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1182-REC236321,location,"{""latitude"": 61.799166666667, ""longitude"": 29.321944444444}",https://www.wikidata.org/wiki/Special:EntityData/Q11879901.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1182-REC236321,place_identity,"""museum""",https://www.wikidata.org/wiki/Special:EntityData/Q11879901.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1182-REC236321,place_identity,"""specialised museum in Finland""",https://www.wikidata.org/wiki/Special:EntityData/Q11879901.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1182-REC236321,place_identity,"""forestry museum""",https://www.wikidata.org/wiki/Special:EntityData/Q11879901.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1188-REC237581,location,"{""latitude"": 47.541944444444, ""longitude"": 4.4452777777778}",https://www.wikidata.org/wiki/Special:EntityData/Q224460.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1188-REC237581,elevation,228000.0,https://www.wikidata.org/wiki/Special:EntityData/Q224460.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1188-REC237581,elevation,423000.0,https://www.wikidata.org/wiki/Special:EntityData/Q224460.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1188-REC237581,elevation,266000.0,https://www.wikidata.org/wiki/Special:EntityData/Q224460.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1188-REC237581,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q224460.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1189-REC237791,location,"{""latitude"": 45.114166666667, ""longitude"": 6.5638888888889}",https://www.wikidata.org/wiki/Special:EntityData/Q1290356.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1189-REC237791,elevation,3178000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1290356.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1189-REC237791,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q1290356.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1194-REC238631,location,"{""latitude"": 46.032777777778, ""longitude"": -1.3788888888889}",https://www.wikidata.org/wiki/Special:EntityData/Q1079263.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1194-REC238631,elevation,0.0,https://www.wikidata.org/wiki/Special:EntityData/Q1079263.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1194-REC238631,elevation,15000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1079263.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1194-REC238631,elevation,7000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1079263.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1194-REC238631,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q1079263.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1197-REC239261,location,"{""latitude"": 50.703888888889, ""longitude"": 1.5938888888889}",https://www.wikidata.org/wiki/Special:EntityData/Q853099.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1197-REC239261,elevation,2000.0,https://www.wikidata.org/wiki/Special:EntityData/Q853099.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1197-REC239261,elevation,96000.0,https://www.wikidata.org/wiki/Special:EntityData/Q853099.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1197-REC239261,elevation,48000.0,https://www.wikidata.org/wiki/Special:EntityData/Q853099.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1197-REC239261,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q853099.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1199-REC239681,location,"{""latitude"": 45.763888888889, ""longitude"": 1.5683333333333}",https://www.wikidata.org/wiki/Special:EntityData/Q1078816.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1199-REC239681,elevation,290000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1078816.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1199-REC239681,elevation,418000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1078816.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1199-REC239681,elevation,359000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1078816.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1199-REC239681,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q1078816.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1203-REC240521,location,"{""latitude"": 47.271666666667, ""longitude"": -1.3380555555556}",https://www.wikidata.org/wiki/Special:EntityData/Q780124.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1203-REC240521,elevation,1000.0,https://www.wikidata.org/wiki/Special:EntityData/Q780124.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1203-REC240521,elevation,79000.0,https://www.wikidata.org/wiki/Special:EntityData/Q780124.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1203-REC240521,elevation,43000.0,https://www.wikidata.org/wiki/Special:EntityData/Q780124.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1203-REC240521,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q780124.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1203-REC240521,place_identity,"""delegated commune""",https://www.wikidata.org/wiki/Special:EntityData/Q780124.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1204-REC240731,place_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Special:EntityData/Q29089909.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1205-REC240941,location,"{""latitude"": 45, ""longitude"": 6.25}",https://www.wikidata.org/wiki/Special:EntityData/Q34835040.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1205-REC240941,elevation,3600000.0,https://www.wikidata.org/wiki/Special:EntityData/Q34835040.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1205-REC240941,place_identity,"""glacier""",https://www.wikidata.org/wiki/Special:EntityData/Q34835040.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1215-REC242831,location,"{""latitude"": 47.2775, ""longitude"": -1.2863888888889}",https://www.wikidata.org/wiki/Special:EntityData/Q1002451.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1215-REC242831,elevation,7000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1002451.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1215-REC242831,elevation,84000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1002451.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1215-REC242831,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q1002451.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1215-REC242831,place_identity,"""delegated commune""",https://www.wikidata.org/wiki/Special:EntityData/Q1002451.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1217-REC243251,location,"{""latitude"": 45.241944444444, ""longitude"": 4.8069444444444}",https://www.wikidata.org/wiki/Special:EntityData/Q639112.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1217-REC243251,elevation,129000.0,https://www.wikidata.org/wiki/Special:EntityData/Q639112.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1217-REC243251,elevation,168000.0,https://www.wikidata.org/wiki/Special:EntityData/Q639112.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1217-REC243251,elevation,142000.0,https://www.wikidata.org/wiki/Special:EntityData/Q639112.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1217-REC243251,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q639112.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1300-REC259841,location,"{""latitude"": 45.397, ""longitude"": 13.615}",https://www.wikidata.org/wiki/Special:EntityData/Q2211489.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1300-REC259841,place_identity,"""settlement in Croatia""",https://www.wikidata.org/wiki/Special:EntityData/Q2211489.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1329-REC265721,location,"{""latitude"": 24.5625, ""longitude"": 80.854445}",https://www.wikidata.org/wiki/Special:EntityData/Q7426329.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1329-REC265721,elevation,323000.0,https://www.wikidata.org/wiki/Special:EntityData/Q7426329.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1329-REC265721,place_identity,"""airport""",https://www.wikidata.org/wiki/Special:EntityData/Q7426329.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1330-REC265931,location,"{""latitude"": 28.553325, ""longitude"": 77.2586}",https://www.wikidata.org/wiki/Special:EntityData/Q940843.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1330-REC265931,place_identity,"""temple""",https://www.wikidata.org/wiki/Special:EntityData/Q940843.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1338-REC267401,location,"{""latitude"": 15.07, ""longitude"": 76.55}",https://www.wikidata.org/wiki/Special:EntityData/Q5224171.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1338-REC267401,place_identity,"""village in India""",https://www.wikidata.org/wiki/Special:EntityData/Q5224171.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1367-REC273281,location,"{""latitude"": 36.39841, ""longitude"": 45.2337}",https://www.wikidata.org/wiki/Special:EntityData/Q26856373.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1367-REC273281,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q26856373.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1371-REC274121,place_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Special:EntityData/Q22193429.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1375-REC274961,location,"{""latitude"": 35.590555555556, ""longitude"": 54.558055555556}",https://www.wikidata.org/wiki/Special:EntityData/Q26858493.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1375-REC274961,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q26858493.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1417-REC283361,location,"{""latitude"": 33.473888888889, ""longitude"": 57.559166666667}",https://www.wikidata.org/wiki/Special:EntityData/Q26874930.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1417-REC283361,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q26874930.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1427-REC285251,location,"{""latitude"": 29.45138888888889, ""longitude"": 55.68083333333333}",https://www.wikidata.org/wiki/Special:EntityData/Q605224.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1427-REC285251,elevation,1744000.0,https://www.wikidata.org/wiki/Special:EntityData/Q605224.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1427-REC285251,place_identity,"""city of Iran""",https://www.wikidata.org/wiki/Special:EntityData/Q605224.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1427-REC285251,place_identity,"""big city""",https://www.wikidata.org/wiki/Special:EntityData/Q605224.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1418-REC283571,place_identity,"""archive file format""",https://www.wikidata.org/wiki/Special:EntityData/Q921122.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1418-REC283571,place_identity,"""file format""",https://www.wikidata.org/wiki/Special:EntityData/Q921122.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1430-REC285881,location,"{""latitude"": 28.3062, ""longitude"": 55.7426}",https://www.wikidata.org/wiki/Special:EntityData/Q26920661.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1430-REC285881,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q26920661.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1423-REC284411,place_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Special:EntityData/Q16888642.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1443-REC288401,location,"{""latitude"": 37.042777777778, ""longitude"": 49.578888888889}",https://www.wikidata.org/wiki/Special:EntityData/Q26880548.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1443-REC288401,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q26880548.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1524-REC304781,location,"{""latitude"": 28.5425, ""longitude"": 56.528333333333}",https://www.wikidata.org/wiki/Special:EntityData/Q26874334.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1524-REC304781,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q26874334.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1534-REC306671,location,"{""latitude"": 38.593888888889, ""longitude"": 47.494166666667}",https://www.wikidata.org/wiki/Special:EntityData/Q26987068.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1534-REC306671,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q26987068.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1541-REC308141,location,"{""latitude"": 36.78888889, ""longitude"": 50.815}",https://www.wikidata.org/wiki/Special:EntityData/Q5718942.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1541-REC308141,place_identity,"""village""",https://www.wikidata.org/wiki/Special:EntityData/Q5718942.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1546-REC309191,location,"{""latitude"": 28.83, ""longitude"": 56.371388888889}",https://www.wikidata.org/wiki/Special:EntityData/Q26966751.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1546-REC309191,place_identity,"""valley""",https://www.wikidata.org/wiki/Special:EntityData/Q26966751.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1564-REC312761,location,"{""latitude"": 66.109444444444, ""longitude"": -15.614444444444}",https://www.wikidata.org/wiki/Special:EntityData/Q27007394.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1564-REC312761,place_identity,"""waterfall""",https://www.wikidata.org/wiki/Special:EntityData/Q27007394.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1579-REC315701,location,"{""latitude"": 43.78928, ""longitude"": 7.62674}",https://www.wikidata.org/wiki/Special:EntityData/Q3608794.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1579-REC315701,place_identity,"""archaeological site""",https://www.wikidata.org/wiki/Special:EntityData/Q3608794.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1566-REC313181,location,"{""latitude"": 46.706164, ""longitude"": 10.520665}",https://www.wikidata.org/wiki/Special:EntityData/Q334022.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1566-REC313181,place_identity,"""abbey""",https://www.wikidata.org/wiki/Special:EntityData/Q334022.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1566-REC313181,place_identity,"""minor basilica""",https://www.wikidata.org/wiki/Special:EntityData/Q334022.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1566-REC313181,place_identity,"""shrine""",https://www.wikidata.org/wiki/Special:EntityData/Q334022.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1566-REC313181,place_identity,"""religious community""",https://www.wikidata.org/wiki/Special:EntityData/Q334022.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1566-REC313181,place_identity,"""religious museum""",https://www.wikidata.org/wiki/Special:EntityData/Q334022.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1566-REC313181,place_identity,"""history museum""",https://www.wikidata.org/wiki/Special:EntityData/Q334022.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1566-REC313181,place_identity,"""private museum""",https://www.wikidata.org/wiki/Special:EntityData/Q334022.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1566-REC313181,place_identity,"""specialized museum""",https://www.wikidata.org/wiki/Special:EntityData/Q334022.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1566-REC313181,place_identity,"""monastery""",https://www.wikidata.org/wiki/Special:EntityData/Q334022.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1536-REC307091,location,"{""latitude"": 33.1868, ""longitude"": 57.3354}",https://www.wikidata.org/wiki/Special:EntityData/Q26934257.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1536-REC307091,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q26934257.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1582-REC316331,location,"{""latitude"": 45.146887, ""longitude"": 10.786965}",https://www.wikidata.org/wiki/Special:EntityData/Q112319445.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1582-REC316331,place_identity,"""villa""",https://www.wikidata.org/wiki/Special:EntityData/Q112319445.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1581-REC316121,location,"{""latitude"": 42.229649, ""longitude"": 14.386692}",https://www.wikidata.org/wiki/Special:EntityData/Q3868270.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1581-REC316121,place_identity,"""diocesan museum""",https://www.wikidata.org/wiki/Special:EntityData/Q3868270.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1581-REC316121,place_identity,"""religious museum""",https://www.wikidata.org/wiki/Special:EntityData/Q3868270.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1581-REC316121,place_identity,"""art museum""",https://www.wikidata.org/wiki/Special:EntityData/Q3868270.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1581-REC316121,place_identity,"""private museum""",https://www.wikidata.org/wiki/Special:EntityData/Q3868270.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1584-REC316751,location,"{""latitude"": 38.015637, ""longitude"": 12.514042}",https://www.wikidata.org/wiki/Special:EntityData/Q3891453.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1584-REC316751,place_identity,"""palace""",https://www.wikidata.org/wiki/Special:EntityData/Q3891453.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1590-REC317801,location,"{""latitude"": 41.906388888889, ""longitude"": 12.454444444444}",https://www.wikidata.org/wiki/Special:EntityData/Q182955.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1590-REC317801,place_identity,"""art museum""",https://www.wikidata.org/wiki/Special:EntityData/Q182955.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1590-REC317801,place_identity,"""national museum""",https://www.wikidata.org/wiki/Special:EntityData/Q182955.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1592-REC318221,location,"{""latitude"": 39.4418937, ""longitude"": 9.5404243}",https://www.wikidata.org/wiki/Special:EntityData/Q284881.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1592-REC318221,elevation,10000.0,https://www.wikidata.org/wiki/Special:EntityData/Q284881.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1592-REC318221,place_identity,"""comune of Italy""",https://www.wikidata.org/wiki/Special:EntityData/Q284881.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1595-REC318851,location,"{""latitude"": 43.3072, ""longitude"": 13.43572}",https://www.wikidata.org/wiki/Special:EntityData/Q3967819.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1595-REC318851,place_identity,"""association football venue""",https://www.wikidata.org/wiki/Special:EntityData/Q3967819.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1596-REC319061,location,"{""latitude"": 44.526928, ""longitude"": 11.348606}",https://www.wikidata.org/wiki/Special:EntityData/Q3967746.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1596-REC319061,place_identity,"""rugby union venue""",https://www.wikidata.org/wiki/Special:EntityData/Q3967746.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1596-REC319061,place_identity,"""association football venue""",https://www.wikidata.org/wiki/Special:EntityData/Q3967746.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1598-REC319481,location,"{""latitude"": 38.906849, ""longitude"": 8.6103683}",https://www.wikidata.org/wiki/Special:EntityData/Q122198527.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1598-REC319481,place_identity,"""nuraghe""",https://www.wikidata.org/wiki/Special:EntityData/Q122198527.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1604-REC320741,location,"{""latitude"": 7.1153241, ""longitude"": 3.2826094}",https://www.wikidata.org/wiki/Special:EntityData/Q125423174.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1604-REC320741,place_identity,"""structure of worship""",https://www.wikidata.org/wiki/Special:EntityData/Q125423174.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1617-REC323261,location,"{""latitude"": 33.54, ""longitude"": 131.01166666666666}",https://www.wikidata.org/wiki/Special:EntityData/Q11550484.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1617-REC323261,location,"{""latitude"": 33.540277777778, ""longitude"": 131.0125}",https://www.wikidata.org/wiki/Special:EntityData/Q11550484.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1617-REC323261,elevation,782000.0,https://www.wikidata.org/wiki/Special:EntityData/Q11550484.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1617-REC323261,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q11550484.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1620-REC323891,place_identity,"""male given name""",https://www.wikidata.org/wiki/Special:EntityData/Q33882311.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1601-REC320111,location,"{""latitude"": 32.279166666667, ""longitude"": 35.597777777778}",https://www.wikidata.org/wiki/Special:EntityData/Q27122897.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1601-REC320111,elevation,183000.0,https://www.wikidata.org/wiki/Special:EntityData/Q27122897.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1601-REC320111,place_identity,"""human settlement""",https://www.wikidata.org/wiki/Special:EntityData/Q27122897.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1601-REC320111,place_identity,"""city""",https://www.wikidata.org/wiki/Special:EntityData/Q27122897.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1626-REC325151,place_identity,"""university""",https://www.wikidata.org/wiki/Special:EntityData/Q3180921.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1626-REC325151,place_identity,"""national university""",https://www.wikidata.org/wiki/Special:EntityData/Q3180921.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1626-REC325151,place_identity,"""academic publisher""",https://www.wikidata.org/wiki/Special:EntityData/Q3180921.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1626-REC325151,place_identity,"""medical university in Japan""",https://www.wikidata.org/wiki/Special:EntityData/Q3180921.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1626-REC325151,place_identity,"""dental school""",https://www.wikidata.org/wiki/Special:EntityData/Q3180921.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1638-REC327461,location,"{""latitude"": 10.56666667, ""longitude"": 103.3}",https://www.wikidata.org/wiki/Special:EntityData/Q4930285.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1638-REC327461,location,"{""latitude"": 10.58, ""longitude"": 103.302}",https://www.wikidata.org/wiki/Special:EntityData/Q4930285.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1638-REC327461,elevation,202000.0,https://www.wikidata.org/wiki/Special:EntityData/Q4930285.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1638-REC327461,place_identity,"""island""",https://www.wikidata.org/wiki/Special:EntityData/Q4930285.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1635-REC326831,location,"{""latitude"": -0.1, ""longitude"": 34.75}",https://www.wikidata.org/wiki/Special:EntityData/Q214485.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1635-REC326831,elevation,1131000.0,https://www.wikidata.org/wiki/Special:EntityData/Q214485.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1635-REC326831,place_identity,"""city""",https://www.wikidata.org/wiki/Special:EntityData/Q214485.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1635-REC326831,place_identity,"""big city""",https://www.wikidata.org/wiki/Special:EntityData/Q214485.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1650-REC329981,location,"{""latitude"": 39.8526645, ""longitude"": 127.5859683}",https://www.wikidata.org/wiki/Special:EntityData/Q81768708.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1650-REC329981,place_identity,"""railway station""",https://www.wikidata.org/wiki/Special:EntityData/Q81768708.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1665-REC332921,place_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Special:EntityData/Q29085014.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1664-REC332711,location,"{""latitude"": 41.4, ""longitude"": 128.18333333333}",https://www.wikidata.org/wiki/Special:EntityData/Q489829.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1664-REC332711,place_identity,"""city of North Korea""",https://www.wikidata.org/wiki/Special:EntityData/Q489829.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1664-REC332711,place_identity,"""border city""",https://www.wikidata.org/wiki/Special:EntityData/Q489829.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1664-REC332711,place_identity,"""big city""",https://www.wikidata.org/wiki/Special:EntityData/Q489829.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1680-REC335861,location,"{""latitude"": 37.19139, ""longitude"": 126.36806}",https://www.wikidata.org/wiki/Special:EntityData/Q27295524.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1680-REC335861,place_identity,"""island""",https://www.wikidata.org/wiki/Special:EntityData/Q27295524.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1692-REC338381,location,"{""latitude"": 37.57383333333334, ""longitude"": 126.9918888888889}",https://www.wikidata.org/wiki/Special:EntityData/Q5208180.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1692-REC338381,place_identity,"""Korean Buddhist temple""",https://www.wikidata.org/wiki/Special:EntityData/Q5208180.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1695-REC338801,location,"{""latitude"": 37.62277777777778, ""longitude"": 127.1288888888889}",https://www.wikidata.org/wiki/Special:EntityData/Q16184759.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1695-REC338801,place_identity,"""burial plot""",https://www.wikidata.org/wiki/Special:EntityData/Q16184759.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1723-REC344471,location,"{""latitude"": 43.448387, ""longitude"": 78.675}",https://www.wikidata.org/wiki/Special:EntityData/Q4505577.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1723-REC344471,place_identity,"""village of Kazakhstan""",https://www.wikidata.org/wiki/Special:EntityData/Q4505577.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1720-REC343841,location,"{""latitude"": 44.336111111111, ""longitude"": 78.444722222222}",https://www.wikidata.org/wiki/Special:EntityData/Q4506339.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1720-REC343841,place_identity,"""human settlement""",https://www.wikidata.org/wiki/Special:EntityData/Q4506339.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1720-REC343841,place_identity,"""village of Kazakhstan""",https://www.wikidata.org/wiki/Special:EntityData/Q4506339.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1744-REC348671,location,"{""latitude"": 33.813611111111, ""longitude"": 35.6775}",https://www.wikidata.org/wiki/Special:EntityData/Q21568184.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1744-REC348671,place_identity,"""cave""",https://www.wikidata.org/wiki/Special:EntityData/Q21568184.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1751-REC350141,location,"{""latitude"": 7.9636611111111, ""longitude"": 81.387230555556}",https://www.wikidata.org/wiki/Special:EntityData/Q1525079.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1751-REC350141,place_identity,"""human settlement""",https://www.wikidata.org/wiki/Special:EntityData/Q1525079.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1753-REC350561,location,"{""latitude"": 55.325, ""longitude"": 24.697}",https://www.wikidata.org/wiki/Special:EntityData/Q16475661.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1753-REC350561,place_identity,"""village""",https://www.wikidata.org/wiki/Special:EntityData/Q16475661.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1754-REC350771,location,"{""latitude"": 54.814, ""longitude"": 23.725}",https://www.wikidata.org/wiki/Special:EntityData/Q14919260.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1754-REC350771,place_identity,"""village""",https://www.wikidata.org/wiki/Special:EntityData/Q14919260.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1755-REC350981,location,"{""latitude"": 56.2, ""longitude"": 21.336}",https://www.wikidata.org/wiki/Special:EntityData/Q12659398.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1755-REC350981,place_identity,"""village""",https://www.wikidata.org/wiki/Special:EntityData/Q12659398.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1622-REC324311,location,"{""latitude"": 40.22889167, ""longitude"": 140.57895278}",https://www.wikidata.org/wiki/Special:EntityData/Q11547393.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1622-REC324311,place_identity,"""\u014daza""",https://www.wikidata.org/wiki/Special:EntityData/Q11547393.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1756-REC351191,location,"{""latitude"": 54.687111111111, ""longitude"": 25.214611111111}",https://www.wikidata.org/wiki/Special:EntityData/Q1407353.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1756-REC351191,place_identity,"""television tower""",https://www.wikidata.org/wiki/Special:EntityData/Q1407353.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1796-REC359171,location,"{""latitude"": 41.9411, ""longitude"": 21.3322}",https://www.wikidata.org/wiki/Special:EntityData/Q3071591.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1796-REC359171,elevation,587000.0,https://www.wikidata.org/wiki/Special:EntityData/Q3071591.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1796-REC359171,place_identity,"""village""",https://www.wikidata.org/wiki/Special:EntityData/Q3071591.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1792-REC358331,location,"{""latitude"": 47.766111111111, ""longitude"": 27.320833333333}",https://www.wikidata.org/wiki/Special:EntityData/Q1985502.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1792-REC358331,location,"{""latitude"": 47.76666667, ""longitude"": 27.31666667}",https://www.wikidata.org/wiki/Special:EntityData/Q1985502.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1792-REC358331,elevation,86000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1985502.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1792-REC358331,place_identity,"""commune of Moldova""",https://www.wikidata.org/wiki/Special:EntityData/Q1985502.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1792-REC358331,place_identity,"""village""",https://www.wikidata.org/wiki/Special:EntityData/Q1985502.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1798-REC359591,place_identity,"""family name""",https://www.wikidata.org/wiki/Special:EntityData/Q15043067.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1801-REC360011,location,"{""latitude"": 49.15, ""longitude"": 110.45}",https://www.wikidata.org/wiki/Special:EntityData/Q56545321.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1806-REC361061,location,"{""latitude"": 19.02431888888889, ""longitude"": -88.10947861111111}",https://www.wikidata.org/wiki/Special:EntityData/Q61305266.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1806-REC361061,place_identity,"""locality of Mexico""",https://www.wikidata.org/wiki/Special:EntityData/Q61305266.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1805-REC360851,location,"{""latitude"": -15.786111111111, ""longitude"": 35.005833333333}",https://www.wikidata.org/wiki/Special:EntityData/Q188693.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1805-REC360851,elevation,1039000.0,https://www.wikidata.org/wiki/Special:EntityData/Q188693.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1805-REC360851,elevation,1041000.0,https://www.wikidata.org/wiki/Special:EntityData/Q188693.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1805-REC360851,place_identity,"""city""",https://www.wikidata.org/wiki/Special:EntityData/Q188693.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1805-REC360851,place_identity,"""big city""",https://www.wikidata.org/wiki/Special:EntityData/Q188693.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1810-REC361901,location,"{""latitude"": 18.7833, ""longitude"": -110.95}",https://www.wikidata.org/wiki/Special:EntityData/Q6164630.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1810-REC361901,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q6164630.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1810-REC361901,place_identity,"""volcano""",https://www.wikidata.org/wiki/Special:EntityData/Q6164630.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1809-REC361691,location,"{""latitude"": 25.684444444444445, ""longitude"": -100.31805555555556}",https://www.wikidata.org/wiki/Special:EntityData/Q81033.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1809-REC361691,elevation,546000.0,https://www.wikidata.org/wiki/Special:EntityData/Q81033.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1809-REC361691,place_identity,"""locality""",https://www.wikidata.org/wiki/Special:EntityData/Q81033.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1809-REC361691,place_identity,"""city""",https://www.wikidata.org/wiki/Special:EntityData/Q81033.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1809-REC361691,place_identity,"""big city""",https://www.wikidata.org/wiki/Special:EntityData/Q81033.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1809-REC361691,place_identity,"""locality of Mexico""",https://www.wikidata.org/wiki/Special:EntityData/Q81033.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1813-REC362531,location,"{""latitude"": 23.422222222222, ""longitude"": -98.596111111111}",https://www.wikidata.org/wiki/Special:EntityData/Q27801175.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1813-REC362531,elevation,558000.0,https://www.wikidata.org/wiki/Special:EntityData/Q27801175.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1813-REC362531,place_identity,"""canyon""",https://www.wikidata.org/wiki/Special:EntityData/Q27801175.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1814-REC362741,location,"{""latitude"": 26.394166666667, ""longitude"": -101.6025}",https://www.wikidata.org/wiki/Special:EntityData/Q27821355.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1814-REC362741,elevation,1853000.0,https://www.wikidata.org/wiki/Special:EntityData/Q27821355.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1814-REC362741,place_identity,"""canyon""",https://www.wikidata.org/wiki/Special:EntityData/Q27821355.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1817-REC363371,location,"{""latitude"": 30.216666666667, ""longitude"": -115.71666666667}",https://www.wikidata.org/wiki/Special:EntityData/Q27784391.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1817-REC363371,elevation,286000.0,https://www.wikidata.org/wiki/Special:EntityData/Q27784391.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1817-REC363371,place_identity,"""canyon""",https://www.wikidata.org/wiki/Special:EntityData/Q27784391.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1824-REC364631,location,"{""latitude"": 24.744444444444, ""longitude"": -103.49444444444}",https://www.wikidata.org/wiki/Special:EntityData/Q27836421.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1824-REC364631,elevation,1933000.0,https://www.wikidata.org/wiki/Special:EntityData/Q27836421.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1824-REC364631,place_identity,"""canyon""",https://www.wikidata.org/wiki/Special:EntityData/Q27836421.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1825-REC364841,location,"{""latitude"": 24.113888888889, ""longitude"": -103.735}",https://www.wikidata.org/wiki/Special:EntityData/Q34897905.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1825-REC364841,place_identity,"""ravine""",https://www.wikidata.org/wiki/Special:EntityData/Q34897905.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1831-REC366101,location,"{""latitude"": 12.814286, ""longitude"": -85.6292868}",https://www.wikidata.org/wiki/Special:EntityData/Q21054707.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1831-REC366101,elevation,287000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21054707.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1829-REC365681,location,"{""latitude"": -17.920833333333, ""longitude"": 15.954166666667}",https://www.wikidata.org/wiki/Special:EntityData/Q2023773.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1829-REC365681,elevation,1080000.0,https://www.wikidata.org/wiki/Special:EntityData/Q2023773.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1829-REC365681,place_identity,"""city""",https://www.wikidata.org/wiki/Special:EntityData/Q2023773.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1832-REC366311,location,"{""latitude"": 51.643055555556, ""longitude"": 4.8569444444444}",https://www.wikidata.org/wiki/Special:EntityData/Q9858.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1832-REC366311,elevation,5000.0,https://www.wikidata.org/wiki/Special:EntityData/Q9858.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP873-REC174581,location,"{""latitude"": 33.960555555556, ""longitude"": 67.679444444444}",https://www.wikidata.org/wiki/Special:EntityData/Q21781247.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP873-REC174581,elevation,3610000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21781247.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP873-REC174581,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q21781247.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP874-REC174791,location,"{""latitude"": 33.969166666667, ""longitude"": 68.649444444444}",https://www.wikidata.org/wiki/Special:EntityData/Q21782334.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP874-REC174791,elevation,2574000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21782334.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP874-REC174791,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q21782334.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP878-REC175421,location,"{""latitude"": 32.997222222222, ""longitude"": 65.301666666667}",https://www.wikidata.org/wiki/Special:EntityData/Q21785460.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP878-REC175421,elevation,2520000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21785460.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP878-REC175421,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q21785460.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP899-REC179621,location,"{""latitude"": 34.48923, ""longitude"": 67.8837}",https://www.wikidata.org/wiki/Special:EntityData/Q21811322.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP899-REC179621,place_identity,"""river""",https://www.wikidata.org/wiki/Special:EntityData/Q21811322.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP911-REC182141,location,"{""latitude"": 34.499166666667, ""longitude"": 70.695277777778}",https://www.wikidata.org/wiki/Special:EntityData/Q21815861.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP911-REC182141,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q21815861.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP912-REC182351,location,"{""latitude"": 35.529722222222, ""longitude"": 68.961388888889}",https://www.wikidata.org/wiki/Special:EntityData/Q21815639.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP912-REC182351,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q21815639.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP934-REC186761,location,"{""latitude"": 40.151389, ""longitude"": 44.266389}",https://www.wikidata.org/wiki/Special:EntityData/Q1142786.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP934-REC186761,elevation,860000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1142786.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP934-REC186761,place_identity,"""village in Armenia""",https://www.wikidata.org/wiki/Special:EntityData/Q1142786.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP935-REC186971,location,"{""latitude"": 39.80011, ""longitude"": 45.1861}",https://www.wikidata.org/wiki/Special:EntityData/Q21405267.json
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP935-REC186971,place_identity,"""valley""",https://www.wikidata.org/wiki/Special:EntityData/Q21405267.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1017-REC203211,location,"{""latitude"": -17.83472, ""longitude"": -50.95611}",https://www.wikidata.org/wiki/Special:EntityData/Q7335353.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1017-REC203211,elevation,751000.0,https://www.wikidata.org/wiki/Special:EntityData/Q7335353.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1017-REC203211,place_identity,"""airport""",https://www.wikidata.org/wiki/Special:EntityData/Q7335353.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1017-REC203211,place_identity,"""commercial traffic aerodrome""",https://www.wikidata.org/wiki/Special:EntityData/Q7335353.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1017-REC203211,place_identity,"""aerodrome""",https://www.wikidata.org/wiki/Special:EntityData/Q7335353.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1060-REC211821,place_identity,"""human""",https://www.wikidata.org/wiki/Special:EntityData/Q124353894.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1033-REC206571,location,"{""latitude"": 54.285833333333, ""longitude"": -130.44472222222}",https://www.wikidata.org/wiki/Special:EntityData/Q93902.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1033-REC206571,elevation,116000.0,https://www.wikidata.org/wiki/Special:EntityData/Q93902.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1033-REC206571,place_identity,"""airport""",https://www.wikidata.org/wiki/Special:EntityData/Q93902.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1033-REC206571,place_identity,"""commercial traffic aerodrome""",https://www.wikidata.org/wiki/Special:EntityData/Q93902.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1062-REC212241,location,"{""latitude"": 37.446666666667, ""longitude"": 122.66666666667}",https://www.wikidata.org/wiki/Special:EntityData/Q28798563.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1062-REC212241,place_identity,"""island""",https://www.wikidata.org/wiki/Special:EntityData/Q28798563.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1064-REC212661,location,"{""latitude"": 33.42888888888889, ""longitude"": 91.1825}",https://www.wikidata.org/wiki/Special:EntityData/Q5413.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1064-REC212661,location,"{""latitude"": 31.393611111111, ""longitude"": 121.98305555556}",https://www.wikidata.org/wiki/Special:EntityData/Q5413.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1064-REC212661,location,"{""latitude"": 32.60388888888889, ""longitude"": 94.51222222222222}",https://www.wikidata.org/wiki/Special:EntityData/Q5413.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1064-REC212661,place_identity,"""river""",https://www.wikidata.org/wiki/Special:EntityData/Q5413.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1066-REC213081,place_identity,"""human""",https://www.wikidata.org/wiki/Special:EntityData/Q107690116.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1075-REC214971,place_identity,"""family name""",https://www.wikidata.org/wiki/Special:EntityData/Q61302968.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1074-REC214761,location,"{""latitude"": 46.6725, ""longitude"": 83.340833333333}",https://www.wikidata.org/wiki/Special:EntityData/Q2983621.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1074-REC214761,elevation,604000.0,https://www.wikidata.org/wiki/Special:EntityData/Q2983621.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1074-REC214761,place_identity,"""airport""",https://www.wikidata.org/wiki/Special:EntityData/Q2983621.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1074-REC214761,place_identity,"""commercial traffic aerodrome""",https://www.wikidata.org/wiki/Special:EntityData/Q2983621.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1088-REC217491,location,"{""latitude"": 9.858472, ""longitude"": -83.918713}",https://www.wikidata.org/wiki/Special:EntityData/Q1657264.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1088-REC217491,place_identity,"""association football venue""",https://www.wikidata.org/wiki/Special:EntityData/Q1657264.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1087-REC217281,location,"{""latitude"": 6.6508333333333, ""longitude"": -71.68}",https://www.wikidata.org/wiki/Special:EntityData/Q23716281.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1087-REC217281,elevation,258000.0,https://www.wikidata.org/wiki/Special:EntityData/Q23716281.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1087-REC217281,place_identity,"""river""",https://www.wikidata.org/wiki/Special:EntityData/Q23716281.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1089-REC217701,location,"{""latitude"": 14.889902777778, ""longitude"": -24.293958333333}",https://www.wikidata.org/wiki/Special:EntityData/Q485198.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1089-REC217701,elevation,0.0,https://www.wikidata.org/wiki/Special:EntityData/Q485198.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1089-REC217701,place_identity,"""city""",https://www.wikidata.org/wiki/Special:EntityData/Q485198.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1096-REC219171,location,"{""latitude"": 48.688611111111, ""longitude"": 9.4222222222222}",https://www.wikidata.org/wiki/Special:EntityData/Q82346.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1096-REC219171,elevation,255000.0,https://www.wikidata.org/wiki/Special:EntityData/Q82346.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1096-REC219171,place_identity,"""urban municipality in Germany""",https://www.wikidata.org/wiki/Special:EntityData/Q82346.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1097-REC219381,location,"{""latitude"": 51.116666666667, ""longitude"": 12.016666666667}",https://www.wikidata.org/wiki/Special:EntityData/Q534715.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1097-REC219381,elevation,175000.0,https://www.wikidata.org/wiki/Special:EntityData/Q534715.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1097-REC219381,place_identity,"""urban municipality in Germany""",https://www.wikidata.org/wiki/Special:EntityData/Q534715.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1100-REC219801,location,"{""latitude"": 50.1081657, ""longitude"": 11.4638686}",https://www.wikidata.org/wiki/Special:EntityData/Q678992.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1100-REC219801,location,"{""latitude"": 50.10827, ""longitude"": 11.465768}",https://www.wikidata.org/wiki/Special:EntityData/Q678992.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1100-REC219801,location,"{""latitude"": 50.108, ""longitude"": 11.464}",https://www.wikidata.org/wiki/Special:EntityData/Q678992.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1100-REC219801,elevation,425000.0,https://www.wikidata.org/wiki/Special:EntityData/Q678992.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1100-REC219801,place_identity,"""castle""",https://www.wikidata.org/wiki/Special:EntityData/Q678992.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1098-REC219591,place_identity,"""human""",https://www.wikidata.org/wiki/Special:EntityData/Q215728.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1103-REC220431,location,"{""latitude"": 49.7, ""longitude"": 10.266666666666667}",https://www.wikidata.org/wiki/Special:EntityData/Q502741.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1103-REC220431,elevation,250000.0,https://www.wikidata.org/wiki/Special:EntityData/Q502741.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1103-REC220431,place_identity,"""urban municipality in Germany""",https://www.wikidata.org/wiki/Special:EntityData/Q502741.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1106-REC221061,location,"{""latitude"": 50.1356, ""longitude"": 11.2499}",https://www.wikidata.org/wiki/Special:EntityData/Q387411.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1106-REC221061,elevation,304000.0,https://www.wikidata.org/wiki/Special:EntityData/Q387411.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1106-REC221061,place_identity,"""urban municipality in Germany""",https://www.wikidata.org/wiki/Special:EntityData/Q387411.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1107-REC221271,location,"{""latitude"": 53.766666666667, ""longitude"": 11.466666666667}",https://www.wikidata.org/wiki/Special:EntityData/Q552679.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1107-REC221271,elevation,55000.0,https://www.wikidata.org/wiki/Special:EntityData/Q552679.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1107-REC221271,place_identity,"""municipality without town privileges in Germany""",https://www.wikidata.org/wiki/Special:EntityData/Q552679.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1109-REC221691,location,"{""latitude"": 49.4862, ""longitude"": 7.02983}",https://www.wikidata.org/wiki/Special:EntityData/Q2232014.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1109-REC221691,elevation,562000.0,https://www.wikidata.org/wiki/Special:EntityData/Q2232014.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1109-REC221691,place_identity,"""tower""",https://www.wikidata.org/wiki/Special:EntityData/Q2232014.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1108-REC221481,location,"{""latitude"": 49.218333333333, ""longitude"": 9.2769444444444}",https://www.wikidata.org/wiki/Special:EntityData/Q33224373.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1108-REC221481,place_identity,"""castle""",https://www.wikidata.org/wiki/Special:EntityData/Q33224373.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1108-REC221481,place_identity,"""promoter""",https://www.wikidata.org/wiki/Special:EntityData/Q33224373.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1110-REC221901,location,"{""latitude"": 50.4304, ""longitude"": 7.65227}",https://www.wikidata.org/wiki/Special:EntityData/Q1746863.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1110-REC221901,location,"{""latitude"": 50.430382, ""longitude"": 7.652224}",https://www.wikidata.org/wiki/Special:EntityData/Q1746863.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1110-REC221901,place_identity,"""castellum""",https://www.wikidata.org/wiki/Special:EntityData/Q1746863.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1110-REC221901,place_identity,"""archaeological site""",https://www.wikidata.org/wiki/Special:EntityData/Q1746863.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1122-REC224211,location,"{""latitude"": 49.40983333333333, ""longitude"": 7.573583333333334}",https://www.wikidata.org/wiki/Special:EntityData/Q1013198.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1122-REC224211,elevation,323000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1013198.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1122-REC224211,place_identity,"""castle ruin""",https://www.wikidata.org/wiki/Special:EntityData/Q1013198.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1116-REC223161,location,"{""latitude"": 49.4565491688568, ""longitude"": 11.0771709774268}",https://www.wikidata.org/wiki/Special:EntityData/Q2327648.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1116-REC223161,place_identity,"""museum""",https://www.wikidata.org/wiki/Special:EntityData/Q2327648.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1116-REC223161,place_identity,"""city museum""",https://www.wikidata.org/wiki/Special:EntityData/Q2327648.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1130-REC225891,location,"{""latitude"": 36.56667, ""longitude"": 4.96667}",https://www.wikidata.org/wiki/Special:EntityData/Q2214633.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1130-REC225891,elevation,571000.0,https://www.wikidata.org/wiki/Special:EntityData/Q2214633.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1130-REC225891,place_identity,"""commune of Algeria""",https://www.wikidata.org/wiki/Special:EntityData/Q2214633.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1125-REC224841,location,"{""latitude"": 15.307, ""longitude"": -61.305}",https://www.wikidata.org/wiki/Special:EntityData/Q1535776.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1125-REC224841,elevation,1224000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1535776.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1125-REC224841,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q1535776.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1125-REC224841,place_identity,"""volcano""",https://www.wikidata.org/wiki/Special:EntityData/Q1535776.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1147-REC229251,location,"{""latitude"": 32.54388888888889, ""longitude"": 35.71861111111111}",https://www.wikidata.org/wiki/Special:EntityData/Q27125362.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1147-REC229251,place_identity,"""town""",https://www.wikidata.org/wiki/Special:EntityData/Q27125362.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1155-REC230931,location,"{""latitude"": 30.011, ""longitude"": 31.25562}",https://www.wikidata.org/wiki/Special:EntityData/Q23976426.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1155-REC230931,elevation,31000.0,https://www.wikidata.org/wiki/Special:EntityData/Q23976426.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1160-REC231981,location,"{""latitude"": 37.582063, ""longitude"": -0.965932}",https://www.wikidata.org/wiki/Special:EntityData/Q115501321.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1160-REC231981,elevation,293809.0,https://www.wikidata.org/wiki/Special:EntityData/Q115501321.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1160-REC231981,place_identity,"""triangulation station""",https://www.wikidata.org/wiki/Special:EntityData/Q115501321.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1163-REC232401,location,"{""latitude"": 37.17812, ""longitude"": -3.6021}",https://www.wikidata.org/wiki/Special:EntityData/Q24019065.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1163-REC232401,place_identity,"""faculty of law""",https://www.wikidata.org/wiki/Special:EntityData/Q24019065.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1167-REC233241,location,"{""latitude"": 40.344083333333, ""longitude"": -1.1064166666667}",https://www.wikidata.org/wiki/Special:EntityData/Q9046914.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1167-REC233241,place_identity,"""museum""",https://www.wikidata.org/wiki/Special:EntityData/Q9046914.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1179-REC235761,location,"{""latitude"": 60.490502777778, ""longitude"": 26.45245}",https://www.wikidata.org/wiki/Special:EntityData/Q890526.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1179-REC235761,location,"{""latitude"": 61.082284, ""longitude"": 26.184833}",https://www.wikidata.org/wiki/Special:EntityData/Q890526.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1179-REC235761,location,"{""latitude"": 60.454467, ""longitude"": 26.583689}",https://www.wikidata.org/wiki/Special:EntityData/Q890526.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1179-REC235761,location,"{""latitude"": 60.5, ""longitude"": 26.866666666667}",https://www.wikidata.org/wiki/Special:EntityData/Q890526.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1179-REC235761,elevation,1000.0,https://www.wikidata.org/wiki/Special:EntityData/Q890526.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1179-REC235761,place_identity,"""river""",https://www.wikidata.org/wiki/Special:EntityData/Q890526.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1179-REC235761,place_identity,"""stream""",https://www.wikidata.org/wiki/Special:EntityData/Q890526.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1190-REC237861,location,"{""latitude"": 48.635, ""longitude"": 7.7408333333333}",https://www.wikidata.org/wiki/Special:EntityData/Q22505.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1190-REC237861,elevation,133000.0,https://www.wikidata.org/wiki/Special:EntityData/Q22505.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1190-REC237861,elevation,153000.0,https://www.wikidata.org/wiki/Special:EntityData/Q22505.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1190-REC237861,elevation,144000.0,https://www.wikidata.org/wiki/Special:EntityData/Q22505.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1190-REC237861,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q22505.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1193-REC238491,location,"{""latitude"": 48.856944444444, ""longitude"": -0.60527777777778}",https://www.wikidata.org/wiki/Special:EntityData/Q693180.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1193-REC238491,elevation,82000.0,https://www.wikidata.org/wiki/Special:EntityData/Q693180.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1193-REC238491,elevation,202000.0,https://www.wikidata.org/wiki/Special:EntityData/Q693180.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1193-REC238491,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q693180.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1193-REC238491,place_identity,"""delegated commune""",https://www.wikidata.org/wiki/Special:EntityData/Q693180.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1197-REC239331,location,"{""latitude"": 50.183611111111, ""longitude"": 1.7088888888889}",https://www.wikidata.org/wiki/Special:EntityData/Q489451.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1197-REC239331,elevation,0.0,https://www.wikidata.org/wiki/Special:EntityData/Q489451.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1197-REC239331,elevation,42000.0,https://www.wikidata.org/wiki/Special:EntityData/Q489451.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1197-REC239331,elevation,15000.0,https://www.wikidata.org/wiki/Special:EntityData/Q489451.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1197-REC239331,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q489451.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1059-REC211611,place_identity,"""human""",https://www.wikidata.org/wiki/Special:EntityData/Q15938477.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1198-REC239541,location,"{""latitude"": 45.424166666667, ""longitude"": 1.2694444444444}",https://www.wikidata.org/wiki/Special:EntityData/Q2921375.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1198-REC239541,place_identity,"""river""",https://www.wikidata.org/wiki/Special:EntityData/Q2921375.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1200-REC239961,location,"{""latitude"": 47.136944444444, ""longitude"": 5.34}",https://www.wikidata.org/wiki/Special:EntityData/Q20155.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1200-REC239961,elevation,180000.0,https://www.wikidata.org/wiki/Special:EntityData/Q20155.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1200-REC239961,elevation,197000.0,https://www.wikidata.org/wiki/Special:EntityData/Q20155.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1200-REC239961,elevation,183000.0,https://www.wikidata.org/wiki/Special:EntityData/Q20155.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1200-REC239961,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q20155.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1201-REC240171,location,"{""latitude"": 44.231666666667, ""longitude"": 4.0588888888889}",https://www.wikidata.org/wiki/Special:EntityData/Q286160.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1201-REC240171,elevation,48000.0,https://www.wikidata.org/wiki/Special:EntityData/Q286160.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1201-REC240171,elevation,158000.0,https://www.wikidata.org/wiki/Special:EntityData/Q286160.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1201-REC240171,elevation,692000.0,https://www.wikidata.org/wiki/Special:EntityData/Q286160.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1201-REC240171,elevation,362000.0,https://www.wikidata.org/wiki/Special:EntityData/Q286160.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1201-REC240171,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q286160.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1203-REC240591,location,"{""latitude"": 43.785277777778, ""longitude"": 5.6344444444444}",https://www.wikidata.org/wiki/Special:EntityData/Q375151.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1203-REC240591,elevation,348000.0,https://www.wikidata.org/wiki/Special:EntityData/Q375151.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1203-REC240591,elevation,725000.0,https://www.wikidata.org/wiki/Special:EntityData/Q375151.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1203-REC240591,elevation,488000.0,https://www.wikidata.org/wiki/Special:EntityData/Q375151.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1203-REC240591,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q375151.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1205-REC240801,location,"{""latitude"": 49.753611111111, ""longitude"": 2.6058333333333}",https://www.wikidata.org/wiki/Special:EntityData/Q629250.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1205-REC240801,elevation,84000.0,https://www.wikidata.org/wiki/Special:EntityData/Q629250.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1205-REC240801,elevation,109000.0,https://www.wikidata.org/wiki/Special:EntityData/Q629250.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1205-REC240801,elevation,103000.0,https://www.wikidata.org/wiki/Special:EntityData/Q629250.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1205-REC240801,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q629250.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1206-REC241011,location,"{""latitude"": 43.447222222222, ""longitude"": 3.7555555555556}",https://www.wikidata.org/wiki/Special:EntityData/Q216280.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1206-REC241011,elevation,2000.0,https://www.wikidata.org/wiki/Special:EntityData/Q216280.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1206-REC241011,elevation,219000.0,https://www.wikidata.org/wiki/Special:EntityData/Q216280.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1206-REC241011,elevation,0.0,https://www.wikidata.org/wiki/Special:EntityData/Q216280.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1206-REC241011,elevation,223000.0,https://www.wikidata.org/wiki/Special:EntityData/Q216280.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1206-REC241011,elevation,38000.0,https://www.wikidata.org/wiki/Special:EntityData/Q216280.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1206-REC241011,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q216280.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1208-REC241431,location,"{""latitude"": 48.981111111111, ""longitude"": 7.1916666666667}",https://www.wikidata.org/wiki/Special:EntityData/Q21230.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1208-REC241431,elevation,235000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21230.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1208-REC241431,elevation,356000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21230.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1208-REC241431,elevation,308000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21230.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1208-REC241431,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q21230.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1211-REC242061,location,"{""latitude"": 49.348888888889, ""longitude"": 3.9247222222222}",https://www.wikidata.org/wiki/Special:EntityData/Q1214742.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1211-REC242061,elevation,61000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1214742.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1211-REC242061,elevation,217000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1214742.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1211-REC242061,elevation,90000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1214742.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1211-REC242061,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q1214742.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1212-REC242271,location,"{""latitude"": 44.055833333333, ""longitude"": 1.6655555555556}",https://www.wikidata.org/wiki/Special:EntityData/Q733480.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1212-REC242271,elevation,130000.0,https://www.wikidata.org/wiki/Special:EntityData/Q733480.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1212-REC242271,elevation,90000.0,https://www.wikidata.org/wiki/Special:EntityData/Q733480.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1212-REC242271,elevation,382000.0,https://www.wikidata.org/wiki/Special:EntityData/Q733480.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1212-REC242271,elevation,193000.0,https://www.wikidata.org/wiki/Special:EntityData/Q733480.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1212-REC242271,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q733480.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1161-REC232191,place_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Special:EntityData/Q22191091.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1215-REC242901,location,"{""latitude"": 47.208888888889, ""longitude"": 0.94527777777778}",https://www.wikidata.org/wiki/Special:EntityData/Q1069903.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1215-REC242901,elevation,61000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1069903.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1215-REC242901,elevation,106000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1069903.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1215-REC242901,elevation,86000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1069903.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1215-REC242901,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q1069903.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1220-REC243951,location,"{""latitude"": 48.855356, ""longitude"": 2.315819}",https://www.wikidata.org/wiki/Special:EntityData/Q650519.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1220-REC243951,place_identity,"""art museum""",https://www.wikidata.org/wiki/Special:EntityData/Q650519.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1220-REC243951,place_identity,"""national museum""",https://www.wikidata.org/wiki/Special:EntityData/Q650519.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1221-REC244161,location,"{""latitude"": 47.849166666667, ""longitude"": 4.0852777777778}",https://www.wikidata.org/wiki/Special:EntityData/Q2476068.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1221-REC244161,place_identity,"""ch\u00e2teau""",https://www.wikidata.org/wiki/Special:EntityData/Q2476068.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1222-REC244371,location,"{""latitude"": 45.029665, ""longitude"": 5.016487}",https://www.wikidata.org/wiki/Special:EntityData/Q22966795.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1222-REC244371,place_identity,"""abbey""",https://www.wikidata.org/wiki/Special:EntityData/Q22966795.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1230-REC245841,place_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Special:EntityData/Q107062951.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1229-REC245631,location,"{""latitude"": 44.829167, ""longitude"": -0.598056}",https://www.wikidata.org/wiki/Special:EntityData/Q386547.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1229-REC245631,place_identity,"""association football venue""",https://www.wikidata.org/wiki/Special:EntityData/Q386547.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1229-REC245631,place_identity,"""rugby union venue""",https://www.wikidata.org/wiki/Special:EntityData/Q386547.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1229-REC245631,place_identity,"""stadium""",https://www.wikidata.org/wiki/Special:EntityData/Q386547.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1234-REC246681,location,"{""latitude"": 52.421965, ""longitude"": -3.730038}",https://www.wikidata.org/wiki/Special:EntityData/Q20596001.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1234-REC246681,place_identity,"""castrum""",https://www.wikidata.org/wiki/Special:EntityData/Q20596001.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1234-REC246681,place_identity,"""ancient Roman structure""",https://www.wikidata.org/wiki/Special:EntityData/Q20596001.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1186-REC237021,location,"{""latitude"": 7.44, ""longitude"": 151.882}",https://www.wikidata.org/wiki/Special:EntityData/Q24571974.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1186-REC237021,place_identity,"""island""",https://www.wikidata.org/wiki/Special:EntityData/Q24571974.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1243-REC248571,location,"{""latitude"": 52.26029, ""longitude"": -0.27395}",https://www.wikidata.org/wiki/Special:EntityData/Q24662655.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1243-REC248571,place_identity,"""moated site""",https://www.wikidata.org/wiki/Special:EntityData/Q24662655.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1244-REC248781,location,"{""latitude"": 54.988, ""longitude"": -2.058}",https://www.wikidata.org/wiki/Special:EntityData/Q4877490.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1244-REC248781,place_identity,"""castle""",https://www.wikidata.org/wiki/Special:EntityData/Q4877490.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1233-REC246471,location,"{""latitude"": 51.641944444444, ""longitude"": -2.675}",https://www.wikidata.org/wiki/Special:EntityData/Q771986.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1233-REC246471,place_identity,"""town""",https://www.wikidata.org/wiki/Special:EntityData/Q771986.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1233-REC246471,place_identity,"""community""",https://www.wikidata.org/wiki/Special:EntityData/Q771986.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1247-REC249201,location,"{""latitude"": 56.075308, ""longitude"": -3.441906}",https://www.wikidata.org/wiki/Special:EntityData/Q1277834.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1247-REC249201,place_identity,"""association football venue""",https://www.wikidata.org/wiki/Special:EntityData/Q1277834.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1245-REC248991,location,"{""latitude"": 51.500833333333, ""longitude"": -0.12194444444444}",https://www.wikidata.org/wiki/Special:EntityData/Q456960.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1245-REC248991,place_identity,"""road bridge""",https://www.wikidata.org/wiki/Special:EntityData/Q456960.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1245-REC248991,place_identity,"""arch bridge""",https://www.wikidata.org/wiki/Special:EntityData/Q456960.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1245-REC248991,place_identity,"""tram bridge""",https://www.wikidata.org/wiki/Special:EntityData/Q456960.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1165-REC232821,location,"{""latitude"": 37.60412896621947, ""longitude"": -0.9786532059742469}",https://www.wikidata.org/wiki/Special:EntityData/Q110857679.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1165-REC232821,place_identity,"""interpretation centre""",https://www.wikidata.org/wiki/Special:EntityData/Q110857679.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1251-REC250041,location,"{""latitude"": 51.525, ""longitude"": -0.330278}",https://www.wikidata.org/wiki/Special:EntityData/Q16632630.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1251-REC250041,place_identity,"""sports venue""",https://www.wikidata.org/wiki/Special:EntityData/Q16632630.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1255-REC250881,location,"{""latitude"": 7.59054, ""longitude"": -1.93947}",https://www.wikidata.org/wiki/Special:EntityData/Q964069.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1255-REC250881,elevation,303000.0,https://www.wikidata.org/wiki/Special:EntityData/Q964069.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1255-REC250881,place_identity,"""human settlement""",https://www.wikidata.org/wiki/Special:EntityData/Q964069.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1257-REC251301,location,"{""latitude"": 82.7, ""longitude"": -39}",https://www.wikidata.org/wiki/Special:EntityData/Q24828366.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1257-REC251301,place_identity,"""glacier""",https://www.wikidata.org/wiki/Special:EntityData/Q24828366.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1264-REC252771,place_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Special:EntityData/Q29070994.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1270-REC253821,location,"{""latitude"": 35.51104, ""longitude"": 23.56672}",https://www.wikidata.org/wiki/Special:EntityData/Q25020746.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1270-REC253821,place_identity,"""cape""",https://www.wikidata.org/wiki/Special:EntityData/Q25020746.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1274-REC254661,location,"{""latitude"": 38.077649, ""longitude"": 24.563659}",https://www.wikidata.org/wiki/Special:EntityData/Q16322731.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1274-REC254661,elevation,143000.0,https://www.wikidata.org/wiki/Special:EntityData/Q16322731.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1274-REC254661,place_identity,"""village""",https://www.wikidata.org/wiki/Special:EntityData/Q16322731.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1275-REC254871,location,"{""latitude"": 38.13341, ""longitude"": 22.42405}",https://www.wikidata.org/wiki/Special:EntityData/Q3556127.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1275-REC254871,elevation,5000.0,https://www.wikidata.org/wiki/Special:EntityData/Q3556127.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1275-REC254871,place_identity,"""village""",https://www.wikidata.org/wiki/Special:EntityData/Q3556127.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1278-REC255501,location,"{""latitude"": 38.88777778, ""longitude"": 22.80833333}",https://www.wikidata.org/wiki/Special:EntityData/Q21533722.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1278-REC255501,elevation,10000.0,https://www.wikidata.org/wiki/Special:EntityData/Q21533722.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1278-REC255501,place_identity,"""village""",https://www.wikidata.org/wiki/Special:EntityData/Q21533722.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1279-REC255711,location,"{""latitude"": 36.2495, ""longitude"": 25.2039}",https://www.wikidata.org/wiki/Special:EntityData/Q15110989.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1279-REC255711,place_identity,"""island""",https://www.wikidata.org/wiki/Special:EntityData/Q15110989.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1209-REC241641,location,"{""latitude"": 46.596944444444, ""longitude"": 1.0166666666667}",https://www.wikidata.org/wiki/Special:EntityData/Q1069969.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1209-REC241641,elevation,77000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1069969.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1209-REC241641,elevation,131000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1069969.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1209-REC241641,elevation,103000.0,https://www.wikidata.org/wiki/Special:EntityData/Q1069969.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1209-REC241641,place_identity,"""commune of France""",https://www.wikidata.org/wiki/Special:EntityData/Q1069969.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1293-REC258441,location,"{""latitude"": -54.3667, ""longitude"": -36.2167}",https://www.wikidata.org/wiki/Special:EntityData/Q13636707.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1293-REC258441,place_identity,"""bay""",https://www.wikidata.org/wiki/Special:EntityData/Q13636707.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1301-REC260121,location,"{""latitude"": 4.87036, ""longitude"": -52.2475}",https://www.wikidata.org/wiki/Special:EntityData/Q3077844.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1301-REC260121,place_identity,"""fort""",https://www.wikidata.org/wiki/Special:EntityData/Q3077844.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1303-REC260541,location,"{""latitude"": -0.63, ""longitude"": 135.38916666667}",https://www.wikidata.org/wiki/Special:EntityData/Q24854770.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1303-REC260541,elevation,103000.0,https://www.wikidata.org/wiki/Special:EntityData/Q24854770.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1303-REC260541,place_identity,"""point""",https://www.wikidata.org/wiki/Special:EntityData/Q24854770.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1304-REC260751,location,"{""latitude"": -3.4081313415601038, ""longitude"": 114.84854165653026}",https://www.wikidata.org/wiki/Special:EntityData/Q14171.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1304-REC260751,elevation,63000.0,https://www.wikidata.org/wiki/Special:EntityData/Q14171.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1304-REC260751,place_identity,"""regency of Indonesia""",https://www.wikidata.org/wiki/Special:EntityData/Q14171.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1304-REC260751,place_identity,"""second-level administrative country subdivision in Indonesia""",https://www.wikidata.org/wiki/Special:EntityData/Q14171.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1305-REC260961,location,"{""latitude"": 4.0069444444444, ""longitude"": 126.67277777778}",https://www.wikidata.org/wiki/Special:EntityData/Q651325.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1305-REC260961,elevation,3000.0,https://www.wikidata.org/wiki/Special:EntityData/Q651325.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1305-REC260961,place_identity,"""airport""",https://www.wikidata.org/wiki/Special:EntityData/Q651325.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1305-REC260961,place_identity,"""commercial traffic aerodrome""",https://www.wikidata.org/wiki/Special:EntityData/Q651325.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1306-REC261171,location,"{""latitude"": 53.1004018, ""longitude"": -8.2498089}",https://www.wikidata.org/wiki/Special:EntityData/Q59729282.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1306-REC261171,place_identity,"""electoral division""",https://www.wikidata.org/wiki/Special:EntityData/Q59729282.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1310-REC261801,location,"{""latitude"": 52.86568541, ""longitude"": -8.200712907}",https://www.wikidata.org/wiki/Special:EntityData/Q32859722.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1310-REC261801,place_identity,"""building""",https://www.wikidata.org/wiki/Special:EntityData/Q32859722.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1311-REC262011,location,"{""latitude"": 29.879166666667, ""longitude"": 35.043611111111}",https://www.wikidata.org/wiki/Special:EntityData/Q26762136.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1311-REC262011,place_identity,"""spring""",https://www.wikidata.org/wiki/Special:EntityData/Q26762136.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1315-REC262851,place_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Special:EntityData/Q28963527.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1326-REC265161,location,"{""latitude"": 24.18138889, ""longitude"": 86.31083333}",https://www.wikidata.org/wiki/Special:EntityData/Q202132.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1326-REC265161,elevation,289000.0,https://www.wikidata.org/wiki/Special:EntityData/Q202132.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1326-REC265161,place_identity,"""human settlement""",https://www.wikidata.org/wiki/Special:EntityData/Q202132.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1290-REC257811,place_identity,"""taxon""",https://www.wikidata.org/wiki/Special:EntityData/Q24067142.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1332-REC266211,location,"{""latitude"": 30.653888888889, ""longitude"": 79.945555555556}",https://www.wikidata.org/wiki/Special:EntityData/Q26802093.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1332-REC266211,place_identity,"""glacier""",https://www.wikidata.org/wiki/Special:EntityData/Q26802093.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1333-REC266421,place_identity,"""village in India""",https://www.wikidata.org/wiki/Special:EntityData/Q20462227.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1298-REC259491,location,"{""latitude"": 22.1825, ""longitude"": 113.91222222222}",https://www.wikidata.org/wiki/Special:EntityData/Q7532194.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1298-REC259491,elevation,74000.0,https://www.wikidata.org/wiki/Special:EntityData/Q7532194.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1298-REC259491,place_identity,"""island""",https://www.wikidata.org/wiki/Special:EntityData/Q7532194.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1354-REC270621,place_identity,"""human""",https://www.wikidata.org/wiki/Special:EntityData/Q11565617.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1359-REC271671,location,"{""latitude"": 35.87537, ""longitude"": 45.17237}",https://www.wikidata.org/wiki/Special:EntityData/Q26842776.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1359-REC271671,place_identity,"""summit""",https://www.wikidata.org/wiki/Special:EntityData/Q26842776.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1368-REC273561,place_identity,"""university""",https://www.wikidata.org/wiki/Special:EntityData/Q3666593.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1374-REC274611,location,"{""latitude"": 35.350555555556, ""longitude"": 46.571111111111}",https://www.wikidata.org/wiki/Special:EntityData/Q26857299.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1374-REC274611,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q26857299.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1379-REC275661,location,"{""latitude"": 36.8833, ""longitude"": 50.2333}",https://www.wikidata.org/wiki/Special:EntityData/Q5791984.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1379-REC275661,place_identity,"""village""",https://www.wikidata.org/wiki/Special:EntityData/Q5791984.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1382-REC276291,location,"{""latitude"": 38.614167, ""longitude"": 47.15}",https://www.wikidata.org/wiki/Special:EntityData/Q5680261.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1382-REC276291,place_identity,"""human settlement""",https://www.wikidata.org/wiki/Special:EntityData/Q5680261.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1387-REC277341,location,"{""latitude"": 32.94, ""longitude"": 59.533055555556}",https://www.wikidata.org/wiki/Special:EntityData/Q26990671.json
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1387-REC277341,place_identity,"""mountain""",https://www.wikidata.org/wiki/Special:EntityData/Q26990671.json
