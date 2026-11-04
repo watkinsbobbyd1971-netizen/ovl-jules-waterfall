@@ -1,0 +1,9 @@
+canonical_dedup_key,column_name,value,source_url
+DRV-CORPUS-L17-0000210,anatomical_identity,"""rib""",https://en.wikipedia.org/wiki/Rib
+LIBSRC-LIB51-ENT-SMI-0199282,anatomical_identity,"""skull""",https://en.wikipedia.org/wiki/Skull
+LIBSRC-LIB51-ENT-SMI-0318949,anatomical_identity,"""liver""",https://en.wikipedia.org/wiki/Liver
+LIBSRC-LIB51-ENT-SMI-0464396,anatomical_identity,"""hand""",https://en.wikipedia.org/wiki/Hand
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15577-REC3115321,anatomical_identity,"""finger""",https://en.wikipedia.org/wiki/Finger
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18534-REC3706681,anatomical_identity,"""skin""",https://en.wikipedia.org/wiki/Skin
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18848-REC3769541,anatomical_identity,"""hair""",https://en.wikipedia.org/wiki/Hair
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17020-REC3403861,anatomical_identity,"""ear""",https://en.wikipedia.org/wiki/Ear
