@@ -1,0 +1,934 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB34-ENT-GEO-0327011,descriptive_identity,city,http://www.wikidata.org/entity/Q350
+LIBSRC-LIB34-ENT-GEO-0327011,location,"Cambridge, United Kingdom",http://www.wikidata.org/entity/Q350
+LIBSRC-LIB34-ENT-GEO-0327011,geometry_with_crs,Point(0.1225 52.208055555),http://www.wikidata.org/entity/Q350
+LIBSRC-LIB34-ENT-GEO-0327011,elevation,6000,http://www.wikidata.org/entity/Q350
+LIBSRC-LIB35-ENT-GAZ-2523995,descriptive_identity,municipality of Switzerland,http://www.wikidata.org/entity/Q67686
+LIBSRC-LIB35-ENT-GAZ-2523995,location,"Gruyère District, Switzerland",http://www.wikidata.org/entity/Q67686
+LIBSRC-LIB35-ENT-GAZ-2523995,geometry_with_crs,Point(7.133333333 46.7),http://www.wikidata.org/entity/Q67686
+LIBSRC-LIB35-ENT-GAZ-2523995,elevation,747000,http://www.wikidata.org/entity/Q67686
+LIBSRC-LIB34-ENT-GEO-0326241,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q201660
+LIBSRC-LIB34-ENT-GEO-0327781,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q413664
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1011-REC202111,descriptive_identity,big city,http://www.wikidata.org/entity/Q156819
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1011-REC202111,location,"Santa Catarina, Brazil",http://www.wikidata.org/entity/Q156819
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1011-REC202111,geometry_with_crs,Point(-48.845833333 -26.303888888),http://www.wikidata.org/entity/Q156819
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1011-REC202111,elevation,4000,http://www.wikidata.org/entity/Q156819
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1047-REC209251,descriptive_identity,city in Chile,http://www.wikidata.org/entity/Q187893
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1047-REC209251,location,"San Pedro de Atacama, Chile",http://www.wikidata.org/entity/Q187893
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1047-REC209251,geometry_with_crs,Point(-68.2001 -22.9108),http://www.wikidata.org/entity/Q187893
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1047-REC209251,elevation,2407000,http://www.wikidata.org/entity/Q187893
+LIBSRC-LIB35-ENT-GAZ-2531964,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q243790
+LIBSRC-LIB34-ENT-GEO-0317871,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q401585
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1009-REC201691,descriptive_identity,big city,http://www.wikidata.org/entity/Q942083
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1009-REC201691,location,"São Paulo, Brazil",http://www.wikidata.org/entity/Q942083
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1009-REC201691,geometry_with_crs,Point(-47.437777777 -23.546944444),http://www.wikidata.org/entity/Q942083
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1009-REC201691,elevation,557000,http://www.wikidata.org/entity/Q942083
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1033-REC206521,descriptive_identity,airport,http://www.wikidata.org/entity/Q946763
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1033-REC206521,location,"Alberta, Canada",http://www.wikidata.org/entity/Q946763
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1033-REC206521,geometry_with_crs,Point(-116.465 53.5789),http://www.wikidata.org/entity/Q946763
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1033-REC206521,elevation,3043000,http://www.wikidata.org/entity/Q946763
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1045-REC208831,descriptive_identity,glacier,http://www.wikidata.org/entity/Q1696522
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1045-REC208831,location,"Canton of Valais, Switzerland",http://www.wikidata.org/entity/Q1696522
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1045-REC208831,geometry_with_crs,Point(7.68916667 46.05583333),http://www.wikidata.org/entity/Q1696522
+LIBSRC-LIB34-ENT-GEO-0313251,descriptive_identity,city in the United States,http://www.wikidata.org/entity/Q2677698
+LIBSRC-LIB34-ENT-GEO-0313251,location,"Tulsa County, United States",http://www.wikidata.org/entity/Q2677698
+LIBSRC-LIB34-ENT-GEO-0313251,geometry_with_crs,Point(-95.828611111 36.290277777),http://www.wikidata.org/entity/Q2677698
+LIBSRC-LIB34-ENT-GEO-0313251,elevation,186000,http://www.wikidata.org/entity/Q2677698
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1037-REC207361,descriptive_identity,airport,http://www.wikidata.org/entity/Q3084809
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1037-REC207361,location,"Idiofa, Democratic Republic of the Congo",http://www.wikidata.org/entity/Q3084809
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1037-REC207361,geometry_with_crs,Point(19.6 -5.0),http://www.wikidata.org/entity/Q3084809
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1037-REC207361,elevation,391000,http://www.wikidata.org/entity/Q3084809
+LIBSRC-LIB35-ENT-GAZ-2534343,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q3679067
+LIBSRC-LIB34-ENT-GEO-0328551,descriptive_identity,glacier,http://www.wikidata.org/entity/Q11831330
+LIBSRC-LIB34-ENT-GEO-0328551,location,"Washington, United States",http://www.wikidata.org/entity/Q11831330
+LIBSRC-LIB34-ENT-GEO-0328551,geometry_with_crs,Point(-121.564 48.8286),http://www.wikidata.org/entity/Q11831330
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1003-REC200431,descriptive_identity,town of China,http://www.wikidata.org/entity/Q13873524
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1003-REC200431,location,"Jilin, People's Republic of China",http://www.wikidata.org/entity/Q13873524
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1003-REC200431,geometry_with_crs,Point(126.90358 42.07641),http://www.wikidata.org/entity/Q13873524
+LIBSRC-LIB35-ENT-GAZ-2527188,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q18507120
+LIBSRC-LIB35-ENT-GAZ-2527188,location,"Recoaro Terme, Italy",http://www.wikidata.org/entity/Q18507120
+LIBSRC-LIB35-ENT-GAZ-2527188,geometry_with_crs,Point(11.21995 45.72055),http://www.wikidata.org/entity/Q18507120
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1005-REC200851,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q22014722
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1005-REC200851,location,"Pará, Brazil",http://www.wikidata.org/entity/Q22014722
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1005-REC200851,geometry_with_crs,Point(-50.016666666 -6.416666666),http://www.wikidata.org/entity/Q22014722
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1005-REC200851,elevation,203000,http://www.wikidata.org/entity/Q22014722
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1006-REC201061,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q22015387
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1006-REC201061,location,"Roraima, Brazil",http://www.wikidata.org/entity/Q22015387
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1006-REC201061,geometry_with_crs,Point(-59.716666666 1.133333333),http://www.wikidata.org/entity/Q22015387
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1006-REC201061,elevation,212000,http://www.wikidata.org/entity/Q22015387
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1008-REC201481,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q22023891
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1008-REC201481,location,"Pará, Brazil",http://www.wikidata.org/entity/Q22023891
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1008-REC201481,geometry_with_crs,Point(-55.666666666 -5.866666666),http://www.wikidata.org/entity/Q22023891
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1008-REC201481,elevation,290000,http://www.wikidata.org/entity/Q22023891
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1010-REC201901,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q22034257
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1010-REC201901,location,"Bahia, Brazil",http://www.wikidata.org/entity/Q22034257
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1010-REC201901,geometry_with_crs,Point(-39.916666666 -17.433333333),http://www.wikidata.org/entity/Q22034257
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1010-REC201901,elevation,64000,http://www.wikidata.org/entity/Q22034257
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1012-REC202321,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q22044648
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1012-REC202321,location,"Mato Grosso, Brazil",http://www.wikidata.org/entity/Q22044648
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1012-REC202321,geometry_with_crs,Point(-56.966666666 -15.5),http://www.wikidata.org/entity/Q22044648
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1012-REC202321,elevation,358000,http://www.wikidata.org/entity/Q22044648
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1028-REC205471,descriptive_identity,glacier,http://www.wikidata.org/entity/Q22585444
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1028-REC205471,location,"British Columbia, Canada",http://www.wikidata.org/entity/Q22585444
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1028-REC205471,geometry_with_crs,Point(-120.41936 53.56663),http://www.wikidata.org/entity/Q22585444
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1027-REC205261,descriptive_identity,glacier,http://www.wikidata.org/entity/Q22633717
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1027-REC205261,location,"Yukon, Canada",http://www.wikidata.org/entity/Q22633717
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1027-REC205261,geometry_with_crs,Point(-138.54142 60.53264),http://www.wikidata.org/entity/Q22633717
+LIBSRC-LIB34-ENT-GEO-0329321,descriptive_identity,glacier,http://www.wikidata.org/entity/Q22643689
+LIBSRC-LIB34-ENT-GEO-0329321,location,"Nunavut, Canada",http://www.wikidata.org/entity/Q22643689
+LIBSRC-LIB34-ENT-GEO-0329321,geometry_with_crs,Point(-70.60988 80.09863),http://www.wikidata.org/entity/Q22643689
+LIBSRC-LIB35-ENT-GAZ-2510802,descriptive_identity,mountain,http://www.wikidata.org/entity/Q34866966
+LIBSRC-LIB35-ENT-GAZ-2510802,location,France,http://www.wikidata.org/entity/Q34866966
+LIBSRC-LIB35-ENT-GAZ-2510802,geometry_with_crs,Point(4.58123 45.37963),http://www.wikidata.org/entity/Q34866966
+LIBSRC-LIB34-ENT-GEO-0330091,descriptive_identity,glacier,http://www.wikidata.org/entity/Q49929854
+LIBSRC-LIB34-ENT-GEO-0330091,location,"Alaska, United States",http://www.wikidata.org/entity/Q49929854
+LIBSRC-LIB34-ENT-GEO-0330091,geometry_with_crs,Point(-142.180833333 60.248333333),http://www.wikidata.org/entity/Q49929854
+LIBSRC-LIB35-ENT-GAZ-2514019,descriptive_identity,tram stop,http://www.wikidata.org/entity/Q105105715
+LIBSRC-LIB35-ENT-GAZ-2514019,location,"Nanterre, France",http://www.wikidata.org/entity/Q105105715
+LIBSRC-LIB35-ENT-GAZ-2514019,geometry_with_crs,Point(2.211944444 48.893888888),http://www.wikidata.org/entity/Q105105715
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1105-REC220801,descriptive_identity,municipality of Switzerland,http://www.wikidata.org/entity/Q64805
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1105-REC220801,location,"Domleschg, Switzerland",http://www.wikidata.org/entity/Q64805
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1105-REC220801,geometry_with_crs,Point(9.433333333 46.716388888),http://www.wikidata.org/entity/Q64805
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1105-REC220801,elevation,650000,http://www.wikidata.org/entity/Q64805
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1100-REC219961,descriptive_identity,urban municipality in Germany,http://www.wikidata.org/entity/Q82520
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1100-REC219961,location,"Esslingen District, Germany",http://www.wikidata.org/entity/Q82520
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1100-REC219961,geometry_with_crs,Point(9.37555556 48.55444444),http://www.wikidata.org/entity/Q82520
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1100-REC219961,elevation,408000,http://www.wikidata.org/entity/Q82520
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1108-REC221431,descriptive_identity,market municipality of Germany,http://www.wikidata.org/entity/Q261440
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1108-REC221431,location,"Straubing-Bogen, Germany",http://www.wikidata.org/entity/Q261440
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1108-REC221431,geometry_with_crs,Point(12.233333333 48.766666666),http://www.wikidata.org/entity/Q261440
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1108-REC221431,elevation,411000,http://www.wikidata.org/entity/Q261440
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1060-REC211981,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q403047
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1111-REC222061,descriptive_identity,art museum,http://www.wikidata.org/entity/Q874724
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1111-REC222061,location,"Heidelberg, Germany",http://www.wikidata.org/entity/Q874724
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1111-REC222061,geometry_with_crs,Point(8.70278 49.4114),http://www.wikidata.org/entity/Q874724
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1114-REC222691,descriptive_identity,castle,http://www.wikidata.org/entity/Q2664517
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1114-REC222691,location,"Weismain, Germany",http://www.wikidata.org/entity/Q2664517
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1114-REC222691,geometry_with_crs,Point(11.2022 50.0348),http://www.wikidata.org/entity/Q2664517
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1095-REC218911,descriptive_identity,municipal part of the Czech Republic,http://www.wikidata.org/entity/Q3491391
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1095-REC218911,location,"Karviná, Czech Republic",http://www.wikidata.org/entity/Q3491391
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1095-REC218911,geometry_with_crs,Point(18.542777777 49.84),http://www.wikidata.org/entity/Q3491391
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1059-REC211771,descriptive_identity,mixed language,http://www.wikidata.org/entity/Q6753629
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1065-REC212821,descriptive_identity,ocean bank,http://www.wikidata.org/entity/Q11839554
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1065-REC212821,location,"Xisha District, People's Republic of China",http://www.wikidata.org/entity/Q11839554
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1065-REC212821,geometry_with_crs,Point(112.2166667 16.76666667),http://www.wikidata.org/entity/Q11839554
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1066-REC213031,descriptive_identity,residential community,http://www.wikidata.org/entity/Q13657927
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1066-REC213031,location,"Shuguang Subdistrict, People's Republic of China",http://www.wikidata.org/entity/Q13657927
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1085-REC216811,descriptive_identity,airport,http://www.wikidata.org/entity/Q18208361
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1085-REC216811,location,"Teng County, People's Republic of China",http://www.wikidata.org/entity/Q18208361
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1085-REC216811,geometry_with_crs,Point(111.098611111 23.401388888),http://www.wikidata.org/entity/Q18208361
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1090-REC217861,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q23014342
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1087-REC217231,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q23695567
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1087-REC217231,location,"Antioquia, Colombia",http://www.wikidata.org/entity/Q23695567
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1087-REC217231,geometry_with_crs,Point(-75.8 5.8),http://www.wikidata.org/entity/Q23695567
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1087-REC217231,elevation,2160000,http://www.wikidata.org/entity/Q23695567
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1143-REC228571,descriptive_identity,mountain,http://www.wikidata.org/entity/Q23949573
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1143-REC228571,location,"Suez Governorate, Egypt",http://www.wikidata.org/entity/Q23949573
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1143-REC228571,geometry_with_crs,Point(32.178611111 29.889444444),http://www.wikidata.org/entity/Q23949573
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1091-REC218071,descriptive_identity,forest,http://www.wikidata.org/entity/Q24635399
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1091-REC218071,location,"Dhekelia Cantonment, United Kingdom",http://www.wikidata.org/entity/Q24635399
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1091-REC218071,geometry_with_crs,Point(33.7997 35.01928),http://www.wikidata.org/entity/Q24635399
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1093-REC218491,descriptive_identity,church building,http://www.wikidata.org/entity/Q126596410
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1093-REC218491,location,"Tinos Municipality, Greece",http://www.wikidata.org/entity/Q126596410
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1093-REC218491,geometry_with_crs,Point(25.03776 37.65468),http://www.wikidata.org/entity/Q126596410
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1202-REC240331,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q1384163
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1202-REC240331,location,"arrondissement of Angers, France",http://www.wikidata.org/entity/Q1384163
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1202-REC240331,geometry_with_crs,Point(-0.673888888 47.561111111),http://www.wikidata.org/entity/Q1384163
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1202-REC240331,elevation,12000,http://www.wikidata.org/entity/Q1384163
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1161-REC232141,descriptive_identity,municipality of Spain,http://www.wikidata.org/entity/Q1443867
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1161-REC232141,location,"Cantabria, Spain",http://www.wikidata.org/entity/Q1443867
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1161-REC232141,geometry_with_crs,Point(-4.065277777 43.261666666),http://www.wikidata.org/entity/Q1443867
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1161-REC232141,elevation,98000,http://www.wikidata.org/entity/Q1443867
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1217-REC243271,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q2842730
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1217-REC243271,location,"Pyrénées-Atlantiques, France",http://www.wikidata.org/entity/Q2842730
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1217-REC243271,geometry_with_crs,Point(-1.04277778 43.35472222),http://www.wikidata.org/entity/Q2842730
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1223-REC244531,descriptive_identity,castle,http://www.wikidata.org/entity/Q2971698
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1223-REC244531,location,"Oberhaslach, France",http://www.wikidata.org/entity/Q2971698
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1223-REC244531,geometry_with_crs,Point(7.32111111 48.56305556),http://www.wikidata.org/entity/Q2971698
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1169-REC233611,descriptive_identity,museum,http://www.wikidata.org/entity/Q3816565
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1169-REC233611,location,"El Masnou, Spain",http://www.wikidata.org/entity/Q3816565
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1169-REC233611,geometry_with_crs,Point(2.31582 41.48284),http://www.wikidata.org/entity/Q3816565
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1240-REC247891,descriptive_identity,castle,http://www.wikidata.org/entity/Q7618366
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1240-REC247891,location,"Stogursey, United Kingdom",http://www.wikidata.org/entity/Q7618366
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1240-REC247891,geometry_with_crs,Point(-3.14114 51.1769),http://www.wikidata.org/entity/Q7618366
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1176-REC235081,descriptive_identity,museum,http://www.wikidata.org/entity/Q11938069
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1176-REC235081,location,"Cadaqués, Spain",http://www.wikidata.org/entity/Q11938069
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1176-REC235081,geometry_with_crs,Point(3.277725 42.28934167),http://www.wikidata.org/entity/Q11938069
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1235-REC246841,descriptive_identity,castle,http://www.wikidata.org/entity/Q13130633
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1235-REC246841,location,"Llangeler, United Kingdom",http://www.wikidata.org/entity/Q13130633
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1235-REC246841,geometry_with_crs,Point(-4.3295188 52.016821),http://www.wikidata.org/entity/Q13130633
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1239-REC247681,descriptive_identity,transmitter station,http://www.wikidata.org/entity/Q15224750
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1239-REC247681,location,United Kingdom,http://www.wikidata.org/entity/Q15224750
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1239-REC247681,geometry_with_crs,Point(-4.667927 53.310008),http://www.wikidata.org/entity/Q15224750
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1225-REC244951,descriptive_identity,abbey,http://www.wikidata.org/entity/Q22940598
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1225-REC244951,location,"Massay, France",http://www.wikidata.org/entity/Q22940598
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1225-REC244951,geometry_with_crs,Point(1.9932 47.1517),http://www.wikidata.org/entity/Q22940598
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1244-REC248731,descriptive_identity,mound,http://www.wikidata.org/entity/Q24661311
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1244-REC248731,location,"Old Hunstanton, United Kingdom",http://www.wikidata.org/entity/Q24661311
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1244-REC248731,geometry_with_crs,Point(0.51294 52.9489),http://www.wikidata.org/entity/Q24661311
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1203-REC240541,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q35710062
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1203-REC240541,location,France,http://www.wikidata.org/entity/Q35710062
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1203-REC240541,geometry_with_crs,Point(-1.076111111 44.977777777),http://www.wikidata.org/entity/Q35710062
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1198-REC239491,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q35733210
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1198-REC239491,location,"Pays de la Loire, France",http://www.wikidata.org/entity/Q35733210
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1198-REC239491,geometry_with_crs,Point(-2.151111111 47.33),http://www.wikidata.org/entity/Q35733210
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1196-REC239071,descriptive_identity,village,http://www.wikidata.org/entity/Q49464893
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1196-REC239071,location,France,http://www.wikidata.org/entity/Q49464893
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1196-REC239071,geometry_with_crs,Point(-3.74722 47.85556),http://www.wikidata.org/entity/Q49464893
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1255-REC250831,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q52062879
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1276-REC255031,descriptive_identity,church building,http://www.wikidata.org/entity/Q126596526
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1276-REC255031,location,"Tinos Municipality, Greece",http://www.wikidata.org/entity/Q126596526
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1276-REC255031,geometry_with_crs,Point(25.08318 37.58832),http://www.wikidata.org/entity/Q126596526
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1197-REC239281,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q176193
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1197-REC239281,location,"Pyrénées-Atlantiques, France",http://www.wikidata.org/entity/Q176193
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1197-REC239281,geometry_with_crs,Point(-0.615555555 43.388888888),http://www.wikidata.org/entity/Q176193
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1197-REC239281,elevation,92000,http://www.wikidata.org/entity/Q176193
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1205-REC240961,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q200039
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1205-REC240961,location,"Pyrénées-Atlantiques, France",http://www.wikidata.org/entity/Q200039
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1205-REC240961,geometry_with_crs,Point(-0.706111111 43.250833333),http://www.wikidata.org/entity/Q200039
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1205-REC240961,elevation,167000,http://www.wikidata.org/entity/Q200039
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1208-REC241591,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q330937
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1208-REC241591,location,"Calvados, France",http://www.wikidata.org/entity/Q330937
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1208-REC241591,geometry_with_crs,Point(-0.330277777 49.153888888),http://www.wikidata.org/entity/Q330937
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1208-REC241591,elevation,13000,http://www.wikidata.org/entity/Q330937
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1256-REC251041,descriptive_identity,international airport,http://www.wikidata.org/entity/Q501083
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1256-REC251041,location,"Gibraltar, United Kingdom",http://www.wikidata.org/entity/Q501083
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1256-REC251041,geometry_with_crs,Point(-5.349722222 36.151111111),http://www.wikidata.org/entity/Q501083
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1256-REC251041,elevation,3700,http://www.wikidata.org/entity/Q501083
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1194-REC238651,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q629927
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1194-REC238651,location,"Manche, France",http://www.wikidata.org/entity/Q629927
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1194-REC238651,geometry_with_crs,Point(-1.272222222 49.335833333),http://www.wikidata.org/entity/Q629927
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1194-REC238651,elevation,0,http://www.wikidata.org/entity/Q629927
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1249-REC249781,descriptive_identity,abbey,http://www.wikidata.org/entity/Q655000
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1249-REC249781,location,Kingdom of England,http://www.wikidata.org/entity/Q655000
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1249-REC249781,geometry_with_crs,Point(-2.097222 51.454722),http://www.wikidata.org/entity/Q655000
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1193-REC238441,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q1022710
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1193-REC238441,location,"Pas-de-Calais, France",http://www.wikidata.org/entity/Q1022710
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1193-REC238441,geometry_with_crs,Point(1.742777777 50.875),http://www.wikidata.org/entity/Q1022710
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1193-REC238441,elevation,85000,http://www.wikidata.org/entity/Q1022710
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1213-REC242431,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q1169587
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1213-REC242431,location,"Loiret, France",http://www.wikidata.org/entity/Q1169587
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1213-REC242431,geometry_with_crs,Point(2.284444444 48.095555555),http://www.wikidata.org/entity/Q1169587
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1213-REC242431,elevation,98000,http://www.wikidata.org/entity/Q1169587
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1297-REC259231,descriptive_identity,island,http://www.wikidata.org/entity/Q40285
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1297-REC259231,location,"Indonesia, Indonesia",http://www.wikidata.org/entity/Q40285
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1297-REC259231,geometry_with_crs,Point(140.0 -5.0),http://www.wikidata.org/entity/Q40285
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1297-REC259231,elevation,164000,http://www.wikidata.org/entity/Q40285
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1330-REC265951,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q2465654
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1330-REC265951,location,"Cuddalore district, India",http://www.wikidata.org/entity/Q2465654
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1330-REC265951,geometry_with_crs,Point(79.33 11.5),http://www.wikidata.org/entity/Q2465654
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1330-REC265951,elevation,45000,http://www.wikidata.org/entity/Q2465654
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1322-REC264271,descriptive_identity,town in India,http://www.wikidata.org/entity/Q2566481
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1322-REC264271,location,"Tanuku mandal, India",http://www.wikidata.org/entity/Q2566481
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1322-REC264271,geometry_with_crs,Point(81.7 16.75),http://www.wikidata.org/entity/Q2566481
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1322-REC264271,elevation,12000,http://www.wikidata.org/entity/Q2566481
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1328-REC265531,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q4842439
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1328-REC265531,location,"Patuakhali District, Bangladesh",http://www.wikidata.org/entity/Q4842439
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1328-REC265531,geometry_with_crs,Point(90.583333333 22.333333333),http://www.wikidata.org/entity/Q4842439
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1299-REC259651,descriptive_identity,river,http://www.wikidata.org/entity/Q7513107
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1299-REC259651,location,Honduras,http://www.wikidata.org/entity/Q7513107
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1299-REC259651,geometry_with_crs,Point(-84.6 15.801944444),http://www.wikidata.org/entity/Q7513107
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1294-REC258601,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q20118953
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1304-REC260701,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q24997344
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1304-REC260701,location,"Indonesia, Indonesia",http://www.wikidata.org/entity/Q24997344
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1304-REC260701,geometry_with_crs,Point(107.65 -6.833333333),http://www.wikidata.org/entity/Q24997344
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1304-REC260701,elevation,1293000,http://www.wikidata.org/entity/Q24997344
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1342-REC268261,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26838843
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1342-REC268261,location,Iraq,http://www.wikidata.org/entity/Q26838843
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1342-REC268261,geometry_with_crs,Point(45.51943 35.12831),http://www.wikidata.org/entity/Q26838843
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1327-REC265321,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q33155057
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1327-REC265321,location,"India, India",http://www.wikidata.org/entity/Q33155057
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1327-REC265321,geometry_with_crs,Point(75.566666666 24.933333333),http://www.wikidata.org/entity/Q33155057
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1423-REC284431,descriptive_identity,village,http://www.wikidata.org/entity/Q5793998
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1423-REC284431,location,"Qareh Poshtelu-e Bala Rural District, Iran",http://www.wikidata.org/entity/Q5793998
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1423-REC284431,geometry_with_crs,Point(48.4106 36.9325),http://www.wikidata.org/entity/Q5793998
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1455-REC290941,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26866609
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1455-REC290941,location,"Kermanshah Province, Iran",http://www.wikidata.org/entity/Q26866609
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1455-REC290941,geometry_with_crs,Point(46.407222222 34.301388888),http://www.wikidata.org/entity/Q26866609
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1462-REC292201,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26884888
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1462-REC292201,location,"Kerman Province, Iran",http://www.wikidata.org/entity/Q26884888
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1462-REC292201,geometry_with_crs,Point(58.8375 26.738611111),http://www.wikidata.org/entity/Q26884888
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1447-REC289261,descriptive_identity,stream,http://www.wikidata.org/entity/Q35491943
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1447-REC289261,location,"Hormozgan Province, Iran",http://www.wikidata.org/entity/Q35491943
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1447-REC289261,geometry_with_crs,Point(57.272222222 26.829166666),http://www.wikidata.org/entity/Q35491943
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1493-REC298501,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26979189
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1493-REC298501,location,Iran,http://www.wikidata.org/entity/Q26979189
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1493-REC298501,geometry_with_crs,Point(57.3375 33.461388888),http://www.wikidata.org/entity/Q26979189
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1550-REC309841,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26855528
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1550-REC309841,location,"Mazandaran Province, Iran",http://www.wikidata.org/entity/Q26855528
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1550-REC309841,geometry_with_crs,Point(53.8583 36.475),http://www.wikidata.org/entity/Q26855528
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1515-REC302911,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26855583
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1515-REC302911,location,"Mazandaran Province, Iran",http://www.wikidata.org/entity/Q26855583
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1515-REC302911,geometry_with_crs,Point(51.682777777 36.167777777),http://www.wikidata.org/entity/Q26855583
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1530-REC305851,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26857241
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1530-REC305851,location,"Kurdistan Province, Iran",http://www.wikidata.org/entity/Q26857241
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1530-REC305851,geometry_with_crs,Point(46.693333333 35.796666666),http://www.wikidata.org/entity/Q26857241
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1514-REC302701,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26858198
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1514-REC302701,location,"Semnan Province, Iran",http://www.wikidata.org/entity/Q26858198
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1514-REC302701,geometry_with_crs,Point(55.835 37.020277777),http://www.wikidata.org/entity/Q26858198
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1474-REC294721,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26897292
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1474-REC294721,location,"Hormozgan Province, Iran",http://www.wikidata.org/entity/Q26897292
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1474-REC294721,geometry_with_crs,Point(57.25 27.083333333),http://www.wikidata.org/entity/Q26897292
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1479-REC295771,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26898310
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1479-REC295771,location,"West Azerbaijan Province, Iran",http://www.wikidata.org/entity/Q26898310
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1479-REC295771,geometry_with_crs,Point(45.200555555 37.628333333),http://www.wikidata.org/entity/Q26898310
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1494-REC298711,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26902156
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1494-REC298711,location,"Tehran Province, Iran",http://www.wikidata.org/entity/Q26902156
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1494-REC298711,geometry_with_crs,Point(52.491944444 35.619722222),http://www.wikidata.org/entity/Q26902156
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1497-REC299341,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26903004
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1497-REC299341,location,"Kurdistan Province, Iran",http://www.wikidata.org/entity/Q26903004
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1497-REC299341,geometry_with_crs,Point(46.206388888 35.896388888),http://www.wikidata.org/entity/Q26903004
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1512-REC302281,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26912161
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1512-REC302281,location,"Kurdistan Province, Iran",http://www.wikidata.org/entity/Q26912161
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1512-REC302281,geometry_with_crs,Point(46.612222222 35.309166666),http://www.wikidata.org/entity/Q26912161
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1522-REC304381,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26920349
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1522-REC304381,location,"Fars Province, Iran",http://www.wikidata.org/entity/Q26920349
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1522-REC304381,geometry_with_crs,Point(53.827222222 29.604166666),http://www.wikidata.org/entity/Q26920349
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1628-REC325591,descriptive_identity,stadium,http://www.wikidata.org/entity/Q412824
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1628-REC325591,location,"Chōfu, Japan",http://www.wikidata.org/entity/Q412824
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1628-REC325591,geometry_with_crs,Point(139.527139 35.664278),http://www.wikidata.org/entity/Q412824
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1624-REC324751,descriptive_identity,airport,http://www.wikidata.org/entity/Q1378640
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1624-REC324751,location,"Akae, Japan",http://www.wikidata.org/entity/Q1378640
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1624-REC324751,geometry_with_crs,Point(131.448611111 31.877222222),http://www.wikidata.org/entity/Q1378640
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1624-REC324751,elevation,19000,http://www.wikidata.org/entity/Q1378640
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1570-REC313831,descriptive_identity,museum,http://www.wikidata.org/entity/Q3328387
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1570-REC313831,location,"Cerveteri, Italy",http://www.wikidata.org/entity/Q3328387
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1570-REC313831,geometry_with_crs,Point(12.09946 41.99862),http://www.wikidata.org/entity/Q3328387
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1578-REC315511,descriptive_identity,ethnographic museum,http://www.wikidata.org/entity/Q3867950
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1578-REC315511,location,"Bagheria, Italy",http://www.wikidata.org/entity/Q3867950
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1578-REC315511,geometry_with_crs,Point(13.509247 38.088673),http://www.wikidata.org/entity/Q3867950
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1634-REC326641,descriptive_identity,arena,http://www.wikidata.org/entity/Q17210275
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1634-REC326641,location,"Hakata-ku, Japan",http://www.wikidata.org/entity/Q17210275
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1634-REC326641,geometry_with_crs,Point(130.402194444 33.607333333),http://www.wikidata.org/entity/Q17210275
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1631-REC326011,descriptive_identity,arena,http://www.wikidata.org/entity/Q20743529
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1631-REC326011,location,"Hakodate, Japan",http://www.wikidata.org/entity/Q20743529
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1631-REC326011,geometry_with_crs,Point(140.783333333 41.781944444),http://www.wikidata.org/entity/Q20743529
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1635-REC326851,descriptive_identity,glacier,http://www.wikidata.org/entity/Q27197764
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1635-REC326851,location,"Kenya, Kenya",http://www.wikidata.org/entity/Q27197764
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1635-REC326851,geometry_with_crs,Point(37.3 -0.15),http://www.wikidata.org/entity/Q27197764
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1637-REC327271,descriptive_identity,glacier,http://www.wikidata.org/entity/Q27211426
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1637-REC327271,location,Kyrgyzstan,http://www.wikidata.org/entity/Q27211426
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1637-REC327271,geometry_with_crs,Point(71.428611111 41.766666666),http://www.wikidata.org/entity/Q27211426
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1627-REC325381,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q34758529
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1627-REC325381,location,"Fukuoka Prefecture, Japan",http://www.wikidata.org/entity/Q34758529
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1627-REC325381,geometry_with_crs,Point(130.595833333 33.549444444),http://www.wikidata.org/entity/Q34758529
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1627-REC325381,elevation,517000,http://www.wikidata.org/entity/Q34758529
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1574-REC314671,descriptive_identity,private museum,http://www.wikidata.org/entity/Q113110986
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1574-REC314671,location,"Ferentino, Italy",http://www.wikidata.org/entity/Q113110986
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1574-REC314671,geometry_with_crs,Point(13.2558957 41.6931448),http://www.wikidata.org/entity/Q113110986
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1579-REC315721,descriptive_identity,palace,http://www.wikidata.org/entity/Q134469736
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1579-REC315721,location,"Loano, Italy",http://www.wikidata.org/entity/Q134469736
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1579-REC315721,geometry_with_crs,Point(8.260214933 44.128287841),http://www.wikidata.org/entity/Q134469736
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1703-REC340501,descriptive_identity,university,http://www.wikidata.org/entity/Q491082
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1703-REC340501,location,"Suwon, South Korea",http://www.wikidata.org/entity/Q491082
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1703-REC340501,geometry_with_crs,Point(127.04607 37.282913),http://www.wikidata.org/entity/Q491082
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1707-REC341341,descriptive_identity,Korean Buddhist temple,http://www.wikidata.org/entity/Q491233
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1707-REC341341,location,"Gurye County, South Korea",http://www.wikidata.org/entity/Q491233
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1707-REC341341,geometry_with_crs,Point(127.4973 35.256536),http://www.wikidata.org/entity/Q491233
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1754-REC350791,descriptive_identity,town,http://www.wikidata.org/entity/Q1981952
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1754-REC350791,location,"Rokiškis District Municipality, Lithuania",http://www.wikidata.org/entity/Q1981952
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1754-REC350791,geometry_with_crs,Point(25.27777778 56.06111111),http://www.wikidata.org/entity/Q1981952
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1754-REC350791,elevation,88000,http://www.wikidata.org/entity/Q1981952
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1753-REC350581,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q2236454
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1753-REC350581,location,"Utena District Municipality, Lithuania",http://www.wikidata.org/entity/Q2236454
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1753-REC350581,geometry_with_crs,Point(25.583333333 55.633333333),http://www.wikidata.org/entity/Q2236454
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1753-REC350581,elevation,92000,http://www.wikidata.org/entity/Q2236454
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1708-REC341551,descriptive_identity,Korean Buddhist temple,http://www.wikidata.org/entity/Q7207726
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1708-REC341551,location,South Korea,http://www.wikidata.org/entity/Q7207726
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1708-REC341551,geometry_with_crs,Point(129.0437 36.4177),http://www.wikidata.org/entity/Q7207726
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1708-REC341551,elevation,306000,http://www.wikidata.org/entity/Q7207726
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1756-REC351001,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q11171580
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1756-REC351001,location,"Juknaičiai Eldership, Lithuania",http://www.wikidata.org/entity/Q11171580
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1756-REC351001,geometry_with_crs,Point(21.57777778 55.28888889),http://www.wikidata.org/entity/Q11171580
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1680-REC335881,descriptive_identity,island,http://www.wikidata.org/entity/Q12604403
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1680-REC335881,location,"North Jeolla, South Korea",http://www.wikidata.org/entity/Q12604403
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1680-REC335881,geometry_with_crs,Point(126.465277777 35.821666666),http://www.wikidata.org/entity/Q12604403
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1723-REC344491,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q16651007
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1723-REC344491,location,"Saryagash District, Kazakhstan",http://www.wikidata.org/entity/Q16651007
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1723-REC344491,geometry_with_crs,Point(69.091944444 41.567222222),http://www.wikidata.org/entity/Q16651007
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1679-REC335671,descriptive_identity,island,http://www.wikidata.org/entity/Q27267112
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1679-REC335671,location,"South Jeolla, South Korea",http://www.wikidata.org/entity/Q27267112
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1679-REC335671,geometry_with_crs,Point(125.084444444 34.120555555),http://www.wikidata.org/entity/Q27267112
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1721-REC344071,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q27546231
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1721-REC344071,location,"Nivnyanskoe Rural Settlement, Russia",http://www.wikidata.org/entity/Q27546231
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1721-REC344071,geometry_with_crs,Point(32.567816 53.07448),http://www.wikidata.org/entity/Q27546231
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1811-REC362131,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q247989
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1807-REC361291,descriptive_identity,municipality of Nicaragua,http://www.wikidata.org/entity/Q538269
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1807-REC361291,location,"Masaya Department, Nicaragua",http://www.wikidata.org/entity/Q538269
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1807-REC361291,geometry_with_crs,Point(-86.190188888 11.9373),http://www.wikidata.org/entity/Q538269
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1807-REC361291,elevation,538000,http://www.wikidata.org/entity/Q538269
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1810-REC361921,descriptive_identity,census-designated place in the United States,http://www.wikidata.org/entity/Q952603
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1810-REC361921,location,"Starr County, United States",http://www.wikidata.org/entity/Q952603
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1810-REC361921,geometry_with_crs,Point(-98.7594 26.3422),http://www.wikidata.org/entity/Q952603
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1810-REC361921,elevation,46000,http://www.wikidata.org/entity/Q952603
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1777-REC355201,descriptive_identity,commune of Algeria,http://www.wikidata.org/entity/Q311809
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1777-REC355201,location,"Baghlia District, Algeria",http://www.wikidata.org/entity/Q311809
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1777-REC355201,geometry_with_crs,Point(3.85 36.85),http://www.wikidata.org/entity/Q311809
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1777-REC355201,elevation,58000,http://www.wikidata.org/entity/Q311809
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1806-REC361081,descriptive_identity,locality of Mexico,http://www.wikidata.org/entity/Q984646
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1806-REC361081,location,"Jiutepec Municipality, Mexico",http://www.wikidata.org/entity/Q984646
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1806-REC361081,geometry_with_crs,Point(-99.177777777 18.881388888),http://www.wikidata.org/entity/Q984646
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1806-REC361081,elevation,1361000,http://www.wikidata.org/entity/Q984646
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1796-REC359191,descriptive_identity,airport,http://www.wikidata.org/entity/Q1142389
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1796-REC359191,location,"Skopje Statistical Region, North Macedonia",http://www.wikidata.org/entity/Q1142389
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1796-REC359191,geometry_with_crs,Point(21.626944444 41.961111111),http://www.wikidata.org/entity/Q1142389
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1796-REC359191,elevation,238000,http://www.wikidata.org/entity/Q1142389
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1829-REC365701,descriptive_identity,airport,http://www.wikidata.org/entity/Q1321635
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1829-REC365701,location,"Khomas Region, Namibia",http://www.wikidata.org/entity/Q1321635
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1829-REC365701,geometry_with_crs,Point(17.080555555 -22.612222222),http://www.wikidata.org/entity/Q1321635
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1829-REC365701,elevation,1699000,http://www.wikidata.org/entity/Q1321635
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1832-REC366331,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q2794290
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1832-REC366331,location,"Doetinchem, Netherlands",http://www.wikidata.org/entity/Q2794290
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1832-REC366331,geometry_with_crs,Point(6.1717 51.9672),http://www.wikidata.org/entity/Q2794290
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1795-REC358981,descriptive_identity,village,http://www.wikidata.org/entity/Q2962262
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1795-REC358981,location,"Jegunovce Municipality, North Macedonia",http://www.wikidata.org/entity/Q2962262
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1795-REC358981,geometry_with_crs,Point(21.0797 42.0247),http://www.wikidata.org/entity/Q2962262
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1795-REC358981,elevation,390000,http://www.wikidata.org/entity/Q2962262
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1799-REC359611,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q3056690
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1799-REC359611,location,"Myaungmya District, Myanmar",http://www.wikidata.org/entity/Q3056690
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1799-REC359611,geometry_with_crs,Point(94.928888888 16.603611111),http://www.wikidata.org/entity/Q3056690
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1823-REC364441,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q3259725
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1823-REC364441,location,"Parroquia Maneiro, Venezuela",http://www.wikidata.org/entity/Q3259725
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1823-REC364441,geometry_with_crs,Point(-63.8335 10.9981),http://www.wikidata.org/entity/Q3259725
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1842-REC368221,descriptive_identity,mountain,http://www.wikidata.org/entity/Q3442728
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1842-REC368221,location,"Skjåk Municipality, Norway",http://www.wikidata.org/entity/Q3442728
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1842-REC368221,geometry_with_crs,Point(7.61451 62.06559),http://www.wikidata.org/entity/Q3442728
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1842-REC368221,elevation,1857200,http://www.wikidata.org/entity/Q3442728
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1827-REC365281,descriptive_identity,district of Malaysia,http://www.wikidata.org/entity/Q4251470
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1827-REC365281,location,"Selangor, Malaysia",http://www.wikidata.org/entity/Q4251470
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1827-REC365281,geometry_with_crs,Point(101.83333333 3.05),http://www.wikidata.org/entity/Q4251470
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1845-REC368851,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q11336540
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1845-REC368851,location,"Årdal Municipality, Norway",http://www.wikidata.org/entity/Q11336540
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1845-REC368851,geometry_with_crs,Point(7.87708 61.34297),http://www.wikidata.org/entity/Q11336540
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1805-REC360871,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q15653387
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1808-REC361501,descriptive_identity,canyon,http://www.wikidata.org/entity/Q27780137
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1808-REC361501,location,"Nuevo León, Mexico",http://www.wikidata.org/entity/Q27780137
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1808-REC361501,geometry_with_crs,Point(-100.133333333 24.916666666),http://www.wikidata.org/entity/Q27780137
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1808-REC361501,elevation,1675000,http://www.wikidata.org/entity/Q27780137
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1814-REC362761,descriptive_identity,canyon,http://www.wikidata.org/entity/Q27780155
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1814-REC362761,location,"Nuevo León, Mexico",http://www.wikidata.org/entity/Q27780155
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1814-REC362761,geometry_with_crs,Point(-100.03 24.2),http://www.wikidata.org/entity/Q27780155
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1814-REC362761,elevation,2025000,http://www.wikidata.org/entity/Q27780155
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1812-REC362341,descriptive_identity,canyon,http://www.wikidata.org/entity/Q27795458
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1812-REC362341,location,"Baja California, Mexico",http://www.wikidata.org/entity/Q27795458
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1812-REC362341,geometry_with_crs,Point(-116.419166666 31.522777777),http://www.wikidata.org/entity/Q27795458
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1812-REC362341,elevation,231000,http://www.wikidata.org/entity/Q27795458
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1816-REC363181,descriptive_identity,canyon,http://www.wikidata.org/entity/Q27822613
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1816-REC363181,location,"Zacatecas, Mexico",http://www.wikidata.org/entity/Q27822613
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1816-REC363181,geometry_with_crs,Point(-101.280833333 24.583888888),http://www.wikidata.org/entity/Q27822613
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1816-REC363181,elevation,1800000,http://www.wikidata.org/entity/Q27822613
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1830-REC365911,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q33469140
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1830-REC365911,location,"Nigeria, Nigeria",http://www.wikidata.org/entity/Q33469140
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1830-REC365911,geometry_with_crs,Point(4.922153883 7.835360047),http://www.wikidata.org/entity/Q33469140
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1846-REC369061,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q34673222
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1846-REC369061,location,"Kristiansand Municipality, Norway",http://www.wikidata.org/entity/Q34673222
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1846-REC369061,geometry_with_crs,Point(7.67988 58.09866),http://www.wikidata.org/entity/Q34673222
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1846-REC369061,elevation,56000,http://www.wikidata.org/entity/Q34673222
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1820-REC363811,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q34750017
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1820-REC363811,location,"Tabasco, Mexico",http://www.wikidata.org/entity/Q34750017
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1820-REC363811,geometry_with_crs,Point(-91.2687 17.74931),http://www.wikidata.org/entity/Q34750017
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1936-REC387121,descriptive_identity,river,http://www.wikidata.org/entity/Q14684
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1936-REC387121,location,"Leningrad Oblast, Russia",http://www.wikidata.org/entity/Q14684
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1936-REC387121,geometry_with_crs,Point(28.3114 59.6772),http://www.wikidata.org/entity/Q14684
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1866-REC373051,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q37305
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1866-REC373051,location,"Southland Region, New Zealand",http://www.wikidata.org/entity/Q37305
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1866-REC373051,geometry_with_crs,Point(167.0857983 -45.3993512),http://www.wikidata.org/entity/Q37305
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1866-REC373051,elevation,824000,http://www.wikidata.org/entity/Q37305
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1911-REC382081,descriptive_identity,museum of sacred art,http://www.wikidata.org/entity/Q546112
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1911-REC382081,location,Portugal,http://www.wikidata.org/entity/Q546112
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1911-REC382081,geometry_with_crs,Point(-7.912144 40.659959),http://www.wikidata.org/entity/Q546112
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1877-REC375361,descriptive_identity,volcano,http://www.wikidata.org/entity/Q1340711
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1877-REC375361,location,"Taiarapu-Est, France",http://www.wikidata.org/entity/Q1340711
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1877-REC375361,geometry_with_crs,Point(-148.066666666 -17.866666666),http://www.wikidata.org/entity/Q1340711
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1877-REC375361,elevation,435000,http://www.wikidata.org/entity/Q1340711
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1907-REC381241,descriptive_identity,stadium,http://www.wikidata.org/entity/Q2586520
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1907-REC381241,location,"Faro, Portugal",http://www.wikidata.org/entity/Q2586520
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1907-REC381241,geometry_with_crs,Point(-7.92861111 37.02277778),http://www.wikidata.org/entity/Q2586520
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1928-REC385441,descriptive_identity,aerodrome,http://www.wikidata.org/entity/Q2670375
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1928-REC385441,location,"Serbia, Serbia",http://www.wikidata.org/entity/Q2670375
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1928-REC385441,geometry_with_crs,Point(21.309722222 45.147777777),http://www.wikidata.org/entity/Q2670375
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1928-REC385441,elevation,84000,http://www.wikidata.org/entity/Q2670375
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1885-REC376831,descriptive_identity,airport,http://www.wikidata.org/entity/Q3502854
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1885-REC376831,location,"Pakistan, Pakistan",http://www.wikidata.org/entity/Q3502854
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1885-REC376831,geometry_with_crs,Point(64.1325 26.954722222),http://www.wikidata.org/entity/Q3502854
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1885-REC376831,elevation,1002000,http://www.wikidata.org/entity/Q3502854
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1931-REC386071,descriptive_identity,village,http://www.wikidata.org/entity/Q4442406
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1931-REC386071,location,"Q24636454, Russia",http://www.wikidata.org/entity/Q4442406
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1931-REC386071,geometry_with_crs,Point(46.344103 42.992102),http://www.wikidata.org/entity/Q4442406
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1870-REC373891,descriptive_identity,locality,http://www.wikidata.org/entity/Q6346847
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1870-REC373891,location,"Bay of Plenty Region, New Zealand",http://www.wikidata.org/entity/Q6346847
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1870-REC373891,geometry_with_crs,Point(176.235 -37.995),http://www.wikidata.org/entity/Q6346847
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1920-REC383971,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q7666948
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1854-REC370741,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q34753935
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1854-REC370741,location,"Kviteseid Municipality, Norway",http://www.wikidata.org/entity/Q34753935
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1854-REC370741,geometry_with_crs,Point(8.47071 59.43225),http://www.wikidata.org/entity/Q34753935
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1854-REC370741,elevation,258000,http://www.wikidata.org/entity/Q34753935
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1855-REC370951,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q34755626
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1855-REC370951,location,"Bardu Municipality, Norway",http://www.wikidata.org/entity/Q34755626
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1855-REC370951,geometry_with_crs,Point(18.09524 68.69244),http://www.wikidata.org/entity/Q34755626
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1853-REC370531,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q34757610
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1853-REC370531,location,"Nissedal, Norway",http://www.wikidata.org/entity/Q34757610
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1853-REC370531,geometry_with_crs,Point(8.45758 58.99302),http://www.wikidata.org/entity/Q34757610
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1853-REC370531,elevation,418000,http://www.wikidata.org/entity/Q34757610
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1861-REC372001,descriptive_identity,glacier,http://www.wikidata.org/entity/Q34833502
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1861-REC372001,location,"Rindal Municipality, Norway",http://www.wikidata.org/entity/Q34833502
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1861-REC372001,geometry_with_crs,Point(9.36342 62.8986),http://www.wikidata.org/entity/Q34833502
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1856-REC371161,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q34835636
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1856-REC371161,location,"Bindal Municipality, Norway",http://www.wikidata.org/entity/Q34835636
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1856-REC371161,geometry_with_crs,Point(12.20973 65.00458),http://www.wikidata.org/entity/Q34835636
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1852-REC370321,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q34836256
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1852-REC370321,location,"Kvam Municipality, Norway",http://www.wikidata.org/entity/Q34836256
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1852-REC370321,geometry_with_crs,Point(6.10979 60.39304),http://www.wikidata.org/entity/Q34836256
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1857-REC371371,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q34848257
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1857-REC371371,location,"Aurskog-Høland Municipality, Norway",http://www.wikidata.org/entity/Q34848257
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1857-REC371371,geometry_with_crs,Point(11.38059 59.80631),http://www.wikidata.org/entity/Q34848257
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1879-REC375781,descriptive_identity,lighthouse,http://www.wikidata.org/entity/Q42309792
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1879-REC375781,location,"Carles, Philippines",http://www.wikidata.org/entity/Q42309792
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1879-REC375781,geometry_with_crs,Point(123.351666666 11.622222222),http://www.wikidata.org/entity/Q42309792
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1972-REC394261,descriptive_identity,town,http://www.wikidata.org/entity/Q15933
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1972-REC394261,location,"Municipality of Žiri, Slovenia",http://www.wikidata.org/entity/Q15933
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1972-REC394261,geometry_with_crs,Point(14.108283 46.046019),http://www.wikidata.org/entity/Q15933
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1985-REC396991,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q340739
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1966-REC393001,descriptive_identity,free software,http://www.wikidata.org/entity/Q722867
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1983-REC396571,descriptive_identity,city,http://www.wikidata.org/entity/Q893092
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1983-REC396571,location,"Borama District, Somalia",http://www.wikidata.org/entity/Q893092
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1983-REC396571,geometry_with_crs,Point(43.181666666 9.933055555),http://www.wikidata.org/entity/Q893092
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1978-REC395521,descriptive_identity,glacier,http://www.wikidata.org/entity/Q1800854
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1978-REC395521,location,"Svalbard, Norway",http://www.wikidata.org/entity/Q1800854
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1978-REC395521,geometry_with_crs,Point(13.0 78.83333333),http://www.wikidata.org/entity/Q1800854
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1974-REC394681,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q2048747
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1974-REC394681,location,"Zagorje ob Savi Municipality, Slovenia",http://www.wikidata.org/entity/Q2048747
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1974-REC394681,geometry_with_crs,Point(14.907783 46.18415),http://www.wikidata.org/entity/Q2048747
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1974-REC394681,elevation,545500,http://www.wikidata.org/entity/Q2048747
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1963-REC392581,descriptive_identity,village,http://www.wikidata.org/entity/Q5847074
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1963-REC392581,location,"Balyan Rural District, Iran",http://www.wikidata.org/entity/Q5847074
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1963-REC392581,geometry_with_crs,Point(51.6942 29.5322),http://www.wikidata.org/entity/Q5847074
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1970-REC393841,descriptive_identity,airport,http://www.wikidata.org/entity/Q6543711
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1970-REC393841,location,"Lidköping Municipality, Sweden",http://www.wikidata.org/entity/Q6543711
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1970-REC393841,geometry_with_crs,Point(13.174166666 58.465277777),http://www.wikidata.org/entity/Q6543711
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1970-REC393841,elevation,61000,http://www.wikidata.org/entity/Q6543711
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP792-REC158221,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21740388
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP792-REC158221,location,"Ghazni Province, Afghanistan",http://www.wikidata.org/entity/Q21740388
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP792-REC158221,geometry_with_crs,Point(67.791944444 33.094166666),http://www.wikidata.org/entity/Q21740388
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP792-REC158221,elevation,2409000,http://www.wikidata.org/entity/Q21740388
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP824-REC164731,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21751725
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP824-REC164731,location,"Herat Province, Afghanistan",http://www.wikidata.org/entity/Q21751725
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP824-REC164731,geometry_with_crs,Point(61.575555555 34.076111111),http://www.wikidata.org/entity/Q21751725
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP824-REC164731,elevation,2004000,http://www.wikidata.org/entity/Q21751725
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1977-REC395311,descriptive_identity,glacier,http://www.wikidata.org/entity/Q31877957
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1977-REC395311,location,"Svalbard, Norway",http://www.wikidata.org/entity/Q31877957
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1977-REC395311,geometry_with_crs,Point(16.75 78.416666666),http://www.wikidata.org/entity/Q31877957
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP1977-REC395311,elevation,650000,http://www.wikidata.org/entity/Q31877957
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP934-REC186781,descriptive_identity,village in Armenia,http://www.wikidata.org/entity/Q2642686
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP934-REC186781,location,"Amasia Municipality, Armenia",http://www.wikidata.org/entity/Q2642686
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP934-REC186781,geometry_with_crs,Point(43.753777777 40.931055555),http://www.wikidata.org/entity/Q2642686
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP934-REC186781,elevation,1850000,http://www.wikidata.org/entity/Q2642686
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP953-REC190561,descriptive_identity,glacier,http://www.wikidata.org/entity/Q4873290
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP953-REC190561,location,Antarctic Treaty area,http://www.wikidata.org/entity/Q4873290
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP953-REC190561,geometry_with_crs,Point(67.7592 -70.8697),http://www.wikidata.org/entity/Q4873290
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP928-REC185521,descriptive_identity,mountain,http://www.wikidata.org/entity/Q6743326
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP928-REC185521,location,"Dibra County, Albania",http://www.wikidata.org/entity/Q6743326
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP928-REC185521,geometry_with_crs,Point(20.483333333 41.733333333),http://www.wikidata.org/entity/Q6743326
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP928-REC185521,elevation,2345000,http://www.wikidata.org/entity/Q6743326
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP896-REC179011,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21745381
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP896-REC179011,location,"Farah Province, Afghanistan",http://www.wikidata.org/entity/Q21745381
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP896-REC179011,geometry_with_crs,Point(60.807222222 33.333888888),http://www.wikidata.org/entity/Q21745381
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP896-REC179011,elevation,841000,http://www.wikidata.org/entity/Q21745381
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP866-REC173131,descriptive_identity,valley,http://www.wikidata.org/entity/Q21755272
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP866-REC173131,location,"Bamyan Province, Afghanistan",http://www.wikidata.org/entity/Q21755272
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP866-REC173131,geometry_with_crs,Point(67.363333333 34.911944444),http://www.wikidata.org/entity/Q21755272
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP866-REC173131,elevation,3287000,http://www.wikidata.org/entity/Q21755272
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP888-REC177541,descriptive_identity,valley,http://www.wikidata.org/entity/Q21757330
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP888-REC177541,location,"Herat Province, Afghanistan",http://www.wikidata.org/entity/Q21757330
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP888-REC177541,geometry_with_crs,Point(63.033055555 33.911666666),http://www.wikidata.org/entity/Q21757330
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP888-REC177541,elevation,2377000,http://www.wikidata.org/entity/Q21757330
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP916-REC183001,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21760561
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP916-REC183001,location,"Kandahar Province, Afghanistan",http://www.wikidata.org/entity/Q21760561
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP916-REC183001,geometry_with_crs,Point(65.7011 29.7619),http://www.wikidata.org/entity/Q21760561
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP857-REC171241,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21769597
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP857-REC171241,location,"Baghlan Province, Afghanistan",http://www.wikidata.org/entity/Q21769597
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP857-REC171241,geometry_with_crs,Point(69.260833333 36.197777777),http://www.wikidata.org/entity/Q21769597
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP857-REC171241,elevation,1997000,http://www.wikidata.org/entity/Q21769597
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP860-REC171871,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21771521
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP860-REC171871,location,"Nuristan Province, Afghanistan",http://www.wikidata.org/entity/Q21771521
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP860-REC171871,geometry_with_crs,Point(70.338888888 35.134722222),http://www.wikidata.org/entity/Q21771521
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP860-REC171871,elevation,2654000,http://www.wikidata.org/entity/Q21771521
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP871-REC174181,descriptive_identity,spring,http://www.wikidata.org/entity/Q21779717
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP871-REC174181,location,"Farah Province, Afghanistan",http://www.wikidata.org/entity/Q21779717
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP871-REC174181,geometry_with_crs,Point(62.925555555 33.088333333),http://www.wikidata.org/entity/Q21779717
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP871-REC174181,elevation,1552000,http://www.wikidata.org/entity/Q21779717
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP898-REC179431,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21782442
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP898-REC179431,location,"Ghazni Province, Afghanistan",http://www.wikidata.org/entity/Q21782442
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP898-REC179431,geometry_with_crs,Point(68.50854 33.66358),http://www.wikidata.org/entity/Q21782442
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP884-REC176701,descriptive_identity,spring,http://www.wikidata.org/entity/Q21792806
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP884-REC176701,location,"Logar Province, Afghanistan",http://www.wikidata.org/entity/Q21792806
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP884-REC176701,geometry_with_crs,Point(69.244166666 34.134444444),http://www.wikidata.org/entity/Q21792806
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP884-REC176701,elevation,2168000,http://www.wikidata.org/entity/Q21792806
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP883-REC176491,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21793155
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP883-REC176491,location,"Ghazni Province, Afghanistan",http://www.wikidata.org/entity/Q21793155
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP883-REC176491,geometry_with_crs,Point(67.304444444 33.489722222),http://www.wikidata.org/entity/Q21793155
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP885-REC176911,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21795001
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP885-REC176911,location,"Laghman Province, Afghanistan",http://www.wikidata.org/entity/Q21795001
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP885-REC176911,geometry_with_crs,Point(70.243611111 34.903055555),http://www.wikidata.org/entity/Q21795001
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP889-REC177751,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21802155
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP889-REC177751,location,"Nuristan Province, Afghanistan",http://www.wikidata.org/entity/Q21802155
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP889-REC177751,geometry_with_crs,Point(70.468 35.6005),http://www.wikidata.org/entity/Q21802155
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP904-REC180691,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21812632
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP904-REC180691,location,"Baghlan Province, Afghanistan",http://www.wikidata.org/entity/Q21812632
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP904-REC180691,geometry_with_crs,Point(69.128611111 35.827222222),http://www.wikidata.org/entity/Q21812632
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP905-REC180901,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21812963
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP905-REC180901,location,"Badakhshan Province, Afghanistan",http://www.wikidata.org/entity/Q21812963
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP905-REC180901,geometry_with_crs,Point(73.363333333 37.454166666),http://www.wikidata.org/entity/Q21812963
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP912-REC182371,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21815584
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP912-REC182371,location,"Baghlan Province, Afghanistan",http://www.wikidata.org/entity/Q21815584
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP912-REC182371,geometry_with_crs,Point(68.8053 35.7186),http://www.wikidata.org/entity/Q21815584
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP914-REC182791,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21817490
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP914-REC182791,location,"Paktia Province, Afghanistan",http://www.wikidata.org/entity/Q21817490
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP914-REC182791,geometry_with_crs,Point(69.533333333 34.018888888),http://www.wikidata.org/entity/Q21817490
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP917-REC183211,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21818199
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP917-REC183211,location,"Laghman Province, Afghanistan",http://www.wikidata.org/entity/Q21818199
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP917-REC183211,geometry_with_crs,Point(69.971666666 34.753611111),http://www.wikidata.org/entity/Q21818199
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP923-REC184471,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21821111
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP923-REC184471,location,"Helmand Province, Afghanistan",http://www.wikidata.org/entity/Q21821111
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP923-REC184471,geometry_with_crs,Point(65.22341 33.30828),http://www.wikidata.org/entity/Q21821111
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP949-REC189721,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q29403654
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1048-REC209531,descriptive_identity,city in Chile,http://www.wikidata.org/entity/Q3800
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1048-REC209531,location,"Cochrane, Chile",http://www.wikidata.org/entity/Q3800
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1048-REC209531,geometry_with_crs,Point(-72.5732 -47.2539),http://www.wikidata.org/entity/Q3800
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1048-REC209531,elevation,147000,http://www.wikidata.org/entity/Q3800
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1040-REC207851,descriptive_identity,municipality of Switzerland,http://www.wikidata.org/entity/Q68308
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1040-REC207851,location,"Gruyère District, Switzerland",http://www.wikidata.org/entity/Q68308
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1040-REC207851,geometry_with_crs,Point(7.05 46.616666666),http://www.wikidata.org/entity/Q68308
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1040-REC207851,elevation,771000,http://www.wikidata.org/entity/Q68308
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1019-REC203651,descriptive_identity,city,http://www.wikidata.org/entity/Q170663
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1019-REC203651,location,"North-West District, Botswana",http://www.wikidata.org/entity/Q170663
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1019-REC203651,geometry_with_crs,Point(21.845833333 -18.369166666),http://www.wikidata.org/entity/Q170663
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP967-REC193291,descriptive_identity,village,http://www.wikidata.org/entity/Q172668
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP967-REC193291,location,"Tarsdorf, Austria",http://www.wikidata.org/entity/Q172668
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP967-REC193291,geometry_with_crs,Point(12.863611 48.067222),http://www.wikidata.org/entity/Q172668
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP967-REC193291,elevation,478000,http://www.wikidata.org/entity/Q172668
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1007-REC201341,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q354119
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP980-REC195811,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q398133
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP970-REC193921,descriptive_identity,mountain,http://www.wikidata.org/entity/Q747182
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP970-REC193921,location,"Tasmania, Australia",http://www.wikidata.org/entity/Q747182
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP970-REC193921,geometry_with_crs,Point(146.033344444 -41.871025),http://www.wikidata.org/entity/Q747182
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP970-REC193921,elevation,1617000,http://www.wikidata.org/entity/Q747182
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP988-REC197491,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q799893
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP988-REC197491,location,Bangladesh,http://www.wikidata.org/entity/Q799893
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP988-REC197491,geometry_with_crs,Point(89.75855 22.66097),http://www.wikidata.org/entity/Q799893
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP987-REC197281,descriptive_identity,monastery,http://www.wikidata.org/entity/Q1017902
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP987-REC197281,location,"Žitomislići, Bosnia and Herzegovina",http://www.wikidata.org/entity/Q1017902
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP987-REC197281,geometry_with_crs,Point(17.793786095 43.204628278),http://www.wikidata.org/entity/Q1017902
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP971-REC194131,descriptive_identity,airport,http://www.wikidata.org/entity/Q1655144
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP971-REC194131,location,"Queensland, Australia",http://www.wikidata.org/entity/Q1655144
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP971-REC194131,geometry_with_crs,Point(145.184444444 -15.444722222),http://www.wikidata.org/entity/Q1655144
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP971-REC194131,elevation,11000,http://www.wikidata.org/entity/Q1655144
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1045-REC208901,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q1774961
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1014-REC202601,descriptive_identity,neighbourhood in Rio de Janeiro,http://www.wikidata.org/entity/Q2540325
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1014-REC202601,location,"Lagoa, Brazil",http://www.wikidata.org/entity/Q2540325
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1014-REC202601,geometry_with_crs,Point(-43.266666666 -23.0),http://www.wikidata.org/entity/Q2540325
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1021-REC204071,descriptive_identity,agrotown,http://www.wikidata.org/entity/Q3917811
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1021-REC204071,location,"Astrynski sieĺsaviet, Belarus",http://www.wikidata.org/entity/Q3917811
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1021-REC204071,geometry_with_crs,Point(24.55 53.8),http://www.wikidata.org/entity/Q3917811
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP985-REC196861,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q4618655
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP985-REC196861,location,"Agsu District, Azerbaijan",http://www.wikidata.org/entity/Q4618655
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP985-REC196861,geometry_with_crs,Point(48.377413933 40.519514941),http://www.wikidata.org/entity/Q4618655
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP985-REC196861,elevation,92000,http://www.wikidata.org/entity/Q4618655
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1036-REC207011,descriptive_identity,building,http://www.wikidata.org/entity/Q4966855
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1036-REC207011,location,"Nova Scotia, Canada",http://www.wikidata.org/entity/Q4966855
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1036-REC207011,geometry_with_crs,Point(-64.525 44.3758),http://www.wikidata.org/entity/Q4966855
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP958-REC191401,descriptive_identity,glacier,http://www.wikidata.org/entity/Q5039179
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP958-REC191401,location,Antarctic Treaty area,http://www.wikidata.org/entity/Q5039179
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP958-REC191401,geometry_with_crs,Point(-83.9167 -78.8833),http://www.wikidata.org/entity/Q5039179
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP960-REC191821,descriptive_identity,glacier,http://www.wikidata.org/entity/Q5702370
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP960-REC191821,location,Antarctic Treaty area,http://www.wikidata.org/entity/Q5702370
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP960-REC191821,geometry_with_crs,Point(94.0 -66.55),http://www.wikidata.org/entity/Q5702370
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP955-REC190981,descriptive_identity,glacier,http://www.wikidata.org/entity/Q7680505
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP955-REC190981,location,Antarctic Treaty area,http://www.wikidata.org/entity/Q7680505
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP955-REC190981,geometry_with_crs,Point(40.3667 -68.7833),http://www.wikidata.org/entity/Q7680505
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP972-REC194341,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q21962153
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP972-REC194341,location,"Western Australia, Australia",http://www.wikidata.org/entity/Q21962153
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP972-REC194341,geometry_with_crs,Point(126.085277777 -18.734166666),http://www.wikidata.org/entity/Q21962153
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP972-REC194341,elevation,240000,http://www.wikidata.org/entity/Q21962153
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP979-REC195601,descriptive_identity,mountain,http://www.wikidata.org/entity/Q21979174
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP979-REC195601,location,Azerbaijan,http://www.wikidata.org/entity/Q21979174
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP979-REC195601,geometry_with_crs,Point(46.20208 39.73595),http://www.wikidata.org/entity/Q21979174
+IDB-REG_01-CAT_15-ERA_07-2025-ACC05-HOP979-REC195601,elevation,2323000,http://www.wikidata.org/entity/Q21979174
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1017-REC203231,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q22072261
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1017-REC203231,location,"Paraná, Brazil",http://www.wikidata.org/entity/Q22072261
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1017-REC203231,geometry_with_crs,Point(-49.8339 -23.6405),http://www.wikidata.org/entity/Q22072261
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1017-REC203231,elevation,619000,http://www.wikidata.org/entity/Q22072261
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1028-REC205541,descriptive_identity,glacier,http://www.wikidata.org/entity/Q22358938
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1028-REC205541,location,"Nunavut, Canada",http://www.wikidata.org/entity/Q22358938
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1028-REC205541,geometry_with_crs,Point(-81.1431 73.22778),http://www.wikidata.org/entity/Q22358938
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1025-REC204911,descriptive_identity,glacier,http://www.wikidata.org/entity/Q22445878
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1025-REC204911,location,"British Columbia, Canada",http://www.wikidata.org/entity/Q22445878
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1025-REC204911,geometry_with_crs,Point(-117.73562 52.13671),http://www.wikidata.org/entity/Q22445878
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1029-REC205751,descriptive_identity,glacier,http://www.wikidata.org/entity/Q22507115
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1029-REC205751,location,"Nunavut, Canada",http://www.wikidata.org/entity/Q22507115
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1029-REC205751,geometry_with_crs,Point(-82.61214 80.89789),http://www.wikidata.org/entity/Q22507115
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1032-REC206381,descriptive_identity,waterfall,http://www.wikidata.org/entity/Q115958303
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1032-REC206381,location,"Alberta, Canada",http://www.wikidata.org/entity/Q115958303
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1032-REC206381,geometry_with_crs,Point(-113.935 49.030555555),http://www.wikidata.org/entity/Q115958303
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1105-REC220871,descriptive_identity,urban municipality in Germany,http://www.wikidata.org/entity/Q6968
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1105-REC220871,location,"Mettmann District, Germany",http://www.wikidata.org/entity/Q6968
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1105-REC220871,geometry_with_crs,Point(6.914722222 51.223888888),http://www.wikidata.org/entity/Q6968
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1105-REC220871,elevation,56000,http://www.wikidata.org/entity/Q6968
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1094-REC218771,descriptive_identity,city,http://www.wikidata.org/entity/Q36989
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1094-REC218771,location,"Pardubice District, Czech Republic",http://www.wikidata.org/entity/Q36989
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1094-REC218771,geometry_with_crs,Point(15.77916 50.03861),http://www.wikidata.org/entity/Q36989
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1094-REC218771,elevation,220000,http://www.wikidata.org/entity/Q36989
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1104-REC220661,descriptive_identity,town,http://www.wikidata.org/entity/Q61845
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1104-REC220661,location,"Main-Tauber-Kreis, Germany",http://www.wikidata.org/entity/Q61845
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1104-REC220661,geometry_with_crs,Point(9.75 49.6),http://www.wikidata.org/entity/Q61845
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1104-REC220661,elevation,210000,http://www.wikidata.org/entity/Q61845
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1100-REC219821,descriptive_identity,urban municipality in Germany,http://www.wikidata.org/entity/Q71145
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1100-REC219821,location,"Mittelsachsen District, Germany",http://www.wikidata.org/entity/Q71145
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1100-REC219821,geometry_with_crs,Point(12.705833333 50.933611111),http://www.wikidata.org/entity/Q71145
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1100-REC219821,elevation,208000,http://www.wikidata.org/entity/Q71145
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1107-REC221291,descriptive_identity,municipality without town privileges in Germany,http://www.wikidata.org/entity/Q81572
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1107-REC221291,location,"Göppingen District, Germany",http://www.wikidata.org/entity/Q81572
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1107-REC221291,geometry_with_crs,Point(9.615555555 48.639444444),http://www.wikidata.org/entity/Q81572
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1107-REC221291,elevation,411000,http://www.wikidata.org/entity/Q81572
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1153-REC230531,descriptive_identity,temple,http://www.wikidata.org/entity/Q319841
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1153-REC230531,location,"Luxor, Egypt",http://www.wikidata.org/entity/Q319841
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1153-REC230531,geometry_with_crs,Point(32.639166666 25.7),http://www.wikidata.org/entity/Q319841
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1153-REC230531,elevation,77000,http://www.wikidata.org/entity/Q319841
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1103-REC220451,descriptive_identity,town,http://www.wikidata.org/entity/Q569692
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1103-REC220451,location,"Fulda, Germany",http://www.wikidata.org/entity/Q569692
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1103-REC220451,geometry_with_crs,Point(9.766666666 50.666666666),http://www.wikidata.org/entity/Q569692
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1103-REC220451,elevation,261000,http://www.wikidata.org/entity/Q569692
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1131-REC226121,descriptive_identity,commune of Algeria,http://www.wikidata.org/entity/Q607367
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1131-REC226121,location,"Sidi Amar District, Algeria",http://www.wikidata.org/entity/Q607367
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1131-REC226121,geometry_with_crs,Point(2.30638889 36.5425),http://www.wikidata.org/entity/Q607367
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1147-REC229271,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q755731
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1116-REC223181,descriptive_identity,fort,http://www.wikidata.org/entity/Q1438547
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1116-REC223181,location,"Koblenz, Germany",http://www.wikidata.org/entity/Q1438547
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1116-REC223181,geometry_with_crs,Point(7.58583 50.3503),http://www.wikidata.org/entity/Q1438547
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1148-REC229481,descriptive_identity,uzlah,http://www.wikidata.org/entity/Q12225770
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1148-REC229481,location,"At Tawilah, Yemen",http://www.wikidata.org/entity/Q12225770
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1148-REC229481,geometry_with_crs,Point(43.71944 15.49668),http://www.wikidata.org/entity/Q12225770
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1148-REC229481,elevation,2515000,http://www.wikidata.org/entity/Q12225770
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1086-REC217091,location,Colombia,http://www.wikidata.org/entity/Q23681501
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1086-REC217091,geometry_with_crs,Point(-69.16667 0.7),http://www.wikidata.org/entity/Q23681501
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1086-REC217091,elevation,129000,http://www.wikidata.org/entity/Q23681501
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1161-REC232001,descriptive_identity,castle,http://www.wikidata.org/entity/Q43162708
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1161-REC232001,location,"Orce, Spain",http://www.wikidata.org/entity/Q43162708
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1161-REC232001,geometry_with_crs,Point(-2.519499908 37.728158645),http://www.wikidata.org/entity/Q43162708
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1091-REC218141,descriptive_identity,church building,http://www.wikidata.org/entity/Q126596429
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1091-REC218141,location,"Tinos Municipality, Greece",http://www.wikidata.org/entity/Q126596429
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1091-REC218141,geometry_with_crs,Point(25.07205 37.64248),http://www.wikidata.org/entity/Q126596429
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1203-REC240401,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q236658
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1203-REC240401,location,"Hauts-de-Seine, France",http://www.wikidata.org/entity/Q236658
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1203-REC240401,geometry_with_crs,Point(2.243611111 48.905),http://www.wikidata.org/entity/Q236658
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1203-REC240401,elevation,37000,http://www.wikidata.org/entity/Q236658
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1190-REC237881,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q281863
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1190-REC237881,location,"Doubs, France",http://www.wikidata.org/entity/Q281863
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1190-REC237881,geometry_with_crs,Point(6.831388888 47.514444444),http://www.wikidata.org/entity/Q281863
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1190-REC237881,elevation,326000,http://www.wikidata.org/entity/Q281863
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1214-REC242711,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q377384
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1214-REC242711,location,"Vaucluse, France",http://www.wikidata.org/entity/Q377384
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1214-REC242711,geometry_with_crs,Point(4.898055555 44.040555555),http://www.wikidata.org/entity/Q377384
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1214-REC242711,elevation,20000,http://www.wikidata.org/entity/Q377384
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1209-REC241661,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q384416
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1209-REC241661,location,"Gard, France",http://www.wikidata.org/entity/Q384416
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1209-REC241661,geometry_with_crs,Point(4.113333333 43.854722222),http://www.wikidata.org/entity/Q384416
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1209-REC241661,elevation,55000,http://www.wikidata.org/entity/Q384416
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1210-REC241871,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q518200
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1210-REC241871,location,"arrondissement of Gap, France",http://www.wikidata.org/entity/Q518200
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1210-REC241871,geometry_with_crs,Point(6.521944444 44.614444444),http://www.wikidata.org/entity/Q518200
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1210-REC241871,elevation,811000,http://www.wikidata.org/entity/Q518200
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1187-REC237251,descriptive_identity,mountain,http://www.wikidata.org/entity/Q524101
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1187-REC237251,location,Faroe Islands,http://www.wikidata.org/entity/Q524101
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1187-REC237251,geometry_with_crs,Point(-6.9858 62.0891),http://www.wikidata.org/entity/Q524101
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1187-REC237251,elevation,767000,http://www.wikidata.org/entity/Q524101
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1169-REC233681,descriptive_identity,park,http://www.wikidata.org/entity/Q619588
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1169-REC233681,location,"Güímar, Spain",http://www.wikidata.org/entity/Q619588
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1169-REC233681,geometry_with_crs,Point(-16.413611111 28.320833333),http://www.wikidata.org/entity/Q619588
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1192-REC238301,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q631928
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1192-REC238301,location,"Manche, France",http://www.wikidata.org/entity/Q631928
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1192-REC238301,geometry_with_crs,Point(-1.169722222 49.053333333),http://www.wikidata.org/entity/Q631928
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1192-REC238301,elevation,64000,http://www.wikidata.org/entity/Q631928
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1191-REC238091,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q632779
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1191-REC238091,location,"Loire, France",http://www.wikidata.org/entity/Q632779
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1191-REC238091,geometry_with_crs,Point(4.495 45.269444444),http://www.wikidata.org/entity/Q632779
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1191-REC238091,elevation,600000,http://www.wikidata.org/entity/Q632779
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1196-REC239141,descriptive_identity,railway station,http://www.wikidata.org/entity/Q647170
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1196-REC239141,location,"Pléchâtel, France",http://www.wikidata.org/entity/Q647170
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1196-REC239141,geometry_with_crs,Point(-1.776389 47.87194),http://www.wikidata.org/entity/Q647170
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1196-REC239141,elevation,13000,http://www.wikidata.org/entity/Q647170
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1215-REC242921,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q676493
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1215-REC242921,location,"Oise, France",http://www.wikidata.org/entity/Q676493
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1215-REC242921,geometry_with_crs,Point(2.536388888 49.193888888),http://www.wikidata.org/entity/Q676493
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1215-REC242921,elevation,40000,http://www.wikidata.org/entity/Q676493
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1250-REC249851,descriptive_identity,aviation museum,http://www.wikidata.org/entity/Q895245
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1250-REC249851,location,"Hurn, United Kingdom",http://www.wikidata.org/entity/Q895245
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1250-REC249851,geometry_with_crs,Point(-1.845 50.775),http://www.wikidata.org/entity/Q895245
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1194-REC238721,descriptive_identity,commune of France,http://www.wikidata.org/entity/Q1077224
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1194-REC238721,location,"Dordogne, France",http://www.wikidata.org/entity/Q1077224
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1194-REC238721,geometry_with_crs,Point(0.868611111 44.943055555),http://www.wikidata.org/entity/Q1077224
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1194-REC238721,elevation,113000,http://www.wikidata.org/entity/Q1077224
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1218-REC243551,descriptive_identity,airport,http://www.wikidata.org/entity/Q1837108
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1218-REC243551,location,"Bussy-Lettrée, France",http://www.wikidata.org/entity/Q1837108
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1218-REC243551,geometry_with_crs,Point(4.206111111 48.773333333),http://www.wikidata.org/entity/Q1837108
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1218-REC243551,elevation,586000,http://www.wikidata.org/entity/Q1837108
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1234-REC246701,descriptive_identity,castle,http://www.wikidata.org/entity/Q2106892
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1234-REC246701,location,"Powderham, United Kingdom",http://www.wikidata.org/entity/Q2106892
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1234-REC246701,geometry_with_crs,Point(-3.459972222 50.642972222),http://www.wikidata.org/entity/Q2106892
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1237-REC247331,descriptive_identity,village,http://www.wikidata.org/entity/Q2476237
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1237-REC247331,location,"Stratford-on-Avon, United Kingdom",http://www.wikidata.org/entity/Q2476237
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1237-REC247331,geometry_with_crs,Point(-1.83652 52.2812),http://www.wikidata.org/entity/Q2476237
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1168-REC233471,descriptive_identity,house,http://www.wikidata.org/entity/Q11912769
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1168-REC233471,location,"Esplugues de Llobregat, Spain",http://www.wikidata.org/entity/Q11912769
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1168-REC233471,geometry_with_crs,Point(2.09257 41.3826),http://www.wikidata.org/entity/Q11912769
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1253-REC250481,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q12862235
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1253-REC250481,location,"Kaspi Municipality, Georgia",http://www.wikidata.org/entity/Q12862235
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1253-REC250481,geometry_with_crs,Point(44.380278 42.0425),http://www.wikidata.org/entity/Q12862235
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1253-REC250481,elevation,800000,http://www.wikidata.org/entity/Q12862235
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1248-REC249431,descriptive_identity,lighthouse,http://www.wikidata.org/entity/Q15261568
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1248-REC249431,location,"Highland, United Kingdom",http://www.wikidata.org/entity/Q15261568
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1248-REC249431,geometry_with_crs,Point(-6.78827 57.4234),http://www.wikidata.org/entity/Q15261568
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1252-REC250271,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q16371636
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1252-REC250271,location,"Tsageri Municipality, Georgia",http://www.wikidata.org/entity/Q16371636
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1252-REC250271,geometry_with_crs,Point(42.8375 42.630555555),http://www.wikidata.org/entity/Q16371636
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1252-REC250271,elevation,630000,http://www.wikidata.org/entity/Q16371636
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1240-REC247961,descriptive_identity,building,http://www.wikidata.org/entity/Q17537655
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1240-REC247961,location,"Brobury with Monnington on Wye, United Kingdom",http://www.wikidata.org/entity/Q17537655
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1240-REC247961,geometry_with_crs,Point(-2.91638 52.085),http://www.wikidata.org/entity/Q17537655
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1236-REC247121,descriptive_identity,castle,http://www.wikidata.org/entity/Q24660033
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1236-REC247121,location,United Kingdom,http://www.wikidata.org/entity/Q24660033
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1236-REC247121,geometry_with_crs,Point(-2.00427 51.51263),http://www.wikidata.org/entity/Q24660033
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1241-REC248171,descriptive_identity,castle,http://www.wikidata.org/entity/Q24661773
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1241-REC248171,location,"Week St Mary, United Kingdom",http://www.wikidata.org/entity/Q24661773
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1241-REC248171,geometry_with_crs,Point(-4.50534 50.77579),http://www.wikidata.org/entity/Q24661773
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1172-REC234311,descriptive_identity,castle,http://www.wikidata.org/entity/Q27062016
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1172-REC234311,location,"Ateca, Spain",http://www.wikidata.org/entity/Q27062016
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1172-REC234311,geometry_with_crs,Point(-1.79294 41.330841),http://www.wikidata.org/entity/Q27062016
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1171-REC234101,descriptive_identity,cave,http://www.wikidata.org/entity/Q31202151
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1171-REC234101,location,"Sencelles, Spain",http://www.wikidata.org/entity/Q31202151
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1171-REC234101,geometry_with_crs,Point(2.905805555 39.649361111),http://www.wikidata.org/entity/Q31202151
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1316-REC263081,descriptive_identity,human,http://www.wikidata.org/entity/Q794029
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1327-REC265391,descriptive_identity,municipality of West Bengal,http://www.wikidata.org/entity/Q858304
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1327-REC265391,location,"Bolpur subdivision, India",http://www.wikidata.org/entity/Q858304
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1327-REC265391,geometry_with_crs,Point(87.69727 23.66205),http://www.wikidata.org/entity/Q858304
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1327-REC265391,elevation,58000,http://www.wikidata.org/entity/Q858304
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1308-REC261401,descriptive_identity,town,http://www.wikidata.org/entity/Q1009405
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1308-REC261401,location,"County Donegal, Ireland",http://www.wikidata.org/entity/Q1009405
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1308-REC261401,geometry_with_crs,Point(-8.2838 54.4754),http://www.wikidata.org/entity/Q1009405
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1308-REC261401,elevation,12000,http://www.wikidata.org/entity/Q1009405
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1297-REC259301,descriptive_identity,city,http://www.wikidata.org/entity/Q1138762
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1297-REC259301,location,Guyana,http://www.wikidata.org/entity/Q1138762
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1297-REC259301,geometry_with_crs,Point(-58.25 5.533333333),http://www.wikidata.org/entity/Q1138762
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1322-REC264341,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q2571862
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1322-REC264341,location,"Karnataka, India",http://www.wikidata.org/entity/Q2571862
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1322-REC264341,geometry_with_crs,Point(77.86 13.39),http://www.wikidata.org/entity/Q2571862
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1322-REC264341,elevation,878000,http://www.wikidata.org/entity/Q2571862
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1304-REC260771,descriptive_identity,kecamatan,http://www.wikidata.org/entity/Q2747287
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1304-REC260771,location,"Semarang, Indonesia",http://www.wikidata.org/entity/Q2747287
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1304-REC260771,geometry_with_crs,Point(110.4 -7.266667),http://www.wikidata.org/entity/Q2747287
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1304-REC260771,elevation,486000,http://www.wikidata.org/entity/Q2747287
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1294-REC258671,descriptive_identity,river,http://www.wikidata.org/entity/Q25182259
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1294-REC258671,location,"Guatemala, Guatemala",http://www.wikidata.org/entity/Q25182259
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1294-REC258671,geometry_with_crs,Point(-89.210833333 16.970277777),http://www.wikidata.org/entity/Q25182259
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1294-REC258671,elevation,143000,http://www.wikidata.org/entity/Q25182259
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1321-REC264131,descriptive_identity,stream,http://www.wikidata.org/entity/Q35329976
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1321-REC264131,location,"Jammu and Kashmir, India",http://www.wikidata.org/entity/Q35329976
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1321-REC264131,geometry_with_crs,Point(73.731111111 33.276388888),http://www.wikidata.org/entity/Q35329976
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1288-REC257411,descriptive_identity,building,http://www.wikidata.org/entity/Q41659552
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1288-REC257411,location,"Pydna-Kolindros Municipality, Greece",http://www.wikidata.org/entity/Q41659552
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1288-REC257411,geometry_with_crs,Point(22.601028 40.343333),http://www.wikidata.org/entity/Q41659552
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1401-REC280091,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q4696264
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1401-REC280091,location,"Qazqanchay Rural District, Iran",http://www.wikidata.org/entity/Q4696264
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1401-REC280091,geometry_with_crs,Point(52.54388889 35.86055556),http://www.wikidata.org/entity/Q4696264
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1374-REC274631,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26857270
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1374-REC274631,location,"Kurdistan Province, Iran",http://www.wikidata.org/entity/Q26857270
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1374-REC274631,geometry_with_crs,Point(46.959444444 35.638333333),http://www.wikidata.org/entity/Q26857270
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1378-REC275471,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26858157
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1378-REC275471,location,"Semnan Province, Iran",http://www.wikidata.org/entity/Q26858157
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1378-REC275471,geometry_with_crs,Point(55.936111111 37.092222222),http://www.wikidata.org/entity/Q26858157
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1382-REC276311,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26858797
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1382-REC276311,location,"Lorestan Province, Iran",http://www.wikidata.org/entity/Q26858797
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1382-REC276311,geometry_with_crs,Point(49.53819 33.21794),http://www.wikidata.org/entity/Q26858797
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1407-REC281351,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26870444
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1407-REC281351,location,"Semnan Province, Iran",http://www.wikidata.org/entity/Q26870444
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1407-REC281351,geometry_with_crs,Point(55.156388888 36.177222222),http://www.wikidata.org/entity/Q26870444
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1426-REC285131,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26874216
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1426-REC285131,location,"Fars Province, Iran",http://www.wikidata.org/entity/Q26874216
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1426-REC285131,geometry_with_crs,Point(53.108333333 30.121388888),http://www.wikidata.org/entity/Q26874216
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1438-REC287441,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26879859
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1438-REC287441,location,"Markazi Province, Iran",http://www.wikidata.org/entity/Q26879859
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1438-REC287441,geometry_with_crs,Point(49.2991 34.5932),http://www.wikidata.org/entity/Q26879859
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1460-REC291851,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26884814
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1460-REC291851,location,"Kohgiluyeh and Boyer-Ahmad Province, Iran",http://www.wikidata.org/entity/Q26884814
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1460-REC291851,geometry_with_crs,Point(50.516666666 30.168333333),http://www.wikidata.org/entity/Q26884814
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1590-REC317891,descriptive_identity,cloister,http://www.wikidata.org/entity/Q3675068
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1590-REC317891,location,"Ascoli Piceno, Italy",http://www.wikidata.org/entity/Q3675068
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1590-REC317891,geometry_with_crs,Point(13.575314 42.855487),http://www.wikidata.org/entity/Q3675068
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1587-REC317261,descriptive_identity,Palazzo,http://www.wikidata.org/entity/Q7126987
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1587-REC317261,location,"Bologna, Italy",http://www.wikidata.org/entity/Q7126987
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1587-REC317261,geometry_with_crs,Point(11.342079 44.498508),http://www.wikidata.org/entity/Q7126987
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1565-REC312851,descriptive_identity,human settlement,http://www.wikidata.org/entity/Q16425053
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1565-REC312851,location,"Dalabyggð, Iceland",http://www.wikidata.org/entity/Q16425053
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1565-REC312851,geometry_with_crs,Point(-21.810701615 65.401099007),http://www.wikidata.org/entity/Q16425053
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1477-REC295211,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26897839
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1477-REC295211,location,"Lorestan Province, Iran",http://www.wikidata.org/entity/Q26897839
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1477-REC295211,geometry_with_crs,Point(48.418611111 33.681666666),http://www.wikidata.org/entity/Q26897839
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1492-REC298361,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26900581
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1492-REC298361,location,"Tehran Province, Iran",http://www.wikidata.org/entity/Q26900581
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1492-REC298361,geometry_with_crs,Point(51.251666666 35.844722222),http://www.wikidata.org/entity/Q26900581
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1520-REC303821,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26917010
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1520-REC303821,location,"Fars Province, Iran",http://www.wikidata.org/entity/Q26917010
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1520-REC303821,geometry_with_crs,Point(52.065277777 30.850833333),http://www.wikidata.org/entity/Q26917010
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1539-REC307601,descriptive_identity,mountain,http://www.wikidata.org/entity/Q26936404
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1539-REC307601,location,"Iran, Iran",http://www.wikidata.org/entity/Q26936404
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1539-REC307601,geometry_with_crs,Point(50.418888888 36.767222222),http://www.wikidata.org/entity/Q26936404
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1582-REC316211,descriptive_identity,museum,http://www.wikidata.org/entity/Q28670080
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1582-REC316211,location,"Rovereto, Italy",http://www.wikidata.org/entity/Q28670080
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1582-REC316211,geometry_with_crs,Point(11.043888888 45.893430555),http://www.wikidata.org/entity/Q28670080
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1552-REC310331,descriptive_identity,mountain,http://www.wikidata.org/entity/Q31601625
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1552-REC310331,location,Iran,http://www.wikidata.org/entity/Q31601625
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1552-REC310331,geometry_with_crs,Point(49.1547 37.2205),http://www.wikidata.org/entity/Q31601625
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1532-REC306341,descriptive_identity,stream,http://www.wikidata.org/entity/Q35462100
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1532-REC306341,location,Iran,http://www.wikidata.org/entity/Q35462100
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1532-REC306341,geometry_with_crs,Point(59.27 32.621388888),http://www.wikidata.org/entity/Q35462100
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1583-REC316421,descriptive_identity,technology museum,http://www.wikidata.org/entity/Q55372284
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1583-REC316421,location,"Settimo Torinese, Italy",http://www.wikidata.org/entity/Q55372284
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1583-REC316421,geometry_with_crs,Point(7.779306 45.136868),http://www.wikidata.org/entity/Q55372284
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1579-REC315791,descriptive_identity,museum,http://www.wikidata.org/entity/Q76998386
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1579-REC315791,location,"Rome, Italy",http://www.wikidata.org/entity/Q76998386
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1579-REC315791,geometry_with_crs,Point(12.491666666 41.8875),http://www.wikidata.org/entity/Q76998386
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1603-REC320411,descriptive_identity,international airport,http://www.wikidata.org/entity/Q1430839
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1603-REC320411,location,"Aqaba, Jordan",http://www.wikidata.org/entity/Q1430839
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1603-REC320411,geometry_with_crs,Point(35.018066666 29.611619444),http://www.wikidata.org/entity/Q1430839
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1603-REC320411,elevation,53000,http://www.wikidata.org/entity/Q1430839
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1659-REC331751,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q2048896
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1623-REC324401,descriptive_identity,dissolved municipality of Japan,http://www.wikidata.org/entity/Q6867886
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1623-REC324401,location,"Higashitsugaru District, Japan",http://www.wikidata.org/entity/Q6867886
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1623-REC324401,geometry_with_crs,Point(140.430083333 41.197027777),http://www.wikidata.org/entity/Q6867886
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1617-REC323351,descriptive_identity,ōaza,http://www.wikidata.org/entity/Q11478160
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1617-REC323351,location,"Midori-ku, Japan",http://www.wikidata.org/entity/Q11478160
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1617-REC323351,geometry_with_crs,Point(139.293555555 35.604016666),http://www.wikidata.org/entity/Q11478160
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1647-REC329231,descriptive_identity,mountain,http://www.wikidata.org/entity/Q27270381
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1647-REC329231,location,"North Gyeongsang, South Korea",http://www.wikidata.org/entity/Q27270381
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1647-REC329231,geometry_with_crs,Point(127.94 36.463611111),http://www.wikidata.org/entity/Q27270381
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1658-REC331541,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q29080551
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1619-REC323771,descriptive_identity,cape,http://www.wikidata.org/entity/Q34931723
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1619-REC323771,location,"Hokkaido, Japan",http://www.wikidata.org/entity/Q34931723
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1619-REC323771,geometry_with_crs,Point(139.775277777 42.259166666),http://www.wikidata.org/entity/Q34931723
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1757-REC351281,descriptive_identity,village in Latvia,http://www.wikidata.org/entity/Q1027029
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1757-REC351281,location,"Stopiņi Parish, Latvia",http://www.wikidata.org/entity/Q1027029
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1757-REC351281,geometry_with_crs,Point(24.286111111 56.940833333),http://www.wikidata.org/entity/Q1027029
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1757-REC351281,elevation,10000,http://www.wikidata.org/entity/Q1027029
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1740-REC347921,descriptive_identity,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q4502483
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1686-REC337001,descriptive_identity,island,http://www.wikidata.org/entity/Q16167952
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1686-REC337001,location,South Korea,http://www.wikidata.org/entity/Q16167952
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1686-REC337001,geometry_with_crs,Point(126.04833 34.88389),http://www.wikidata.org/entity/Q16167952
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1689-REC337631,descriptive_identity,Buddhist temple,http://www.wikidata.org/entity/Q16630928
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1689-REC337631,location,"Seongbuk District, South Korea",http://www.wikidata.org/entity/Q16630928
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1689-REC337631,geometry_with_crs,Point(127.016111 37.584722),http://www.wikidata.org/entity/Q16630928
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1715-REC342881,location,Kazakhstan,http://www.wikidata.org/entity/Q27348410
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1715-REC342881,geometry_with_crs,Point(52.83333 45.0),http://www.wikidata.org/entity/Q27348410
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1753-REC350441,descriptive_identity,river,http://www.wikidata.org/entity/Q32116041
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1753-REC350441,location,"River Gee County, Liberia",http://www.wikidata.org/entity/Q32116041
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1753-REC350441,geometry_with_crs,Point(-7.483333333 5.266666666),http://www.wikidata.org/entity/Q32116041
+IDB-REG_01-CAT_16-ERA_07-2025-ACC05-HOP1753-REC350441,elevation,119000,http://www.wikidata.org/entity/Q32116041
