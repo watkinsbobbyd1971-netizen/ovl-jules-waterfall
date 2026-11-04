@@ -1,0 +1,3 @@
+Queried Wikidata (wbsearchentities, wbgetentities) for exact string matches.
+No other APIs used (Smithsonian Open Access requires API key, avoiding credentials).
+Matches were filtered by exact subject name to avoid false positives.
