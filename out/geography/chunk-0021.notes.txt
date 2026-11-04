@@ -1,0 +1,3 @@
+Used Wikipedia search API (fr and en) to find exact match QIDs, falling back to Wikidata search.
+Extracted properties P31, P2044, P625, P276, P131, P17, P1448 from Wikidata using wbgetentities.
+Used OpenStreetMap Nominatim API for subjects not found in Wikidata.
