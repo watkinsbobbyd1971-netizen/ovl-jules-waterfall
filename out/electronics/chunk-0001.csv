@@ -1,0 +1,60 @@
+canonical_dedup_key,column_name,value,source_url
+DRV-CORPUS-L07-0000140,descriptive_identity,"""astronomical object""",https://www.wikidata.org/wiki/Q97017154
+DRV-CORPUS-L07-0000140,identity_label,"""Helix Nebula""",https://www.wikidata.org/wiki/Q97017154
+DRV-CORPUS-L07-0000141,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q134995383
+DRV-CORPUS-L07-0000141,identity_label,"""Bamboo Forest""",https://www.wikidata.org/wiki/Q134995383
+DRV-CORPUS-L07-0000145,identity_label,"""hockey stick""",https://www.wikidata.org/wiki/Q1940083
+DRV-CORPUS-L07-0000146,descriptive_identity,"""drawing""",https://www.wikidata.org/wiki/Q64573310
+DRV-CORPUS-L07-0000146,identity_label,"""Leather Belt""",https://www.wikidata.org/wiki/Q64573310
+DRV-CORPUS-L07-0000151,identity_label,"""coral reef""",https://www.wikidata.org/wiki/Q11292
+DRV-CORPUS-L07-0000154,descriptive_identity,"""occupation""",https://www.wikidata.org/wiki/Q22695781
+DRV-CORPUS-L07-0000154,identity_label,"""sport fisher""",https://www.wikidata.org/wiki/Q22695781
+DRV-CORPUS-L07-0000156,identity_label,"""hoodie""",https://www.wikidata.org/wiki/Q920929
+DRV-CORPUS-L07-0000270,descriptive_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Q8142672
+DRV-CORPUS-L07-0000270,identity_label,"""Butterfly Nebula""",https://www.wikidata.org/wiki/Q8142672
+DRV-CORPUS-L07-0000280,descriptive_identity,"""planetary nebula""",https://www.wikidata.org/wiki/Q15829
+DRV-CORPUS-L07-0000280,identity_label,"""Cat's Eye Nebula""",https://www.wikidata.org/wiki/Q15829
+DRV-CORPUS-L07-0000940,identity_label,"""anesthesia workstation""",https://www.wikidata.org/wiki/Q1285198
+DRV-CORPUS-L07-0001015,descriptive_identity,"""necklace""",https://www.wikidata.org/wiki/Q20199464
+DRV-CORPUS-L07-0001015,identity_label,"""Pendant necklace""",https://www.wikidata.org/wiki/Q20199464
+DRV-CORPUS-L07-0001022,identity_label,"""locket""",https://www.wikidata.org/wiki/Q1402709
+DRV-CORPUS-L07-0001033,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q130890567
+DRV-CORPUS-L07-0001033,identity_label,"""Body chain""",https://www.wikidata.org/wiki/Q130890567
+DRV-CORPUS-L07-0001034,descriptive_identity,"""cufflink""",https://www.wikidata.org/wiki/Q112136830
+DRV-CORPUS-L07-0001034,identity_label,"""Cufflinks""",https://www.wikidata.org/wiki/Q112136830
+IDB-REG_02-CAT_14-ERA_02-1650-ACC04-HOP13466-REC2693112,manufacturer_or_creator,"""microscope maker""",https://www.wikidata.org/wiki/Q196538
+IDB-REG_02-CAT_14-ERA_02-1650-ACC04-HOP13466-REC2693112,identity_label,"""microscope""",https://www.wikidata.org/wiki/Q196538
+IDB-REG_04-CAT_14-ERA_04-1890-ACC04-HOP15128-REC3025404,descriptive_identity,"""drawing""",https://www.wikidata.org/wiki/Q64536317
+IDB-REG_04-CAT_14-ERA_04-1890-ACC04-HOP15128-REC3025404,identity_label,"""Surveyor's Compass""",https://www.wikidata.org/wiki/Q64536317
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15084-REC3016721,identity_label,"""answering machine""",https://www.wikidata.org/wiki/Q568717
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14971-REC2994131,identity_label,"""answering machine""",https://www.wikidata.org/wiki/Q568717
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16142-REC3228211,descriptive_identity,"""ring""",https://www.wikidata.org/wiki/Q60756934
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16142-REC3228211,identity_label,"""Finger Ring""",https://www.wikidata.org/wiki/Q60756934
+IDB-REG_02-CAT_12-ERA_02-1650-ACC04-HOP12766-REC2553042,descriptive_identity,"""type of object""",https://www.wikidata.org/wiki/Q376
+IDB-REG_02-CAT_12-ERA_02-1650-ACC04-HOP12766-REC2553042,identity_label,"""clock""",https://www.wikidata.org/wiki/Q376
+IDB-REG_02-CAT_14-ERA_07-2025-ACC04-HOP13686-REC2737112,manufacturer_or_creator,"""microscope maker""",https://www.wikidata.org/wiki/Q196538
+IDB-REG_02-CAT_14-ERA_07-2025-ACC04-HOP13686-REC2737112,identity_label,"""microscope""",https://www.wikidata.org/wiki/Q196538
+IDB-REG_03-CAT_13-ERA_01-1200-ACC04-HOP16301-REC3260083,identity_label,"""watch fob""",https://www.wikidata.org/wiki/Q111399229
+LIBSRC-LIB51-ENT-SMI-0090301,identity_label,"""answering machine""",https://www.wikidata.org/wiki/Q568717
+LIBSRC-LIB51-ENT-SMI-0049521,descriptive_identity,"""type of object""",https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0049521,identity_label,"""clock""",https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0042223,descriptive_identity,"""drawing""",https://www.wikidata.org/wiki/Q59097287
+LIBSRC-LIB51-ENT-SMI-0042223,identity_label,"""Design for a clock with two cherubs""",https://www.wikidata.org/wiki/Q59097287
+LIBSRC-LIB51-ENT-SMI-0041951,descriptive_identity,"""type of object""",https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0041951,identity_label,"""clock""",https://www.wikidata.org/wiki/Q376
+IDB-REG_04-CAT_12-ERA_03-1780-ACC04-HOP14448-REC2889554,descriptive_identity,"""company""",https://www.wikidata.org/wiki/Q16996668
+IDB-REG_04-CAT_12-ERA_03-1780-ACC04-HOP14448-REC2889554,identity_label,"""Illinois Watch Company""",https://www.wikidata.org/wiki/Q16996668
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP12892-REC2578341,descriptive_identity,"""type of object""",https://www.wikidata.org/wiki/Q376
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP12892-REC2578341,identity_label,"""clock""",https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0148830,descriptive_identity,"""drawing""",https://www.wikidata.org/wiki/Q64536317
+LIBSRC-LIB51-ENT-SMI-0148830,identity_label,"""Surveyor's Compass""",https://www.wikidata.org/wiki/Q64536317
+LIBSRC-LIB51-ENT-SMI-0020119,descriptive_identity,"""type of object""",https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0020119,identity_label,"""clock""",https://www.wikidata.org/wiki/Q376
+DRV-CORPUS-L07-0000344,descriptive_identity,"""type of sport""",https://www.wikidata.org/wiki/Q4543
+DRV-CORPUS-L07-0000344,identity_label,"""beach volleyball""",https://www.wikidata.org/wiki/Q4543
+DRV-CORPUS-L07-0000338,descriptive_identity,"""taxon""",https://www.wikidata.org/wiki/Q110749032
+DRV-CORPUS-L07-0000338,identity_label,"""Monstera peruviana""",https://www.wikidata.org/wiki/Q110749032
+DRV-CORPUS-L07-0000195,mass,57.6,https://www.wikidata.org/wiki/Q246514
+DRV-CORPUS-L07-0000195,identity_label,"""tennis ball""",https://www.wikidata.org/wiki/Q246514
+DRV-CORPUS-L07-0000191,descriptive_identity,"""cherry blossom""",https://www.wikidata.org/wiki/Q115630142
+DRV-CORPUS-L07-0000191,identity_label,"""Cherry Blossom Path of Gunpo""",https://www.wikidata.org/wiki/Q115630142
