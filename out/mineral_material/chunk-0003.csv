@@ -1,0 +1,199 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_01-CAT_13-ERA_06-2015-ACC04-HOP16889-REC3377611,descriptive_identity,"""shard""",https://www.wikidata.org/wiki/Q106990428
+IDB-REG_01-CAT_13-ERA_06-2015-ACC04-HOP18170-REC3633811,descriptive_identity,"""shard""",https://www.wikidata.org/wiki/Q106990428
+IDB-REG_01-CAT_13-ERA_06-2015-ACC04-HOP18352-REC3670211,descriptive_identity,"""shard""",https://www.wikidata.org/wiki/Q106990428
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16634-REC3326771,descriptive_identity,"""shard""",https://www.wikidata.org/wiki/Q106990428
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16860-REC3371991,descriptive_identity,"""shard""",https://www.wikidata.org/wiki/Q106990428
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP18286-REC3657171,descriptive_identity,"""shard""",https://www.wikidata.org/wiki/Q106990428
+IDB-REG_01-CAT_13-ERA_06-2015-ACC04-HOP18645-REC3728871,descriptive_identity,"""loom""",https://www.wikidata.org/wiki/Q48493570
+IDB-REG_01-CAT_13-ERA_06-2015-ACC04-HOP17412-REC3482331,descriptive_identity,"""archaeological artefact""",https://www.wikidata.org/wiki/Q1463658
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP18478-REC3695531,descriptive_identity,"""archaeological artefact""",https://www.wikidata.org/wiki/Q1463658
+IDB-REG_01-CAT_13-ERA_06-2015-ACC04-HOP17412-REC3482331,descriptive_identity,"""fragment""",https://www.wikidata.org/wiki/Q1463658
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP18478-REC3695531,descriptive_identity,"""fragment""",https://www.wikidata.org/wiki/Q1463658
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP12873-REC2574551,descriptive_identity,"""component""",https://www.wikidata.org/wiki/Q11086567
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP12933-REC2586591,descriptive_identity,"""component""",https://www.wikidata.org/wiki/Q11086567
+LIBSRC-LIB51-ENT-SMI-0049758,descriptive_identity,"""component""",https://www.wikidata.org/wiki/Q11086567
+LIBSRC-LIB51-ENT-SMI-0059301,descriptive_identity,"""component""",https://www.wikidata.org/wiki/Q11086567
+IDB-REG_01-CAT_13-ERA_06-2015-ACC04-HOP18268-REC3653551,material_identity,"""glass""",https://www.wikidata.org/wiki/Q1435588
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16440-REC3287991,material_identity,"""glass""",https://www.wikidata.org/wiki/Q1435588
+IDB-REG_01-CAT_13-ERA_06-2015-ACC04-HOP18268-REC3653551,descriptive_identity,"""bead""",https://www.wikidata.org/wiki/Q1435588
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16440-REC3287991,descriptive_identity,"""bead""",https://www.wikidata.org/wiki/Q1435588
+IDB-REG_01-CAT_13-ERA_06-2015-ACC04-HOP18268-REC3653551,descriptive_identity,"""glassware""",https://www.wikidata.org/wiki/Q1435588
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16440-REC3287991,descriptive_identity,"""glassware""",https://www.wikidata.org/wiki/Q1435588
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13040-REC2607871,identity_label,"""painting""",https://www.wikidata.org/wiki/Q78995779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP12984-REC2596671,identity_label,"""album""",https://www.wikidata.org/wiki/Q3749226
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP12872-REC2574271,descriptive_identity,"""ornament""",https://www.wikidata.org/wiki/Q183272
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP12872-REC2574271,descriptive_identity,"""architectural element""",https://www.wikidata.org/wiki/Q183272
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13342-REC2668351,identity_label,"""municipality of Puerto Rico""",https://www.wikidata.org/wiki/Q2413209
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13041-REC2608011,descriptive_identity,"""work of art""",https://www.wikidata.org/wiki/Q1053956
+LIBSRC-LIB52-ENT-MET-0171924,descriptive_identity,"""work of art""",https://www.wikidata.org/wiki/Q1053956
+LIBSRC-LIB52-ENT-MET-0279784,descriptive_identity,"""work of art""",https://www.wikidata.org/wiki/Q1053956
+LIBSRC-LIB52-ENT-MET-0314954,descriptive_identity,"""work of art""",https://www.wikidata.org/wiki/Q1053956
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13041-REC2608011,descriptive_identity,"""material""",https://www.wikidata.org/wiki/Q1053956
+LIBSRC-LIB52-ENT-MET-0171924,descriptive_identity,"""material""",https://www.wikidata.org/wiki/Q1053956
+LIBSRC-LIB52-ENT-MET-0279784,descriptive_identity,"""material""",https://www.wikidata.org/wiki/Q1053956
+LIBSRC-LIB52-ENT-MET-0314954,descriptive_identity,"""material""",https://www.wikidata.org/wiki/Q1053956
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13041-REC2608011,descriptive_identity,"""art material""",https://www.wikidata.org/wiki/Q1053956
+LIBSRC-LIB52-ENT-MET-0171924,descriptive_identity,"""art material""",https://www.wikidata.org/wiki/Q1053956
+LIBSRC-LIB52-ENT-MET-0279784,descriptive_identity,"""art material""",https://www.wikidata.org/wiki/Q1053956
+LIBSRC-LIB52-ENT-MET-0314954,descriptive_identity,"""art material""",https://www.wikidata.org/wiki/Q1053956
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13278-REC2655471,material_identity,"""gemstone""",https://www.wikidata.org/wiki/Q168456
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13278-REC2655471,descriptive_identity,"""bijou""",https://www.wikidata.org/wiki/Q168456
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13278-REC2655471,descriptive_identity,"""ear ornament""",https://www.wikidata.org/wiki/Q168456
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13184-REC2636711,descriptive_identity,"""artificial object""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13295-REC2658831,descriptive_identity,"""artificial object""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13356-REC2671011,descriptive_identity,"""artificial object""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13372-REC2674371,descriptive_identity,"""artificial object""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13431-REC2686131,descriptive_identity,"""artificial object""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13788-REC2757531,descriptive_identity,"""artificial object""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13923-REC2784411,descriptive_identity,"""artificial object""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14041-REC2808071,descriptive_identity,"""artificial object""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14242-REC2848391,descriptive_identity,"""artificial object""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14249-REC2849651,descriptive_identity,"""artificial object""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14591-REC2918111,descriptive_identity,"""artificial object""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14915-REC2982931,descriptive_identity,"""artificial object""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14939-REC2987691,descriptive_identity,"""artificial object""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP15030-REC3005891,descriptive_identity,"""artificial object""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP15130-REC3025911,descriptive_identity,"""artificial object""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13184-REC2636711,descriptive_identity,"""cultural artifact""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13295-REC2658831,descriptive_identity,"""cultural artifact""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13356-REC2671011,descriptive_identity,"""cultural artifact""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13372-REC2674371,descriptive_identity,"""cultural artifact""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13431-REC2686131,descriptive_identity,"""cultural artifact""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13788-REC2757531,descriptive_identity,"""cultural artifact""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13923-REC2784411,descriptive_identity,"""cultural artifact""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14041-REC2808071,descriptive_identity,"""cultural artifact""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14242-REC2848391,descriptive_identity,"""cultural artifact""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14249-REC2849651,descriptive_identity,"""cultural artifact""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14591-REC2918111,descriptive_identity,"""cultural artifact""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14915-REC2982931,descriptive_identity,"""cultural artifact""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14939-REC2987691,descriptive_identity,"""cultural artifact""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP15030-REC3005891,descriptive_identity,"""cultural artifact""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP15130-REC3025911,descriptive_identity,"""cultural artifact""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13184-REC2636711,descriptive_identity,"""recognition""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13295-REC2658831,descriptive_identity,"""recognition""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13356-REC2671011,descriptive_identity,"""recognition""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13372-REC2674371,descriptive_identity,"""recognition""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13431-REC2686131,descriptive_identity,"""recognition""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13788-REC2757531,descriptive_identity,"""recognition""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13923-REC2784411,descriptive_identity,"""recognition""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14041-REC2808071,descriptive_identity,"""recognition""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14242-REC2848391,descriptive_identity,"""recognition""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14249-REC2849651,descriptive_identity,"""recognition""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14591-REC2918111,descriptive_identity,"""recognition""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14915-REC2982931,descriptive_identity,"""recognition""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14939-REC2987691,descriptive_identity,"""recognition""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP15030-REC3005891,descriptive_identity,"""recognition""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP15130-REC3025911,descriptive_identity,"""recognition""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13184-REC2636711,identity_label,"""noun""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13295-REC2658831,identity_label,"""noun""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13356-REC2671011,identity_label,"""noun""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13372-REC2674371,identity_label,"""noun""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13431-REC2686131,identity_label,"""noun""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13788-REC2757531,identity_label,"""noun""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13923-REC2784411,identity_label,"""noun""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14041-REC2808071,identity_label,"""noun""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14242-REC2848391,identity_label,"""noun""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14249-REC2849651,identity_label,"""noun""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14591-REC2918111,identity_label,"""noun""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14915-REC2982931,identity_label,"""noun""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14939-REC2987691,identity_label,"""noun""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP15030-REC3005891,identity_label,"""noun""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP15130-REC3025911,identity_label,"""noun""",https://www.wikidata.org/wiki/Q618779
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13377-REC2675351,descriptive_identity,"""frame lamellophone""",https://www.wikidata.org/wiki/Q185003
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13377-REC2675351,descriptive_identity,"""string instrument""",https://www.wikidata.org/wiki/Q185003
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13377-REC2675351,identity_label,"""family of musical instruments""",https://www.wikidata.org/wiki/Q185003
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14064-REC2812691,identity_label,"""musical group""",https://www.wikidata.org/wiki/Q1155915
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14221-REC2844051,identity_label,"""U.S. state""",https://www.wikidata.org/wiki/Q1391
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14013-REC2802471,identity_label,"""city in the United States""",https://www.wikidata.org/wiki/Q28260
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14013-REC2802471,identity_label,"""state or insular area capital of the United States""",https://www.wikidata.org/wiki/Q28260
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14013-REC2802471,identity_label,"""county seat""",https://www.wikidata.org/wiki/Q28260
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14013-REC2802471,identity_label,"""big city""",https://www.wikidata.org/wiki/Q28260
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14608-REC2921471,identity_label,"""commune of France""",https://www.wikidata.org/wiki/Q902545
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13547-REC2709371,descriptive_identity,"""clothing in ancient Greece""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14240-REC2847971,descriptive_identity,"""clothing in ancient Greece""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14972-REC2994271,descriptive_identity,"""clothing in ancient Greece""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13547-REC2709371,descriptive_identity,"""clothing in ancient Rome""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14240-REC2847971,descriptive_identity,"""clothing in ancient Rome""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14972-REC2994271,descriptive_identity,"""clothing in ancient Rome""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13547-REC2709371,descriptive_identity,"""clasp""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14240-REC2847971,descriptive_identity,"""clasp""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14972-REC2994271,descriptive_identity,"""clasp""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13547-REC2709371,descriptive_identity,"""fashion accessory""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14240-REC2847971,descriptive_identity,"""fashion accessory""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14972-REC2994271,descriptive_identity,"""fashion accessory""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13547-REC2709371,descriptive_identity,"""jewelry""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14240-REC2847971,descriptive_identity,"""jewelry""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14972-REC2994271,descriptive_identity,"""jewelry""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP13547-REC2709371,descriptive_identity,"""collectable""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14240-REC2847971,descriptive_identity,"""collectable""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14972-REC2994271,descriptive_identity,"""collectable""",https://www.wikidata.org/wiki/Q324926
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP15197-REC3039211,descriptive_identity,"""equestrian equipment""",https://www.wikidata.org/wiki/Q148558
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16003-REC3200491,descriptive_identity,"""amulet""",https://www.wikidata.org/wiki/Q124813895
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16054-REC3210711,identity_label,"""taxon""",https://www.wikidata.org/wiki/Q1257508
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP15288-REC3057551,descriptive_identity,"""bijou""",https://www.wikidata.org/wiki/Q189299
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16312-REC3262371,descriptive_identity,"""bijou""",https://www.wikidata.org/wiki/Q189299
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP15288-REC3057551,descriptive_identity,"""decoration""",https://www.wikidata.org/wiki/Q189299
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16312-REC3262371,descriptive_identity,"""decoration""",https://www.wikidata.org/wiki/Q189299
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP15288-REC3057551,descriptive_identity,"""type of work of art""",https://www.wikidata.org/wiki/Q189299
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16312-REC3262371,descriptive_identity,"""type of work of art""",https://www.wikidata.org/wiki/Q189299
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14604-REC2920631,material_identity,"""ceramic""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB51-ENT-SMI-0462185,material_identity,"""ceramic""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006254,material_identity,"""ceramic""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006294,material_identity,"""ceramic""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006304,material_identity,"""ceramic""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0076164,material_identity,"""ceramic""",https://www.wikidata.org/wiki/Q3579073
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14604-REC2920631,material_identity,"""terracotta""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB51-ENT-SMI-0462185,material_identity,"""terracotta""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006254,material_identity,"""terracotta""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006294,material_identity,"""terracotta""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006304,material_identity,"""terracotta""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0076164,material_identity,"""terracotta""",https://www.wikidata.org/wiki/Q3579073
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14604-REC2920631,material_identity,"""metal""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB51-ENT-SMI-0462185,material_identity,"""metal""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006254,material_identity,"""metal""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006294,material_identity,"""metal""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006304,material_identity,"""metal""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0076164,material_identity,"""metal""",https://www.wikidata.org/wiki/Q3579073
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14604-REC2920631,material_identity,"""wood""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB51-ENT-SMI-0462185,material_identity,"""wood""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006254,material_identity,"""wood""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006294,material_identity,"""wood""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006304,material_identity,"""wood""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0076164,material_identity,"""wood""",https://www.wikidata.org/wiki/Q3579073
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14604-REC2920631,descriptive_identity,"""bowl""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB51-ENT-SMI-0462185,descriptive_identity,"""bowl""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006254,descriptive_identity,"""bowl""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006294,descriptive_identity,"""bowl""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006304,descriptive_identity,"""bowl""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0076164,descriptive_identity,"""bowl""",https://www.wikidata.org/wiki/Q3579073
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP14604-REC2920631,descriptive_identity,"""tableware""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB51-ENT-SMI-0462185,descriptive_identity,"""tableware""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006254,descriptive_identity,"""tableware""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006294,descriptive_identity,"""tableware""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0006304,descriptive_identity,"""tableware""",https://www.wikidata.org/wiki/Q3579073
+LIBSRC-LIB52-ENT-MET-0076164,descriptive_identity,"""tableware""",https://www.wikidata.org/wiki/Q3579073
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16611-REC3322011,descriptive_identity,"""container""",https://www.wikidata.org/wiki/Q191851
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16611-REC3322011,descriptive_identity,"""vessel""",https://www.wikidata.org/wiki/Q191851
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16611-REC3322011,descriptive_identity,"""work of art""",https://www.wikidata.org/wiki/Q191851
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16687-REC3337271,identity_label,"""village""",https://www.wikidata.org/wiki/Q7993522
+LIBSRC-LIB51-ENT-SMI-0550327,identity_label,"""village""",https://www.wikidata.org/wiki/Q7993522
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP16687-REC3337271,identity_label,"""civil parish""",https://www.wikidata.org/wiki/Q7993522
+LIBSRC-LIB51-ENT-SMI-0550327,identity_label,"""civil parish""",https://www.wikidata.org/wiki/Q7993522
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP17387-REC3477271,descriptive_identity,"""shard""",https://www.wikidata.org/wiki/Q106990428
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP17375-REC3474891,identity_label,"""photograph""",https://www.wikidata.org/wiki/Q122814572
+IDB-REG_01-CAT_13-ERA_07-2025-ACC04-HOP17375-REC3474891,identity_label,"""archival resource""",https://www.wikidata.org/wiki/Q122814572
+LIBSRC-LIB51-ENT-SMI-0036744,identity_label,"""painting""",https://www.wikidata.org/wiki/Q118395665
+LIBSRC-LIB51-ENT-SMI-0058797,identity_label,"""fragment""",https://www.wikidata.org/wiki/Q20201416
+LIBSRC-LIB51-ENT-SMI-0090518,descriptive_identity,"""rolling-element bearing""",https://www.wikidata.org/wiki/Q11432170
+LIBSRC-LIB51-ENT-SMI-0366243,descriptive_identity,"""rolling-element bearing""",https://www.wikidata.org/wiki/Q11432170
+LIBSRC-LIB51-ENT-SMI-0463071,descriptive_identity,"""rolling-element bearing""",https://www.wikidata.org/wiki/Q11432170
+LIBSRC-LIB51-ENT-SMI-0123314,descriptive_identity,"""component""",https://www.wikidata.org/wiki/Q11086567
+LIBSRC-LIB51-ENT-SMI-0128733,descriptive_identity,"""component""",https://www.wikidata.org/wiki/Q11086567
+LIBSRC-LIB51-ENT-SMI-0211815,descriptive_identity,"""component""",https://www.wikidata.org/wiki/Q11086567
+LIBSRC-LIB51-ENT-SMI-0228551,descriptive_identity,"""component""",https://www.wikidata.org/wiki/Q11086567
+LIBSRC-LIB51-ENT-SMI-0136866,identity_label,"""taxon""",https://www.wikidata.org/wiki/Q105016666
+LIBSRC-LIB51-ENT-SMI-0192557,descriptive_identity,"""needlework""",https://www.wikidata.org/wiki/Q2915129
+LIBSRC-LIB51-ENT-SMI-0319201,identity_label,"""daily newspaper""",https://www.wikidata.org/wiki/Q166032
+LIBSRC-LIB51-ENT-SMI-0319201,identity_label,"""newspaper""",https://www.wikidata.org/wiki/Q166032
+LIBSRC-LIB51-ENT-SMI-0319201,identity_label,"""website""",https://www.wikidata.org/wiki/Q166032
