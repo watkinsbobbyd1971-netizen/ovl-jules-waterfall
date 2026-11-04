@@ -1,0 +1,18 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_14-ERA_01-1200-ACC04-HOP16978-REC3395512,scientific_identity,"""Cervidae""",https://api.gbif.org/v1/species/5298
+IDB-REG_02-CAT_14-ERA_01-1200-ACC04-HOP16978-REC3395512,identity_label,"""deer""",https://api.gbif.org/v1/species/5298
+IDB-REG_03-CAT_13-ERA_01-1200-ACC04-HOP17366-REC3473163,scientific_identity,"""Equus Linnaeus, 1758""",https://api.gbif.org/v1/species/8652950
+IDB-REG_03-CAT_13-ERA_01-1200-ACC04-HOP17366-REC3473163,taxon_authority,"""Linnaeus, 1758""",https://api.gbif.org/v1/species/8652950
+IDB-REG_03-CAT_13-ERA_01-1200-ACC04-HOP17366-REC3473163,identity_label,"""horse""",https://api.gbif.org/v1/species/8652950
+IDB-REG_03-CAT_13-ERA_01-1200-ACC04-HOP16908-REC3381463,scientific_identity,"""Canis familiaris Linnaeus, 1758""",https://api.gbif.org/v1/species/5219200
+IDB-REG_03-CAT_13-ERA_01-1200-ACC04-HOP16908-REC3381463,taxon_authority,"""Linnaeus, 1758""",https://api.gbif.org/v1/species/5219200
+IDB-REG_03-CAT_13-ERA_01-1200-ACC04-HOP16908-REC3381463,identity_label,"""dog""",https://api.gbif.org/v1/species/5219200
+IDB-REG_03-CAT_13-ERA_01-1200-ACC04-HOP17543-REC3508583,scientific_identity,"""Lepus variabilis Pallas, 1778""",https://api.gbif.org/v1/species/8545180
+IDB-REG_03-CAT_13-ERA_01-1200-ACC04-HOP17543-REC3508583,taxon_authority,"""Pallas, 1778""",https://api.gbif.org/v1/species/8545180
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP12885-REC2576953,scientific_identity,"""Floating""",https://api.gbif.org/v1/species/9524671
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP14892-REC2978333,scientific_identity,"""Shako Karasawa, 1996""",https://api.gbif.org/v1/species/4649623
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP14892-REC2978333,taxon_authority,"""Karasawa, 1996""",https://api.gbif.org/v1/species/4649623
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP16639-REC3327633,scientific_identity,"""Scapula""",https://api.gbif.org/v1/species/7479876
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP12787-REC2557353,scientific_identity,"""Panel Adans.""",https://api.gbif.org/v1/species/3699753
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP12787-REC2557353,taxon_authority,"""Adans.""",https://api.gbif.org/v1/species/3699753
+IDB-REG_02-CAT_14-ERA_01-1200-ACC04-HOP13311-REC2662052,scientific_identity,"""Phyllis""",https://api.gbif.org/v1/species/1572958
