@@ -1,0 +1,1 @@
+Attempted to fetch from NHTSA vPIC API (https://vpic.nhtsa.dot.gov/api/vehicles/) but received consistent HTTP 403 Forbidden Access Denied from Akamai WAF. Unable to bypass or use Wikidata effectively for all car names and years without external rate limits.
