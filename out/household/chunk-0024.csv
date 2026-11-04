@@ -1,0 +1,16 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB51-ENT-SMI-0325460,functional_summary,lightbulb socket,https://www.wikidata.org/wiki/Q2619226
+LIBSRC-LIB51-ENT-SMI-0325460,identity_label,bi-pin lamp base,https://www.wikidata.org/wiki/Q2619226
+LIBSRC-LIB51-ENT-SMI-0325460,descriptive_identity,lightbulb socket,https://www.wikidata.org/wiki/Q2619226
+LIBSRC-LIB51-ENT-SMI-0261794,functional_summary,device which mechanically supports and provides electrical connections for a compatible electric lamp,https://www.wikidata.org/wiki/Q15477165
+LIBSRC-LIB51-ENT-SMI-0101954,functional_summary,device which mechanically supports and provides electrical connections for a compatible electric lamp,https://www.wikidata.org/wiki/Q15477165
+LIBSRC-LIB51-ENT-SMI-0264950,functional_summary,device which mechanically supports and provides electrical connections for a compatible electric lamp,https://www.wikidata.org/wiki/Q15477165
+LIBSRC-LIB51-ENT-SMI-0261794,identity_label,lightbulb socket,https://www.wikidata.org/wiki/Q15477165
+LIBSRC-LIB51-ENT-SMI-0101954,identity_label,lightbulb socket,https://www.wikidata.org/wiki/Q15477165
+LIBSRC-LIB51-ENT-SMI-0264950,identity_label,lightbulb socket,https://www.wikidata.org/wiki/Q15477165
+LIBSRC-LIB51-ENT-SMI-0261794,descriptive_identity,electrical receptacle,https://www.wikidata.org/wiki/Q15477165
+LIBSRC-LIB51-ENT-SMI-0101954,descriptive_identity,electrical receptacle,https://www.wikidata.org/wiki/Q15477165
+LIBSRC-LIB51-ENT-SMI-0264950,descriptive_identity,electrical receptacle,https://www.wikidata.org/wiki/Q15477165
+LIBSRC-LIB51-ENT-SMI-0261794,descriptive_identity,AC power socket,https://www.wikidata.org/wiki/Q15477165
+LIBSRC-LIB51-ENT-SMI-0101954,descriptive_identity,AC power socket,https://www.wikidata.org/wiki/Q15477165
+LIBSRC-LIB51-ENT-SMI-0264950,descriptive_identity,AC power socket,https://www.wikidata.org/wiki/Q15477165
