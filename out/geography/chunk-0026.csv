@@ -1,0 +1,366 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1930-REC385981,identity_label,"""Taytsy""",https://www.wikidata.org/wiki/Q51020
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1939-REC387661,identity_label,"""Iki-Chonos""",https://www.wikidata.org/wiki/Q4199001
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP796-REC159181,identity_label,"""Spets""",https://www.wikidata.org/wiki/Q10674866
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1972-REC394381,elevation,310300.0,https://www.wikidata.org/wiki/Q240727
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1972-REC394381,identity_label,"""Stanjevci""",https://www.wikidata.org/wiki/Q240727
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP799-REC159601,identity_label,"""Siyāh Chōb""",https://www.wikidata.org/wiki/Q21806280
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP799-REC159601,place_identity,"""Maidan Wardak Province""",https://www.wikidata.org/wiki/Q21806280
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP802-REC160231,elevation,2692000.0,https://www.wikidata.org/wiki/Q21746821
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP802-REC160231,identity_label,"""Kōh-e Shakarī""",https://www.wikidata.org/wiki/Q21746821
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP802-REC160231,place_identity,"""Herat Province""",https://www.wikidata.org/wiki/Q21746821
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP804-REC160651,elevation,2841000.0,https://www.wikidata.org/wiki/Q21746569
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP804-REC160651,identity_label,"""Kharah-ye Safēd""",https://www.wikidata.org/wiki/Q21746569
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP804-REC160651,place_identity,"""Ghor Province""",https://www.wikidata.org/wiki/Q21746569
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1981-REC396061,elevation,110000.0,https://www.wikidata.org/wiki/Q374095
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1981-REC396061,identity_label,"""Kolárovo""",https://www.wikidata.org/wiki/Q374095
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP806-REC161071,elevation,3126000.0,https://www.wikidata.org/wiki/Q21748322
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP806-REC161071,identity_label,"""Samtal""",https://www.wikidata.org/wiki/Q21748322
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP806-REC161071,place_identity,"""Kunar Province""",https://www.wikidata.org/wiki/Q21748322
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP818-REC163591,elevation,2803000.0,https://www.wikidata.org/wiki/Q21751533
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP818-REC163591,identity_label,"""Kōh-e Mukhtār""",https://www.wikidata.org/wiki/Q21751533
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP818-REC163591,place_identity,"""Baghlan Province""",https://www.wikidata.org/wiki/Q21751533
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1947-REC389341,elevation,963000.0,https://www.wikidata.org/wiki/Q1142234
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1947-REC389341,identity_label,"""Karpinsky Glacier""",https://www.wikidata.org/wiki/Q1142234
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP876-REC175141,elevation,3214000.0,https://www.wikidata.org/wiki/Q21783789
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP876-REC175141,identity_label,"""Kōh-e Pēshgīrah""",https://www.wikidata.org/wiki/Q21783789
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP876-REC175141,place_identity,"""Uruzgan Province""",https://www.wikidata.org/wiki/Q21783789
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP892-REC178291,identity_label,"""Miyāqūb Sar""",https://www.wikidata.org/wiki/Q21806219
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP892-REC178291,place_identity,"""Maidan Wardak Province""",https://www.wikidata.org/wiki/Q21806219
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP905-REC180811,place_identity,"""Badakhshan Province""",https://www.wikidata.org/wiki/Q21813046
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP920-REC183961,identity_label,"""Khargah Sang""",https://www.wikidata.org/wiki/Q21819772
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP920-REC183961,place_identity,"""Ghor Province""",https://www.wikidata.org/wiki/Q21819772
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP889-REC177661,identity_label,"""Kōh-e Qarnalah""",https://www.wikidata.org/wiki/Q21802329
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP889-REC177661,place_identity,"""Bamyan Province""",https://www.wikidata.org/wiki/Q21802329
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP909-REC181651,place_identity,"""Badakhshan Province""",https://www.wikidata.org/wiki/Q21815016
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP912-REC182281,identity_label,"""Tōr Nāw""",https://www.wikidata.org/wiki/Q21815773
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP912-REC182281,place_identity,"""Nangarhar Province""",https://www.wikidata.org/wiki/Q21815773
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP934-REC186691,elevation,1590000.0,https://www.wikidata.org/wiki/Q3040298
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP934-REC186691,identity_label,"""Dzoramut""",https://www.wikidata.org/wiki/Q3040298
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP934-REC186691,place_identity,"""Lori Province""",https://www.wikidata.org/wiki/Q3040298
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP925-REC184801,elevation,1119225.6,https://www.wikidata.org/wiki/Q671801
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP925-REC184801,identity_label,"""Fayzabad Airport""",https://www.wikidata.org/wiki/Q671801
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP925-REC184801,place_identity,"""Fayzabad""",https://www.wikidata.org/wiki/Q671801
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP940-REC187951,elevation,1740000.0,https://www.wikidata.org/wiki/Q771616
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP940-REC187951,identity_label,"""Jradzor""",https://www.wikidata.org/wiki/Q771616
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP940-REC187951,place_identity,"""Shirak Province""",https://www.wikidata.org/wiki/Q771616
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP942-REC188371,place_identity,"""Gndevaz""",https://www.wikidata.org/wiki/Q21404808
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP947-REC189211,elevation,1580000.0,https://www.wikidata.org/wiki/Q2640140
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP947-REC189211,identity_label,"""Khndzoresk""",https://www.wikidata.org/wiki/Q2640140
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP947-REC189211,place_identity,"""Zangezursky Uyezd""",https://www.wikidata.org/wiki/Q2640140
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP954-REC190681,identity_label,"""Polar Friendship Glacier""",https://www.wikidata.org/wiki/Q21471600
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP954-REC190681,place_identity,"""Antarctic Treaty area""",https://www.wikidata.org/wiki/Q21471600
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP955-REC190891,identity_label,"""Smith Glacier""",https://www.wikidata.org/wiki/Q14871546
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP955-REC190891,place_identity,"""Antarctic Treaty area""",https://www.wikidata.org/wiki/Q14871546
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP957-REC191311,identity_label,"""Pautalia Glacier""",https://www.wikidata.org/wiki/Q7155492
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP957-REC191311,place_identity,"""Antarctic Treaty area""",https://www.wikidata.org/wiki/Q7155492
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP962-REC192361,elevation,14000.0,https://www.wikidata.org/wiki/Q2700395
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP962-REC192361,identity_label,"""Isidro Casanova""",https://www.wikidata.org/wiki/Q2700395
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP962-REC192361,place_identity,"""La Matanza Partido""",https://www.wikidata.org/wiki/Q2700395
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP964-REC192781,identity_label,"""San Antonio Lighthouse""",https://www.wikidata.org/wiki/Q5552955
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP964-REC192781,place_identity,"""Cape San Antonio, Argentina""",https://www.wikidata.org/wiki/Q5552955
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP967-REC193201,elevation,2883000.0,https://www.wikidata.org/wiki/Q21868912
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP967-REC193201,identity_label,"""Latschferner""",https://www.wikidata.org/wiki/Q21868912
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP967-REC193201,place_identity,"""Tyrol""",https://www.wikidata.org/wiki/Q21868912
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP970-REC193831,elevation,176000.0,https://www.wikidata.org/wiki/Q3295321
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP970-REC193831,identity_label,"""Edith Falls""",https://www.wikidata.org/wiki/Q3295321
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP970-REC193831,place_identity,"""Northern Territory""",https://www.wikidata.org/wiki/Q3295321
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP886-REC177031,elevation,1727000.0,https://www.wikidata.org/wiki/Q21796990
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP886-REC177031,identity_label,"""Darah-ye Alah Sāy""",https://www.wikidata.org/wiki/Q21796990
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP888-REC177451,identity_label,"""Shamshēr Sang""",https://www.wikidata.org/wiki/Q21802574
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP933-REC186481,elevation,1750000.0,https://www.wikidata.org/wiki/Q1921827
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP933-REC186481,identity_label,"""Tsaghkaber""",https://www.wikidata.org/wiki/Q1921827
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP971-REC194041,elevation,980000.0,https://www.wikidata.org/wiki/Q606169
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP971-REC194041,identity_label,"""Armidale""",https://www.wikidata.org/wiki/Q606169
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP884-REC176611,identity_label,"""Khwājah Gōrō""",https://www.wikidata.org/wiki/Q21792981
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1101-REC220151,elevation,225000.0,https://www.wikidata.org/wiki/Q71137
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1101-REC220151,identity_label,"""Lunzenau""",https://www.wikidata.org/wiki/Q71137
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1101-REC220151,place_identity,"""Mittelsachsen District""",https://www.wikidata.org/wiki/Q71137
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1092-REC218261,identity_label,"""Pyrogi""",https://www.wikidata.org/wiki/Q3556469
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1092-REC218261,place_identity,"""Lefkoşa District""",https://www.wikidata.org/wiki/Q3556469
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1036-REC207131,identity_label,"""Wilson Block""",https://www.wikidata.org/wiki/Q25339398
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1144-REC228761,elevation,4000.0,https://www.wikidata.org/wiki/Q335769
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1144-REC228761,identity_label,"""Kafr el-Dawwar""",https://www.wikidata.org/wiki/Q335769
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1144-REC228761,place_identity,"""Kafr el-Dawwar""",https://www.wikidata.org/wiki/Q335769
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1153-REC230441,identity_label,"""Masjid Ar-Rahman""",https://www.wikidata.org/wiki/Q138138319
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1155-REC230861,identity_label,"""Masjid Al Furqan""",https://www.wikidata.org/wiki/Q138064718
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1162-REC232331,identity_label,"""Memorial to Woody Allen""",https://www.wikidata.org/wiki/Q17535513
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1162-REC232331,place_identity,"""Oviedo""",https://www.wikidata.org/wiki/Q17535513
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1167-REC233381,place_identity,"""Ibi""",https://www.wikidata.org/wiki/Q96520909
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1071-REC214061,elevation,449000.0,https://www.wikidata.org/wiki/Q119441339
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1071-REC214061,identity_label,"""Dongcuncun""",https://www.wikidata.org/wiki/Q119441339
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1191-REC238001,elevation,36000.0,https://www.wikidata.org/wiki/Q471305
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1191-REC238001,identity_label,"""Sarrians""",https://www.wikidata.org/wiki/Q471305
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1191-REC238001,place_identity,"""Canton of Carpentras-Nord""",https://www.wikidata.org/wiki/Q471305
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1193-REC238421,elevation,868000.0,https://www.wikidata.org/wiki/Q303952
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1193-REC238421,identity_label,"""Saint-Jean-de-Nay""",https://www.wikidata.org/wiki/Q303952
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1193-REC238421,place_identity,"""canton of Loudes""",https://www.wikidata.org/wiki/Q303952
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1198-REC239471,elevation,41000.0,https://www.wikidata.org/wiki/Q471321
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1198-REC239471,identity_label,"""Morières-lès-Avignon""",https://www.wikidata.org/wiki/Q471321
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1198-REC239471,place_identity,"""Canton of Avignon-Est""",https://www.wikidata.org/wiki/Q471321
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1200-REC239891,elevation,57000.0,https://www.wikidata.org/wiki/Q217841
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1200-REC239891,identity_label,"""Liévin""",https://www.wikidata.org/wiki/Q217841
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1200-REC239891,place_identity,"""Pas-de-Calais""",https://www.wikidata.org/wiki/Q217841
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1135-REC226871,identity_label,"""Jabal al ‘Uwaynīyah""",https://www.wikidata.org/wiki/Q23933039
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1135-REC226871,place_identity,"""Red Sea Governorate""",https://www.wikidata.org/wiki/Q23933039
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1171-REC234011,identity_label,"""Palau Foundation""",https://www.wikidata.org/wiki/Q3822143
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1171-REC234011,place_identity,"""Caldes d'Estrac""",https://www.wikidata.org/wiki/Q3822143
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1195-REC238841,elevation,10000.0,https://www.wikidata.org/wiki/Q30974
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1195-REC238841,identity_label,"""Rouen""",https://www.wikidata.org/wiki/Q30974
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1195-REC238841,place_identity,"""arrondissement of Rouen""",https://www.wikidata.org/wiki/Q30974
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1178-REC235481,elevation,1187196.0,https://www.wikidata.org/wiki/Q2234460
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1178-REC235481,identity_label,"""Arba Minch Airport""",https://www.wikidata.org/wiki/Q2234460
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1178-REC235481,place_identity,"""Ethiopia""",https://www.wikidata.org/wiki/Q2234460
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1180-REC235901,elevation,95097.6,https://www.wikidata.org/wiki/Q954725
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1180-REC235901,identity_label,"""Savonlinna Airport""",https://www.wikidata.org/wiki/Q954725
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1180-REC235901,place_identity,"""Savonlinna""",https://www.wikidata.org/wiki/Q954725
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1123-REC224561,elevation,470000.0,https://www.wikidata.org/wiki/Q924549
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1123-REC224561,identity_label,"""Holhol""",https://www.wikidata.org/wiki/Q924549
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1123-REC224561,place_identity,"""Ali Sabieh Region""",https://www.wikidata.org/wiki/Q924549
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1209-REC241781,elevation,125000.0,https://www.wikidata.org/wiki/Q1600364
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1209-REC241781,identity_label,"""Cherves-Châtelars""",https://www.wikidata.org/wiki/Q1600364
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1209-REC241781,place_identity,"""canton of Montembœuf""",https://www.wikidata.org/wiki/Q1600364
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1207-REC241361,elevation,176000.0,https://www.wikidata.org/wiki/Q21241
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1207-REC241361,identity_label,"""Dossenheim-sur-Zinsel""",https://www.wikidata.org/wiki/Q21241
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1207-REC241361,place_identity,"""Unterelsaß""",https://www.wikidata.org/wiki/Q21241
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1214-REC242621,elevation,209000.0,https://www.wikidata.org/wiki/Q200695
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1214-REC242621,identity_label,"""Besbre""",https://www.wikidata.org/wiki/Q200695
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1210-REC241991,elevation,740000.0,https://www.wikidata.org/wiki/Q1388447
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1210-REC241991,identity_label,"""Chalmazel""",https://www.wikidata.org/wiki/Q1388447
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1210-REC241991,place_identity,"""canton of Saint-Georges-en-Couzan""",https://www.wikidata.org/wiki/Q1388447
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1212-REC242201,elevation,223000.0,https://www.wikidata.org/wiki/Q837375
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1212-REC242201,identity_label,"""Byans-sur-Doubs""",https://www.wikidata.org/wiki/Q837375
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1212-REC242201,place_identity,"""canton of Boussières""",https://www.wikidata.org/wiki/Q837375
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1213-REC242411,elevation,450000.0,https://www.wikidata.org/wiki/Q603278
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1213-REC242411,identity_label,"""Bourg-Argental""",https://www.wikidata.org/wiki/Q603278
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1213-REC242411,place_identity,"""canton of Bourg-Argental""",https://www.wikidata.org/wiki/Q603278
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1216-REC243041,elevation,82000.0,https://www.wikidata.org/wiki/Q273036
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1216-REC243041,identity_label,"""Attainville""",https://www.wikidata.org/wiki/Q273036
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1216-REC243041,place_identity,"""Seine-et-Oise""",https://www.wikidata.org/wiki/Q273036
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1218-REC243461,elevation,97000.0,https://www.wikidata.org/wiki/Q990574
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1218-REC243461,identity_label,"""Achiet-le-Petit""",https://www.wikidata.org/wiki/Q990574
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1218-REC243461,place_identity,"""Pas-de-Calais""",https://www.wikidata.org/wiki/Q990574
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1221-REC244091,identity_label,"""Abbaye Sainte-Anne de Bonlieu-sur-Roubion""",https://www.wikidata.org/wiki/Q2820458
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1220-REC243881,identity_label,"""Château de Bellevue""",https://www.wikidata.org/wiki/Q2615917
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1223-REC244511,identity_label,"""Château du Petit-Arnsberg""",https://www.wikidata.org/wiki/Q488269
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1227-REC245351,identity_label,"""Château de la Gaubertie""",https://www.wikidata.org/wiki/Q2971244
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1202-REC240311,elevation,0.0,https://www.wikidata.org/wiki/Q193491
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1202-REC240311,identity_label,"""Lampaul-Plouarzel""",https://www.wikidata.org/wiki/Q193491
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1187-REC237371,elevation,67000.0,https://www.wikidata.org/wiki/Q1023061
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1187-REC237371,identity_label,"""Wavrans-sur-Ternoise""",https://www.wikidata.org/wiki/Q1023061
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1374-REC274751,elevation,445000.0,https://www.wikidata.org/wiki/Q2123756
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1374-REC274751,identity_label,"""Ali Abad""",https://www.wikidata.org/wiki/Q2123756
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1374-REC274751,place_identity,"""Kunduz Province""",https://www.wikidata.org/wiki/Q2123756
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1394-REC278741,identity_label,"""Cham Quleh""",https://www.wikidata.org/wiki/Q5069268
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1394-REC278741,place_identity,"""Shabab Rural District""",https://www.wikidata.org/wiki/Q5069268
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1342-REC268241,identity_label,"""Qimmat Kawkah""",https://www.wikidata.org/wiki/Q26838849
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1342-REC268241,place_identity,"""Duhok Governorate""",https://www.wikidata.org/wiki/Q26838849
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1410-REC281891,identity_label,"""Kheyrabad, Jask""",https://www.wikidata.org/wiki/Q5832313
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1410-REC281891,place_identity,"""Jask Rural District""",https://www.wikidata.org/wiki/Q5832313
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1382-REC276221,identity_label,"""Kandovan""",https://www.wikidata.org/wiki/Q1818028
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1382-REC276221,place_identity,"""Sahand Rural District""",https://www.wikidata.org/wiki/Q1818028
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1448-REC289451,identity_label,"""Malicheh, Lorestan""",https://www.wikidata.org/wiki/Q5796697
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1448-REC289451,place_identity,"""Japelaq-e Gharbi Rural District""",https://www.wikidata.org/wiki/Q5796697
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1390-REC277901,identity_label,"""Shahrak-e Elahiyeh""",https://www.wikidata.org/wiki/Q5809232
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1390-REC277901,place_identity,"""Chahardangeh Rural District""",https://www.wikidata.org/wiki/Q5809232
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1462-REC292391,identity_label,"""Hajji Dela""",https://www.wikidata.org/wiki/Q5730674
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1462-REC292391,place_identity,"""Larijan-e Sofla Rural District""",https://www.wikidata.org/wiki/Q5730674
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1432-REC286301,identity_label,"""Sari""",https://www.wikidata.org/wiki/Q11892492
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1469-REC293651,identity_label,"""Emamabad, Bashagard""",https://www.wikidata.org/wiki/Q5368868
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1469-REC293651,place_identity,"""Gowharan Rural District""",https://www.wikidata.org/wiki/Q5368868
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1474-REC294701,identity_label,"""Kūh-e Dah Mardeh""",https://www.wikidata.org/wiki/Q26897301
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1378-REC275591,identity_label,"""Mazi Bon""",https://www.wikidata.org/wiki/Q5794105
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1378-REC275591,place_identity,"""Gilan Province""",https://www.wikidata.org/wiki/Q5794105
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1476-REC295121,identity_label,"""Changureh""",https://www.wikidata.org/wiki/Q5072141
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1476-REC295121,place_identity,"""Qaqazan-e Gharbi Rural District""",https://www.wikidata.org/wiki/Q5072141
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1454-REC290711,identity_label,"""Kham Pich""",https://www.wikidata.org/wiki/Q5854651
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1454-REC290711,place_identity,"""Kuhsar Rural District""",https://www.wikidata.org/wiki/Q5854651
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1489-REC297641,identity_label,"""Khalil Kola, Bandpey-ye Sharqi""",https://www.wikidata.org/wiki/Q5790609
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1489-REC297641,place_identity,"""Firuzjah Rural District""",https://www.wikidata.org/wiki/Q5790609
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1398-REC279581,elevation,302000.0,https://www.wikidata.org/wiki/Q960735
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1398-REC279581,identity_label,"""Dawlatabad""",https://www.wikidata.org/wiki/Q960735
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1398-REC279581,place_identity,"""Balkh Province""",https://www.wikidata.org/wiki/Q960735
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1411-REC282101,identity_label,"""Galguni""",https://www.wikidata.org/wiki/Q5786450
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1506-REC301001,identity_label,"""Kuy-e Hejrat""",https://www.wikidata.org/wiki/Q5792312
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1506-REC301001,place_identity,"""Cheraghabad Rural District""",https://www.wikidata.org/wiki/Q5792312
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1515-REC302891,identity_label,"""Kahlik Bolaghi""",https://www.wikidata.org/wiki/Q5678435
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1515-REC302891,place_identity,"""Mavazekhan-e Sharqi Rural District""",https://www.wikidata.org/wiki/Q5678435
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1425-REC284831,elevation,946000.0,https://www.wikidata.org/wiki/Q2792112
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1425-REC284831,identity_label,"""Taraznahid""",https://www.wikidata.org/wiki/Q2792112
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1510-REC301841,identity_label,"""Kūh-e Kūch Mīsh Dāghī""",https://www.wikidata.org/wiki/Q26908011
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1510-REC301841,place_identity,"""East Azerbaijan Province""",https://www.wikidata.org/wiki/Q26908011
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1435-REC286931,identity_label,"""Rashk-e Vosta""",https://www.wikidata.org/wiki/Q5808624
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1542-REC308351,identity_label,"""Kūh-e Qolātū""",https://www.wikidata.org/wiki/Q26940636
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1545-REC308981,place_identity,"""East Azerbaijan Province""",https://www.wikidata.org/wiki/Q26965983
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1548-REC309401,identity_label,"""Kūh-e Boneh Jangāb""",https://www.wikidata.org/wiki/Q26977100
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1548-REC309401,place_identity,"""Isfahan Province""",https://www.wikidata.org/wiki/Q26977100
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1549-REC309611,identity_label,"""Kūh-e Band-e Qīch""",https://www.wikidata.org/wiki/Q26980898
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1549-REC309611,place_identity,"""Semnan Province""",https://www.wikidata.org/wiki/Q26980898
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1431-REC286091,elevation,157000.0,https://www.wikidata.org/wiki/Q507846
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1431-REC286091,identity_label,"""Sebiș""",https://www.wikidata.org/wiki/Q507846
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1569-REC313601,identity_label,"""Sybaris""",https://www.wikidata.org/wiki/Q2754387
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1562-REC312341,identity_label,"""Kūh-e Rowbād""",https://www.wikidata.org/wiki/Q26879572
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1572-REC314231,identity_label,"""Monumento ai caduti""",https://www.wikidata.org/wiki/Q27991036
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1517-REC303311,identity_label,"""Kūh-e Qeshlāq""",https://www.wikidata.org/wiki/Q26911329
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1570-REC313811,identity_label,"""University of Brescia""",https://www.wikidata.org/wiki/Q1781263
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1567-REC313391,identity_label,"""Castello di Otranto""",https://www.wikidata.org/wiki/Q3239505
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1821-REC364001,place_identity,"""Coahuila""",https://www.wikidata.org/wiki/Q49096955
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1828-REC365471,identity_label,"""North Luconia Shoals""",https://www.wikidata.org/wiki/Q24899369
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1837-REC367361,elevation,345000.0,https://www.wikidata.org/wiki/Q1591971
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1837-REC367361,identity_label,"""Skjervøya""",https://www.wikidata.org/wiki/Q1591971
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1837-REC367361,place_identity,"""Skjervøy Municipality""",https://www.wikidata.org/wiki/Q1591971
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1844-REC368621,identity_label,"""Kristiansand""",https://www.wikidata.org/wiki/Q26772254
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1844-REC368621,place_identity,"""Kristiansand Municipality""",https://www.wikidata.org/wiki/Q26772254
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1838-REC367571,place_identity,"""Harstad Municipality""",https://www.wikidata.org/wiki/Q2261374
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1846-REC369041,identity_label,"""Gjeskefossen""",https://www.wikidata.org/wiki/Q34837818
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1846-REC369041,place_identity,"""Torsken""",https://www.wikidata.org/wiki/Q34837818
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1843-REC368411,place_identity,"""Snåsa""",https://www.wikidata.org/wiki/Q49310705
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1853-REC370511,identity_label,"""Spruten""",https://www.wikidata.org/wiki/Q35328395
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1853-REC370511,place_identity,"""Vevelstad Municipality""",https://www.wikidata.org/wiki/Q35328395
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1867-REC373241,elevation,2239000.0,https://www.wikidata.org/wiki/Q32274924
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1867-REC373241,identity_label,"""McCardell Glacier""",https://www.wikidata.org/wiki/Q32274924
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1860-REC371981,identity_label,"""Dørbreen""",https://www.wikidata.org/wiki/Q34833610
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1860-REC371981,place_identity,"""Skjåk Municipality""",https://www.wikidata.org/wiki/Q34833610
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1865-REC372821,identity_label,"""Bhagavati Temple""",https://www.wikidata.org/wiki/Q84362443
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1865-REC372821,place_identity,"""Khordha district""",https://www.wikidata.org/wiki/Q84362443
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1870-REC373871,identity_label,"""Ngatuhoa Falls""",https://www.wikidata.org/wiki/Q32297471
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1870-REC373871,place_identity,"""Bay of Plenty Region""",https://www.wikidata.org/wiki/Q32297471
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1886-REC377021,identity_label,"""risaldar""",https://www.wikidata.org/wiki/Q7335817
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1878-REC375551,elevation,10000.0,https://www.wikidata.org/wiki/Q31830810
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1878-REC375551,identity_label,"""Silino Island""",https://www.wikidata.org/wiki/Q31830810
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1878-REC375551,place_identity,"""Selinog""",https://www.wikidata.org/wiki/Q31830810
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1882-REC376391,elevation,270000.0,https://www.wikidata.org/wiki/Q12476116
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1882-REC376391,identity_label,"""Bhera""",https://www.wikidata.org/wiki/Q12476116
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1882-REC376391,place_identity,"""Mego""",https://www.wikidata.org/wiki/Q12476116
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1943-REC388571,identity_label,"""Lednik Kulik Schimar""",https://www.wikidata.org/wiki/Q34840018
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1945-REC388991,elevation,204000.0,https://www.wikidata.org/wiki/Q16155952
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1945-REC388991,identity_label,"""Starobachaty""",https://www.wikidata.org/wiki/Q16155952
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1945-REC388991,place_identity,"""Kuznetskiy Uyezd""",https://www.wikidata.org/wiki/Q16155952
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1952-REC390251,identity_label,"""Babushkin""",https://www.wikidata.org/wiki/Q21502149
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1953-REC390461,identity_label,"""Svobodnoye""",https://www.wikidata.org/wiki/Q3366540
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1953-REC390461,place_identity,"""Kamennogorskoye urban settlement""",https://www.wikidata.org/wiki/Q3366540
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1866-REC373031,elevation,43000.0,https://www.wikidata.org/wiki/Q24861
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1866-REC373031,identity_label,"""Albany""",https://www.wikidata.org/wiki/Q24861
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1929-REC385631,identity_label,"""Yolkino""",https://www.wikidata.org/wiki/Q18396235
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP803-REC160511,elevation,1058000.0,https://www.wikidata.org/wiki/Q21766307
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP803-REC160511,identity_label,"""Sêwakêy Ghar""",https://www.wikidata.org/wiki/Q21766307
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP803-REC160511,place_identity,"""Khost Province""",https://www.wikidata.org/wiki/Q21766307
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1977-REC395291,elevation,282000.0,https://www.wikidata.org/wiki/Q16897195
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1977-REC395291,identity_label,"""Sjettebreen""",https://www.wikidata.org/wiki/Q16897195
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP1997-REC399281,identity_label,"""Huraysun""",https://www.wikidata.org/wiki/Q12207638
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP930-REC185921,identity_label,"""Murqinë""",https://www.wikidata.org/wiki/Q13043154
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP930-REC185921,place_identity,"""Bubq""",https://www.wikidata.org/wiki/Q13043154
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP931-REC186131,identity_label,"""Domje""",https://www.wikidata.org/wiki/Q5291258
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP931-REC186131,place_identity,"""Tirana District""",https://www.wikidata.org/wiki/Q5291258
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP933-REC186551,elevation,1650000.0,https://www.wikidata.org/wiki/Q2222993
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP933-REC186551,identity_label,"""Nor Kyank""",https://www.wikidata.org/wiki/Q2222993
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP943-REC188441,place_identity,"""Gndevaz""",https://www.wikidata.org/wiki/Q21404808
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP932-REC186341,identity_label,"""Hors""",https://www.wikidata.org/wiki/Q87178378
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP955-REC190961,identity_label,"""Sumner Glacier""",https://www.wikidata.org/wiki/Q7637974
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP955-REC190961,place_identity,"""Antarctic Treaty area""",https://www.wikidata.org/wiki/Q7637974
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP952-REC190331,elevation,1155000.0,https://www.wikidata.org/wiki/Q621001
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP952-REC190331,identity_label,"""Malanje""",https://www.wikidata.org/wiki/Q621001
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP952-REC190331,place_identity,"""Malanje Province""",https://www.wikidata.org/wiki/Q621001
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP958-REC191591,identity_label,"""Ant Hill Glacier""",https://www.wikidata.org/wiki/Q4770859
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP958-REC191591,place_identity,"""Antarctic Treaty area""",https://www.wikidata.org/wiki/Q4770859
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP964-REC192641,elevation,37000.0,https://www.wikidata.org/wiki/Q1026633
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP964-REC192641,identity_label,"""Caleta Olivia""",https://www.wikidata.org/wiki/Q1026633
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP964-REC192641,place_identity,"""Deseado Department""",https://www.wikidata.org/wiki/Q1026633
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP965-REC192851,elevation,245000.0,https://www.wikidata.org/wiki/Q21859856
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP965-REC192851,identity_label,"""Gideon-Laudon-Grab""",https://www.wikidata.org/wiki/Q21859856
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP965-REC192851,place_identity,"""Vienna""",https://www.wikidata.org/wiki/Q21859856
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP966-REC193061,elevation,3274000.0,https://www.wikidata.org/wiki/Q21865801
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP966-REC193061,identity_label,"""Sommerwandferner""",https://www.wikidata.org/wiki/Q21865801
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP966-REC193061,place_identity,"""Tyrol""",https://www.wikidata.org/wiki/Q21865801
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP967-REC193271,elevation,3657000.0,https://www.wikidata.org/wiki/Q697907
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP967-REC193271,identity_label,"""Großvenediger""",https://www.wikidata.org/wiki/Q697907
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP967-REC193271,place_identity,"""Neukirchen am Großvenediger""",https://www.wikidata.org/wiki/Q697907
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP970-REC193901,identity_label,"""Shellharbour""",https://www.wikidata.org/wiki/Q5355935
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP970-REC193901,place_identity,"""New South Wales""",https://www.wikidata.org/wiki/Q5355935
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP974-REC194741,identity_label,"""Yardımlı""",https://www.wikidata.org/wiki/Q6538223
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP974-REC194741,place_identity,"""Harran district""",https://www.wikidata.org/wiki/Q6538223
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP971-REC194111,identity_label,"""Sydney Tramway Museum""",https://www.wikidata.org/wiki/Q1109301
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP971-REC194111,place_identity,"""New South Wales""",https://www.wikidata.org/wiki/Q1109301
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP979-REC195791,elevation,186000.0,https://www.wikidata.org/wiki/Q4666239
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP979-REC195791,identity_label,"""Tağılı""",https://www.wikidata.org/wiki/Q4666239
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP979-REC195791,place_identity,"""Hajigabul District""",https://www.wikidata.org/wiki/Q4666239
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP981-REC196001,identity_label,"""Mucuq""",https://www.wikidata.org/wiki/Q4857245
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP981-REC196001,place_identity,"""Qusar District""",https://www.wikidata.org/wiki/Q4857245
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP985-REC196841,elevation,208000.0,https://www.wikidata.org/wiki/Q4617696
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP985-REC196841,identity_label,"""Sarıbulaq""",https://www.wikidata.org/wiki/Q4617696
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP985-REC196841,place_identity,"""Balakan District""",https://www.wikidata.org/wiki/Q4617696
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP926-REC185081,elevation,9000.0,https://www.wikidata.org/wiki/Q31508285
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP926-REC185081,identity_label,"""Bolands""",https://www.wikidata.org/wiki/Q31508285
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP989-REC197681,elevation,36000.0,https://www.wikidata.org/wiki/Q118958
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP989-REC197681,identity_label,"""Leuven""",https://www.wikidata.org/wiki/Q118958
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP989-REC197681,place_identity,"""Arrondissement of Leuven""",https://www.wikidata.org/wiki/Q118958
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP992-REC198311,elevation,447000.0,https://www.wikidata.org/wiki/Q2021607
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP992-REC198311,identity_label,"""Tapchileshtovo""",https://www.wikidata.org/wiki/Q2021607
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP992-REC198311,place_identity,"""Omurtag""",https://www.wikidata.org/wiki/Q2021607
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP995-REC198941,elevation,96000.0,https://www.wikidata.org/wiki/Q4146412
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP995-REC198941,identity_label,"""Gospodinovo""",https://www.wikidata.org/wiki/Q4146412
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP995-REC198941,place_identity,"""Byala""",https://www.wikidata.org/wiki/Q4146412
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP991-REC198101,elevation,337000.0,https://www.wikidata.org/wiki/Q7110166
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP991-REC198101,identity_label,"""Ouahigouya Airport""",https://www.wikidata.org/wiki/Q7110166
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP991-REC198101,place_identity,"""Burkina Faso""",https://www.wikidata.org/wiki/Q7110166
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1003-REC200481,elevation,449000.0,https://www.wikidata.org/wiki/Q830945
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1003-REC200481,identity_label,"""Djougou Airport""",https://www.wikidata.org/wiki/Q830945
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1003-REC200481,place_identity,"""Atakora Department""",https://www.wikidata.org/wiki/Q830945
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP929-REC185711,identity_label,"""Zhitom i Madh""",https://www.wikidata.org/wiki/Q10977856
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP929-REC185711,place_identity,"""Tërpan""",https://www.wikidata.org/wiki/Q10977856
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1005-REC200901,elevation,343000.0,https://www.wikidata.org/wiki/Q22014342
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1005-REC200901,identity_label,"""Cachoeira do Tabocão""",https://www.wikidata.org/wiki/Q22014342
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1005-REC200901,place_identity,"""Maranhão""",https://www.wikidata.org/wiki/Q22014342
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1007-REC201321,elevation,95000.0,https://www.wikidata.org/wiki/Q504755
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1007-REC201321,identity_label,"""Imperatriz""",https://www.wikidata.org/wiki/Q504755
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1007-REC201321,place_identity,"""Maranhão""",https://www.wikidata.org/wiki/Q504755
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1008-REC201531,elevation,453000.0,https://www.wikidata.org/wiki/Q22027738
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1008-REC201531,identity_label,"""Cachoeira do Brigadeiro""",https://www.wikidata.org/wiki/Q22027738
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1008-REC201531,place_identity,"""Pará""",https://www.wikidata.org/wiki/Q22027738
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1016-REC203001,elevation,139000.0,https://www.wikidata.org/wiki/Q22056933
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1016-REC203001,identity_label,"""Cachoeira Jatobá""",https://www.wikidata.org/wiki/Q22056933
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1016-REC203001,place_identity,"""Rondônia""",https://www.wikidata.org/wiki/Q22056933
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1027-REC205311,identity_label,"""Elaho Glacier""",https://www.wikidata.org/wiki/Q22382612
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1027-REC205311,place_identity,"""British Columbia""",https://www.wikidata.org/wiki/Q22382612
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1029-REC205731,identity_label,"""Mastodon Glacier""",https://www.wikidata.org/wiki/Q22448617
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1029-REC205731,place_identity,"""Alberta""",https://www.wikidata.org/wiki/Q22448617
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1025-REC204891,elevation,1656000.0,https://www.wikidata.org/wiki/Q22380756
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1025-REC204891,identity_label,"""Alcove Glacier""",https://www.wikidata.org/wiki/Q22380756
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1025-REC204891,place_identity,"""British Columbia""",https://www.wikidata.org/wiki/Q22380756
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1013-REC202581,place_identity,"""São Paulo""",https://www.wikidata.org/wiki/Q22049910
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1034-REC206781,elevation,267004.8,https://www.wikidata.org/wiki/Q3914695
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1034-REC206781,identity_label,"""Sachigo Lake Airport""",https://www.wikidata.org/wiki/Q3914695
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1034-REC206781,place_identity,"""Ontario""",https://www.wikidata.org/wiki/Q3914695
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1041-REC208041,elevation,670000.0,https://www.wikidata.org/wiki/Q22402568
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1041-REC208041,identity_label,"""Vadian Statue""",https://www.wikidata.org/wiki/Q22402568
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1041-REC208041,place_identity,"""St. Gallen""",https://www.wikidata.org/wiki/Q22402568
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1049-REC209721,elevation,631000.0,https://www.wikidata.org/wiki/Q6986997
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1049-REC209721,identity_label,"""Nef Glacier""",https://www.wikidata.org/wiki/Q6986997
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1049-REC209721,place_identity,"""Aysén Region""",https://www.wikidata.org/wiki/Q6986997
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1051-REC210141,elevation,7315.200000000001,https://www.wikidata.org/wiki/Q898928
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1051-REC210141,identity_label,"""Douala International Airport""",https://www.wikidata.org/wiki/Q898928
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1051-REC210141,place_identity,"""Littoral""",https://www.wikidata.org/wiki/Q898928
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1056-REC211191,identity_label,"""Tongcheng""",https://www.wikidata.org/wiki/Q1197854
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1056-REC211191,place_identity,"""Anqing""",https://www.wikidata.org/wiki/Q1197854
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1095-REC218961,identity_label,"""Parliament of the Czech Republic""",https://www.wikidata.org/wiki/Q2347172
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1101-REC220011,elevation,236000.0,https://www.wikidata.org/wiki/Q571922
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1101-REC220011,identity_label,"""Münnerstadt""",https://www.wikidata.org/wiki/Q571922
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1101-REC220011,place_identity,"""Bad Kissingen district""",https://www.wikidata.org/wiki/Q571922
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1102-REC220221,elevation,55000.0,https://www.wikidata.org/wiki/Q245495
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1102-REC220221,identity_label,"""Leichlingen""",https://www.wikidata.org/wiki/Q245495
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1102-REC220221,place_identity,"""Rhein-Berg District""",https://www.wikidata.org/wiki/Q245495
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1040-REC207831,elevation,724000.0,https://www.wikidata.org/wiki/Q3038961
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1040-REC207831,identity_label,"""Dranse d'Entremont""",https://www.wikidata.org/wiki/Q3038961
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1040-REC207831,place_identity,"""Entremont District""",https://www.wikidata.org/wiki/Q3038961
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1104-REC220641,elevation,386000.0,https://www.wikidata.org/wiki/Q503372
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1104-REC220641,identity_label,"""Hahnbach""",https://www.wikidata.org/wiki/Q503372
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1104-REC220641,place_identity,"""Amberg-Sulzbach District""",https://www.wikidata.org/wiki/Q503372
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1105-REC220851,identity_label,"""Schloß Falkenhagen""",https://www.wikidata.org/wiki/Q33224194
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1105-REC220851,place_identity,"""Brandenburg""",https://www.wikidata.org/wiki/Q33224194
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1009-REC201741,elevation,371000.0,https://www.wikidata.org/wiki/Q22033680
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1009-REC201741,identity_label,"""Cachoeira do Travessão""",https://www.wikidata.org/wiki/Q22033680
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1086-REC217071,identity_label,"""Santo António""",https://www.wikidata.org/wiki/Q10368164
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1038-REC207411,elevation,711000.0,https://www.wikidata.org/wiki/Q22501503
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1038-REC207411,identity_label,"""Chute Kimimbi Fuka""",https://www.wikidata.org/wiki/Q22501503
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1094-REC218751,elevation,502000.0,https://www.wikidata.org/wiki/Q841296
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1094-REC218751,identity_label,"""Příbram""",https://www.wikidata.org/wiki/Q841296
