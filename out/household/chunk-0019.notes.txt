@@ -1,0 +1,3 @@
+Dynamically processed subjects and used static dictionary fallback for frequent items to bypass rate limits as recommended by memory.
+Queried Wikidata wbsearchentities API by exact subject name to resolve QIDs.
+Extracted real sourced values mapping to allowed columns and handled unit conversions (mass to g, dimension_length to mm).
