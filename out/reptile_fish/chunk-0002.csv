@@ -1,0 +1,19 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_04-CAT_12-ERA_01-1200-ACC04-HOP18183-REC3636494,scientific_identity,"""Larus hyperboreus""",https://api.gbif.org/v1/species/match?name=Larus%20hyperboreus
+IDB-REG_04-CAT_12-ERA_01-1200-ACC04-HOP18183-REC3636494,taxon_authority,"""Gunnerus, 1767""",https://api.gbif.org/v1/species/match?name=Larus%20hyperboreus
+LIBSRC-LIB50-ENT-BIO-0481864,scientific_identity,"""Neopholidophoropsis serrata""",https://api.gbif.org/v1/species/match?name=Neopholidophoropsis%20serrata
+LIBSRC-LIB50-ENT-BIO-0481864,taxon_authority,"""Taverne, 1981""",https://api.gbif.org/v1/species/match?name=Neopholidophoropsis%20serrata
+LIBSRC-LIB50-ENT-BIO-0483094,scientific_identity,"""Malingichthys wanfenglinensis""",https://api.gbif.org/v1/species/match?name=Malingichthys%20wanfenglinensis
+LIBSRC-LIB50-ENT-BIO-0483094,taxon_authority,"""Tintori, Sun, Ni, Lombardo, Jiang & Motani, 2015""",https://api.gbif.org/v1/species/match?name=Malingichthys%20wanfenglinensis
+LIBSRC-LIB50-ENT-BIO-0483714,scientific_identity,"""Pholidophoropsis maculata""",https://api.gbif.org/v1/species/match?name=Pholidophoropsis%20maculata
+LIBSRC-LIB50-ENT-BIO-0483714,taxon_authority,"""Nybelin, 1966""",https://api.gbif.org/v1/species/match?name=Pholidophoropsis%20maculata
+LIBSRC-LIB50-ENT-BIO-1572024,scientific_identity,"""Howqualepis rostridens""",https://api.gbif.org/v1/species/match?name=Howqualepis%20rostridens
+LIBSRC-LIB50-ENT-BIO-1572024,taxon_authority,"""Long, 1988""",https://api.gbif.org/v1/species/match?name=Howqualepis%20rostridens
+LIBSRC-LIB50-ENT-BIO-1576144,scientific_identity,"""Palaeoniscus dedenee""",https://api.gbif.org/v1/species/match?name=Palaeoniscus%20dedenee
+LIBSRC-LIB50-ENT-BIO-1576144,taxon_authority,"""Van Beneden, 1871""",https://api.gbif.org/v1/species/match?name=Palaeoniscus%20dedenee
+LIBSRC-LIB50-ENT-BIO-2511544,scientific_identity,"""Vettoria parva""",https://api.gbif.org/v1/species/match?name=Vettoria%20parva
+LIBSRC-LIB50-ENT-BIO-2511544,taxon_authority,"""(Farran, 1936)""",https://api.gbif.org/v1/species/match?name=Vettoria%20parva
+LIBSRC-LIB50-ENT-BIO-2513477,scientific_identity,"""Sapphirina coruscans""",https://api.gbif.org/v1/species/match?name=Sapphirina%20coruscans
+LIBSRC-LIB50-ENT-BIO-2513477,taxon_authority,"""Dana, 1849""",https://api.gbif.org/v1/species/match?name=Sapphirina%20coruscans
+LIBSRC-LIB51-ENT-SMI-0415076,scientific_identity,"""Tarantula""",https://api.gbif.org/v1/species/match?name=Tarantula
+LIBSRC-LIB51-ENT-SMI-0415076,taxon_authority,"""Fabricius, 1793""",https://api.gbif.org/v1/species/match?name=Tarantula
