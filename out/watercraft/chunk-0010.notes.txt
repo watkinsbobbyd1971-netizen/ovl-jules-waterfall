@@ -1,0 +1,3 @@
+Queried Wikidata SPARQL endpoint by exact label match.
+Used properties: wdt:P2043 (dimension_length), wdt:P2262 (draft), wdt:P2067 (mass), wdt:P1093 (displacement_mass), wdt:P176 (manufacturer_or_creator), wdt:P186 (material_identity), wdt:P289 (model_identifier), wdt:P31 (identity_label).
+Filtered for classes: wd:Q11446 (ship) and wd:Q1229765 (watercraft).
