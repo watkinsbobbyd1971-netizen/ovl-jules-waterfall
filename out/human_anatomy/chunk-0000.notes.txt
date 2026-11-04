@@ -1,0 +1,2 @@
+Used EBI OLS API to search for exact string matches in FMA and UBERON ontologies. Extracted identity_label from preferred name/label, and descriptive_identity from synonyms/non-English equivalents.
+Attempted Wikidata wbsearchentities but it yielded rate limits. Attempted SPARQL endpoint but query failed.
