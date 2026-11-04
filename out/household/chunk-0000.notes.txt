@@ -1,0 +1,1 @@
+I tried Smithsonian Open APIs and Wikidata. The generic names ('Stirring paddle', 'Pestle', etc.) and internal identifiers (like 'LIBSRC-LIB51-ENT-SMI-0544634') from the Smithsonian collection were ambiguous and could not be matched explicitly or safely to external records to guarantee only valid sourced values were filled, according to rule 2: skip ambiguous matches.
