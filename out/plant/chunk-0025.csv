@@ -1,0 +1,9 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_06-CAT_14-ERA_05-1965-ACC04-HOP14388-REC2877516,identity_label,"""Iris versicolor""",https://api.gbif.org/v1/species/5298019
+IDB-REG_06-CAT_12-ERA_02-1650-ACC04-HOP13409-REC2681786,identity_label,"""Trillium erectum""",https://api.gbif.org/v1/species/2742342
+IDB-REG_06-CAT_12-ERA_04-1890-ACC04-HOP13327-REC2665366,identity_label,"""Polygonatum biflorum""",https://api.gbif.org/v1/species/2770039
+IDB-REG_06-CAT_14-ERA_04-1890-ACC04-HOP12850-REC2569816,identity_label,"""Panel""",https://api.gbif.org/v1/species/295699996
+LIBSRC-LIB50-ENT-BIO-2535969,identity_label,"""Noeggerathia flabellata""",https://api.gbif.org/v1/species/11154572
+IDB-REG06-CAT08-ERA05-ACC03-HOP1035-REC206886-LIBSRC-LIB46-ENT-FOD-0010352,identity_label,"""Paeonia lactiflora""",https://api.gbif.org/v1/species/3083486
+IDB-REG06-CAT10-ERA01-ACC03-HOP1013-REC202416-LIBSRC-LIB46-ENT-FOD-0005882,identity_label,"""Constantia""",https://api.gbif.org/v1/species/2796904
+IDB-REG06-CAT08-ERA05-ACC03-HOP1041-REC208146-LIBSRC-LIB46-ENT-FOD-0011612,identity_label,"""Artocarpus heterophyllus""",https://api.gbif.org/v1/species/2984565
