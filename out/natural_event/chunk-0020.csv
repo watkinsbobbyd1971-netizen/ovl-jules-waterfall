@@ -1,0 +1,615 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB57-ENT-DIS-0005767,location,"CHILE:  NORTHERN:  IQUIQUE, ALTO HOSPICIO",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0005767,phenomenon_time,2014-04-01,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0005767,magnitude_with_scale,8.2 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0005767,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0005767,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0005767,identity_label,"2014 Iquique, Alto Hospicio Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0004704,location,CHINA:  YUNNAN PROVINCE:  HUIZE,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0004704,phenomenon_time,2005-08-05,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0004704,magnitude_with_scale,4.8 Mb,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0004704,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0004704,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0004704,identity_label,2005 Huize Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0004733,location,CONGO:  KALEMIE,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0004733,phenomenon_time,2005-12-05,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0004733,magnitude_with_scale,6.8 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0004733,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0004733,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0004733,identity_label,2005 Kalemie Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0005807,location,INDONESIA:  N. MOLUCCAS ISLANDS,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0005807,phenomenon_time,2014-11-15,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0005807,magnitude_with_scale,7.1 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0005807,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0005807,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0005807,identity_label,2014 N. Moluccas Islands Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0006067,location,CHINA:  XINJIANG PROVINCE:  KASHGAR,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2016&maxYear=2016
+LIBSRC-LIB57-ENT-DIS-0006067,phenomenon_time,2016-11-25,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2016&maxYear=2016
+LIBSRC-LIB57-ENT-DIS-0006067,magnitude_with_scale,6.6 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2016&maxYear=2016
+LIBSRC-LIB57-ENT-DIS-0006067,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2016&maxYear=2016
+LIBSRC-LIB57-ENT-DIS-0006067,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2016&maxYear=2016
+LIBSRC-LIB57-ENT-DIS-0006067,identity_label,2016 Kashgar Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2016&maxYear=2016
+LIBSRC-LIB57-ENT-DIS-0004298,location,CHILE:  CENTRAL,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1868&maxYear=1868
+LIBSRC-LIB57-ENT-DIS-0004298,phenomenon_time,1868-09-14,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1868&maxYear=1868
+LIBSRC-LIB57-ENT-DIS-0004298,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1868&maxYear=1868
+LIBSRC-LIB57-ENT-DIS-0004298,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1868&maxYear=1868
+LIBSRC-LIB57-ENT-DIS-0004298,identity_label,1868 Central Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1868&maxYear=1868
+LIBSRC-LIB57-ENT-DIS-0008478,location,RYUKYU ISLANDS,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1901&maxYear=1901
+LIBSRC-LIB57-ENT-DIS-0008478,phenomenon_time,1901-06-24,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1901&maxYear=1901
+LIBSRC-LIB57-ENT-DIS-0008478,magnitude_with_scale,7.5,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1901&maxYear=1901
+LIBSRC-LIB57-ENT-DIS-0008478,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1901&maxYear=1901
+LIBSRC-LIB57-ENT-DIS-0008478,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1901&maxYear=1901
+LIBSRC-LIB57-ENT-DIS-0008478,identity_label,1901 Ryukyu Islands Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1901&maxYear=1901
+LIBSRC-LIB57-ENT-DIS-0007848,location,"HACHIJO ISLAND, JAPAN",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1732&maxYear=1732
+LIBSRC-LIB57-ENT-DIS-0007848,phenomenon_time,1732,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1732&maxYear=1732
+LIBSRC-LIB57-ENT-DIS-0007848,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1732&maxYear=1732
+LIBSRC-LIB57-ENT-DIS-0007848,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1732&maxYear=1732
+LIBSRC-LIB57-ENT-DIS-0007848,identity_label,"1732 Hachijo Island, Japan Tsunami",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1732&maxYear=1732
+LIBSRC-LIB57-ENT-DIS-0005525,location,NEW ZEALAND:  CHRISTCHURCH,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2010&maxYear=2010
+LIBSRC-LIB57-ENT-DIS-0005525,phenomenon_time,2010-09-03,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2010&maxYear=2010
+LIBSRC-LIB57-ENT-DIS-0005525,magnitude_with_scale,7 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2010&maxYear=2010
+LIBSRC-LIB57-ENT-DIS-0005525,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2010&maxYear=2010
+LIBSRC-LIB57-ENT-DIS-0005525,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2010&maxYear=2010
+LIBSRC-LIB57-ENT-DIS-0005525,identity_label,2010 Christchurch Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2010&maxYear=2010
+LIBSRC-LIB57-ENT-DIS-0003141,location,IRAN:  AZARBAIJAN,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1977&maxYear=1977
+LIBSRC-LIB57-ENT-DIS-0003141,phenomenon_time,1977-05-26,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1977&maxYear=1977
+LIBSRC-LIB57-ENT-DIS-0003141,magnitude_with_scale,5.4 Mb,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1977&maxYear=1977
+LIBSRC-LIB57-ENT-DIS-0003141,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1977&maxYear=1977
+LIBSRC-LIB57-ENT-DIS-0003141,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1977&maxYear=1977
+LIBSRC-LIB57-ENT-DIS-0003141,identity_label,1977 Azarbaijan Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1977&maxYear=1977
+LIBSRC-LIB57-ENT-DIS-0010440,location,"ABUYOG, LEYTE",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2022&maxYear=2022
+LIBSRC-LIB57-ENT-DIS-0010440,phenomenon_time,2022-04-12,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2022&maxYear=2022
+LIBSRC-LIB57-ENT-DIS-0010440,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2022&maxYear=2022
+LIBSRC-LIB57-ENT-DIS-0010440,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2022&maxYear=2022
+LIBSRC-LIB57-ENT-DIS-0010440,identity_label,"2022 Abuyog, Leyte Tsunami",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2022&maxYear=2022
+LIBSRC-LIB57-ENT-DIS-0002744,location,RUSSIA:  KURIL ISLANDS,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1958&maxYear=1958
+LIBSRC-LIB57-ENT-DIS-0002744,phenomenon_time,1958-11-06,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1958&maxYear=1958
+LIBSRC-LIB57-ENT-DIS-0002744,magnitude_with_scale,8.3 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1958&maxYear=1958
+LIBSRC-LIB57-ENT-DIS-0002744,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1958&maxYear=1958
+LIBSRC-LIB57-ENT-DIS-0002744,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1958&maxYear=1958
+LIBSRC-LIB57-ENT-DIS-0002744,identity_label,1958 Kuril Islands Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1958&maxYear=1958
+LIBSRC-LIB57-ENT-DIS-0010554,location,NORTH SULAWESI,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1932&maxYear=1932
+LIBSRC-LIB57-ENT-DIS-0010554,phenomenon_time,1932-05-14,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1932&maxYear=1932
+LIBSRC-LIB57-ENT-DIS-0010554,magnitude_with_scale,7.7,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1932&maxYear=1932
+LIBSRC-LIB57-ENT-DIS-0010554,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1932&maxYear=1932
+LIBSRC-LIB57-ENT-DIS-0010554,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1932&maxYear=1932
+LIBSRC-LIB57-ENT-DIS-0010554,identity_label,1932 North Sulawesi Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1932&maxYear=1932
+LIBSRC-LIB57-ENT-DIS-0005039,location,"GREECE:  ACHAIA, ILEIA",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2008&maxYear=2008
+LIBSRC-LIB57-ENT-DIS-0005039,phenomenon_time,2008-06-08,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2008&maxYear=2008
+LIBSRC-LIB57-ENT-DIS-0005039,magnitude_with_scale,6.3 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2008&maxYear=2008
+LIBSRC-LIB57-ENT-DIS-0005039,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2008&maxYear=2008
+LIBSRC-LIB57-ENT-DIS-0005039,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2008&maxYear=2008
+LIBSRC-LIB57-ENT-DIS-0005039,identity_label,"2008 Achaia, Ileia Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2008&maxYear=2008
+LIBSRC-LIB57-ENT-DIS-0003962,location,"ALGERIA:  NORTHERN:  ALGIERS, BOUMERDES",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0003962,phenomenon_time,2004-01-10,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0003962,magnitude_with_scale,4.4 Mb,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0003962,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0003962,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0003962,identity_label,"2004 Algiers, Boumerdes Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0002555,location,EL SALVADOR:  LA UNION,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1947&maxYear=1947
+LIBSRC-LIB57-ENT-DIS-0002555,phenomenon_time,1947-01-25,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1947&maxYear=1947
+LIBSRC-LIB57-ENT-DIS-0002555,magnitude_with_scale,6.2 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1947&maxYear=1947
+LIBSRC-LIB57-ENT-DIS-0002555,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1947&maxYear=1947
+LIBSRC-LIB57-ENT-DIS-0002555,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1947&maxYear=1947
+LIBSRC-LIB57-ENT-DIS-0002555,identity_label,1947 La Union Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1947&maxYear=1947
+LIBSRC-LIB57-ENT-DIS-0003342,location,"CHILE:  CENTRAL COAST, SAN ANTONIO, VALPARAISO",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1985&maxYear=1985
+LIBSRC-LIB57-ENT-DIS-0003342,phenomenon_time,1985-03-03,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1985&maxYear=1985
+LIBSRC-LIB57-ENT-DIS-0003342,magnitude_with_scale,8 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1985&maxYear=1985
+LIBSRC-LIB57-ENT-DIS-0003342,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1985&maxYear=1985
+LIBSRC-LIB57-ENT-DIS-0003342,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1985&maxYear=1985
+LIBSRC-LIB57-ENT-DIS-0003342,identity_label,"1985 Central Coast, San Antonio, Valparaiso Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1985&maxYear=1985
+LIBSRC-LIB57-ENT-DIS-0005937,location,"GUATEMALA: ESCUINTLA, SUCHITEPEQUEZ, GUATEMALA",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2017&maxYear=2017
+LIBSRC-LIB57-ENT-DIS-0005937,phenomenon_time,2017-06-22,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2017&maxYear=2017
+LIBSRC-LIB57-ENT-DIS-0005937,magnitude_with_scale,6.8 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2017&maxYear=2017
+LIBSRC-LIB57-ENT-DIS-0005937,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2017&maxYear=2017
+LIBSRC-LIB57-ENT-DIS-0005937,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2017&maxYear=2017
+LIBSRC-LIB57-ENT-DIS-0005937,identity_label,"2017 Escuintla, Suchitepequez, Guatemala Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2017&maxYear=2017
+LIBSRC-LIB57-ENT-DIS-0004902,location,INDONESIA:  SUMATRA:  SOUTHERN,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2007&maxYear=2007
+LIBSRC-LIB57-ENT-DIS-0004902,phenomenon_time,2007-03-06,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2007&maxYear=2007
+LIBSRC-LIB57-ENT-DIS-0004902,magnitude_with_scale,6.4 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2007&maxYear=2007
+LIBSRC-LIB57-ENT-DIS-0004902,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2007&maxYear=2007
+LIBSRC-LIB57-ENT-DIS-0004902,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2007&maxYear=2007
+LIBSRC-LIB57-ENT-DIS-0004902,identity_label,2007 Sumatra Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2007&maxYear=2007
+LIBSRC-LIB57-ENT-DIS-0002426,location,INDONESIA:  NEW GUINEA,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1938&maxYear=1938
+LIBSRC-LIB57-ENT-DIS-0002426,phenomenon_time,1938-02-01,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1938&maxYear=1938
+LIBSRC-LIB57-ENT-DIS-0002426,magnitude_with_scale,8.6 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1938&maxYear=1938
+LIBSRC-LIB57-ENT-DIS-0002426,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1938&maxYear=1938
+LIBSRC-LIB57-ENT-DIS-0002426,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1938&maxYear=1938
+LIBSRC-LIB57-ENT-DIS-0002426,identity_label,1938 New Guinea Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1938&maxYear=1938
+LIBSRC-LIB57-ENT-DIS-0003156,location,"PAKISTAN:  QUETTA, NUSHKI",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1978&maxYear=1978
+LIBSRC-LIB57-ENT-DIS-0003156,phenomenon_time,1978-03-16,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1978&maxYear=1978
+LIBSRC-LIB57-ENT-DIS-0003156,magnitude_with_scale,5.9 Mb,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1978&maxYear=1978
+LIBSRC-LIB57-ENT-DIS-0003156,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1978&maxYear=1978
+LIBSRC-LIB57-ENT-DIS-0003156,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1978&maxYear=1978
+LIBSRC-LIB57-ENT-DIS-0003156,identity_label,"1978 Quetta, Nushki Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1978&maxYear=1978
+LIBSRC-LIB57-ENT-DIS-0010108,location,SOUTH OF JAVA,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1994&maxYear=1994
+LIBSRC-LIB57-ENT-DIS-0010108,phenomenon_time,1994-06-02,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1994&maxYear=1994
+LIBSRC-LIB57-ENT-DIS-0010108,magnitude_with_scale,7.8,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1994&maxYear=1994
+LIBSRC-LIB57-ENT-DIS-0010108,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1994&maxYear=1994
+LIBSRC-LIB57-ENT-DIS-0010108,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1994&maxYear=1994
+LIBSRC-LIB57-ENT-DIS-0010108,identity_label,1994 South Of Java Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1994&maxYear=1994
+LIBSRC-LIB57-ENT-DIS-0002593,location,CALIFORNIA:  SOUTHERN,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1949&maxYear=1949
+LIBSRC-LIB57-ENT-DIS-0002593,phenomenon_time,1949-11-17,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1949&maxYear=1949
+LIBSRC-LIB57-ENT-DIS-0002593,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1949&maxYear=1949
+LIBSRC-LIB57-ENT-DIS-0002593,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1949&maxYear=1949
+LIBSRC-LIB57-ENT-DIS-0002593,identity_label,1949 Southern Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1949&maxYear=1949
+LIBSRC-LIB57-ENT-DIS-0005319,location,CANADA:  MONTREAL,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1842&maxYear=1842
+LIBSRC-LIB57-ENT-DIS-0005319,phenomenon_time,1842-11-01,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1842&maxYear=1842
+LIBSRC-LIB57-ENT-DIS-0005319,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1842&maxYear=1842
+LIBSRC-LIB57-ENT-DIS-0005319,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1842&maxYear=1842
+LIBSRC-LIB57-ENT-DIS-0005319,identity_label,1842 Montreal Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1842&maxYear=1842
+LIBSRC-LIB57-ENT-DIS-0009436,location,"EASTERN ITALY, ADRIATIC SEA",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1978&maxYear=1978
+LIBSRC-LIB57-ENT-DIS-0009436,phenomenon_time,1978-06-21,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1978&maxYear=1978
+LIBSRC-LIB57-ENT-DIS-0009436,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1978&maxYear=1978
+LIBSRC-LIB57-ENT-DIS-0009436,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1978&maxYear=1978
+LIBSRC-LIB57-ENT-DIS-0009436,identity_label,"1978 Eastern Italy, Adriatic Sea Tsunami",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1978&maxYear=1978
+LIBSRC-LIB57-ENT-DIS-0005397,location,JAPAN:  VOLCANO ISLANDS,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2007&maxYear=2007
+LIBSRC-LIB57-ENT-DIS-0005397,phenomenon_time,2007-09-28,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2007&maxYear=2007
+LIBSRC-LIB57-ENT-DIS-0005397,magnitude_with_scale,7.5 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2007&maxYear=2007
+LIBSRC-LIB57-ENT-DIS-0005397,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2007&maxYear=2007
+LIBSRC-LIB57-ENT-DIS-0005397,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2007&maxYear=2007
+LIBSRC-LIB57-ENT-DIS-0005397,identity_label,2007 Volcano Islands Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2007&maxYear=2007
+LIBSRC-LIB57-ENT-DIS-0000951,location,GREECE:  ZAKINTHOS (ZANTE),https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1752&maxYear=1752
+LIBSRC-LIB57-ENT-DIS-0000951,phenomenon_time,1752-06-01,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1752&maxYear=1752
+LIBSRC-LIB57-ENT-DIS-0000951,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1752&maxYear=1752
+LIBSRC-LIB57-ENT-DIS-0000951,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1752&maxYear=1752
+LIBSRC-LIB57-ENT-DIS-0000951,identity_label,1752 Zakinthos (Zante) Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1752&maxYear=1752
+LIBSRC-LIB57-ENT-DIS-0001498,location,GREECE:  PENINSULA OF MAINA (LACONIA),https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1867&maxYear=1867
+LIBSRC-LIB57-ENT-DIS-0001498,phenomenon_time,1867-09-20,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1867&maxYear=1867
+LIBSRC-LIB57-ENT-DIS-0001498,magnitude_with_scale,7.1 Ms,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1867&maxYear=1867
+LIBSRC-LIB57-ENT-DIS-0001498,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1867&maxYear=1867
+LIBSRC-LIB57-ENT-DIS-0001498,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1867&maxYear=1867
+LIBSRC-LIB57-ENT-DIS-0001498,identity_label,1867 Peninsula Of Maina (Laconia) Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1867&maxYear=1867
+LIBSRC-LIB57-ENT-DIS-0009664,location,LIVORNO,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1850&maxYear=1850
+LIBSRC-LIB57-ENT-DIS-0009664,phenomenon_time,1850-05-16,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1850&maxYear=1850
+LIBSRC-LIB57-ENT-DIS-0009664,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1850&maxYear=1850
+LIBSRC-LIB57-ENT-DIS-0009664,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1850&maxYear=1850
+LIBSRC-LIB57-ENT-DIS-0009664,identity_label,1850 Livorno Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1850&maxYear=1850
+LIBSRC-LIB57-ENT-DIS-0001828,location,"PHILIPPINES:  MINDANAO:  LANAO, COTABATO",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1902&maxYear=1902
+LIBSRC-LIB57-ENT-DIS-0001828,phenomenon_time,1902-08-21,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1902&maxYear=1902
+LIBSRC-LIB57-ENT-DIS-0001828,magnitude_with_scale,7.3 Ms,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1902&maxYear=1902
+LIBSRC-LIB57-ENT-DIS-0001828,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1902&maxYear=1902
+LIBSRC-LIB57-ENT-DIS-0001828,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1902&maxYear=1902
+LIBSRC-LIB57-ENT-DIS-0001828,identity_label,"1902 Lanao, Cotabato Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1902&maxYear=1902
+LIBSRC-LIB57-ENT-DIS-0001385,location,MEXICO:  TLAPUJAHUA,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1854&maxYear=1854
+LIBSRC-LIB57-ENT-DIS-0001385,phenomenon_time,1854-01-13,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1854&maxYear=1854
+LIBSRC-LIB57-ENT-DIS-0001385,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1854&maxYear=1854
+LIBSRC-LIB57-ENT-DIS-0001385,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1854&maxYear=1854
+LIBSRC-LIB57-ENT-DIS-0001385,identity_label,1854 Tlapujahua Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1854&maxYear=1854
+LIBSRC-LIB57-ENT-DIS-0002653,location,GREECE:  ASPROGERAKAS (KEPHALLENIA),https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1953&maxYear=1953
+LIBSRC-LIB57-ENT-DIS-0002653,phenomenon_time,1953-08-11,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1953&maxYear=1953
+LIBSRC-LIB57-ENT-DIS-0002653,magnitude_with_scale,6.8 Ms,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1953&maxYear=1953
+LIBSRC-LIB57-ENT-DIS-0002653,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1953&maxYear=1953
+LIBSRC-LIB57-ENT-DIS-0002653,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1953&maxYear=1953
+LIBSRC-LIB57-ENT-DIS-0002653,identity_label,1953 Asprogerakas (Kephallenia) Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1953&maxYear=1953
+LIBSRC-LIB57-ENT-DIS-0004609,location,CHILE:  COPIAPO,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1851&maxYear=1851
+LIBSRC-LIB57-ENT-DIS-0004609,phenomenon_time,1851-05-26,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1851&maxYear=1851
+LIBSRC-LIB57-ENT-DIS-0004609,magnitude_with_scale,7.2 Ms,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1851&maxYear=1851
+LIBSRC-LIB57-ENT-DIS-0004609,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1851&maxYear=1851
+LIBSRC-LIB57-ENT-DIS-0004609,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1851&maxYear=1851
+LIBSRC-LIB57-ENT-DIS-0004609,identity_label,1851 Copiapo Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1851&maxYear=1851
+LIBSRC-LIB57-ENT-DIS-0003949,location,"CHILE:  IQUIQUE, PISAGUA, SAPIGA, NEGRERO",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1934&maxYear=1934
+LIBSRC-LIB57-ENT-DIS-0003949,phenomenon_time,1934-12-04,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1934&maxYear=1934
+LIBSRC-LIB57-ENT-DIS-0003949,magnitude_with_scale,6.9 Ms,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1934&maxYear=1934
+LIBSRC-LIB57-ENT-DIS-0003949,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1934&maxYear=1934
+LIBSRC-LIB57-ENT-DIS-0003949,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1934&maxYear=1934
+LIBSRC-LIB57-ENT-DIS-0003949,identity_label,"1934 Iquique, Pisagua, Sapiga, Negrero Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1934&maxYear=1934
+LIBSRC-LIB57-ENT-DIS-0006242,location,HAITI,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2021&maxYear=2021
+LIBSRC-LIB57-ENT-DIS-0006242,phenomenon_time,2021-08-14,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2021&maxYear=2021
+LIBSRC-LIB57-ENT-DIS-0006242,magnitude_with_scale,7.2 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2021&maxYear=2021
+LIBSRC-LIB57-ENT-DIS-0006242,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2021&maxYear=2021
+LIBSRC-LIB57-ENT-DIS-0006242,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2021&maxYear=2021
+LIBSRC-LIB57-ENT-DIS-0006242,identity_label,2021 Haiti Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2021&maxYear=2021
+LIBSRC-LIB57-ENT-DIS-0006681,location,INDONESIA:  CENTRAL SULAWESI,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2026&maxYear=2026
+LIBSRC-LIB57-ENT-DIS-0006681,phenomenon_time,2026-06-16,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2026&maxYear=2026
+LIBSRC-LIB57-ENT-DIS-0006681,magnitude_with_scale,6.7 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2026&maxYear=2026
+LIBSRC-LIB57-ENT-DIS-0006681,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2026&maxYear=2026
+LIBSRC-LIB57-ENT-DIS-0006681,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2026&maxYear=2026
+LIBSRC-LIB57-ENT-DIS-0006681,identity_label,2026 Central Sulawesi Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2026&maxYear=2026
+LIBSRC-LIB57-ENT-DIS-0006439,location,"CUBA: GRANMA, SANTIAGO DE CUBA",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2024&maxYear=2024
+LIBSRC-LIB57-ENT-DIS-0006439,phenomenon_time,2024-11-10,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2024&maxYear=2024
+LIBSRC-LIB57-ENT-DIS-0006439,magnitude_with_scale,6.8 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2024&maxYear=2024
+LIBSRC-LIB57-ENT-DIS-0006439,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2024&maxYear=2024
+LIBSRC-LIB57-ENT-DIS-0006439,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2024&maxYear=2024
+LIBSRC-LIB57-ENT-DIS-0006439,identity_label,"2024 Granma, Santiago De Cuba Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2024&maxYear=2024
+LIBSRC-LIB57-ENT-DIS-0004106,location,GREECE:  CRETE,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1303&maxYear=1303
+LIBSRC-LIB57-ENT-DIS-0004106,phenomenon_time,1303-08-08,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1303&maxYear=1303
+LIBSRC-LIB57-ENT-DIS-0004106,magnitude_with_scale,8 Ms,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1303&maxYear=1303
+LIBSRC-LIB57-ENT-DIS-0004106,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1303&maxYear=1303
+LIBSRC-LIB57-ENT-DIS-0004106,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1303&maxYear=1303
+LIBSRC-LIB57-ENT-DIS-0004106,identity_label,1303 Crete Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1303&maxYear=1303
+LIBSRC-LIB57-ENT-DIS-0010605,location,OFF NORTHEAST COAST HONSHU,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2025&maxYear=2025
+LIBSRC-LIB57-ENT-DIS-0010605,phenomenon_time,2025-12-08,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2025&maxYear=2025
+LIBSRC-LIB57-ENT-DIS-0010605,magnitude_with_scale,7.6,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2025&maxYear=2025
+LIBSRC-LIB57-ENT-DIS-0010605,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2025&maxYear=2025
+LIBSRC-LIB57-ENT-DIS-0010605,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2025&maxYear=2025
+LIBSRC-LIB57-ENT-DIS-0010605,identity_label,2025 Off Northeast Coast Honshu Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2025&maxYear=2025
+LIBSRC-LIB57-ENT-DIS-0001403,location,"ALBANIA: SHKODER, BUCHATI, ZADRIME, JUBANI, KOSMACI",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1855&maxYear=1855
+LIBSRC-LIB57-ENT-DIS-0001403,phenomenon_time,1855-07-03,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1855&maxYear=1855
+LIBSRC-LIB57-ENT-DIS-0001403,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1855&maxYear=1855
+LIBSRC-LIB57-ENT-DIS-0001403,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1855&maxYear=1855
+LIBSRC-LIB57-ENT-DIS-0001403,identity_label,"1855 Shkoder, Buchati, Zadrime, Jubani, Kosmaci Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1855&maxYear=1855
+LIBSRC-LIB57-ENT-DIS-0001718,location,TURKEY,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1894&maxYear=1894
+LIBSRC-LIB57-ENT-DIS-0001718,phenomenon_time,1894-07-10,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1894&maxYear=1894
+LIBSRC-LIB57-ENT-DIS-0001718,magnitude_with_scale,6.7 Ms,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1894&maxYear=1894
+LIBSRC-LIB57-ENT-DIS-0001718,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1894&maxYear=1894
+LIBSRC-LIB57-ENT-DIS-0001718,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1894&maxYear=1894
+LIBSRC-LIB57-ENT-DIS-0001718,identity_label,1894 Turkey Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1894&maxYear=1894
+LIBSRC-LIB57-ENT-DIS-0005562,location,ITALY:  SICILY,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1985&maxYear=1985
+LIBSRC-LIB57-ENT-DIS-0005562,phenomenon_time,1985-12-25,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1985&maxYear=1985
+LIBSRC-LIB57-ENT-DIS-0005562,magnitude_with_scale,4.3 Mb,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1985&maxYear=1985
+LIBSRC-LIB57-ENT-DIS-0005562,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1985&maxYear=1985
+LIBSRC-LIB57-ENT-DIS-0005562,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1985&maxYear=1985
+LIBSRC-LIB57-ENT-DIS-0005562,identity_label,1985 Sicily Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1985&maxYear=1985
+LIBSRC-LIB57-ENT-DIS-0005736,location,GISBORNE,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1880&maxYear=1880
+LIBSRC-LIB57-ENT-DIS-0005736,phenomenon_time,1880-09-08,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1880&maxYear=1880
+LIBSRC-LIB57-ENT-DIS-0005736,magnitude_with_scale,7 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1880&maxYear=1880
+LIBSRC-LIB57-ENT-DIS-0005736,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1880&maxYear=1880
+LIBSRC-LIB57-ENT-DIS-0005736,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1880&maxYear=1880
+LIBSRC-LIB57-ENT-DIS-0005736,identity_label,1880 Gisborne Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1880&maxYear=1880
+LIBSRC-LIB57-ENT-DIS-0010176,location,CENTRAL CHILE,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2017&maxYear=2017
+LIBSRC-LIB57-ENT-DIS-0010176,phenomenon_time,2017-04-24,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2017&maxYear=2017
+LIBSRC-LIB57-ENT-DIS-0010176,magnitude_with_scale,6.9,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2017&maxYear=2017
+LIBSRC-LIB57-ENT-DIS-0010176,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2017&maxYear=2017
+LIBSRC-LIB57-ENT-DIS-0010176,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2017&maxYear=2017
+LIBSRC-LIB57-ENT-DIS-0010176,identity_label,2017 Central Chile Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2017&maxYear=2017
+LIBSRC-LIB57-ENT-DIS-0003868,location,"ALASKA:  CANTWELL, DENALI NATL PARK",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2002&maxYear=2002
+LIBSRC-LIB57-ENT-DIS-0003868,phenomenon_time,2002-10-23,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2002&maxYear=2002
+LIBSRC-LIB57-ENT-DIS-0003868,magnitude_with_scale,6.7 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2002&maxYear=2002
+LIBSRC-LIB57-ENT-DIS-0003868,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2002&maxYear=2002
+LIBSRC-LIB57-ENT-DIS-0003868,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2002&maxYear=2002
+LIBSRC-LIB57-ENT-DIS-0003868,identity_label,"2002 Cantwell, Denali Natl Park Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2002&maxYear=2002
+LIBSRC-LIB57-ENT-DIS-0001423,location,"ITALY:  CAMPANIA, POTENZA",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1857&maxYear=1857
+LIBSRC-LIB57-ENT-DIS-0001423,phenomenon_time,1857-12-16,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1857&maxYear=1857
+LIBSRC-LIB57-ENT-DIS-0001423,magnitude_with_scale,6.5,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1857&maxYear=1857
+LIBSRC-LIB57-ENT-DIS-0001423,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1857&maxYear=1857
+LIBSRC-LIB57-ENT-DIS-0001423,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1857&maxYear=1857
+LIBSRC-LIB57-ENT-DIS-0001423,identity_label,"1857 Campania, Potenza Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1857&maxYear=1857
+LIBSRC-LIB57-ENT-DIS-0009995,location,JAVA,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1852&maxYear=1852
+LIBSRC-LIB57-ENT-DIS-0009995,phenomenon_time,1852-01-09,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1852&maxYear=1852
+LIBSRC-LIB57-ENT-DIS-0009995,magnitude_with_scale,6.5,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1852&maxYear=1852
+LIBSRC-LIB57-ENT-DIS-0009995,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1852&maxYear=1852
+LIBSRC-LIB57-ENT-DIS-0009995,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1852&maxYear=1852
+LIBSRC-LIB57-ENT-DIS-0009995,identity_label,1852 Java Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1852&maxYear=1852
+LIBSRC-LIB57-ENT-DIS-0004385,location,CHILE:  VALLENAR,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1923&maxYear=1923
+LIBSRC-LIB57-ENT-DIS-0004385,phenomenon_time,1923-05-04,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1923&maxYear=1923
+LIBSRC-LIB57-ENT-DIS-0004385,magnitude_with_scale,7 Mb,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1923&maxYear=1923
+LIBSRC-LIB57-ENT-DIS-0004385,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1923&maxYear=1923
+LIBSRC-LIB57-ENT-DIS-0004385,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1923&maxYear=1923
+LIBSRC-LIB57-ENT-DIS-0004385,identity_label,1923 Vallenar Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1923&maxYear=1923
+LIBSRC-LIB57-ENT-DIS-0006459,location,VANUATU ISLANDS,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1994&maxYear=1994
+LIBSRC-LIB57-ENT-DIS-0006459,phenomenon_time,1994-07-13,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1994&maxYear=1994
+LIBSRC-LIB57-ENT-DIS-0006459,magnitude_with_scale,7.2 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1994&maxYear=1994
+LIBSRC-LIB57-ENT-DIS-0006459,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1994&maxYear=1994
+LIBSRC-LIB57-ENT-DIS-0006459,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1994&maxYear=1994
+LIBSRC-LIB57-ENT-DIS-0006459,identity_label,1994 Vanuatu Islands Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1994&maxYear=1994
+LIBSRC-LIB57-ENT-DIS-0001525,location,"TURKEY:  GULF OF KERAMOS, MENTESE",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1869&maxYear=1869
+LIBSRC-LIB57-ENT-DIS-0001525,phenomenon_time,1869-12-01,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1869&maxYear=1869
+LIBSRC-LIB57-ENT-DIS-0001525,magnitude_with_scale,7.5 Ms,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1869&maxYear=1869
+LIBSRC-LIB57-ENT-DIS-0001525,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1869&maxYear=1869
+LIBSRC-LIB57-ENT-DIS-0001525,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1869&maxYear=1869
+LIBSRC-LIB57-ENT-DIS-0001525,identity_label,"1869 Gulf Of Keramos, Mentese Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1869&maxYear=1869
+LIBSRC-LIB57-ENT-DIS-0008240,location,ALBANIAN COASTS,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1866&maxYear=1866
+LIBSRC-LIB57-ENT-DIS-0008240,phenomenon_time,1866-01-02,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1866&maxYear=1866
+LIBSRC-LIB57-ENT-DIS-0008240,magnitude_with_scale,6.6,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1866&maxYear=1866
+LIBSRC-LIB57-ENT-DIS-0008240,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1866&maxYear=1866
+LIBSRC-LIB57-ENT-DIS-0008240,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1866&maxYear=1866
+LIBSRC-LIB57-ENT-DIS-0008240,identity_label,1866 Albanian Coasts Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1866&maxYear=1866
+LIBSRC-LIB57-ENT-DIS-0000783,location,"MEXICO:  OAXACA,MEXICO CITY",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1682&maxYear=1682
+LIBSRC-LIB57-ENT-DIS-0000783,phenomenon_time,1682-03-19,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1682&maxYear=1682
+LIBSRC-LIB57-ENT-DIS-0000783,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1682&maxYear=1682
+LIBSRC-LIB57-ENT-DIS-0000783,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1682&maxYear=1682
+LIBSRC-LIB57-ENT-DIS-0000783,identity_label,"1682 Oaxaca, Mexico City Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1682&maxYear=1682
+LIBSRC-LIB57-ENT-DIS-0000787,location,CHINA:  SHANXI PROVINCE,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1683&maxYear=1683
+LIBSRC-LIB57-ENT-DIS-0000787,phenomenon_time,1683-11-22,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1683&maxYear=1683
+LIBSRC-LIB57-ENT-DIS-0000787,magnitude_with_scale,7 Ms,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1683&maxYear=1683
+LIBSRC-LIB57-ENT-DIS-0000787,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1683&maxYear=1683
+LIBSRC-LIB57-ENT-DIS-0000787,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1683&maxYear=1683
+LIBSRC-LIB57-ENT-DIS-0000787,identity_label,1683 Shanxi Province Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1683&maxYear=1683
+LIBSRC-LIB57-ENT-DIS-0001514,location,"COLOMBIA:  ROBADOR,SIMACOTA,BARICHARA DE CABRERA",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1868&maxYear=1868
+LIBSRC-LIB57-ENT-DIS-0001514,phenomenon_time,1868-12-31,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1868&maxYear=1868
+LIBSRC-LIB57-ENT-DIS-0001514,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1868&maxYear=1868
+LIBSRC-LIB57-ENT-DIS-0001514,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1868&maxYear=1868
+LIBSRC-LIB57-ENT-DIS-0001514,identity_label,"1868 Robador, Simacota, Barichara De Cabrera Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1868&maxYear=1868
+LIBSRC-LIB57-ENT-DIS-0008711,location,NORTHERN CHILE,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1928&maxYear=1928
+LIBSRC-LIB57-ENT-DIS-0008711,phenomenon_time,1928-03-31,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1928&maxYear=1928
+LIBSRC-LIB57-ENT-DIS-0008711,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1928&maxYear=1928
+LIBSRC-LIB57-ENT-DIS-0008711,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1928&maxYear=1928
+LIBSRC-LIB57-ENT-DIS-0008711,identity_label,1928 Northern Chile Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1928&maxYear=1928
+LIBSRC-LIB57-ENT-DIS-0001400,location,PHILIPPINES:  S LUZON,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1855&maxYear=1855
+LIBSRC-LIB57-ENT-DIS-0001400,phenomenon_time,1855-03-22,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1855&maxYear=1855
+LIBSRC-LIB57-ENT-DIS-0001400,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1855&maxYear=1855
+LIBSRC-LIB57-ENT-DIS-0001400,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1855&maxYear=1855
+LIBSRC-LIB57-ENT-DIS-0001400,identity_label,1855 S Luzon Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1855&maxYear=1855
+LIBSRC-LIB57-ENT-DIS-0004700,location,"INDIA:  ANDAMAN ISLANDS,  NICOBAR ISLANDS",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0004700,phenomenon_time,2005-07-24,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0004700,magnitude_with_scale,7.2 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0004700,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0004700,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0004700,identity_label,"2005 Andaman Islands, Nicobar Islands Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2005&maxYear=2005
+LIBSRC-LIB57-ENT-DIS-0010083,location,SE. NEW ZEALAND,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1858&maxYear=1858
+LIBSRC-LIB57-ENT-DIS-0010083,phenomenon_time,1858-09-15,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1858&maxYear=1858
+LIBSRC-LIB57-ENT-DIS-0010083,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1858&maxYear=1858
+LIBSRC-LIB57-ENT-DIS-0010083,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1858&maxYear=1858
+LIBSRC-LIB57-ENT-DIS-0010083,identity_label,1858 New Zealand Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1858&maxYear=1858
+LIBSRC-LIB57-ENT-DIS-0003373,location,"INDIA:  KASHMIR:  DHARMSALA,  LAHORE, PAKISTAN",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1986&maxYear=1986
+LIBSRC-LIB57-ENT-DIS-0003373,phenomenon_time,1986-04-26,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1986&maxYear=1986
+LIBSRC-LIB57-ENT-DIS-0003373,magnitude_with_scale,5.3 Mb,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1986&maxYear=1986
+LIBSRC-LIB57-ENT-DIS-0003373,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1986&maxYear=1986
+LIBSRC-LIB57-ENT-DIS-0003373,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1986&maxYear=1986
+LIBSRC-LIB57-ENT-DIS-0003373,identity_label,"1986 Dharmsala, Lahore, Pakistan Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1986&maxYear=1986
+LIBSRC-LIB57-ENT-DIS-0010523,location,W. LUZON ISLAND,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1990&maxYear=1990
+LIBSRC-LIB57-ENT-DIS-0010523,phenomenon_time,1990-07-16,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1990&maxYear=1990
+LIBSRC-LIB57-ENT-DIS-0010523,magnitude_with_scale,7.8,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1990&maxYear=1990
+LIBSRC-LIB57-ENT-DIS-0010523,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1990&maxYear=1990
+LIBSRC-LIB57-ENT-DIS-0010523,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1990&maxYear=1990
+LIBSRC-LIB57-ENT-DIS-0010523,identity_label,1990 W. Luzon Island Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1990&maxYear=1990
+LIBSRC-LIB57-ENT-DIS-0009546,location,LIVORNO,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1774&maxYear=1774
+LIBSRC-LIB57-ENT-DIS-0009546,phenomenon_time,1774-07-24,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1774&maxYear=1774
+LIBSRC-LIB57-ENT-DIS-0009546,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1774&maxYear=1774
+LIBSRC-LIB57-ENT-DIS-0009546,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1774&maxYear=1774
+LIBSRC-LIB57-ENT-DIS-0009546,identity_label,1774 Livorno Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1774&maxYear=1774
+LIBSRC-LIB57-ENT-DIS-0008530,location,S. MEXICO,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1907&maxYear=1907
+LIBSRC-LIB57-ENT-DIS-0008530,phenomenon_time,1907-04-14,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1907&maxYear=1907
+LIBSRC-LIB57-ENT-DIS-0008530,magnitude_with_scale,8.1,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1907&maxYear=1907
+LIBSRC-LIB57-ENT-DIS-0008530,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1907&maxYear=1907
+LIBSRC-LIB57-ENT-DIS-0008530,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1907&maxYear=1907
+LIBSRC-LIB57-ENT-DIS-0008530,identity_label,1907 S. Mexico Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1907&maxYear=1907
+LIBSRC-LIB57-ENT-DIS-0003072,location,RUSSIA:  DAGESTAN,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1975&maxYear=1975
+LIBSRC-LIB57-ENT-DIS-0003072,phenomenon_time,1975-01-09,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1975&maxYear=1975
+LIBSRC-LIB57-ENT-DIS-0003072,magnitude_with_scale,5.2 Mb,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1975&maxYear=1975
+LIBSRC-LIB57-ENT-DIS-0003072,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1975&maxYear=1975
+LIBSRC-LIB57-ENT-DIS-0003072,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1975&maxYear=1975
+LIBSRC-LIB57-ENT-DIS-0003072,identity_label,1975 Dagestan Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1975&maxYear=1975
+LIBSRC-LIB57-ENT-DIS-0001505,location,MEXICO:  GUANAJUATO,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1868&maxYear=1868
+LIBSRC-LIB57-ENT-DIS-0001505,phenomenon_time,1868-04-07,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1868&maxYear=1868
+LIBSRC-LIB57-ENT-DIS-0001505,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1868&maxYear=1868
+LIBSRC-LIB57-ENT-DIS-0001505,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1868&maxYear=1868
+LIBSRC-LIB57-ENT-DIS-0001505,identity_label,1868 Guanajuato Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1868&maxYear=1868
+LIBSRC-LIB57-ENT-DIS-0004035,location,AUSTRALIA:  MACQUARIE ISLAND,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0004035,phenomenon_time,2004-12-23,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0004035,magnitude_with_scale,8.1 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0004035,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0004035,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0004035,identity_label,2004 Macquarie Island Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0005201,location,CHINA:  SICHUAN PROVINCE,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1748&maxYear=1748
+LIBSRC-LIB57-ENT-DIS-0005201,phenomenon_time,1748-08-30,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1748&maxYear=1748
+LIBSRC-LIB57-ENT-DIS-0005201,magnitude_with_scale,6 Ms,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1748&maxYear=1748
+LIBSRC-LIB57-ENT-DIS-0005201,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1748&maxYear=1748
+LIBSRC-LIB57-ENT-DIS-0005201,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1748&maxYear=1748
+LIBSRC-LIB57-ENT-DIS-0005201,identity_label,1748 Sichuan Province Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1748&maxYear=1748
+LIBSRC-LIB57-ENT-DIS-0003339,location,"INDIA:  ASSAM, CACHAR DISTRICT",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1984&maxYear=1984
+LIBSRC-LIB57-ENT-DIS-0003339,phenomenon_time,1984-12-30,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1984&maxYear=1984
+LIBSRC-LIB57-ENT-DIS-0003339,magnitude_with_scale,5.6 Mb,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1984&maxYear=1984
+LIBSRC-LIB57-ENT-DIS-0003339,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1984&maxYear=1984
+LIBSRC-LIB57-ENT-DIS-0003339,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1984&maxYear=1984
+LIBSRC-LIB57-ENT-DIS-0003339,identity_label,"1984 Assam, Cachar District Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1984&maxYear=1984
+LIBSRC-LIB57-ENT-DIS-0003780,location,CHINA:  YUNNAN PROVINCE:  LIUKU; MYANMAR,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2000&maxYear=2000
+LIBSRC-LIB57-ENT-DIS-0003780,phenomenon_time,2000-06-07,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2000&maxYear=2000
+LIBSRC-LIB57-ENT-DIS-0003780,magnitude_with_scale,6.3 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2000&maxYear=2000
+LIBSRC-LIB57-ENT-DIS-0003780,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2000&maxYear=2000
+LIBSRC-LIB57-ENT-DIS-0003780,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2000&maxYear=2000
+LIBSRC-LIB57-ENT-DIS-0003780,identity_label,2000 Liuku; Myanmar Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2000&maxYear=2000
+LIBSRC-LIB57-ENT-DIS-0001119,location,"SPAIN: ALMERIA, DALIAS, ROQUETAS",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1804&maxYear=1804
+LIBSRC-LIB57-ENT-DIS-0001119,phenomenon_time,1804-08-25,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1804&maxYear=1804
+LIBSRC-LIB57-ENT-DIS-0001119,magnitude_with_scale,6.4 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1804&maxYear=1804
+LIBSRC-LIB57-ENT-DIS-0001119,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1804&maxYear=1804
+LIBSRC-LIB57-ENT-DIS-0001119,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1804&maxYear=1804
+LIBSRC-LIB57-ENT-DIS-0001119,identity_label,"1804 Almeria, Dalias, Roquetas Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1804&maxYear=1804
+LIBSRC-LIB57-ENT-DIS-0004208,location,INDONESIA:  JAVA:  GENTENG ISLAND,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1843&maxYear=1843
+LIBSRC-LIB57-ENT-DIS-0004208,phenomenon_time,1843-02-07,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1843&maxYear=1843
+LIBSRC-LIB57-ENT-DIS-0004208,magnitude_with_scale,6 Ms,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1843&maxYear=1843
+LIBSRC-LIB57-ENT-DIS-0004208,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1843&maxYear=1843
+LIBSRC-LIB57-ENT-DIS-0004208,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1843&maxYear=1843
+LIBSRC-LIB57-ENT-DIS-0004208,identity_label,1843 Genteng Island Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1843&maxYear=1843
+LIBSRC-LIB57-ENT-DIS-0005236,location,IRAN:  HORMOZGAN PROVINCE,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2008&maxYear=2008
+LIBSRC-LIB57-ENT-DIS-0005236,phenomenon_time,2008-09-10,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2008&maxYear=2008
+LIBSRC-LIB57-ENT-DIS-0005236,magnitude_with_scale,6.1 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2008&maxYear=2008
+LIBSRC-LIB57-ENT-DIS-0005236,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2008&maxYear=2008
+LIBSRC-LIB57-ENT-DIS-0005236,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2008&maxYear=2008
+LIBSRC-LIB57-ENT-DIS-0005236,identity_label,2008 Hormozgan Province Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2008&maxYear=2008
+LIBSRC-LIB57-ENT-DIS-0004432,location,ATLANTIC OCEAN:  NORTHERN,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1941&maxYear=1941
+LIBSRC-LIB57-ENT-DIS-0004432,phenomenon_time,1941-11-25,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1941&maxYear=1941
+LIBSRC-LIB57-ENT-DIS-0004432,magnitude_with_scale,7.8 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1941&maxYear=1941
+LIBSRC-LIB57-ENT-DIS-0004432,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1941&maxYear=1941
+LIBSRC-LIB57-ENT-DIS-0004432,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1941&maxYear=1941
+LIBSRC-LIB57-ENT-DIS-0004432,identity_label,1941 Northern Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1941&maxYear=1941
+LIBSRC-LIB57-ENT-DIS-0006001,location,CHINA:  SICHUAN PROVINCE:  LESHAN,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2015&maxYear=2015
+LIBSRC-LIB57-ENT-DIS-0006001,phenomenon_time,2015-01-14,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2015&maxYear=2015
+LIBSRC-LIB57-ENT-DIS-0006001,magnitude_with_scale,5.3 Mb,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2015&maxYear=2015
+LIBSRC-LIB57-ENT-DIS-0006001,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2015&maxYear=2015
+LIBSRC-LIB57-ENT-DIS-0006001,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2015&maxYear=2015
+LIBSRC-LIB57-ENT-DIS-0006001,identity_label,2015 Leshan Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2015&maxYear=2015
+LIBSRC-LIB57-ENT-DIS-0006347,location,BRAZIL: SAO PAULO,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1922&maxYear=1922
+LIBSRC-LIB57-ENT-DIS-0006347,phenomenon_time,1922-01-27,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1922&maxYear=1922
+LIBSRC-LIB57-ENT-DIS-0006347,magnitude_with_scale,5.1 Mb,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1922&maxYear=1922
+LIBSRC-LIB57-ENT-DIS-0006347,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1922&maxYear=1922
+LIBSRC-LIB57-ENT-DIS-0006347,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1922&maxYear=1922
+LIBSRC-LIB57-ENT-DIS-0006347,identity_label,1922 Sao Paulo Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1922&maxYear=1922
+LIBSRC-LIB57-ENT-DIS-0002261,location,"MEXICO:  OAXACA,COLIMA,PUEBLA,GUERRERO,MORELOS",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1928&maxYear=1928
+LIBSRC-LIB57-ENT-DIS-0002261,phenomenon_time,1928-02-10,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1928&maxYear=1928
+LIBSRC-LIB57-ENT-DIS-0002261,magnitude_with_scale,6.2 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1928&maxYear=1928
+LIBSRC-LIB57-ENT-DIS-0002261,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1928&maxYear=1928
+LIBSRC-LIB57-ENT-DIS-0002261,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1928&maxYear=1928
+LIBSRC-LIB57-ENT-DIS-0002261,identity_label,1928 Oaxaca Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1928&maxYear=1928
+LIBSRC-LIB57-ENT-DIS-0009719,location,CORINTH GULF,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1769&maxYear=1769
+LIBSRC-LIB57-ENT-DIS-0009719,phenomenon_time,1769,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1769&maxYear=1769
+LIBSRC-LIB57-ENT-DIS-0009719,magnitude_with_scale,6.5,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1769&maxYear=1769
+LIBSRC-LIB57-ENT-DIS-0009719,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1769&maxYear=1769
+LIBSRC-LIB57-ENT-DIS-0009719,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1769&maxYear=1769
+LIBSRC-LIB57-ENT-DIS-0009719,identity_label,1769 Corinth Gulf Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1769&maxYear=1769
+LIBSRC-LIB57-ENT-DIS-0010317,location,NORTH AEGEAN SEA,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0010317,phenomenon_time,2014-05-24,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0010317,magnitude_with_scale,6.9,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0010317,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0010317,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0010317,identity_label,2014 North Aegean Sea Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0007986,location,LA GUAIRA,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1812&maxYear=1812
+LIBSRC-LIB57-ENT-DIS-0007986,phenomenon_time,1812-03-26,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1812&maxYear=1812
+LIBSRC-LIB57-ENT-DIS-0007986,magnitude_with_scale,7.7,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1812&maxYear=1812
+LIBSRC-LIB57-ENT-DIS-0007986,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1812&maxYear=1812
+LIBSRC-LIB57-ENT-DIS-0007986,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1812&maxYear=1812
+LIBSRC-LIB57-ENT-DIS-0007986,identity_label,1812 La Guaira Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1812&maxYear=1812
+LIBSRC-LIB57-ENT-DIS-0001406,location,SWITZERLAND:  HAUT-VALAIS,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1855&maxYear=1855
+LIBSRC-LIB57-ENT-DIS-0001406,phenomenon_time,1855-07-25,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1855&maxYear=1855
+LIBSRC-LIB57-ENT-DIS-0001406,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1855&maxYear=1855
+LIBSRC-LIB57-ENT-DIS-0001406,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1855&maxYear=1855
+LIBSRC-LIB57-ENT-DIS-0001406,identity_label,1855 Haut-Valais Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1855&maxYear=1855
+LIBSRC-LIB57-ENT-DIS-0009383,location,"ATLANTIC CITY, NJ",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1931&maxYear=1931
+LIBSRC-LIB57-ENT-DIS-0009383,phenomenon_time,1931-08-19,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1931&maxYear=1931
+LIBSRC-LIB57-ENT-DIS-0009383,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1931&maxYear=1931
+LIBSRC-LIB57-ENT-DIS-0009383,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1931&maxYear=1931
+LIBSRC-LIB57-ENT-DIS-0009383,identity_label,"1931 Atlantic City, Nj Tsunami",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1931&maxYear=1931
+LIBSRC-LIB57-ENT-DIS-0001801,location,RUSSIA:  KURIL ISLANDS,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1900&maxYear=1900
+LIBSRC-LIB57-ENT-DIS-0001801,phenomenon_time,1900-12-25,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1900&maxYear=1900
+LIBSRC-LIB57-ENT-DIS-0001801,magnitude_with_scale,7.9,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1900&maxYear=1900
+LIBSRC-LIB57-ENT-DIS-0001801,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1900&maxYear=1900
+LIBSRC-LIB57-ENT-DIS-0001801,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1900&maxYear=1900
+LIBSRC-LIB57-ENT-DIS-0001801,identity_label,1900 Kuril Islands Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1900&maxYear=1900
+LIBSRC-LIB57-ENT-DIS-0000263,location,JAPAN:  ENSHUNADA,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1096&maxYear=1096
+LIBSRC-LIB57-ENT-DIS-0000263,phenomenon_time,1096-12-17,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1096&maxYear=1096
+LIBSRC-LIB57-ENT-DIS-0000263,magnitude_with_scale,8.4 Ms,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1096&maxYear=1096
+LIBSRC-LIB57-ENT-DIS-0000263,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1096&maxYear=1096
+LIBSRC-LIB57-ENT-DIS-0000263,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1096&maxYear=1096
+LIBSRC-LIB57-ENT-DIS-0000263,identity_label,1096 Enshunada Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1096&maxYear=1096
+LIBSRC-LIB57-ENT-DIS-0010459,location,PUERTO RICO,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1951&maxYear=1951
+LIBSRC-LIB57-ENT-DIS-0010459,phenomenon_time,1951-12-02,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1951&maxYear=1951
+LIBSRC-LIB57-ENT-DIS-0010459,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1951&maxYear=1951
+LIBSRC-LIB57-ENT-DIS-0010459,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1951&maxYear=1951
+LIBSRC-LIB57-ENT-DIS-0010459,identity_label,1951 Puerto Rico Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1951&maxYear=1951
+LIBSRC-LIB57-ENT-DIS-0000831,location,"ITALY:  CENTRAL APENNINO, NORCIA, L'AQUILA, PERUGIA",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1703&maxYear=1703
+LIBSRC-LIB57-ENT-DIS-0000831,phenomenon_time,1703-01-14,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1703&maxYear=1703
+LIBSRC-LIB57-ENT-DIS-0000831,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1703&maxYear=1703
+LIBSRC-LIB57-ENT-DIS-0000831,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1703&maxYear=1703
+LIBSRC-LIB57-ENT-DIS-0000831,identity_label,"1703 Central Apennino, Norcia, L'Aquila, Perugia Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1703&maxYear=1703
+LIBSRC-LIB57-ENT-DIS-0008638,location,BANDA SEA,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1922&maxYear=1922
+LIBSRC-LIB57-ENT-DIS-0008638,phenomenon_time,1922-02-22,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1922&maxYear=1922
+LIBSRC-LIB57-ENT-DIS-0008638,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1922&maxYear=1922
+LIBSRC-LIB57-ENT-DIS-0008638,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1922&maxYear=1922
+LIBSRC-LIB57-ENT-DIS-0008638,identity_label,1922 Banda Sea Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1922&maxYear=1922
+LIBSRC-LIB57-ENT-DIS-0010259,location,"NAGASAKI, JAPAN",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1979&maxYear=1979
+LIBSRC-LIB57-ENT-DIS-0010259,phenomenon_time,1979-03-31,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1979&maxYear=1979
+LIBSRC-LIB57-ENT-DIS-0010259,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1979&maxYear=1979
+LIBSRC-LIB57-ENT-DIS-0010259,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1979&maxYear=1979
+LIBSRC-LIB57-ENT-DIS-0010259,identity_label,"1979 Nagasaki, Japan Tsunami",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1979&maxYear=1979
+LIBSRC-LIB57-ENT-DIS-0004488,location,"INDONESIA:  JAVA:  LABUHAN, MENES, PONOROGO",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1963&maxYear=1963
+LIBSRC-LIB57-ENT-DIS-0004488,phenomenon_time,1963-12-16,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1963&maxYear=1963
+LIBSRC-LIB57-ENT-DIS-0004488,magnitude_with_scale,6.6 Ms,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1963&maxYear=1963
+LIBSRC-LIB57-ENT-DIS-0004488,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1963&maxYear=1963
+LIBSRC-LIB57-ENT-DIS-0004488,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1963&maxYear=1963
+LIBSRC-LIB57-ENT-DIS-0004488,identity_label,"1963 Labuhan, Menes, Ponorogo Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1963&maxYear=1963
+LIBSRC-LIB57-ENT-DIS-0000264,location,IRAN:  KHORASAN,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1101&maxYear=1101
+LIBSRC-LIB57-ENT-DIS-0000264,phenomenon_time,1101,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1101&maxYear=1101
+LIBSRC-LIB57-ENT-DIS-0000264,magnitude_with_scale,6.5,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1101&maxYear=1101
+LIBSRC-LIB57-ENT-DIS-0000264,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1101&maxYear=1101
+LIBSRC-LIB57-ENT-DIS-0000264,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1101&maxYear=1101
+LIBSRC-LIB57-ENT-DIS-0000264,identity_label,1101 Khorasan Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1101&maxYear=1101
+LIBSRC-LIB57-ENT-DIS-0004027,location,"ALGERIA:  NORTHERN:  ALGIERS, BOUMERDES",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0004027,phenomenon_time,2004-01-10,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0004027,magnitude_with_scale,4.4 Mb,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0004027,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0004027,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0004027,identity_label,2004 Northern Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2004&maxYear=2004
+LIBSRC-LIB57-ENT-DIS-0000636,location,INDIA:  BOMBAY,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1618&maxYear=1618
+LIBSRC-LIB57-ENT-DIS-0000636,phenomenon_time,1618-05-26,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1618&maxYear=1618
+LIBSRC-LIB57-ENT-DIS-0000636,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1618&maxYear=1618
+LIBSRC-LIB57-ENT-DIS-0000636,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1618&maxYear=1618
+LIBSRC-LIB57-ENT-DIS-0000636,identity_label,1618 Bombay Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1618&maxYear=1618
+LIBSRC-LIB57-ENT-DIS-0006112,location,TAIWAN:  TAIPEI,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2019&maxYear=2019
+LIBSRC-LIB57-ENT-DIS-0006112,phenomenon_time,2019-08-07,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2019&maxYear=2019
+LIBSRC-LIB57-ENT-DIS-0006112,magnitude_with_scale,5.9 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2019&maxYear=2019
+LIBSRC-LIB57-ENT-DIS-0006112,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2019&maxYear=2019
+LIBSRC-LIB57-ENT-DIS-0006112,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2019&maxYear=2019
+LIBSRC-LIB57-ENT-DIS-0006112,identity_label,2019 Taipei Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2019&maxYear=2019
+LIBSRC-LIB57-ENT-DIS-0006149,location,UTAH:  ELSINORE,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1921&maxYear=1921
+LIBSRC-LIB57-ENT-DIS-0006149,phenomenon_time,1921-09-29,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1921&maxYear=1921
+LIBSRC-LIB57-ENT-DIS-0006149,magnitude_with_scale,5.2,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1921&maxYear=1921
+LIBSRC-LIB57-ENT-DIS-0006149,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1921&maxYear=1921
+LIBSRC-LIB57-ENT-DIS-0006149,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1921&maxYear=1921
+LIBSRC-LIB57-ENT-DIS-0006149,identity_label,1921 Elsinore Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1921&maxYear=1921
+LIBSRC-LIB57-ENT-DIS-0005794,location,"CHINA:  YUNNAN:  LUDIAN:   LONGTOUSHAN, ZHAOTONG",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0005794,phenomenon_time,2014-08-03,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0005794,magnitude_with_scale,6.2 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0005794,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0005794,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0005794,identity_label,"2014 Longtoushan, Zhaotong Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=2014&maxYear=2014
+LIBSRC-LIB57-ENT-DIS-0001876,location,JAPAN:  AKI,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1905&maxYear=1905
+LIBSRC-LIB57-ENT-DIS-0001876,phenomenon_time,1905-06-02,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1905&maxYear=1905
+LIBSRC-LIB57-ENT-DIS-0001876,magnitude_with_scale,7.8 Ms,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1905&maxYear=1905
+LIBSRC-LIB57-ENT-DIS-0001876,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1905&maxYear=1905
+LIBSRC-LIB57-ENT-DIS-0001876,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1905&maxYear=1905
+LIBSRC-LIB57-ENT-DIS-0001876,identity_label,1905 Aki Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1905&maxYear=1905
+LIBSRC-LIB57-ENT-DIS-0006179,location,CHINA:  TIBET (XIZANG PROVINCE):  SHANNAN (LHOKA),https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1806&maxYear=1806
+LIBSRC-LIB57-ENT-DIS-0006179,phenomenon_time,1806-06-11,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1806&maxYear=1806
+LIBSRC-LIB57-ENT-DIS-0006179,magnitude_with_scale,7.7 Ms,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1806&maxYear=1806
+LIBSRC-LIB57-ENT-DIS-0006179,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1806&maxYear=1806
+LIBSRC-LIB57-ENT-DIS-0006179,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1806&maxYear=1806
+LIBSRC-LIB57-ENT-DIS-0006179,identity_label,1806 Shannan (Lhoka) Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1806&maxYear=1806
+LIBSRC-LIB57-ENT-DIS-0001692,location,"PHILIPPINES:  BATAN ISLAND,SAN DOMINGO",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1892&maxYear=1892
+LIBSRC-LIB57-ENT-DIS-0001692,phenomenon_time,1892-03-08,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1892&maxYear=1892
+LIBSRC-LIB57-ENT-DIS-0001692,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1892&maxYear=1892
+LIBSRC-LIB57-ENT-DIS-0001692,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1892&maxYear=1892
+LIBSRC-LIB57-ENT-DIS-0001692,identity_label,"1892 Batan Island, San Domingo Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1892&maxYear=1892
+LIBSRC-LIB57-ENT-DIS-0008653,location,KAMCHATKA,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1923&maxYear=1923
+LIBSRC-LIB57-ENT-DIS-0008653,phenomenon_time,1923-02-03,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1923&maxYear=1923
+LIBSRC-LIB57-ENT-DIS-0008653,magnitude_with_scale,8.4,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1923&maxYear=1923
+LIBSRC-LIB57-ENT-DIS-0008653,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1923&maxYear=1923
+LIBSRC-LIB57-ENT-DIS-0008653,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1923&maxYear=1923
+LIBSRC-LIB57-ENT-DIS-0008653,identity_label,1923 Kamchatka Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1923&maxYear=1923
+LIBSRC-LIB57-ENT-DIS-0003759,location,CHINA:  SHANXI:  NORTHEASTERN,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1999&maxYear=1999
+LIBSRC-LIB57-ENT-DIS-0003759,phenomenon_time,1999-11-01,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1999&maxYear=1999
+LIBSRC-LIB57-ENT-DIS-0003759,magnitude_with_scale,5.3 Mw,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1999&maxYear=1999
+LIBSRC-LIB57-ENT-DIS-0003759,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1999&maxYear=1999
+LIBSRC-LIB57-ENT-DIS-0003759,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1999&maxYear=1999
+LIBSRC-LIB57-ENT-DIS-0003759,identity_label,1999 Northeastern Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1999&maxYear=1999
+LIBSRC-LIB57-ENT-DIS-0009500,location,LIGURIA-COTE D'AZUR,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1564&maxYear=1564
+LIBSRC-LIB57-ENT-DIS-0009500,phenomenon_time,1564-07-20,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1564&maxYear=1564
+LIBSRC-LIB57-ENT-DIS-0009500,magnitude_with_scale,5.8,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1564&maxYear=1564
+LIBSRC-LIB57-ENT-DIS-0009500,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1564&maxYear=1564
+LIBSRC-LIB57-ENT-DIS-0009500,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1564&maxYear=1564
+LIBSRC-LIB57-ENT-DIS-0009500,identity_label,1564 Liguria-Cote D'Azur Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1564&maxYear=1564
+LIBSRC-LIB57-ENT-DIS-0003186,location,"PAPUA NEW GUINEA:  E, MT HAGEN",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1979&maxYear=1979
+LIBSRC-LIB57-ENT-DIS-0003186,phenomenon_time,1979-06-25,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1979&maxYear=1979
+LIBSRC-LIB57-ENT-DIS-0003186,magnitude_with_scale,6.2 Mb,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1979&maxYear=1979
+LIBSRC-LIB57-ENT-DIS-0003186,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1979&maxYear=1979
+LIBSRC-LIB57-ENT-DIS-0003186,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1979&maxYear=1979
+LIBSRC-LIB57-ENT-DIS-0003186,identity_label,1979 Mt Hagen Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1979&maxYear=1979
+LIBSRC-LIB57-ENT-DIS-0010343,location,BALI SEA,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2018&maxYear=2018
+LIBSRC-LIB57-ENT-DIS-0010343,phenomenon_time,2018-08-05,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2018&maxYear=2018
+LIBSRC-LIB57-ENT-DIS-0010343,magnitude_with_scale,6.9,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2018&maxYear=2018
+LIBSRC-LIB57-ENT-DIS-0010343,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2018&maxYear=2018
+LIBSRC-LIB57-ENT-DIS-0010343,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2018&maxYear=2018
+LIBSRC-LIB57-ENT-DIS-0010343,identity_label,2018 Bali Sea Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2018&maxYear=2018
+LIBSRC-LIB57-ENT-DIS-0002465,location,CHINA:  HEILONGJIANG PROVINCE,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1941&maxYear=1941
+LIBSRC-LIB57-ENT-DIS-0002465,phenomenon_time,1941-05-05,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1941&maxYear=1941
+LIBSRC-LIB57-ENT-DIS-0002465,magnitude_with_scale,6 Ms,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1941&maxYear=1941
+LIBSRC-LIB57-ENT-DIS-0002465,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1941&maxYear=1941
+LIBSRC-LIB57-ENT-DIS-0002465,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1941&maxYear=1941
+LIBSRC-LIB57-ENT-DIS-0002465,identity_label,1941 Heilongjiang Province Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1941&maxYear=1941
+LIBSRC-LIB57-ENT-DIS-0001012,location,"JAMAICA:  PORT ROYAL,KINGSTON",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1771&maxYear=1771
+LIBSRC-LIB57-ENT-DIS-0001012,phenomenon_time,1771-09-03,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1771&maxYear=1771
+LIBSRC-LIB57-ENT-DIS-0001012,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1771&maxYear=1771
+LIBSRC-LIB57-ENT-DIS-0001012,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1771&maxYear=1771
+LIBSRC-LIB57-ENT-DIS-0001012,identity_label,"1771 Port Royal, Kingston Earthquake",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1771&maxYear=1771
+LIBSRC-LIB57-ENT-DIS-0008397,location,IONIAN SEA,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1886&maxYear=1886
+LIBSRC-LIB57-ENT-DIS-0008397,phenomenon_time,1886-08-27,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1886&maxYear=1886
+LIBSRC-LIB57-ENT-DIS-0008397,magnitude_with_scale,6.8,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1886&maxYear=1886
+LIBSRC-LIB57-ENT-DIS-0008397,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1886&maxYear=1886
+LIBSRC-LIB57-ENT-DIS-0008397,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1886&maxYear=1886
+LIBSRC-LIB57-ENT-DIS-0008397,identity_label,1886 Ionian Sea Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=1886&maxYear=1886
+LIBSRC-LIB57-ENT-DIS-0010405,location,"S OF RAOUL ISLAND, KERMADEC ISLANDS",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2023&maxYear=2023
+LIBSRC-LIB57-ENT-DIS-0010405,phenomenon_time,2023-04-24,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2023&maxYear=2023
+LIBSRC-LIB57-ENT-DIS-0010405,magnitude_with_scale,7.1,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2023&maxYear=2023
+LIBSRC-LIB57-ENT-DIS-0010405,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2023&maxYear=2023
+LIBSRC-LIB57-ENT-DIS-0010405,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2023&maxYear=2023
+LIBSRC-LIB57-ENT-DIS-0010405,identity_label,"2023 S Of Raoul Island, Kermadec Islands Tsunami",https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2023&maxYear=2023
+LIBSRC-LIB57-ENT-DIS-0010221,location,KERCH STRAIT,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2000&maxYear=2000
+LIBSRC-LIB57-ENT-DIS-0010221,phenomenon_time,2000-07-08,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2000&maxYear=2000
+LIBSRC-LIB57-ENT-DIS-0010221,event_type,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2000&maxYear=2000
+LIBSRC-LIB57-ENT-DIS-0010221,descriptive_identity,Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2000&maxYear=2000
+LIBSRC-LIB57-ENT-DIS-0010221,identity_label,2000 Kerch Strait Tsunami,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=2000&maxYear=2000
+LIBSRC-LIB57-ENT-DIS-0005271,location,SPAIN:  OFF SOUTHERN COAST,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1930&maxYear=1930
+LIBSRC-LIB57-ENT-DIS-0005271,phenomenon_time,1930-02-16,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1930&maxYear=1930
+LIBSRC-LIB57-ENT-DIS-0005271,event_type,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1930&maxYear=1930
+LIBSRC-LIB57-ENT-DIS-0005271,descriptive_identity,Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1930&maxYear=1930
+LIBSRC-LIB57-ENT-DIS-0005271,identity_label,1930 Off Southern Coast Earthquake,https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes?minYear=1930&maxYear=1930
