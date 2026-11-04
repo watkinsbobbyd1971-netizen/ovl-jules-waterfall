@@ -1,0 +1,2 @@
+Attempted NHTSA API but was blocked by Akamai WAF (HTTP 403).
+Used Wikidata SPARQL endpoint matching subjects (stripping model year when present) and extracting manufacturer_or_creator, mass, dimension_length, and propulsion_type.
