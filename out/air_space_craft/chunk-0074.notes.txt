@@ -1,0 +1,4 @@
+Searched Wikidata and general web sources for the subjects (e.g., "Bienias, Kurt", "Bock, Hans", "Eggstein, Hans Joachim", "Flieger, Brigitte").
+The subjects appear to be people, which is clearly mismatched with the category 'air_space_craft' which expects aerospace vehicles, aircraft, satellites, etc.
+No verifiable values can be found for the required columns (e.g., dimension_length, span, manufacturer_or_creator) as these subjects do not correspond to the category.
+Therefore, submitting an empty batch file.
