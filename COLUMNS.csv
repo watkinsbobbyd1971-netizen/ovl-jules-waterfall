@@ -1,0 +1,10 @@
+column_name,data_type,unit,description
+descriptive_identity,JSON,,value types: string
+duration,JSON,s,value types: number
+event_identity,JSON,,value types: string
+event_observation_verbatim,JSON,,value types: string
+event_type,JSON,,value types: string
+identity_label,JSON,,value types: string
+location,JSON,,value types: string
+magnitude_with_scale,JSON,,value types: string
+phenomenon_time,JSON,,value types: string
