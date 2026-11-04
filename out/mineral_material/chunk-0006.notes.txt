@@ -1,0 +1,1 @@
+Extensively checked Wikidata, Met Museum API, Smithsonian anthropology web searches and Europeana for exact items from the list, specifically items mapped by identifiers like HOP/REC or by string 'Petaloid Celt', 'Banner Stone'. No exact public dataset matches existed that matched our exact identifiers. Therefore, we output an empty set per the instructions.
