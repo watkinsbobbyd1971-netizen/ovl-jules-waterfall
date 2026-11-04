@@ -1,0 +1,116 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB36-ENT-WRD-0030375,descriptive_identity,"""part of the male reproductive system of many vertebrates""",http://www.wikidata.org/entity/Q735505
+LIBSRC-LIB36-ENT-WRD-0029328,descriptive_identity,"""epithelial lining of the ventricular system of the brain and the central canal of the spinal cord, made up of ependymal cells""",http://www.wikidata.org/entity/Q1134467
+LIBSRC-LIB36-ENT-WRD-0029328,anatomical_relationship,"""ventricular system""",http://www.wikidata.org/entity/Q1134467
+LIBSRC-LIB36-ENT-WRD-0029328,tissue_identity,"""ependymal cell""",http://www.wikidata.org/entity/Q1134467
+LIBSRC-LIB36-ENT-WRD-0007262,descriptive_identity,"""cell produced by merogony""",http://www.wikidata.org/entity/Q2296434
+LIBSRC-LIB36-ENT-WRD-0007262,anatomical_identity,"""cell type""",http://www.wikidata.org/entity/Q2296434
+LIBSRC-LIB36-ENT-WRD-0041557,descriptive_identity,"""part of chicken offal""",http://www.wikidata.org/entity/Q67210929
+LIBSRC-LIB36-ENT-WRD-0076911,descriptive_identity,"""area of fibrous tissue that replaces normal skin after an injury""",http://www.wikidata.org/entity/Q206060
+LIBSRC-LIB36-ENT-WRD-0029844,descriptive_identity,"""tubular structure which carries blood""",http://www.wikidata.org/entity/Q988343
+LIBSRC-LIB36-ENT-WRD-0029844,anatomical_relationship,"""circulatory system""",http://www.wikidata.org/entity/Q988343
+LIBSRC-LIB36-ENT-WRD-0029615,descriptive_identity,"""veins which return blood from the intestines""",http://www.wikidata.org/entity/Q1466317
+LIBSRC-LIB36-ENT-WRD-0029615,anatomical_identity,"""vein""",http://www.wikidata.org/entity/Q1466317
+LIBSRC-LIB36-ENT-WRD-0029615,anatomical_relationship,"""hepatic portal system""",http://www.wikidata.org/entity/Q1466317
+LIBSRC-LIB36-ENT-WRD-0056366,descriptive_identity,"""seed from Arachis hypogaea""",http://www.wikidata.org/entity/Q3621199
+LIBSRC-LIB36-ENT-WRD-0056366,anatomical_identity,"""food ingredient""",http://www.wikidata.org/entity/Q3621199
+LIBSRC-LIB36-ENT-WRD-0029629,descriptive_identity,"""blood vessels""",http://www.wikidata.org/entity/Q4116714
+LIBSRC-LIB36-ENT-WRD-0065976,descriptive_identity,"""type of wood""",http://www.wikidata.org/entity/Q124328732
+LIBSRC-LIB36-ENT-WRD-0065976,anatomical_identity,"""type of wood""",http://www.wikidata.org/entity/Q124328732
+LIBSRC-LIB36-ENT-WRD-0041607,descriptive_identity,"""type of bone, whose principal function is either extensive protection or the provision of broad surfaces for muscular attachment""",http://www.wikidata.org/entity/Q928150
+LIBSRC-LIB36-ENT-WRD-0041607,anatomical_identity,"""class of anatomical entity""",http://www.wikidata.org/entity/Q928150
+LIBSRC-LIB36-ENT-WRD-0041607,anatomical_relationship,"""bone""",http://www.wikidata.org/entity/Q928150
+LIBSRC-LIB36-ENT-WRD-0029678,descriptive_identity,"""blood vessel""",http://www.wikidata.org/entity/Q6841702
+LIBSRC-LIB36-ENT-WRD-0029678,anatomical_identity,"""vein""",http://www.wikidata.org/entity/Q6841702
+LIBSRC-LIB36-ENT-WRD-0027468,descriptive_identity,"""rigid organ that constitutes part of the endoskeleton of vertebrates""",http://www.wikidata.org/entity/Q265868
+LIBSRC-LIB36-ENT-WRD-0027468,anatomical_relationship,"""skeleton""",http://www.wikidata.org/entity/Q265868
+LIBSRC-LIB36-ENT-WRD-0030278,descriptive_identity,"""Network of nerves in the neck""",http://www.wikidata.org/entity/Q921815
+LIBSRC-LIB36-ENT-WRD-0030278,anatomical_identity,"""class of anatomical entity""",http://www.wikidata.org/entity/Q921815
+LIBSRC-LIB36-ENT-WRD-0078988,descriptive_identity,"""small, hard, dry seed used as food; may be ground into flour""",http://www.wikidata.org/entity/Q2995529
+LIBSRC-LIB36-ENT-WRD-0078988,anatomical_identity,"""type of food or dish""",http://www.wikidata.org/entity/Q2995529
+LIBSRC-LIB36-ENT-WRD-0078988,anatomical_relationship,"""wild food""",http://www.wikidata.org/entity/Q2995529
+LIBSRC-LIB36-ENT-WRD-0076968,descriptive_identity,"""sclerotized projection in male spiders' and some other arachnids' copulatory organs (located in pedipalps) that serves to transfer sperm into the female's reproductive tract during mating""",http://www.wikidata.org/entity/Q2416409
+LIBSRC-LIB36-ENT-WRD-0076968,anatomical_identity,"""anatomical structure""",http://www.wikidata.org/entity/Q2416409
+LIBSRC-LIB36-ENT-WRD-0076968,anatomical_relationship,"""bulbus""",http://www.wikidata.org/entity/Q2416409
+LIBSRC-LIB36-ENT-WRD-0030020,descriptive_identity,"""cell type""",http://www.wikidata.org/entity/Q66590834
+LIBSRC-LIB36-ENT-WRD-0030020,anatomical_identity,"""cell type""",http://www.wikidata.org/entity/Q66590834
+LIBSRC-LIB36-ENT-WRD-0029705,descriptive_identity,"""inner organ for the circulation of blood""",http://www.wikidata.org/entity/Q1072
+LIBSRC-LIB36-ENT-WRD-0029705,anatomical_relationship,"""circulatory system""",http://www.wikidata.org/entity/Q1072
+LIBSRC-LIB36-ENT-WRD-0068084,descriptive_identity,"""fruit of the clementine tree, Citrinos × clementina""",http://www.wikidata.org/entity/Q104122554
+LIBSRC-LIB36-ENT-WRD-0068084,anatomical_identity,"""fruit""",http://www.wikidata.org/entity/Q104122554
+LIBSRC-LIB36-ENT-WRD-0029195,descriptive_identity,"""muscle that moves part of the body in the opposite direction from another muscle""",http://www.wikidata.org/entity/Q570587
+LIBSRC-LIB36-ENT-WRD-0029195,anatomical_relationship,"""antagonistic pair""",http://www.wikidata.org/entity/Q570587
+LIBSRC-LIB36-ENT-WRD-0029494,descriptive_identity,"""artery of the thorax""",http://www.wikidata.org/entity/Q664446
+LIBSRC-LIB36-ENT-WRD-0029494,anatomical_identity,"""class of anatomical entity""",http://www.wikidata.org/entity/Q664446
+LIBSRC-LIB36-ENT-WRD-0030518,descriptive_identity,"""part of the breast""",http://www.wikidata.org/entity/Q188641
+LIBSRC-LIB36-ENT-WRD-0028944,descriptive_identity,"""an opening in the body that can be permanent or temporary""",http://www.wikidata.org/entity/Q911690
+LIBSRC-LIB36-ENT-WRD-0028944,anatomical_identity,"""class of anatomical entity""",http://www.wikidata.org/entity/Q911690
+LIBSRC-LIB36-ENT-WRD-0029206,descriptive_identity,"""type of tissue that connects bones to other bones""",http://www.wikidata.org/entity/Q39888
+LIBSRC-LIB36-ENT-WRD-0029206,anatomical_identity,"""class of anatomical entity""",http://www.wikidata.org/entity/Q39888
+LIBSRC-LIB36-ENT-WRD-0029433,descriptive_identity,"""one of the three major paired arteries that supply blood to the cerebrum""",http://www.wikidata.org/entity/Q498179
+LIBSRC-LIB36-ENT-WRD-0029433,anatomical_relationship,"""set of all arteries""",http://www.wikidata.org/entity/Q498179
+LIBSRC-LIB36-ENT-WRD-0030115,descriptive_identity,"""Round prominence at the end of a bone""",http://www.wikidata.org/entity/Q978198
+LIBSRC-LIB36-ENT-WRD-0030115,anatomical_identity,"""class of anatomical entity""",http://www.wikidata.org/entity/Q978198
+LIBSRC-LIB36-ENT-WRD-0030115,anatomical_relationship,"""bone""",http://www.wikidata.org/entity/Q978198
+LIBSRC-LIB36-ENT-WRD-0056209,descriptive_identity,"""person supplying living tissue, organs, cells or blood components for transfer or transplantation to histocompatible recipients""",http://www.wikidata.org/entity/Q65982613
+LIBSRC-LIB36-ENT-WRD-0030180,descriptive_identity,"""boundary between the anterior and posterior lobes of the pituitary""",http://www.wikidata.org/entity/Q1433379
+LIBSRC-LIB36-ENT-WRD-0030180,anatomical_identity,"""class of anatomical entity""",http://www.wikidata.org/entity/Q1433379
+LIBSRC-LIB36-ENT-WRD-0029592,descriptive_identity,"""blood vessels connecting the thigh veins to the pelvis""",http://www.wikidata.org/entity/Q3090687
+LIBSRC-LIB36-ENT-WRD-0028921,anatomical_identity,"""cell type""",http://www.wikidata.org/entity/Q66562846
+LIBSRC-LIB36-ENT-WRD-0030515,descriptive_identity,"""structures which carry milk toward the nipple in a lactating female""",http://www.wikidata.org/entity/Q2658295
+LIBSRC-LIB36-ENT-WRD-0030515,anatomical_identity,"""class of anatomical entity""",http://www.wikidata.org/entity/Q2658295
+LIBSRC-LIB36-ENT-WRD-0030475,descriptive_identity,"""opposable articulated structure at the entrance of the mouth""",http://www.wikidata.org/entity/Q180284
+LIBSRC-LIB36-ENT-WRD-0030475,anatomical_relationship,"""mouth""",http://www.wikidata.org/entity/Q180284
+LIBSRC-LIB36-ENT-WRD-0029389,descriptive_identity,"""upper, dilated end of the nasolacrimal duct""",http://www.wikidata.org/entity/Q2517379
+LIBSRC-LIB36-ENT-WRD-0029389,anatomical_identity,"""class of anatomical entity""",http://www.wikidata.org/entity/Q2517379
+LIBSRC-LIB36-ENT-WRD-0029996,descriptive_identity,"""young cell of the granulocytic series""",http://www.wikidata.org/entity/Q3270846
+LIBSRC-LIB36-ENT-WRD-0029996,anatomical_identity,"""cell type""",http://www.wikidata.org/entity/Q3270846
+LIBSRC-LIB36-ENT-WRD-0029456,descriptive_identity,"""artery in the popliteal fossa, originating from the femoral artery and branching into the common tibial artery and the fibular artery""",http://www.wikidata.org/entity/Q707468
+LIBSRC-LIB36-ENT-WRD-0030428,descriptive_identity,"""the part of the colon from the splenic flexure to the beginning of the sigmoid colon""",http://www.wikidata.org/entity/Q2562565
+LIBSRC-LIB36-ENT-WRD-0030428,anatomical_identity,"""class of anatomical entity""",http://www.wikidata.org/entity/Q2562565
+LIBSRC-LIB36-ENT-WRD-0030428,anatomical_relationship,"""colon""",http://www.wikidata.org/entity/Q2562565
+LIBSRC-LIB36-ENT-WRD-0029903,descriptive_identity,"""tumor cell""",http://www.wikidata.org/entity/Q4118072
+LIBSRC-LIB36-ENT-WRD-0029903,anatomical_identity,"""cell type""",http://www.wikidata.org/entity/Q4118072
+LIBSRC-LIB36-ENT-WRD-0029903,anatomical_relationship,"""cancer""",http://www.wikidata.org/entity/Q4118072
+LIBSRC-LIB36-ENT-WRD-0029338,descriptive_identity,"""bony structure of the inner ear""",http://www.wikidata.org/entity/Q262489
+LIBSRC-LIB36-ENT-WRD-0030669,descriptive_identity,"""subclass of scar""",http://www.wikidata.org/entity/Q1967871
+LIBSRC-LIB36-ENT-WRD-0030544,descriptive_identity,"""cheeks of the buttocks""",http://www.wikidata.org/entity/Q66516547
+LIBSRC-LIB36-ENT-WRD-0030544,anatomical_relationship,"""buttocks""",http://www.wikidata.org/entity/Q66516547
+LIBSRC-LIB36-ENT-WRD-0033802,descriptive_identity,"""main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk""",http://www.wikidata.org/entity/Q33971
+LIBSRC-LIB36-ENT-WRD-0033802,anatomical_identity,"""plant structure""",http://www.wikidata.org/entity/Q33971
+LIBSRC-LIB36-ENT-WRD-0029637,descriptive_identity,"""large leg vein""",http://www.wikidata.org/entity/Q2746562
+LIBSRC-LIB36-ENT-WRD-0059444,descriptive_identity,"""mango cultivar""",http://www.wikidata.org/entity/Q5341428
+LIBSRC-LIB36-ENT-WRD-0059444,anatomical_identity,"""mango cultivar""",http://www.wikidata.org/entity/Q5341428
+LIBSRC-LIB36-ENT-WRD-0014633,descriptive_identity,"""blood vessel that carries oxygenated blood away from the heart to other organs rather than lungs""",http://www.wikidata.org/entity/Q9655
+LIBSRC-LIB36-ENT-WRD-0014633,anatomical_relationship,"""blood vessel""",http://www.wikidata.org/entity/Q9655
+LIBSRC-LIB36-ENT-WRD-0030571,descriptive_identity,"""part of a limb, such as fingers or toes, present in many vertebrates""",http://www.wikidata.org/entity/Q34583
+LIBSRC-LIB36-ENT-WRD-0028851,descriptive_identity,"""neural pathway in the visual system""",http://www.wikidata.org/entity/Q2511666
+LIBSRC-LIB36-ENT-WRD-0028851,anatomical_identity,"""class of anatomical entity""",http://www.wikidata.org/entity/Q2511666
+LIBSRC-LIB36-ENT-WRD-0030537,descriptive_identity,"""muscle of the abdominal area""",http://www.wikidata.org/entity/Q1427665
+LIBSRC-LIB36-ENT-WRD-0030537,anatomical_relationship,"""muscle of abdomen""",http://www.wikidata.org/entity/Q1427665
+LIBSRC-LIB36-ENT-WRD-0029979,descriptive_identity,"""organized cell-level biological structure of distinctive morphology and function""",http://www.wikidata.org/entity/Q45948
+LIBSRC-LIB36-ENT-WRD-0029979,anatomical_identity,"""cellular component""",http://www.wikidata.org/entity/Q45948
+LIBSRC-LIB36-ENT-WRD-0030685,descriptive_identity,"""the portion of the skeleton of vertebrates consisting of the bones or cartilage that support the appendages""",http://www.wikidata.org/entity/Q681698
+LIBSRC-LIB36-ENT-WRD-0030685,anatomical_identity,"""class of anatomical entity""",http://www.wikidata.org/entity/Q681698
+LIBSRC-LIB36-ENT-WRD-0030685,anatomical_relationship,"""human skeleton""",http://www.wikidata.org/entity/Q681698
+LIBSRC-LIB36-ENT-WRD-0030386,descriptive_identity,"""type of lung commonly found in arachnids""",http://www.wikidata.org/entity/Q998676
+LIBSRC-LIB36-ENT-WRD-0063214,descriptive_identity,"""the mother cell in an asymetric cell division""",http://www.wikidata.org/entity/Q2045583
+LIBSRC-LIB36-ENT-WRD-0063214,anatomical_identity,"""cell type""",http://www.wikidata.org/entity/Q2045583
+LIBSRC-LIB36-ENT-WRD-0029286,descriptive_identity,"""organ that detects light and converts it into electro-chemical impulses in neurons""",http://www.wikidata.org/entity/Q7364
+LIBSRC-LIB36-ENT-WRD-0029286,anatomical_relationship,"""visual system""",http://www.wikidata.org/entity/Q7364
+LIBSRC-LIB36-ENT-WRD-0030749,descriptive_identity,"""facial feature""",http://www.wikidata.org/entity/Q82714
+LIBSRC-LIB36-ENT-WRD-0030749,anatomical_identity,"""class of anatomical entity""",http://www.wikidata.org/entity/Q82714
+LIBSRC-LIB36-ENT-WRD-0030749,anatomical_relationship,"""face""",http://www.wikidata.org/entity/Q82714
+LIBSRC-LIB36-ENT-WRD-0029418,descriptive_identity,"""large forearm artery""",http://www.wikidata.org/entity/Q662857
+LIBSRC-LIB36-ENT-WRD-0029418,anatomical_relationship,"""set of all arteries""",http://www.wikidata.org/entity/Q662857
+LIBSRC-LIB36-ENT-WRD-0062906,descriptive_identity,"""type of wood""",http://www.wikidata.org/entity/Q2046308
+LIBSRC-LIB36-ENT-WRD-0062906,anatomical_identity,"""type of wood""",http://www.wikidata.org/entity/Q2046308
+LIBSRC-LIB36-ENT-WRD-0030159,descriptive_identity,"""11th cranial nerve""",http://www.wikidata.org/entity/Q271987
+LIBSRC-LIB36-ENT-WRD-0013055,descriptive_identity,"""joint found in horses""",http://www.wikidata.org/entity/Q5445965
+LIBSRC-LIB36-ENT-WRD-0030053,descriptive_identity,"""eukaryotic germ cell""",http://www.wikidata.org/entity/Q3319949
+LIBSRC-LIB36-ENT-WRD-0030053,anatomical_identity,"""cell type""",http://www.wikidata.org/entity/Q3319949
+LIBSRC-LIB36-ENT-WRD-0029673,descriptive_identity,"""blood vessel""",http://www.wikidata.org/entity/Q7643678
+LIBSRC-LIB36-ENT-WRD-0029673,anatomical_identity,"""vein""",http://www.wikidata.org/entity/Q7643678
+LIBSRC-LIB36-ENT-WRD-0030110,descriptive_identity,"""neuron projection that conducts a nerve impulse towards the axon or the cell body""",http://www.wikidata.org/entity/Q12821248
+LIBSRC-LIB36-ENT-WRD-0030110,anatomical_identity,"""cellular component""",http://www.wikidata.org/entity/Q12821248
+LIBSRC-LIB36-ENT-WRD-0030110,anatomical_relationship,"""dendritic tree""",http://www.wikidata.org/entity/Q12821248
