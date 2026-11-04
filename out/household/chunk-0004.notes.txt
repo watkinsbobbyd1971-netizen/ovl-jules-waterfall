@@ -1,0 +1,3 @@
+Attempted to source values for the subjects using the Smithsonian Open Access API.
+However, the API requests using the default 'DEMO_KEY' are severely rate-limited and returned 'OVER_RATE_LIMIT' errors.
+Thus, no values could be sourced and an empty results file was generated.
