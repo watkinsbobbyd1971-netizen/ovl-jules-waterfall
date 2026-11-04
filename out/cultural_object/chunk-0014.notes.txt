@@ -1,0 +1,1 @@
+Smithsonian subjects detected. Smithsonian API requires a key. Fallback to Met Museum and Cleveland Museum of Art failed due to loose exact string matching resulting in hallucinated/incorrect object assignments. Leaving output file empty to prevent hallucinated data.
