@@ -1,0 +1,1 @@
+Used GBIF API to fetch exact matches for subjects. Extracting scientificName for scientific_identity and authorship for taxon_authority.
