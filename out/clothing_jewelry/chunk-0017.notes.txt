@@ -1,0 +1,2 @@
+Smithsonian API returned 429 Too Many Requests. Rate limited with DEMO_KEY.
+{"error": {"code": "OVER_RATE_LIMIT", "message": "You have exceeded your rate limit. Try again later or contact us for assistance: https://api.si.edu:443"}}
