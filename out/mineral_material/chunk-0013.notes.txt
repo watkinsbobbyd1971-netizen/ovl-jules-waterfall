@@ -1,0 +1,43 @@
+Subject The Bicentennial collection of American music / compiled by Elwyn A. Wienandt: Smithsonian API Error: HTTP 429: {
+  "error": {
+    "code": "OVER_RATE_LIMIT",
+    "message": "You have exceeded your rate limit. Try again later or contact us for assistance: https://api.si.edu:443"
+  }
+}
+Subject Bob Marley: songs of African redemption / Adebayo Ojo: Smithsonian API Error: HTTP 429: {
+  "error": {
+    "code": "OVER_RATE_LIMIT",
+    "message": "You have exceeded your rate limit. Try again later or contact us for assistance: https://api.si.edu:443"
+  }
+}
+Subject The Gospel according to Matthew translated into the Cherokee language: Smithsonian API Error: HTTP 429: {
+  "error": {
+    "code": "OVER_RATE_LIMIT",
+    "message": "You have exceeded your rate limit. Try again later or contact us for assistance: https://api.si.edu:443"
+  }
+}
+Subject The caecilians of the world a taxonomic review: Smithsonian API Error: HTTP 429: {
+  "error": {
+    "code": "OVER_RATE_LIMIT",
+    "message": "You have exceeded your rate limit. Try again later or contact us for assistance: https://api.si.edu:443"
+  }
+}
+Subject 90 billion raindrops [filmstrip]: Smithsonian API Error: HTTP 429: {
+  "error": {
+    "code": "OVER_RATE_LIMIT",
+    "message": "You have exceeded your rate limit. Try again later or contact us for assistance: https://api.si.edu:443"
+  }
+}
+Subject The mind and the hand / Lee Friedlander: Smithsonian API Error: HTTP 429: {
+  "error": {
+    "code": "OVER_RATE_LIMIT",
+    "message": "You have exceeded your rate limit. Try again later or contact us for assistance: https://api.si.edu:443"
+  }
+}
+Subject The National Portrait Gallery, Smithsonian Institution [computer file]: permanent collection of notable Americans: Smithsonian API Error: HTTP 429: {
+  "error": {
+    "code": "OVER_RATE_LIMIT",
+    "message": "You have exceeded your rate limit. Try again later or contact us for assistance: https://api.si.edu:443"
+  }
+}
+Stopped early due to consistent OVER_RATE_LIMIT from Smithsonian API DEMO_KEY.
