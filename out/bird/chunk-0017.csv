@@ -1,0 +1,11 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15013-REC3002492,scientific_identity,"Mephitis É.Geoffroy Saint-Hilaire & F.G.Cuvier, 1795",https://api.gbif.org/v1/species/match?name=Mephitis%2C%206X&strict=true
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP15013-REC3002492,identity_label,"Mephitis, 6X",https://api.gbif.org/v1/species/match?name=Mephitis%2C%206X&strict=true
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP19021-REC3804132,scientific_identity,Rufus,https://api.gbif.org/v1/species/match?name=Rufus%20King&strict=true
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP19021-REC3804132,identity_label,Rufus King,https://api.gbif.org/v1/species/match?name=Rufus%20King&strict=true
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP19202-REC3840392,scientific_identity,"Atlas Castelnau, 1840",https://api.gbif.org/v1/species/match?name=Atlas%20of%20amphibians%20and%20reptiles%20in%20Virginia%20%5Bmap%5D%20/%20Joseph%20C.%20Mitchell%20and%20Karen%20Kelly%20Reay%3B%20%5Bmaps%2C%20Chris%20Mattson%5D&strict=true
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP19202-REC3840392,identity_label,"Atlas of amphibians and reptiles in Virginia [map] / Joseph C. Mitchell and Karen Kelly Reay; [maps, Chris Mattson]",https://api.gbif.org/v1/species/match?name=Atlas%20of%20amphibians%20and%20reptiles%20in%20Virginia%20%5Bmap%5D%20/%20Joseph%20C.%20Mitchell%20and%20Karen%20Kelly%20Reay%3B%20%5Bmaps%2C%20Chris%20Mattson%5D&strict=true
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP19123-REC3824432,scientific_identity,Josepha,https://api.gbif.org/v1/species/match?name=Josepha%20Boegart%2C%20Lady%20in%20Waiting%20to%20Marie%20de%20Medici&strict=true
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP19123-REC3824432,identity_label,"Josepha Boegart, Lady in Waiting to Marie de Medici",https://api.gbif.org/v1/species/match?name=Josepha%20Boegart%2C%20Lady%20in%20Waiting%20to%20Marie%20de%20Medici&strict=true
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13577-REC2715352,scientific_identity,In,https://api.gbif.org/v1/species/match?name=In%20Belleau%20Wood&strict=true
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP13577-REC2715352,identity_label,In Belleau Wood,https://api.gbif.org/v1/species/match?name=In%20Belleau%20Wood&strict=true
