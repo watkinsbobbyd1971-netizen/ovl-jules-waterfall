@@ -1,0 +1,7 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_12-ERA_01-1200-ACC04-HOP17276-REC3455082,scientific_identity,"Aethia cristatella (Pallas, 1769)",https://api.gbif.org/v1/species/match?name=Aethia%20cristatella&strict=true
+IDB-REG_02-CAT_12-ERA_01-1200-ACC04-HOP17276-REC3455082,taxon_authority,"(Pallas, 1769)",https://api.gbif.org/v1/species/match?name=Aethia%20cristatella&strict=true
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP18902-REC3780393,scientific_identity,"Aethia pusilla (Pallas, 1811)",https://api.gbif.org/v1/species/match?name=Aethia%20pusilla&strict=true
+IDB-REG_03-CAT_11-ERA_01-1200-ACC04-HOP18902-REC3780393,taxon_authority,"(Pallas, 1811)",https://api.gbif.org/v1/species/match?name=Aethia%20pusilla&strict=true
+IDB-REG_02-CAT_14-ERA_01-1200-ACC04-HOP17999-REC3599632,scientific_identity,"Aethia cristatella (Pallas, 1769)",https://api.gbif.org/v1/species/match?name=Aethia%20cristatella&strict=true
+IDB-REG_02-CAT_14-ERA_01-1200-ACC04-HOP17999-REC3599632,taxon_authority,"(Pallas, 1769)",https://api.gbif.org/v1/species/match?name=Aethia%20cristatella&strict=true
