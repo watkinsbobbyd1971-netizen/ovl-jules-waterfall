@@ -1,0 +1,32 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB51-ENT-SMI-0653535,descriptive_identity,"""weapon type""",https://www.wikidata.org/wiki/Q278938
+LIBSRC-LIB51-ENT-SMI-0653535,descriptive_identity,"""combat reserve""",https://www.wikidata.org/wiki/Q278938
+LIBSRC-LIB51-ENT-SMI-0653535,descriptive_identity,"""product""",https://www.wikidata.org/wiki/Q278938
+LIBSRC-LIB51-ENT-SMI-0653535,descriptive_identity,"""ammunition""",https://www.wikidata.org/wiki/Q278938
+LIBSRC-LIB51-ENT-SMI-0653535,descriptive_identity,"""pellet""",https://www.wikidata.org/wiki/Q278938
+LIBSRC-LIB51-ENT-SMI-0653535,material_identity,"""lead""",https://www.wikidata.org/wiki/Q278938
+LIBSRC-LIB51-ENT-SMI-0653535,material_identity,"""steel""",https://www.wikidata.org/wiki/Q278938
+LIBSRC-LIB51-ENT-SMI-0653535,material_identity,"""metal""",https://www.wikidata.org/wiki/Q278938
+LIBSRC-LIB51-ENT-SMI-0653535,component_relationship,"""shotgun cartridge""",https://www.wikidata.org/wiki/Q278938
+LIBSRC-LIB51-ENT-SMI-0560659,descriptive_identity,"""stone tool""",https://www.wikidata.org/wiki/Q164777
+LIBSRC-LIB51-ENT-SMI-0560659,descriptive_identity,"""archaeological artefact""",https://www.wikidata.org/wiki/Q164777
+LIBSRC-LIB51-ENT-SMI-0560659,component_relationship,"""Stone Age""",https://www.wikidata.org/wiki/Q164777
+LIBSRC-LIB51-ENT-SMI-0688882,descriptive_identity,"""human""",https://www.wikidata.org/wiki/Q2543810
+LIBSRC-LIB51-ENT-SMI-0475488,descriptive_identity,"""business""",https://www.wikidata.org/wiki/Q5636289
+LIBSRC-LIB51-ENT-SMI-0205123,descriptive_identity,"""weapon type""",https://www.wikidata.org/wiki/Q1020775
+LIBSRC-LIB51-ENT-SMI-0205123,descriptive_identity,"""multiple-barrel firearm""",https://www.wikidata.org/wiki/Q1020775
+LIBSRC-LIB51-ENT-SMI-0205123,descriptive_identity,"""revolver""",https://www.wikidata.org/wiki/Q1020775
+LIBSRC-LIB51-ENT-SMI-0546035,descriptive_identity,"""stone tool""",https://www.wikidata.org/wiki/Q11869173
+LIBSRC-LIB51-ENT-SMI-0546035,descriptive_identity,"""projectile point""",https://www.wikidata.org/wiki/Q11869173
+LIBSRC-LIB51-ENT-SMI-0342239,descriptive_identity,"""firearm model""",https://www.wikidata.org/wiki/Q217153
+LIBSRC-LIB51-ENT-SMI-0342239,descriptive_identity,"""bolt-action rifle""",https://www.wikidata.org/wiki/Q217153
+LIBSRC-LIB51-ENT-SMI-0342239,descriptive_identity,"""repeating rifle""",https://www.wikidata.org/wiki/Q217153
+LIBSRC-LIB51-ENT-SMI-0342239,creator_or_attribution,"""Springfield Armory""",https://www.wikidata.org/wiki/Q217153
+LIBSRC-LIB51-ENT-SMI-0212495,creator_or_attribution,"""Colt's Manufacturing Company""",https://www.wikidata.org/wiki/Q2984494
+LIBSRC-LIB51-ENT-SMI-0319019,descriptive_identity,"""weapon model""",https://www.wikidata.org/wiki/Q7688930
+LIBSRC-LIB51-ENT-SMI-0319019,descriptive_identity,"""revolver""",https://www.wikidata.org/wiki/Q7688930
+LIBSRC-LIB51-ENT-SMI-0274033,descriptive_identity,"""weapon model""",https://www.wikidata.org/wiki/Q7580996
+LIBSRC-LIB51-ENT-SMI-0274033,creator_or_attribution,"""Springfield Armory""",https://www.wikidata.org/wiki/Q7580996
+LIBSRC-LIB51-ENT-SMI-0078492,descriptive_identity,"""weapon model""",https://www.wikidata.org/wiki/Q532313
+LIBSRC-LIB51-ENT-SMI-0078492,descriptive_identity,"""rifled musket""",https://www.wikidata.org/wiki/Q532313
+LIBSRC-LIB51-ENT-SMI-0078492,creator_or_attribution,"""Springfield Armory""",https://www.wikidata.org/wiki/Q532313
