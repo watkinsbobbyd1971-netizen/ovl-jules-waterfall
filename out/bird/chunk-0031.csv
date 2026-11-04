@@ -1,0 +1,83 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-0961392,identity_label,"""Halcyon malimbica""",https://api.gbif.org/v1/species/5228335
+LIBSRC-LIB50-ENT-BIO-0961392,descriptive_identity,"""species""",https://api.gbif.org/v1/species/5228335
+LIBSRC-LIB50-ENT-BIO-0962242,identity_label,"""Todiramphus gertrudae""",https://api.gbif.org/v1/species/8227418
+LIBSRC-LIB50-ENT-BIO-0962242,descriptive_identity,"""species""",https://api.gbif.org/v1/species/8227418
+LIBSRC-LIB50-ENT-BIO-0957363,identity_label,"""Ceryle rudis""",https://api.gbif.org/v1/species/2475679
+LIBSRC-LIB50-ENT-BIO-0957363,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2475679
+LIBSRC-LIB50-ENT-BIO-1423743,identity_label,"""Pellorneum palustre""",https://api.gbif.org/v1/species/2493254
+LIBSRC-LIB50-ENT-BIO-1423743,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2493254
+LIBSRC-LIB50-ENT-BIO-0961902,identity_label,"""Alcedo quadribrachys""",https://api.gbif.org/v1/species/2475540
+LIBSRC-LIB50-ENT-BIO-0961902,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2475540
+LIBSRC-LIB50-ENT-BIO-0645362,identity_label,"""Cinnyris oustaleti""",https://api.gbif.org/v1/species/7340648
+LIBSRC-LIB50-ENT-BIO-0645362,descriptive_identity,"""species""",https://api.gbif.org/v1/species/7340648
+LIBSRC-LIB50-ENT-BIO-2323893,identity_label,"""Zosterops insularis""",https://api.gbif.org/v1/species/8766461
+LIBSRC-LIB50-ENT-BIO-2323893,descriptive_identity,"""species""",https://api.gbif.org/v1/species/8766461
+LIBSRC-LIB50-ENT-BIO-2316192,identity_label,"""Anser brumeli""",https://api.gbif.org/v1/species/9789367
+LIBSRC-LIB50-ENT-BIO-2316192,descriptive_identity,"""species""",https://api.gbif.org/v1/species/9789367
+LIBSRC-LIB50-ENT-BIO-2324012,identity_label,"""Zosterops rennellianus""",https://api.gbif.org/v1/species/2489401
+LIBSRC-LIB50-ENT-BIO-2324012,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2489401
+LIBSRC-LIB50-ENT-BIO-2161322,identity_label,"""Sitta yunnanensis""",https://api.gbif.org/v1/species/2484914
+LIBSRC-LIB50-ENT-BIO-2161322,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2484914
+LIBSRC-LIB50-ENT-BIO-0519443,identity_label,"""Acrocephalus percernis""",https://api.gbif.org/v1/species/5845839
+LIBSRC-LIB50-ENT-BIO-0519443,descriptive_identity,"""species""",https://api.gbif.org/v1/species/5845839
+LIBSRC-LIB50-ENT-BIO-0071373,identity_label,"""Eulampis holosericeus""",https://api.gbif.org/v1/species/2476399
+LIBSRC-LIB50-ENT-BIO-0071373,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2476399
+LIBSRC-LIB50-ENT-BIO-1315572,identity_label,"""Tesia everetti""",https://api.gbif.org/v1/species/2493278
+LIBSRC-LIB50-ENT-BIO-1315572,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2493278
+LIBSRC-LIB50-ENT-BIO-2099442,identity_label,"""Larus argentatus""",https://api.gbif.org/v1/species/2481139
+LIBSRC-LIB50-ENT-BIO-2099442,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2481139
+LIBSRC-LIB50-ENT-BIO-0073583,identity_label,"""Trochalopteron fairbanki""",https://api.gbif.org/v1/species/6101131
+LIBSRC-LIB50-ENT-BIO-0073583,descriptive_identity,"""species""",https://api.gbif.org/v1/species/6101131
+LIBSRC-LIB50-ENT-BIO-2338513,identity_label,"""Chiroxiphia linearis""",https://api.gbif.org/v1/species/2487772
+LIBSRC-LIB50-ENT-BIO-2338513,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2487772
+LIBSRC-LIB50-ENT-BIO-0141583,identity_label,"""Tangara mexicana""",https://api.gbif.org/v1/species/2488169
+LIBSRC-LIB50-ENT-BIO-0141583,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2488169
+LIBSRC-LIB50-ENT-BIO-1507723,identity_label,"""Pica bottanensis""",https://api.gbif.org/v1/species/7735434
+LIBSRC-LIB50-ENT-BIO-1507723,descriptive_identity,"""species""",https://api.gbif.org/v1/species/7735434
+LIBSRC-LIB50-ENT-BIO-1675632,identity_label,"""Coltonia recurvirostra""",https://api.gbif.org/v1/species/9412125
+LIBSRC-LIB50-ENT-BIO-1675632,descriptive_identity,"""species""",https://api.gbif.org/v1/species/9412125
+LIBSRC-LIB50-ENT-BIO-0371412,identity_label,"""Macronus flavicollis""",https://api.gbif.org/v1/species/6100831
+LIBSRC-LIB50-ENT-BIO-0371412,descriptive_identity,"""species""",https://api.gbif.org/v1/species/6100831
+LIBSRC-LIB50-ENT-BIO-1607972,identity_label,"""Turdus pelios""",https://api.gbif.org/v1/species/9348895
+LIBSRC-LIB50-ENT-BIO-1607972,descriptive_identity,"""species""",https://api.gbif.org/v1/species/9348895
+LIBSRC-LIB50-ENT-BIO-0004193,identity_label,"""Elminia nigromitrata""",https://api.gbif.org/v1/species/7342167
+LIBSRC-LIB50-ENT-BIO-0004193,descriptive_identity,"""species""",https://api.gbif.org/v1/species/7342167
+LIBSRC-LIB50-ENT-BIO-1528922,identity_label,"""Corvus curvirostris""",https://api.gbif.org/v1/species/12184328
+LIBSRC-LIB50-ENT-BIO-1528922,descriptive_identity,"""species""",https://api.gbif.org/v1/species/12184328
+LIBSRC-LIB50-ENT-BIO-2058982,identity_label,"""Palaeoglaux artophoron""",https://api.gbif.org/v1/species/11140359
+LIBSRC-LIB50-ENT-BIO-2058982,descriptive_identity,"""species""",https://api.gbif.org/v1/species/11140359
+LIBSRC-LIB50-ENT-BIO-1565642,identity_label,"""Myzomela caledonica""",https://api.gbif.org/v1/species/2487321
+LIBSRC-LIB50-ENT-BIO-1565642,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2487321
+LIBSRC-LIB50-ENT-BIO-1029292,identity_label,"""Lipaugus uropygialis""",https://api.gbif.org/v1/species/2486499
+LIBSRC-LIB50-ENT-BIO-1029292,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2486499
+LIBSRC-LIB50-ENT-BIO-1407712,identity_label,"""Myiomela major""",https://api.gbif.org/v1/species/5788901
+LIBSRC-LIB50-ENT-BIO-1407712,descriptive_identity,"""species""",https://api.gbif.org/v1/species/5788901
+LIBSRC-LIB50-ENT-BIO-1357392,identity_label,"""Malurus pulcherrimus""",https://api.gbif.org/v1/species/2487501
+LIBSRC-LIB50-ENT-BIO-1357392,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2487501
+LIBSRC-LIB50-ENT-BIO-0528572,identity_label,"""Thamnophilus strigilatus""",https://api.gbif.org/v1/species/9190651
+LIBSRC-LIB50-ENT-BIO-0528572,descriptive_identity,"""species""",https://api.gbif.org/v1/species/9190651
+LIBSRC-LIB50-ENT-BIO-0654083,identity_label,"""Gecinulus rafflesii""",https://api.gbif.org/v1/species/11049618
+LIBSRC-LIB50-ENT-BIO-0654083,descriptive_identity,"""species""",https://api.gbif.org/v1/species/11049618
+LIBSRC-LIB50-ENT-BIO-1643502,identity_label,"""Breacopus garretti""",https://api.gbif.org/v1/species/12236924
+LIBSRC-LIB50-ENT-BIO-1643502,descriptive_identity,"""species""",https://api.gbif.org/v1/species/12236924
+LIBSRC-LIB50-ENT-BIO-1159563,identity_label,"""Vireo crassirostris""",https://api.gbif.org/v1/species/2487454
+LIBSRC-LIB50-ENT-BIO-1159563,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2487454
+LIBSRC-LIB50-ENT-BIO-1029802,identity_label,"""Pachyramphus viridis""",https://api.gbif.org/v1/species/5230324
+LIBSRC-LIB50-ENT-BIO-1029802,descriptive_identity,"""species""",https://api.gbif.org/v1/species/5230324
+LIBSRC-LIB50-ENT-BIO-1614602,identity_label,"""Zoothera dauma""",https://api.gbif.org/v1/species/2490890
+LIBSRC-LIB50-ENT-BIO-1614602,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2490890
+LIBSRC-LIB50-ENT-BIO-0529813,identity_label,"""Prinia bairdii""",https://api.gbif.org/v1/species/2492753
+LIBSRC-LIB50-ENT-BIO-0529813,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2492753
+LIBSRC-LIB50-ENT-BIO-0116032,identity_label,"""Feitianius paradisi""",https://api.gbif.org/v1/species/9265492
+LIBSRC-LIB50-ENT-BIO-0116032,descriptive_identity,"""species""",https://api.gbif.org/v1/species/9265492
+LIBSRC-LIB50-ENT-BIO-0114723,identity_label,"""Eoenantiornis buhleri""",https://api.gbif.org/v1/species/4966880
+LIBSRC-LIB50-ENT-BIO-0114723,descriptive_identity,"""species""",https://api.gbif.org/v1/species/4966880
+LIBSRC-LIB50-ENT-BIO-1406012,identity_label,"""Rhinomyias goodfellowi""",https://api.gbif.org/v1/species/2492668
+LIBSRC-LIB50-ENT-BIO-1406012,descriptive_identity,"""species""",https://api.gbif.org/v1/species/2492668
+LIBSRC-LIB50-ENT-BIO-1409072,identity_label,"""Muscicapa miniata""",https://api.gbif.org/v1/species/9934552
+LIBSRC-LIB50-ENT-BIO-1409072,descriptive_identity,"""species""",https://api.gbif.org/v1/species/9934552
+LIBSRC-LIB50-ENT-BIO-2321853,identity_label,"""Hirundo dimidiata""",https://api.gbif.org/v1/species/5230771
+LIBSRC-LIB50-ENT-BIO-2321853,descriptive_identity,"""species""",https://api.gbif.org/v1/species/5230771
+LIBSRC-LIB50-ENT-BIO-0206733,identity_label,"""Melozone taciturni""",https://api.gbif.org/v1/species/7870802
+LIBSRC-LIB50-ENT-BIO-0206733,descriptive_identity,"""species""",https://api.gbif.org/v1/species/7870802
