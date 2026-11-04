@@ -1,0 +1,12 @@
+column_name,data_type,unit,description
+anatomical_length,JSON,mm,value types: number
+anatomical_relationship,JSON,,value types: string
+body_mass,JSON,g,value types: number
+descriptive_identity,JSON,,value types: string
+identity_label,JSON,,value types: string
+integument_description,JSON,,value types: string
+life_stage,JSON,,value types: string
+occurrence_context,JSON,,value types: string
+scientific_identity,JSON,,value types: string
+sex,JSON,,value types: string
+taxon_authority,JSON,,value types: string
