@@ -1,0 +1,5 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_04-CAT_14-ERA_02-1650-ACC04-HOP14699-REC2939624,scientific_identity,"""Phrynosoma regale Girard, 1858""",https://api.gbif.org/v1/species/match?name=Phrynosoma%20regale
+IDB-REG_04-CAT_14-ERA_02-1650-ACC04-HOP14699-REC2939624,taxon_authority,"""Girard, 1858""",https://api.gbif.org/v1/species/match?name=Phrynosoma%20regale
+IDB-REG_04-CAT_14-ERA_06-2015-ACC04-HOP14940-REC2987844,scientific_identity,"""Virginia Baird & Girard, 1853""",https://api.gbif.org/v1/species/match?name=Virginia
+IDB-REG_04-CAT_14-ERA_06-2015-ACC04-HOP14940-REC2987844,taxon_authority,"""Baird & Girard, 1853""",https://api.gbif.org/v1/species/match?name=Virginia
