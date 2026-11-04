@@ -1,0 +1,245 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB51-ENT-SMI-0340620,descriptive_identity,compass,https://www.wikidata.org/wiki/Q59137900
+LIBSRC-LIB51-ENT-SMI-0264068,descriptive_identity,compass,https://www.wikidata.org/wiki/Q116342360
+LIBSRC-LIB51-ENT-SMI-0269474,component_relationship,seven-segment display,https://www.wikidata.org/wiki/Q257916
+LIBSRC-LIB51-ENT-SMI-0269474,descriptive_identity,timepiece,https://www.wikidata.org/wiki/Q257916
+LIBSRC-LIB51-ENT-SMI-0269474,component_relationship,crystal oscillator,https://www.wikidata.org/wiki/Q257916
+LIBSRC-LIB51-ENT-SMI-0269474,descriptive_identity,clock,https://www.wikidata.org/wiki/Q257916
+LIBSRC-LIB51-ENT-SMI-0269474,component_relationship,clock face,https://www.wikidata.org/wiki/Q257916
+LIBSRC-LIB51-ENT-SMI-0287244,component_relationship,lens,https://www.wikidata.org/wiki/Q4213
+LIBSRC-LIB51-ENT-SMI-0287244,descriptive_identity,optical instrument,https://www.wikidata.org/wiki/Q4213
+LIBSRC-LIB51-ENT-SMI-0287244,descriptive_identity,invention,https://www.wikidata.org/wiki/Q4213
+LIBSRC-LIB51-ENT-SMI-0287244,descriptive_identity,astronomical instrument,https://www.wikidata.org/wiki/Q4213
+LIBSRC-LIB51-ENT-SMI-0183440,descriptive_identity,compass,https://www.wikidata.org/wiki/Q112226746
+LIBSRC-LIB51-ENT-SMI-0183447,descriptive_identity,telecommunications device,https://www.wikidata.org/wiki/Q7696262
+LIBSRC-LIB51-ENT-SMI-0183447,descriptive_identity,electrical appliance,https://www.wikidata.org/wiki/Q7696262
+LIBSRC-LIB51-ENT-SMI-0187300,descriptive_identity,telecommunications device,https://www.wikidata.org/wiki/Q7696262
+LIBSRC-LIB51-ENT-SMI-0187300,descriptive_identity,electrical appliance,https://www.wikidata.org/wiki/Q7696262
+LIBSRC-LIB51-ENT-SMI-0196417,descriptive_identity,electronic component,https://www.wikidata.org/wiki/Q3574371
+LIBSRC-LIB51-ENT-SMI-0196417,descriptive_identity,active electronic component,https://www.wikidata.org/wiki/Q3574371
+LIBSRC-LIB51-ENT-SMI-0201575,descriptive_identity,machine,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0201575,descriptive_identity,metrological mechanism,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0201575,descriptive_identity,timepiece,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0201575,descriptive_identity,decorative object,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0201575,descriptive_identity,type of object,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0130362,descriptive_identity,IT system,https://www.wikidata.org/wiki/Q68
+LIBSRC-LIB51-ENT-SMI-0130362,descriptive_identity,computing platform,https://www.wikidata.org/wiki/Q68
+LIBSRC-LIB51-ENT-SMI-0130362,component_relationship,central processing unit,https://www.wikidata.org/wiki/Q68
+LIBSRC-LIB51-ENT-SMI-0130362,component_relationship,computer keyboard,https://www.wikidata.org/wiki/Q68
+LIBSRC-LIB51-ENT-SMI-0130362,component_relationship,computer hardware,https://www.wikidata.org/wiki/Q68
+LIBSRC-LIB51-ENT-SMI-0130362,descriptive_identity,electronic musical instrument,https://www.wikidata.org/wiki/Q68
+LIBSRC-LIB51-ENT-SMI-0130362,descriptive_identity,invention,https://www.wikidata.org/wiki/Q68
+LIBSRC-LIB51-ENT-SMI-0130362,descriptive_identity,information processor,https://www.wikidata.org/wiki/Q68
+LIBSRC-LIB51-ENT-SMI-0130362,descriptive_identity,data terminal equipment,https://www.wikidata.org/wiki/Q68
+LIBSRC-LIB51-ENT-SMI-0130362,component_relationship,input-output device,https://www.wikidata.org/wiki/Q68
+LIBSRC-LIB51-ENT-SMI-0130362,component_relationship,software,https://www.wikidata.org/wiki/Q68
+LIBSRC-LIB51-ENT-SMI-0130362,component_relationship,graphics processing unit,https://www.wikidata.org/wiki/Q68
+LIBSRC-LIB51-ENT-SMI-0130362,descriptive_identity,machine,https://www.wikidata.org/wiki/Q68
+LIBSRC-LIB51-ENT-SMI-0130362,descriptive_identity,computer file location,https://www.wikidata.org/wiki/Q68
+LIBSRC-LIB51-ENT-SMI-0130362,descriptive_identity,machine,https://www.wikidata.org/wiki/Q68
+LIBSRC-LIB51-ENT-SMI-0150631,descriptive_identity,compass,https://www.wikidata.org/wiki/Q112226746
+LIBSRC-LIB51-ENT-SMI-0209357,descriptive_identity,machine,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0209357,descriptive_identity,metrological mechanism,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0209357,descriptive_identity,timepiece,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0209357,descriptive_identity,decorative object,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0209357,descriptive_identity,type of object,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0356902,material_identity,wood,https://www.wikidata.org/wiki/Q111844266
+LIBSRC-LIB51-ENT-SMI-0356902,descriptive_identity,timepiece,https://www.wikidata.org/wiki/Q111844266
+LIBSRC-LIB51-ENT-SMI-0356902,descriptive_identity,fittings,https://www.wikidata.org/wiki/Q111844266
+LIBSRC-LIB51-ENT-SMI-0377087,descriptive_identity,machine,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0377087,descriptive_identity,metrological mechanism,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0377087,descriptive_identity,timepiece,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0377087,descriptive_identity,decorative object,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0377087,descriptive_identity,type of object,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0415391,descriptive_identity,machine,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0415391,descriptive_identity,metrological mechanism,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0415391,descriptive_identity,timepiece,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0415391,descriptive_identity,decorative object,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0415391,descriptive_identity,type of object,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0423132,descriptive_identity,machine,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0423132,descriptive_identity,metrological mechanism,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0423132,descriptive_identity,timepiece,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0423132,descriptive_identity,decorative object,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0423132,descriptive_identity,type of object,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0471179,descriptive_identity,telecommunications device,https://www.wikidata.org/wiki/Q7696262
+LIBSRC-LIB51-ENT-SMI-0471179,descriptive_identity,electrical appliance,https://www.wikidata.org/wiki/Q7696262
+LIBSRC-LIB51-ENT-SMI-0633483,descriptive_identity,clock,https://www.wikidata.org/wiki/Q75294722
+LIBSRC-LIB51-ENT-SMI-0428032,component_relationship,lens,https://www.wikidata.org/wiki/Q4213
+LIBSRC-LIB51-ENT-SMI-0428032,descriptive_identity,optical instrument,https://www.wikidata.org/wiki/Q4213
+LIBSRC-LIB51-ENT-SMI-0428032,descriptive_identity,invention,https://www.wikidata.org/wiki/Q4213
+LIBSRC-LIB51-ENT-SMI-0428032,descriptive_identity,astronomical instrument,https://www.wikidata.org/wiki/Q4213
+LIBSRC-LIB51-ENT-SMI-0429782,component_relationship,lens,https://www.wikidata.org/wiki/Q4213
+LIBSRC-LIB51-ENT-SMI-0429782,descriptive_identity,optical instrument,https://www.wikidata.org/wiki/Q4213
+LIBSRC-LIB51-ENT-SMI-0429782,descriptive_identity,invention,https://www.wikidata.org/wiki/Q4213
+LIBSRC-LIB51-ENT-SMI-0429782,descriptive_identity,astronomical instrument,https://www.wikidata.org/wiki/Q4213
+LIBSRC-LIB51-ENT-SMI-0444834,descriptive_identity,machine,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0444834,descriptive_identity,metrological mechanism,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0444834,descriptive_identity,timepiece,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0444834,descriptive_identity,decorative object,https://www.wikidata.org/wiki/Q376
+LIBSRC-LIB51-ENT-SMI-0444834,descriptive_identity,type of object,https://www.wikidata.org/wiki/Q376
+IDB-REG08-CAT04-ERA07-2010S-LENOVO-K6-POWER,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q30637968
+IDB-REG08-CAT04-ERA07-2010S-LENOVO-K6-POWER,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q30637968
+IDB-REG08-CAT04-ERA07-2010S-LENOVO-K6-POWER,manufacturer_or_creator,Lenovo,https://www.wikidata.org/wiki/Q30637968
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-510,dimension_length,64.9,https://www.wikidata.org/wiki/Q2844656
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-510,dimension_length,649.0,https://www.wikidata.org/wiki/Q2844656
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-510,mass,129.0,https://www.wikidata.org/wiki/Q2844656
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-510,mass,129.0,https://www.wikidata.org/wiki/Q2844656
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-510,dimension_length,120.7,https://www.wikidata.org/wiki/Q2844656
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-510,dimension_length,1207.0,https://www.wikidata.org/wiki/Q2844656
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-510,dimension_length,11.459999999999999,https://www.wikidata.org/wiki/Q2844656
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-510,dimension_length,114.60000000000001,https://www.wikidata.org/wiki/Q2844656
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-510,manufacturer_or_creator,Nokia,https://www.wikidata.org/wiki/Q2844656
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-510,descriptive_identity,Lumia series,https://www.wikidata.org/wiki/Q2844656
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-510,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q2844656
+IDB-REG08-CAT04-ERA06-2010S-MEIZU-MX4,manufacturer_or_creator,Meizu,https://www.wikidata.org/wiki/Q18127967
+IDB-REG08-CAT04-ERA06-2010S-MEIZU-MX4,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q18127967
+IDB-REG08-CAT04-ERA06-2010S-MEIZU-MX4,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q18127967
+IDB-REG08-CAT04-ERA07-2010S-NOKIA-150,manufacturer_or_creator,Nokia,https://www.wikidata.org/wiki/Q107404036
+IDB-REG08-CAT04-ERA07-2010S-NOKIA-150,descriptive_identity,cell phone model,https://www.wikidata.org/wiki/Q107404036
+IDB-REG08-CAT04-ERA07-2010S-NOKIA-150,descriptive_identity,mobile phone,https://www.wikidata.org/wiki/Q107404036
+LIBSRC-LIB51-ENT-SMI-0154323,descriptive_identity,navigational instrument,https://www.wikidata.org/wiki/Q34735
+LIBSRC-LIB51-ENT-SMI-0154323,component_relationship,arrow,https://www.wikidata.org/wiki/Q34735
+LIBSRC-LIB51-ENT-SMI-0154323,descriptive_identity,Digital compass,https://www.wikidata.org/wiki/Q34735
+LIBSRC-LIB51-ENT-SMI-0154323,descriptive_identity,navigational instrument,https://www.wikidata.org/wiki/Q34735
+LIBSRC-LIB51-ENT-SMI-0156949,descriptive_identity,telecommunications device,https://www.wikidata.org/wiki/Q7696262
+LIBSRC-LIB51-ENT-SMI-0156949,descriptive_identity,electrical appliance,https://www.wikidata.org/wiki/Q7696262
+LIBSRC-LIB51-ENT-SMI-0177363,descriptive_identity,navigational instrument,https://www.wikidata.org/wiki/Q34735
+LIBSRC-LIB51-ENT-SMI-0177363,component_relationship,arrow,https://www.wikidata.org/wiki/Q34735
+LIBSRC-LIB51-ENT-SMI-0177363,descriptive_identity,Digital compass,https://www.wikidata.org/wiki/Q34735
+LIBSRC-LIB51-ENT-SMI-0177363,descriptive_identity,navigational instrument,https://www.wikidata.org/wiki/Q34735
+IDB-REG08-CAT04-ERA06-2010S-MICROSOFT-LUMIA-535,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q18642203
+IDB-REG08-CAT04-ERA06-2010S-MICROSOFT-LUMIA-535,manufacturer_or_creator,Nokia,https://www.wikidata.org/wiki/Q18642203
+IDB-REG08-CAT04-ERA06-2010S-MICROSOFT-LUMIA-535,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q18642203
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-C3-00,manufacturer_or_creator,Nokia,https://www.wikidata.org/wiki/Q3046436
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-C3-00,descriptive_identity,Nokia CSeries,https://www.wikidata.org/wiki/Q3046436
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-C3-00,descriptive_identity,product model,https://www.wikidata.org/wiki/Q3046436
+IDB-REG08-CAT04-ERA07-2010S-MEIZU-MX5,descriptive_identity,mobile phone,https://www.wikidata.org/wiki/Q20647767
+IDB-REG08-CAT04-ERA07-2010S-MEIZU-MX5,manufacturer_or_creator,Meizu,https://www.wikidata.org/wiki/Q20647767
+IDB-REG08-CAT04-ERA07-2010S-MEIZU-MX5,descriptive_identity,cell phone model,https://www.wikidata.org/wiki/Q20647767
+IDB-REG08-CAT04-ERA07-2010S-HTC-ONE-E9,manufacturer_or_creator,HTC,https://www.wikidata.org/wiki/Q21233158
+IDB-REG08-CAT04-ERA07-2010S-HTC-ONE-E9,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q21233158
+IDB-REG08-CAT04-ERA07-2010S-HTC-ONE-E9,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q21233158
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-1320,descriptive_identity,Lumia series,https://www.wikidata.org/wiki/Q15104802
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-1320,manufacturer_or_creator,Nokia,https://www.wikidata.org/wiki/Q15104802
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-1320,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q15104802
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5,dimension_length,154.20000000000002,https://www.wikidata.org/wiki/Q30348040
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5,dimension_length,74.1,https://www.wikidata.org/wiki/Q30348040
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5,dimension_length,741.0,https://www.wikidata.org/wiki/Q30348040
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5,mass,153.0,https://www.wikidata.org/wiki/Q30348040
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5,mass,153.0,https://www.wikidata.org/wiki/Q30348040
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5,dimension_length,1542.0,https://www.wikidata.org/wiki/Q30348040
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q30348040
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q30348040
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5,manufacturer_or_creator,OnePlus,https://www.wikidata.org/wiki/Q30348040
+IDB-REG08-CAT04-ERA06-2010S-BLACKBERRY-Z30,descriptive_identity,digital camera,https://www.wikidata.org/wiki/Q140490716
+IDB-REG08-CAT04-ERA06-2010S-BLACKBERRY-Z30,descriptive_identity,digital camera model,https://www.wikidata.org/wiki/Q140490716
+IDB-REG08-CAT04-ERA07-2010S-ZUK-Z1,manufacturer_or_creator,ZUK Mobile,https://www.wikidata.org/wiki/Q21041380
+IDB-REG08-CAT04-ERA07-2010S-ZUK-Z1,descriptive_identity,product model,https://www.wikidata.org/wiki/Q21041380
+IDB-REG08-CAT04-ERA07-2010S-ZUK-Z1,descriptive_identity,phablet,https://www.wikidata.org/wiki/Q21041380
+IDB-REG08-CAT04-ERA07-2010S-ZUK-Z1,mass,175.0,https://www.wikidata.org/wiki/Q21041380
+IDB-REG08-CAT04-ERA07-2010S-ZUK-Z1,mass,175.0,https://www.wikidata.org/wiki/Q21041380
+IDB-REG08-CAT04-ERA07-2010S-ZUK-Z1,dimension_length,1557.0,https://www.wikidata.org/wiki/Q21041380
+IDB-REG08-CAT04-ERA07-2010S-ZUK-Z1,dimension_length,156.0,https://www.wikidata.org/wiki/Q21041380
+IDB-REG08-CAT04-ERA07-2010S-ZUK-Z1,dimension_length,77.0,https://www.wikidata.org/wiki/Q21041380
+IDB-REG08-CAT04-ERA07-2010S-ZUK-Z1,dimension_length,773.0,https://www.wikidata.org/wiki/Q21041380
+IDB-REG08-CAT04-ERA07-2010S-ZUK-Z1,dimension_length,8.9,https://www.wikidata.org/wiki/Q21041380
+IDB-REG08-CAT04-ERA07-2010S-ZUK-Z1,dimension_length,89.0,https://www.wikidata.org/wiki/Q21041380
+IDB-REG08-CAT04-ERA06-2010S-PAC-PAD-1,descriptive_identity,tablet computer,https://www.wikidata.org/wiki/Q7118029
+IDB-REG08-CAT04-ERA06-2010S-PAC-PAD-1,manufacturer_or_creator,Pakistan Aeronautical Complex,https://www.wikidata.org/wiki/Q7118029
+IDB-REG08-CAT04-ERA06-2010S-PAC-PAD-1,descriptive_identity,product model,https://www.wikidata.org/wiki/Q7118029
+IDB-REG08-CAT04-ERA06-2010S-SAMSUNG-CHAT-335,descriptive_identity,mobile phone,https://www.wikidata.org/wiki/Q4043076
+IDB-REG08-CAT04-ERA06-2010S-SAMSUNG-CHAT-335,manufacturer_or_creator,Samsung Electronics,https://www.wikidata.org/wiki/Q4043076
+IDB-REG08-CAT04-ERA06-2010S-SAMSUNG-CHAT-335,descriptive_identity,cell phone model,https://www.wikidata.org/wiki/Q4043076
+IDB-REG08-CAT04-ERA07-2010S-SAMSUNG-GALAXY-J1-ACE,dimension_length,9.5,https://www.wikidata.org/wiki/Q114582424
+IDB-REG08-CAT04-ERA07-2010S-SAMSUNG-GALAXY-J1-ACE,dimension_length,95.0,https://www.wikidata.org/wiki/Q114582424
+IDB-REG08-CAT04-ERA07-2010S-SAMSUNG-GALAXY-J1-ACE,mass,131.0,https://www.wikidata.org/wiki/Q114582424
+IDB-REG08-CAT04-ERA07-2010S-SAMSUNG-GALAXY-J1-ACE,mass,131.0,https://www.wikidata.org/wiki/Q114582424
+IDB-REG08-CAT04-ERA07-2010S-SAMSUNG-GALAXY-J1-ACE,dimension_length,67.6,https://www.wikidata.org/wiki/Q114582424
+IDB-REG08-CAT04-ERA07-2010S-SAMSUNG-GALAXY-J1-ACE,dimension_length,676.0,https://www.wikidata.org/wiki/Q114582424
+IDB-REG08-CAT04-ERA07-2010S-SAMSUNG-GALAXY-J1-ACE,dimension_length,1301.0,https://www.wikidata.org/wiki/Q114582424
+IDB-REG08-CAT04-ERA07-2010S-SAMSUNG-GALAXY-J1-ACE,dimension_length,130.1,https://www.wikidata.org/wiki/Q114582424
+IDB-REG08-CAT04-ERA07-2010S-SAMSUNG-GALAXY-J1-ACE,manufacturer_or_creator,Samsung Electronics,https://www.wikidata.org/wiki/Q114582424
+IDB-REG08-CAT04-ERA07-2010S-SAMSUNG-GALAXY-J1-ACE,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q114582424
+IDB-REG08-CAT04-ERA07-2010S-SAMSUNG-GALAXY-J1-ACE,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q114582424
+IDB-REG08-CAT04-ERA06-2010S-IPHONE-5C,descriptive_identity,iPhone,https://www.wikidata.org/wiki/Q14883923
+IDB-REG08-CAT04-ERA06-2010S-IPHONE-5C,descriptive_identity,smartphone model series,https://www.wikidata.org/wiki/Q14883923
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-925,mass,139.0,https://www.wikidata.org/wiki/Q13219095
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-925,mass,139.0,https://www.wikidata.org/wiki/Q13219095
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-925,manufacturer_or_creator,Microsoft,https://www.wikidata.org/wiki/Q13219095
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-925,descriptive_identity,Lumia series,https://www.wikidata.org/wiki/Q13219095
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-925,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q13219095
+IDB-REG08-CAT04-ERA06-2010S-NOKIA-LUMIA-925,manufacturer_or_creator,Nokia,https://www.wikidata.org/wiki/Q13219095
+IDB-REG08-CAT04-ERA06-2010S-XIAOMI-MI-3,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q15915756
+IDB-REG08-CAT04-ERA06-2010S-XIAOMI-MI-3,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q15915756
+IDB-REG08-CAT04-ERA06-2010S-XIAOMI-MI-3,manufacturer_or_creator,Xiaomi,https://www.wikidata.org/wiki/Q15915756
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5T,dimension_length,750.0,https://www.wikidata.org/wiki/Q43230363
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5T,dimension_length,75.0,https://www.wikidata.org/wiki/Q43230363
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5T,dimension_length,156.1,https://www.wikidata.org/wiki/Q43230363
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5T,dimension_length,1561.0,https://www.wikidata.org/wiki/Q43230363
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5T,dimension_length,73.0,https://www.wikidata.org/wiki/Q43230363
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5T,dimension_length,7.3,https://www.wikidata.org/wiki/Q43230363
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5T,mass,162.0,https://www.wikidata.org/wiki/Q43230363
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5T,mass,162.0,https://www.wikidata.org/wiki/Q43230363
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5T,manufacturer_or_creator,OnePlus,https://www.wikidata.org/wiki/Q43230363
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5T,descriptive_identity,product model,https://www.wikidata.org/wiki/Q43230363
+IDB-REG08-CAT04-ERA07-2010S-ONEPLUS-5T,descriptive_identity,phablet,https://www.wikidata.org/wiki/Q43230363
+IDB-REG08-CAT04-ERA06-2010S-SAMSUNG-GALAXY-EXPRESS,descriptive_identity,cell phone model,https://www.wikidata.org/wiki/Q11249320
+IDB-REG08-CAT04-ERA06-2010S-SAMSUNG-GALAXY-EXPRESS,descriptive_identity,mobile phone,https://www.wikidata.org/wiki/Q11249320
+IDB-REG08-CAT04-ERA06-2010S-SAMSUNG-GALAXY-EXPRESS,manufacturer_or_creator,Samsung Electronics,https://www.wikidata.org/wiki/Q11249320
+IDB-REG08-CAT04-ERA06-2010S-OPPO-N1,manufacturer_or_creator,Oppo,https://www.wikidata.org/wiki/Q16927749
+IDB-REG08-CAT04-ERA06-2010S-OPPO-N1,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q16927749
+IDB-REG08-CAT04-ERA06-2010S-OPPO-N1,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q16927749
+IDB-REG08-CAT04-ERA06-2010S-SAMSUNG-REPLENISH,manufacturer_or_creator,Samsung Group,https://www.wikidata.org/wiki/Q7410522
+IDB-REG08-CAT04-ERA06-2010S-SAMSUNG-REPLENISH,descriptive_identity,cell phone model,https://www.wikidata.org/wiki/Q7410522
+IDB-REG08-CAT04-ERA06-2010S-SAMSUNG-REPLENISH,descriptive_identity,mobile phone,https://www.wikidata.org/wiki/Q7410522
+IDB-REG08-CAT04-ERA07-2010S-NEXTBIT-ROBIN,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q22907284
+IDB-REG08-CAT04-ERA07-2010S-NEXTBIT-ROBIN,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q22907284
+IDB-REG08-CAT04-ERA07-2010S-REDMI-Y3,mass,180.0,https://www.wikidata.org/wiki/Q63111068
+IDB-REG08-CAT04-ERA07-2010S-REDMI-Y3,mass,180.0,https://www.wikidata.org/wiki/Q63111068
+IDB-REG08-CAT04-ERA07-2010S-REDMI-Y3,manufacturer_or_creator,Xiaomi,https://www.wikidata.org/wiki/Q63111068
+IDB-REG08-CAT04-ERA07-2010S-REDMI-Y3,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q63111068
+IDB-REG08-CAT04-ERA07-2010S-REDMI-Y3,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q63111068
+IDB-REG08-CAT04-ERA06-2010S-OLIVEPAD,descriptive_identity,Internet tablet,https://www.wikidata.org/wiki/Q7087128
+IDB-REG08-CAT04-ERA06-2010S-OLIVEPAD,descriptive_identity,tablet computer model,https://www.wikidata.org/wiki/Q7087128
+IDB-REG08-CAT04-ERA07-2010S-INFINIX-HOT-S3,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q55640040
+IDB-REG08-CAT04-ERA07-2010S-INFINIX-HOT-S3,manufacturer_or_creator,Infinix,https://www.wikidata.org/wiki/Q55640040
+IDB-REG08-CAT04-ERA07-2010S-INFINIX-HOT-S3,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q55640040
+IDB-REG08-CAT04-ERA06-2010S-MOTO-G-2ND-GENERATION,dimension_length,70.7,https://www.wikidata.org/wiki/Q18152790
+IDB-REG08-CAT04-ERA06-2010S-MOTO-G-2ND-GENERATION,dimension_length,707.0,https://www.wikidata.org/wiki/Q18152790
+IDB-REG08-CAT04-ERA06-2010S-MOTO-G-2ND-GENERATION,mass,149.0,https://www.wikidata.org/wiki/Q18152790
+IDB-REG08-CAT04-ERA06-2010S-MOTO-G-2ND-GENERATION,mass,149.0,https://www.wikidata.org/wiki/Q18152790
+IDB-REG08-CAT04-ERA06-2010S-MOTO-G-2ND-GENERATION,dimension_length,110.0,https://www.wikidata.org/wiki/Q18152790
+IDB-REG08-CAT04-ERA06-2010S-MOTO-G-2ND-GENERATION,dimension_length,11.0,https://www.wikidata.org/wiki/Q18152790
+IDB-REG08-CAT04-ERA06-2010S-MOTO-G-2ND-GENERATION,dimension_length,1415.0,https://www.wikidata.org/wiki/Q18152790
+IDB-REG08-CAT04-ERA06-2010S-MOTO-G-2ND-GENERATION,dimension_length,141.5,https://www.wikidata.org/wiki/Q18152790
+IDB-REG08-CAT04-ERA06-2010S-MOTO-G-2ND-GENERATION,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q18152790
+IDB-REG08-CAT04-ERA06-2010S-MOTO-G-2ND-GENERATION,manufacturer_or_creator,Q934853,https://www.wikidata.org/wiki/Q18152790
+IDB-REG08-CAT04-ERA06-2010S-MOTO-G-2ND-GENERATION,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q18152790
+IDB-REG08-CAT04-ERA07-2010S-REDMI-NOTE-PRIME,mass,185.0,https://www.wikidata.org/wiki/Q22908209
+IDB-REG08-CAT04-ERA07-2010S-REDMI-NOTE-PRIME,mass,185.0,https://www.wikidata.org/wiki/Q22908209
+IDB-REG08-CAT04-ERA07-2010S-REDMI-NOTE-PRIME,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q22908209
+IDB-REG08-CAT04-ERA07-2010S-REDMI-NOTE-PRIME,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q22908209
+IDB-REG08-CAT04-ERA07-2010S-REDMI-NOTE-PRIME,manufacturer_or_creator,Xiaomi,https://www.wikidata.org/wiki/Q22908209
+IDB-REG08-CAT04-ERA06-2010S-SONY-XPERIA-Z-ULTRA,manufacturer_or_creator,Sony Mobile Communications,https://www.wikidata.org/wiki/Q13610163
+IDB-REG08-CAT04-ERA06-2010S-SONY-XPERIA-Z-ULTRA,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q13610163
+IDB-REG08-CAT04-ERA06-2010S-SONY-XPERIA-Z-ULTRA,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q13610163
+IDB-REG08-CAT04-ERA07-2010S-SONY-XPERIA-5,descriptive_identity,product model,https://www.wikidata.org/wiki/Q85867249
+IDB-REG08-CAT04-ERA07-2010S-SONY-XPERIA-5,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q85867249
+IDB-REG08-CAT04-ERA07-2010S-SONY-XPERIA-5,manufacturer_or_creator,Sony Mobile Communications,https://www.wikidata.org/wiki/Q85867249
+IDB-REG08-CAT04-ERA07-2010S-SONY-XPERIA-M5,manufacturer_or_creator,Sony Mobile Communications,https://www.wikidata.org/wiki/Q21034496
+IDB-REG08-CAT04-ERA07-2010S-SONY-XPERIA-M5,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q21034496
+IDB-REG08-CAT04-ERA07-2010S-SONY-XPERIA-M5,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q21034496
+IDB-REG08-CAT04-ERA06-2010S-INTEL-AZ210,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q676153
+IDB-REG08-CAT04-ERA06-2010S-INTEL-AZ210,manufacturer_or_creator,Intel,https://www.wikidata.org/wiki/Q676153
+IDB-REG08-CAT04-ERA06-2010S-INTEL-AZ210,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q676153
+IDB-REG08-CAT04-ERA07-2010S-LAVA-IRIS-X9,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q39060004
+IDB-REG08-CAT04-ERA07-2010S-LAVA-IRIS-X9,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q39060004
+IDB-REG08-CAT04-ERA07-2010S-LAVA-IRIS-X9,manufacturer_or_creator,LAVA,https://www.wikidata.org/wiki/Q39060004
+IDB-REG08-CAT04-ERA07-2010S-REDMI-7,mass,180.0,https://www.wikidata.org/wiki/Q63111068
+IDB-REG08-CAT04-ERA07-2010S-REDMI-7,mass,180.0,https://www.wikidata.org/wiki/Q63111068
+IDB-REG08-CAT04-ERA07-2010S-REDMI-7,manufacturer_or_creator,Xiaomi,https://www.wikidata.org/wiki/Q63111068
+IDB-REG08-CAT04-ERA07-2010S-REDMI-7,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q63111068
+IDB-REG08-CAT04-ERA07-2010S-REDMI-7,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q63111068
+IDB-REG08-CAT04-ERA06-2010S-SONY-ERICSSON-XPERIA-X8,manufacturer_or_creator,Sony Mobile Communications,https://www.wikidata.org/wiki/Q2975303
+IDB-REG08-CAT04-ERA06-2010S-SONY-ERICSSON-XPERIA-X8,descriptive_identity,smartphone,https://www.wikidata.org/wiki/Q2975303
+IDB-REG08-CAT04-ERA06-2010S-SONY-ERICSSON-XPERIA-X8,descriptive_identity,smartphone model,https://www.wikidata.org/wiki/Q2975303
