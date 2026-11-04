@@ -1,0 +1,6 @@
+Attempted to fetch data from Wikidata Search API, Wikidata SPARQL endpoint, and Wikipedia API for electronics products in tasks/electronics/chunk-0009.csv.gz.
+Encountered severe IP bans and rate limits:
+- Wikidata Action API (wbsearchentities): HTTP Error 429 (Too Many Requests)
+- Wikipedia API (action=query): HTTP Error 429 (Too Many Requests)
+- Wikidata SPARQL Endpoint: HTTP Error 504 (Gateway Timeout) / empty results for fallback queries.
+No other reliable structured open APIs for consumer electronics specifications were found. Returning an empty result as all authorized APIs failed.
