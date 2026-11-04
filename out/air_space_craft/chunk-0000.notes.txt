@@ -1,0 +1,1 @@
+Queried Wikidata using POST, matching exact English labels. Excluded ambiguous labels (count > 1). Only retrieved values from statements containing a prov:wasDerivedFrom (reference). Used standard base SI conversions (m->mm, kg->g). Exported values as JSON serialized formats to preserve type constraints specified in COLUMNS.csv.
