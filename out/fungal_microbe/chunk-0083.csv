@@ -1,0 +1,453 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-1746484,occurrence_context,"""\\\""Published in: (1951). Lilloa 22: 153 (’1949′).\\\""""",https://api.gbif.org/v1/species/3345551
+LIBSRC-LIB50-ENT-BIO-1769844,occurrence_context,"""\\\""Published in: (2003). Persoonia 18(2): 227.\\\""""",https://api.gbif.org/v1/species/3323210
+LIBSRC-LIB50-ENT-BIO-1746224,occurrence_context,"""\\\""Published in: (1989). Cryptog. Mycol. 10(3): 191.\\\""""",https://api.gbif.org/v1/species/3345475
+LIBSRC-LIB50-ENT-BIO-1760524,occurrence_context,"""\\\""Published in: (1986). Aust. J. Bot. 33(6): 620 (’1985′).\\\""""",https://api.gbif.org/v1/species/7244516
+LIBSRC-LIB50-ENT-BIO-1756564,occurrence_context,"""\\\""Published in: (2003). Mycosystema 22(4): 518.\\\""""",https://api.gbif.org/v1/species/5481249
+LIBSRC-LIB50-ENT-BIO-1770924,occurrence_context,"""\\\""Published in: (2012). Taxonomic Manual of the Erysiphales (Powdery Mildews): 258.\\\""""",https://api.gbif.org/v1/species/7799981
+LIBSRC-LIB50-ENT-BIO-1742334,occurrence_context,"""\\\""Published in: (1911). Mycologia 3(4): 199.\\\""""",https://api.gbif.org/v1/species/3344471
+LIBSRC-LIB50-ENT-BIO-1755654,occurrence_context,"""\\\""Published in: (1921). Bot. Közl. 19: 46.\\\""""",https://api.gbif.org/v1/species/5253309
+LIBSRC-LIB50-ENT-BIO-1759554,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 297.\\\""""",https://api.gbif.org/v1/species/3319350
+LIBSRC-LIB50-ENT-BIO-1742474,occurrence_context,"""\\\""Published in: (1942). Lloydia 5(1): 34.\\\""""",https://api.gbif.org/v1/species/3344494
+LIBSRC-LIB50-ENT-BIO-1770194,occurrence_context,"""\\\""Published in: (2020). Mycol. Progr. 19(11): 1212.\\\""""",https://api.gbif.org/v1/species/12244062
+LIBSRC-LIB50-ENT-BIO-1764694,occurrence_context,"""\\\""Published in: (1979). Curr. Sci. 48(20): 906.\\\""""",https://api.gbif.org/v1/species/3317052
+LIBSRC-LIB50-ENT-BIO-1756224,occurrence_context,"""\\\""Published in: (1914). Annls Mycol. 12(3): 289.\\\""""",https://api.gbif.org/v1/species/3444688
+LIBSRC-LIB50-ENT-BIO-1759914,occurrence_context,"""\\\""Published in: (1946). J. Elisha Mitchell Scient. Soc. 62: 187.\\\""""",https://api.gbif.org/v1/species/8100833
+LIBSRC-LIB50-ENT-BIO-1742454,occurrence_context,"""\\\""Published in: (1916). N. Amer. Fl. (New York) 9(6): 394.\\\""""",https://api.gbif.org/v1/species/3345000
+LIBSRC-LIB50-ENT-BIO-1759564,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 393.\\\""""",https://api.gbif.org/v1/species/3319573
+LIBSRC-LIB50-ENT-BIO-1769104,occurrence_context,"""\\\""Published in: (2021). Micol. Veg. Medit. 35(2): 152 (’2020′).\\\""""",https://api.gbif.org/v1/species/12215899
+LIBSRC-LIB50-ENT-BIO-1742514,occurrence_context,"""\\\""Published in: (1942). Lloydia 5(1): 88.\\\""""",https://api.gbif.org/v1/species/3344538
+LIBSRC-LIB50-ENT-BIO-1749394,occurrence_context,"""\\\""Published in: (2013). Mycosystema 32: 129.\\\""""",https://api.gbif.org/v1/species/7828155
+LIBSRC-LIB50-ENT-BIO-1756344,occurrence_context,"""\\\""Published in: (1950). Sydowia 4(1-6): 564.\\\""""",https://api.gbif.org/v1/species/5253286
+LIBSRC-LIB50-ENT-BIO-1759644,occurrence_context,"""\\\""Published in: (1979). Mycologia 70(6): 1259 (’1978′).\\\""""",https://api.gbif.org/v1/species/3319261
+LIBSRC-LIB50-ENT-BIO-1742304,occurrence_context,"""\\\""Published in: (1903). Bull. N.Y. St. Mus. 67: 23.\\\""""",https://api.gbif.org/v1/species/3344687
+LIBSRC-LIB50-ENT-BIO-1769744,occurrence_context,"""\\\""Published in: (1980). Notes R. Bot. Gdn Edinb. 38(2): 333.\\\""""",https://api.gbif.org/v1/species/2529778
+LIBSRC-LIB50-ENT-BIO-1755964,occurrence_context,"""\\\""Published in: (1963). Trans. Wis. Acad. Sci. Arts Lett. 51: 75 (’1962′).\\\""""",https://api.gbif.org/v1/species/5481359
+LIBSRC-LIB50-ENT-BIO-1767214,occurrence_context,"""\\\""Published in: (2020). Mycol. Progr. 19(11): 1213.\\\""""",https://api.gbif.org/v1/species/12237563
+LIBSRC-LIB50-ENT-BIO-1742534,occurrence_context,"""\\\""Published in: (1992). Boll. Assoc. Micol. Ecol. Romana 9(no. 27): 8.\\\""""",https://api.gbif.org/v1/species/3344431
+LIBSRC-LIB50-ENT-BIO-1746274,occurrence_context,"""\\\""Published in: (1978). Kew Bull. 32(2): 303.\\\""""",https://api.gbif.org/v1/species/3345422
+LIBSRC-LIB50-ENT-BIO-1742624,occurrence_context,"""\\\""Published in: (2021). MycoKeys 79: 142.\\\""""",https://api.gbif.org/v1/species/11208825
+LIBSRC-LIB50-ENT-BIO-1759754,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 314.\\\""""",https://api.gbif.org/v1/species/3319115
+LIBSRC-LIB50-ENT-BIO-1759314,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 236.\\\""""",https://api.gbif.org/v1/species/3319414
+LIBSRC-LIB50-ENT-BIO-1757964,occurrence_context,"""\\\""Published in: (2006). CBS Diversity Ser. (Utrecht) 5: 132.\\\""""",https://api.gbif.org/v1/species/3534983
+LIBSRC-LIB50-ENT-BIO-1771154,occurrence_context,"""\\\""Published in: (2012). Taxonomic Manual of the Erysiphales (Powdery Mildews): 185.\\\""""",https://api.gbif.org/v1/species/7877718
+LIBSRC-LIB50-ENT-BIO-1770694,occurrence_context,"""\\\""Published in: (2019). Boll. Assoc. Micol. Ecol. Romana 108(3): 132.\\\""""",https://api.gbif.org/v1/species/10833478
+LIBSRC-LIB50-ENT-BIO-1755904,occurrence_context,"""\\\""Published in: (1916). Annls Mycol. 14(3/4): 170.\\\""""",https://api.gbif.org/v1/species/5481378
+LIBSRC-LIB50-ENT-BIO-1759544,occurrence_context,"""\\\""Published in: (2020). Boll. Assoc. Micol. Ecol. Romana 109(1): 12.\\\""""",https://api.gbif.org/v1/species/12251085
+LIBSRC-LIB50-ENT-BIO-1753094,occurrence_context,"""\\\""Published in: (1914). Annls Mycol. 12(3): 288.\\\""""",https://api.gbif.org/v1/species/3298490
+LIBSRC-LIB50-ENT-BIO-1756884,occurrence_context,"""\\\""Published in: (1955). Agron. Lusit. 17(2-4): 125.\\\""""",https://api.gbif.org/v1/species/5481119
+LIBSRC-LIB50-ENT-BIO-1759764,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 178.\\\""""",https://api.gbif.org/v1/species/3319789
+LIBSRC-LIB50-ENT-BIO-1756144,occurrence_context,"""\\\""Published in: (1925). Mycologia 17(6): 242.\\\""""",https://api.gbif.org/v1/species/5481596
+LIBSRC-LIB50-ENT-BIO-1757624,occurrence_context,"""\\\""Published in: (1941). Annls Mycol. 39(1): 50.\\\""""",https://api.gbif.org/v1/species/2541615
+LIBSRC-LIB50-ENT-BIO-1757534,occurrence_context,"""\\\""Published in: (2007). Syn. Fung. (Oslo) 23: 19.\\\""""",https://api.gbif.org/v1/species/3362563
+LIBSRC-LIB50-ENT-BIO-1750694,occurrence_context,"""\\\""Published in: (1958). Symb. Bot. Upsal. 16(no. 1): 136.\\\""""",https://api.gbif.org/v1/species/2544607
+LIBSRC-LIB50-ENT-BIO-1756094,occurrence_context,"""\\\""Published in: (1917). Fungi Horti Matrit.: 37.\\\""""",https://api.gbif.org/v1/species/5481248
+LIBSRC-LIB50-ENT-BIO-1756454,occurrence_context,"""\\\""Published in: (1952). Sydowia 6(5-6): 400.\\\""""",https://api.gbif.org/v1/species/3444658
+LIBSRC-LIB50-ENT-BIO-1756394,occurrence_context,"""\\\""Published in: (1968). Mycopath. Mycol. Appl. 36(3-4): 273.\\\""""",https://api.gbif.org/v1/species/5481594
+LIBSRC-LIB50-ENT-BIO-1755784,occurrence_context,"""\\\""Published in: (1980). Arch. Protistenk. 123(2): 236.\\\""""",https://api.gbif.org/v1/species/5481496
+LIBSRC-LIB50-ENT-BIO-1756764,occurrence_context,"""\\\""Published in: (1957). Sydowia 10(1-6): 302 (’1956′).\\\""""",https://api.gbif.org/v1/species/5481305
+LIBSRC-LIB50-ENT-BIO-1755864,occurrence_context,"""\\\""Published in: (1913). Annls Mycol. 11(4): 365.\\\""""",https://api.gbif.org/v1/species/5481279
+LIBSRC-LIB50-ENT-BIO-1756784,occurrence_context,"""\\\""Published in: (1918). Hedwigia 60: 208.\\\""""",https://api.gbif.org/v1/species/8651097
+LIBSRC-LIB50-ENT-BIO-1756974,occurrence_context,"""\\\""Published in: (1911). Annls Mycol. 9(1): 29.\\\""""",https://api.gbif.org/v1/species/5481648
+LIBSRC-LIB50-ENT-BIO-1756714,occurrence_context,"""\\\""Published in: (1870). Jb. Nassau. Ver. Naturk. 23-24: 204 (’1869-70′).\\\""""",https://api.gbif.org/v1/species/8908808
+LIBSRC-LIB50-ENT-BIO-1755704,occurrence_context,"""\\\""Published in: (1981). Nova Hedwigia 34(3 & 4): 433.\\\""""",https://api.gbif.org/v1/species/2568017
+LIBSRC-LIB50-ENT-BIO-1755874,occurrence_context,"""\\\""Published in: (1879). Michelia 1(no. 5): 457.\\\""""",https://api.gbif.org/v1/species/2567907
+LIBSRC-LIB50-ENT-BIO-1756504,occurrence_context,"""\\\""Published in: (1933). Phytopath. Z. 5: 255.\\\""""",https://api.gbif.org/v1/species/5253317
+LIBSRC-LIB50-ENT-BIO-1755774,occurrence_context,"""\\\""Published in: (1963). Trans. Wis. Acad. Sci. Arts Lett. 52: 252.\\\""""",https://api.gbif.org/v1/species/5481225
+LIBSRC-LIB50-ENT-BIO-1755924,occurrence_context,"""\\\""Published in: (1980). National Academy Science Letters 3(5): 139.\\\""""",https://api.gbif.org/v1/species/5481386
+LIBSRC-LIB50-ENT-BIO-1755634,occurrence_context,"""\\\""Published in: (1938). Notul. Syst. Sect. Cryptog. Inst. Bot. Acad. Sci. U.S.S.R. 4(10-12): 36.\\\""""",https://api.gbif.org/v1/species/5481339
+LIBSRC-LIB50-ENT-BIO-1756464,occurrence_context,"""\\\""Published in: (2005). Mycosystema 24(2): 149.\\\""""",https://api.gbif.org/v1/species/5481504
+LIBSRC-LIB50-ENT-BIO-1756894,occurrence_context,"""\\\""Published in: (1915). Krypt.-Fl. Brandenburg (Leipzig) 9(5): 902.\\\""""",https://api.gbif.org/v1/species/5481550
+LIBSRC-LIB50-ENT-BIO-1756434,occurrence_context,"""\\\""Published in: (1951). Agron. Lusit. 13: 134.\\\""""",https://api.gbif.org/v1/species/5253496
+LIBSRC-LIB50-ENT-BIO-1756044,occurrence_context,"""\\\""Published in: (1949). Agron. Lusit. 11(1): 57.\\\""""",https://api.gbif.org/v1/species/5481405
+LIBSRC-LIB50-ENT-BIO-1756444,occurrence_context,"""\\\""Published in: (1992). Journal of South China Agricultural University 13(1): 94.\\\""""",https://api.gbif.org/v1/species/5481361
+LIBSRC-LIB50-ENT-BIO-1756984,occurrence_context,"""\\\""Published in: (1915). Hedwigia 57: 9.\\\""""",https://api.gbif.org/v1/species/5480993
+LIBSRC-LIB50-ENT-BIO-1756594,occurrence_context,"""\\\""Published in: (1884). Syll. Fung. (Abellini) 3: 154.\\\""""",https://api.gbif.org/v1/species/5253348
+LIBSRC-LIB50-ENT-BIO-1757004,occurrence_context,"""\\\""Published in: (2012). Cryptog. Mycol. 33(3): 305.\\\""""",https://api.gbif.org/v1/species/7906529
+LIBSRC-LIB50-ENT-BIO-1756324,occurrence_context,"""\\\""Published in: (1879). Grevillea 7(no. 43): 81.\\\""""",https://api.gbif.org/v1/species/2567808
+LIBSRC-LIB50-ENT-BIO-1756364,occurrence_context,"""\\\""Published in: (1987). Trans. Br. Mycol. Soc. 89(3): 405.\\\""""",https://api.gbif.org/v1/species/5481500
+LIBSRC-LIB50-ENT-BIO-1755664,occurrence_context,"""\\\""Published in: (1981). Environment India 3(1 & 2): 16 (’1980′).\\\""""",https://api.gbif.org/v1/species/5481164
+LIBSRC-LIB50-ENT-BIO-1756254,occurrence_context,"""\\\""Published in: (1882). Syll. Fung. (Abellini) 1: 614.\\\""""",https://api.gbif.org/v1/species/2567759
+LIBSRC-LIB50-ENT-BIO-1756284,occurrence_context,"""\\\""Published in: (1979). Indian Phytopath. 31(2): 176 (’1978′).\\\""""",https://api.gbif.org/v1/species/5481629
+LIBSRC-LIB50-ENT-BIO-1756244,occurrence_context,"""\\\""Published in: (2013). Persoonia 31: 24.\\\""""",https://api.gbif.org/v1/species/7528648
+LIBSRC-LIB50-ENT-BIO-1756724,occurrence_context,"""\\\""Published in: (1870). Pyrenomyc. Germ. 2: 318.\\\""""",https://api.gbif.org/v1/species/7256965
+LIBSRC-LIB50-ENT-BIO-1756804,occurrence_context,"""\\\""Published in: (1871). Jb. Nassau. Ver. Naturk. 25-26: 318.\\\""""",https://api.gbif.org/v1/species/8607126
+LIBSRC-LIB50-ENT-BIO-1755914,occurrence_context,"""\\\""Published in: (1916). Annls Mycol. 14(3/4): 171.\\\""""",https://api.gbif.org/v1/species/5481408
+LIBSRC-LIB50-ENT-BIO-1755614,occurrence_context,"""\\\""Published in: (1921). Bot. Gaz. 72(5): 288.\\\""""",https://api.gbif.org/v1/species/5481532
+LIBSRC-LIB50-ENT-BIO-1755804,occurrence_context,"""\\\""Published in: (1945). An. Jard. Bot. Madr. 5: 150 (’1946′).\\\""""",https://api.gbif.org/v1/species/5481092
+LIBSRC-LIB50-ENT-BIO-1756064,occurrence_context,"""\\\""Published in: (1979). Curr. Sci. 48(13): 590.\\\""""",https://api.gbif.org/v1/species/5481635
+LIBSRC-LIB50-ENT-BIO-1756334,occurrence_context,"""\\\""Published in: (1976). Kavaka 3: 29 (’1975′).\\\""""",https://api.gbif.org/v1/species/2567962
+LIBSRC-LIB50-ENT-BIO-1756154,occurrence_context,"""\\\""Published in: (1912). Anal. Mus. Nac. Hist. Nat. B. Aires 23: 54.\\\""""",https://api.gbif.org/v1/species/3444561
+LIBSRC-LIB50-ENT-BIO-1756024,occurrence_context,"""\\\""Published in: (1945). Bull. Soc. Hist. Nat. Afr. N. 36(3): 41.\\\""""",https://api.gbif.org/v1/species/5481179
+LIBSRC-LIB50-ENT-BIO-1756294,occurrence_context,"""\\\""Published in: (1974). Trans. Br. Mycol. Soc. 63(2): 229.\\\""""",https://api.gbif.org/v1/species/5253488
+LIBSRC-LIB50-ENT-BIO-1755764,occurrence_context,"""\\\""Published in: (1928). J. Agric. Exp. Stn Gov.-Gen. Chosen 15: 119.\\\""""",https://api.gbif.org/v1/species/5481501
+LIBSRC-LIB50-ENT-BIO-1756124,occurrence_context,"""\\\""Published in: (1981). Indian Phytopath. 33(4): 555 (’1980′).\\\""""",https://api.gbif.org/v1/species/5481227
+LIBSRC-LIB50-ENT-BIO-1756964,occurrence_context,"""\\\""Published in: (1911). Annls Mycol. 9(1): 26.\\\""""",https://api.gbif.org/v1/species/5481357
+LIBSRC-LIB50-ENT-BIO-1756874,occurrence_context,"""\\\""Published in: (2022). Index Fungorum 513: 1.\\\""""",https://api.gbif.org/v1/species/7860881
+LIBSRC-LIB50-ENT-BIO-1756424,occurrence_context,"""\\\""Published in: (1969). Mikol. Fitopatol. 3: 545.\\\""""",https://api.gbif.org/v1/species/5481508
+LIBSRC-LIB50-ENT-BIO-1756624,occurrence_context,"""\\\""Published in: (1925). Hedwigia 65: 292.\\\""""",https://api.gbif.org/v1/species/5481058
+LIBSRC-LIB50-ENT-BIO-1758764,occurrence_context,"""\\\""Published in: (1967). Mycopath. Mycol. Appl. 32: 264.\\\""""",https://api.gbif.org/v1/species/3536721
+LIBSRC-LIB50-ENT-BIO-1757934,occurrence_context,"""\\\""Published in: (1983). Ueber Die Heterogene Ascomycetengattung Pleospora Rabh.; Vorschlag Für Eine Aufteilung (Diss. Eid Genössischen Technischen Hochschule Zürich 7318): 154.\\\""""",https://api.gbif.org/v1/species/3534977
+LIBSRC-LIB50-ENT-BIO-1758704,occurrence_context,"""\\\""Published in: (1970). Nov. Sist. Niz. Rast. 7: 177.\\\""""",https://api.gbif.org/v1/species/3536469
+LIBSRC-LIB50-ENT-BIO-1758714,occurrence_context,"""\\\""Published in: (1953). Sydowia 7(5-6): 385.\\\""""",https://api.gbif.org/v1/species/3536593
+LIBSRC-LIB50-ENT-BIO-1752454,occurrence_context,"""\\\""Published in: (1880). Michelia 2(no. 6): 73.\\\""""",https://api.gbif.org/v1/species/2614822
+LIBSRC-LIB50-ENT-BIO-1758874,occurrence_context,"""\\\""Published in: (2004). Fungal Diversity Res. Ser. 13: 77.\\\""""",https://api.gbif.org/v1/species/3536701
+LIBSRC-LIB50-ENT-BIO-1757954,occurrence_context,"""\\\""Published in: (1983). Ueber Die Heterogene Ascomycetengattung Pleospora Rabh.; Vorschlag Für Eine Aufteilung (Diss. Eid Genössischen Technischen Hochschule Zürich 7318): 155.\\\""""",https://api.gbif.org/v1/species/2615587
+LIBSRC-LIB50-ENT-BIO-1758914,occurrence_context,"""\\\""Published in: (1914). Leafl. of Philipp. Bot. 6(no. 103): 2223.\\\""""",https://api.gbif.org/v1/species/3534922
+LIBSRC-LIB50-ENT-BIO-1758694,occurrence_context,"""\\\""Published in: (1924). Trudy Sibir. Selsk. Chos. Akad. Omsk 4: 121.\\\""""",https://api.gbif.org/v1/species/3536553
+LIBSRC-LIB50-ENT-BIO-1758784,occurrence_context,"""\\\""Published in: (1914). Annln K. K. Naturh. Hofmus. Wien 28(1-2): 198.\\\""""",https://api.gbif.org/v1/species/3536642
+LIBSRC-LIB50-ENT-BIO-1758864,occurrence_context,"""\\\""Published in: (1928). Bot. Jb. 142: 103.\\\""""",https://api.gbif.org/v1/species/3536645
+LIBSRC-LIB50-ENT-BIO-1758664,occurrence_context,"""\\\""Published in: (1957). Dansk Bot. Ark. 17(no. 1): 433.\\\""""",https://api.gbif.org/v1/species/3536547
+LIBSRC-LIB50-ENT-BIO-1751344,occurrence_context,"""\\\""Published in: (1970). Nov. Sist. Niz. Rast. 7: 193.\\\""""",https://api.gbif.org/v1/species/3537030
+LIBSRC-LIB50-ENT-BIO-1751024,occurrence_context,"""\\\""Published in: (1941). Agron. Lusit. 3(1): 27.\\\""""",https://api.gbif.org/v1/species/3534938
+LIBSRC-LIB50-ENT-BIO-1749654,occurrence_context,"""\\\""Published in: (1922). Mycol. Writ. (Cincinnati) 7(Letter 66): 1118.\\\""""",https://api.gbif.org/v1/species/5459097
+LIBSRC-LIB50-ENT-BIO-1759484,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 161.\\\""""",https://api.gbif.org/v1/species/3319171
+LIBSRC-LIB50-ENT-BIO-1759784,occurrence_context,"""\\\""Published in: (1891). Hedwigia 30: 298.\\\""""",https://api.gbif.org/v1/species/2534727
+LIBSRC-LIB50-ENT-BIO-1768904,occurrence_context,"""\\\""Published in: (2020). Mycotaxon 135(6): 326.\\\""""",https://api.gbif.org/v1/species/11414227
+LIBSRC-LIB50-ENT-BIO-1770234,occurrence_context,"""\\\""Published in: (2020). Mycol. Progr. 19(11): 1210.\\\""""",https://api.gbif.org/v1/species/12225162
+LIBSRC-LIB50-ENT-BIO-1759604,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 359.\\\""""",https://api.gbif.org/v1/species/3319725
+LIBSRC-LIB50-ENT-BIO-1759374,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 155.\\\""""",https://api.gbif.org/v1/species/3319083
+LIBSRC-LIB50-ENT-BIO-1771104,occurrence_context,"""\\\""Published in: (1913). Syll. Fung. (Abellini) 22(1): 408.\\\""""",https://api.gbif.org/v1/species/3524664
+LIBSRC-LIB50-ENT-BIO-1760124,occurrence_context,"""\\\""Published in: (1982). Biblthca Mycol. 90: 433.\\\""""",https://api.gbif.org/v1/species/2534928
+LIBSRC-LIB50-ENT-BIO-1759984,occurrence_context,"""\\\""Published in: (2017). Index Fungorum 330: 1.\\\""""",https://api.gbif.org/v1/species/9295653
+LIBSRC-LIB50-ENT-BIO-1759974,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 181.\\\""""",https://api.gbif.org/v1/species/3319494
+LIBSRC-LIB50-ENT-BIO-1759354,occurrence_context,"""\\\""Published in: (2022). Austrian J. Mycol. 30: 2.\\\""""",https://api.gbif.org/v1/species/12184873
+LIBSRC-LIB50-ENT-BIO-1759584,occurrence_context,"""\\\""Published in: (2021). Micol. Veg. Medit. 35(2): 157 (’2020′).\\\""""",https://api.gbif.org/v1/species/12212001
+LIBSRC-LIB50-ENT-BIO-1760094,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 415.\\\""""",https://api.gbif.org/v1/species/3319216
+LIBSRC-LIB50-ENT-BIO-1759774,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 390.\\\""""",https://api.gbif.org/v1/species/3319649
+LIBSRC-LIB50-ENT-BIO-1759724,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 316.\\\""""",https://api.gbif.org/v1/species/3319511
+LIBSRC-LIB50-ENT-BIO-1770424,occurrence_context,"""\\\""Published in: (1925). Révision Des Hyménomycètes De France: 91.\\\""""",https://api.gbif.org/v1/species/5242792
+LIBSRC-LIB50-ENT-BIO-1770204,occurrence_context,"""\\\""Published in: (2020). Mycol. Progr. 19(11): 1213.\\\""""",https://api.gbif.org/v1/species/12229229
+LIBSRC-LIB50-ENT-BIO-1759844,occurrence_context,"""\\\""Published in: (2019). Boll. Assoc. Micol. Ecol. Romana 108(3): 130.\\\""""",https://api.gbif.org/v1/species/10706235
+LIBSRC-LIB50-ENT-BIO-1766354,occurrence_context,"""\\\""Published in: (2020). Mycol. Progr. 19(11): 1234.\\\""""",https://api.gbif.org/v1/species/12249973
+LIBSRC-LIB50-ENT-BIO-1760024,occurrence_context,"""\\\""Published in: (1997). Larger Fungi of South Australia (Adelaide): 491.\\\""""",https://api.gbif.org/v1/species/2535071
+LIBSRC-LIB50-ENT-BIO-1759804,occurrence_context,"""\\\""Published in: (1985). Mycol. Helv. 1(6): 402.\\\""""",https://api.gbif.org/v1/species/3319315
+LIBSRC-LIB50-ENT-BIO-1760074,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 126.\\\""""",https://api.gbif.org/v1/species/3319824
+LIBSRC-LIB50-ENT-BIO-1766374,occurrence_context,"""\\\""Published in: (2020). Mycol. Progr. 19(11): 1232.\\\""""",https://api.gbif.org/v1/species/12193807
+LIBSRC-LIB50-ENT-BIO-1759434,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 189.\\\""""",https://api.gbif.org/v1/species/3319299
+LIBSRC-LIB50-ENT-BIO-1759364,occurrence_context,"""\\\""Published in: (2008). Mycol. Res. 112(10): 1173.\\\""""",https://api.gbif.org/v1/species/3319642
+LIBSRC-LIB50-ENT-BIO-1759614,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 215.\\\""""",https://api.gbif.org/v1/species/3319520
+LIBSRC-LIB50-ENT-BIO-1760064,occurrence_context,"""\\\""Published in: (1949). Encyclop. Mycol. (Paris) 14: 128 (’1948′).\\\""""",https://api.gbif.org/v1/species/3319466
+LIBSRC-LIB50-ENT-BIO-1770214,occurrence_context,"""\\\""Published in: (2020). Mycol. Progr. 19(11): 1212.\\\""""",https://api.gbif.org/v1/species/12233409
+LIBSRC-LIB50-ENT-BIO-1759464,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 94.\\\""""",https://api.gbif.org/v1/species/3319622
+LIBSRC-LIB50-ENT-BIO-1759384,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 305.\\\""""",https://api.gbif.org/v1/species/3319190
+LIBSRC-LIB50-ENT-BIO-1759344,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 301.\\\""""",https://api.gbif.org/v1/species/3319450
+LIBSRC-LIB50-ENT-BIO-1759574,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 192.\\\""""",https://api.gbif.org/v1/species/3319133
+LIBSRC-LIB50-ENT-BIO-1759664,occurrence_context,"""\\\""Published in: (1939). Novitates Mycologicae Novissimae: 207.\\\""""",https://api.gbif.org/v1/species/3319134
+LIBSRC-LIB50-ENT-BIO-1759864,occurrence_context,"""\\\""Published in: (1948). Beitr. Kryptfl. Schweiz 10(no. 3): 150.\\\""""",https://api.gbif.org/v1/species/3319746
+LIBSRC-LIB50-ENT-BIO-1759284,occurrence_context,"""\\\""Published in: (1966). Persoonia 4(2): 86.\\\""""",https://api.gbif.org/v1/species/3319813
+LIBSRC-LIB50-ENT-BIO-1771094,occurrence_context,"""\\\""Published in: (1975). Stud. Mycol. 9: 17.\\\""""",https://api.gbif.org/v1/species/2613034
+LIBSRC-LIB50-ENT-BIO-1759414,occurrence_context,"""\\\""Published in: (1967). Darwiniana 14(2-3): 368.\\\""""",https://api.gbif.org/v1/species/3319830
+LIBSRC-LIB50-ENT-BIO-1764864,occurrence_context,"""\\\""Published in: (2022). Mycological Observations 2: 9.\\\""""",https://api.gbif.org/v1/species/11988062
+LIBSRC-LIB50-ENT-BIO-1759254,occurrence_context,"""\\\""Published in: (2020). Boll. Assoc. Micol. Ecol. Romana 109(1): 13.\\\""""",https://api.gbif.org/v1/species/12243098
+LIBSRC-LIB50-ENT-BIO-1759894,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 60.\\\""""",https://api.gbif.org/v1/species/3319590
+LIBSRC-LIB50-ENT-BIO-1759524,occurrence_context,"""\\\""Published in: (2021). Micol. Veg. Medit. 35(2): 164 (’2020′).\\\""""",https://api.gbif.org/v1/species/12258035
+LIBSRC-LIB50-ENT-BIO-1759514,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 203.\\\""""",https://api.gbif.org/v1/species/3319211
+LIBSRC-LIB50-ENT-BIO-1769304,occurrence_context,"""\\\""Published in: (2019). Boll. Assoc. Micol. Ecol. Romana 107(2): 94.\\\""""",https://api.gbif.org/v1/species/12195855
+LIBSRC-LIB50-ENT-BIO-1759994,occurrence_context,"""\\\""Published in: (1972). Mem. N. Y. Bot. Gdn 24: 40.\\\""""",https://api.gbif.org/v1/species/3319252
+LIBSRC-LIB50-ENT-BIO-1759474,occurrence_context,"""\\\""Published in: (2008). Mycol. Res. 112(10): 1176.\\\""""",https://api.gbif.org/v1/species/3319635
+LIBSRC-LIB50-ENT-BIO-1760114,occurrence_context,"""\\\""Published in: (1951). Lilloa 22: 470 (’1949′).\\\""""",https://api.gbif.org/v1/species/3319317
+LIBSRC-LIB50-ENT-BIO-1771324,occurrence_context,"""\\\""Published in: (1993). Mycotaxon 47: 406.\\\""""",https://api.gbif.org/v1/species/2552441
+LIBSRC-LIB50-ENT-BIO-1771614,occurrence_context,"""\\\""Published in: (1989). Mycol. Res. 92(2): 153.\\\""""",https://api.gbif.org/v1/species/2598410
+LIBSRC-LIB50-ENT-BIO-1771644,occurrence_context,"""\\\""Published in: (2011). Persoonia 27: 65.\\\""""",https://api.gbif.org/v1/species/7883838
+LIBSRC-LIB50-ENT-BIO-1776444,occurrence_context,"""\\\""Published in: Int. J. Syst. Evol. Microbiol. 65::3764\\\""""",https://api.gbif.org/v1/species/9072606
+LIBSRC-LIB50-ENT-BIO-1779854,occurrence_context,"""\\\""Published in: Int. J. Syst. Evol. Microbiol. 50::139\\\""""",https://api.gbif.org/v1/species/3222222
+LIBSRC-LIB50-ENT-BIO-1779534,occurrence_context,"""\\\""Published in: Int. J. Syst. Evol. Microbiol. 62::2576\\\""""",https://api.gbif.org/v1/species/7844215
+LIBSRC-LIB50-ENT-BIO-1775864,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 27.\\\""""",https://api.gbif.org/v1/species/5255364
+LIBSRC-LIB50-ENT-BIO-1772494,occurrence_context,"""\\\""Published in: (1983). Mycotaxon 18(1): 123.\\\""""",https://api.gbif.org/v1/species/3482262
+LIBSRC-LIB50-ENT-BIO-1773334,occurrence_context,"""\\\""Published in: (1976). More Dematiaceous Hyphomycetes (Kew): 210.\\\""""",https://api.gbif.org/v1/species/2588963
+LIBSRC-LIB50-ENT-BIO-1772774,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 24.\\\""""",https://api.gbif.org/v1/species/2578580
+LIBSRC-LIB50-ENT-BIO-1772604,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 23.\\\""""",https://api.gbif.org/v1/species/2578389
+LIBSRC-LIB50-ENT-BIO-1772594,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 7.\\\""""",https://api.gbif.org/v1/species/2578858
+LIBSRC-LIB50-ENT-BIO-1775404,occurrence_context,"""\\\""Published in: (1978). Mycotaxon 7(2): 321.\\\""""",https://api.gbif.org/v1/species/2516787
+LIBSRC-LIB50-ENT-BIO-1775924,occurrence_context,"""\\\""Published in: (1967). Atas Inst. Micol. Univ. Recife 5: 45.\\\""""",https://api.gbif.org/v1/species/3473886
+LIBSRC-LIB50-ENT-BIO-1774434,occurrence_context,"""\\\""Published in: (1971). Sydowia 24(1-6): 171 (’1970′).\\\""""",https://api.gbif.org/v1/species/5509678
+LIBSRC-LIB50-ENT-BIO-1775784,occurrence_context,"""\\\""Published in: (1874). Bull. Torrey Bot. Club 5: 3.\\\""""",https://api.gbif.org/v1/species/5495315
+LIBSRC-LIB50-ENT-BIO-1801614,occurrence_context,"""\\\""Published in: (2000). Bot. Jb. 122(1): 25.\\\""""",https://api.gbif.org/v1/species/3402291
+LIBSRC-LIB50-ENT-BIO-1801884,occurrence_context,"""\\\""Published in: (1994). Graphis Scripta 6(1): 37.\\\""""",https://api.gbif.org/v1/species/3402413
+LIBSRC-LIB50-ENT-BIO-1801584,occurrence_context,"""\\\""Published in: (2006). Cryptog. Mycol. 27(2): 128.\\\""""",https://api.gbif.org/v1/species/3402303
+LIBSRC-LIB50-ENT-BIO-1772464,occurrence_context,"""\\\""Published in: (1961). Notul. Syst. Sect. Cryptog. Inst. Bot. Acad. Sci. U.S.S.R. 14: 119.\\\""""",https://api.gbif.org/v1/species/3482967
+LIBSRC-LIB50-ENT-BIO-1773344,occurrence_context,"""\\\""Published in: (2009). Mycotaxon 110: 449.\\\""""",https://api.gbif.org/v1/species/7899572
+LIBSRC-LIB50-ENT-BIO-1776024,occurrence_context,"""\\\""Published in: (1991). Mycotaxon 41(2): 423.\\\""""",https://api.gbif.org/v1/species/5493350
+LIBSRC-LIB50-ENT-BIO-1772344,occurrence_context,"""\\\""Published in: (1845). Cat. Pl. Mars.: 192.\\\""""",https://api.gbif.org/v1/species/8099094
+LIBSRC-LIB50-ENT-BIO-1775384,occurrence_context,"""\\\""Published in: (1961). Mycologia 52(3): 357 (’1960′).\\\""""",https://api.gbif.org/v1/species/3499699
+LIBSRC-LIB50-ENT-BIO-1771714,occurrence_context,"""\\\""Published in: (2008). Stud. Mycol. 61: 188.\\\""""",https://api.gbif.org/v1/species/7378787
+LIBSRC-LIB50-ENT-BIO-1776124,occurrence_context,"""\\\""Published in: (1992). Cryptog. Bot. 2(4): 351.\\\""""",https://api.gbif.org/v1/species/5495120
+LIBSRC-LIB50-ENT-BIO-1773974,occurrence_context,"""\\\""Published in: (1867). Pyrenomyc. Germ. 1: 92.\\\""""",https://api.gbif.org/v1/species/2565659
+LIBSRC-LIB50-ENT-BIO-1799774,occurrence_context,"""\\\""Published in: (1988). Antonie Van Leeuwenhoek 54: 545-553.\\\""""",https://api.gbif.org/v1/species/10885061
+LIBSRC-LIB50-ENT-BIO-1775464,occurrence_context,"""\\\""Published in: (2008). Persoonia 20: 47.\\\""""",https://api.gbif.org/v1/species/3458710
+LIBSRC-LIB50-ENT-BIO-1774014,occurrence_context,"""\\\""Published in: (1917). Ann. R. Bot. Gdns Peradeniya 6(3): 222.\\\""""",https://api.gbif.org/v1/species/3458734
+LIBSRC-LIB50-ENT-BIO-1772784,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 23.\\\""""",https://api.gbif.org/v1/species/2578320
+LIBSRC-LIB50-ENT-BIO-1801894,occurrence_context,"""\\\""Published in: (2018). Taxon 67(5): 896.\\\""""",https://api.gbif.org/v1/species/10349922
+LIBSRC-LIB50-ENT-BIO-1774464,occurrence_context,"""\\\""Published in: (1958). Sydowia 11(1-6): 456 (’1957′).\\\""""",https://api.gbif.org/v1/species/5509668
+LIBSRC-LIB50-ENT-BIO-1786394,occurrence_context,"""\\\""Published in: (1890). Annln K. K. Naturh. Hofmus. Wien 5: 43.\\\""""",https://api.gbif.org/v1/species/5260770
+LIBSRC-LIB50-ENT-BIO-1774484,occurrence_context,"""\\\""Published in: (1954). Beitr. Kryptfl. Schweiz 11(no. 1): 75.\\\""""",https://api.gbif.org/v1/species/5509675
+LIBSRC-LIB50-ENT-BIO-1798574,occurrence_context,"""\\\""Published in: (2022). Mycosphere 13(1): 192.\\\""""",https://api.gbif.org/v1/species/12255903
+LIBSRC-LIB50-ENT-BIO-1775234,occurrence_context,"""\\\""Published in: (1904). Bull. Soc. Mycol. Fr. 20: 61.\\\""""",https://api.gbif.org/v1/species/3384618
+LIBSRC-LIB50-ENT-BIO-1775264,occurrence_context,"""\\\""Published in: (1951). Bull. Torrey Bot. Club 78(1): 38.\\\""""",https://api.gbif.org/v1/species/3384636
+LIBSRC-LIB50-ENT-BIO-1777204,occurrence_context,"""\\\""Published in: (1993). Can. J. Bot. 71(3): 415.\\\""""",https://api.gbif.org/v1/species/2627332
+LIBSRC-LIB50-ENT-BIO-1801824,occurrence_context,"""\\\""Published in: (2016). Telopea 19: 148.\\\""""",https://api.gbif.org/v1/species/10679142
+LIBSRC-LIB50-ENT-BIO-1800274,occurrence_context,"""\\\""Published in: (2008). Lichenologist 40(1): 26.\\\""""",https://api.gbif.org/v1/species/3393970
+LIBSRC-LIB50-ENT-BIO-1799414,occurrence_context,"""\\\""Published in: (2015). Lichenologist 47(2): 137.\\\""""",https://api.gbif.org/v1/species/8966232
+LIBSRC-LIB50-ENT-BIO-1800744,occurrence_context,"""\\\""Published in: (2014). Herzogia 27: 351.\\\""""",https://api.gbif.org/v1/species/10808556
+LIBSRC-LIB50-ENT-BIO-1800284,occurrence_context,"""\\\""Published in: (2002). Bot. J. Linn. Soc. 139(2): 178.\\\""""",https://api.gbif.org/v1/species/3393989
+LIBSRC-LIB50-ENT-BIO-1799424,occurrence_context,"""\\\""Published in: (1986). Folia Geobot. Phytotax. 21(2): 215.\\\""""",https://api.gbif.org/v1/species/2608691
+LIBSRC-LIB50-ENT-BIO-1799494,occurrence_context,"""\\\""Published in: (2009). Opuscula Philolichenum 6: 166.\\\""""",https://api.gbif.org/v1/species/3402679
+LIBSRC-LIB50-ENT-BIO-1800924,occurrence_context,"""\\\""Published in: (2002). Lichenologist 34(5): 369.\\\""""",https://api.gbif.org/v1/species/3402713
+LIBSRC-LIB50-ENT-BIO-1798414,occurrence_context,"""\\\""Published in: (2017). Telopea 20: 148.\\\""""",https://api.gbif.org/v1/species/10689678
+LIBSRC-LIB50-ENT-BIO-1801804,occurrence_context,"""\\\""Published in: (1825). Syst. Orb. Veg. (Lundae) 1: 256.\\\""""",https://api.gbif.org/v1/species/2607377
+LIBSRC-LIB50-ENT-BIO-1798504,occurrence_context,"""\\\""Published in: (2017). Australas. Lichenol. 81: 19.\\\""""",https://api.gbif.org/v1/species/10846653
+LIBSRC-LIB50-ENT-BIO-1799514,occurrence_context,"""\\\""Published in: (1986). Folia Geobot. Phytotax. 21(2): 214.\\\""""",https://api.gbif.org/v1/species/3402629
+LIBSRC-LIB50-ENT-BIO-1801624,occurrence_context,"""\\\""Published in: (2014). Bryologist 117(3): 285.\\\""""",https://api.gbif.org/v1/species/10795208
+LIBSRC-LIB50-ENT-BIO-1798634,occurrence_context,"""\\\""Published in: (2000). Mycoscience 41(4): 379.\\\""""",https://api.gbif.org/v1/species/5513937
+LIBSRC-LIB50-ENT-BIO-1799804,occurrence_context,"""\\\""Published in: (1979). Mikol. Fitopatol. 13(6): 466.\\\""""",https://api.gbif.org/v1/species/5467818
+LIBSRC-LIB50-ENT-BIO-1799784,occurrence_context,"""\\\""Published in: (1974). Int. J. Syst. Bacteriol. 24(4): 486.\\\""""",https://api.gbif.org/v1/species/5467829
+LIBSRC-LIB50-ENT-BIO-1772574,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 24.\\\""""",https://api.gbif.org/v1/species/6019319
+LIBSRC-LIB50-ENT-BIO-1772714,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 22.\\\""""",https://api.gbif.org/v1/species/2578730
+LIBSRC-LIB50-ENT-BIO-1772424,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 13.\\\""""",https://api.gbif.org/v1/species/2578803
+LIBSRC-LIB50-ENT-BIO-1775824,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 30.\\\""""",https://api.gbif.org/v1/species/5255335
+LIBSRC-LIB50-ENT-BIO-1772434,occurrence_context,"""\\\""Published in: (2009). Mycoscience 50(6): 410.\\\""""",https://api.gbif.org/v1/species/8354983
+LIBSRC-LIB50-ENT-BIO-1772304,occurrence_context,"""\\\""Published in: (1992). Trans. Mycol. Soc. Japan 33(2): 208.\\\""""",https://api.gbif.org/v1/species/3482246
+LIBSRC-LIB50-ENT-BIO-1776164,occurrence_context,"""\\\""Published in: (2011). Bioscience Discovery 2(1): 38.\\\""""",https://api.gbif.org/v1/species/8097682
+LIBSRC-LIB50-ENT-BIO-1777474,occurrence_context,"""\\\""Published in: (1988). Ukr. Bot. Zh. 45(5): 62.\\\""""",https://api.gbif.org/v1/species/3483438
+LIBSRC-LIB50-ENT-BIO-1775814,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 31.\\\""""",https://api.gbif.org/v1/species/5255329
+LIBSRC-LIB50-ENT-BIO-1772724,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 12.\\\""""",https://api.gbif.org/v1/species/2578476
+LIBSRC-LIB50-ENT-BIO-1776214,occurrence_context,"""\\\""Published in: (2006). Indian Phytopath. 59(1): 78.\\\""""",https://api.gbif.org/v1/species/3483382
+LIBSRC-LIB50-ENT-BIO-1777494,occurrence_context,"""\\\""Published in: (1988). Ukr. Bot. Zh. 45(5): 62.\\\""""",https://api.gbif.org/v1/species/3483411
+LIBSRC-LIB50-ENT-BIO-1772514,occurrence_context,"""\\\""Published in: (1987). Mycotaxon 29: 67.\\\""""",https://api.gbif.org/v1/species/3482237
+LIBSRC-LIB50-ENT-BIO-1772704,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 16.\\\""""",https://api.gbif.org/v1/species/2578342
+LIBSRC-LIB50-ENT-BIO-1777354,occurrence_context,"""\\\""Published in: (2012). Taxonomic Manual of the Erysiphales (Powdery Mildews): 615.\\\""""",https://api.gbif.org/v1/species/8233704
+LIBSRC-LIB50-ENT-BIO-1776174,occurrence_context,"""\\\""Published in: (2004). Indian Phytopath. 57(4): 478.\\\""""",https://api.gbif.org/v1/species/5495121
+LIBSRC-LIB50-ENT-BIO-1772744,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 23.\\\""""",https://api.gbif.org/v1/species/2578410
+LIBSRC-LIB50-ENT-BIO-1772354,occurrence_context,"""\\\""Published in: (1967). Svensk Bot. Tidskr. 61: 224.\\\""""",https://api.gbif.org/v1/species/2578386
+LIBSRC-LIB50-ENT-BIO-1772694,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 4.\\\""""",https://api.gbif.org/v1/species/2578872
+LIBSRC-LIB50-ENT-BIO-1777334,occurrence_context,"""\\\""Published in: (2012). Taxonomic Manual of the Erysiphales (Powdery Mildews): 612.\\\""""",https://api.gbif.org/v1/species/7897430
+LIBSRC-LIB50-ENT-BIO-1775704,occurrence_context,"""\\\""Published in: (2012). Taxonomic Manual of the Erysiphales (Powdery Mildews): 158.\\\""""",https://api.gbif.org/v1/species/7539432
+LIBSRC-LIB50-ENT-BIO-1776134,occurrence_context,"""\\\""Published in: (1991). Sydowia 43: 28.\\\""""",https://api.gbif.org/v1/species/5495062
+LIBSRC-LIB50-ENT-BIO-1775834,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 27.\\\""""",https://api.gbif.org/v1/species/5255322
+LIBSRC-LIB50-ENT-BIO-1772314,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 8.\\\""""",https://api.gbif.org/v1/species/2578927
+LIBSRC-LIB50-ENT-BIO-1775874,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 27.\\\""""",https://api.gbif.org/v1/species/5255397
+LIBSRC-LIB50-ENT-BIO-1775744,occurrence_context,"""\\\""Published in: (1961). Flora Sporovykh Rasteniĭ Kazakhstana [Cryptogamic Flora of Kazakhstan] (Alma-Ata): 118.\\\""""",https://api.gbif.org/v1/species/5495330
+LIBSRC-LIB50-ENT-BIO-1772374,occurrence_context,"""\\\""Published in: (1984). Mikol. Fitopatol. 18(4): 463.\\\""""",https://api.gbif.org/v1/species/2578941
+LIBSRC-LIB50-ENT-BIO-1775664,occurrence_context,"""\\\""Published in: (2012). Taxonomic Manual of the Erysiphales (Powdery Mildews): 119.\\\""""",https://api.gbif.org/v1/species/8035768
+LIBSRC-LIB50-ENT-BIO-1772564,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 9.\\\""""",https://api.gbif.org/v1/species/2578732
+LIBSRC-LIB50-ENT-BIO-1777434,occurrence_context,"""\\\""Published in: (2012). Taxonomic Manual of the Erysiphales (Powdery Mildews): 314.\\\""""",https://api.gbif.org/v1/species/7564571
+LIBSRC-LIB50-ENT-BIO-1775354,occurrence_context,"""\\\""Published in: (1965). Mycopath. Mycol. Appl. 27: 207.\\\""""",https://api.gbif.org/v1/species/3483663
+LIBSRC-LIB50-ENT-BIO-1772734,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 18.\\\""""",https://api.gbif.org/v1/species/2578487
+LIBSRC-LIB50-ENT-BIO-1772614,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 13.\\\""""",https://api.gbif.org/v1/species/2578436
+LIBSRC-LIB50-ENT-BIO-1775844,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 28.\\\""""",https://api.gbif.org/v1/species/5255355
+LIBSRC-LIB50-ENT-BIO-1772634,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 13.\\\""""",https://api.gbif.org/v1/species/2578626
+LIBSRC-LIB50-ENT-BIO-1772644,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 11.\\\""""",https://api.gbif.org/v1/species/2578852
+LIBSRC-LIB50-ENT-BIO-1777384,occurrence_context,"""\\\""Published in: (2012). Taxonomic Manual of the Erysiphales (Powdery Mildews): 603.\\\""""",https://api.gbif.org/v1/species/7848796
+LIBSRC-LIB50-ENT-BIO-1778334,occurrence_context,"""\\\""Published in: (1999). Schlechtendalia 3: 50.\\\""""",https://api.gbif.org/v1/species/2578255
+LIBSRC-LIB50-ENT-BIO-1777514,occurrence_context,"""\\\""Published in: (1988). Ukr. Bot. Zh. 45(5): 63.\\\""""",https://api.gbif.org/v1/species/2578559
+LIBSRC-LIB50-ENT-BIO-1772324,occurrence_context,"""\\\""Published in: (2002). Persoonia 18(1): 139.\\\""""",https://api.gbif.org/v1/species/3482726
+LIBSRC-LIB50-ENT-BIO-1772584,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 12.\\\""""",https://api.gbif.org/v1/species/2578814
+LIBSRC-LIB50-ENT-BIO-1772674,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 5: 36.\\\""""",https://api.gbif.org/v1/species/3482332
+LIBSRC-LIB50-ENT-BIO-1775854,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 27.\\\""""",https://api.gbif.org/v1/species/5255330
+LIBSRC-LIB50-ENT-BIO-1777604,occurrence_context,"""\\\""Published in: (1940). Antonie Van Leeuwenhoek 6: 285 (’1939-40′).\\\""""",https://api.gbif.org/v1/species/2577986
+LIBSRC-LIB50-ENT-BIO-1777524,occurrence_context,"""\\\""Published in: (1988). Ukr. Bot. Zh. 45(5): 63.\\\""""",https://api.gbif.org/v1/species/3483419
+LIBSRC-LIB50-ENT-BIO-1777484,occurrence_context,"""\\\""Published in: (1999). Schlechtendalia 3: 51.\\\""""",https://api.gbif.org/v1/species/2578289
+LIBSRC-LIB50-ENT-BIO-1799984,occurrence_context,"""\\\""Published in: (1957). Proc. Linn. Soc. N.S.W. 82(2): 209.\\\""""",https://api.gbif.org/v1/species/5515136
+LIBSRC-LIB50-ENT-BIO-1776114,occurrence_context,"""\\\""Published in: (2006). Indian Phytopath. 59(3): 353.\\\""""",https://api.gbif.org/v1/species/7997609
+LIBSRC-LIB50-ENT-BIO-1777324,occurrence_context,"""\\\""Published in: (2012). Taxonomic Manual of the Erysiphales (Powdery Mildews): 617.\\\""""",https://api.gbif.org/v1/species/7992827
+LIBSRC-LIB50-ENT-BIO-1772764,occurrence_context,"""\\\""Published in: (2009). Nova Hedwigia 89(3-4): 378.\\\""""",https://api.gbif.org/v1/species/8224532
+LIBSRC-LIB50-ENT-BIO-1777314,occurrence_context,"""\\\""Published in: (2012). Taxonomic Manual of the Erysiphales (Powdery Mildews): 606.\\\""""",https://api.gbif.org/v1/species/7658376
+LIBSRC-LIB50-ENT-BIO-1775094,occurrence_context,"""\\\""Published in: (1936). Revista Inst. Bacteriol. ‘Dr. Carlos G. Malbrán’: 424.\\\""""",https://api.gbif.org/v1/species/2598682
+LIBSRC-LIB50-ENT-BIO-1772654,occurrence_context,"""\\\""Published in: (1933). Beitr. Kryptfl. Schweiz 7(no. 1): 224.\\\""""",https://api.gbif.org/v1/species/2578715
+LIBSRC-LIB50-ENT-BIO-1796914,occurrence_context,"""\\\""Published in: (1959). Publicações Inst. Micol. Recife 56: 457.\\\""""",https://api.gbif.org/v1/species/3525369
+LIBSRC-LIB50-ENT-BIO-1772454,occurrence_context,"""\\\""Published in: (1981). Feddes Repert. Spec. Nov. Regni Veg. 97(7-8): 503.\\\""""",https://api.gbif.org/v1/species/7962148
+LIBSRC-LIB50-ENT-BIO-1802264,occurrence_context,"""\\\""Published in: (2016). Lichenologist 48(2): 118.\\\""""",https://api.gbif.org/v1/species/9758681
+LIBSRC-LIB50-ENT-BIO-1801764,occurrence_context,"""\\\""Published in: (2020). Plant and Fungal Systematics 65(1): 194.\\\""""",https://api.gbif.org/v1/species/12258013
+LIBSRC-LIB50-ENT-BIO-1776144,occurrence_context,"""\\\""Published in: (1925). De Zickten En Ragen Van Hevea Brasiliensis in Nederlandsch-Indie: 91.\\\""""",https://api.gbif.org/v1/species/5255279
+LIBSRC-LIB50-ENT-BIO-1775344,occurrence_context,"""\\\""Published in: (2012). Taxonomic Manual of the Erysiphales (Powdery Mildews): 213.\\\""""",https://api.gbif.org/v1/species/8067430
+LIBSRC-LIB50-ENT-BIO-1772664,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 12.\\\""""",https://api.gbif.org/v1/species/2578617
+LIBSRC-LIB50-ENT-BIO-1773154,occurrence_context,"""\\\""Published in: (1912). Ascom. Exsicc.: No. 1965.\\\""""",https://api.gbif.org/v1/species/3301413
+LIBSRC-LIB50-ENT-BIO-1774214,occurrence_context,"""\\\""Published in: (1986). Mycologia 77(6): 978 (’1985′).\\\""""",https://api.gbif.org/v1/species/2577917
+LIBSRC-LIB50-ENT-BIO-1801634,occurrence_context,"""\\\""Published in: (1986). Folia Geobot. Phytotax. 21(2): 216.\\\""""",https://api.gbif.org/v1/species/3402241
+LIBSRC-LIB50-ENT-BIO-1773994,occurrence_context,"""\\\""Published in: (1968). Sydowia 21(1-6): 309 (’1967′).\\\""""",https://api.gbif.org/v1/species/3458762
+LIBSRC-LIB50-ENT-BIO-1772504,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 6.\\\""""",https://api.gbif.org/v1/species/2578399
+LIBSRC-LIB50-ENT-BIO-1776034,occurrence_context,"""\\\""Published in: (2017). Opera Lilloana 50: 112.\\\""""",https://api.gbif.org/v1/species/10732362
+LIBSRC-LIB50-ENT-BIO-1778864,occurrence_context,"""\\\""Published in: Int. J. Syst. Evol. Microbiol. 57::1733\\\""""",https://api.gbif.org/v1/species/7369775
+LIBSRC-LIB50-ENT-BIO-1799464,occurrence_context,"""\\\""Published in: (1997). Trop. Bryol. 13: 163.\\\""""",https://api.gbif.org/v1/species/3402681
+LIBSRC-LIB50-ENT-BIO-1772754,occurrence_context,"""\\\""Published in: (2000). Schlechtendalia 4: 6.\\\""""",https://api.gbif.org/v1/species/2578467
+LIBSRC-LIB50-ENT-BIO-1778604,occurrence_context,"""\\\""Published in: Int. J. Syst. Evol. Microbiol. 64::2428\\\""""",https://api.gbif.org/v1/species/7530910
+LIBSRC-LIB50-ENT-BIO-1773354,occurrence_context,"""\\\""Published in: (2012). Taxonomic Manual of the Erysiphales (Powdery Mildews): 170.\\\""""",https://api.gbif.org/v1/species/7841522
+LIBSRC-LIB50-ENT-BIO-1799974,occurrence_context,"""\\\""Published in: (2002). Zoos’ Print Journal 17(9): 864.\\\""""",https://api.gbif.org/v1/species/5515146
+LIBSRC-LIB50-ENT-BIO-1775374,occurrence_context,"""\\\""Published in: (1915). Annls Mycol. 13(3/4): 415.\\\""""",https://api.gbif.org/v1/species/2624872
+LIBSRC-LIB50-ENT-BIO-1798424,occurrence_context,"""\\\""Published in: (2020). Australas. Lichenol. 87: 58.\\\""""",https://api.gbif.org/v1/species/12256204
+LIBSRC-LIB50-ENT-BIO-1772624,occurrence_context,"""\\\""Published in: (1981). Feddes Repert. Spec. Nov. Regni Veg. 92(7-8): 499.\\\""""",https://api.gbif.org/v1/species/3482290
+LIBSRC-LIB50-ENT-BIO-1777454,occurrence_context,"""\\\""Published in: (2012). Taxonomic Manual of the Erysiphales (Powdery Mildews): 321.\\\""""",https://api.gbif.org/v1/species/8398087
+LIBSRC-LIB50-ENT-BIO-1775984,occurrence_context,"""\\\""Published in: (1940). Antonie Van Leeuwenhoek 6: 38.\\\""""",https://api.gbif.org/v1/species/2598644
+LIBSRC-LIB50-ENT-BIO-1772384,occurrence_context,"""\\\""Published in: (2009). Nova Hedwigia 89(3-4): 391.\\\""""",https://api.gbif.org/v1/species/8140741
+LIBSRC-LIB50-ENT-BIO-1771874,occurrence_context,"""\\\""Published in: (1982). Mycotaxon 15: 150.\\\""""",https://api.gbif.org/v1/species/2577961
+LIBSRC-LIB50-ENT-BIO-1801794,occurrence_context,"""\\\""Published in: (2009). Biblthca Lichenol. 99: 367.\\\""""",https://api.gbif.org/v1/species/5953393
+LIBSRC-LIB50-ENT-BIO-1799504,occurrence_context,"""\\\""Published in: (1818). Observ. Mycol. (Havniae) 2: 272.\\\""""",https://api.gbif.org/v1/species/2540861
+LIBSRC-LIB50-ENT-BIO-1800564,occurrence_context,"""\\\""Published in: (2016). Index Fungorum 291: 1.\\\""""",https://api.gbif.org/v1/species/9727550
+LIBSRC-LIB50-ENT-BIO-1790824,occurrence_context,"""\\\""Published in: (1973). Folia Geobot. Phytotax. 8(4): 421.\\\""""",https://api.gbif.org/v1/species/5474004
+LIBSRC-LIB50-ENT-BIO-1787224,occurrence_context,"""\\\""Published in: (1982). Lichenologist 14(1): 100.\\\""""",https://api.gbif.org/v1/species/5474040
+LIBSRC-LIB50-ENT-BIO-1790744,occurrence_context,"""\\\""Published in: (2017). Phytotaxa 332(2): 152.\\\""""",https://api.gbif.org/v1/species/10882344
+LIBSRC-LIB50-ENT-BIO-1786364,occurrence_context,"""\\\""Published in: (2014). Herzogia 27: 350.\\\""""",https://api.gbif.org/v1/species/10795896
+LIBSRC-LIB50-ENT-BIO-1780474,occurrence_context,"""\\\""Published in: Int. J. Syst. Evol. Microbiol. 67::1802\\\""""",https://api.gbif.org/v1/species/9342280
+LIBSRC-LIB50-ENT-BIO-1780204,occurrence_context,"""\\\""Published in: Int. J. Syst. Bacteriol. 30::340\\\""""",https://api.gbif.org/v1/species/9136550
+LIBSRC-LIB50-ENT-BIO-1780194,occurrence_context,"""\\\""Published in: Int. J. Syst. Bacteriol. 40::152\\\""""",https://api.gbif.org/v1/species/7924964
+LIBSRC-LIB50-ENT-BIO-1776464,occurrence_context,"""\\\""Published in: Int. J. Syst. Evol. Microbiol. 67::3244\\\""""",https://api.gbif.org/v1/species/9663777
+LIBSRC-LIB50-ENT-BIO-1776454,occurrence_context,"""\\\""Published in: Int. J. Syst. Evol. Microbiol. 63::3811\\\""""",https://api.gbif.org/v1/species/7486154
+LIBSRC-LIB50-ENT-BIO-1776094,occurrence_context,"""\\\""Published in: (1987). Trans. Br. Mycol. Soc. 88(1): 73.\\\""""",https://api.gbif.org/v1/species/5493320
+LIBSRC-LIB50-ENT-BIO-1775934,occurrence_context,"""\\\""Published in: (1942). Antonie Van Leeuwenhoek 8: 115.\\\""""",https://api.gbif.org/v1/species/2598677
+LIBSRC-LIB50-ENT-BIO-1775994,occurrence_context,"""\\\""Published in: (1990). Biblthca Mycol. 133: 102.\\\""""",https://api.gbif.org/v1/species/5493311
+LIBSRC-LIB50-ENT-BIO-1776074,occurrence_context,"""\\\""Published in: (1991). Mycotaxon 41(2): 427.\\\""""",https://api.gbif.org/v1/species/7688753
+LIBSRC-LIB50-ENT-BIO-1776084,occurrence_context,"""\\\""Published in: (1987). Trans. Br. Mycol. Soc. 88(1): 73.\\\""""",https://api.gbif.org/v1/species/5493332
+LIBSRC-LIB50-ENT-BIO-1819754,occurrence_context,"""\\\""Published in: Int. J. Syst. Evol. Microbiol. 55::2158\\\""""",https://api.gbif.org/v1/species/3221745
+LIBSRC-LIB50-ENT-BIO-1814674,occurrence_context,"""\\\""Published in: Int. J. Syst. Bacteriol. 40::412\\\""""",https://api.gbif.org/v1/species/3221999
+LIBSRC-LIB50-ENT-BIO-1818374,occurrence_context,"""\\\""Published in: Int. J. Syst. Evol. Microbiol. 64::1543\\\""""",https://api.gbif.org/v1/species/8140575
+LIBSRC-LIB50-ENT-BIO-1815414,occurrence_context,"""\\\""Published in: Int. J. Syst. Evol. Microbiol. 63::1769\\\""""",https://api.gbif.org/v1/species/7968809
+LIBSRC-LIB50-ENT-BIO-1805364,occurrence_context,"""\\\""Published in: (2008). Lichenology 7(1): 17.\\\""""",https://api.gbif.org/v1/species/10720789
+LIBSRC-LIB50-ENT-BIO-1805454,occurrence_context,"""\\\""Published in: (1991). Muelleria 7(3): 327.\\\""""",https://api.gbif.org/v1/species/5259600
+LIBSRC-LIB50-ENT-BIO-1803834,occurrence_context,"""\\\""Published in: (1911). Fl. Ital. Crypt. (Florence) 3: 291.\\\""""",https://api.gbif.org/v1/species/3298208
+LIBSRC-LIB50-ENT-BIO-1806564,occurrence_context,"""\\\""Published in: (2018). Australas. Lichenol. 83: 18.\\\""""",https://api.gbif.org/v1/species/10880696
+LIBSRC-LIB50-ENT-BIO-1807034,occurrence_context,"""\\\""Published in: (1810). Lich. Univ.: 301.\\\""""",https://api.gbif.org/v1/species/2596692
+LIBSRC-LIB50-ENT-BIO-1817374,occurrence_context,"""\\\""Published in: Int. J. Syst. Bacteriol. 30::338\\\""""",https://api.gbif.org/v1/species/3221888
+LIBSRC-LIB50-ENT-BIO-1817584,occurrence_context,"""\\\""Published in: Int. J. Syst. Bacteriol. 46::62\\\""""",https://api.gbif.org/v1/species/3221733
+LIBSRC-LIB50-ENT-BIO-1814044,occurrence_context,"""\\\""Published in: Int. J. Syst. Evol. Microbiol. 59::2344\\\""""",https://api.gbif.org/v1/species/7368253
+LIBSRC-LIB50-ENT-BIO-1816964,occurrence_context,"""\\\""Published in: Int. J. Syst. Evol. Microbiol. 56::633\\\""""",https://api.gbif.org/v1/species/3221718
+LIBSRC-LIB50-ENT-BIO-1803354,occurrence_context,"""\\\""Published in: (2014). Lichenologist 46(4): 530.\\\""""",https://api.gbif.org/v1/species/10839574
+LIBSRC-LIB50-ENT-BIO-1820084,occurrence_context,"""\\\""Published in: Int. J. Syst. Bacteriol. 31::216\\\""""",https://api.gbif.org/v1/species/5427637
+LIBSRC-LIB50-ENT-BIO-1804474,occurrence_context,"""\\\""Published in: (2011). Mycotaxon 115: 282.\\\""""",https://api.gbif.org/v1/species/7186759
+LIBSRC-LIB50-ENT-BIO-1804484,occurrence_context,"""\\\""Published in: (1810). Lich. Univ.: 523.\\\""""",https://api.gbif.org/v1/species/8693708
+LIBSRC-LIB50-ENT-BIO-1814524,occurrence_context,"""\\\""Published in: (2020). Truffology 2(1): 11.\\\""""",https://api.gbif.org/v1/species/11898903
+LIBSRC-LIB50-ENT-BIO-1805344,occurrence_context,"""\\\""Published in: (1937). Schr. Naturw. Ver. Schles.-Holst. 22: 90.\\\""""",https://api.gbif.org/v1/species/5259572
+LIBSRC-LIB50-ENT-BIO-1805744,occurrence_context,"""\\\""Published in: (1868). Verh. Kaiserl.-Königl. Zool.-Bot. Ges. Wien 18: 958.\\\""""",https://api.gbif.org/v1/species/5259490
+LIBSRC-LIB50-ENT-BIO-1817154,occurrence_context,"""\\\""Published in: Int. J. Syst. Evol. Microbiol. 63::3650\\\""""",https://api.gbif.org/v1/species/7839086
+LIBSRC-LIB50-ENT-BIO-1804074,occurrence_context,"""\\\""Published in: (1980). Norw. Jl Bot. 27(1): 34.\\\""""",https://api.gbif.org/v1/species/3473301
+LIBSRC-LIB50-ENT-BIO-1803534,occurrence_context,"""\\\""Published in: (1889). Lich. Fl. Queensland 4: 162.\\\""""",https://api.gbif.org/v1/species/3306526
+LIBSRC-LIB50-ENT-BIO-1805354,occurrence_context,"""\\\""Published in: (2007). Lichen Flora of the Greater Sonoran Desert Region (Tempe) 3: 345.\\\""""",https://api.gbif.org/v1/species/5259608
+LIBSRC-LIB50-ENT-BIO-1804414,occurrence_context,"""\\\""Published in: (1998). Mycol. Res. 102(11): 1333.\\\""""",https://api.gbif.org/v1/species/3443365
+LIBSRC-LIB50-ENT-BIO-1804424,occurrence_context,"""\\\""Published in: (1954). Proc. Linn. Soc. N.S.W. 79(3-4): 122.\\\""""",https://api.gbif.org/v1/species/3443352
+LIBSRC-LIB50-ENT-BIO-1804444,occurrence_context,"""\\\""Published in: (1952). Sydowia 6(5-6): 388.\\\""""",https://api.gbif.org/v1/species/3443358
+LIBSRC-LIB50-ENT-BIO-1825544,occurrence_context,"""\\\""Published in: (2000). Mycotaxon 76: 414.\\\""""",https://api.gbif.org/v1/species/3469236
+LIBSRC-LIB50-ENT-BIO-1805674,occurrence_context,"""\\\""Published in: (2007). Lichen Flora of the Greater Sonoran Desert Region (Tempe) 3: 343.\\\""""",https://api.gbif.org/v1/species/5259614
+LIBSRC-LIB50-ENT-BIO-1805644,occurrence_context,"""\\\""Published in: (1912). Bull. Soc. Bot. Fr. 58(8): 662 (’1911′).\\\""""",https://api.gbif.org/v1/species/5259613
+LIBSRC-LIB50-ENT-BIO-1802304,occurrence_context,"""\\\""Published in: Nat. Arr. Brit. Pl. (London) 1: 1-824\\\""""",https://api.gbif.org/v1/species/6347223
+LIBSRC-LIB50-ENT-BIO-1804504,occurrence_context,"""\\\""Published in: (1855). Framm. Lichenogr.: 16.\\\""""",https://api.gbif.org/v1/species/3472829
+LIBSRC-LIB50-ENT-BIO-1803034,occurrence_context,"""\\\""Published in: (1919). Hedwigia 60: 5.\\\""""",https://api.gbif.org/v1/species/2596932
+LIBSRC-LIB50-ENT-BIO-1806914,occurrence_context,"""\\\""Published in: (2011). Biblthca Lichenol. 106: 89.\\\""""",https://api.gbif.org/v1/species/7360342
+LIBSRC-LIB50-ENT-BIO-1805794,occurrence_context,"""\\\""Published in: (2005). Bryologist 108(4): 537.\\\""""",https://api.gbif.org/v1/species/3473250
+LIBSRC-LIB50-ENT-BIO-1805724,occurrence_context,"""\\\""Published in: (1995). Lichenologist 27(2): 119.\\\""""",https://api.gbif.org/v1/species/5259585
+LIBSRC-LIB50-ENT-BIO-1804404,occurrence_context,"""\\\""Published in: (2000). Bryologist 103(4): 705.\\\""""",https://api.gbif.org/v1/species/2596843
+LIBSRC-LIB50-ENT-BIO-1805484,occurrence_context,"""\\\""Published in: (2018). Phytotaxa 345(1): 29.\\\""""",https://api.gbif.org/v1/species/11813820
+LIBSRC-LIB50-ENT-BIO-1805424,occurrence_context,"""\\\""Published in: (2018). Phytotaxa 361(2): 215.\\\""""",https://api.gbif.org/v1/species/10698433
+LIBSRC-LIB50-ENT-BIO-1805734,occurrence_context,"""\\\""Published in: (1921). Cat. Lich. Univers. 1: 41 (’1922′).\\\""""",https://api.gbif.org/v1/species/5259587
+LIBSRC-LIB50-ENT-BIO-1805704,occurrence_context,"""\\\""Published in: (1995). Lichenologist 27(2): 116.\\\""""",https://api.gbif.org/v1/species/5259512
+LIBSRC-LIB50-ENT-BIO-1805204,occurrence_context,"""\\\""Published in: (2012). Symb. Bot. Upsal. 35(no. 3): 52.\\\""""",https://api.gbif.org/v1/species/8871567
+LIBSRC-LIB50-ENT-BIO-1805694,occurrence_context,"""\\\""Published in: (1991). Muelleria 7(3): 344.\\\""""",https://api.gbif.org/v1/species/5491302
+LIBSRC-LIB50-ENT-BIO-1804514,occurrence_context,"""\\\""Published in: (2020). Australas. Lichenol. 86: 109.\\\""""",https://api.gbif.org/v1/species/12186917
+LIBSRC-LIB50-ENT-BIO-1804014,occurrence_context,"""\\\""Published in: (1992). Syst. Ascom. 11(1): 14.\\\""""",https://api.gbif.org/v1/species/2596938
+LIBSRC-LIB50-ENT-BIO-1803454,occurrence_context,"""\\\""Published in: (2002). Fungal Diversity 9: 20.\\\""""",https://api.gbif.org/v1/species/3473278
+LIBSRC-LIB50-ENT-BIO-1807004,occurrence_context,"""\\\""Published in: (2008). Sporovye Rastenia Pribaikalskogo Natsionalnogo Parka: 255.\\\""""",https://api.gbif.org/v1/species/12215639
+LIBSRC-LIB50-ENT-BIO-1863334,occurrence_context,"""\\\""Published in: N. Amer. Slime-Moulds (New York): 123\\\""""",https://api.gbif.org/v1/species/5425726
+LIBSRC-LIB50-ENT-BIO-1883974,occurrence_context,"""\\\""Published in: (1949). Bull. Trimest. Soc. Mycol. Fr. 64(3-4): 167 (’1948′).\\\""""",https://api.gbif.org/v1/species/2556569
+LIBSRC-LIB50-ENT-BIO-1922984,occurrence_context,"""\\\""Published in: Int. J. Syst. Evol. Microbiol. 64::2692\\\""""",https://api.gbif.org/v1/species/7536144
+LIBSRC-LIB50-ENT-BIO-1902134,occurrence_context,"""\\\""Published in: (1965). Aust. J. Bot. 13(2): 324.\\\""""",https://api.gbif.org/v1/species/2533667
+LIBSRC-LIB50-ENT-BIO-1899164,occurrence_context,"""\\\""Published in: (1895). Syst. Arr. Austr. Fungi (Melbourne): 22.\\\""""",https://api.gbif.org/v1/species/7663427
+LIBSRC-LIB50-ENT-BIO-1899014,occurrence_context,"""\\\""Published in: (1938). Mycologia 30(4): 370.\\\""""",https://api.gbif.org/v1/species/3343212
+LIBSRC-LIB50-ENT-BIO-1901004,occurrence_context,"""\\\""Published in: (1985). Mycologia 77(1): 158.\\\""""",https://api.gbif.org/v1/species/5459382
+LIBSRC-LIB50-ENT-BIO-1899284,occurrence_context,"""\\\""Published in: (1954). Lilloa 26: 125 (’1953′).\\\""""",https://api.gbif.org/v1/species/3342836
+LIBSRC-LIB50-ENT-BIO-1901974,occurrence_context,"""\\\""Published in: (1913). Mycologia 5(1): 24.\\\""""",https://api.gbif.org/v1/species/3343006
+LIBSRC-LIB50-ENT-BIO-1899234,occurrence_context,"""\\\""Published in: (1887). Syll. Fung. (Abellini) 5: 805.\\\""""",https://api.gbif.org/v1/species/8176072
+LIBSRC-LIB50-ENT-BIO-1898874,occurrence_context,"""\\\""Published in: (1983). Veiled Species of Hebeloma in the Western United States (Ann Arbor): 103.\\\""""",https://api.gbif.org/v1/species/3343541
+LIBSRC-LIB50-ENT-BIO-1901114,occurrence_context,"""\\\""Published in: (1978). Mycotaxon 7(2): 237.\\\""""",https://api.gbif.org/v1/species/5459632
+LIBSRC-LIB50-ENT-BIO-1899464,occurrence_context,"""\\\""Published in: (1953). Mycologia 45(6): 906.\\\""""",https://api.gbif.org/v1/species/3342778
+LIBSRC-LIB50-ENT-BIO-1902984,occurrence_context,"""\\\""Published in: (1986). Mycol. Helv. 2(1): 47.\\\""""",https://api.gbif.org/v1/species/7544622
+LIBSRC-LIB50-ENT-BIO-1903904,occurrence_context,"""\\\""Published in: (1965). Mycopath. Mycol. Appl. 26: 395.\\\""""",https://api.gbif.org/v1/species/2534072
+LIBSRC-LIB50-ENT-BIO-1902834,occurrence_context,"""\\\""Published in: (1945). Q. Jl Fla Acad. Sci. 8(2): 192.\\\""""",https://api.gbif.org/v1/species/3342342
+LIBSRC-LIB50-ENT-BIO-1899244,occurrence_context,"""\\\""Published in: (1954). Lilloa 26: 147 (’1953′).\\\""""",https://api.gbif.org/v1/species/3342687
+LIBSRC-LIB50-ENT-BIO-1899434,occurrence_context,"""\\\""Published in: (1969). Lloydia 32: 373.\\\""""",https://api.gbif.org/v1/species/3342668
+LIBSRC-LIB50-ENT-BIO-1899134,occurrence_context,"""\\\""Published in: (1945). Proc. Fla Acad. Sci. 7(2/3): 120 (’1944′).\\\""""",https://api.gbif.org/v1/species/3343423
+LIBSRC-LIB50-ENT-BIO-1901204,occurrence_context,"""\\\""Published in: (1979). Beih. Sydowia 8: 175.\\\""""",https://api.gbif.org/v1/species/5459316
+LIBSRC-LIB50-ENT-BIO-1903234,occurrence_context,"""\\\""Published in: (1957). Brittonia 9: 207.\\\""""",https://api.gbif.org/v1/species/3351229
+LIBSRC-LIB50-ENT-BIO-1899344,occurrence_context,"""\\\""Published in: (1953). Sydowia 7(1-4): 242.\\\""""",https://api.gbif.org/v1/species/3342773
+LIBSRC-LIB50-ENT-BIO-1899084,occurrence_context,"""\\\""Published in: (1983). Veiled Species of Hebeloma in the Western United States (Ann Arbor): 125.\\\""""",https://api.gbif.org/v1/species/3343382
+LIBSRC-LIB50-ENT-BIO-1898904,occurrence_context,"""\\\""Published in: (1995). Symb. Bot. Upsal. 30(no. 3): 131.\\\""""",https://api.gbif.org/v1/species/2533101
+LIBSRC-LIB50-ENT-BIO-1901064,occurrence_context,"""\\\""Published in: (1978). Notes R. Bot. Gdn Edinb. 36(1): 207.\\\""""",https://api.gbif.org/v1/species/5242536
+LIBSRC-LIB50-ENT-BIO-1899594,occurrence_context,"""\\\""Published in: (1964). Monogr. Galerina: 293.\\\""""",https://api.gbif.org/v1/species/2533775
+LIBSRC-LIB50-ENT-BIO-1903334,occurrence_context,"""\\\""Published in: (1962). Sydowia 15(1-6): 78 (’1961′).\\\""""",https://api.gbif.org/v1/species/3351274
+LIBSRC-LIB50-ENT-BIO-1898764,occurrence_context,"""\\\""Published in: (1973). Beih. Sydowia 7: 79.\\\""""",https://api.gbif.org/v1/species/3559076
+LIBSRC-LIB50-ENT-BIO-1903264,occurrence_context,"""\\\""Published in: (1972). Mycologia 64(5): 1144.\\\""""",https://api.gbif.org/v1/species/3351218
+LIBSRC-LIB50-ENT-BIO-1902084,occurrence_context,"""\\\""Published in: (1917). N. Amer. Fl. (New York) 10(3): 205.\\\""""",https://api.gbif.org/v1/species/3343068
+LIBSRC-LIB50-ENT-BIO-1901154,occurrence_context,"""\\\""Published in: (2001). C.C.H. 78(1): 3.\\\""""",https://api.gbif.org/v1/species/5459309
+LIBSRC-LIB50-ENT-BIO-1903004,occurrence_context,"""\\\""Published in: (1887). Syll. Fung. (Abellini) 5: 842.\\\""""",https://api.gbif.org/v1/species/3342112
+LIBSRC-LIB50-ENT-BIO-1898524,occurrence_context,"""\\\""Published in: (1951). Trans. Br. Mycol. Soc. 33(3-4): 303 (’1950′).\\\""""",https://api.gbif.org/v1/species/6329820
+LIBSRC-LIB50-ENT-BIO-1899034,occurrence_context,"""\\\""Published in: (1977). Kew Bull. 31(3): 478.\\\""""",https://api.gbif.org/v1/species/3343272
+LIBSRC-LIB50-ENT-BIO-1900954,occurrence_context,"""\\\""Published in: (1948). Mycologia 40(6): 700.\\\""""",https://api.gbif.org/v1/species/5459214
+LIBSRC-LIB50-ENT-BIO-1903314,occurrence_context,"""\\\""Published in: (1972). Mycologia 64(5): 1143.\\\""""",https://api.gbif.org/v1/species/3351232
+LIBSRC-LIB50-ENT-BIO-1902844,occurrence_context,"""\\\""Published in: (1917). N. Amer. Fl. (New York) 10(3): 183.\\\""""",https://api.gbif.org/v1/species/3342272
+LIBSRC-LIB50-ENT-BIO-1901924,occurrence_context,"""\\\""Published in: (1969). Mycol. Mem. 3: 54.\\\""""",https://api.gbif.org/v1/species/3343038
+LIBSRC-LIB50-ENT-BIO-1898984,occurrence_context,"""\\\""Published in: (1920). ČEské Houby (Praze) 2: 391.\\\""""",https://api.gbif.org/v1/species/3343377
+LIBSRC-LIB50-ENT-BIO-1899024,occurrence_context,"""\\\""Published in: (1989). Nordic Jl Bot. 9(3): 307.\\\""""",https://api.gbif.org/v1/species/2533059
+LIBSRC-LIB50-ENT-BIO-1899314,occurrence_context,"""\\\""Published in: (1953). Mycologia 45(6): 898.\\\""""",https://api.gbif.org/v1/species/3342605
+LIBSRC-LIB50-ENT-BIO-1902894,occurrence_context,"""\\\""Published in: (1921). ČEské Houby (Praze) 3: 524.\\\""""",https://api.gbif.org/v1/species/3342136
+LIBSRC-LIB50-ENT-BIO-1902064,occurrence_context,"""\\\""Published in: (1913). Mycologia 5(1): 22.\\\""""",https://api.gbif.org/v1/species/3342884
+LIBSRC-LIB50-ENT-BIO-1902804,occurrence_context,"""\\\""Published in: (1921). ČEské Houby (Praze) 3: 526.\\\""""",https://api.gbif.org/v1/species/3342274
+LIBSRC-LIB50-ENT-BIO-1901954,occurrence_context,"""\\\""Published in: (1951). Lilloa 22: 561 (’1949′).\\\""""",https://api.gbif.org/v1/species/3342929
+LIBSRC-LIB50-ENT-BIO-1903174,occurrence_context,"""\\\""Published in: (1924). Kryptog. Forsch. 1(6): 397.\\\""""",https://api.gbif.org/v1/species/5459780
+LIBSRC-LIB50-ENT-BIO-1899324,occurrence_context,"""\\\""Published in: (1996). Blumea 41(1): 3.\\\""""",https://api.gbif.org/v1/species/3342683
+LIBSRC-LIB50-ENT-BIO-1901144,occurrence_context,"""\\\""Published in: (1973). Beih. Sydowia 7: 82.\\\""""",https://api.gbif.org/v1/species/5459586
+LIBSRC-LIB50-ENT-BIO-1899264,occurrence_context,"""\\\""Published in: (1955). Mycologia 47(4): 586.\\\""""",https://api.gbif.org/v1/species/3342747
+LIBSRC-LIB50-ENT-BIO-1900944,occurrence_context,"""\\\""Published in: (1927). Trans. Roy. Soc. S. Australia 51: 305.\\\""""",https://api.gbif.org/v1/species/5242498
+LIBSRC-LIB50-ENT-BIO-1901124,occurrence_context,"""\\\""Published in: (1898). Anal. Mus. Nac. Hist. Nat. B. Aires 6: 151 (’1899′).\\\""""",https://api.gbif.org/v1/species/5459297
+LIBSRC-LIB50-ENT-BIO-1901014,occurrence_context,"""\\\""Published in: (1945). Q. Jl Fla Acad. Sci. 8(2): 197.\\\""""",https://api.gbif.org/v1/species/5459524
+LIBSRC-LIB50-ENT-BIO-1899304,occurrence_context,"""\\\""Published in: (1955). Mycologia 47(4): 587.\\\""""",https://api.gbif.org/v1/species/3342848
+LIBSRC-LIB50-ENT-BIO-1902904,occurrence_context,"""\\\""Published in: (1912). Mycologia 4(4): 164.\\\""""",https://api.gbif.org/v1/species/3342192
+LIBSRC-LIB50-ENT-BIO-1899214,occurrence_context,"""\\\""Published in: (1891). Syll. Fung. (Abellini) 9: 104.\\\""""",https://api.gbif.org/v1/species/7989303
+LIBSRC-LIB50-ENT-BIO-1898824,occurrence_context,"""\\\""Published in: (1951). Lilloa 22: 504 (’1949′).\\\""""",https://api.gbif.org/v1/species/3557824
+LIBSRC-LIB50-ENT-BIO-1902824,occurrence_context,"""\\\""Published in: (1898). Anal. Mus. Nac. Hist. Nat. B. Aires 6: 131 (’1899′).\\\""""",https://api.gbif.org/v1/species/3342374
+LIBSRC-LIB50-ENT-BIO-1899544,occurrence_context,"""\\\""Published in: (1964). Beitr. Naturk. Forsch. Südwestdeutschl.: 144.\\\""""",https://api.gbif.org/v1/species/3342762
+LIBSRC-LIB50-ENT-BIO-1903384,occurrence_context,"""\\\""Published in: (2002). Mycotaxon 81: 96.\\\""""",https://api.gbif.org/v1/species/3351235
+LIBSRC-LIB50-ENT-BIO-1899534,occurrence_context,"""\\\""Published in: (1974). Bull. Mens. Soc. Linn. Lyon 43(Num. spéc.): 392.\\\""""",https://api.gbif.org/v1/species/3342692
+LIBSRC-LIB50-ENT-BIO-1902124,occurrence_context,"""\\\""Published in: (1997). Larger Fungi of South Australia (Adelaide): 125.\\\""""",https://api.gbif.org/v1/species/3343034
+LIBSRC-LIB50-ENT-BIO-1900934,occurrence_context,"""\\\""Published in: (1979). Sydowia 31(1-6): 50 (’1978′).\\\""""",https://api.gbif.org/v1/species/5459554
+LIBSRC-LIB50-ENT-BIO-1899054,occurrence_context,"""\\\""Published in: (1983). Veiled Species of Hebeloma in the Western United States (Ann Arbor): 51.\\\""""",https://api.gbif.org/v1/species/3343544
+LIBSRC-LIB50-ENT-BIO-1899404,occurrence_context,"""\\\""Published in: (1958). Mycologia 50(4): 470.\\\""""",https://api.gbif.org/v1/species/3342846
+LIBSRC-LIB50-ENT-BIO-1902014,occurrence_context,"""\\\""Published in: (1959). Mycologia 51(4): 533.\\\""""",https://api.gbif.org/v1/species/3342986
+LIBSRC-LIB50-ENT-BIO-1901094,occurrence_context,"""\\\""Published in: (1965). Mycopath. Mycol. Appl. 26(2-3): 166.\\\""""",https://api.gbif.org/v1/species/5459335
+LIBSRC-LIB50-ENT-BIO-1900174,occurrence_context,"""\\\""Published in: (1917). N. Amer. Fl. (New York) 10(3): 165.\\\""""",https://api.gbif.org/v1/species/3553240
+LIBSRC-LIB50-ENT-BIO-1898534,occurrence_context,"""\\\""Published in: (1951). Stud. Bot. ČEchoslov. 12: 14.\\\""""",https://api.gbif.org/v1/species/6329821
+LIBSRC-LIB50-ENT-BIO-1899114,occurrence_context,"""\\\""Published in: (1977). Kew Bull. 31(3): 478.\\\""""",https://api.gbif.org/v1/species/3343295
+LIBSRC-LIB50-ENT-BIO-1901994,occurrence_context,"""\\\""Published in: (1994). Mycotaxon 50: 336.\\\""""",https://api.gbif.org/v1/species/3342935
+LIBSRC-LIB50-ENT-BIO-1899484,occurrence_context,"""\\\""Published in: (1964). Beitr. Naturk. Forsch. Südwestdeutschl.: 185.\\\""""",https://api.gbif.org/v1/species/3342856
+LIBSRC-LIB50-ENT-BIO-1902934,occurrence_context,"""\\\""Published in: (1960). Trans. Br. Mycol. Soc. 43(2): 318.\\\""""",https://api.gbif.org/v1/species/2534029
+LIBSRC-LIB50-ENT-BIO-1902924,occurrence_context,"""\\\""Published in: (1921). ČEské Houby (Praze) 3: 536.\\\""""",https://api.gbif.org/v1/species/3342396
+LIBSRC-LIB50-ENT-BIO-1898934,occurrence_context,"""\\\""Published in: (1920). ČEské Houby (Praze) 2: 399.\\\""""",https://api.gbif.org/v1/species/3343517
+LIBSRC-LIB50-ENT-BIO-1902284,occurrence_context,"""\\\""Published in: (1981). Trav. Sci. Parc Natl. Vanoise 11: 133.\\\""""",https://api.gbif.org/v1/species/5432720
+LIBSRC-LIB50-ENT-BIO-1902854,occurrence_context,"""\\\""Published in: (1897). Bot. Jb. 23: 553.\\\""""",https://api.gbif.org/v1/species/3342325
+LIBSRC-LIB50-ENT-BIO-1899224,occurrence_context,"""\\\""Published in: (1988). Docums Mycol. 19(no. 74): 61.\\\""""",https://api.gbif.org/v1/species/2533026
+LIBSRC-LIB50-ENT-BIO-1901234,occurrence_context,"""\\\""Published in: (1958). Mycologia 50(2): 273.\\\""""",https://api.gbif.org/v1/species/5459481
+LIBSRC-LIB50-ENT-BIO-1903154,occurrence_context,"""\\\""Published in: (1924). Kryptog. Forsch. 1(6): 395.\\\""""",https://api.gbif.org/v1/species/7243170
+LIBSRC-LIB50-ENT-BIO-1899384,occurrence_context,"""\\\""Published in: (1955). Mycologia 47(4): 589.\\\""""",https://api.gbif.org/v1/species/3342831
+LIBSRC-LIB50-ENT-BIO-1903304,occurrence_context,"""\\\""Published in: (2000). Can. J. Bot. 78(8): 1071.\\\""""",https://api.gbif.org/v1/species/3351249
+LIBSRC-LIB50-ENT-BIO-1903144,occurrence_context,"""\\\""Published in: (1985). Acta Mycol. Sin. 4(2): 85.\\\""""",https://api.gbif.org/v1/species/5459688
+LIBSRC-LIB50-ENT-BIO-1917054,occurrence_context,"""\\\""Published in: (1992). Biblthca Mycol. 140: 123.\\\""""",https://api.gbif.org/v1/species/3488221
+LIBSRC-LIB50-ENT-BIO-1898964,occurrence_context,"""\\\""Published in: (2005). Fungi of Northern Europe (Greve) 3: 98.\\\""""",https://api.gbif.org/v1/species/2533100
+LIBSRC-LIB50-ENT-BIO-1903404,occurrence_context,"""\\\""Published in: (1944). Bull. Trimest. Soc. Mycol. Fr. 58: 127 (’1942′).\\\""""",https://api.gbif.org/v1/species/2528569
+LIBSRC-LIB50-ENT-BIO-1923074,occurrence_context,"""\\\""Published in: (1900). Essai Tax. Hyménomyc. (Lons-Le-Saunier): 64.\\\""""",https://api.gbif.org/v1/species/3365922
+LIBSRC-LIB50-ENT-BIO-1899194,occurrence_context,"""\\\""Published in: (1891). Syll. Fung. (Abellini) 9: 102.\\\""""",https://api.gbif.org/v1/species/3343476
+LIBSRC-LIB50-ENT-BIO-1902114,occurrence_context,"""\\\""Published in: (1951). Lilloa 22: 560 (’1949′).\\\""""",https://api.gbif.org/v1/species/2533711
+LIBSRC-LIB50-ENT-BIO-1899424,occurrence_context,"""\\\""Published in: (1964). Monogr. Galerina: 255.\\\""""",https://api.gbif.org/v1/species/3342564
+LIBSRC-LIB50-ENT-BIO-1898994,occurrence_context,"""\\\""Published in: (1993). Docums Mycol. 22(no. 88): 25.\\\""""",https://api.gbif.org/v1/species/3343420
+LIBSRC-LIB50-ENT-BIO-1899204,occurrence_context,"""\\\""Published in: (1980). Bull. Mens. Soc. Linn. Lyon 49(Num. Spéc.): 898.\\\""""",https://api.gbif.org/v1/species/3343258
+LIBSRC-LIB50-ENT-BIO-1902044,occurrence_context,"""\\\""Published in: (1969). Mycol. Mem. 3: 46.\\\""""",https://api.gbif.org/v1/species/3342988
+LIBSRC-LIB50-ENT-BIO-1903124,occurrence_context,"""\\\""Published in: (1831). Monogr. Tuberac. (Milano): 22.\\\""""",https://api.gbif.org/v1/species/5241035
+LIBSRC-LIB50-ENT-BIO-1920164,occurrence_context,"""\\\""Published in: (1936). Annls Mycol. 34(6): 419.\\\""""",https://api.gbif.org/v1/species/2582894
+LIBSRC-LIB50-ENT-BIO-1903134,occurrence_context,"""\\\""Published in: (1917). Ann. R. Bot. Gdns Peradeniya 6(3): 207.\\\""""",https://api.gbif.org/v1/species/5459674
+LIBSRC-LIB50-ENT-BIO-1914174,occurrence_context,"""\\\""Published in: (2012). Phytotaxa 74: 13.\\\""""",https://api.gbif.org/v1/species/10678508
+LIBSRC-LIB50-ENT-BIO-1923244,occurrence_context,"""\\\""Published in: (1983). Beih. Nova Hedwigia 75: 89.\\\""""",https://api.gbif.org/v1/species/5248299
+LIBSRC-LIB50-ENT-BIO-1919664,occurrence_context,"""\\\""Published in: (1965). Svensk Bot. Tidskr. 59: 35.\\\""""",https://api.gbif.org/v1/species/2583713
+LIBSRC-LIB50-ENT-BIO-1917264,occurrence_context,"""\\\""Published in: (1957). Proc. R. Soc. N.S.W. 82: 223.\\\""""",https://api.gbif.org/v1/species/3287772
+LIBSRC-LIB50-ENT-BIO-1899094,occurrence_context,"""\\\""Published in: (1985). Mykol. MittBl. 28(1): 6.\\\""""",https://api.gbif.org/v1/species/8207525
+LIBSRC-LIB50-ENT-BIO-1912854,occurrence_context,"""\\\""Published in: (1969). Can. J. Bot. 47: 1326.\\\""""",https://api.gbif.org/v1/species/5256340
+LIBSRC-LIB50-ENT-BIO-1910874,occurrence_context,"""\\\""Published in: (1981). Indian Phytopath. 33(2): 361 (’1980′).\\\""""",https://api.gbif.org/v1/species/3501531
+LIBSRC-LIB50-ENT-BIO-1898914,occurrence_context,"""\\\""Published in: (1983). Veiled Species of Hebeloma in the Western United States (Ann Arbor): 39.\\\""""",https://api.gbif.org/v1/species/3343156
+LIBSRC-LIB50-ENT-BIO-1900974,occurrence_context,"""\\\""Published in: (1978). Mycotaxon 7(2): 248.\\\""""",https://api.gbif.org/v1/species/5242513
+LIBSRC-LIB50-ENT-BIO-1921534,occurrence_context,"""\\\""Published in: (1980). Lichenologist 12(3): 294.\\\""""",https://api.gbif.org/v1/species/12203469
+LIBSRC-LIB50-ENT-BIO-1923694,occurrence_context,"""\\\""Published in: (1911). Mycol. Writ. (Cincinnati) 3(Letter 32): 1.\\\""""",https://api.gbif.org/v1/species/5465686
