@@ -1,0 +1,13 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_12-ERA_02-1650-ACC04-HOP18205-REC3640842,scientific_identity,"Anser",https://api.gbif.org/v1/species/match?name=Anser
+IDB-REG_02-CAT_12-ERA_02-1650-ACC04-HOP18205-REC3640842,taxon_authority,"Brisson, 1760",https://api.gbif.org/v1/species/match?name=Anser
+IDB-REG_02-CAT_12-ERA_02-1650-ACC04-HOP18205-REC3640842,identity_label,"Bean Geese",https://api.gbif.org/v1/species/2498016/vernacularNames
+IDB-REG_03-CAT_13-ERA_02-1650-ACC04-HOP17151-REC3430163,scientific_identity,"Buteo regalis",https://api.gbif.org/v1/species/match?name=Buteo%20regalis
+IDB-REG_03-CAT_13-ERA_02-1650-ACC04-HOP17151-REC3430163,taxon_authority,"(G.R.Gray, 1844)",https://api.gbif.org/v1/species/match?name=Buteo%20regalis
+IDB-REG_03-CAT_13-ERA_02-1650-ACC04-HOP17151-REC3430163,identity_label,"Ferruginous Hawk",https://api.gbif.org/v1/species/2480566/vernacularNames
+IDB-REG_02-CAT_14-ERA_02-1650-ACC04-HOP13034-REC2606732,scientific_identity,"Tinamus major",https://api.gbif.org/v1/species/match?name=Tinamus%20major
+IDB-REG_02-CAT_14-ERA_02-1650-ACC04-HOP13034-REC2606732,taxon_authority,"(J.F.Gmelin, 1789)",https://api.gbif.org/v1/species/match?name=Tinamus%20major
+IDB-REG_02-CAT_14-ERA_02-1650-ACC04-HOP13034-REC2606732,identity_label,"Great Tinamou",https://api.gbif.org/v1/species/2477630/vernacularNames
+IDB-REG_03-CAT_13-ERA_02-1650-ACC04-HOP19158-REC3831543,scientific_identity,"Aimophila",https://api.gbif.org/v1/species/match?name=Aimophila
+IDB-REG_03-CAT_13-ERA_02-1650-ACC04-HOP19158-REC3831543,taxon_authority,"Swainson, 1837",https://api.gbif.org/v1/species/match?name=Aimophila
+IDB-REG_03-CAT_13-ERA_02-1650-ACC04-HOP19158-REC3831543,identity_label,"Aimophila Sparrows",https://api.gbif.org/v1/species/2491916/vernacularNames
