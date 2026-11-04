@@ -1,0 +1,565 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB34-ENT-GEO-0227361,location,"Alibunar Municipality",http://www.rgz.gov.rs/upload/web/Spisak%20KO-20150521.zip
+LIBSRC-LIB34-ENT-GEO-0227361,location,"Serbia",http://www.rgz.gov.rs/upload/web/Spisak%20KO-20150521.zip
+LIBSRC-LIB34-ENT-GEO-0227361,descriptive_identity,"cadastral municipality of Serbia",http://www.rgz.gov.rs/upload/web/Spisak%20KO-20150521.zip
+LIBSRC-LIB34-ENT-GEO-0298761,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [139.955916666, 35.042138888]}",https://geoshape.ex.nii.ac.jp/city/resource/12B0020004.html
+LIBSRC-LIB34-ENT-GEO-0294911,location,"Turkey",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0294911,location,"Buharkent district",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0294911,descriptive_identity,"mahalle",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0320321,location,"Annone Veneto",https://www.geonames.org/8976723
+LIBSRC-LIB34-ENT-GEO-0294911,location,"Göksun district",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0294911,location,"Nallıhan district",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0320321,descriptive_identity,"family name",https://www2.census.gov/topics/genealogy/2010surnames/names.zip
+LIBSRC-LIB34-ENT-GEO-0298761,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [174.021466, -39.298081]}",https://gazetteer.linz.govt.nz/place/28976
+LIBSRC-LIB34-ENT-GEO-0298761,elevation,1045000.0,https://gazetteer.linz.govt.nz/place/28976
+LIBSRC-LIB34-ENT-GEO-0294911,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [39.181111111, 40.153611111]}",http://www.fallingrain.com/world/TU/69/Ericek.html
+LIBSRC-LIB34-ENT-GEO-0320321,descriptive_identity,"painting",http://www.mfa.org/collections/object/verona-523327
+LIBSRC-LIB34-ENT-GEO-0298761,location,"Pulau Pura",https://kampungkb.bkkbn.go.id/kampung/10929
+LIBSRC-LIB34-ENT-GEO-0294911,location,"Dursunbey district",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0294911,location,"Büyükorhan district",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0320321,location,"Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC14073
+LIBSRC-LIB34-ENT-GEO-0320321,location,"New South Wales",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC14073
+LIBSRC-LIB34-ENT-GEO-0294911,location,"Çameli district",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0320321,descriptive_identity,"print",https://purl.org/nga/collection/artobject/32737
+LIBSRC-LIB34-ENT-GEO-0318781,descriptive_identity,"family name",https://www2.census.gov/topics/genealogy/2010surnames/names.zip
+LIBSRC-LIB34-ENT-GEO-0298761,location,"Jhalda I community development block",http://censusindia.gov.in/pca/pcadata/DDW_PCA1914_2011_MDDS%20with%20UI.xlsx
+LIBSRC-LIB34-ENT-GEO-0320321,descriptive_identity,"photograph",https://purl.org/nga/collection/artobject/142120
+LIBSRC-LIB34-ENT-GEO-0320321,identity_label,"Verona",https://www.hafen-hamburg.de/de/schiffe
+LIBSRC-LIB34-ENT-GEO-0320321,identity_label,"Verona",https://www.hafen-hamburg.de/de/schiffe/mehrzweckschiffe
+LIBSRC-LIB34-ENT-GEO-0298761,descriptive_identity,"creative work",https://www.goodreads.com/book/show/219867.Maru
+LIBSRC-LIB34-ENT-GEO-0320321,descriptive_identity,"encyclopedia article",https://api.crossref.org/v1/works/http://dx.doi.org/10.1093/GAO/9781884446054.ARTICLE.T088982
+LIBSRC-LIB34-ENT-GEO-0320321,location,"South Frontenac",http://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1346772&CVD=1341558&CPV=3510020&CST=01012021&CLV=47&MLV=47
+LIBSRC-LIB34-ENT-GEO-0318781,location,"Nova Olinda",http://www.snisb.gov.br/portal/snisb/mapas-tematicos-e-relatorios/tema-1-1
+LIBSRC-LIB34-ENT-GEO-0318781,location,"Brazil",http://www.snisb.gov.br/portal/snisb/mapas-tematicos-e-relatorios/tema-1-1
+LIBSRC-LIB34-ENT-GEO-0318781,descriptive_identity,"dam with more than 30 meters and less than 70 meters high",http://www.snisb.gov.br/portal/snisb/mapas-tematicos-e-relatorios/tema-1-1
+LIBSRC-LIB34-ENT-GEO-0318781,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-38.04591667, -7.513527778]}",http://www.snisb.gov.br/portal/snisb/mapas-tematicos-e-relatorios/tema-1-1
+LIBSRC-LIB34-ENT-GEO-0318781,descriptive_identity,"dam with volume capacity of more than 75 hm³ and less than 200 hm³",http://www.snisb.gov.br/portal/snisb/mapas-tematicos-e-relatorios/tema-1-1
+LIBSRC-LIB34-ENT-GEO-0298761,descriptive_identity,"literary work",https://en.wikipedia.org/wiki/Heinemann_African_Writers_Series
+LIBSRC-LIB34-ENT-GEO-0320321,descriptive_identity,"painting",https://www.dhm.de/datenbank/ccp/mu.php?no=46677
+LIBSRC-LIB34-ENT-GEO-0325611,elevation,808900.0,https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0325611,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-123.65, 52.1]}",https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0298761,location,"Wage Rural LLG",https://data.humdata.org/dataset/village-coordinates-lookup
+LIBSRC-LIB34-ENT-GEO-0324841,descriptive_identity,"triangulation station",https://datos-geodesia.ign.es/Red_Geodesica/Hoja0570/057085.pdf
+LIBSRC-LIB34-ENT-GEO-0324841,elevation,623064.0,https://datos-geodesia.ign.es/Red_Geodesica/Hoja0570/057085.pdf
+LIBSRC-LIB34-ENT-GEO-0324841,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [0.102438, 40.428491]}",https://datos-geodesia.ign.es/Red_Geodesica/Hoja0570/057085.pdf
+LIBSRC-LIB34-ENT-GEO-0324841,location,"Spain",https://datos-geodesia.ign.es/Red_Geodesica/Hoja0570/057085.pdf
+LIBSRC-LIB34-ENT-GEO-0324841,location,"La Salzadella",https://datos-geodesia.ign.es/Red_Geodesica/Hoja0570/057085.pdf
+LIBSRC-LIB34-ENT-GEO-0327151,location,"Bureau County",http://www.princeton-il.com/
+LIBSRC-LIB34-ENT-GEO-0327151,location,"United States",http://www.princeton-il.com/
+LIBSRC-LIB34-ENT-GEO-0327151,descriptive_identity,"city in the United States",http://www.princeton-il.com/
+LIBSRC-LIB34-ENT-GEO-0327151,identity_label,"Princeton",http://www.princeton-il.com/
+LIBSRC-LIB35-ENT-GAZ-2523332,elevation,38000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2523332,identity_label,"La Madeleine",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB35-ENT-GAZ-2523332,elevation,26000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB35-ENT-GAZ-2523332,elevation,16000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0327151,location,"Mercer County",http://www.mo.gov/
+LIBSRC-LIB34-ENT-GEO-0327151,location,"United States",http://www.mo.gov/
+LIBSRC-LIB34-ENT-GEO-0327151,descriptive_identity,"city in the United States",http://www.mo.gov/
+LIBSRC-LIB34-ENT-GEO-0327151,identity_label,"Princeton",http://www.mo.gov/
+LIBSRC-LIB35-ENT-GAZ-2527335,elevation,0.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2527335,elevation,13000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB35-ENT-GAZ-2527335,identity_label,"La Vallée",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB35-ENT-GAZ-2527335,elevation,34000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0327151,descriptive_identity,"city of North Carolina",https://www.nctreasurer.com/municipalities
+LIBSRC-LIB34-ENT-GEO-0327151,location,"Blandford-Blenheim",https://www.zip-codes.com/canadian/postal-code.asp?postalcode=n0j+1v0
+LIBSRC-LIB35-ENT-GAZ-2528133,descriptive_identity,"family name",https://www2.census.gov/topics/genealogy/2010surnames/names.zip
+LIBSRC-LIB35-ENT-GAZ-2527335,descriptive_identity,"painting",https://collections.mnbaq.org/en/artwork/600007624
+LIBSRC-LIB35-ENT-GAZ-2528929,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=60468
+LIBSRC-LIB35-ENT-GAZ-2523332,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=60854
+LIBSRC-LIB34-ENT-GEO-0327151,elevation,285000.0,https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0327151,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-80.63, 43.22]}",https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0327151,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-120.5, 49.43]}",https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0327151,elevation,632500.0,https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB35-ENT-GAZ-2523332,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=62074
+LIBSRC-LIB35-ENT-GAZ-2527335,location,"La Vallee",http://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1346772&CVD=1341558&CPV=3559016&CST=01012021&CLV=47&MLV=47
+LIBSRC-LIB34-ENT-GEO-0040021,location,"Middelkerke",https://statbel.fgov.be/sites/default/files/Over_Statbel_FR/Nomenclaturen/NIS6nwithnamefrom01012019.xlsx
+LIBSRC-LIB34-ENT-GEO-0036171,descriptive_identity,"encyclopedia article",https://api.crossref.org/v1/works/http://dx.doi.org/10.1093/GAO/9781884446054.ARTICLE.T066587
+LIBSRC-LIB34-ENT-GEO-0044641,descriptive_identity,"historic site",http://www.inepac.rj.gov.br/index.php/acervo/detalhar/32/0
+LIBSRC-LIB34-ENT-GEO-0044641,location,"Resende",http://www.inepac.rj.gov.br/index.php/acervo/detalhar/32/0
+LIBSRC-LIB34-ENT-GEO-0044641,location,"Brazil",http://www.inepac.rj.gov.br/index.php/acervo/detalhar/32/0
+LIBSRC-LIB34-ENT-GEO-0036171,location,"Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC60498
+LIBSRC-LIB34-ENT-GEO-0044641,elevation,1280000.0,http://dspace.cprm.gov.br/xmlui/handle/doc/18230
+LIBSRC-LIB34-ENT-GEO-0036171,location,"Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC51218
+LIBSRC-LIB34-ENT-GEO-0036171,descriptive_identity,"print",https://purl.org/nga/collection/artobject/5411
+LIBSRC-LIB34-ENT-GEO-0085451,elevation,174000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0085451,identity_label,"Artolsheim",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0085451,elevation,172000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0085451,elevation,168000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0080061,identity_label,"Turckheim",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0080061,elevation,407000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0080061,elevation,840000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0080061,elevation,219000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0083141,elevation,293000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0083141,elevation,347000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0083141,identity_label,"Hégenheim",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0083141,elevation,254000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0084681,elevation,162000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0084681,elevation,109000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0084681,identity_label,"Brie-sous-Barbezieux",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0084681,elevation,67000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0215581,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [168.752, -44.434]}",https://gazetteer.linz.govt.nz/place/15855
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Nigeria",https://photos.state.gov/libraries/nigeria/487468/pdfs/Nigeria%20overview%20Fact%20Sheet.pdf
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Nigeria",https://www.nationsonline.org/oneworld/nigeria.htm
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Nigeria",https://www.britannica.com/place/Nigeria
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Nigeria",https://thecommonwealth.org/our-member-countries/nigeria
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Nigeria",https://www.worldbank.org/en/country/nigeria
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Taraba State",https://allnigeriainfo.ng/list-tribes-nigeria/
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Taraba State",https://nigerianinfopedia.com.ng/list-of-ethnic-groups-in-nigeria-and-their-states/
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Taraba State",https://www.facts.ng/nigerian-states/taraba/
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Taraba State",https://deltaanalyst.wordpress.com/2017/06/11/list-of-tribes-in-taraba-state/
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Taraba State",https://medium.com/@Corneliustama/nigerias-ethno-linguistic-composition-44e4ad1dd3e8
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Taraba State",https://www.pulse.ng/lifestyle/food-travel/200-nigerian-tribes-and-where-you-can-find-them/mebrsr9
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Taraba State",https://www.vanguardngr.com/2017/05/full-list-of-all-371-tribes-in-nigeria-states-where-they-originate/
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Taraba State",https://senegalbgc.org/hasty-generalization-fallacy-in-the-classification-of-nigeria-into-three-ethnic-nationalities-and-the-wazobia-acronym-by-malcolm-emokiniovo-omirhobo/
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Taraba State",https://nigerianguide.com.ng/ethnic-groups-and-tribes-in-nigeria-full-list/
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Taraba State",https://naijaquest.com/tribes-in-taraba-state/
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Taraba State",https://www.britannica.com/place/Taraba
+LIBSRC-LIB34-ENT-GEO-0326151,descriptive_identity,"ethnic group",https://senegalbgc.org/hasty-generalization-fallacy-in-the-classification-of-nigeria-into-three-ethnic-nationalities-and-the-wazobia-acronym-by-malcolm-emokiniovo-omirhobo/
+LIBSRC-LIB34-ENT-GEO-0326151,descriptive_identity,"ethnic group",https://medium.com/@Corneliustama/nigerias-ethno-linguistic-composition-44e4ad1dd3e8
+LIBSRC-LIB34-ENT-GEO-0326151,descriptive_identity,"county seat",http://www.co.hardin.oh.us/
+LIBSRC-LIB34-ENT-GEO-0326151,location,"Hardin County",http://www.co.hardin.oh.us/
+LIBSRC-LIB34-ENT-GEO-0326151,descriptive_identity,"city in the United States",http://www.co.hardin.oh.us/
+LIBSRC-LIB34-ENT-GEO-0326151,location,"United States",http://www.co.hardin.oh.us/
+LIBSRC-LIB34-ENT-GEO-0307001,identity_label,"Долинське",https://uk.wikisource.org/w/index.php?curid=52166
+LIBSRC-LIB34-ENT-GEO-0326151,identity_label,"Kenton",http://www.co.hardin.oh.us/
+LIBSRC-LIB34-ENT-GEO-0307771,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [175.823667, -36.729]}",https://gazetteer.linz.govt.nz/place/38218
+LIBSRC-LIB34-ENT-GEO-0307771,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-56.43, 51.73]}",https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0307771,elevation,18300.0,https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0326151,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-100.58, 49.98]}",https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0326151,elevation,449000.0,https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0321631,descriptive_identity,"print",https://purl.org/nga/collection/artobject/66152
+LIBSRC-LIB34-ENT-GEO-0307771,location,"South Bruce Peninsula",https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1346772&CVD=1341558&CPV=3541055&CST=01012021&CLV=4&MLV=4
+LIBSRC-LIB35-ENT-GAZ-2523901,elevation,132000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB35-ENT-GAZ-2523901,elevation,207000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2523901,elevation,67000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2523901,identity_label,"Véron",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB35-ENT-GAZ-2510707,elevation,532000.0,https://hvbg.hessen.de/geoinformation/open-data
+LIBSRC-LIB35-ENT-GAZ-2531872,identity_label,"Étrechet",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB35-ENT-GAZ-2531872,elevation,157000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB35-ENT-GAZ-2531872,elevation,145000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2531872,elevation,167000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0040561,identity_label,"Yastrebovo",https://www.nsi.bg/nrnm/ekatte/territorial-units
+LIBSRC-LIB34-ENT-GEO-0040561,descriptive_identity,"village of Bulgaria",https://www.nsi.bg/nrnm/ekatte/territorial-units
+LIBSRC-LIB34-ENT-GEO-0040561,location,"Opan",https://www.nsi.bg/nrnm/ekatte/territorial-units
+LIBSRC-LIB34-ENT-GEO-0040561,descriptive_identity,"kmetstvo of Bulgaria",https://www.nsi.bg/nrnm/ekatte/town-halls
+LIBSRC-LIB34-ENT-GEO-0040561,identity_label,"Ястребово",https://www.nsi.bg/nrnm/reports/units-details-by-event/50030510
+LIBSRC-LIB34-ENT-GEO-0040561,identity_label,"Ястребово",https://www.nsi.bg/nrnm/reports/units-details-by-event/50030511
+LIBSRC-LIB34-ENT-GEO-0040561,location,"Ruse",https://www.nsi.bg/nrnm/ekatte/territorial-units
+LIBSRC-LIB34-ENT-GEO-0043641,location,"Brazil",http://inventariodosmonumentosrj.com.br/index.asp?iMENU=catalogo&iiCOD=437
+LIBSRC-LIB34-ENT-GEO-0043641,descriptive_identity,"sculpture",http://inventariodosmonumentosrj.com.br/index.asp?iMENU=catalogo&iiCOD=437
+LIBSRC-LIB34-ENT-GEO-0043641,location,"Rio de Janeiro",http://inventariodosmonumentosrj.com.br/index.asp?iMENU=catalogo&iiCOD=437
+LIBSRC-LIB34-ENT-GEO-0043641,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-43.199336944, -22.976735]}",http://inventariodosmonumentosrj.com.br/index.asp?iMENU=catalogo&iiCOD=437
+LIBSRC-LIB34-ENT-GEO-0045951,descriptive_identity,"family name",https://www2.census.gov/topics/genealogy/2010surnames/names.zip
+LIBSRC-LIB34-ENT-GEO-0063661,location,"Rostock District",http://www.bad-doberan.de/die-stadt/daten-und-fakten.html
+LIBSRC-LIB34-ENT-GEO-0081371,elevation,39000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0081371,identity_label,"Puisserguier",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0081371,elevation,108000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0081371,elevation,205000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0079831,identity_label,"Villeneuve-de-Berg",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0079831,elevation,333000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0079831,elevation,494000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0079831,elevation,208000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0063661,identity_label,"Doberan",http://www.bad-doberan.de/die-stadt/daten-und-fakten.html
+LIBSRC-LIB34-ENT-GEO-0063661,identity_label,"Bad Doberan",http://www.bad-doberan.de/die-stadt/daten-und-fakten.html
+LIBSRC-LIB34-ENT-GEO-0084451,elevation,168000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0084451,elevation,114000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0084451,elevation,251000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0084451,identity_label,"Castetpugon",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0083681,elevation,142000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0083681,elevation,108000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0083681,elevation,82000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0083681,identity_label,"Écury-sur-Coole",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0048261,identity_label,"North Vancouver",http://www.elections.ca/content.aspx?section=res&dir=cir/list&document=index338&lang=e
+LIBSRC-LIB34-ENT-GEO-0045951,descriptive_identity,"modern language",https://iso639-3.sil.org/code/dgz
+LIBSRC-LIB34-ENT-GEO-0045951,location,"Papua New Guinea",https://scriptsource.org/country/PG
+LIBSRC-LIB34-ENT-GEO-0085991,elevation,415000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0085991,elevation,544000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0085991,elevation,258000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0085991,identity_label,"Ailhon",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0206881,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-112.3275, 31.593333333]}",https://www.inegi.org.mx/app/areasgeograficas/?ag=260170428
+LIBSRC-LIB34-ENT-GEO-0320631,descriptive_identity,"city or town of Quebec",https://www.mairesduquebec.com/mairesduquebec/munic.php?id=1239
+LIBSRC-LIB34-ENT-GEO-0295221,descriptive_identity,"mahalle",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0295221,location,"Oğuzeli district",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0295221,location,"Turkey",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0320631,identity_label,"Hudson",https://www.mairesduquebec.com/mairesduquebec/munic.php?id=1239
+LIBSRC-LIB34-ENT-GEO-0295221,descriptive_identity,"village of Turkey",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0308311,location,"Fayette County",https://web.archive.org/web/20071025112341/http://www.naco.org/Template.cfm?Section=Find_a_County&Template=%2Fcffiles%2Fcounties%2Fstate.cfm&state.cfm&statecode=PA
+LIBSRC-LIB34-ENT-GEO-0295221,location,"Yunusemre",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0320631,descriptive_identity,"city of North Carolina",https://www.nctreasurer.com/municipalities
+LIBSRC-LIB34-ENT-GEO-0313701,location,"Western Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC50479
+LIBSRC-LIB34-ENT-GEO-0313701,location,"Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC50479
+LIBSRC-LIB34-ENT-GEO-0313701,location,"Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC30967
+LIBSRC-LIB34-ENT-GEO-0313701,location,"Queensland",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC30967
+LIBSRC-LIB34-ENT-GEO-0307541,location,"King",http://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1346772&CVD=1341558&CPV=3519049&CST=01012021&CLV=47&MLV=47
+LIBSRC-LIB34-ENT-GEO-0316011,location,"Gogodala Rural LLG",https://data.humdata.org/dataset/village-coordinates-lookup
+LIBSRC-LIB34-ENT-GEO-0307541,location,"United Kingdom",https://apps.communities-ni.gov.uk/Buildings/buildview.aspx?id=2239&js=false
+LIBSRC-LIB34-ENT-GEO-0307541,location,"Ballyvollen",https://apps.communities-ni.gov.uk/Buildings/buildview.aspx?id=2239&js=false
+LIBSRC-LIB34-ENT-GEO-0307541,descriptive_identity,"house",https://apps.communities-ni.gov.uk/Buildings/buildview.aspx?id=2239&js=false
+LIBSRC-LIB34-ENT-GEO-0307541,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-6.24873, 54.5901]}",https://apps.communities-ni.gov.uk/Buildings/buildview.aspx?id=2239&js=false
+LIBSRC-LIB34-ENT-GEO-0320631,descriptive_identity,"painting",http://www.moma.org/collection/browse_results.php?object_id=79262
+LIBSRC-LIB34-ENT-GEO-0320631,location,"Queensland",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC31382
+LIBSRC-LIB34-ENT-GEO-0320631,location,"Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC31382
+LIBSRC-LIB34-ENT-GEO-0320631,location,"Churchill County",https://www.faa.gov/airports/airport_safety/airportdata_5010/
+LIBSRC-LIB34-ENT-GEO-0320631,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-117.750555555, 39.544365]}",https://www.faa.gov/airports/airport_safety/airportdata_5010/
+LIBSRC-LIB34-ENT-GEO-0320631,location,"United States",https://www.faa.gov/airports/airport_safety/airportdata_5010/
+LIBSRC-LIB34-ENT-GEO-0320631,elevation,5180000.0,https://www.faa.gov/airports/airport_safety/airportdata_5010/
+LIBSRC-LIB34-ENT-GEO-0320631,descriptive_identity,"aerodrome",https://www.faa.gov/airports/airport_safety/airportdata_5010/
+LIBSRC-LIB34-ENT-GEO-0320631,descriptive_identity,"print",https://purl.org/nga/collection/artobject/61680
+LIBSRC-LIB34-ENT-GEO-0320631,descriptive_identity,"tug",https://www.binnenvaart.eu/motorsleepboot/31619-hudson.html
+LIBSRC-LIB34-ENT-GEO-0320631,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-116.04486, 37.12717]}",http://www.johnstonsarchive.net/nuclear/tests/USA-ntests1.html
+LIBSRC-LIB34-ENT-GEO-0320631,descriptive_identity,"nuclear weapons testing",https://www.nnss.gov/docs/docs_LibraryPublications/DOE_NV-209_Rev16.pdf
+LIBSRC-LIB34-ENT-GEO-0320631,descriptive_identity,"print",https://purl.org/nga/collection/artobject/182025
+LIBSRC-LIB34-ENT-GEO-0320631,descriptive_identity,"village municipality of Quebec",https://www.mairesduquebec.com/mairesduquebec/munic.php?id=1238
+LIBSRC-LIB34-ENT-GEO-0320631,descriptive_identity,"former municipality",https://www.mairesduquebec.com/mairesduquebec/munic.php?id=1238
+LIBSRC-LIB34-ENT-GEO-0320631,location,"Hudson",https://www.mairesduquebec.com/mairesduquebec/munic.php?id=1238
+LIBSRC-LIB34-ENT-GEO-0320631,location,"Quebec",https://www.mairesduquebec.com/mairesduquebec/munic.php?id=1238
+LIBSRC-LIB34-ENT-GEO-0320631,identity_label,"McNaughton",https://www.mairesduquebec.com/mairesduquebec/munic.php?id=1238
+LIBSRC-LIB34-ENT-GEO-0320631,identity_label,"Hudson",https://www.mairesduquebec.com/mairesduquebec/munic.php?id=1238
+LIBSRC-LIB34-ENT-GEO-0335931,location,"Đồng Nai",https://danhmuchanhchinh.nso.gov.vn/
+LIBSRC-LIB34-ENT-GEO-0321401,descriptive_identity,"family name",https://www2.census.gov/topics/genealogy/2010surnames/names.zip
+LIBSRC-LIB34-ENT-GEO-0322941,descriptive_identity,"painting",https://artgallery.yale.edu/collections/objects/60916
+LIBSRC-LIB34-ENT-GEO-0325921,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-100.9475, 22.328611111]}",https://www.inegi.org.mx/app/areasgeograficas/?ag=240280262
+LIBSRC-LIB35-ENT-GAZ-2532429,elevation,698000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2532429,elevation,970000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB35-ENT-GAZ-2532429,identity_label,"Le Brignon",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB35-ENT-GAZ-2532429,elevation,1127000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2522851,elevation,565000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2522851,identity_label,"Le Bourg",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB35-ENT-GAZ-2522851,elevation,336000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2522851,elevation,399000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB35-ENT-GAZ-2523663,descriptive_identity,"print",https://purl.org/nga/collection/artobject/5647
+LIBSRC-LIB35-ENT-GAZ-2523663,descriptive_identity,"encyclopedia article",https://api.crossref.org/v1/works/http://dx.doi.org/10.1093/BENZ/9780199773787.ARTICLE.B00014662
+LIBSRC-LIB35-ENT-GAZ-2523663,descriptive_identity,"watercolor painting",https://collections.britishart.yale.edu/catalog/tms:10852
+LIBSRC-LIB35-ENT-GAZ-2522851,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=60113
+LIBSRC-LIB35-ENT-GAZ-2523663,descriptive_identity,"encyclopedia article",https://api.crossref.org/v1/works/http://dx.doi.org/10.1093/GAO/9781884446054.ARTICLE.T007157
+LIBSRC-LIB35-ENT-GAZ-2523663,identity_label,"Beauvais",https://www.insee.fr/fr/information/4316069
+LIBSRC-LIB35-ENT-GAZ-2523663,identity_label,"Duthil-la-Montagne",http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=12335
+LIBSRC-LIB35-ENT-GAZ-2523663,identity_label,"La Chaussée-de-la-Montagne",http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=32740
+LIBSRC-LIB35-ENT-GAZ-2523663,identity_label,"Beauvais",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB35-ENT-GAZ-2523663,elevation,90000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB35-ENT-GAZ-2523663,elevation,170000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2523663,elevation,57000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2522851,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=60905
+LIBSRC-LIB35-ENT-GAZ-2533218,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=60501
+LIBSRC-LIB35-ENT-GAZ-2533218,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=40048
+LIBSRC-LIB35-ENT-GAZ-2523663,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=62325
+LIBSRC-LIB34-ENT-GEO-0038021,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [46.240863806, 40.500242932]}",https://opendata.az/@azerbaycan-respublikasinin-ekologiya-ve-tebii-servetler-nazirliyi/azerbaycanin-seherleri-ve-inzibati-erazi-vahidleri
+LIBSRC-LIB34-ENT-GEO-0038791,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [48.655576551, 41.426507397]}",https://opendata.az/@azerbaycan-respublikasinin-ekologiya-ve-tebii-servetler-nazirliyi/azerbaycanin-seherleri-ve-inzibati-erazi-vahidleri
+LIBSRC-LIB34-ENT-GEO-0061121,identity_label,"Rabštejn",https://www.cuzk.cz/ruian/Poskytovani-udaju-ISUI-RUIAN-VDP/Ciselniky-ISUI.aspx
+LIBSRC-LIB34-ENT-GEO-0061121,identity_label,"zřícenina hradu Rabštejn",https://pamatkovykatalog.cz/soupis/podle-relevance/1/seznam?katCislo=1000125135
+LIBSRC-LIB34-ENT-GEO-0061121,identity_label,"hrad Rabštejn, zřícenina a archeologické stopy",https://pamatkovykatalog.cz/soupis/podle-relevance/1/seznam?katCislo=1000125135
+LIBSRC-LIB34-ENT-GEO-0081141,elevation,726000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0081141,identity_label,"Saint-Amans-des-Cots",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0081141,elevation,355000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0081141,elevation,882000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0044951,elevation,515240.0,ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/localidades/Geomedia_MDB/BR_Localidades_2010_v1.mdb
+LIBSRC-LIB34-ENT-GEO-0084221,elevation,770000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0084221,elevation,520000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0084221,elevation,1347000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0084221,identity_label,"Châtillon-sur-Cluses",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0082681,elevation,238000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0082681,elevation,318000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0082681,elevation,127000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0082681,identity_label,"Lanas",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0099621,descriptive_identity,"Samian Ware Discovery Site",http://data.archaeology.link/data/samian/loc_ds_1003976
+LIBSRC-LIB34-ENT-GEO-0083451,elevation,2447000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0083451,elevation,1347000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0083451,identity_label,"Fontan",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0083451,elevation,405000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0082681,location,"Botolinggo",https://kampungkb.bkkbn.go.id/kampung/67633
+LIBSRC-LIB34-ENT-GEO-0083451,location,"Demonte",https://www.geonames.org/8971693
+LIBSRC-LIB34-ENT-GEO-0082681,descriptive_identity,"family name",https://www2.census.gov/topics/genealogy/2010surnames/names.zip
+LIBSRC-LIB34-ENT-GEO-0083451,descriptive_identity,"family name",https://www2.census.gov/topics/genealogy/2010surnames/names.zip
+LIBSRC-LIB34-ENT-GEO-0162761,identity_label,"الشقيق",https://www.stats.gov.sa/ar/13
+LIBSRC-LIB34-ENT-GEO-0203571,descriptive_identity,"family name",https://www2.census.gov/topics/genealogy/2010surnames/names.zip
+LIBSRC-LIB34-ENT-GEO-0306541,elevation,1083000.0,https://www.geonames.org/6853543/ozernoye.html
+LIBSRC-LIB34-ENT-GEO-0308081,location,"Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC50585
+LIBSRC-LIB34-ENT-GEO-0308081,location,"Western Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC50585
+LIBSRC-LIB34-ENT-GEO-0295761,location,"Bigadiç district",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0295761,descriptive_identity,"mahalle",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0308081,identity_label,"Greenwood",http://www.cityofgreenwoodsc.com/
+LIBSRC-LIB34-ENT-GEO-0295761,location,"Turkey",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0295761,location,"Oltu district",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0322711,location,"Plympton–Wyoming",http://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1346772&CVD=1341558&CPV=3538035&CST=01012021&CLV=4&MLV=4
+LIBSRC-LIB34-ENT-GEO-0308081,location,"Whitewater Region",http://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1346772&CVD=1341558&CPV=3547056&CST=01012021&CLV=47&MLV=47
+LIBSRC-LIB34-ENT-GEO-0322711,descriptive_identity,"photograph",https://purl.org/nga/collection/artobject/160917
+LIBSRC-LIB34-ENT-GEO-0322711,descriptive_identity,"photograph",https://purl.org/nga/collection/artobject/115875
+LIBSRC-LIB34-ENT-GEO-0322711,descriptive_identity,"photograph",https://purl.org/nga/collection/artobject/118413
+LIBSRC-LIB34-ENT-GEO-0322711,descriptive_identity,"plaque",https://clevelandart.org/art/2010.269
+LIBSRC-LIB34-ENT-GEO-0322711,descriptive_identity,"photograph",https://clevelandart.org/art/2010.269
+LIBSRC-LIB34-ENT-GEO-0315781,descriptive_identity,"free and open-source software",https://github.com/cucumber
+LIBSRC-LIB34-ENT-GEO-0322711,descriptive_identity,"painting",http://americanart.si.edu/collections/search/artwork/?id=19046
+LIBSRC-LIB34-ENT-GEO-0308081,location,"Queensland",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC31259
+LIBSRC-LIB34-ENT-GEO-0308081,location,"Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC31259
+LIBSRC-LIB34-ENT-GEO-0308081,location,"Farranfad",https://apps.communities-ni.gov.uk/Buildings/buildview.aspx?id=2155&js=false
+LIBSRC-LIB34-ENT-GEO-0308081,location,"United Kingdom",https://apps.communities-ni.gov.uk/Buildings/buildview.aspx?id=2155&js=false
+LIBSRC-LIB34-ENT-GEO-0308081,descriptive_identity,"house",https://apps.communities-ni.gov.uk/Buildings/buildview.aspx?id=2155&js=false
+LIBSRC-LIB34-ENT-GEO-0308081,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-5.81712, 54.312]}",https://apps.communities-ni.gov.uk/Buildings/buildview.aspx?id=2155&js=false
+LIBSRC-LIB34-ENT-GEO-0308081,location,"Scottish Borders",https://hillforts.arch.ox.ac.uk/?query=Atlas_of_Hillforts_4166_0%2CMain_Atlas_Number%2C4103
+LIBSRC-LIB34-ENT-GEO-0308081,descriptive_identity,"hillslope fort",https://hillforts.arch.ox.ac.uk/?query=Atlas_of_Hillforts_4166_0%2CMain_Atlas_Number%2C4103
+LIBSRC-LIB34-ENT-GEO-0308081,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-2.26265, 55.87249]}",https://hillforts.arch.ox.ac.uk/?query=Atlas_of_Hillforts_4166_0%2CMain_Atlas_Number%2C4103
+LIBSRC-LIB34-ENT-GEO-0319631,descriptive_identity,"family name",https://www2.census.gov/topics/genealogy/2010surnames/names.zip
+LIBSRC-LIB34-ENT-GEO-0308081,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-97.2, 50.45]}",https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0319631,elevation,675600.0,https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0319631,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-103.75, 51.26]}",https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0308081,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-118.68, 49.1]}",https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0308081,elevation,762800.0,https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0322711,location,"New South Wales",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC14445
+LIBSRC-LIB34-ENT-GEO-0322711,location,"Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC14445
+LIBSRC-LIB34-ENT-GEO-0326461,descriptive_identity,"painting",http://www.aucklandartgallery.com/explore-art-and-ideas/artwork/2958/wellington
+LIBSRC-LIB34-ENT-GEO-0326461,descriptive_identity,"encyclopedia article",https://api.crossref.org/v1/works/http://dx.doi.org/10.1093/GAO/9781884446054.ARTICLE.T091090
+LIBSRC-LIB34-ENT-GEO-0334931,location,"Municipality of Punta del Este",https://www.opp.gub.uy/sites/default/files/inline-files/Mapa_Municipios%20del%20Uruguay%202025_0.pdf
+LIBSRC-LIB35-ENT-GAZ-2511839,elevation,217000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB35-ENT-GAZ-2511839,elevation,282000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2511839,elevation,187000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2511839,identity_label,"Champvert",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0326461,location,"Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC14221
+LIBSRC-LIB34-ENT-GEO-0326461,location,"New South Wales",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC14221
+LIBSRC-LIB34-ENT-GEO-0326461,location,"Aberdeenshire",http://portal.historicenvironment.scot/designation/LB16396
+LIBSRC-LIB34-ENT-GEO-0334931,location,"Granada Department",https://www.openstreetmap.org/relation/3634064?mlat=11.904444444&mlon=-85.893888888#map=8/11.904444444/-85.893888888
+LIBSRC-LIB34-ENT-GEO-0326461,location,"South Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC41547
+LIBSRC-LIB34-ENT-GEO-0326461,location,"Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC41547
+LIBSRC-LIB34-ENT-GEO-0039331,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [48.632082449, 41.56403171]}",https://opendata.az/@azerbaycan-respublikasinin-ekologiya-ve-tebii-servetler-nazirliyi/azerbaycanin-seherleri-ve-inzibati-erazi-vahidleri
+LIBSRC-LIB34-ENT-GEO-0044721,location,"Belo Horizonte",https://www.gifex.com/brazil_maps/Belo_Horizonte_Neighborhood_Map_Brazil_2.htm
+LIBSRC-LIB34-ENT-GEO-0044721,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-46.64188697, -23.54671286]}",http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx#
+LIBSRC-LIB34-ENT-GEO-0044721,location,"Terra Nova do Norte",http://www.ipatrimonio.org/terra-nova-do-norte-cruzeiro
+LIBSRC-LIB34-ENT-GEO-0044721,location,"Brazil",http://www.ipatrimonio.org/terra-nova-do-norte-cruzeiro
+LIBSRC-LIB34-ENT-GEO-0044721,descriptive_identity,"calvary",http://www.ipatrimonio.org/terra-nova-do-norte-cruzeiro
+LIBSRC-LIB34-ENT-GEO-0044721,descriptive_identity,"musical work/composition",https://musicabrasilis.org.br/partituras/ernesto-nazareth-cruzeiro
+LIBSRC-LIB34-ENT-GEO-0082451,elevation,502000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0082451,elevation,724000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0082451,elevation,434000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0082451,identity_label,"Le Grand-Lemps",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0080141,identity_label,"Tilloy-lez-Marchiennes",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0080141,elevation,15000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0080141,elevation,18000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0080141,elevation,20000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0084761,elevation,156000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0084761,elevation,131000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0084761,identity_label,"Bousies",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0084761,elevation,145000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0085531,elevation,124000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0085531,elevation,141000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0085531,identity_label,"Archigny",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB34-ENT-GEO-0085531,elevation,72000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0080911,elevation,83000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0080911,identity_label,"Bois-Milon",http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=31774
+LIBSRC-LIB34-ENT-GEO-0080911,identity_label,"Saint-Florent-des-Bois",https://www.insee.fr/fr/information/4316069
+LIBSRC-LIB34-ENT-GEO-0080911,elevation,18000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0080911,elevation,62000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0088611,descriptive_identity,"family name",https://www2.census.gov/topics/genealogy/2010surnames/names.zip
+LIBSRC-LIB34-ENT-GEO-0215661,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [170.053, -43.689]}",https://gazetteer.linz.govt.nz/place/44751
+LIBSRC-LIB34-ENT-GEO-0203341,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-95.398611111, 17.351111111]}",https://www.inegi.org.mx/app/areasgeograficas/?ag=202070010
+LIBSRC-LIB34-ENT-GEO-0203341,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-97.743333333, 16.401944444]}",https://www.inegi.org.mx/app/areasgeograficas/?ag=204670018
+LIBSRC-LIB34-ENT-GEO-0238551,location,"Southern Europe",https://www.workwithdata.com/place/san-marino
+LIBSRC-LIB34-ENT-GEO-0238551,identity_label,"la République de Saint-Marin",http://cnig.gouv.fr/wp-content/uploads/2020/02/CNT-PVM_r%C3%A9vis%C3%A9_2020-01-27-1.pdf
+LIBSRC-LIB34-ENT-GEO-0238551,location,"Sogliano al Rubicone",https://www.geonames.org/8970850
+LIBSRC-LIB34-ENT-GEO-0238551,location,"Gorga",https://www.geonames.org/8956965
+LIBSRC-LIB34-ENT-GEO-0238551,location,"Bentivoglio",https://www.geonames.org/3168069
+LIBSRC-LIB34-ENT-GEO-0238551,location,"San Venanzo",https://www.geonames.org/8962938
+LIBSRC-LIB34-ENT-GEO-0238551,location,"Valbrenta",https://www.geonames.org/8953964
+LIBSRC-LIB34-ENT-GEO-0238551,elevation,533000.0,https://www.istat.it/notizia/basi-territoriali-e-variabili-censuarie/
+LIBSRC-LIB34-ENT-GEO-0307851,descriptive_identity,"painting",http://americanart.si.edu/collections/search/artwork/?id=13852
+LIBSRC-LIB34-ENT-GEO-0307851,descriptive_identity,"painting",https://www.metmuseum.org/art/collection/search/500423
+LIBSRC-LIB34-ENT-GEO-0307851,descriptive_identity,"Star Trek comic",https://memory-alpha.fandom.com/wiki/Category:Comics?oldid=2229451#mw-content-text
+LIBSRC-LIB34-ENT-GEO-0238551,location,"Italy",http://dati.istruzione.it/opendata/opendata/catalogo/elements1/?area=Scuole
+LIBSRC-LIB34-ENT-GEO-0238551,location,"Gadesco-Pieve Delmona",http://dati.istruzione.it/opendata/opendata/catalogo/elements1/?area=Scuole
+LIBSRC-LIB34-ENT-GEO-0238551,descriptive_identity,"kindergarten",http://dati.istruzione.it/opendata/opendata/catalogo/elements1/?area=Scuole
+LIBSRC-LIB34-ENT-GEO-0328541,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [169.988, -43.694]}",https://gazetteer.linz.govt.nz/place/19848
+LIBSRC-LIB35-ENT-GAZ-2518844,elevation,268000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2518844,elevation,615000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2518844,identity_label,"Saint-Martin",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB35-ENT-GAZ-2518844,elevation,357000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB35-ENT-GAZ-2518844,elevation,159000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2518844,elevation,212000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB35-ENT-GAZ-2518844,elevation,263000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0323251,location,"Central Manitoulin",http://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1346772&CVD=1341558&CPV=3551006&CST=01012021&CLV=47&MLV=47
+LIBSRC-LIB35-ENT-GAZ-2518844,elevation,301000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2518844,elevation,241000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2518844,elevation,266000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB35-ENT-GAZ-2528775,elevation,65000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2528775,elevation,128000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2528775,identity_label,"Milly",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB35-ENT-GAZ-2518844,elevation,332000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2518844,elevation,489000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2518844,elevation,395000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB35-ENT-GAZ-2514823,elevation,58000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2514823,elevation,108000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB35-ENT-GAZ-2514823,identity_label,"Lannes",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB35-ENT-GAZ-2514823,elevation,171000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2518844,identity_label,"Saint-Martin",https://www.mairesduquebec.com/mairesduquebec/munic.php?id=2989
+LIBSRC-LIB35-ENT-GAZ-2518844,elevation,455000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB35-ENT-GAZ-2518844,elevation,642000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2518844,identity_label,"Saint-Martin-de-Fenouillet",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB35-ENT-GAZ-2518844,location,"Quebec",https://www.mairesduquebec.com/mairesduquebec/munic.php?id=2989
+LIBSRC-LIB35-ENT-GAZ-2518844,descriptive_identity,"city or town of Quebec",https://www.mairesduquebec.com/mairesduquebec/munic.php?id=2989
+LIBSRC-LIB35-ENT-GAZ-2518844,descriptive_identity,"city",https://www.mairesduquebec.com/mairesduquebec/munic.php?id=2989
+LIBSRC-LIB35-ENT-GAZ-2518844,descriptive_identity,"former municipality",https://www.mairesduquebec.com/mairesduquebec/munic.php?id=2989
+LIBSRC-LIB35-ENT-GAZ-2518844,location,"Chomedey",https://www.mairesduquebec.com/mairesduquebec/munic.php?id=2989
+LIBSRC-LIB35-ENT-GAZ-2528775,descriptive_identity,"female given name",https://www.babycenter.de/babyname/32923/milly
+LIBSRC-LIB35-ENT-GAZ-2514823,identity_label,"Lannes",https://www.insee.fr/fr/information/4316069
+LIBSRC-LIB35-ENT-GAZ-2518844,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=60200
+LIBSRC-LIB35-ENT-GAZ-2518844,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=33226
+LIBSRC-LIB35-ENT-GAZ-2518844,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=33229
+LIBSRC-LIB35-ENT-GAZ-2518844,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=33260
+LIBSRC-LIB35-ENT-GAZ-2518844,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=33224
+LIBSRC-LIB35-ENT-GAZ-2518844,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=33257
+LIBSRC-LIB35-ENT-GAZ-2518844,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=33259
+LIBSRC-LIB35-ENT-GAZ-2518844,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=61583
+LIBSRC-LIB35-ENT-GAZ-2518844,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=61714
+LIBSRC-LIB35-ENT-GAZ-2518844,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=33264
+LIBSRC-LIB35-ENT-GAZ-2528775,descriptive_identity,"human",https://acervo.museudapessoa.org/pt/conteudo/pessoa/127642
+LIBSRC-LIB34-ENT-GEO-0320941,location,"Trent Lakes",http://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1346772&CVD=1341558&CPV=3515044&CST=01012021&CLV=47&MLV=47
+LIBSRC-LIB34-ENT-GEO-0320941,location,"Kingston",http://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1346772&CVD=1341558&CPV=3510010&CST=01012021&CLV=47&MLV=47
+LIBSRC-LIB35-ENT-GAZ-2518844,descriptive_identity,"post office",https://archiv-histo.com/assets/plugins/kcf/files/OUTILS/1925%20-%20Magnan%2C%20Hormidas%2C%20Dictionnaire%20historique%20et%20g%C3%A9ographique%20des%20paroisses%2C%20missions%20et%20municipalit%C3%A9s%20de%20la%20province%20de%20Qu%C3%A9bec.pdf
+LIBSRC-LIB35-ENT-GAZ-2518844,descriptive_identity,"post office",https://toponymie.gouv.qc.ca/ct/ToposWeb/Fiche.aspx?no_seq=57193
+LIBSRC-LIB35-ENT-GAZ-2518844,identity_label,"Bolduc",https://toponymie.gouv.qc.ca/ct/ToposWeb/Fiche.aspx?no_seq=57193
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1040-REC207871,descriptive_identity,"Wikimedia disambiguation page",https://en.wikipedia.org/w/index.php?title=Bex_(disambiguation)&oldid=1357649028
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1017-REC203251,location,"São Gonçalo do Amarante",http://www.anac.gov.br/dadosabertos/areas-de-atuacao/aerodromos
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1017-REC203251,descriptive_identity,"aerodrome",http://www.anac.gov.br/dadosabertos/areas-de-atuacao/aerodromos
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1038-REC207451,descriptive_identity,"modern language",https://iso639-3.sil.org/code/brr
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1038-REC207451,location,"Solomon Islands",https://scriptsource.org/country/SB
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1040-REC207871,descriptive_identity,"family name",https://www2.census.gov/topics/genealogy/2010surnames/names.zip
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1040-REC207871,descriptive_identity,"family name",https://www.ancestry.com/last-name-meaning/bex?geo-lang=en
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1040-REC207871,descriptive_identity,"given name",https://www.ssa.gov/oact/babynames/names.zip
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1089-REC217741,location,"Ghana",https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=gh&srlang=en&srid=GH-CP-010
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1089-REC217741,location,"Central Region",https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=gh&srlang=en&srid=GH-CP-010
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1104-REC220681,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [12.696396, 52.410189]}",https://service.brandenburg.de/service/de/adressen/kommunalverzeichnis/ansicht/~120690249249-gross-kreutz-havel
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1096-REC219001,identity_label,"hrad, zřícenina a archeologické stopy",https://pamatkovykatalog.cz/soupis/podle-relevance/1/seznam?katCislo=1000148921
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1096-REC219001,location,"Q56414071",https://pamatkovykatalog.cz/soupis/podle-relevance/1/seznam/?katCislo=1000148921
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1096-REC219001,identity_label,"zřícenina hradu",https://pamatkovykatalog.cz/soupis/podle-relevance/1/seznam?katCislo=1000148921
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1096-REC219001,identity_label,"zřícenina hradu Brníčko",https://pamatkovykatalog.cz/soupis/podle-relevance/1/seznam?katCislo=1000148921
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1089-REC217741,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [129.89756, -4.52813]}",http://sinar.big.go.id/Pencarian/Detail/47994
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1134-REC226771,location,"Lääne-Nigula Rural Municipality",http://metaweb.stat.ee/get_classificator_file.htm?id=4412334&siteLanguage=et
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1151-REC230131,descriptive_identity,"airport",https://store.aci.aero/wp-content/uploads/2018/05/2014_Traffic_Report_sample.xlsx
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1151-REC230131,elevation,98000.0,http://www.geonames.org/7910488
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1128-REC225511,identity_label,"Mila",https://www.hafen-hamburg.de/de/schiffe
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1128-REC225511,identity_label,"Mila",https://www.hafen-hamburg.de/de/schiffe/mehrzweckschiffe
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1128-REC225511,descriptive_identity,"male given name",https://www.apc.gov.tw/portal/getfile?source=2D838540F5D6F659FAFB9859EF31AC3B381A272F479D65D98D902DFAAFC2E154BE103991618406210EC701BB170CBF4A37883E5F77EDFDDB3B91B9DF71659F0C&filename=6650D72E0C971224FD13DC6FE0061FAD02D1DE3DCEB210BC
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1128-REC225511,location,"New South Wales",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC12611
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1128-REC225511,location,"Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC12611
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1128-REC225511,elevation,95609.0,https://datos-geodesia.ign.es/Red_Geodesica/Hoja0647/064735.pdf
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1128-REC225511,location,"Spain",https://datos-geodesia.ign.es/Red_Geodesica/Hoja0647/064735.pdf
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1128-REC225511,location,"Maó",https://datos-geodesia.ign.es/Red_Geodesica/Hoja0647/064735.pdf
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1128-REC225511,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [4.261453, 39.917872]}",https://datos-geodesia.ign.es/Red_Geodesica/Hoja0647/064735.pdf
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1128-REC225511,descriptive_identity,"triangulation station",https://datos-geodesia.ign.es/Red_Geodesica/Hoja0647/064735.pdf
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1128-REC225511,location,"Pidie",https://referensi.data.kemdikbud.go.id/pendidikan/dikdas/060213/3
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1196-REC239161,identity_label,"Pierres",https://www.insee.fr/fr/information/3363419
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1196-REC239161,elevation,146000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1196-REC239161,elevation,246000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1197-REC239371,elevation,128000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1197-REC239371,elevation,218000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1197-REC239371,elevation,172000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1196-REC239161,elevation,159000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1196-REC239161,elevation,133000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1196-REC239161,elevation,95000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1197-REC239371,identity_label,"Nieuil",https://www.insee.fr/fr/information/3363419
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1169-REC233701,location,"Spain",https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0010635
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1169-REC233701,location,"Spain",https://ceice.gva.es/va/web/patrimonio-cultural-y-museos/inventario-general
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1169-REC233701,location,"Dénia",https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0010635
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1169-REC233701,location,"Dénia",https://ceice.gva.es/va/web/patrimonio-cultural-y-museos/inventario-general
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1169-REC233701,descriptive_identity,"castle",https://ceice.gva.es/va/web/patrimonio-cultural-y-museos/inventario-general
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1169-REC233701,descriptive_identity,"monument",https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0010635
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1191-REC238111,elevation,97000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1191-REC238111,elevation,19000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1191-REC238111,elevation,56000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1191-REC238111,identity_label,"Saint-Riquier",https://www.insee.fr/fr/information/3363419
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1232-REC246301,identity_label,"Ìle",https://www.ainmean-aite.scot/?id=40477
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1212-REC242311,identity_label,"Brie-la-Ville",http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=5920
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1207-REC241261,elevation,213000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1207-REC241261,elevation,238000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1207-REC241261,elevation,177000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1207-REC241261,identity_label,"Éply",https://www.insee.fr/fr/information/3363419
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1198-REC239581,elevation,60000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1198-REC239581,elevation,135000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1198-REC239581,identity_label,"Milly-la-Forêt",https://www.insee.fr/fr/information/3363419
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1198-REC239581,elevation,93000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1217-REC243361,elevation,872000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1217-REC243361,identity_label,"Albepierre-Bredons",https://www.insee.fr/fr/information/3363419
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1217-REC243361,elevation,1855000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1217-REC243361,elevation,1258000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1212-REC242311,identity_label,"Brie-sur-Hières",http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=5920
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1212-REC242311,elevation,47000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1212-REC242311,identity_label,"Brie-Libre",http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=5920
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1212-REC242311,identity_label,"Brie-Comte-Robert",https://www.insee.fr/fr/information/3363419
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1212-REC242311,elevation,104000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1212-REC242311,elevation,89000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1211-REC242101,elevation,244000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1211-REC242101,identity_label,"Caseneuve",https://www.insee.fr/fr/information/3363419
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1211-REC242101,elevation,454000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1211-REC242101,elevation,599000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1201-REC240001,elevation,149000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1201-REC240001,elevation,0.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1201-REC240001,elevation,263000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1201-REC240001,identity_label,"Le Rove",https://www.insee.fr/fr/information/3363419
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1214-REC242731,identity_label,"Beaurains",https://www.insee.fr/fr/information/3363419
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1214-REC242731,elevation,70000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1214-REC242731,elevation,86000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1214-REC242731,elevation,99000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1208-REC241471,elevation,150000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1208-REC241471,elevation,164000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1208-REC241471,elevation,170000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1208-REC241471,identity_label,"Cugnaux",https://www.insee.fr/fr/information/3363419
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1203-REC240421,elevation,257000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1203-REC240421,elevation,214000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1203-REC240421,elevation,286000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1203-REC240421,identity_label,"La Ferté-les-Bois",http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=13778
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1203-REC240421,identity_label,"La Ferté-Vidame",https://www.insee.fr/fr/information/3363419
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1213-REC242521,elevation,831000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1213-REC242521,identity_label,"Blieux",https://www.insee.fr/fr/information/3363419
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1213-REC242521,elevation,1921000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1213-REC242521,elevation,1258000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1216-REC243151,elevation,241000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1216-REC243151,elevation,222000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1216-REC243151,identity_label,"Arc-sur-Tille",https://www.insee.fr/fr/information/3363419
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1216-REC243151,elevation,209000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1232-REC246301,descriptive_identity,"painting",https://www.royalcollection.org.uk/collection/404493/islay
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1232-REC246301,descriptive_identity,"painting",https://www.royalcollection.org.uk/collection/403104/islay
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1232-REC246301,elevation,110000.0,https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1541/tomo1.pdf
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1232-REC246301,elevation,4342000.0,https://www.nnss.gov/docs/docs_LibraryPublications/DOE_NV-209_Rev16.pdf
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1232-REC246301,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-116.067395, 37.160368]}",https://www.nnss.gov/docs/docs_LibraryPublications/DOE_NV-209_Rev16.pdf
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1232-REC246301,descriptive_identity,"nuclear weapons testing",https://www.nnss.gov/docs/docs_LibraryPublications/DOE_NV-209_Rev16.pdf
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1233-REC246511,location,"Moray",http://portal.historicenvironment.scot/designation/LB2260
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1233-REC246511,location,"United Kingdom",https://vocaleyes.co.uk/research/heritage-access-2022/benchmark/
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1238-REC247561,descriptive_identity,"castle",http://www.gatehouse-gazetteer.info/Welshsites/102.html
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1238-REC247561,location,"Dolbenmaen",https://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&id=564
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1238-REC247561,location,"Dolbenmaen",http://www.gatehouse-gazetteer.info/Welshsites/102.html
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1235-REC246931,descriptive_identity,"castle",http://www.gatehouse-gazetteer.info/Welshsites/834.html
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1235-REC246931,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-3.2843151, 52.082849]}",http://www.gatehouse-gazetteer.info/Welshsites/834.html
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1235-REC246931,location,"Glasbury",http://www.gatehouse-gazetteer.info/Welshsites/834.html
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1244-REC248611,descriptive_identity,"contour fort",https://hillforts.arch.ox.ac.uk/?query=Atlas_of_Hillforts_4166_0%2CMain_Atlas_Number%2C1745
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1244-REC248611,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-4.1277, 53.2337]}",https://hillforts.arch.ox.ac.uk/?query=Atlas_of_Hillforts_4166_0%2CMain_Atlas_Number%2C1745
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1244-REC248611,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-4.1277558, 53.233665]}",http://www.gatehouse-gazetteer.info/Welshsites/108.html
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1244-REC248611,location,"Gwynedd",https://hillforts.arch.ox.ac.uk/?query=Atlas_of_Hillforts_4166_0%2CMain_Atlas_Number%2C1745
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1244-REC248611,location,"Bangor",http://www.gatehouse-gazetteer.info/Welshsites/108.html
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1244-REC248611,descriptive_identity,"castle",http://www.gatehouse-gazetteer.info/Welshsites/108.html
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1235-REC246931,descriptive_identity,"enclosure",http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&id=1465
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1235-REC246931,location,"United Kingdom",http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&id=1465
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1235-REC246931,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-3.2402991, 52.581622]}",http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&id=1465
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1255-REC250921,descriptive_identity,"ward of Nigeria",https://mapcarta.com/26174866
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1255-REC250921,location,"Cross River State",https://www.crossriverstate.gov.ng/
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1293-REC258481,location,"Victoria",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC20250
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1293-REC258481,location,"Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC20250
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1293-REC258481,location,"United Kingdom",https://www.akademikernewek.org.uk/place-names/content/black-rock
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1293-REC258481,descriptive_identity,"coastal landform",https://www.akademikernewek.org.uk/place-names/content/black-rock
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1293-REC258481,location,"Falmouth",https://www.akademikernewek.org.uk/place-names/content/black-rock
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1293-REC258481,location,"Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC40112
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1293-REC258481,location,"South Australia",http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC40112
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1293-REC258481,descriptive_identity,"castle",http://www.gatehouse-gazetteer.info/Welshsites/833.html
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1293-REC258481,location,"Tooele County",https://www.nps.gov/subjects/nationalregister/weekly-list-2021-03-26.htm
+IDB-REG_01-CAT_15-ERA_06-2015-ACC05-HOP1293-REC258481,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [167.960857, -47.165148]}",https://gazetteer.linz.govt.nz/place/16718
+LIBSRC-LIB35-ENT-GAZ-2533694,historical_name,"Saint Roch",https://www.ameriquefrancaise.org/articles/paroisse-saint-roch-quebec
+LIBSRC-LIB35-ENT-GAZ-2533694,descriptive_identity,"school",http://dati.istruzione.it/opendata/opendata/catalogo/elements1/?area=Scuole
+LIBSRC-LIB35-ENT-GAZ-2533694,location,"Italy",http://dati.istruzione.it/opendata/opendata/catalogo/elements1/?area=Scuole
+LIBSRC-LIB35-ENT-GAZ-2533694,location,"Aosta",http://dati.istruzione.it/opendata/opendata/catalogo/elements1/?area=Scuole
+LIBSRC-LIB35-ENT-GAZ-2532109,descriptive_identity,"work of art",https://purl.org/nga/collection/artobject/156148
+LIBSRC-LIB35-ENT-GAZ-2532109,location,"France",https://library.artstor.org/#/asset/26754425
+LIBSRC-LIB35-ENT-GAZ-2532109,descriptive_identity,"painting",https://library.artstor.org/#/asset/26754425
+LIBSRC-LIB35-ENT-GAZ-2531316,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [6.838343333, 46.959466666]}",https://s.geo.admin.ch/a1e4843b6d
+LIBSRC-LIB35-ENT-GAZ-2532109,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=14358
+LIBSRC-LIB35-ENT-GAZ-2532109,descriptive_identity,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=14359
+LIBSRC-LIB35-ENT-GAZ-2533694,elevation,78000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2533694,elevation,113000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2533694,identity_label,"La Montagne",http://cassini.ehess.fr/cassini/fr/html/fiche.php?select_resultat=34452
+LIBSRC-LIB35-ENT-GAZ-2533694,identity_label,"Saint-Roch",https://www.insee.fr/fr/information/3363419
+LIBSRC-LIB35-ENT-GAZ-2533694,elevation,95000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
