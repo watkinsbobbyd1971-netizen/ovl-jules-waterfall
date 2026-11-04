@@ -1,0 +1,460 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-0566951,scientific_identity,Haloplegma mexicanum,https://api.gbif.org/v1/species/match?name=Haloplegma%20mexicanum&strict=true
+LIBSRC-LIB50-ENT-BIO-0590191,scientific_identity,Diplodia brassicae Gonz.Frag.,https://api.gbif.org/v1/species/match?name=Diplodia%20brassicae&strict=true
+LIBSRC-LIB50-ENT-BIO-0570691,scientific_identity,"Sporidesmiella oraniopsidis Yanna, W.H.Ho, McKenzie & K.D.Hyde",https://api.gbif.org/v1/species/match?name=Sporidesmiella%20oraniopsidis&strict=true
+LIBSRC-LIB50-ENT-BIO-0590261,scientific_identity,Diplodia fairmanii Ellis & Everh.,https://api.gbif.org/v1/species/match?name=Diplodia%20fairmanii&strict=true
+LIBSRC-LIB50-ENT-BIO-0582801,scientific_identity,Coilodesme sitchensis,https://api.gbif.org/v1/species/match?name=Coilodesme%20sitchensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0585161,scientific_identity,Bunodophoron madagascareum (Nyl.) Wedin,https://api.gbif.org/v1/species/match?name=Bunodophoron%20madagascareum&strict=true
+LIBSRC-LIB50-ENT-BIO-0583951,scientific_identity,"Achnanthes undata Meister, 1934",https://api.gbif.org/v1/species/match?name=Achnanthes%20undata&strict=true
+LIBSRC-LIB50-ENT-BIO-0588891,scientific_identity,Fusicoccum noxium Ruhland,https://api.gbif.org/v1/species/match?name=Fusicoccum%20noxium&strict=true
+LIBSRC-LIB50-ENT-BIO-0570411,scientific_identity,Aposphaeria bombacis Allesch.,https://api.gbif.org/v1/species/match?name=Aposphaeria%20bombacis&strict=true
+LIBSRC-LIB50-ENT-BIO-0589061,scientific_identity,Macrophoma cephalanthae Sawada,https://api.gbif.org/v1/species/match?name=Macrophoma%20cephalanthae&strict=true
+LIBSRC-LIB50-ENT-BIO-0583531,scientific_identity,"Achnanthes rhynchocephala Cleve-Euler, 1915",https://api.gbif.org/v1/species/match?name=Achnanthes%20rhynchocephala&strict=true
+LIBSRC-LIB50-ENT-BIO-0589101,scientific_identity,Macrophoma crataegi Politis,https://api.gbif.org/v1/species/match?name=Macrophoma%20crataegi&strict=true
+LIBSRC-LIB50-ENT-BIO-0572631,scientific_identity,Lichenostigma lecanorae Calat. & Nav.-Ros.,https://api.gbif.org/v1/species/match?name=Lichenostigma%20lecanorae&strict=true
+LIBSRC-LIB50-ENT-BIO-0588741,scientific_identity,"Cycadeoidea fontaineana Ward, 1897",https://api.gbif.org/v1/species/match?name=Cycadeoidea%20fontaineana&strict=true
+LIBSRC-LIB50-ENT-BIO-0590291,scientific_identity,Diplodia berkeleyi Keissl.,https://api.gbif.org/v1/species/match?name=Diplodia%20berkeleyi&strict=true
+LIBSRC-LIB50-ENT-BIO-0560441,scientific_identity,"Talapellis beschiana (Diederich) Zhurb., U.Braun, Diederich & Heucher",https://api.gbif.org/v1/species/match?name=Talapellis%20beschiana&strict=true
+LIBSRC-LIB50-ENT-BIO-0588921,scientific_identity,Fusicoccum turconii (Trinchieri) Vanev,https://api.gbif.org/v1/species/match?name=Fusicoccum%20turconii&strict=true
+LIBSRC-LIB50-ENT-BIO-0583061,scientific_identity,Stereofomes palmicola S.Ito & S.Imai,https://api.gbif.org/v1/species/match?name=Stereofomes%20palmicola&strict=true
+LIBSRC-LIB50-ENT-BIO-0570701,scientific_identity,Sporidesmiella cuneiformis (B.Sutton ex S.Hughes) P.M.Kirk,https://api.gbif.org/v1/species/match?name=Sporidesmiella%20cuneiformis&strict=true
+LIBSRC-LIB50-ENT-BIO-0568111,scientific_identity,Griffithsia schousboei Mont.,https://api.gbif.org/v1/species/match?name=Griffithsia%20schousboei&strict=true
+LIBSRC-LIB50-ENT-BIO-0584141,scientific_identity,"Achnanthes carmichaeli Greville, 1833",https://api.gbif.org/v1/species/match?name=Achnanthes%20carmichaeli&strict=true
+LIBSRC-LIB50-ENT-BIO-0583971,scientific_identity,"Achnanthes expecta VanLandingham, 1967",https://api.gbif.org/v1/species/match?name=Achnanthes%20expecta&strict=true
+LIBSRC-LIB50-ENT-BIO-0584121,scientific_identity,"Achnanthes duthiei Sreenivasa, 1971",https://api.gbif.org/v1/species/match?name=Achnanthes%20duthiei&strict=true
+LIBSRC-LIB50-ENT-BIO-0565361,scientific_identity,Mytilinidion thujarum (Cooke & Peck) M.L.Lohman,https://api.gbif.org/v1/species/match?name=Mytilinidion%20thujarum&strict=true
+LIBSRC-LIB50-ENT-BIO-0570891,scientific_identity,Parashewanella curva,https://api.gbif.org/v1/species/match?name=Parashewanella%20curva&strict=true
+LIBSRC-LIB50-ENT-BIO-0583891,scientific_identity,"Achnanthes distincta Messikommer, 1954",https://api.gbif.org/v1/species/match?name=Achnanthes%20distincta&strict=true
+LIBSRC-LIB50-ENT-BIO-0589891,scientific_identity,Leptographium microsporum R.W.Davidson,https://api.gbif.org/v1/species/match?name=Leptographium%20microsporum&strict=true
+LIBSRC-LIB50-ENT-BIO-0583821,scientific_identity,"Achnanthes bourginii Manguin, 1955",https://api.gbif.org/v1/species/match?name=Achnanthes%20bourginii&strict=true
+LIBSRC-LIB50-ENT-BIO-0570371,scientific_identity,Aposphaeria calligoni Kravtzev,https://api.gbif.org/v1/species/match?name=Aposphaeria%20calligoni&strict=true
+LIBSRC-LIB50-ENT-BIO-0589721,scientific_identity,Botryosphaeria malvacearum (Trab.) Weese,https://api.gbif.org/v1/species/match?name=Botryosphaeria%20malvacearum&strict=true
+LIBSRC-LIB50-ENT-BIO-0589791,scientific_identity,Leptographium engelmannii R.W.Davidson,https://api.gbif.org/v1/species/match?name=Leptographium%20engelmannii&strict=true
+LIBSRC-LIB50-ENT-BIO-0583621,scientific_identity,"Achnanthes antiqua Lauby, 1910",https://api.gbif.org/v1/species/match?name=Achnanthes%20antiqua&strict=true
+LIBSRC-LIB50-ENT-BIO-0598991,scientific_identity,"Camarophyllopsis olivaceogrisea Ming Zhang, C.Q.Wang & T.H.Li",https://api.gbif.org/v1/species/match?name=Camarophyllopsis%20olivaceogrisea&strict=true
+LIBSRC-LIB50-ENT-BIO-0599541,scientific_identity,"Clavaria flavostellifera Olariaga, Salcedo, P.P.Daniëls & Kautman",https://api.gbif.org/v1/species/match?name=Clavaria%20flavostellifera&strict=true
+LIBSRC-LIB50-ENT-BIO-0592321,scientific_identity,Gibberidea lenarsii (Westend.) Kirschst.,https://api.gbif.org/v1/species/match?name=Gibberidea%20lenarsii&strict=true
+LIBSRC-LIB50-ENT-BIO-0594761,scientific_identity,Dothiorella ledi Lind & Vleugel,https://api.gbif.org/v1/species/match?name=Dothiorella%20ledi&strict=true
+LIBSRC-LIB50-ENT-BIO-0592121,scientific_identity,Sphaeropsis porosa (Van Niekerk & Crous) A.J.L.Phillips & A.Alves,https://api.gbif.org/v1/species/match?name=Sphaeropsis%20porosa&strict=true
+LIBSRC-LIB50-ENT-BIO-0595221,scientific_identity,"Lasiodiplodia newvalleyensis A.M.Ismail, S.M.El-Ganainy & E.S.Elshewy",https://api.gbif.org/v1/species/match?name=Lasiodiplodia%20newvalleyensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0594221,scientific_identity,Microdiplodia fici Politis,https://api.gbif.org/v1/species/match?name=Microdiplodia%20fici&strict=true
+LIBSRC-LIB50-ENT-BIO-0593271,scientific_identity,Dothiora pruni-padi Froid.,https://api.gbif.org/v1/species/match?name=Dothiora%20pruni-padi&strict=true
+LIBSRC-LIB50-ENT-BIO-0590541,scientific_identity,"Diplodia italica Wijayaw., A.J.L.Phillips, Camporesi & K.D.Hyde",https://api.gbif.org/v1/species/match?name=Diplodia%20italica&strict=true
+LIBSRC-LIB50-ENT-BIO-0594061,scientific_identity,Microdiplodia wisteriae Grove,https://api.gbif.org/v1/species/match?name=Microdiplodia%20wisteriae&strict=true
+LIBSRC-LIB50-ENT-BIO-0594151,scientific_identity,Microdiplodia mori Allesch.,https://api.gbif.org/v1/species/match?name=Microdiplodia%20mori&strict=true
+LIBSRC-LIB50-ENT-BIO-0595211,scientific_identity,Lasiodiplodia jatrophicola A.R.Machado & O.L.Pereira,https://api.gbif.org/v1/species/match?name=Lasiodiplodia%20jatrophicola&strict=true
+LIBSRC-LIB50-ENT-BIO-0593291,scientific_identity,Dothiora valdiviana Butin,https://api.gbif.org/v1/species/match?name=Dothiora%20valdiviana&strict=true
+LIBSRC-LIB50-ENT-BIO-0590601,scientific_identity,Oudemansiella australis G.Stev. & G.M.Taylor,https://api.gbif.org/v1/species/match?name=Oudemansiella%20australis&strict=true
+LIBSRC-LIB50-ENT-BIO-0591231,scientific_identity,Armillaria argentina Speg.,https://api.gbif.org/v1/species/match?name=Armillaria%20argentina&strict=true
+LIBSRC-LIB50-ENT-BIO-0595331,scientific_identity,"Fungiacyathus fragilis Sars, 1872",https://api.gbif.org/v1/species/match?name=Fungiacyathus%20fragilis&strict=true
+LIBSRC-LIB50-ENT-BIO-0593671,scientific_identity,Ponticulomyces kedrovayae R.H.Petersen,https://api.gbif.org/v1/species/match?name=Ponticulomyces%20kedrovayae&strict=true
+LIBSRC-LIB50-ENT-BIO-0619381,scientific_identity,Santessoniella pulchella P.M.Jørg.,https://api.gbif.org/v1/species/match?name=Santessoniella%20pulchella&strict=true
+LIBSRC-LIB50-ENT-BIO-0598831,scientific_identity,Clavulinopsis appalachiensis (Coker) Corner,https://api.gbif.org/v1/species/match?name=Clavulinopsis%20appalachiensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0619611,scientific_identity,Pannaria immixta Nyl.,https://api.gbif.org/v1/species/match?name=Pannaria%20immixta&strict=true
+LIBSRC-LIB50-ENT-BIO-0595101,scientific_identity,Sporothrix curviconia de Hoog,https://api.gbif.org/v1/species/match?name=Sporothrix%20curviconia&strict=true
+LIBSRC-LIB50-ENT-BIO-0595551,scientific_identity,Raffaelea sulcati A.Funk,https://api.gbif.org/v1/species/match?name=Raffaelea%20sulcati&strict=true
+LIBSRC-LIB50-ENT-BIO-0602791,scientific_identity,"Geodermatophilus africanus Montero-Calasanz et al., 2013",https://api.gbif.org/v1/species/match?name=Geodermatophilus%20africanus&strict=true
+LIBSRC-LIB50-ENT-BIO-0602041,scientific_identity,Alcanivorax mobilis,https://api.gbif.org/v1/species/match?name=Alcanivorax%20mobilis&strict=true
+LIBSRC-LIB50-ENT-BIO-0602031,scientific_identity,"Alcanivorax nanhaiticus Lai et al., 2016",https://api.gbif.org/v1/species/match?name=Alcanivorax%20nanhaiticus&strict=true
+LIBSRC-LIB50-ENT-BIO-0604111,scientific_identity,Podonectria coccorum (Petch) Rossman,https://api.gbif.org/v1/species/match?name=Podonectria%20coccorum&strict=true
+LIBSRC-LIB50-ENT-BIO-0619701,scientific_identity,Pannaria fulvescens (Mont.) Nyl.,https://api.gbif.org/v1/species/match?name=Pannaria%20fulvescens&strict=true
+LIBSRC-LIB50-ENT-BIO-0618341,scientific_identity,Parmeliella isidiopannosa P.M.Jørg.,https://api.gbif.org/v1/species/match?name=Parmeliella%20isidiopannosa&strict=true
+LIBSRC-LIB50-ENT-BIO-0618351,scientific_identity,Parmeliella ruderatula (Nyl.) Hasse,https://api.gbif.org/v1/species/match?name=Parmeliella%20ruderatula&strict=true
+LIBSRC-LIB50-ENT-BIO-0618291,scientific_identity,Austroparmeliella lacerata (P.M.Jørg.) P.M.Jørg.,https://api.gbif.org/v1/species/match?name=Austroparmeliella%20lacerata&strict=true
+LIBSRC-LIB50-ENT-BIO-0618401,scientific_identity,Parmeliella nigrata (Müll.Arg.) P.M.Jørg. & D.J.Galloway,https://api.gbif.org/v1/species/match?name=Parmeliella%20nigrata&strict=true
+LIBSRC-LIB50-ENT-BIO-0619581,scientific_identity,Pannaria malmei Dodge,https://api.gbif.org/v1/species/match?name=Pannaria%20malmei&strict=true
+LIBSRC-LIB50-ENT-BIO-0619671,scientific_identity,Pannaria santessonii Swinscow & Krog,https://api.gbif.org/v1/species/match?name=Pannaria%20santessonii&strict=true
+LIBSRC-LIB50-ENT-BIO-0617471,scientific_identity,Leptogidium dendriscum (Nyl.) Nyl.,https://api.gbif.org/v1/species/match?name=Leptogidium%20dendriscum&strict=true
+LIBSRC-LIB50-ENT-BIO-0619621,scientific_identity,Pannaria tenuis P.M.Jørg. & Sipman,https://api.gbif.org/v1/species/match?name=Pannaria%20tenuis&strict=true
+LIBSRC-LIB50-ENT-BIO-0619711,scientific_identity,Pannaria pallida (Nyl.) Hue,https://api.gbif.org/v1/species/match?name=Pannaria%20pallida&strict=true
+LIBSRC-LIB50-ENT-BIO-0620181,scientific_identity,"Psoroma tenue Henssen, 1981",https://api.gbif.org/v1/species/match?name=Psoroma%20tenue&strict=true
+LIBSRC-LIB50-ENT-BIO-0617581,scientific_identity,Fuscopannaria ahlneri (P.M.Jørg.) P.M.Jørg.,https://api.gbif.org/v1/species/match?name=Fuscopannaria%20ahlneri&strict=true
+LIBSRC-LIB50-ENT-BIO-0640011,scientific_identity,"Gomphonema tergestinum (Grunow) Fricke, 1902",https://api.gbif.org/v1/species/match?name=Gomphonema%20tergestinum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639351,scientific_identity,"Gomphonema kerguelenensis E.E.Manguin, 1954",https://api.gbif.org/v1/species/match?name=Gomphonema%20kerguelenensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0639331,scientific_identity,"Gomphonema amerhombicum E.Reichardt, 2007",https://api.gbif.org/v1/species/match?name=Gomphonema%20amerhombicum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639651,scientific_identity,"Gomphonema reichelti M.Schmidt, 1899",https://api.gbif.org/v1/species/match?name=Gomphonema%20reichelti&strict=true
+LIBSRC-LIB50-ENT-BIO-0639301,scientific_identity,"Gomphonema entolejum Østrup, 1902",https://api.gbif.org/v1/species/match?name=Gomphonema%20entolejum&strict=true
+LIBSRC-LIB50-ENT-BIO-0622541,scientific_identity,"Sellaphora sardiniensis H.Lange-Bertalot, P.Cavacini, N.Tagliaventi & S.Alfinito, 2003",https://api.gbif.org/v1/species/match?name=Sellaphora%20sardiniensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0647571,scientific_identity,"Denticella biddulphia Ehrenberg, 1843",https://api.gbif.org/v1/species/match?name=Denticella%20biddulphia&strict=true
+LIBSRC-LIB50-ENT-BIO-0639461,scientific_identity,"Gomphonema linea Ehrenberg, 1856",https://api.gbif.org/v1/species/match?name=Gomphonema%20linea&strict=true
+LIBSRC-LIB50-ENT-BIO-0639671,scientific_identity,"Gomphonema latipes E.Reichardt, 2001",https://api.gbif.org/v1/species/match?name=Gomphonema%20latipes&strict=true
+LIBSRC-LIB50-ENT-BIO-0622611,scientific_identity,"Sellaphora meridionalis Potapova & Ponader, 2008",https://api.gbif.org/v1/species/match?name=Sellaphora%20meridionalis&strict=true
+LIBSRC-LIB50-ENT-BIO-0623231,scientific_identity,"Fallacia scaldensis K.Sabbe & K.Muylaert, 1999",https://api.gbif.org/v1/species/match?name=Fallacia%20scaldensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0639891,scientific_identity,Gomphonema turris,https://api.gbif.org/v1/species/match?name=Gomphonema%20turris&strict=true
+LIBSRC-LIB50-ENT-BIO-0639531,scientific_identity,Gomphonema charcotii M.Peragallo,https://api.gbif.org/v1/species/match?name=Gomphonema%20charcotii&strict=true
+LIBSRC-LIB50-ENT-BIO-0639911,scientific_identity,Gomphonema fusticulus W.Smith,https://api.gbif.org/v1/species/match?name=Gomphonema%20fusticulus&strict=true
+LIBSRC-LIB50-ENT-BIO-0639881,scientific_identity,"Gomphonema sublaticollum Levkov, Mitic-Kopanja & E.Reichardt, 2016",https://api.gbif.org/v1/species/match?name=Gomphonema%20sublaticollum&strict=true
+LIBSRC-LIB50-ENT-BIO-0641211,scientific_identity,"Gomphoneis subcapitata J.P.Kociolek, M.S.Kulikovskiy & C.N.Solak, 2013",https://api.gbif.org/v1/species/match?name=Gomphoneis%20subcapitata&strict=true
+LIBSRC-LIB50-ENT-BIO-0648451,scientific_identity,"Synedrosphenia recta Lobban, 2022",https://api.gbif.org/v1/species/match?name=Synedrosphenia%20recta&strict=true
+LIBSRC-LIB50-ENT-BIO-0639551,scientific_identity,"Gomphonema navicelloides Frenguelli, 1942",https://api.gbif.org/v1/species/match?name=Gomphonema%20navicelloides&strict=true
+LIBSRC-LIB50-ENT-BIO-0639571,scientific_identity,"Gomphonema perolivaceolacuum Z.Levkov, 2011",https://api.gbif.org/v1/species/match?name=Gomphonema%20perolivaceolacuum&strict=true
+LIBSRC-LIB50-ENT-BIO-0638931,scientific_identity,"Gomphosinica subtilis Kociolek, You & X.Wang, 2015",https://api.gbif.org/v1/species/match?name=Gomphosinica%20subtilis&strict=true
+LIBSRC-LIB50-ENT-BIO-0621061,scientific_identity,"Bifidobacterium gallinarum Watabe et al., 1983",https://api.gbif.org/v1/species/match?name=Bifidobacterium%20gallinarum&strict=true
+LIBSRC-LIB50-ENT-BIO-0621121,scientific_identity,"Bifidobacterium reuteri Endo et al., 2012",https://api.gbif.org/v1/species/match?name=Bifidobacterium%20reuteri&strict=true
+LIBSRC-LIB50-ENT-BIO-0639411,scientific_identity,Gomphonema pediculus,https://api.gbif.org/v1/species/match?name=Gomphonema%20pediculus&strict=true
+LIBSRC-LIB50-ENT-BIO-0622571,scientific_identity,"Sellaphora boltziana D.Metzeltin, H.Lange-Bertalot & S.Nergui, 2009",https://api.gbif.org/v1/species/match?name=Sellaphora%20boltziana&strict=true
+LIBSRC-LIB50-ENT-BIO-0639591,scientific_identity,"Gomphonema rhombiciforme Metzeltin & Lange-Bertalot, 1998",https://api.gbif.org/v1/species/match?name=Gomphonema%20rhombiciforme&strict=true
+LIBSRC-LIB50-ENT-BIO-0632071,scientific_identity,Cyphellophora clematidis Crous & R.K.Schumach.,https://api.gbif.org/v1/species/match?name=Cyphellophora%20clematidis&strict=true
+LIBSRC-LIB50-ENT-BIO-0628361,scientific_identity,Aplosporella laricina Syd.,https://api.gbif.org/v1/species/match?name=Aplosporella%20laricina&strict=true
+LIBSRC-LIB50-ENT-BIO-0624301,scientific_identity,Staurolemma dalmaticum Körb.,https://api.gbif.org/v1/species/match?name=Staurolemma%20dalmaticum&strict=true
+LIBSRC-LIB50-ENT-BIO-0628491,scientific_identity,Aplosporella jasminina Moesz,https://api.gbif.org/v1/species/match?name=Aplosporella%20jasminina&strict=true
+LIBSRC-LIB50-ENT-BIO-0637601,scientific_identity,Acrocalymma vagum (D.F.Farr) Crous & Trakun.,https://api.gbif.org/v1/species/match?name=Acrocalymma%20vagum&strict=true
+LIBSRC-LIB50-ENT-BIO-0623451,scientific_identity,Erioderma unguigerum (Bory) Nyl.,https://api.gbif.org/v1/species/match?name=Erioderma%20unguigerum&strict=true
+LIBSRC-LIB50-ENT-BIO-0628511,scientific_identity,Aplosporella hibisci (Berk. ex Cooke) Petr. & Syd.,https://api.gbif.org/v1/species/match?name=Aplosporella%20hibisci&strict=true
+LIBSRC-LIB50-ENT-BIO-0650301,scientific_identity,"Dissoconium aciculare de Hoog, Oorschot & Hijwegen",https://api.gbif.org/v1/species/match?name=Dissoconium%20aciculare&strict=true
+LIBSRC-LIB50-ENT-BIO-0623401,scientific_identity,Erioderma physcioides Vainio,https://api.gbif.org/v1/species/match?name=Erioderma%20physcioides&strict=true
+LIBSRC-LIB50-ENT-BIO-0628321,scientific_identity,Aplosporella melianthi Urries,https://api.gbif.org/v1/species/match?name=Aplosporella%20melianthi&strict=true
+LIBSRC-LIB50-ENT-BIO-0628431,scientific_identity,"Aplosporella javeedii Jami, Gryzenh., Slippers & M.J.Wingf.",https://api.gbif.org/v1/species/match?name=Aplosporella%20javeedii&strict=true
+LIBSRC-LIB50-ENT-BIO-0643571,scientific_identity,Phialotubus microsporus R.Y.Roy & Leelav.,https://api.gbif.org/v1/species/match?name=Phialotubus%20microsporus&strict=true
+LIBSRC-LIB50-ENT-BIO-0646211,scientific_identity,Pseudobotrytis ramosa Y.L.Zhang & T.Y.Zhang,https://api.gbif.org/v1/species/match?name=Pseudobotrytis%20ramosa&strict=true
+LIBSRC-LIB50-ENT-BIO-0650061,scientific_identity,"Patelopsammia gurreaui Reig Oriol, 1988",https://api.gbif.org/v1/species/match?name=Patelopsammia%20gurreaui&strict=true
+LIBSRC-LIB50-ENT-BIO-0631941,scientific_identity,"Cyphellophora filicis Hongsanan, Phookamsak & K.D.Hyde",https://api.gbif.org/v1/species/match?name=Cyphellophora%20filicis&strict=true
+LIBSRC-LIB50-ENT-BIO-0642591,scientific_identity,Lemanea condensata Israelson,https://api.gbif.org/v1/species/match?name=Lemanea%20condensata&strict=true
+LIBSRC-LIB50-ENT-BIO-0637311,scientific_identity,Acrocalymma hongheense Mortimer,https://api.gbif.org/v1/species/match?name=Acrocalymma%20hongheense&strict=true
+LIBSRC-LIB50-ENT-BIO-0643241,scientific_identity,Varicellaria culbersonii (Vĕzda) I.Schmitt & Lumbsch,https://api.gbif.org/v1/species/match?name=Varicellaria%20culbersonii&strict=true
+LIBSRC-LIB50-ENT-BIO-0639271,scientific_identity,"Gomphonema metzeltinii Levkov, Mitic-Kopanja & E.Reichardt, 2016",https://api.gbif.org/v1/species/match?name=Gomphonema%20metzeltinii&strict=true
+LIBSRC-LIB50-ENT-BIO-0639681,scientific_identity,"Gomphonema celatum E.W.Thomas & J.P.Kociolek, 2009",https://api.gbif.org/v1/species/match?name=Gomphonema%20celatum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639711,scientific_identity,"Gomphonema lippertii E.Reichardt & H.Lange-Bertalot, 1999",https://api.gbif.org/v1/species/match?name=Gomphonema%20lippertii&strict=true
+LIBSRC-LIB50-ENT-BIO-0639431,scientific_identity,Gomphonema licenti,https://api.gbif.org/v1/species/match?name=Gomphonema%20licenti&strict=true
+LIBSRC-LIB50-ENT-BIO-0639751,scientific_identity,"Gomphonema africanum G.S.West, 1907",https://api.gbif.org/v1/species/match?name=Gomphonema%20africanum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639291,scientific_identity,"Gomphonema parvula Rabenhorst, 1853",https://api.gbif.org/v1/species/match?name=Gomphonema%20parvula&strict=true
+LIBSRC-LIB50-ENT-BIO-0639231,scientific_identity,"Gomphonema tarraleahae K.J.Perkins & G.M.Hallegraeff, 2009",https://api.gbif.org/v1/species/match?name=Gomphonema%20tarraleahae&strict=true
+LIBSRC-LIB50-ENT-BIO-0641191,scientific_identity,"Gomphoneis strelnikovae J.P.Kociolek & M.S.Kulikovskiy, 2013",https://api.gbif.org/v1/species/match?name=Gomphoneis%20strelnikovae&strict=true
+LIBSRC-LIB50-ENT-BIO-0639641,scientific_identity,"Gomphonema roehringeri E.Reichardt, 1999",https://api.gbif.org/v1/species/match?name=Gomphonema%20roehringeri&strict=true
+LIBSRC-LIB50-ENT-BIO-0639211,scientific_identity,Gomphonema lagenula,https://api.gbif.org/v1/species/match?name=Gomphonema%20lagenula&strict=true
+LIBSRC-LIB50-ENT-BIO-0641221,scientific_identity,"Gomphoneis eriensis (Grunow) Skvortzov & Meyer, 1928",https://api.gbif.org/v1/species/match?name=Gomphoneis%20eriensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0639381,scientific_identity,"Gomphonema dalatica Glushchenko, Kulikovskiy & Kociolek, 2017",https://api.gbif.org/v1/species/match?name=Gomphonema%20dalatica&strict=true
+LIBSRC-LIB50-ENT-BIO-0639811,scientific_identity,"Gomphonema variabilis A.Jurilj, 1957",https://api.gbif.org/v1/species/match?name=Gomphonema%20variabilis&strict=true
+LIBSRC-LIB50-ENT-BIO-0639821,scientific_identity,"Gomphonema respectabile D.Metzeltin, H.Lange-Bertalot & F.García-Rodríguez, 2005",https://api.gbif.org/v1/species/match?name=Gomphonema%20respectabile&strict=true
+LIBSRC-LIB50-ENT-BIO-0639511,scientific_identity,"Gomphonema subcymbellum Messikommer, 1927",https://api.gbif.org/v1/species/match?name=Gomphonema%20subcymbellum&strict=true
+LIBSRC-LIB50-ENT-BIO-0641281,scientific_identity,"Gomphoneis rhombica (Fricke) Merino, García, Hernández-Mariné & Fernández, 1994",https://api.gbif.org/v1/species/match?name=Gomphoneis%20rhombica&strict=true
+LIBSRC-LIB50-ENT-BIO-0639961,scientific_identity,Gomphonema subramosum C.A.Agardh,https://api.gbif.org/v1/species/match?name=Gomphonema%20subramosum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639761,scientific_identity,"Gomphonema jao Skvortzov, 2012",https://api.gbif.org/v1/species/match?name=Gomphonema%20jao&strict=true
+LIBSRC-LIB50-ENT-BIO-0639501,scientific_identity,"Gomphonema arcticum Grunow, 1880",https://api.gbif.org/v1/species/match?name=Gomphonema%20arcticum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639981,scientific_identity,"Gomphonema acceptatum Levkov, Mitic-Kopanja & E.Reichardt, 2016",https://api.gbif.org/v1/species/match?name=Gomphonema%20acceptatum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639661,scientific_identity,Gomphonema astridiae H.Lange-Bertalot & S.I.Genkal,https://api.gbif.org/v1/species/match?name=Gomphonema%20astridiae&strict=true
+LIBSRC-LIB50-ENT-BIO-0639151,scientific_identity,"Gomphonema subangustatum H.Lange-Bertalot, P.Cavacini, N.Tagliaventi & S.Alfinito, 2003",https://api.gbif.org/v1/species/match?name=Gomphonema%20subangustatum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639361,scientific_identity,"Gomphonema holmquistii Foged, 1968",https://api.gbif.org/v1/species/match?name=Gomphonema%20holmquistii&strict=true
+LIBSRC-LIB50-ENT-BIO-0639971,scientific_identity,"Gomphonema invisitata Hohn & Hellerman, 1963",https://api.gbif.org/v1/species/match?name=Gomphonema%20invisitata&strict=true
+LIBSRC-LIB50-ENT-BIO-0639421,scientific_identity,"Gomphonema parvuliforme Levkov, Mitic-Kopanja & E.Reichardt, 2016",https://api.gbif.org/v1/species/match?name=Gomphonema%20parvuliforme&strict=true
+LIBSRC-LIB50-ENT-BIO-0639921,scientific_identity,"Gomphonema magnifica H.P.Gandhi, 1960",https://api.gbif.org/v1/species/match?name=Gomphonema%20magnifica&strict=true
+LIBSRC-LIB50-ENT-BIO-0641671,scientific_identity,"Gomphocymbella miocenica Jousé, 1952",https://api.gbif.org/v1/species/match?name=Gomphocymbella%20miocenica&strict=true
+LIBSRC-LIB50-ENT-BIO-0639441,scientific_identity,"Gomphonema gibba J.H.Wallace, 1960",https://api.gbif.org/v1/species/match?name=Gomphonema%20gibba&strict=true
+LIBSRC-LIB50-ENT-BIO-0639621,scientific_identity,"Gomphonema cymbelliclinum E.Reichardt & Lange-Bertalot, 1999",https://api.gbif.org/v1/species/match?name=Gomphonema%20cymbelliclinum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639721,scientific_identity,"Gomphonema salae Lange-Bertalot & Reichardt, 1998",https://api.gbif.org/v1/species/match?name=Gomphonema%20salae&strict=true
+LIBSRC-LIB50-ENT-BIO-0639311,scientific_identity,"Gomphonema makaluense Reichardt, Jüttner & E.J.Cox, 2004",https://api.gbif.org/v1/species/match?name=Gomphonema%20makaluense&strict=true
+LIBSRC-LIB50-ENT-BIO-0639261,scientific_identity,"Gomphonema palustris Fusey, 1848",https://api.gbif.org/v1/species/match?name=Gomphonema%20palustris&strict=true
+LIBSRC-LIB50-ENT-BIO-0639391,scientific_identity,"Gomphonema bella Fricke, 1906",https://api.gbif.org/v1/species/match?name=Gomphonema%20bella&strict=true
+LIBSRC-LIB50-ENT-BIO-0639871,scientific_identity,"Gomphonema balticum Cleve, 1868",https://api.gbif.org/v1/species/match?name=Gomphonema%20balticum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639321,scientific_identity,Gomphonema cathedrale Lange-Bert. & Reichardt,https://api.gbif.org/v1/species/match?name=Gomphonema%20cathedrale&strict=true
+LIBSRC-LIB50-ENT-BIO-0639631,scientific_identity,"Gomphonema eurycephalus Spaulding & Kociolek, 1998",https://api.gbif.org/v1/species/match?name=Gomphonema%20eurycephalus&strict=true
+LIBSRC-LIB50-ENT-BIO-0639341,scientific_identity,"Gomphonema fractum J.Schumann, 1862",https://api.gbif.org/v1/species/match?name=Gomphonema%20fractum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639241,scientific_identity,"Gomphonema validum Cleve, 1894",https://api.gbif.org/v1/species/match?name=Gomphonema%20validum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639201,scientific_identity,"Gomphonema narodoense R.Jahn, Abarca, J.Zimmermann & Enke",https://api.gbif.org/v1/species/match?name=Gomphonema%20narodoense&strict=true
+LIBSRC-LIB50-ENT-BIO-0641201,scientific_identity,"Gomphoneis capitata J.P.Kociolek & M.S.Kulikovskiy, 2013",https://api.gbif.org/v1/species/match?name=Gomphoneis%20capitata&strict=true
+LIBSRC-LIB50-ENT-BIO-0639791,scientific_identity,"Gomphonema hinganicum Skvortzov, 1976",https://api.gbif.org/v1/species/match?name=Gomphonema%20hinganicum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639701,scientific_identity,"Gomphonema insignaffine E.Reichardt, 2009",https://api.gbif.org/v1/species/match?name=Gomphonema%20insignaffine&strict=true
+LIBSRC-LIB50-ENT-BIO-0639491,scientific_identity,"Gomphonema italicum Kützing, 1844",https://api.gbif.org/v1/species/match?name=Gomphonema%20italicum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639901,scientific_identity,"Gomphonema cymbelloides Frenguelli & Orlando, 1960",https://api.gbif.org/v1/species/match?name=Gomphonema%20cymbelloides&strict=true
+LIBSRC-LIB50-ENT-BIO-0639801,scientific_identity,"Gomphonema auguriforme Levkov, Mitic-Kopanja, Wetzel & Ector, 2016",https://api.gbif.org/v1/species/match?name=Gomphonema%20auguriforme&strict=true
+LIBSRC-LIB50-ENT-BIO-0639601,scientific_identity,"Gomphonema crassestriatum Fritsch & Rich, 1924",https://api.gbif.org/v1/species/match?name=Gomphonema%20crassestriatum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639931,scientific_identity,"Gomphonema hubeicum Li, Shi & Lei, 1999",https://api.gbif.org/v1/species/match?name=Gomphonema%20hubeicum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639841,scientific_identity,"Gomphonema marvanii E.Reichardt, 2009",https://api.gbif.org/v1/species/match?name=Gomphonema%20marvanii&strict=true
+LIBSRC-LIB50-ENT-BIO-0639541,scientific_identity,Gomphonema kociolekii R.Jahn & N.Abarca,https://api.gbif.org/v1/species/match?name=Gomphonema%20kociolekii&strict=true
+LIBSRC-LIB50-ENT-BIO-0639991,scientific_identity,"Gomphonema pseudaffine Levkov, Mitic-Kopanja & E.Reichardt, 2016",https://api.gbif.org/v1/species/match?name=Gomphonema%20pseudaffine&strict=true
+LIBSRC-LIB50-ENT-BIO-0639831,scientific_identity,"Gomphonema krasskei Meister, 1934",https://api.gbif.org/v1/species/match?name=Gomphonema%20krasskei&strict=true
+LIBSRC-LIB50-ENT-BIO-0639401,scientific_identity,"Gomphonema sosenstockianum Lange-Bertalot & Reichardt, 1993",https://api.gbif.org/v1/species/match?name=Gomphonema%20sosenstockianum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639781,scientific_identity,"Gomphonema frickei O.Müller, 1905",https://api.gbif.org/v1/species/match?name=Gomphonema%20frickei&strict=true
+LIBSRC-LIB50-ENT-BIO-0639471,scientific_identity,"Gomphonema rimetiana Kulikovskiy, Kociolek & Solak, 2018",https://api.gbif.org/v1/species/match?name=Gomphonema%20rimetiana&strict=true
+LIBSRC-LIB50-ENT-BIO-0641661,scientific_identity,"Gomphocymbella tanganyikae Kociolek & Stoermer, 1993",https://api.gbif.org/v1/species/match?name=Gomphocymbella%20tanganyikae&strict=true
+LIBSRC-LIB50-ENT-BIO-0641251,scientific_identity,"Gomphoneis rotundata M.S.Kulikovskiy & J.P.Kociolek, 2013",https://api.gbif.org/v1/species/match?name=Gomphoneis%20rotundata&strict=true
+LIBSRC-LIB50-ENT-BIO-0639941,scientific_identity,"Gomphonema tholus Carter & Denny, 1992",https://api.gbif.org/v1/species/match?name=Gomphonema%20tholus&strict=true
+LIBSRC-LIB50-ENT-BIO-0639251,scientific_identity,"Gomphonema okavangoanum Lange-Bertalot & Reichardt, 1993",https://api.gbif.org/v1/species/match?name=Gomphonema%20okavangoanum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639731,scientific_identity,Gomphonema genkalii H.Lange-Bertalot,https://api.gbif.org/v1/species/match?name=Gomphonema%20genkalii&strict=true
+LIBSRC-LIB50-ENT-BIO-0639521,scientific_identity,"Gomphonema quasicrocodilei S.I.Passy, J.P.Kociolek & R.L.Lowe, 1997",https://api.gbif.org/v1/species/match?name=Gomphonema%20quasicrocodilei&strict=true
+LIBSRC-LIB50-ENT-BIO-0639181,scientific_identity,Gomphonema intricatum Suhr.,https://api.gbif.org/v1/species/match?name=Gomphonema%20intricatum&strict=true
+LIBSRC-LIB50-ENT-BIO-0640001,scientific_identity,"Gomphonema productum (Grunow) Lange-Bertalot & Reichardt, 1993",https://api.gbif.org/v1/species/match?name=Gomphonema%20productum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639691,scientific_identity,"Gomphonema hotchkissii VanLandingham, 1967",https://api.gbif.org/v1/species/match?name=Gomphonema%20hotchkissii&strict=true
+LIBSRC-LIB50-ENT-BIO-0641131,scientific_identity,"Afrocymbella nyassae Stone, Wilson & Jovanovska, 2022",https://api.gbif.org/v1/species/match?name=Afrocymbella%20nyassae&strict=true
+LIBSRC-LIB50-ENT-BIO-0650401,scientific_identity,"Hydrosera tricoronata Stolterfoth, 1881",https://api.gbif.org/v1/species/match?name=Hydrosera%20tricoronata&strict=true
+LIBSRC-LIB50-ENT-BIO-0648181,scientific_identity,"Isthmia africana Ehrenberg, 1844",https://api.gbif.org/v1/species/match?name=Isthmia%20africana&strict=true
+LIBSRC-LIB50-ENT-BIO-0647591,scientific_identity,"Denticella ventricosa Janisch & Rabenhorst, 1862",https://api.gbif.org/v1/species/match?name=Denticella%20ventricosa&strict=true
+LIBSRC-LIB50-ENT-BIO-0648171,scientific_identity,"Isthmia domuslaterariae Reinhold, 1937",https://api.gbif.org/v1/species/match?name=Isthmia%20domuslaterariae&strict=true
+LIBSRC-LIB50-ENT-BIO-0649881,scientific_identity,"Medlinia deciusii (Hanna) V.A.Nikolaev & J.P.Kociolek, 2001",https://api.gbif.org/v1/species/match?name=Medlinia%20deciusii&strict=true
+LIBSRC-LIB50-ENT-BIO-0639371,scientific_identity,"Gomphonema islandicum Østrup, 1918",https://api.gbif.org/v1/species/match?name=Gomphonema%20islandicum&strict=true
+LIBSRC-LIB50-ENT-BIO-0638941,scientific_identity,"Gomphosinica selincuoensis W.Zhang, Q.M.You & Kociolek, 2019",https://api.gbif.org/v1/species/match?name=Gomphosinica%20selincuoensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0622561,scientific_identity,"Sellaphora davoutiana Heudre et al., 2018",https://api.gbif.org/v1/species/match?name=Sellaphora%20davoutiana&strict=true
+LIBSRC-LIB50-ENT-BIO-0622591,scientific_identity,"Sellaphora gutwinskii D.Metzeltin, M.S.Kulikovskiy & H.Lange-Bertalot, 2012",https://api.gbif.org/v1/species/match?name=Sellaphora%20gutwinskii&strict=true
+LIBSRC-LIB50-ENT-BIO-0628571,scientific_identity,Aplosporella ulmea (Ellis & Barthol.) Petr. & Syd.,https://api.gbif.org/v1/species/match?name=Aplosporella%20ulmea&strict=true
+LIBSRC-LIB50-ENT-BIO-0628551,scientific_identity,Aplosporella dalbergiae (Died.) Petr. & Syd.,https://api.gbif.org/v1/species/match?name=Aplosporella%20dalbergiae&strict=true
+LIBSRC-LIB50-ENT-BIO-0639851,scientific_identity,Gomphonema kaznakowi K.S.Mereschkowsky,https://api.gbif.org/v1/species/match?name=Gomphonema%20kaznakowi&strict=true
+LIBSRC-LIB50-ENT-BIO-0628521,scientific_identity,Aplosporella subconfluens (Fairm.) Petr. & Syd.,https://api.gbif.org/v1/species/match?name=Aplosporella%20subconfluens&strict=true
+LIBSRC-LIB50-ENT-BIO-0649691,scientific_identity,Asteromonas gracilis Artari,https://api.gbif.org/v1/species/match?name=Asteromonas%20gracilis&strict=true
+LIBSRC-LIB50-ENT-BIO-0622631,scientific_identity,"Sellaphora pseudonana P.B.Hamilton & D.Antoniades, 2009",https://api.gbif.org/v1/species/match?name=Sellaphora%20pseudonana&strict=true
+LIBSRC-LIB50-ENT-BIO-0646271,scientific_identity,"Gyroporus australiensis Davoodian, N.A.Fechner & Halling",https://api.gbif.org/v1/species/match?name=Gyroporus%20australiensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0639741,scientific_identity,"Gomphonema scapha M.Schmidt, 1899",https://api.gbif.org/v1/species/match?name=Gomphonema%20scapha&strict=true
+LIBSRC-LIB50-ENT-BIO-0647801,scientific_identity,Fibroporia pseudorennyi (Spirin) Spirin,https://api.gbif.org/v1/species/match?name=Fibroporia%20pseudorennyi&strict=true
+LIBSRC-LIB50-ENT-BIO-0639451,scientific_identity,"Gomphonema balnearum Pantocsek, 1903",https://api.gbif.org/v1/species/match?name=Gomphonema%20balnearum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639281,scientific_identity,"Gomphonema semiellipticum Agardh, 1831",https://api.gbif.org/v1/species/match?name=Gomphonema%20semiellipticum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639861,scientific_identity,"Gomphonema fibula Brébisson ex Kützing, 1849",https://api.gbif.org/v1/species/match?name=Gomphonema%20fibula&strict=true
+LIBSRC-LIB50-ENT-BIO-0631621,scientific_identity,Korshikoviella limnetica (Lemmerm.) P.C.Silva,https://api.gbif.org/v1/species/match?name=Korshikoviella%20limnetica&strict=true
+LIBSRC-LIB50-ENT-BIO-0637461,scientific_identity,Acrocalymma bipolare Abdel-Aziz & Abdel-Wahab,https://api.gbif.org/v1/species/match?name=Acrocalymma%20bipolare&strict=true
+LIBSRC-LIB50-ENT-BIO-0639561,scientific_identity,"Gomphonema lingratum Hustedt, 1941",https://api.gbif.org/v1/species/match?name=Gomphonema%20lingratum&strict=true
+LIBSRC-LIB50-ENT-BIO-0639611,scientific_identity,"Gomphonema suspectum Meister, 1932",https://api.gbif.org/v1/species/match?name=Gomphonema%20suspectum&strict=true
+LIBSRC-LIB50-ENT-BIO-0628391,scientific_identity,Aplosporella elaeidis Pat. & Har.,https://api.gbif.org/v1/species/match?name=Aplosporella%20elaeidis&strict=true
+LIBSRC-LIB50-ENT-BIO-0623251,scientific_identity,"Fallacia lange-bertalotii (E.Reichardt) E.Reichardt, 2000",https://api.gbif.org/v1/species/match?name=Fallacia%20lange-bertalotii&strict=true
+LIBSRC-LIB50-ENT-BIO-0623431,scientific_identity,Erioderma wrightii Tuck.,https://api.gbif.org/v1/species/match?name=Erioderma%20wrightii&strict=true
+LIBSRC-LIB50-ENT-BIO-0641291,scientific_identity,"Gomphoneis mammilla (Ehremberg) Cleve, 1894",https://api.gbif.org/v1/species/match?name=Gomphoneis%20mammilla&strict=true
+LIBSRC-LIB50-ENT-BIO-0624011,scientific_identity,"Dimidiata saccula M.Hajos, 1973",https://api.gbif.org/v1/species/match?name=Dimidiata%20saccula&strict=true
+LIBSRC-LIB50-ENT-BIO-0620561,scientific_identity,"Gayralia brasiliensis Pellizzari, M.C.Oliveira & N.S.Yokoya",https://api.gbif.org/v1/species/match?name=Gayralia%20brasiliensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0622581,scientific_identity,"Sellaphora santiagoi D.Metzeltin, H.Lange-Bertalot & F.García-Rodríguez, 2005",https://api.gbif.org/v1/species/match?name=Sellaphora%20santiagoi&strict=true
+LIBSRC-LIB50-ENT-BIO-0639161,scientific_identity,"Gomphonema sancti-naumii D.Metzeltin & Z.Levkov, 2007",https://api.gbif.org/v1/species/match?name=Gomphonema%20sancti-naumii&strict=true
+LIBSRC-LIB50-ENT-BIO-0639171,scientific_identity,"Gomphonema brandisii Gutwinski, 1899",https://api.gbif.org/v1/species/match?name=Gomphonema%20brandisii&strict=true
+LIBSRC-LIB50-ENT-BIO-0621141,scientific_identity,Bifidobacterium leontopitheci,https://api.gbif.org/v1/species/match?name=Bifidobacterium%20leontopitheci&strict=true
+LIBSRC-LIB50-ENT-BIO-0639771,scientific_identity,"Gomphonema medioconstrictum Østrup, 1918",https://api.gbif.org/v1/species/match?name=Gomphonema%20medioconstrictum&strict=true
+LIBSRC-LIB50-ENT-BIO-0628381,scientific_identity,"Aplosporella woodfordiae Subhedar, A.Pande & V.G.Rao",https://api.gbif.org/v1/species/match?name=Aplosporella%20woodfordiae&strict=true
+LIBSRC-LIB50-ENT-BIO-0639951,scientific_identity,"Gomphonema undulatum Hustedt, 1935",https://api.gbif.org/v1/species/match?name=Gomphonema%20undulatum&strict=true
+LIBSRC-LIB50-ENT-BIO-0641271,scientific_identity,Gomphoneis exigua (Kützing) Medlin,https://api.gbif.org/v1/species/match?name=Gomphoneis%20exigua&strict=true
+LIBSRC-LIB50-ENT-BIO-0623361,scientific_identity,"Aeriscardovia aeriphila Simpson et al., 2004",https://api.gbif.org/v1/species/match?name=Aeriscardovia%20aeriphila&strict=true
+LIBSRC-LIB50-ENT-BIO-0639191,scientific_identity,"Gomphonema tumens Kociolek & Stoermer, 1991",https://api.gbif.org/v1/species/match?name=Gomphonema%20tumens&strict=true
+LIBSRC-LIB50-ENT-BIO-0639221,scientific_identity,"Gomphonema harti Nemoto, 1956",https://api.gbif.org/v1/species/match?name=Gomphonema%20harti&strict=true
+LIBSRC-LIB50-ENT-BIO-0632031,scientific_identity,"Cyphellophora catalaunica Madrid, Gené, Guarro & Crous",https://api.gbif.org/v1/species/match?name=Cyphellophora%20catalaunica&strict=true
+LIBSRC-LIB50-ENT-BIO-0650481,scientific_identity,"Pleuractis gravis (Nemenzo, 1955)",https://api.gbif.org/v1/species/match?name=Pleuractis%20gravis&strict=true
+LIBSRC-LIB50-ENT-BIO-0639581,scientific_identity,"Gomphonema tenoccultum Reichardt, 2012",https://api.gbif.org/v1/species/match?name=Gomphonema%20tenoccultum&strict=true
+LIBSRC-LIB50-ENT-BIO-0632521,scientific_identity,"Florella portoricensis J.N.Navarro, 1982",https://api.gbif.org/v1/species/match?name=Florella%20portoricensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0646261,scientific_identity,Gyroporus lividus Ming Zhang & T.H.Li,https://api.gbif.org/v1/species/match?name=Gyroporus%20lividus&strict=true
+LIBSRC-LIB50-ENT-BIO-0646251,scientific_identity,"Gyroporus brunnescens Davoodian, N.A.Fechner & Halling",https://api.gbif.org/v1/species/match?name=Gyroporus%20brunnescens&strict=true
+LIBSRC-LIB50-ENT-BIO-0646281,scientific_identity,Gyroporus aculifer (Corner) E.Horak,https://api.gbif.org/v1/species/match?name=Gyroporus%20aculifer&strict=true
+LIBSRC-LIB50-ENT-BIO-0646231,scientific_identity,Gyroporus subalbellus Murrill,https://api.gbif.org/v1/species/match?name=Gyroporus%20subalbellus&strict=true
+LIBSRC-LIB50-ENT-BIO-0623421,scientific_identity,Erioderma marcellii P.M.Jørg. & Arv.,https://api.gbif.org/v1/species/match?name=Erioderma%20marcellii&strict=true
+LIBSRC-LIB50-ENT-BIO-0624021,scientific_identity,"Gibbosporina didyma Elvebakk, S.G.Hong & P.M.Jørg.",https://api.gbif.org/v1/species/match?name=Gibbosporina%20didyma&strict=true
+LIBSRC-LIB50-ENT-BIO-0623631,scientific_identity,Lepidocollema wainioi (Zahlbr.) P.M.Jørg.,https://api.gbif.org/v1/species/match?name=Lepidocollema%20wainioi&strict=true
+LIBSRC-LIB50-ENT-BIO-0623621,scientific_identity,Lepidocollema cineratum (Zahlbr.) P.M.Jørg.,https://api.gbif.org/v1/species/match?name=Lepidocollema%20cineratum&strict=true
+LIBSRC-LIB50-ENT-BIO-0623411,scientific_identity,Erioderma granulosum P.M.Jørg. & Arv.,https://api.gbif.org/v1/species/match?name=Erioderma%20granulosum&strict=true
+LIBSRC-LIB50-ENT-BIO-0663311,scientific_identity,"Luteimonas composti Young et al., 2007",https://api.gbif.org/v1/species/match?name=Luteimonas%20composti&strict=true
+LIBSRC-LIB50-ENT-BIO-0652431,scientific_identity,"Biddulphia trilocularis Kützing, 1844",https://api.gbif.org/v1/species/match?name=Biddulphia%20trilocularis&strict=true
+LIBSRC-LIB50-ENT-BIO-0652351,scientific_identity,"Trigonium udiensis Hustedt, 1959",https://api.gbif.org/v1/species/match?name=Trigonium%20udiensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0652571,scientific_identity,"Biddulphia tenuis L.W.Bailey, 1861",https://api.gbif.org/v1/species/match?name=Biddulphia%20tenuis&strict=true
+LIBSRC-LIB50-ENT-BIO-0653211,scientific_identity,Leudugeria epithemioides Tempère,https://api.gbif.org/v1/species/match?name=Leudugeria%20epithemioides&strict=true
+LIBSRC-LIB50-ENT-BIO-0652521,scientific_identity,"Biddulphia saratoviana Pantocsek, 1889",https://api.gbif.org/v1/species/match?name=Biddulphia%20saratoviana&strict=true
+LIBSRC-LIB50-ENT-BIO-0663321,scientific_identity,Luteimonas granuli,https://api.gbif.org/v1/species/match?name=Luteimonas%20granuli&strict=true
+LIBSRC-LIB50-ENT-BIO-0652511,scientific_identity,"Biddulphia trinacria L.W.Bailey, 1861",https://api.gbif.org/v1/species/match?name=Biddulphia%20trinacria&strict=true
+LIBSRC-LIB50-ENT-BIO-0661011,scientific_identity,"Desmochloris halophila (Guillard, H.C.Bold & McEntee) Watanabe, Kuroda & Maiwa, 2001",https://api.gbif.org/v1/species/match?name=Desmochloris%20halophila&strict=true
+LIBSRC-LIB50-ENT-BIO-0667071,scientific_identity,Seirospora interrupta (J.E.Smith) F.Schmitz,https://api.gbif.org/v1/species/match?name=Seirospora%20interrupta&strict=true
+LIBSRC-LIB50-ENT-BIO-0666551,scientific_identity,"Lophidium spartii Fabre, 1879",https://api.gbif.org/v1/species/match?name=Lophidium%20spartii&strict=true
+LIBSRC-LIB50-ENT-BIO-0665261,scientific_identity,Phragmidium asperum Tul.,https://api.gbif.org/v1/species/match?name=Phragmidium%20asperum&strict=true
+LIBSRC-LIB50-ENT-BIO-0668521,scientific_identity,"Lophiostoma ulmi (Fabre) Sacc., 1883",https://api.gbif.org/v1/species/match?name=Lophiostoma%20ulmi&strict=true
+LIBSRC-LIB50-ENT-BIO-0679311,scientific_identity,"Cordana semaniae Davydkina, Melnik & Novozh.",https://api.gbif.org/v1/species/match?name=Cordana%20semaniae&strict=true
+LIBSRC-LIB50-ENT-BIO-0664371,scientific_identity,Cilioplea fulgurata (Ellis & Everh.) M.E.Barr,https://api.gbif.org/v1/species/match?name=Cilioplea%20fulgurata&strict=true
+LIBSRC-LIB50-ENT-BIO-0667091,scientific_identity,Amylocorticium pedunculatum Hjortstam,https://api.gbif.org/v1/species/match?name=Amylocorticium%20pedunculatum&strict=true
+LIBSRC-LIB50-ENT-BIO-0668491,scientific_identity,Lophiostoma cephalanthi Fairm.,https://api.gbif.org/v1/species/match?name=Lophiostoma%20cephalanthi&strict=true
+LIBSRC-LIB50-ENT-BIO-0667101,scientific_identity,Amylocorticium subincarnatum (Peck) Pouzar,https://api.gbif.org/v1/species/match?name=Amylocorticium%20subincarnatum&strict=true
+LIBSRC-LIB50-ENT-BIO-0667481,scientific_identity,Amylocorticiellum cremeoisabellinum (Litsch.) Spirin & Zmitr.,https://api.gbif.org/v1/species/match?name=Amylocorticiellum%20cremeoisabellinum&strict=true
+LIBSRC-LIB50-ENT-BIO-0668471,scientific_identity,Lophiostoma quercinum Feltgen,https://api.gbif.org/v1/species/match?name=Lophiostoma%20quercinum&strict=true
+LIBSRC-LIB50-ENT-BIO-0665251,scientific_identity,Phragmidium zeylanicum Petch,https://api.gbif.org/v1/species/match?name=Phragmidium%20zeylanicum&strict=true
+LIBSRC-LIB50-ENT-BIO-0665381,scientific_identity,Phragmidium rosae-pimpinellifoliae (Rabenh.) Dietel,https://api.gbif.org/v1/species/match?name=Phragmidium%20rosae-pimpinellifoliae&strict=true
+LIBSRC-LIB50-ENT-BIO-0677611,scientific_identity,Clypeolella ziziphina Thaung,https://api.gbif.org/v1/species/match?name=Clypeolella%20ziziphina&strict=true
+LIBSRC-LIB50-ENT-BIO-0677621,scientific_identity,Clypeolella ricini Racib.,https://api.gbif.org/v1/species/match?name=Clypeolella%20ricini&strict=true
+LIBSRC-LIB50-ENT-BIO-0660761,scientific_identity,"Lysobacter brunescens Christensen & Cook, 1978",https://api.gbif.org/v1/species/match?name=Lysobacter%20brunescens&strict=true
+LIBSRC-LIB50-ENT-BIO-0651721,scientific_identity,"Terpsinoë muninensis Tuji, 2018",https://api.gbif.org/v1/species/match?name=Terpsinoe%20muninensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0652501,scientific_identity,"Biddulphia miraculosa Brun, 1892",https://api.gbif.org/v1/species/match?name=Biddulphia%20miraculosa&strict=true
+LIBSRC-LIB50-ENT-BIO-0652641,scientific_identity,"Biddulphia fractosa Mann, 1925",https://api.gbif.org/v1/species/match?name=Biddulphia%20fractosa&strict=true
+LIBSRC-LIB50-ENT-BIO-0651731,scientific_identity,"Terpsinoë australis Ehrenberg, 1854",https://api.gbif.org/v1/species/match?name=Terpsinoe%20australis&strict=true
+LIBSRC-LIB50-ENT-BIO-0652411,scientific_identity,"Biddulphia tubulosa Brun, 1891",https://api.gbif.org/v1/species/match?name=Biddulphia%20tubulosa&strict=true
+LIBSRC-LIB50-ENT-BIO-0652421,scientific_identity,"Biddulphia deodora Hanna & Grant, 1926",https://api.gbif.org/v1/species/match?name=Biddulphia%20deodora&strict=true
+LIBSRC-LIB50-ENT-BIO-0652691,scientific_identity,"Biddulphia moholensis Schrader, 1974",https://api.gbif.org/v1/species/match?name=Biddulphia%20moholensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0668601,scientific_identity,"Aglaothamnion caudatum (J.Agardh) Feldmann-Mazoyer, 1941",https://api.gbif.org/v1/species/match?name=Aglaothamnion%20caudatum&strict=true
+LIBSRC-LIB50-ENT-BIO-0667931,scientific_identity,Gerwasia variabilis (Mayor) Buriticá,https://api.gbif.org/v1/species/match?name=Gerwasia%20variabilis&strict=true
+LIBSRC-LIB50-ENT-BIO-0652711,scientific_identity,"Biddulphia vitrea Brun, 1891",https://api.gbif.org/v1/species/match?name=Biddulphia%20vitrea&strict=true
+LIBSRC-LIB50-ENT-BIO-0668561,scientific_identity,"Lophiostoma medicaginicola (Wanas., Bulgakov, E.B.G.Jones & K.D.Hyde) Andreasen, Jaklitsch & Voglmayr",https://api.gbif.org/v1/species/match?name=Lophiostoma%20medicaginicola&strict=true
+LIBSRC-LIB50-ENT-BIO-0663441,scientific_identity,"Xanthomonas codiaei Vauterin et al., 1995",https://api.gbif.org/v1/species/match?name=Xanthomonas%20codiaei&strict=true
+LIBSRC-LIB50-ENT-BIO-0652221,scientific_identity,"Cycloseris sinuata (Gerth, 1921)",https://api.gbif.org/v1/species/match?name=Cycloseris%20sinuata&strict=true
+LIBSRC-LIB50-ENT-BIO-0654721,scientific_identity,Johansonia arxii S.K.Bose & E.Müll.,https://api.gbif.org/v1/species/match?name=Johansonia%20arxii&strict=true
+LIBSRC-LIB50-ENT-BIO-0660771,scientific_identity,"Lysobacter humi Lee et al., 2017",https://api.gbif.org/v1/species/match?name=Lysobacter%20humi&strict=true
+LIBSRC-LIB50-ENT-BIO-0669241,scientific_identity,Lophiotrema andicola Speg.,https://api.gbif.org/v1/species/match?name=Lophiotrema%20andicola&strict=true
+LIBSRC-LIB50-ENT-BIO-0652441,scientific_identity,"Biddulphia gladiorum A.Mann, 1907",https://api.gbif.org/v1/species/match?name=Biddulphia%20gladiorum&strict=true
+LIBSRC-LIB50-ENT-BIO-0670141,scientific_identity,Kuehneola spondiadis Hosag.,https://api.gbif.org/v1/species/match?name=Kuehneola%20spondiadis&strict=true
+LIBSRC-LIB50-ENT-BIO-0652681,scientific_identity,"Biddulphia edwardsii Febiger ex Grunow, 1882",https://api.gbif.org/v1/species/match?name=Biddulphia%20edwardsii&strict=true
+LIBSRC-LIB50-ENT-BIO-0652671,scientific_identity,"Biddulphia voigtii Meister, 1932",https://api.gbif.org/v1/species/match?name=Biddulphia%20voigtii&strict=true
+LIBSRC-LIB50-ENT-BIO-0652561,scientific_identity,"Biddulphia interrupta Boyer, 1898",https://api.gbif.org/v1/species/match?name=Biddulphia%20interrupta&strict=true
+LIBSRC-LIB50-ENT-BIO-0669591,scientific_identity,"Euptilota fergusonii Cotton, 1907",https://api.gbif.org/v1/species/match?name=Euptilota%20fergusonii&strict=true
+LIBSRC-LIB50-ENT-BIO-0650671,scientific_identity,"Podabacia crustacea (Pallas, 1766)",https://api.gbif.org/v1/species/match?name=Podabacia%20crustacea&strict=true
+LIBSRC-LIB50-ENT-BIO-0651661,scientific_identity,"Fungia stammi Felix, 1921",https://api.gbif.org/v1/species/match?name=Fungia%20stammi&strict=true
+LIBSRC-LIB50-ENT-BIO-0652201,scientific_identity,"Cycloseris perezi Haime, 1851",https://api.gbif.org/v1/species/match?name=Cycloseris%20perezi&strict=true
+LIBSRC-LIB50-ENT-BIO-0652191,scientific_identity,Hemigrapha phaeospora Matzer & Lücking,https://api.gbif.org/v1/species/match?name=Hemigrapha%20phaeospora&strict=true
+LIBSRC-LIB50-ENT-BIO-0668531,scientific_identity,"Lophiostoma jonesii (Ariyaw., K.D.Hyde & Zou Y.Liu) Andreasen, Jaklitsch & Voglmayr",https://api.gbif.org/v1/species/match?name=Lophiostoma%20jonesii&strict=true
+LIBSRC-LIB50-ENT-BIO-0669231,scientific_identity,Lophiotrema foliicola Curzi,https://api.gbif.org/v1/species/match?name=Lophiotrema%20foliicola&strict=true
+LIBSRC-LIB50-ENT-BIO-0669961,scientific_identity,Platystomum dulcamarae Kirschst.,https://api.gbif.org/v1/species/match?name=Platystomum%20dulcamarae&strict=true
+LIBSRC-LIB50-ENT-BIO-0670001,scientific_identity,Platystomum incisum (Ellis & Everh.) Sacc. & D.Sacc.,https://api.gbif.org/v1/species/match?name=Platystomum%20incisum&strict=true
+LIBSRC-LIB50-ENT-BIO-0665741,scientific_identity,Lophiotricha lignicola Teng & S.H.Ou,https://api.gbif.org/v1/species/match?name=Lophiotricha%20lignicola&strict=true
+LIBSRC-LIB50-ENT-BIO-0664211,scientific_identity,"Pseudolophiostoma mangiferae Tennakoon, C.H.Kuo & K.D.Hyde",https://api.gbif.org/v1/species/match?name=Pseudolophiostoma%20mangiferae&strict=true
+LIBSRC-LIB50-ENT-BIO-0669981,scientific_identity,Platystomum nobile (Sacc.) Sacc. & D.Sacc.,https://api.gbif.org/v1/species/match?name=Platystomum%20nobile&strict=true
+LIBSRC-LIB50-ENT-BIO-0668501,scientific_identity,Lophiostoma pusillum Fuckel,https://api.gbif.org/v1/species/match?name=Lophiostoma%20pusillum&strict=true
+LIBSRC-LIB50-ENT-BIO-0669251,scientific_identity,Lophiotrema cercocarpi (Earle) Sacc. & P.Syd.,https://api.gbif.org/v1/species/match?name=Lophiotrema%20cercocarpi&strict=true
+LIBSRC-LIB50-ENT-BIO-0668441,scientific_identity,"Lophiostoma syringae Fabre, 1879",https://api.gbif.org/v1/species/match?name=Lophiostoma%20syringae&strict=true
+LIBSRC-LIB50-ENT-BIO-0668541,scientific_identity,Lophiostoma ribis (Tracy & Earle) L.Holm,https://api.gbif.org/v1/species/match?name=Lophiostoma%20ribis&strict=true
+LIBSRC-LIB50-ENT-BIO-0669211,scientific_identity,Lophiotrema paspalicola Speg.,https://api.gbif.org/v1/species/match?name=Lophiotrema%20paspalicola&strict=true
+LIBSRC-LIB50-ENT-BIO-0670681,scientific_identity,"Flabellascoma cycadicola A.Hashim., K.Hiray. & Kaz.Tanaka",https://api.gbif.org/v1/species/match?name=Flabellascoma%20cycadicola&strict=true
+LIBSRC-LIB50-ENT-BIO-0669221,scientific_identity,Lophiotrema coluteae Domashova,https://api.gbif.org/v1/species/match?name=Lophiotrema%20coluteae&strict=true
+LIBSRC-LIB50-ENT-BIO-0663801,scientific_identity,Bacterioplanes sanyensis A,https://api.gbif.org/v1/species/match?name=Bacterioplanes%20sanyensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0693281,scientific_identity,"Kangiella sediminilitoris Lee et al., 2013",https://api.gbif.org/v1/species/match?name=Kangiella%20sediminilitoris&strict=true
+LIBSRC-LIB50-ENT-BIO-0707201,scientific_identity,Heteroderma inaequilateratum (Solms) Foslie,https://api.gbif.org/v1/species/match?name=Heteroderma%20inaequilateratum&strict=true
+LIBSRC-LIB50-ENT-BIO-0708801,scientific_identity,"Jania guamensis Johnson, 1964",https://api.gbif.org/v1/species/match?name=Jania%20guamensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0692611,scientific_identity,"Cutleria compressa Kütz., 1849",https://api.gbif.org/v1/species/match?name=Cutleria%20compressa&strict=true
+LIBSRC-LIB50-ENT-BIO-0707251,scientific_identity,"Palaeothamnium kossovense Maslov, 1962",https://api.gbif.org/v1/species/match?name=Palaeothamnium%20kossovense&strict=true
+LIBSRC-LIB50-ENT-BIO-0702901,scientific_identity,Torula splendens Cooke,https://api.gbif.org/v1/species/match?name=Torula%20splendens&strict=true
+LIBSRC-LIB50-ENT-BIO-0702971,scientific_identity,Torula dicoccum (Auersw.) P.Joly,https://api.gbif.org/v1/species/match?name=Torula%20dicoccum&strict=true
+LIBSRC-LIB50-ENT-BIO-0706101,scientific_identity,"Rostriconidium aquaticum Z.L.Luo, K.D.Hyde & H.Y.Su",https://api.gbif.org/v1/species/match?name=Rostriconidium%20aquaticum&strict=true
+LIBSRC-LIB50-ENT-BIO-0700941,scientific_identity,Dendryphion avenae-sativae Sawada,https://api.gbif.org/v1/species/match?name=Dendryphion%20avenae-sativae&strict=true
+LIBSRC-LIB50-ENT-BIO-0705401,scientific_identity,"Dendryphiella stromaticola Cantillo, Gusmão & Madrid",https://api.gbif.org/v1/species/match?name=Dendryphiella%20stromaticola&strict=true
+LIBSRC-LIB50-ENT-BIO-0704391,scientific_identity,"Hormiscium bussardii Delacr., 1897",https://api.gbif.org/v1/species/match?name=Hormiscium%20bussardii&strict=true
+LIBSRC-LIB50-ENT-BIO-0701341,scientific_identity,"Neurospora caffra (Matsush.) Dania García, Stchigel & Guarro",https://api.gbif.org/v1/species/match?name=Neurospora%20caffra&strict=true
+LIBSRC-LIB50-ENT-BIO-0706431,scientific_identity,"Corollospora pulchella Kohlm., I.Schmidt & N.B.Nair",https://api.gbif.org/v1/species/match?name=Corollospora%20pulchella&strict=true
+LIBSRC-LIB50-ENT-BIO-0683441,scientific_identity,Schiffnerula hansfordii S.Hughes,https://api.gbif.org/v1/species/match?name=Schiffnerula%20hansfordii&strict=true
+LIBSRC-LIB50-ENT-BIO-0700171,scientific_identity,Rutola graminis (Desm. ex Fr.) J.L.Crane & Schokn.,https://api.gbif.org/v1/species/match?name=Rutola%20graminis&strict=true
+LIBSRC-LIB50-ENT-BIO-0700841,scientific_identity,Sordaria oryzae Hara,https://api.gbif.org/v1/species/match?name=Sordaria%20oryzae&strict=true
+LIBSRC-LIB50-ENT-BIO-0694931,scientific_identity,Patellariopsis dennisii (E.Müll. & Hütter) Schläpf.-Bernh.,https://api.gbif.org/v1/species/match?name=Patellariopsis%20dennisii&strict=true
+LIBSRC-LIB50-ENT-BIO-0698851,scientific_identity,Nais inornata Kohlm.,https://api.gbif.org/v1/species/match?name=Nais%20inornata&strict=true
+LIBSRC-LIB50-ENT-BIO-0683451,scientific_identity,Schiffnerula fici V.P.Sahni,https://api.gbif.org/v1/species/match?name=Schiffnerula%20fici&strict=true
+LIBSRC-LIB50-ENT-BIO-0685351,scientific_identity,"Sarcinella bischofiae Hosag., Thimm. & Sabeena",https://api.gbif.org/v1/species/match?name=Sarcinella%20bischofiae&strict=true
+LIBSRC-LIB50-ENT-BIO-0685371,scientific_identity,Sarcinella fumosa V.P.Sahni,https://api.gbif.org/v1/species/match?name=Sarcinella%20fumosa&strict=true
+LIBSRC-LIB50-ENT-BIO-0685451,scientific_identity,"Sarcinella azadirachtae Meenu, S.K.Singh & R.K.Chaudhary",https://api.gbif.org/v1/species/match?name=Sarcinella%20azadirachtae&strict=true
+LIBSRC-LIB50-ENT-BIO-0683491,scientific_identity,"Schiffnerula aristolochiae Hosag., Thimm. & Jayash.",https://api.gbif.org/v1/species/match?name=Schiffnerula%20aristolochiae&strict=true
+LIBSRC-LIB50-ENT-BIO-0680731,scientific_identity,"Mitteriella nana N.Srivast., A.K.Srivast. & Kamal",https://api.gbif.org/v1/species/match?name=Mitteriella%20nana&strict=true
+LIBSRC-LIB50-ENT-BIO-0683471,scientific_identity,"Schiffnerula celastri Hosag., Riju & Sabeena",https://api.gbif.org/v1/species/match?name=Schiffnerula%20celastri&strict=true
+LIBSRC-LIB50-ENT-BIO-0685341,scientific_identity,Sarcinella cassiae E.J.Butler ex Munjal & J.N.Kapoor,https://api.gbif.org/v1/species/match?name=Sarcinella%20cassiae&strict=true
+LIBSRC-LIB50-ENT-BIO-0683421,scientific_identity,Schiffnerula trematis Syd.,https://api.gbif.org/v1/species/match?name=Schiffnerula%20trematis&strict=true
+LIBSRC-LIB50-ENT-BIO-0683481,scientific_identity,Schiffnerula nuxiae Hansf.,https://api.gbif.org/v1/species/match?name=Schiffnerula%20nuxiae&strict=true
+LIBSRC-LIB50-ENT-BIO-0685411,scientific_identity,Sarcinella milleriae Syd.,https://api.gbif.org/v1/species/match?name=Sarcinella%20milleriae&strict=true
+LIBSRC-LIB50-ENT-BIO-0683411,scientific_identity,Schiffnerula chukrasiae Hosag.,https://api.gbif.org/v1/species/match?name=Schiffnerula%20chukrasiae&strict=true
+LIBSRC-LIB50-ENT-BIO-0701321,scientific_identity,"Neurospora novoguineensis (Takada) Dania García, Stchigel & Guarro",https://api.gbif.org/v1/species/match?name=Neurospora%20novoguineensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0701281,scientific_identity,Neurospora discreta D.D.Perkins & N.B.Raju,https://api.gbif.org/v1/species/match?name=Neurospora%20discreta&strict=true
+LIBSRC-LIB50-ENT-BIO-0700871,scientific_identity,Sordaria sibutii Cailleux,https://api.gbif.org/v1/species/match?name=Sordaria%20sibutii&strict=true
+LIBSRC-LIB50-ENT-BIO-0705341,scientific_identity,Biconiosporella corniculata Schaumann,https://api.gbif.org/v1/species/match?name=Biconiosporella%20corniculata&strict=true
+LIBSRC-LIB50-ENT-BIO-0700831,scientific_identity,Sordaria indica M.P.Srivast. & Tandon,https://api.gbif.org/v1/species/match?name=Sordaria%20indica&strict=true
+LIBSRC-LIB50-ENT-BIO-0701301,scientific_identity,Neurospora terricola Goch. & Backus,https://api.gbif.org/v1/species/match?name=Neurospora%20terricola&strict=true
+LIBSRC-LIB50-ENT-BIO-0700881,scientific_identity,Sordaria fimicola (Roberge ex Desm.) Ces. & De Not.,https://api.gbif.org/v1/species/match?name=Sordaria%20fimicola&strict=true
+LIBSRC-LIB50-ENT-BIO-0702161,scientific_identity,Gelasinospora reticulispora Greis & Greis-Dengler ex C.Moreau & M.Moreau,https://api.gbif.org/v1/species/match?name=Gelasinospora%20reticulispora&strict=true
+LIBSRC-LIB50-ENT-BIO-0700861,scientific_identity,Sordaria papillosa A.Bayer,https://api.gbif.org/v1/species/match?name=Sordaria%20papillosa&strict=true
+LIBSRC-LIB50-ENT-BIO-0701331,scientific_identity,"Neurospora bonaerensis (Stchigel & Guarro) Dania García, Stchigel & Guarro",https://api.gbif.org/v1/species/match?name=Neurospora%20bonaerensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0700811,scientific_identity,Sordaria lappae Potebnia,https://api.gbif.org/v1/species/match?name=Sordaria%20lappae&strict=true
+LIBSRC-LIB50-ENT-BIO-0704361,scientific_identity,Cainiella borealis M.E.Barr,https://api.gbif.org/v1/species/match?name=Cainiella%20borealis&strict=true
+LIBSRC-LIB50-ENT-BIO-0682541,scientific_identity,Lichenostigma cosmopolites Hafellner & Calatayud,https://api.gbif.org/v1/species/match?name=Lichenostigma%20cosmopolites&strict=true
+LIBSRC-LIB50-ENT-BIO-0710441,scientific_identity,"Angustibacter peucedani Lee, 2013",https://api.gbif.org/v1/species/match?name=Angustibacter%20peucedani&strict=true
+LIBSRC-LIB50-ENT-BIO-0694571,scientific_identity,"Costaria turneri Greville, 1830",https://api.gbif.org/v1/species/match?name=Costaria%20turneri&strict=true
+LIBSRC-LIB50-ENT-BIO-0693831,scientific_identity,"Agarum clathratum Dumortier, 1822",https://api.gbif.org/v1/species/match?name=Agarum%20clathratum&strict=true
+LIBSRC-LIB50-ENT-BIO-0709121,scientific_identity,Rhipiliopsis peltata (J.Agardh) A.Gepp & E.Gepp,https://api.gbif.org/v1/species/match?name=Rhipiliopsis%20peltata&strict=true
+LIBSRC-LIB50-ENT-BIO-0706421,scientific_identity,Corollospora quinqueseptata Nakagiri,https://api.gbif.org/v1/species/match?name=Corollospora%20quinqueseptata&strict=true
+LIBSRC-LIB50-ENT-BIO-0704031,scientific_identity,"Magnisphaera spartinae (E.B.G.Jones) J.Campb., J.L.Anderson & Shearer",https://api.gbif.org/v1/species/match?name=Magnisphaera%20spartinae&strict=true
+LIBSRC-LIB50-ENT-BIO-0700991,scientific_identity,Thalespora appendiculata Chatmala & E.B.G.Jones,https://api.gbif.org/v1/species/match?name=Thalespora%20appendiculata&strict=true
+LIBSRC-LIB50-ENT-BIO-0697811,scientific_identity,Antennospora quadricornuta (Cribb & J.W.Cribb) T.W.Johnson,https://api.gbif.org/v1/species/match?name=Antennospora%20quadricornuta&strict=true
+LIBSRC-LIB50-ENT-BIO-0706461,scientific_identity,Corollospora cristata (Kohlm.) Kohlm.,https://api.gbif.org/v1/species/match?name=Corollospora%20cristata&strict=true
+LIBSRC-LIB50-ENT-BIO-0703511,scientific_identity,"Maireomyces peyssoneliae J.Feldman, 1941",https://api.gbif.org/v1/species/match?name=Maireomyces%20peyssoneliae&strict=true
+LIBSRC-LIB50-ENT-BIO-0697841,scientific_identity,"Toriella tubulifera (Kohlm.) Sakay., K.L.Pang & E.B.G.Jones",https://api.gbif.org/v1/species/match?name=Toriella%20tubulifera&strict=true
+LIBSRC-LIB50-ENT-BIO-0700561,scientific_identity,Chadefaudia marina Feldm.-Maz.,https://api.gbif.org/v1/species/match?name=Chadefaudia%20marina&strict=true
+LIBSRC-LIB50-ENT-BIO-0697321,scientific_identity,"Cirrenalia nigrospora Somrith., Chatmala & E.B.G.Jones",https://api.gbif.org/v1/species/match?name=Cirrenalia%20nigrospora&strict=true
+LIBSRC-LIB50-ENT-BIO-0701591,scientific_identity,Halosarpheia minuta W.F.Leong,https://api.gbif.org/v1/species/match?name=Halosarpheia%20minuta&strict=true
+LIBSRC-LIB50-ENT-BIO-0697911,scientific_identity,Lignincola tropica Kohlm.,https://api.gbif.org/v1/species/match?name=Lignincola%20tropica&strict=true
+LIBSRC-LIB50-ENT-BIO-0706451,scientific_identity,Corollospora armoricana Kohlm. & Volkm.-Kohlm.,https://api.gbif.org/v1/species/match?name=Corollospora%20armoricana&strict=true
+LIBSRC-LIB50-ENT-BIO-0699011,scientific_identity,Tirispora unicaudata E.B.G.Jones & Vrijmoed,https://api.gbif.org/v1/species/match?name=Tirispora%20unicaudata&strict=true
+LIBSRC-LIB50-ENT-BIO-0698951,scientific_identity,"Microglossum tenebrosum V.Kučera, Tomšovský, Lizoš & F.Hampe",https://api.gbif.org/v1/species/match?name=Microglossum%20tenebrosum&strict=true
+LIBSRC-LIB50-ENT-BIO-0698971,scientific_identity,Microglossum olivaceum (Pers.) Gillet,https://api.gbif.org/v1/species/match?name=Microglossum%20olivaceum&strict=true
+LIBSRC-LIB50-ENT-BIO-0706781,scientific_identity,Miniancora allisoniensis Marvanová & Bärl.,https://api.gbif.org/v1/species/match?name=Miniancora%20allisoniensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0698931,scientific_identity,Microglossum olivaceisquamulosum Grund & K.A.Harrison,https://api.gbif.org/v1/species/match?name=Microglossum%20olivaceisquamulosum&strict=true
+LIBSRC-LIB50-ENT-BIO-0697891,scientific_identity,Alatospora flagellata (Gönczöl) Marvanová,https://api.gbif.org/v1/species/match?name=Alatospora%20flagellata&strict=true
+LIBSRC-LIB50-ENT-BIO-0704731,scientific_identity,Leotia gyromitriformis Bánhegyi,https://api.gbif.org/v1/species/match?name=Leotia%20gyromitriformis&strict=true
+LIBSRC-LIB50-ENT-BIO-0708841,scientific_identity,Jania sagittata (J.V.Lamour.) Blainv.,https://api.gbif.org/v1/species/match?name=Jania%20sagittata&strict=true
+LIBSRC-LIB50-ENT-BIO-0704381,scientific_identity,Hormiscium laxum Wallr.,https://api.gbif.org/v1/species/match?name=Hormiscium%20laxum&strict=true
+LIBSRC-LIB50-ENT-BIO-0708741,scientific_identity,"Jania pusilla (Sonder) Yendo, 1905",https://api.gbif.org/v1/species/match?name=Jania%20pusilla&strict=true
+LIBSRC-LIB50-ENT-BIO-0710281,scientific_identity,"Diconodinium pusillum Singh, 1971",https://api.gbif.org/v1/species/match?name=Diconodinium%20pusillum&strict=true
+LIBSRC-LIB50-ENT-BIO-0704761,scientific_identity,Leotia japonica Yasuda,https://api.gbif.org/v1/species/match?name=Leotia%20japonica&strict=true
+LIBSRC-LIB50-ENT-BIO-0710141,scientific_identity,Bossiella heteroforma,https://api.gbif.org/v1/species/match?name=Bossiella%20heteroforma&strict=true
+LIBSRC-LIB50-ENT-BIO-0700971,scientific_identity,"Dendryphion ramosum Cooke, 1871",https://api.gbif.org/v1/species/match?name=Dendryphion%20ramosum&strict=true
+LIBSRC-LIB50-ENT-BIO-0691101,scientific_identity,Lichenothelia spiratispora Etayo,https://api.gbif.org/v1/species/match?name=Lichenothelia%20spiratispora&strict=true
+LIBSRC-LIB50-ENT-BIO-0698961,scientific_identity,"Microglossum griseoviride V.Kučera, Lizoň & Tomšovský",https://api.gbif.org/v1/species/match?name=Microglossum%20griseoviride&strict=true
+LIBSRC-LIB50-ENT-BIO-0700041,scientific_identity,Bathyascus vermisporus Kohlm.,https://api.gbif.org/v1/species/match?name=Bathyascus%20vermisporus&strict=true
+LIBSRC-LIB50-ENT-BIO-0710131,scientific_identity,Bossiella gardneri,https://api.gbif.org/v1/species/match?name=Bossiella%20gardneri&strict=true
+LIBSRC-LIB50-ENT-BIO-0694921,scientific_identity,Patellariopsis indica A.Pande,https://api.gbif.org/v1/species/match?name=Patellariopsis%20indica&strict=true
+LIBSRC-LIB50-ENT-BIO-0692631,scientific_identity,Cutleria monoica Ollivier,https://api.gbif.org/v1/species/match?name=Cutleria%20monoica&strict=true
+LIBSRC-LIB50-ENT-BIO-0700961,scientific_identity,Dendryphion phaseoli Bres.,https://api.gbif.org/v1/species/match?name=Dendryphion%20phaseoli&strict=true
+LIBSRC-LIB50-ENT-BIO-0708781,scientific_identity,Jania mexicana,https://api.gbif.org/v1/species/match?name=Jania%20mexicana&strict=true
+LIBSRC-LIB50-ENT-BIO-0685461,scientific_identity,"Sarcinella asiatica Kamal, A.N.Rai & Morgan-Jones",https://api.gbif.org/v1/species/match?name=Sarcinella%20asiatica&strict=true
+LIBSRC-LIB50-ENT-BIO-0682561,scientific_identity,"Lichenostigma semi-immersum Hafellner, 1999",https://api.gbif.org/v1/species/match?name=Lichenostigma%20semi-immersum&strict=true
+LIBSRC-LIB50-ENT-BIO-0683431,scientific_identity,Schiffnerula braunii Hosag. & Sabeena,https://api.gbif.org/v1/species/match?name=Schiffnerula%20braunii&strict=true
+LIBSRC-LIB50-ENT-BIO-0684691,scientific_identity,Thrauste affinis Syd. & P.Syd.,https://api.gbif.org/v1/species/match?name=Thrauste%20affinis&strict=true
+LIBSRC-LIB50-ENT-BIO-0707231,scientific_identity,"Kymalithon belgicum Fosile, 1909",https://api.gbif.org/v1/species/match?name=Kymalithon%20belgicum&strict=true
+LIBSRC-LIB50-ENT-BIO-0718271,scientific_identity,"Corticium fugax Bref., 1891",https://api.gbif.org/v1/species/match?name=Corticium%20fugax&strict=true
+LIBSRC-LIB50-ENT-BIO-0718111,scientific_identity,Corticium adhaesum Burt,https://api.gbif.org/v1/species/match?name=Corticium%20adhaesum&strict=true
+LIBSRC-LIB50-ENT-BIO-0718421,scientific_identity,Corticium wettsteinii (Bres.) Sacc. & Trotter,https://api.gbif.org/v1/species/match?name=Corticium%20wettsteinii&strict=true
+LIBSRC-LIB50-ENT-BIO-0717281,scientific_identity,Corticium albidocremeum Rehill & B.K.Bakshi,https://api.gbif.org/v1/species/match?name=Corticium%20albidocremeum&strict=true
+LIBSRC-LIB50-ENT-BIO-0717641,scientific_identity,Corticium mexicanum Burt,https://api.gbif.org/v1/species/match?name=Corticium%20mexicanum&strict=true
+LIBSRC-LIB50-ENT-BIO-0718381,scientific_identity,Corticium radiosum (Fr.) Fr.,https://api.gbif.org/v1/species/match?name=Corticium%20radiosum&strict=true
+LIBSRC-LIB50-ENT-BIO-0718441,scientific_identity,Corticium appalachiense (Burds. & M.J.Larsen) M.J.Larsen,https://api.gbif.org/v1/species/match?name=Corticium%20appalachiense&strict=true
+LIBSRC-LIB50-ENT-BIO-0718431,scientific_identity,Corticium roseocarneum (Schwein.) Hjortstam,https://api.gbif.org/v1/species/match?name=Corticium%20roseocarneum&strict=true
+LIBSRC-LIB50-ENT-BIO-0717811,scientific_identity,Corticium rubicundum Burt,https://api.gbif.org/v1/species/match?name=Corticium%20rubicundum&strict=true
+LIBSRC-LIB50-ENT-BIO-0710941,scientific_identity,"Peridinium defectum Balech, 1954",https://api.gbif.org/v1/species/match?name=Peridinium%20defectum&strict=true
+LIBSRC-LIB50-ENT-BIO-0718011,scientific_identity,Corticium flaveolum Massee,https://api.gbif.org/v1/species/match?name=Corticium%20flaveolum&strict=true
+LIBSRC-LIB50-ENT-BIO-0711661,scientific_identity,"Dobrogeites vinassayi Simionescu, 1940",https://api.gbif.org/v1/species/match?name=Dobrogeites%20vinassayi&strict=true
+LIBSRC-LIB50-ENT-BIO-0710711,scientific_identity,"Sichuaniella deqinensis Wu et al., 2020",https://api.gbif.org/v1/species/match?name=Sichuaniella%20deqinensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0763271,scientific_identity,Lyomyces boninensis (S.Ito & S.Imai) Hjortstam & Ryvarden,https://api.gbif.org/v1/species/match?name=Lyomyces%20boninensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0762951,scientific_identity,Lyomyces macrosporus C.L.Zhao,https://api.gbif.org/v1/species/match?name=Lyomyces%20macrosporus&strict=true
+LIBSRC-LIB50-ENT-BIO-0749151,scientific_identity,Katagnymene pelagic Lemmermann,https://api.gbif.org/v1/species/match?name=Katagnymene%20pelagic&strict=true
+LIBSRC-LIB50-ENT-BIO-0798111,scientific_identity,"Vibrio bivalvicida Dubert et al., 2016",https://api.gbif.org/v1/species/match?name=Vibrio%20bivalvicida&strict=true
+LIBSRC-LIB50-ENT-BIO-0778531,scientific_identity,"Laetisaria lichenicola Diederich, Lawrey & Van den Broeck",https://api.gbif.org/v1/species/match?name=Laetisaria%20lichenicola&strict=true
+LIBSRC-LIB50-ENT-BIO-0798911,scientific_identity,Beenakia informis (Rick) Maas Geest.,https://api.gbif.org/v1/species/match?name=Beenakia%20informis&strict=true
+LIBSRC-LIB50-ENT-BIO-0794591,scientific_identity,Waitea prodiga J.A.Crouch & Cubeta,https://api.gbif.org/v1/species/match?name=Waitea%20prodiga&strict=true
+LIBSRC-LIB50-ENT-BIO-0799021,scientific_identity,Arachniotus trisporus Hotson,https://api.gbif.org/v1/species/match?name=Arachniotus%20trisporus&strict=true
+LIBSRC-LIB50-ENT-BIO-0798951,scientific_identity,"Gymnascella anodosa (Kuehn, G.F.Orr & G.R.Ghosh) Kandemir & de Hoog",https://api.gbif.org/v1/species/match?name=Gymnascella%20anodosa&strict=true
+LIBSRC-LIB50-ENT-BIO-0800311,scientific_identity,Oncocladium flavum Wallr.,https://api.gbif.org/v1/species/match?name=Oncocladium%20flavum&strict=true
+LIBSRC-LIB50-ENT-BIO-0798931,scientific_identity,"Gymnascella minnisii J.D.Adam, A.E.Rea-Ireland, Smyth & Overton",https://api.gbif.org/v1/species/match?name=Gymnascella%20minnisii&strict=true
+LIBSRC-LIB50-ENT-BIO-0797861,scientific_identity,"Narasimhella armeniaca (M.Solé, Cano & Guarro) Kandemir & de Hoog",https://api.gbif.org/v1/species/match?name=Narasimhella%20armeniaca&strict=true
+LIBSRC-LIB50-ENT-BIO-0792831,scientific_identity,Galzinia longibasidia Hallenb.,https://api.gbif.org/v1/species/match?name=Galzinia%20longibasidia&strict=true
+LIBSRC-LIB50-ENT-BIO-0792791,scientific_identity,Galzinia ellipsospora S.S.Rattan,https://api.gbif.org/v1/species/match?name=Galzinia%20ellipsospora&strict=true
+LIBSRC-LIB50-ENT-BIO-0792861,scientific_identity,Galzinia oberwinkleri E.Langer & G.Langer,https://api.gbif.org/v1/species/match?name=Galzinia%20oberwinkleri&strict=true
+LIBSRC-LIB50-ENT-BIO-0798251,scientific_identity,"Vibrio harveyi (Johnson & Shunk, 1936) Baumann et al., 1981",https://api.gbif.org/v1/species/match?name=Vibrio%20harveyi&strict=true
+LIBSRC-LIB50-ENT-BIO-0798191,scientific_identity,"Vibrio agarivorans Macián et al., 2001",https://api.gbif.org/v1/species/match?name=Vibrio%20agarivorans&strict=true
+LIBSRC-LIB50-ENT-BIO-0798201,scientific_identity,"Vibrio owensii Cano-Gómez et al., 2010",https://api.gbif.org/v1/species/match?name=Vibrio%20owensii&strict=true
+LIBSRC-LIB50-ENT-BIO-0798141,scientific_identity,"Vibrio ezurae Sawabe et al., 2005",https://api.gbif.org/v1/species/match?name=Vibrio%20ezurae&strict=true
+LIBSRC-LIB50-ENT-BIO-0798151,scientific_identity,"Vibrio gallaecicus Beaz-Hidalgo et al., 2009",https://api.gbif.org/v1/species/match?name=Vibrio%20gallaecicus&strict=true
+LIBSRC-LIB50-ENT-BIO-0798171,scientific_identity,"Vibrio kanaloae Thompson et al., 2003",https://api.gbif.org/v1/species/match?name=Vibrio%20kanaloae&strict=true
+LIBSRC-LIB50-ENT-BIO-0800831,scientific_identity,"Photobacterium aestuarii Lo et al., 2014",https://api.gbif.org/v1/species/match?name=Photobacterium%20aestuarii&strict=true
+LIBSRC-LIB50-ENT-BIO-0800851,scientific_identity,Photobacterium profundum A,https://api.gbif.org/v1/species/match?name=Photobacterium%20profundum&strict=true
+LIBSRC-LIB50-ENT-BIO-0799031,scientific_identity,Arachniotus ruber (Tiegh.) J.Schröt.,https://api.gbif.org/v1/species/match?name=Arachniotus%20ruber&strict=true
+LIBSRC-LIB50-ENT-BIO-0797951,scientific_identity,Pseudoplagiostoma dipterocarpi Suwannar. & Lumyong,https://api.gbif.org/v1/species/match?name=Pseudoplagiostoma%20dipterocarpi&strict=true
+LIBSRC-LIB50-ENT-BIO-0798121,scientific_identity,"Vibrio renipiscarius Tarazona et al., 2015",https://api.gbif.org/v1/species/match?name=Vibrio%20renipiscarius&strict=true
+LIBSRC-LIB50-ENT-BIO-0800711,scientific_identity,Gymnoascus rhousiogongylinus Wener & Cain,https://api.gbif.org/v1/species/match?name=Gymnoascus%20rhousiogongylinus&strict=true
+LIBSRC-LIB50-ENT-BIO-0800841,scientific_identity,"Photobacterium aquimaris Yoshizawa et al., 2009",https://api.gbif.org/v1/species/match?name=Photobacterium%20aquimaris&strict=true
+LIBSRC-LIB50-ENT-BIO-0824531,scientific_identity,Glycomyces buryatensis,https://api.gbif.org/v1/species/match?name=Glycomyces%20buryatensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0832101,scientific_identity,"Grammatophora kerguelensis Karsten, 1905",https://api.gbif.org/v1/species/match?name=Grammatophora%20kerguelensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0823511,scientific_identity,"Micromonospora terminaliae Kaewkla et al., 2017",https://api.gbif.org/v1/species/match?name=Micromonospora%20terminaliae&strict=true
+LIBSRC-LIB50-ENT-BIO-0832091,scientific_identity,"Grammatophora japonica Grunow, 1881",https://api.gbif.org/v1/species/match?name=Grammatophora%20japonica&strict=true
+LIBSRC-LIB50-ENT-BIO-0823451,scientific_identity,"Micromonospora chalcea (Foulerton, 1905) Ørskov, 1923",https://api.gbif.org/v1/species/match?name=Micromonospora%20chalcea&strict=true
+LIBSRC-LIB50-ENT-BIO-0823481,scientific_identity,"Micromonospora coerulea Jensen, 1932",https://api.gbif.org/v1/species/match?name=Micromonospora%20coerulea&strict=true
+LIBSRC-LIB50-ENT-BIO-0805371,scientific_identity,"Entopyla oamaruensis Schrader, 1969",https://api.gbif.org/v1/species/match?name=Entopyla%20oamaruensis&strict=true
+LIBSRC-LIB50-ENT-BIO-0809661,scientific_identity,"Acrocytis groenlandicus Rosenvinge, 1933",https://api.gbif.org/v1/species/match?name=Acrocytis%20groenlandicus&strict=true
+LIBSRC-LIB50-ENT-BIO-0805581,scientific_identity,"Pilocladus volubilis (P.L.Crouan & H.M.Crouan) Kornmann, 1954",https://api.gbif.org/v1/species/match?name=Pilocladus%20volubilis&strict=true
+LIBSRC-LIB50-ENT-BIO-0807051,scientific_identity,"Myriactula rigida (Sauv.) G.Hamel, 1939",https://api.gbif.org/v1/species/match?name=Myriactula%20rigida&strict=true
+LIBSRC-LIB50-ENT-BIO-0809991,scientific_identity,"Elachista globulosa (C.Agardh) J.Agardh, 1848",https://api.gbif.org/v1/species/match?name=Elachista%20globulosa&strict=true
+LIBSRC-LIB50-ENT-BIO-0809981,scientific_identity,Elachista stellaris Aresch.,https://api.gbif.org/v1/species/match?name=Elachista%20stellaris&strict=true
+LIBSRC-LIB50-ENT-BIO-0829851,scientific_identity,Stanjehughesia caespitulosa (Ellis & Everh.) Subram.,https://api.gbif.org/v1/species/match?name=Stanjehughesia%20caespitulosa&strict=true
+LIBSRC-LIB50-ENT-BIO-0813711,scientific_identity,Fasciatispora petrakii (Mhaskar & V.G.Rao) K.D.Hyde,https://api.gbif.org/v1/species/match?name=Fasciatispora%20petrakii&strict=true
+LIBSRC-LIB50-ENT-BIO-0828731,scientific_identity,Asteromella kalmicola (Schwein.) Petr.,https://api.gbif.org/v1/species/match?name=Asteromella%20kalmicola&strict=true
+LIBSRC-LIB50-ENT-BIO-0828921,scientific_identity,Asteromella dentariae (Kabát & Bubák) H.Ruppr.,https://api.gbif.org/v1/species/match?name=Asteromella%20dentariae&strict=true
+LIBSRC-LIB50-ENT-BIO-0823701,scientific_identity,Plectania rhytidia (Berk.) Nannf. & Korf,https://api.gbif.org/v1/species/match?name=Plectania%20rhytidia&strict=true
+LIBSRC-LIB50-ENT-BIO-0831331,scientific_identity,Fissuroma microsporum M.Niranjan & V.V.Sarma,https://api.gbif.org/v1/species/match?name=Fissuroma%20microsporum&strict=true
+LIBSRC-LIB50-ENT-BIO-0828911,scientific_identity,"Asteromella vulgaris Thüm., 1881",https://api.gbif.org/v1/species/match?name=Asteromella%20vulgaris&strict=true
+LIBSRC-LIB50-ENT-BIO-0803741,scientific_identity,Clavariadelphus alpinus J.Zhao & L.P.Tang,https://api.gbif.org/v1/species/match?name=Clavariadelphus%20alpinus&strict=true
+LIBSRC-LIB50-ENT-BIO-0828781,scientific_identity,Asteromella scrophularina (P.Karst.) H.Ruppr.,https://api.gbif.org/v1/species/match?name=Asteromella%20scrophularina&strict=true
+LIBSRC-LIB50-ENT-BIO-0828831,scientific_identity,Asteromella doronicigena (Bubák) Petr.,https://api.gbif.org/v1/species/match?name=Asteromella%20doronicigena&strict=true
+LIBSRC-LIB50-ENT-BIO-0828001,scientific_identity,Leveillina endocrypta (Mont. ex Cooke) Theiss. & Syd.,https://api.gbif.org/v1/species/match?name=Leveillina%20endocrypta&strict=true
+LIBSRC-LIB50-ENT-BIO-0803791,scientific_identity,Clavariadelphus aurantiacus P.Zhang,https://api.gbif.org/v1/species/match?name=Clavariadelphus%20aurantiacus&strict=true
+LIBSRC-LIB50-ENT-BIO-0829841,scientific_identity,"Didymopleella ammophila (Sacc., E.Bommer & M.Rousseau) Lar.N.Vassiljeva",https://api.gbif.org/v1/species/match?name=Didymopleella%20ammophila&strict=true
+LIBSRC-LIB50-ENT-BIO-0828591,scientific_identity,Asteromella cedrelae Petr.,https://api.gbif.org/v1/species/match?name=Asteromella%20cedrelae&strict=true
+LIBSRC-LIB50-ENT-BIO-0824771,scientific_identity,Conoplea abietina (Peck) S.Hughes,https://api.gbif.org/v1/species/match?name=Conoplea%20abietina&strict=true
+LIBSRC-LIB50-ENT-BIO-0828651,scientific_identity,Asteromella saginae Urries,https://api.gbif.org/v1/species/match?name=Asteromella%20saginae&strict=true
+LIBSRC-LIB50-ENT-BIO-0820081,scientific_identity,Harknessia ravenstreetina Crous & R.G.Shivas,https://api.gbif.org/v1/species/match?name=Harknessia%20ravenstreetina&strict=true
+LIBSRC-LIB50-ENT-BIO-0827311,scientific_identity,Microcyclella disciformis I.Hino & Katum.,https://api.gbif.org/v1/species/match?name=Microcyclella%20disciformis&strict=true
+LIBSRC-LIB50-ENT-BIO-0823051,scientific_identity,Strumella cucurbitacearum Fr.,https://api.gbif.org/v1/species/match?name=Strumella%20cucurbitacearum&strict=true
+LIBSRC-LIB50-ENT-BIO-0831831,scientific_identity,"Striatella arctica Ehrenberg, 1872",https://api.gbif.org/v1/species/match?name=Striatella%20arctica&strict=true
+LIBSRC-LIB50-ENT-BIO-0832071,scientific_identity,"Grammatophora biseriata Grunow ex Cleve & Moller, 1879",https://api.gbif.org/v1/species/match?name=Grammatophora%20biseriata&strict=true
+LIBSRC-LIB50-ENT-BIO-0826651,scientific_identity,"Repetophragma fasciatum (R.F.Castañeda) R.F.Castañeda, Gusmão & Saikawa",https://api.gbif.org/v1/species/match?name=Repetophragma%20fasciatum&strict=true

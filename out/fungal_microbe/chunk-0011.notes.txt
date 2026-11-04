@@ -1,0 +1,3 @@
+Attempted to fetch data from GBIF API (https://api.gbif.org/v1/species/match)
+Used strict=true and checked for EXACT matchType.
+Processed 1000 subjects, found 459 properties.
