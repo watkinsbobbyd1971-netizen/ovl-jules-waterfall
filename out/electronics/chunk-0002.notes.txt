@@ -1,0 +1,1 @@
+Attempted Wikidata, Smithsonian Open Access API, and Met API. Most of these specific objects are Smithsonian artifacts or similar, but without their specific identifiers or enough metadata, matching purely on string like 'RCA type 9002 “Radiotron” triode' or 'watch' results in ambiguous or zero matches. Proceeding with empty results as permitted by AGENTS.md.
