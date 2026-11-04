@@ -1,0 +1,49 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-2530638,scientific_identity,"Ciconia episcopus (Boddaert, 1783)",https://api.gbif.org/v1/species/match?name=Ciconia%20episcopus&class=Aves
+LIBSRC-LIB50-ENT-BIO-2530638,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Ciconia%20episcopus&class=Aves
+LIBSRC-LIB50-ENT-BIO-2530638,identity_label,Ciconia episcopus,https://api.gbif.org/v1/species/match?name=Ciconia%20episcopus&class=Aves
+LIBSRC-LIB50-ENT-BIO-2530638,taxon_authority,"(Boddaert, 1783) ",https://api.gbif.org/v1/species/2481918
+LIBSRC-LIB50-ENT-BIO-2536946,scientific_identity,"Pterodroma kurodai Harrison & Walker, 1978",https://api.gbif.org/v1/species/match?name=Pterodroma%20kurodai&class=Aves
+LIBSRC-LIB50-ENT-BIO-2536946,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Pterodroma%20kurodai&class=Aves
+LIBSRC-LIB50-ENT-BIO-2536946,identity_label,Pterodroma kurodai,https://api.gbif.org/v1/species/match?name=Pterodroma%20kurodai&class=Aves
+LIBSRC-LIB50-ENT-BIO-2536946,taxon_authority,"Harrison & Walker, 1978",https://api.gbif.org/v1/species/8996991
+LIBSRC-LIB50-ENT-BIO-2526380,scientific_identity,"Mycteria ibis (Linnaeus, 1766)",https://api.gbif.org/v1/species/match?name=Mycteria%20ibis&class=Aves
+LIBSRC-LIB50-ENT-BIO-2526380,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Mycteria%20ibis&class=Aves
+LIBSRC-LIB50-ENT-BIO-2526380,identity_label,Mycteria ibis,https://api.gbif.org/v1/species/match?name=Mycteria%20ibis&class=Aves
+LIBSRC-LIB50-ENT-BIO-2526380,taxon_authority,"(Linnaeus, 1766) ",https://api.gbif.org/v1/species/2481936
+LIBSRC-LIB50-ENT-BIO-2502825,scientific_identity,"Stactolaema whytii (Shelley, 1893)",https://api.gbif.org/v1/species/match?name=Stactolaema%20whytii&class=Aves
+LIBSRC-LIB50-ENT-BIO-2502825,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Stactolaema%20whytii&class=Aves
+LIBSRC-LIB50-ENT-BIO-2502825,identity_label,Stactolaema whytii,https://api.gbif.org/v1/species/match?name=Stactolaema%20whytii&class=Aves
+LIBSRC-LIB50-ENT-BIO-2502825,taxon_authority,"(Shelley, 1893) ",https://api.gbif.org/v1/species/2478802
+LIBSRC-LIB50-ENT-BIO-2529719,scientific_identity,"Leptoptilos crumenifer (R.P.Lesson, 1831)",https://api.gbif.org/v1/species/match?name=Leptoptilos%20crumenifer&class=Aves
+LIBSRC-LIB50-ENT-BIO-2529719,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Leptoptilos%20crumenifer&class=Aves
+LIBSRC-LIB50-ENT-BIO-2529719,identity_label,Leptoptilos crumenifer,https://api.gbif.org/v1/species/match?name=Leptoptilos%20crumenifer&class=Aves
+LIBSRC-LIB50-ENT-BIO-2529719,taxon_authority,"(R.P.Lesson, 1831) ",https://api.gbif.org/v1/species/9772663
+LIBSRC-LIB50-ENT-BIO-2546213,scientific_identity,"Pseudaptenodytes macraei Simpson, 1970",https://api.gbif.org/v1/species/match?name=Pseudaptenodytes%20macraei&class=Aves
+LIBSRC-LIB50-ENT-BIO-2546213,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Pseudaptenodytes%20macraei&class=Aves
+LIBSRC-LIB50-ENT-BIO-2546213,identity_label,Pseudaptenodytes macraei,https://api.gbif.org/v1/species/match?name=Pseudaptenodytes%20macraei&class=Aves
+LIBSRC-LIB50-ENT-BIO-2546213,taxon_authority,"Simpson, 1970",https://api.gbif.org/v1/species/4844838
+LIBSRC-LIB50-ENT-BIO-2499769,scientific_identity,"Gymnobucco bonapartei Hartlaub, 1854",https://api.gbif.org/v1/species/match?name=Gymnobucco%20bonapartei&class=Aves
+LIBSRC-LIB50-ENT-BIO-2499769,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Gymnobucco%20bonapartei&class=Aves
+LIBSRC-LIB50-ENT-BIO-2499769,identity_label,Gymnobucco bonapartei,https://api.gbif.org/v1/species/match?name=Gymnobucco%20bonapartei&class=Aves
+LIBSRC-LIB50-ENT-BIO-2499769,taxon_authority,"Hartlaub, 1854",https://api.gbif.org/v1/species/2478747
+LIBSRC-LIB50-ENT-BIO-2546554,scientific_identity,"Spheniscus mendiculus Sundevall, 1871",https://api.gbif.org/v1/species/match?name=Spheniscus%20mendiculus&class=Aves
+LIBSRC-LIB50-ENT-BIO-2546554,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Spheniscus%20mendiculus&class=Aves
+LIBSRC-LIB50-ENT-BIO-2546554,identity_label,Spheniscus mendiculus,https://api.gbif.org/v1/species/match?name=Spheniscus%20mendiculus&class=Aves
+LIBSRC-LIB50-ENT-BIO-2546554,taxon_authority,"Sundevall, 1871",https://api.gbif.org/v1/species/5229383
+LIBSRC-LIB50-ENT-BIO-2536970,scientific_identity,"Pterodroma brevipes (Peale, 1848)",https://api.gbif.org/v1/species/match?name=Pterodroma%20brevipes&class=Aves
+LIBSRC-LIB50-ENT-BIO-2536970,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Pterodroma%20brevipes&class=Aves
+LIBSRC-LIB50-ENT-BIO-2536970,identity_label,Pterodroma brevipes,https://api.gbif.org/v1/species/match?name=Pterodroma%20brevipes&class=Aves
+LIBSRC-LIB50-ENT-BIO-2536970,taxon_authority,"(Peale, 1848) ",https://api.gbif.org/v1/species/2481456
+LIBSRC-LIB50-ENT-BIO-2549373,scientific_identity,"Delphinornis gracilis Myrcha, Jadwiszczak, Tambussi, Noriega, Gaździcki, Tatur & del Valle, 2002",https://api.gbif.org/v1/species/match?name=Delphinornis%20gracilis&class=Aves
+LIBSRC-LIB50-ENT-BIO-2549373,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Delphinornis%20gracilis&class=Aves
+LIBSRC-LIB50-ENT-BIO-2549373,identity_label,Delphinornis gracilis,https://api.gbif.org/v1/species/match?name=Delphinornis%20gracilis&class=Aves
+LIBSRC-LIB50-ENT-BIO-2549373,taxon_authority,"Myrcha, Jadwiszczak, Tambussi, Noriega, Gaździcki, Tatur & del Valle, 2002",https://api.gbif.org/v1/species/4966756
+LIBSRC-LIB50-ENT-BIO-2546875,scientific_identity,"Palaeospheniscus huxleyorum Simpson, 1973",https://api.gbif.org/v1/species/match?name=Palaeospheniscus%20huxleyorum&class=Aves
+LIBSRC-LIB50-ENT-BIO-2546875,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Palaeospheniscus%20huxleyorum&class=Aves
+LIBSRC-LIB50-ENT-BIO-2546875,identity_label,Palaeospheniscus huxleyorum,https://api.gbif.org/v1/species/match?name=Palaeospheniscus%20huxleyorum&class=Aves
+LIBSRC-LIB50-ENT-BIO-2546875,taxon_authority,"Simpson, 1973",https://api.gbif.org/v1/species/4966765
+LIBSRC-LIB50-ENT-BIO-2536306,scientific_identity,"Puffinus gravis (O'Reilly, 1818)",https://api.gbif.org/v1/species/match?name=Puffinus%20gravis&class=Aves
+LIBSRC-LIB50-ENT-BIO-2536306,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Puffinus%20gravis&class=Aves
+LIBSRC-LIB50-ENT-BIO-2536306,identity_label,Puffinus gravis,https://api.gbif.org/v1/species/match?name=Puffinus%20gravis&class=Aves
+LIBSRC-LIB50-ENT-BIO-2536306,taxon_authority,"(O'Reilly, 1818) ",https://api.gbif.org/v1/species/5229343
