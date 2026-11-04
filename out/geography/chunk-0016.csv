@@ -1,0 +1,1928 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB34-ENT-GEO-0216331,place_identity,historic reserve,https://www.wikidata.org/wiki/Q126109962
+LIBSRC-LIB34-ENT-GEO-0216331,descriptive_identity,historic reserve,https://www.wikidata.org/wiki/Q126109962
+LIBSRC-LIB34-ENT-GEO-0216331,descriptive_identity,historic reserve in New Zealand (cottage + grounds),https://www.wikidata.org/wiki/Q126109962
+LIBSRC-LIB34-ENT-GEO-0216331,geometry_with_crs,Point(173.596 -41.216),https://www.wikidata.org/wiki/Q126109962
+LIBSRC-LIB34-ENT-GEO-0216331,location,New Zealand,https://www.wikidata.org/wiki/Q126109962
+LIBSRC-LIB34-ENT-GEO-0216331,location,Marlborough District,https://www.wikidata.org/wiki/Q126109962
+LIBSRC-LIB34-ENT-GEO-0212481,place_identity,waterfall,https://www.wikidata.org/wiki/Q34847435
+LIBSRC-LIB34-ENT-GEO-0212481,descriptive_identity,waterfall,https://www.wikidata.org/wiki/Q34847435
+LIBSRC-LIB34-ENT-GEO-0212481,geometry_with_crs,Point(13.14709 65.64741),https://www.wikidata.org/wiki/Q34847435
+LIBSRC-LIB34-ENT-GEO-0212481,location,Norway,https://www.wikidata.org/wiki/Q34847435
+LIBSRC-LIB34-ENT-GEO-0212481,location,Vefsn Municipality,https://www.wikidata.org/wiki/Q34847435
+LIBSRC-LIB34-ENT-GEO-0313141,place_identity,human,https://www.wikidata.org/wiki/Q18239136
+LIBSRC-LIB34-ENT-GEO-0313141,descriptive_identity,human,https://www.wikidata.org/wiki/Q18239136
+LIBSRC-LIB34-ENT-GEO-0313141,descriptive_identity,Jamaican reggae musician,https://www.wikidata.org/wiki/Q18239136
+LIBSRC-LIB34-ENT-GEO-0233271,place_identity,river,https://www.wikidata.org/wiki/Q4081949
+LIBSRC-LIB34-ENT-GEO-0233271,descriptive_identity,river,https://www.wikidata.org/wiki/Q4081949
+LIBSRC-LIB34-ENT-GEO-0233271,descriptive_identity,"river in Sakhalin, Russia",https://www.wikidata.org/wiki/Q4081949
+LIBSRC-LIB34-ENT-GEO-0233271,geometry_with_crs,Point(142.222222222 48.265555555),https://www.wikidata.org/wiki/Q4081949
+LIBSRC-LIB34-ENT-GEO-0233271,elevation,30000.0,https://www.wikidata.org/wiki/Q4081949
+LIBSRC-LIB34-ENT-GEO-0233271,location,Russia,https://www.wikidata.org/wiki/Q4081949
+LIBSRC-LIB34-ENT-GEO-0233271,geometry_with_crs,Point(142.153888888 48.264444444),https://www.wikidata.org/wiki/Q4081949
+LIBSRC-LIB34-ENT-GEO-0233271,location,Sakhalin Oblast,https://www.wikidata.org/wiki/Q4081949
+LIBSRC-LIB34-ENT-GEO-0300051,place_identity,human,https://www.wikidata.org/wiki/Q1526764
+LIBSRC-LIB34-ENT-GEO-0300051,descriptive_identity,human,https://www.wikidata.org/wiki/Q1526764
+LIBSRC-LIB34-ENT-GEO-0300051,descriptive_identity,Chinese-French composer,https://www.wikidata.org/wiki/Q1526764
+LIBSRC-LIB34-ENT-GEO-0322381,place_identity,city in the United States,https://www.wikidata.org/wiki/Q1005623
+LIBSRC-LIB34-ENT-GEO-0322381,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q1005623
+LIBSRC-LIB34-ENT-GEO-0322381,descriptive_identity,"city in Waukesha County, Wisconsin, United States",https://www.wikidata.org/wiki/Q1005623
+LIBSRC-LIB34-ENT-GEO-0322381,geometry_with_crs,Point(-88.109166666 42.979166666),https://www.wikidata.org/wiki/Q1005623
+LIBSRC-LIB34-ENT-GEO-0322381,elevation,281000.0,https://www.wikidata.org/wiki/Q1005623
+LIBSRC-LIB34-ENT-GEO-0322381,location,United States,https://www.wikidata.org/wiki/Q1005623
+LIBSRC-LIB34-ENT-GEO-0322381,historical_name,New Berlin,https://www.wikidata.org/wiki/Q1005623
+LIBSRC-LIB34-ENT-GEO-0322381,place_identity,third-class city,https://www.wikidata.org/wiki/Q1005623
+LIBSRC-LIB34-ENT-GEO-0322381,descriptive_identity,third-class city,https://www.wikidata.org/wiki/Q1005623
+LIBSRC-LIB34-ENT-GEO-0322381,location,Waukesha County,https://www.wikidata.org/wiki/Q1005623
+LIBSRC-LIB34-ENT-GEO-0239991,place_identity,town,https://www.wikidata.org/wiki/Q12219781
+LIBSRC-LIB34-ENT-GEO-0239991,descriptive_identity,town,https://www.wikidata.org/wiki/Q12219781
+LIBSRC-LIB34-ENT-GEO-0239991,descriptive_identity,"town in Deir ez-Zor, Syria",https://www.wikidata.org/wiki/Q12219781
+LIBSRC-LIB34-ENT-GEO-0239991,geometry_with_crs,Point(40.6 34.853055555),https://www.wikidata.org/wiki/Q12219781
+LIBSRC-LIB34-ENT-GEO-0239991,location,Syria,https://www.wikidata.org/wiki/Q12219781
+LIBSRC-LIB34-ENT-GEO-0239991,geometry_with_crs,Point(40.59388889 34.84638889),https://www.wikidata.org/wiki/Q12219781
+LIBSRC-LIB34-ENT-GEO-0239991,place_identity,human settlement,https://www.wikidata.org/wiki/Q12219781
+LIBSRC-LIB34-ENT-GEO-0239991,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q12219781
+LIBSRC-LIB34-ENT-GEO-0239991,place_identity,populated place in Syria,https://www.wikidata.org/wiki/Q12219781
+LIBSRC-LIB34-ENT-GEO-0239991,descriptive_identity,populated place in Syria,https://www.wikidata.org/wiki/Q12219781
+LIBSRC-LIB34-ENT-GEO-0239991,location,Ashara Subdistrict,https://www.wikidata.org/wiki/Q12219781
+LIBSRC-LIB34-ENT-GEO-0239991,location,Deir ez-Zor Governorate,https://www.wikidata.org/wiki/Q12219781
+LIBSRC-LIB34-ENT-GEO-0236911,place_identity,human settlement,https://www.wikidata.org/wiki/Q2543955
+LIBSRC-LIB34-ENT-GEO-0236911,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q2543955
+LIBSRC-LIB34-ENT-GEO-0236911,descriptive_identity,"place in Lower Carniola, Slovenia",https://www.wikidata.org/wiki/Q2543955
+LIBSRC-LIB34-ENT-GEO-0236911,geometry_with_crs,Point(15.044167 45.558056),https://www.wikidata.org/wiki/Q2543955
+LIBSRC-LIB34-ENT-GEO-0236911,elevation,466700.0,https://www.wikidata.org/wiki/Q2543955
+LIBSRC-LIB34-ENT-GEO-0236911,location,Municipality of Kočevje,https://www.wikidata.org/wiki/Q2543955
+LIBSRC-LIB34-ENT-GEO-0236911,location,Slovenia,https://www.wikidata.org/wiki/Q2543955
+LIBSRC-LIB34-ENT-GEO-0320841,place_identity,borough of New Jersey,https://www.wikidata.org/wiki/Q773400
+LIBSRC-LIB34-ENT-GEO-0320841,descriptive_identity,borough of New Jersey,https://www.wikidata.org/wiki/Q773400
+LIBSRC-LIB34-ENT-GEO-0320841,descriptive_identity,"borough in Middlesex County, New Jersey, United States",https://www.wikidata.org/wiki/Q773400
+LIBSRC-LIB34-ENT-GEO-0320841,geometry_with_crs,Point(-74.439166666 40.35),https://www.wikidata.org/wiki/Q773400
+LIBSRC-LIB34-ENT-GEO-0320841,elevation,26000.0,https://www.wikidata.org/wiki/Q773400
+LIBSRC-LIB34-ENT-GEO-0320841,location,Middlesex County,https://www.wikidata.org/wiki/Q773400
+LIBSRC-LIB34-ENT-GEO-0320841,location,United States,https://www.wikidata.org/wiki/Q773400
+LIBSRC-LIB34-ENT-GEO-0296971,place_identity,archaeological site,https://www.wikidata.org/wiki/Q1026347
+LIBSRC-LIB34-ENT-GEO-0296971,descriptive_identity,archaeological site,https://www.wikidata.org/wiki/Q1026347
+LIBSRC-LIB34-ENT-GEO-0296971,descriptive_identity,"ancient city of Commagene, in modern-day Turkey",https://www.wikidata.org/wiki/Q1026347
+LIBSRC-LIB34-ENT-GEO-0296971,geometry_with_crs,Point(38.481316666 37.57955),https://www.wikidata.org/wiki/Q1026347
+LIBSRC-LIB34-ENT-GEO-0296971,location,Turkey,https://www.wikidata.org/wiki/Q1026347
+LIBSRC-LIB34-ENT-GEO-0296971,geometry_with_crs,Point(38.471342 37.564519),https://www.wikidata.org/wiki/Q1026347
+LIBSRC-LIB34-ENT-GEO-0296971,place_identity,ancient city,https://www.wikidata.org/wiki/Q1026347
+LIBSRC-LIB34-ENT-GEO-0296971,descriptive_identity,ancient city,https://www.wikidata.org/wiki/Q1026347
+LIBSRC-LIB34-ENT-GEO-0296971,location,Coele-Syria,https://www.wikidata.org/wiki/Q1026347
+LIBSRC-LIB34-ENT-GEO-0296971,location,Samosata Theme,https://www.wikidata.org/wiki/Q1026347
+LIBSRC-LIB34-ENT-GEO-0296971,location,Q20872474,https://www.wikidata.org/wiki/Q1026347
+LIBSRC-LIB34-ENT-GEO-0296971,location,Euphratensis,https://www.wikidata.org/wiki/Q1026347
+LIBSRC-LIB34-ENT-GEO-0296971,location,Roman Syria,https://www.wikidata.org/wiki/Q1026347
+LIBSRC-LIB34-ENT-GEO-0296971,location,Adıyaman Province,https://www.wikidata.org/wiki/Q1026347
+LIBSRC-LIB34-ENT-GEO-0218641,place_identity,glacier,https://www.wikidata.org/wiki/Q34838076
+LIBSRC-LIB34-ENT-GEO-0218641,descriptive_identity,glacier,https://www.wikidata.org/wiki/Q34838076
+LIBSRC-LIB34-ENT-GEO-0218641,descriptive_identity,glacier in Pakistan,https://www.wikidata.org/wiki/Q34838076
+LIBSRC-LIB34-ENT-GEO-0218641,geometry_with_crs,Point(76.64058 35.457455),https://www.wikidata.org/wiki/Q34838076
+LIBSRC-LIB34-ENT-GEO-0218641,location,Gilgit-Baltistan,https://www.wikidata.org/wiki/Q34838076
+LIBSRC-LIB34-ENT-GEO-0218641,location,Pakistan,https://www.wikidata.org/wiki/Q34838076
+LIBSRC-LIB34-ENT-GEO-0214791,place_identity,bay,https://www.wikidata.org/wiki/Q136243242
+LIBSRC-LIB34-ENT-GEO-0214791,descriptive_identity,bay,https://www.wikidata.org/wiki/Q136243242
+LIBSRC-LIB34-ENT-GEO-0214791,descriptive_identity,"bay in Sør-Varanger municipality, Norway",https://www.wikidata.org/wiki/Q136243242
+LIBSRC-LIB34-ENT-GEO-0214791,geometry_with_crs,Point(29.74142 69.85441),https://www.wikidata.org/wiki/Q136243242
+LIBSRC-LIB34-ENT-GEO-0214791,location,Sør-Varanger Municipality,https://www.wikidata.org/wiki/Q136243242
+LIBSRC-LIB34-ENT-GEO-0214791,location,Norway,https://www.wikidata.org/wiki/Q136243242
+LIBSRC-LIB34-ENT-GEO-0308291,place_identity,city in the United States,https://www.wikidata.org/wiki/Q978175
+LIBSRC-LIB34-ENT-GEO-0308291,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q978175
+LIBSRC-LIB34-ENT-GEO-0308291,descriptive_identity,"city in and the county seat of Hopkins County, Texas, USA",https://www.wikidata.org/wiki/Q978175
+LIBSRC-LIB34-ENT-GEO-0308291,geometry_with_crs,Point(-95.6019 33.1342),https://www.wikidata.org/wiki/Q978175
+LIBSRC-LIB34-ENT-GEO-0308291,elevation,153000.0,https://www.wikidata.org/wiki/Q978175
+LIBSRC-LIB34-ENT-GEO-0308291,location,Hopkins County,https://www.wikidata.org/wiki/Q978175
+LIBSRC-LIB34-ENT-GEO-0308291,location,United States,https://www.wikidata.org/wiki/Q978175
+LIBSRC-LIB34-ENT-GEO-0299821,place_identity,summit,https://www.wikidata.org/wiki/Q31609332
+LIBSRC-LIB34-ENT-GEO-0299821,descriptive_identity,summit,https://www.wikidata.org/wiki/Q31609332
+LIBSRC-LIB34-ENT-GEO-0299821,geometry_with_crs,Point(120.711666666 23.628333333),https://www.wikidata.org/wiki/Q31609332
+LIBSRC-LIB34-ENT-GEO-0299821,elevation,1570000.0,https://www.wikidata.org/wiki/Q31609332
+LIBSRC-LIB34-ENT-GEO-0299821,location,Taiwan,https://www.wikidata.org/wiki/Q31609332
+LIBSRC-LIB34-ENT-GEO-0315221,place_identity,census-designated place in the United States,https://www.wikidata.org/wiki/Q982105
+LIBSRC-LIB34-ENT-GEO-0315221,descriptive_identity,census-designated place in the United States,https://www.wikidata.org/wiki/Q982105
+LIBSRC-LIB34-ENT-GEO-0315221,descriptive_identity,"census designated place in Cameron County, Texas, United States",https://www.wikidata.org/wiki/Q982105
+LIBSRC-LIB34-ENT-GEO-0315221,geometry_with_crs,Point(-97.5767 26.1914),https://www.wikidata.org/wiki/Q982105
+LIBSRC-LIB34-ENT-GEO-0315221,elevation,9000.0,https://www.wikidata.org/wiki/Q982105
+LIBSRC-LIB34-ENT-GEO-0315221,location,United States,https://www.wikidata.org/wiki/Q982105
+LIBSRC-LIB34-ENT-GEO-0315221,location,Cameron County,https://www.wikidata.org/wiki/Q982105
+LIBSRC-LIB34-ENT-GEO-0315991,place_identity,male given name,https://www.wikidata.org/wiki/Q21021622
+LIBSRC-LIB34-ENT-GEO-0315991,descriptive_identity,male given name,https://www.wikidata.org/wiki/Q21021622
+LIBSRC-LIB34-ENT-GEO-0318301,place_identity,city in the United States,https://www.wikidata.org/wiki/Q54145
+LIBSRC-LIB34-ENT-GEO-0318301,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q54145
+LIBSRC-LIB34-ENT-GEO-0318301,descriptive_identity,"city in Middlesex County, Massachusetts, United States",https://www.wikidata.org/wiki/Q54145
+LIBSRC-LIB34-ENT-GEO-0318301,geometry_with_crs,Point(-71.106666666 42.418333333),https://www.wikidata.org/wiki/Q54145
+LIBSRC-LIB34-ENT-GEO-0318301,elevation,4000.0,https://www.wikidata.org/wiki/Q54145
+LIBSRC-LIB34-ENT-GEO-0318301,location,United States,https://www.wikidata.org/wiki/Q54145
+LIBSRC-LIB34-ENT-GEO-0318301,location,Middlesex County,https://www.wikidata.org/wiki/Q54145
+LIBSRC-LIB34-ENT-GEO-0321381,place_identity,biomolecule,https://www.wikidata.org/wiki/Q318367
+LIBSRC-LIB34-ENT-GEO-0321381,descriptive_identity,biomolecule,https://www.wikidata.org/wiki/Q318367
+LIBSRC-LIB34-ENT-GEO-0321381,descriptive_identity,resin traditionally obtained from the mastic tree on the island of Chios,https://www.wikidata.org/wiki/Q318367
+LIBSRC-LIB34-ENT-GEO-0321381,place_identity,crude drug,https://www.wikidata.org/wiki/Q318367
+LIBSRC-LIB34-ENT-GEO-0321381,descriptive_identity,crude drug,https://www.wikidata.org/wiki/Q318367
+LIBSRC-LIB34-ENT-GEO-0321381,place_identity,plant resin,https://www.wikidata.org/wiki/Q318367
+LIBSRC-LIB34-ENT-GEO-0321381,descriptive_identity,plant resin,https://www.wikidata.org/wiki/Q318367
+LIBSRC-LIB34-ENT-GEO-0321381,place_identity,herbal medicinal product,https://www.wikidata.org/wiki/Q318367
+LIBSRC-LIB34-ENT-GEO-0321381,descriptive_identity,herbal medicinal product,https://www.wikidata.org/wiki/Q318367
+LIBSRC-LIB34-ENT-GEO-0322151,place_identity,river,https://www.wikidata.org/wiki/Q5162127
+LIBSRC-LIB34-ENT-GEO-0322151,descriptive_identity,river,https://www.wikidata.org/wiki/Q5162127
+LIBSRC-LIB34-ENT-GEO-0322151,descriptive_identity,"creek in Pennsylvania, United States",https://www.wikidata.org/wiki/Q5162127
+LIBSRC-LIB34-ENT-GEO-0322151,geometry_with_crs,Point(-76.913611111 40.271388888),https://www.wikidata.org/wiki/Q5162127
+LIBSRC-LIB34-ENT-GEO-0322151,location,Pennsylvania,https://www.wikidata.org/wiki/Q5162127
+LIBSRC-LIB34-ENT-GEO-0322151,location,United States,https://www.wikidata.org/wiki/Q5162127
+LIBSRC-LIB34-ENT-GEO-0328211,place_identity,unisex given name,https://www.wikidata.org/wiki/Q3740805
+LIBSRC-LIB34-ENT-GEO-0328211,descriptive_identity,unisex given name,https://www.wikidata.org/wiki/Q3740805
+LIBSRC-LIB34-ENT-GEO-0328211,descriptive_identity,female given name,https://www.wikidata.org/wiki/Q3740805
+LIBSRC-LIB35-ENT-GAZ-2519617,place_identity,neighborhood,https://www.wikidata.org/wiki/Q123295096
+LIBSRC-LIB35-ENT-GAZ-2519617,descriptive_identity,neighborhood,https://www.wikidata.org/wiki/Q123295096
+LIBSRC-LIB35-ENT-GAZ-2519617,descriptive_identity,"district of Savigny, Auvergne-Rhône-Alpes",https://www.wikidata.org/wiki/Q123295096
+LIBSRC-LIB35-ENT-GAZ-2519617,location,Savigny,https://www.wikidata.org/wiki/Q123295096
+LIBSRC-LIB35-ENT-GAZ-2519617,location,France,https://www.wikidata.org/wiki/Q123295096
+LIBSRC-LIB35-ENT-GAZ-2520419,place_identity,impact crater,https://www.wikidata.org/wiki/Q64101996
+LIBSRC-LIB35-ENT-GAZ-2520419,descriptive_identity,impact crater,https://www.wikidata.org/wiki/Q64101996
+LIBSRC-LIB35-ENT-GAZ-2520419,descriptive_identity,"impact crater in Quebec, Canada",https://www.wikidata.org/wiki/Q64101996
+LIBSRC-LIB35-ENT-GAZ-2520419,geometry_with_crs,Point(-66.592794 57.433967),https://www.wikidata.org/wiki/Q64101996
+LIBSRC-LIB35-ENT-GAZ-2520419,location,Canada,https://www.wikidata.org/wiki/Q64101996
+LIBSRC-LIB35-ENT-GAZ-2520419,historical_name,Lac La Moinerie,https://www.wikidata.org/wiki/Q64101996
+LIBSRC-LIB35-ENT-GAZ-2520419,location,Nord-du-Québec,https://www.wikidata.org/wiki/Q64101996
+LIBSRC-LIB35-ENT-GAZ-2526038,place_identity,human,https://www.wikidata.org/wiki/Q3389775
+LIBSRC-LIB35-ENT-GAZ-2526038,descriptive_identity,human,https://www.wikidata.org/wiki/Q3389775
+LIBSRC-LIB35-ENT-GAZ-2526038,descriptive_identity,French comics writer,https://www.wikidata.org/wiki/Q3389775
+LIBSRC-LIB35-ENT-GAZ-2530029,place_identity,commune of France,https://www.wikidata.org/wiki/Q535885
+LIBSRC-LIB35-ENT-GAZ-2530029,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q535885
+LIBSRC-LIB35-ENT-GAZ-2530029,descriptive_identity,"commune in Mayenne, France",https://www.wikidata.org/wiki/Q535885
+LIBSRC-LIB35-ENT-GAZ-2530029,geometry_with_crs,Point(-0.969722222 48.164444444),https://www.wikidata.org/wiki/Q535885
+LIBSRC-LIB35-ENT-GAZ-2530029,elevation,158000.0,https://www.wikidata.org/wiki/Q535885
+LIBSRC-LIB35-ENT-GAZ-2530029,location,France,https://www.wikidata.org/wiki/Q535885
+LIBSRC-LIB35-ENT-GAZ-2530029,elevation,201000.0,https://www.wikidata.org/wiki/Q535885
+LIBSRC-LIB35-ENT-GAZ-2530029,elevation,110000.0,https://www.wikidata.org/wiki/Q535885
+LIBSRC-LIB35-ENT-GAZ-2530029,location,arrondissement of Laval,https://www.wikidata.org/wiki/Q535885
+LIBSRC-LIB35-ENT-GAZ-2530029,location,Mayenne,https://www.wikidata.org/wiki/Q535885
+LIBSRC-LIB35-ENT-GAZ-2531611,place_identity,commune of France,https://www.wikidata.org/wiki/Q545833
+LIBSRC-LIB35-ENT-GAZ-2531611,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q545833
+LIBSRC-LIB35-ENT-GAZ-2531611,descriptive_identity,"commune in Gard, France",https://www.wikidata.org/wiki/Q545833
+LIBSRC-LIB35-ENT-GAZ-2531611,geometry_with_crs,Point(4.24621 43.8057),https://www.wikidata.org/wiki/Q545833
+LIBSRC-LIB35-ENT-GAZ-2531611,elevation,165000.0,https://www.wikidata.org/wiki/Q545833
+LIBSRC-LIB35-ENT-GAZ-2531611,location,France,https://www.wikidata.org/wiki/Q545833
+LIBSRC-LIB35-ENT-GAZ-2531611,elevation,48000.0,https://www.wikidata.org/wiki/Q545833
+LIBSRC-LIB35-ENT-GAZ-2531611,elevation,90000.0,https://www.wikidata.org/wiki/Q545833
+LIBSRC-LIB35-ENT-GAZ-2531611,location,canton of Sommières,https://www.wikidata.org/wiki/Q545833
+LIBSRC-LIB35-ENT-GAZ-2531611,location,arrondissement of Nîmes,https://www.wikidata.org/wiki/Q545833
+LIBSRC-LIB35-ENT-GAZ-2531611,location,Gard,https://www.wikidata.org/wiki/Q545833
+LIBSRC-LIB34-ENT-GEO-0000121,place_identity,island,https://www.wikidata.org/wiki/Q21738078
+LIBSRC-LIB34-ENT-GEO-0000121,descriptive_identity,island,https://www.wikidata.org/wiki/Q21738078
+LIBSRC-LIB34-ENT-GEO-0000121,descriptive_identity,island in United Arab Emirates,https://www.wikidata.org/wiki/Q21738078
+LIBSRC-LIB34-ENT-GEO-0000121,geometry_with_crs,Point(51.659166666 24.305555555),https://www.wikidata.org/wiki/Q21738078
+LIBSRC-LIB34-ENT-GEO-0000121,elevation,15000.0,https://www.wikidata.org/wiki/Q21738078
+LIBSRC-LIB34-ENT-GEO-0000121,location,Emirate of Abu Dhabi,https://www.wikidata.org/wiki/Q21738078
+LIBSRC-LIB34-ENT-GEO-0000121,location,United Arab Emirates,https://www.wikidata.org/wiki/Q21738078
+LIBSRC-LIB34-ENT-GEO-0210711,place_identity,organization,https://www.wikidata.org/wiki/Q217793
+LIBSRC-LIB34-ENT-GEO-0210711,descriptive_identity,organization,https://www.wikidata.org/wiki/Q217793
+LIBSRC-LIB34-ENT-GEO-0210711,descriptive_identity,"municipality in Vestland, Norway",https://www.wikidata.org/wiki/Q217793
+LIBSRC-LIB34-ENT-GEO-0210711,geometry_with_crs,Point(5.119444444 61.024166666),https://www.wikidata.org/wiki/Q217793
+LIBSRC-LIB34-ENT-GEO-0210711,location,Vestland,https://www.wikidata.org/wiki/Q217793
+LIBSRC-LIB34-ENT-GEO-0210711,place_identity,municipality of Norway,https://www.wikidata.org/wiki/Q217793
+LIBSRC-LIB34-ENT-GEO-0210711,descriptive_identity,municipality of Norway,https://www.wikidata.org/wiki/Q217793
+LIBSRC-LIB34-ENT-GEO-0210711,location,Norway,https://www.wikidata.org/wiki/Q217793
+LIBSRC-LIB34-ENT-GEO-0231501,place_identity,lake,https://www.wikidata.org/wiki/Q19906890
+LIBSRC-LIB34-ENT-GEO-0231501,descriptive_identity,lake,https://www.wikidata.org/wiki/Q19906890
+LIBSRC-LIB34-ENT-GEO-0231501,descriptive_identity,"lake in Tuva, Russia",https://www.wikidata.org/wiki/Q19906890
+LIBSRC-LIB34-ENT-GEO-0231501,geometry_with_crs,Point(97.15138889 52.75888889),https://www.wikidata.org/wiki/Q19906890
+LIBSRC-LIB34-ENT-GEO-0231501,location,Russia,https://www.wikidata.org/wiki/Q19906890
+LIBSRC-LIB34-ENT-GEO-0231501,location,Tuva,https://www.wikidata.org/wiki/Q19906890
+LIBSRC-LIB35-ENT-GAZ-2532409,place_identity,commune of France,https://www.wikidata.org/wiki/Q1152950
+LIBSRC-LIB35-ENT-GAZ-2532409,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q1152950
+LIBSRC-LIB35-ENT-GAZ-2532409,descriptive_identity,"commune in Aveyron, France",https://www.wikidata.org/wiki/Q1152950
+LIBSRC-LIB35-ENT-GAZ-2532409,geometry_with_crs,Point(2.031944444 44.437222222),https://www.wikidata.org/wiki/Q1152950
+LIBSRC-LIB35-ENT-GAZ-2532409,elevation,369000.0,https://www.wikidata.org/wiki/Q1152950
+LIBSRC-LIB35-ENT-GAZ-2532409,location,France,https://www.wikidata.org/wiki/Q1152950
+LIBSRC-LIB35-ENT-GAZ-2532409,elevation,295000.0,https://www.wikidata.org/wiki/Q1152950
+LIBSRC-LIB35-ENT-GAZ-2532409,elevation,505000.0,https://www.wikidata.org/wiki/Q1152950
+LIBSRC-LIB35-ENT-GAZ-2532409,location,canton of Villeneuve,https://www.wikidata.org/wiki/Q1152950
+LIBSRC-LIB35-ENT-GAZ-2532409,location,arrondissement of Villefranche-de-Rouergue,https://www.wikidata.org/wiki/Q1152950
+LIBSRC-LIB35-ENT-GAZ-2532409,location,Aveyron,https://www.wikidata.org/wiki/Q1152950
+LIBSRC-LIB34-ENT-GEO-0051861,place_identity,commune of Chile,https://www.wikidata.org/wiki/Q13079
+LIBSRC-LIB34-ENT-GEO-0051861,descriptive_identity,commune of Chile,https://www.wikidata.org/wiki/Q13079
+LIBSRC-LIB34-ENT-GEO-0051861,descriptive_identity,Pueblo de piedras blancas,https://www.wikidata.org/wiki/Q13079
+LIBSRC-LIB34-ENT-GEO-0051861,geometry_with_crs,Point(-72.9384 -36.9759),https://www.wikidata.org/wiki/Q13079
+LIBSRC-LIB34-ENT-GEO-0051861,elevation,39000.0,https://www.wikidata.org/wiki/Q13079
+LIBSRC-LIB34-ENT-GEO-0051861,location,Chile,https://www.wikidata.org/wiki/Q13079
+LIBSRC-LIB34-ENT-GEO-0051861,place_identity,city in Chile,https://www.wikidata.org/wiki/Q13079
+LIBSRC-LIB34-ENT-GEO-0051861,descriptive_identity,city in Chile,https://www.wikidata.org/wiki/Q13079
+LIBSRC-LIB34-ENT-GEO-0051861,location,Concepción Province,https://www.wikidata.org/wiki/Q13079
+LIBSRC-LIB34-ENT-GEO-0051091,place_identity,glacier,https://www.wikidata.org/wiki/Q141686174
+LIBSRC-LIB34-ENT-GEO-0051091,descriptive_identity,glacier,https://www.wikidata.org/wiki/Q141686174
+LIBSRC-LIB34-ENT-GEO-0051091,descriptive_identity,"glacier in the canton of Valais, Switzerland",https://www.wikidata.org/wiki/Q141686174
+LIBSRC-LIB34-ENT-GEO-0051091,geometry_with_crs,Point(7.86637 46.052),https://www.wikidata.org/wiki/Q141686174
+LIBSRC-LIB34-ENT-GEO-0051091,location,Switzerland,https://www.wikidata.org/wiki/Q141686174
+LIBSRC-LIB34-ENT-GEO-0011051,place_identity,taxon,https://www.wikidata.org/wiki/Q161105
+LIBSRC-LIB34-ENT-GEO-0011051,descriptive_identity,taxon,https://www.wikidata.org/wiki/Q161105
+LIBSRC-LIB34-ENT-GEO-0011051,descriptive_identity,species of plant,https://www.wikidata.org/wiki/Q161105
+LIBSRC-LIB34-ENT-GEO-0011051,place_identity,medicinal plant,https://www.wikidata.org/wiki/Q161105
+LIBSRC-LIB34-ENT-GEO-0011051,descriptive_identity,medicinal plant,https://www.wikidata.org/wiki/Q161105
+LIBSRC-LIB35-ENT-GAZ-2528194,place_identity,single entity of population,https://www.wikidata.org/wiki/Q11905178
+LIBSRC-LIB35-ENT-GAZ-2528194,descriptive_identity,single entity of population,https://www.wikidata.org/wiki/Q11905178
+LIBSRC-LIB35-ENT-GAZ-2528194,descriptive_identity,"human settlement in Bassella, Alt Urgell, Lleida Province, Spain",https://www.wikidata.org/wiki/Q11905178
+LIBSRC-LIB35-ENT-GAZ-2528194,geometry_with_crs,Point(1.31923 42.0191),https://www.wikidata.org/wiki/Q11905178
+LIBSRC-LIB35-ENT-GAZ-2528194,elevation,481000.0,https://www.wikidata.org/wiki/Q11905178
+LIBSRC-LIB35-ENT-GAZ-2528194,location,Spain,https://www.wikidata.org/wiki/Q11905178
+LIBSRC-LIB35-ENT-GAZ-2528194,place_identity,Catalan historical locality,https://www.wikidata.org/wiki/Q11905178
+LIBSRC-LIB35-ENT-GAZ-2528194,descriptive_identity,Catalan historical locality,https://www.wikidata.org/wiki/Q11905178
+LIBSRC-LIB35-ENT-GAZ-2528194,location,Bassella,https://www.wikidata.org/wiki/Q11905178
+LIBSRC-LIB35-ENT-GAZ-2510205,place_identity,mountain,https://www.wikidata.org/wiki/Q31670455
+LIBSRC-LIB35-ENT-GAZ-2510205,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q31670455
+LIBSRC-LIB35-ENT-GAZ-2510205,descriptive_identity,mountain in France,https://www.wikidata.org/wiki/Q31670455
+LIBSRC-LIB35-ENT-GAZ-2510205,geometry_with_crs,Point(2.67311 45.12481),https://www.wikidata.org/wiki/Q31670455
+LIBSRC-LIB35-ENT-GAZ-2510205,elevation,1704000.0,https://www.wikidata.org/wiki/Q31670455
+LIBSRC-LIB35-ENT-GAZ-2510205,location,France,https://www.wikidata.org/wiki/Q31670455
+CAT19_REG_01_ERA_03_1994_khawr_al_bigh_l_ent_geo_0000101,place_identity,bay,https://www.wikidata.org/wiki/Q21735169
+CAT19_REG_01_ERA_03_1994_khawr_al_bigh_l_ent_geo_0000101,descriptive_identity,bay,https://www.wikidata.org/wiki/Q21735169
+CAT19_REG_01_ERA_03_1994_khawr_al_bigh_l_ent_geo_0000101,descriptive_identity,bay in United Arab Emirates,https://www.wikidata.org/wiki/Q21735169
+CAT19_REG_01_ERA_03_1994_khawr_al_bigh_l_ent_geo_0000101,geometry_with_crs,Point(54.434444444 24.476944444),https://www.wikidata.org/wiki/Q21735169
+CAT19_REG_01_ERA_03_1994_khawr_al_bigh_l_ent_geo_0000101,elevation,1000.0,https://www.wikidata.org/wiki/Q21735169
+CAT19_REG_01_ERA_03_1994_khawr_al_bigh_l_ent_geo_0000101,location,United Arab Emirates,https://www.wikidata.org/wiki/Q21735169
+CAT19_REG_01_ERA_03_1994_khawr_al_bigh_l_ent_geo_0000101,location,Emirate of Abu Dhabi,https://www.wikidata.org/wiki/Q21735169
+LIBSRC-LIB35-ENT-GAZ-2532960,place_identity,commune of France,https://www.wikidata.org/wiki/Q605612
+LIBSRC-LIB35-ENT-GAZ-2532960,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q605612
+LIBSRC-LIB35-ENT-GAZ-2532960,descriptive_identity,"commune in Pas-de-Calais, France",https://www.wikidata.org/wiki/Q605612
+LIBSRC-LIB35-ENT-GAZ-2532960,geometry_with_crs,Point(2.143333333 50.448055555),https://www.wikidata.org/wiki/Q605612
+LIBSRC-LIB35-ENT-GAZ-2532960,elevation,131000.0,https://www.wikidata.org/wiki/Q605612
+LIBSRC-LIB35-ENT-GAZ-2532960,location,arrondissement of Montreuil,https://www.wikidata.org/wiki/Q605612
+LIBSRC-LIB35-ENT-GAZ-2532960,location,arrondissement of Arras,https://www.wikidata.org/wiki/Q605612
+LIBSRC-LIB35-ENT-GAZ-2532960,location,canton of Le Parcq,https://www.wikidata.org/wiki/Q605612
+LIBSRC-LIB35-ENT-GAZ-2532960,location,Pas-de-Calais,https://www.wikidata.org/wiki/Q605612
+LIBSRC-LIB35-ENT-GAZ-2532960,elevation,119000.0,https://www.wikidata.org/wiki/Q605612
+LIBSRC-LIB35-ENT-GAZ-2532960,elevation,87000.0,https://www.wikidata.org/wiki/Q605612
+LIBSRC-LIB35-ENT-GAZ-2532960,location,France,https://www.wikidata.org/wiki/Q605612
+LIBSRC-LIB35-ENT-GAZ-2515855,place_identity,family name,https://www.wikidata.org/wiki/Q21431205
+LIBSRC-LIB35-ENT-GAZ-2515855,descriptive_identity,family name,https://www.wikidata.org/wiki/Q21431205
+LIBSRC-LIB34-ENT-GEO-0334141,place_identity,waterfall,https://www.wikidata.org/wiki/Q49091592
+LIBSRC-LIB34-ENT-GEO-0334141,descriptive_identity,waterfall,https://www.wikidata.org/wiki/Q49091592
+LIBSRC-LIB34-ENT-GEO-0334141,descriptive_identity,"waterfall in Marin County, California, United States",https://www.wikidata.org/wiki/Q49091592
+LIBSRC-LIB34-ENT-GEO-0334141,geometry_with_crs,Point(-122.64457 37.97),https://www.wikidata.org/wiki/Q49091592
+LIBSRC-LIB34-ENT-GEO-0334141,location,United States,https://www.wikidata.org/wiki/Q49091592
+LIBSRC-LIB34-ENT-GEO-0334141,location,Marin County,https://www.wikidata.org/wiki/Q49091592
+LIBSRC-LIB34-ENT-GEO-0310371,place_identity,country,https://www.wikidata.org/wiki/Q419
+LIBSRC-LIB34-ENT-GEO-0310371,descriptive_identity,country,https://www.wikidata.org/wiki/Q419
+LIBSRC-LIB34-ENT-GEO-0310371,descriptive_identity,sovereign state in South America,https://www.wikidata.org/wiki/Q419
+LIBSRC-LIB34-ENT-GEO-0310371,geometry_with_crs,Point(-76.0 -9.4),https://www.wikidata.org/wiki/Q419
+LIBSRC-LIB34-ENT-GEO-0310371,location,Peru,https://www.wikidata.org/wiki/Q419
+LIBSRC-LIB34-ENT-GEO-0310371,place_identity,sovereign state,https://www.wikidata.org/wiki/Q419
+LIBSRC-LIB34-ENT-GEO-0310371,descriptive_identity,sovereign state,https://www.wikidata.org/wiki/Q419
+LIBSRC-LIB34-ENT-GEO-0011591,place_identity,river,https://www.wikidata.org/wiki/Q21763816
+LIBSRC-LIB34-ENT-GEO-0011591,descriptive_identity,river,https://www.wikidata.org/wiki/Q21763816
+LIBSRC-LIB34-ENT-GEO-0011591,descriptive_identity,river in Afghanistan,https://www.wikidata.org/wiki/Q21763816
+LIBSRC-LIB34-ENT-GEO-0011591,geometry_with_crs,Point(63.526388888 35.745),https://www.wikidata.org/wiki/Q21763816
+LIBSRC-LIB34-ENT-GEO-0011591,location,Afghanistan,https://www.wikidata.org/wiki/Q21763816
+LIBSRC-LIB34-ENT-GEO-0011591,location,Badghis Province,https://www.wikidata.org/wiki/Q21763816
+LIBSRC-LIB34-ENT-GEO-0330291,place_identity,city in the United States,https://www.wikidata.org/wiki/Q79429
+LIBSRC-LIB34-ENT-GEO-0330291,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q79429
+LIBSRC-LIB34-ENT-GEO-0330291,descriptive_identity,"city in the Kodiak Island Borough, Alaska, United States",https://www.wikidata.org/wiki/Q79429
+LIBSRC-LIB34-ENT-GEO-0330291,geometry_with_crs,Point(-152.88 57.868055555),https://www.wikidata.org/wiki/Q79429
+LIBSRC-LIB34-ENT-GEO-0330291,elevation,30000.0,https://www.wikidata.org/wiki/Q79429
+LIBSRC-LIB34-ENT-GEO-0330291,location,United States,https://www.wikidata.org/wiki/Q79429
+LIBSRC-LIB34-ENT-GEO-0330291,location,Kodiak Island Borough,https://www.wikidata.org/wiki/Q79429
+LIBSRC-LIB34-ENT-GEO-0015441,place_identity,mountain,https://www.wikidata.org/wiki/Q21776554
+LIBSRC-LIB34-ENT-GEO-0015441,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q21776554
+LIBSRC-LIB34-ENT-GEO-0015441,descriptive_identity,mountain in Afghanistan,https://www.wikidata.org/wiki/Q21776554
+LIBSRC-LIB34-ENT-GEO-0015441,geometry_with_crs,Point(69.652222222 35.416388888),https://www.wikidata.org/wiki/Q21776554
+LIBSRC-LIB34-ENT-GEO-0015441,elevation,3661000.0,https://www.wikidata.org/wiki/Q21776554
+LIBSRC-LIB34-ENT-GEO-0015441,location,Panjshir Province,https://www.wikidata.org/wiki/Q21776554
+LIBSRC-LIB34-ENT-GEO-0015441,location,Afghanistan,https://www.wikidata.org/wiki/Q21776554
+LIBSRC-LIB34-ENT-GEO-0013901,place_identity,mountain,https://www.wikidata.org/wiki/Q21770715
+LIBSRC-LIB34-ENT-GEO-0013901,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q21770715
+LIBSRC-LIB34-ENT-GEO-0013901,descriptive_identity,mountain in Afghanistan,https://www.wikidata.org/wiki/Q21770715
+LIBSRC-LIB34-ENT-GEO-0013901,geometry_with_crs,Point(69.4281 35.3209),https://www.wikidata.org/wiki/Q21770715
+LIBSRC-LIB34-ENT-GEO-0013901,location,Afghanistan,https://www.wikidata.org/wiki/Q21770715
+LIBSRC-LIB34-ENT-GEO-0013901,location,Panjshir Province,https://www.wikidata.org/wiki/Q21770715
+LIBSRC-LIB35-ENT-GAZ-2519378,place_identity,commune of France,https://www.wikidata.org/wiki/Q1096204
+LIBSRC-LIB35-ENT-GAZ-2519378,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q1096204
+LIBSRC-LIB35-ENT-GAZ-2519378,descriptive_identity,"commune in Loir-et-Cher, France",https://www.wikidata.org/wiki/Q1096204
+LIBSRC-LIB35-ENT-GAZ-2519378,geometry_with_crs,Point(0.776944444 47.715277777),https://www.wikidata.org/wiki/Q1096204
+LIBSRC-LIB35-ENT-GAZ-2519378,elevation,93000.0,https://www.wikidata.org/wiki/Q1096204
+LIBSRC-LIB35-ENT-GAZ-2519378,location,Arrondissement of Vendôme,https://www.wikidata.org/wiki/Q1096204
+LIBSRC-LIB35-ENT-GAZ-2519378,location,Loir-et-Cher,https://www.wikidata.org/wiki/Q1096204
+LIBSRC-LIB35-ENT-GAZ-2519378,elevation,144000.0,https://www.wikidata.org/wiki/Q1096204
+LIBSRC-LIB35-ENT-GAZ-2519378,elevation,136000.0,https://www.wikidata.org/wiki/Q1096204
+LIBSRC-LIB35-ENT-GAZ-2519378,elevation,156000.0,https://www.wikidata.org/wiki/Q1096204
+LIBSRC-LIB35-ENT-GAZ-2519378,location,France,https://www.wikidata.org/wiki/Q1096204
+LIBSRC-LIB34-ENT-GEO-0020061,place_identity,river,https://www.wikidata.org/wiki/Q21802288
+LIBSRC-LIB34-ENT-GEO-0020061,descriptive_identity,river,https://www.wikidata.org/wiki/Q21802288
+LIBSRC-LIB34-ENT-GEO-0020061,descriptive_identity,river in Afghanistan,https://www.wikidata.org/wiki/Q21802288
+LIBSRC-LIB34-ENT-GEO-0020061,geometry_with_crs,Point(68.228055555 34.884444444),https://www.wikidata.org/wiki/Q21802288
+LIBSRC-LIB34-ENT-GEO-0020061,location,Bamyan Province,https://www.wikidata.org/wiki/Q21802288
+LIBSRC-LIB34-ENT-GEO-0020061,location,Afghanistan,https://www.wikidata.org/wiki/Q21802288
+LIBSRC-LIB34-ENT-GEO-0016981,place_identity,mountain,https://www.wikidata.org/wiki/Q21781193
+LIBSRC-LIB34-ENT-GEO-0016981,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q21781193
+LIBSRC-LIB34-ENT-GEO-0016981,descriptive_identity,mountain in Afghanistan,https://www.wikidata.org/wiki/Q21781193
+LIBSRC-LIB34-ENT-GEO-0016981,geometry_with_crs,Point(67.62344 33.86299),https://www.wikidata.org/wiki/Q21781193
+LIBSRC-LIB34-ENT-GEO-0016981,elevation,3564000.0,https://www.wikidata.org/wiki/Q21781193
+LIBSRC-LIB34-ENT-GEO-0016981,location,Ghazni Province,https://www.wikidata.org/wiki/Q21781193
+LIBSRC-LIB34-ENT-GEO-0016981,location,Afghanistan,https://www.wikidata.org/wiki/Q21781193
+LIBSRC-LIB34-ENT-GEO-0023911,place_identity,river,https://www.wikidata.org/wiki/Q21820827
+LIBSRC-LIB34-ENT-GEO-0023911,descriptive_identity,river,https://www.wikidata.org/wiki/Q21820827
+LIBSRC-LIB34-ENT-GEO-0023911,descriptive_identity,river in Afghanistan,https://www.wikidata.org/wiki/Q21820827
+LIBSRC-LIB34-ENT-GEO-0023911,geometry_with_crs,Point(66.836666666 36.491388888),https://www.wikidata.org/wiki/Q21820827
+LIBSRC-LIB34-ENT-GEO-0023911,location,Afghanistan,https://www.wikidata.org/wiki/Q21820827
+LIBSRC-LIB34-ENT-GEO-0023911,location,Balkh Province,https://www.wikidata.org/wiki/Q21820827
+LIBSRC-LIB34-ENT-GEO-0034691,place_identity,Antarctic research station,https://www.wikidata.org/wiki/Q3235369
+LIBSRC-LIB34-ENT-GEO-0034691,descriptive_identity,Antarctic research station,https://www.wikidata.org/wiki/Q3235369
+LIBSRC-LIB34-ENT-GEO-0034691,descriptive_identity,Chinese research station in Antarctica,https://www.wikidata.org/wiki/Q3235369
+LIBSRC-LIB34-ENT-GEO-0034691,geometry_with_crs,Point(77.1159973 -80.41718972),https://www.wikidata.org/wiki/Q3235369
+LIBSRC-LIB34-ENT-GEO-0034691,elevation,4093000.0,https://www.wikidata.org/wiki/Q3235369
+LIBSRC-LIB34-ENT-GEO-0034691,location,Antarctic Treaty area,https://www.wikidata.org/wiki/Q3235369
+LIBSRC-LIB34-ENT-GEO-0034691,location,Australian Antarctic Territory,https://www.wikidata.org/wiki/Q3235369
+LIBSRC-LIB35-ENT-GAZ-2523394,place_identity,bay,https://www.wikidata.org/wiki/Q2879682
+LIBSRC-LIB35-ENT-GAZ-2523394,descriptive_identity,bay,https://www.wikidata.org/wiki/Q2879682
+LIBSRC-LIB35-ENT-GAZ-2523394,descriptive_identity,"bay to the south of Assérac and Pénestin, France",https://www.wikidata.org/wiki/Q2879682
+LIBSRC-LIB35-ENT-GAZ-2523394,geometry_with_crs,Point(-2.46085 47.44034),https://www.wikidata.org/wiki/Q2879682
+LIBSRC-LIB35-ENT-GAZ-2523394,location,France,https://www.wikidata.org/wiki/Q2879682
+LIBSRC-LIB34-ENT-GEO-0022371,place_identity,mountain,https://www.wikidata.org/wiki/Q21811908
+LIBSRC-LIB34-ENT-GEO-0022371,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q21811908
+LIBSRC-LIB34-ENT-GEO-0022371,descriptive_identity,mountain in Afghanistan,https://www.wikidata.org/wiki/Q21811908
+LIBSRC-LIB34-ENT-GEO-0022371,geometry_with_crs,Point(64.248333333 34.355277777),https://www.wikidata.org/wiki/Q21811908
+LIBSRC-LIB34-ENT-GEO-0022371,location,Ghor Province,https://www.wikidata.org/wiki/Q21811908
+LIBSRC-LIB34-ENT-GEO-0022371,location,Afghanistan,https://www.wikidata.org/wiki/Q21811908
+LIBSRC-LIB34-ENT-GEO-0038541,place_identity,human settlement,https://www.wikidata.org/wiki/Q4617318
+LIBSRC-LIB34-ENT-GEO-0038541,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q4617318
+LIBSRC-LIB34-ENT-GEO-0038541,descriptive_identity,village in Azerbaijan,https://www.wikidata.org/wiki/Q4617318
+LIBSRC-LIB34-ENT-GEO-0038541,geometry_with_crs,Point(45.415876052 41.17289547),https://www.wikidata.org/wiki/Q4617318
+LIBSRC-LIB34-ENT-GEO-0038541,elevation,319000.0,https://www.wikidata.org/wiki/Q4617318
+LIBSRC-LIB34-ENT-GEO-0038541,location,Azerbaijan,https://www.wikidata.org/wiki/Q4617318
+LIBSRC-LIB34-ENT-GEO-0038541,location,Aghstafa District,https://www.wikidata.org/wiki/Q4617318
+LIBSRC-LIB34-ENT-GEO-0039311,place_identity,human settlement,https://www.wikidata.org/wiki/Q4914888
+LIBSRC-LIB34-ENT-GEO-0039311,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q4914888
+LIBSRC-LIB34-ENT-GEO-0039311,descriptive_identity,human settlement in Azerbaijan,https://www.wikidata.org/wiki/Q4914888
+LIBSRC-LIB34-ENT-GEO-0039311,geometry_with_crs,Point(48.514118797 40.06570253),https://www.wikidata.org/wiki/Q4914888
+LIBSRC-LIB34-ENT-GEO-0039311,location,Azerbaijan,https://www.wikidata.org/wiki/Q4914888
+LIBSRC-LIB34-ENT-GEO-0039311,location,Sabirabad District,https://www.wikidata.org/wiki/Q4914888
+LIBSRC-LIB34-ENT-GEO-0043161,place_identity,waterfall,https://www.wikidata.org/wiki/Q22011523
+LIBSRC-LIB34-ENT-GEO-0043161,descriptive_identity,waterfall,https://www.wikidata.org/wiki/Q22011523
+LIBSRC-LIB34-ENT-GEO-0043161,geometry_with_crs,Point(-52.89179 2.21481),https://www.wikidata.org/wiki/Q22011523
+LIBSRC-LIB34-ENT-GEO-0043161,elevation,128000.0,https://www.wikidata.org/wiki/Q22011523
+LIBSRC-LIB34-ENT-GEO-0043161,location,Brazil,https://www.wikidata.org/wiki/Q22011523
+LIBSRC-LIB34-ENT-GEO-0033921,place_identity,glacier,https://www.wikidata.org/wiki/Q5273660
+LIBSRC-LIB34-ENT-GEO-0033921,descriptive_identity,glacier,https://www.wikidata.org/wiki/Q5273660
+LIBSRC-LIB34-ENT-GEO-0033921,descriptive_identity,glacier in Antarctica,https://www.wikidata.org/wiki/Q5273660
+LIBSRC-LIB34-ENT-GEO-0033921,geometry_with_crs,Point(161.0 -81.5833),https://www.wikidata.org/wiki/Q5273660
+LIBSRC-LIB34-ENT-GEO-0033921,location,Antarctic Treaty area,https://www.wikidata.org/wiki/Q5273660
+LIBSRC-LIB34-ENT-GEO-0041621,place_identity,municipality seat,https://www.wikidata.org/wiki/Q406631
+LIBSRC-LIB34-ENT-GEO-0041621,descriptive_identity,municipality seat,https://www.wikidata.org/wiki/Q406631
+LIBSRC-LIB34-ENT-GEO-0041621,descriptive_identity,"city in Belitsa municipality, Blagoevgrad oblast, Bulgaria",https://www.wikidata.org/wiki/Q406631
+LIBSRC-LIB34-ENT-GEO-0041621,geometry_with_crs,Point(23.562883 41.947846),https://www.wikidata.org/wiki/Q406631
+LIBSRC-LIB34-ENT-GEO-0041621,elevation,953000.0,https://www.wikidata.org/wiki/Q406631
+LIBSRC-LIB34-ENT-GEO-0041621,location,Belitsa,https://www.wikidata.org/wiki/Q406631
+LIBSRC-LIB34-ENT-GEO-0041621,place_identity,city in Bulgaria,https://www.wikidata.org/wiki/Q406631
+LIBSRC-LIB34-ENT-GEO-0041621,descriptive_identity,city in Bulgaria,https://www.wikidata.org/wiki/Q406631
+LIBSRC-LIB34-ENT-GEO-0041621,location,Bulgaria,https://www.wikidata.org/wiki/Q406631
+LIBSRC-LIB34-ENT-GEO-0334911,place_identity,river,https://www.wikidata.org/wiki/Q1715122
+LIBSRC-LIB34-ENT-GEO-0334911,descriptive_identity,river,https://www.wikidata.org/wiki/Q1715122
+LIBSRC-LIB34-ENT-GEO-0334911,descriptive_identity,"river in Florida Department, Uruguay",https://www.wikidata.org/wiki/Q1715122
+LIBSRC-LIB34-ENT-GEO-0334911,geometry_with_crs,Point(-55.58583 -33.87933),https://www.wikidata.org/wiki/Q1715122
+LIBSRC-LIB34-ENT-GEO-0334911,location,Uruguay,https://www.wikidata.org/wiki/Q1715122
+LIBSRC-LIB34-ENT-GEO-0334911,geometry_with_crs,Point(-56.33942 -34.35242),https://www.wikidata.org/wiki/Q1715122
+LIBSRC-LIB34-ENT-GEO-0334911,location,Florida Department,https://www.wikidata.org/wiki/Q1715122
+LIBSRC-LIB34-ENT-GEO-0047011,place_identity,village,https://www.wikidata.org/wiki/Q4311924
+LIBSRC-LIB34-ENT-GEO-0047011,descriptive_identity,village,https://www.wikidata.org/wiki/Q4311924
+LIBSRC-LIB34-ENT-GEO-0047011,descriptive_identity,"human settlement in Ardatovsky District, Nizhny Novgorod Oblast, Nizhny Novgorod Oblast, Russia",https://www.wikidata.org/wiki/Q4311924
+LIBSRC-LIB34-ENT-GEO-0047011,geometry_with_crs,Point(43.284983333 55.180994444),https://www.wikidata.org/wiki/Q4311924
+LIBSRC-LIB34-ENT-GEO-0047011,elevation,156000.0,https://www.wikidata.org/wiki/Q4311924
+LIBSRC-LIB34-ENT-GEO-0047011,location,Russia,https://www.wikidata.org/wiki/Q4311924
+LIBSRC-LIB34-ENT-GEO-0047011,location,Q20658810,https://www.wikidata.org/wiki/Q4311924
+LIBSRC-LIB34-ENT-GEO-0044701,place_identity,waterfall,https://www.wikidata.org/wiki/Q22044593
+LIBSRC-LIB34-ENT-GEO-0044701,descriptive_identity,waterfall,https://www.wikidata.org/wiki/Q22044593
+LIBSRC-LIB34-ENT-GEO-0044701,geometry_with_crs,Point(-52.55 -14.9),https://www.wikidata.org/wiki/Q22044593
+LIBSRC-LIB34-ENT-GEO-0044701,elevation,544000.0,https://www.wikidata.org/wiki/Q22044593
+LIBSRC-LIB34-ENT-GEO-0044701,location,Brazil,https://www.wikidata.org/wiki/Q22044593
+LIBSRC-LIB34-ENT-GEO-0044701,location,Mato Grosso,https://www.wikidata.org/wiki/Q22044593
+LIBSRC-LIB34-ENT-GEO-0061641,place_identity,urban municipality in Germany,https://www.wikidata.org/wiki/Q11040
+LIBSRC-LIB34-ENT-GEO-0061641,descriptive_identity,urban municipality in Germany,https://www.wikidata.org/wiki/Q11040
+LIBSRC-LIB34-ENT-GEO-0061641,descriptive_identity,"town in Oberbergischer Kreis (district), in North Rhine-Westphalia, Germany",https://www.wikidata.org/wiki/Q11040
+LIBSRC-LIB34-ENT-GEO-0061641,geometry_with_crs,Point(7.615 50.878888888),https://www.wikidata.org/wiki/Q11040
+LIBSRC-LIB34-ENT-GEO-0061641,elevation,286000.0,https://www.wikidata.org/wiki/Q11040
+LIBSRC-LIB34-ENT-GEO-0061641,location,Germany,https://www.wikidata.org/wiki/Q11040
+LIBSRC-LIB34-ENT-GEO-0061641,elevation,311000.0,https://www.wikidata.org/wiki/Q11040
+LIBSRC-LIB34-ENT-GEO-0061641,location,Oberbergischer Kreis,https://www.wikidata.org/wiki/Q11040
+LIBSRC-LIB34-ENT-GEO-0053171,place_identity,county-level city of China,https://www.wikidata.org/wiki/Q699777
+LIBSRC-LIB34-ENT-GEO-0053171,descriptive_identity,county-level city of China,https://www.wikidata.org/wiki/Q699777
+LIBSRC-LIB34-ENT-GEO-0053171,descriptive_identity,county-level city in China,https://www.wikidata.org/wiki/Q699777
+LIBSRC-LIB34-ENT-GEO-0053171,geometry_with_crs,Point(120.96211 28.11883),https://www.wikidata.org/wiki/Q699777
+LIBSRC-LIB34-ENT-GEO-0053171,location,Wenzhou,https://www.wikidata.org/wiki/Q699777
+LIBSRC-LIB34-ENT-GEO-0053171,place_identity,big city,https://www.wikidata.org/wiki/Q699777
+LIBSRC-LIB34-ENT-GEO-0053171,descriptive_identity,big city,https://www.wikidata.org/wiki/Q699777
+LIBSRC-LIB34-ENT-GEO-0053171,location,People's Republic of China,https://www.wikidata.org/wiki/Q699777
+LIBSRC-LIB34-ENT-GEO-0068571,place_identity,family name,https://www.wikidata.org/wiki/Q21488919
+LIBSRC-LIB34-ENT-GEO-0068571,descriptive_identity,family name,https://www.wikidata.org/wiki/Q21488919
+LIBSRC-LIB34-ENT-GEO-0063951,place_identity,market municipality of Germany,https://www.wikidata.org/wiki/Q259289
+LIBSRC-LIB34-ENT-GEO-0063951,descriptive_identity,market municipality of Germany,https://www.wikidata.org/wiki/Q259289
+LIBSRC-LIB34-ENT-GEO-0063951,descriptive_identity,"market municipality in the district of Forchheim, Bavaria, Germany",https://www.wikidata.org/wiki/Q259289
+LIBSRC-LIB34-ENT-GEO-0063951,geometry_with_crs,Point(11.133333333 49.616666666),https://www.wikidata.org/wiki/Q259289
+LIBSRC-LIB34-ENT-GEO-0063951,elevation,317000.0,https://www.wikidata.org/wiki/Q259289
+LIBSRC-LIB34-ENT-GEO-0063951,location,Forchheim District,https://www.wikidata.org/wiki/Q259289
+LIBSRC-LIB34-ENT-GEO-0063951,place_identity,municipality without town privileges in Germany,https://www.wikidata.org/wiki/Q259289
+LIBSRC-LIB34-ENT-GEO-0063951,descriptive_identity,municipality without town privileges in Germany,https://www.wikidata.org/wiki/Q259289
+LIBSRC-LIB34-ENT-GEO-0063951,location,Germany,https://www.wikidata.org/wiki/Q259289
+LIBSRC-LIB34-ENT-GEO-0063181,place_identity,town,https://www.wikidata.org/wiki/Q492503
+LIBSRC-LIB34-ENT-GEO-0063181,descriptive_identity,town,https://www.wikidata.org/wiki/Q492503
+LIBSRC-LIB34-ENT-GEO-0063181,descriptive_identity,"town in Schwalm-Eder-Kreis in Hesse, Germany",https://www.wikidata.org/wiki/Q492503
+LIBSRC-LIB34-ENT-GEO-0063181,geometry_with_crs,Point(9.266666666 51.133333333),https://www.wikidata.org/wiki/Q492503
+LIBSRC-LIB34-ENT-GEO-0063181,elevation,220000.0,https://www.wikidata.org/wiki/Q492503
+LIBSRC-LIB34-ENT-GEO-0063181,location,Germany,https://www.wikidata.org/wiki/Q492503
+LIBSRC-LIB34-ENT-GEO-0063181,place_identity,urban municipality in Germany,https://www.wikidata.org/wiki/Q492503
+LIBSRC-LIB34-ENT-GEO-0063181,descriptive_identity,urban municipality in Germany,https://www.wikidata.org/wiki/Q492503
+LIBSRC-LIB34-ENT-GEO-0063181,location,Schwalm-Eder-Kreis,https://www.wikidata.org/wiki/Q492503
+LIBSRC-LIB34-ENT-GEO-0080891,place_identity,commune of France,https://www.wikidata.org/wiki/Q1062435
+LIBSRC-LIB34-ENT-GEO-0080891,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q1062435
+LIBSRC-LIB34-ENT-GEO-0080891,descriptive_identity,"commune in Charente-Maritime, France",https://www.wikidata.org/wiki/Q1062435
+LIBSRC-LIB34-ENT-GEO-0080891,geometry_with_crs,Point(-0.568055555 45.483055555),https://www.wikidata.org/wiki/Q1062435
+LIBSRC-LIB34-ENT-GEO-0080891,elevation,34000.0,https://www.wikidata.org/wiki/Q1062435
+LIBSRC-LIB34-ENT-GEO-0080891,location,canton of Saint-Genis-de-Saintonge,https://www.wikidata.org/wiki/Q1062435
+LIBSRC-LIB34-ENT-GEO-0080891,location,arrondissement of Jonzac,https://www.wikidata.org/wiki/Q1062435
+LIBSRC-LIB34-ENT-GEO-0080891,location,Charente-Maritime,https://www.wikidata.org/wiki/Q1062435
+LIBSRC-LIB34-ENT-GEO-0080891,elevation,20000.0,https://www.wikidata.org/wiki/Q1062435
+LIBSRC-LIB34-ENT-GEO-0080891,elevation,51000.0,https://www.wikidata.org/wiki/Q1062435
+LIBSRC-LIB34-ENT-GEO-0080891,geometry_with_crs,Point(-0.56848 45.48107),https://www.wikidata.org/wiki/Q1062435
+LIBSRC-LIB34-ENT-GEO-0080891,location,France,https://www.wikidata.org/wiki/Q1062435
+LIBSRC-LIB34-ENT-GEO-0099371,place_identity,village,https://www.wikidata.org/wiki/Q4787823
+LIBSRC-LIB34-ENT-GEO-0099371,descriptive_identity,village,https://www.wikidata.org/wiki/Q4787823
+LIBSRC-LIB34-ENT-GEO-0099371,descriptive_identity,"village in Trikala, Greece",https://www.wikidata.org/wiki/Q4787823
+LIBSRC-LIB34-ENT-GEO-0099371,geometry_with_crs,Point(21.7875 39.630277777),https://www.wikidata.org/wiki/Q4787823
+LIBSRC-LIB34-ENT-GEO-0099371,elevation,192000.0,https://www.wikidata.org/wiki/Q4787823
+LIBSRC-LIB34-ENT-GEO-0099371,location,Greece,https://www.wikidata.org/wiki/Q4787823
+LIBSRC-LIB34-ENT-GEO-0099371,location,Community of Ardani,https://www.wikidata.org/wiki/Q4787823
+LIBSRC-LIB34-ENT-GEO-0099371,location,Trikkaion Municipality,https://www.wikidata.org/wiki/Q4787823
+LIBSRC-LIB34-ENT-GEO-0082431,place_identity,commune of France,https://www.wikidata.org/wiki/Q817681
+LIBSRC-LIB34-ENT-GEO-0082431,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q817681
+LIBSRC-LIB34-ENT-GEO-0082431,descriptive_identity,"commune in Var, France",https://www.wikidata.org/wiki/Q817681
+LIBSRC-LIB34-ENT-GEO-0082431,geometry_with_crs,Point(6.312777777 43.394722222),https://www.wikidata.org/wiki/Q817681
+LIBSRC-LIB34-ENT-GEO-0082431,elevation,186000.0,https://www.wikidata.org/wiki/Q817681
+LIBSRC-LIB34-ENT-GEO-0082431,location,arrondissement of Brignoles,https://www.wikidata.org/wiki/Q817681
+LIBSRC-LIB34-ENT-GEO-0082431,location,arrondissement of Draguignan,https://www.wikidata.org/wiki/Q817681
+LIBSRC-LIB34-ENT-GEO-0082431,location,Var,https://www.wikidata.org/wiki/Q817681
+LIBSRC-LIB34-ENT-GEO-0082431,elevation,400000.0,https://www.wikidata.org/wiki/Q817681
+LIBSRC-LIB34-ENT-GEO-0082431,elevation,150000.0,https://www.wikidata.org/wiki/Q817681
+LIBSRC-LIB34-ENT-GEO-0082431,elevation,79000.0,https://www.wikidata.org/wiki/Q817681
+LIBSRC-LIB34-ENT-GEO-0082431,location,France,https://www.wikidata.org/wiki/Q817681
+LIBSRC-LIB34-ENT-GEO-0071651,place_identity,city,https://www.wikidata.org/wiki/Q29888
+LIBSRC-LIB34-ENT-GEO-0071651,descriptive_identity,city,https://www.wikidata.org/wiki/Q29888
+LIBSRC-LIB34-ENT-GEO-0071651,descriptive_identity,Egyptian city,https://www.wikidata.org/wiki/Q29888
+LIBSRC-LIB34-ENT-GEO-0071651,geometry_with_crs,Point(32.899730555 24.088919444),https://www.wikidata.org/wiki/Q29888
+LIBSRC-LIB34-ENT-GEO-0071651,elevation,99000.0,https://www.wikidata.org/wiki/Q29888
+LIBSRC-LIB34-ENT-GEO-0071651,location,Aswan Governorate,https://www.wikidata.org/wiki/Q29888
+LIBSRC-LIB34-ENT-GEO-0071651,place_identity,big city,https://www.wikidata.org/wiki/Q29888
+LIBSRC-LIB34-ENT-GEO-0071651,descriptive_identity,big city,https://www.wikidata.org/wiki/Q29888
+LIBSRC-LIB34-ENT-GEO-0071651,location,Egypt,https://www.wikidata.org/wiki/Q29888
+LIBSRC-LIB34-ENT-GEO-0081661,place_identity,department of France,https://www.wikidata.org/wiki/Q12679
+LIBSRC-LIB34-ENT-GEO-0081661,descriptive_identity,department of France,https://www.wikidata.org/wiki/Q12679
+LIBSRC-LIB34-ENT-GEO-0081661,descriptive_identity,"department in Normandy, France",https://www.wikidata.org/wiki/Q12679
+LIBSRC-LIB34-ENT-GEO-0081661,geometry_with_crs,Point(0.0 48.7),https://www.wikidata.org/wiki/Q12679
+LIBSRC-LIB34-ENT-GEO-0081661,location,France,https://www.wikidata.org/wiki/Q12679
+LIBSRC-LIB34-ENT-GEO-0081661,historical_name,Orne,https://www.wikidata.org/wiki/Q12679
+LIBSRC-LIB34-ENT-GEO-0081661,location,Normandy,https://www.wikidata.org/wiki/Q12679
+LIBSRC-LIB34-ENT-GEO-0103221,place_identity,waterfall,https://www.wikidata.org/wiki/Q25125177
+LIBSRC-LIB34-ENT-GEO-0103221,descriptive_identity,waterfall,https://www.wikidata.org/wiki/Q25125177
+LIBSRC-LIB34-ENT-GEO-0103221,geometry_with_crs,Point(109.267777777 -7.326666666),https://www.wikidata.org/wiki/Q25125177
+LIBSRC-LIB34-ENT-GEO-0103221,elevation,420000.0,https://www.wikidata.org/wiki/Q25125177
+LIBSRC-LIB34-ENT-GEO-0103221,location,Indonesia,https://www.wikidata.org/wiki/Q25125177
+LIBSRC-LIB34-ENT-GEO-0103221,location,Central Java,https://www.wikidata.org/wiki/Q25125177
+LIBSRC-LIB34-ENT-GEO-0101681,place_identity,waterfall,https://www.wikidata.org/wiki/Q25236838
+LIBSRC-LIB34-ENT-GEO-0101681,descriptive_identity,waterfall,https://www.wikidata.org/wiki/Q25236838
+LIBSRC-LIB34-ENT-GEO-0101681,descriptive_identity,waterfall in Guyana,https://www.wikidata.org/wiki/Q25236838
+LIBSRC-LIB34-ENT-GEO-0101681,geometry_with_crs,Point(-59.033333333 5.216666666),https://www.wikidata.org/wiki/Q25236838
+LIBSRC-LIB34-ENT-GEO-0101681,location,Guyana,https://www.wikidata.org/wiki/Q25236838
+LIBSRC-LIB34-ENT-GEO-0101681,location,Potaro-Siparuni,https://www.wikidata.org/wiki/Q25236838
+LIBSRC-LIB34-ENT-GEO-0117081,place_identity,mountain,https://www.wikidata.org/wiki/Q26899062
+LIBSRC-LIB34-ENT-GEO-0117081,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q26899062
+LIBSRC-LIB34-ENT-GEO-0117081,descriptive_identity,"mountain in Isfahan Province, Iran",https://www.wikidata.org/wiki/Q26899062
+LIBSRC-LIB34-ENT-GEO-0117081,geometry_with_crs,Point(51.602222222 31.757777777),https://www.wikidata.org/wiki/Q26899062
+LIBSRC-LIB34-ENT-GEO-0117081,location,Iran,https://www.wikidata.org/wiki/Q26899062
+LIBSRC-LIB34-ENT-GEO-0117081,location,Isfahan Province,https://www.wikidata.org/wiki/Q26899062
+LIBSRC-LIB34-ENT-GEO-0107071,place_identity,human settlement,https://www.wikidata.org/wiki/Q967663
+LIBSRC-LIB34-ENT-GEO-0107071,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q967663
+LIBSRC-LIB34-ENT-GEO-0107071,geometry_with_crs,Point(83.12 25.3),https://www.wikidata.org/wiki/Q967663
+LIBSRC-LIB34-ENT-GEO-0107071,elevation,65000.0,https://www.wikidata.org/wiki/Q967663
+LIBSRC-LIB34-ENT-GEO-0107071,location,India,https://www.wikidata.org/wiki/Q967663
+LIBSRC-LIB34-ENT-GEO-0107071,location,Chandauli district,https://www.wikidata.org/wiki/Q967663
+LIBSRC-LIB34-ENT-GEO-0107071,location,Varanasi district,https://www.wikidata.org/wiki/Q967663
+LIBSRC-LIB34-ENT-GEO-0114001,place_identity,family name,https://www.wikidata.org/wiki/Q107225719
+LIBSRC-LIB34-ENT-GEO-0114001,descriptive_identity,family name,https://www.wikidata.org/wiki/Q107225719
+LIBSRC-LIB34-ENT-GEO-0127861,place_identity,village,https://www.wikidata.org/wiki/Q5852735
+LIBSRC-LIB34-ENT-GEO-0127861,descriptive_identity,village,https://www.wikidata.org/wiki/Q5852735
+LIBSRC-LIB34-ENT-GEO-0127861,descriptive_identity,village in Iran,https://www.wikidata.org/wiki/Q5852735
+LIBSRC-LIB34-ENT-GEO-0127861,geometry_with_crs,Point(46.79777778 34.025),https://www.wikidata.org/wiki/Q5852735
+LIBSRC-LIB34-ENT-GEO-0127861,location,Homeyl Rural District,https://www.wikidata.org/wiki/Q5852735
+LIBSRC-LIB34-ENT-GEO-0127861,location,Kermanshah Province,https://www.wikidata.org/wiki/Q5852735
+LIBSRC-LIB34-ENT-GEO-0127861,location,Iran,https://www.wikidata.org/wiki/Q5852735
+LIBSRC-LIB34-ENT-GEO-0130171,place_identity,mountain,https://www.wikidata.org/wiki/Q26936384
+LIBSRC-LIB34-ENT-GEO-0130171,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q26936384
+LIBSRC-LIB34-ENT-GEO-0130171,descriptive_identity,"mountain in Qazvin Province, Iran",https://www.wikidata.org/wiki/Q26936384
+LIBSRC-LIB34-ENT-GEO-0130171,geometry_with_crs,Point(50.404444444 36.518611111),https://www.wikidata.org/wiki/Q26936384
+LIBSRC-LIB34-ENT-GEO-0130171,location,Iran,https://www.wikidata.org/wiki/Q26936384
+LIBSRC-LIB34-ENT-GEO-0130171,location,Qazvin Province,https://www.wikidata.org/wiki/Q26936384
+LIBSRC-LIB34-ENT-GEO-0134791,place_identity,county of Iran,https://www.wikidata.org/wiki/Q1280129
+LIBSRC-LIB34-ENT-GEO-0134791,descriptive_identity,county of Iran,https://www.wikidata.org/wiki/Q1280129
+LIBSRC-LIB34-ENT-GEO-0134791,descriptive_identity,"county in Hormozgan Province, Iran",https://www.wikidata.org/wiki/Q1280129
+LIBSRC-LIB34-ENT-GEO-0134791,geometry_with_crs,Point(55.833333333 28.333333333),https://www.wikidata.org/wiki/Q1280129
+LIBSRC-LIB34-ENT-GEO-0134791,location,Iran,https://www.wikidata.org/wiki/Q1280129
+LIBSRC-LIB34-ENT-GEO-0134791,location,Hormozgan Province,https://www.wikidata.org/wiki/Q1280129
+LIBSRC-LIB34-ENT-GEO-0144801,place_identity,village,https://www.wikidata.org/wiki/Q5820372
+LIBSRC-LIB34-ENT-GEO-0144801,descriptive_identity,village,https://www.wikidata.org/wiki/Q5820372
+LIBSRC-LIB34-ENT-GEO-0144801,descriptive_identity,village in Iran,https://www.wikidata.org/wiki/Q5820372
+LIBSRC-LIB34-ENT-GEO-0144801,geometry_with_crs,Point(47.43777778 34.0375),https://www.wikidata.org/wiki/Q5820372
+LIBSRC-LIB34-ENT-GEO-0144801,location,Sar Firuzabad Rural District,https://www.wikidata.org/wiki/Q5820372
+LIBSRC-LIB34-ENT-GEO-0144801,location,Iran,https://www.wikidata.org/wiki/Q5820372
+LIBSRC-LIB34-ENT-GEO-0126321,place_identity,family name,https://www.wikidata.org/wiki/Q804909
+LIBSRC-LIB34-ENT-GEO-0126321,descriptive_identity,family name,https://www.wikidata.org/wiki/Q804909
+LIBSRC-LIB34-ENT-GEO-0126321,descriptive_identity,family name (張),https://www.wikidata.org/wiki/Q804909
+LIBSRC-LIB34-ENT-GEO-0126321,place_identity,Chinese family name,https://www.wikidata.org/wiki/Q804909
+LIBSRC-LIB34-ENT-GEO-0126321,descriptive_identity,Chinese family name,https://www.wikidata.org/wiki/Q804909
+LIBSRC-LIB34-ENT-GEO-0140951,place_identity,asteroid,https://www.wikidata.org/wiki/Q719041
+LIBSRC-LIB34-ENT-GEO-0140951,descriptive_identity,asteroid,https://www.wikidata.org/wiki/Q719041
+LIBSRC-LIB34-ENT-GEO-0150191,place_identity,village,https://www.wikidata.org/wiki/Q5718385
+LIBSRC-LIB34-ENT-GEO-0150191,descriptive_identity,village,https://www.wikidata.org/wiki/Q5718385
+LIBSRC-LIB34-ENT-GEO-0150191,descriptive_identity,village in Iran,https://www.wikidata.org/wiki/Q5718385
+LIBSRC-LIB34-ENT-GEO-0150191,geometry_with_crs,Point(50.83472222 36.58638889),https://www.wikidata.org/wiki/Q5718385
+LIBSRC-LIB34-ENT-GEO-0150191,location,Iran,https://www.wikidata.org/wiki/Q5718385
+LIBSRC-LIB34-ENT-GEO-0150191,location,Seh Hezar Rural District,https://www.wikidata.org/wiki/Q5718385
+LIBSRC-LIB34-ENT-GEO-0134021,place_identity,mountain,https://www.wikidata.org/wiki/Q26884698
+LIBSRC-LIB34-ENT-GEO-0134021,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q26884698
+LIBSRC-LIB34-ENT-GEO-0134021,descriptive_identity,mountain in Iran,https://www.wikidata.org/wiki/Q26884698
+LIBSRC-LIB34-ENT-GEO-0134021,geometry_with_crs,Point(49.56602 31.98133),https://www.wikidata.org/wiki/Q26884698
+LIBSRC-LIB34-ENT-GEO-0134021,location,Iran,https://www.wikidata.org/wiki/Q26884698
+LIBSRC-LIB34-ENT-GEO-0134021,location,Khuzestan Province,https://www.wikidata.org/wiki/Q26884698
+LIBSRC-LIB34-ENT-GEO-0147111,place_identity,village,https://www.wikidata.org/wiki/Q5709240
+LIBSRC-LIB34-ENT-GEO-0147111,descriptive_identity,village,https://www.wikidata.org/wiki/Q5709240
+LIBSRC-LIB34-ENT-GEO-0147111,descriptive_identity,village in Iran,https://www.wikidata.org/wiki/Q5709240
+LIBSRC-LIB34-ENT-GEO-0147111,location,Dust Mohammad Rural District,https://www.wikidata.org/wiki/Q5709240
+LIBSRC-LIB34-ENT-GEO-0147111,location,Sistan and Baluchestan Province,https://www.wikidata.org/wiki/Q5709240
+LIBSRC-LIB34-ENT-GEO-0147111,location,Iran,https://www.wikidata.org/wiki/Q5709240
+LIBSRC-LIB34-ENT-GEO-0122471,place_identity,taxon,https://www.wikidata.org/wiki/Q6494925
+LIBSRC-LIB34-ENT-GEO-0122471,descriptive_identity,taxon,https://www.wikidata.org/wiki/Q6494925
+LIBSRC-LIB34-ENT-GEO-0122471,descriptive_identity,genus of crustaceans,https://www.wikidata.org/wiki/Q6494925
+LIBSRC-LIB34-ENT-GEO-0151731,place_identity,mountain,https://www.wikidata.org/wiki/Q26977788
+LIBSRC-LIB34-ENT-GEO-0151731,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q26977788
+LIBSRC-LIB34-ENT-GEO-0151731,descriptive_identity,mountain in Iran,https://www.wikidata.org/wiki/Q26977788
+LIBSRC-LIB34-ENT-GEO-0151731,geometry_with_crs,Point(59.988333333 26.408611111),https://www.wikidata.org/wiki/Q26977788
+LIBSRC-LIB34-ENT-GEO-0151731,location,Sistan and Baluchestan Province,https://www.wikidata.org/wiki/Q26977788
+LIBSRC-LIB34-ENT-GEO-0151731,location,Iran,https://www.wikidata.org/wiki/Q26977788
+LIBSRC-LIB34-ENT-GEO-0161741,place_identity,nuraghe,https://www.wikidata.org/wiki/Q122237237
+LIBSRC-LIB34-ENT-GEO-0161741,descriptive_identity,nuraghe,https://www.wikidata.org/wiki/Q122237237
+LIBSRC-LIB34-ENT-GEO-0161741,geometry_with_crs,Point(9.4578954 39.955699),https://www.wikidata.org/wiki/Q122237237
+LIBSRC-LIB34-ENT-GEO-0161741,location,Italy,https://www.wikidata.org/wiki/Q122237237
+LIBSRC-LIB34-ENT-GEO-0161741,location,Villagrande Strisaili,https://www.wikidata.org/wiki/Q122237237
+LIBSRC-LIB34-ENT-GEO-0062411,place_identity,urban municipality in Germany,https://www.wikidata.org/wiki/Q530212
+LIBSRC-LIB34-ENT-GEO-0062411,descriptive_identity,urban municipality in Germany,https://www.wikidata.org/wiki/Q530212
+LIBSRC-LIB34-ENT-GEO-0062411,descriptive_identity,"town in Saxony-Anhalt, Germany",https://www.wikidata.org/wiki/Q530212
+LIBSRC-LIB34-ENT-GEO-0062411,geometry_with_crs,Point(11.8 51.3),https://www.wikidata.org/wiki/Q530212
+LIBSRC-LIB34-ENT-GEO-0062411,elevation,164000.0,https://www.wikidata.org/wiki/Q530212
+LIBSRC-LIB34-ENT-GEO-0062411,location,Saalekreis,https://www.wikidata.org/wiki/Q530212
+LIBSRC-LIB34-ENT-GEO-0062411,location,Germany,https://www.wikidata.org/wiki/Q530212
+LIBSRC-LIB34-ENT-GEO-0162511,place_identity,neighborhood,https://www.wikidata.org/wiki/Q10729062
+LIBSRC-LIB34-ENT-GEO-0162511,descriptive_identity,neighborhood,https://www.wikidata.org/wiki/Q10729062
+LIBSRC-LIB34-ENT-GEO-0162511,descriptive_identity,neighborhood in east Jerusalem,https://www.wikidata.org/wiki/Q10729062
+LIBSRC-LIB34-ENT-GEO-0162511,geometry_with_crs,Point(35.24073333 31.78396111),https://www.wikidata.org/wiki/Q10729062
+LIBSRC-LIB34-ENT-GEO-0162511,location,Israel,https://www.wikidata.org/wiki/Q10729062
+LIBSRC-LIB34-ENT-GEO-0162511,place_identity,human settlement,https://www.wikidata.org/wiki/Q10729062
+LIBSRC-LIB34-ENT-GEO-0162511,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q10729062
+LIBSRC-LIB34-ENT-GEO-0162511,location,Jerusalem,https://www.wikidata.org/wiki/Q10729062
+LIBSRC-LIB34-ENT-GEO-0171751,place_identity,given name,https://www.wikidata.org/wiki/Q69510699
+LIBSRC-LIB34-ENT-GEO-0171751,descriptive_identity,given name,https://www.wikidata.org/wiki/Q69510699
+LIBSRC-LIB34-ENT-GEO-0171751,descriptive_identity,Korean male given name (창림),https://www.wikidata.org/wiki/Q69510699
+LIBSRC-LIB34-ENT-GEO-0155581,place_identity,volcanic island,https://www.wikidata.org/wiki/Q189387
+LIBSRC-LIB34-ENT-GEO-0155581,descriptive_identity,volcanic island,https://www.wikidata.org/wiki/Q189387
+LIBSRC-LIB34-ENT-GEO-0155581,descriptive_identity,volcanic island in the Tyrrhenian Sea,https://www.wikidata.org/wiki/Q189387
+LIBSRC-LIB34-ENT-GEO-0155581,geometry_with_crs,Point(13.895555555 40.731111111),https://www.wikidata.org/wiki/Q189387
+LIBSRC-LIB34-ENT-GEO-0155581,elevation,789000.0,https://www.wikidata.org/wiki/Q189387
+LIBSRC-LIB34-ENT-GEO-0155581,location,Metropolitan City of Naples,https://www.wikidata.org/wiki/Q189387
+LIBSRC-LIB34-ENT-GEO-0155581,location,Italy,https://www.wikidata.org/wiki/Q189387
+LIBSRC-LIB34-ENT-GEO-0167901,place_identity,waterfall,https://www.wikidata.org/wiki/Q34683312
+LIBSRC-LIB34-ENT-GEO-0167901,descriptive_identity,waterfall,https://www.wikidata.org/wiki/Q34683312
+LIBSRC-LIB34-ENT-GEO-0167901,geometry_with_crs,Point(138.770555555 35.195),https://www.wikidata.org/wiki/Q34683312
+LIBSRC-LIB34-ENT-GEO-0167901,elevation,381000.0,https://www.wikidata.org/wiki/Q34683312
+LIBSRC-LIB34-ENT-GEO-0167901,location,Japan,https://www.wikidata.org/wiki/Q34683312
+LIBSRC-LIB34-ENT-GEO-0167901,location,Shizuoka Prefecture,https://www.wikidata.org/wiki/Q34683312
+LIBSRC-LIB34-ENT-GEO-0166361,place_identity,bay,https://www.wikidata.org/wiki/Q49373156
+LIBSRC-LIB34-ENT-GEO-0166361,descriptive_identity,bay,https://www.wikidata.org/wiki/Q49373156
+LIBSRC-LIB34-ENT-GEO-0166361,descriptive_identity,"bay in Miyagi Prefecture, Japan",https://www.wikidata.org/wiki/Q49373156
+LIBSRC-LIB34-ENT-GEO-0166361,geometry_with_crs,Point(141.5 38.283333333),https://www.wikidata.org/wiki/Q49373156
+LIBSRC-LIB34-ENT-GEO-0166361,location,Japan,https://www.wikidata.org/wiki/Q49373156
+LIBSRC-LIB34-ENT-GEO-0166361,location,Miyagi Prefecture,https://www.wikidata.org/wiki/Q49373156
+LIBSRC-LIB34-ENT-GEO-0186381,place_identity,hamlet,https://www.wikidata.org/wiki/Q1058996
+LIBSRC-LIB34-ENT-GEO-0186381,descriptive_identity,hamlet,https://www.wikidata.org/wiki/Q1058996
+LIBSRC-LIB34-ENT-GEO-0186381,descriptive_identity,"human settlement in Gafuriysky District, Republic of Bashkortostan, Russia",https://www.wikidata.org/wiki/Q1058996
+LIBSRC-LIB34-ENT-GEO-0186381,geometry_with_crs,Point(56.448611111 54.169444444),https://www.wikidata.org/wiki/Q1058996
+LIBSRC-LIB34-ENT-GEO-0186381,location,Russia,https://www.wikidata.org/wiki/Q1058996
+LIBSRC-LIB34-ENT-GEO-0186381,location,Burlinsky selsoviet,https://www.wikidata.org/wiki/Q1058996
+LIBSRC-LIB34-ENT-GEO-0191001,place_identity,spring,https://www.wikidata.org/wiki/Q21568311
+LIBSRC-LIB34-ENT-GEO-0191001,descriptive_identity,spring,https://www.wikidata.org/wiki/Q21568311
+LIBSRC-LIB34-ENT-GEO-0191001,descriptive_identity,"spring in Beqaa Governorate, Lebanon",https://www.wikidata.org/wiki/Q21568311
+LIBSRC-LIB34-ENT-GEO-0191001,geometry_with_crs,Point(35.784166666 33.52),https://www.wikidata.org/wiki/Q21568311
+LIBSRC-LIB34-ENT-GEO-0191001,location,Lebanon,https://www.wikidata.org/wiki/Q21568311
+LIBSRC-LIB34-ENT-GEO-0191001,location,Beqaa Governorate,https://www.wikidata.org/wiki/Q21568311
+LIBSRC-LIB34-ENT-GEO-0185611,place_identity,lake,https://www.wikidata.org/wiki/Q20486316
+LIBSRC-LIB34-ENT-GEO-0185611,descriptive_identity,lake,https://www.wikidata.org/wiki/Q20486316
+LIBSRC-LIB34-ENT-GEO-0185611,descriptive_identity,lake in Kazakhstan,https://www.wikidata.org/wiki/Q20486316
+LIBSRC-LIB34-ENT-GEO-0185611,geometry_with_crs,Point(69.71611 54.61556),https://www.wikidata.org/wiki/Q20486316
+LIBSRC-LIB34-ENT-GEO-0185611,elevation,120000.0,https://www.wikidata.org/wiki/Q20486316
+LIBSRC-LIB34-ENT-GEO-0185611,location,Kazakhstan,https://www.wikidata.org/wiki/Q20486316
+LIBSRC-LIB34-ENT-GEO-0185611,geometry_with_crs,Point(69.717178 54.615027),https://www.wikidata.org/wiki/Q20486316
+LIBSRC-LIB34-ENT-GEO-0165591,place_identity,island,https://www.wikidata.org/wiki/Q49650017
+LIBSRC-LIB34-ENT-GEO-0165591,descriptive_identity,island,https://www.wikidata.org/wiki/Q49650017
+LIBSRC-LIB34-ENT-GEO-0165591,descriptive_identity,island in Japan,https://www.wikidata.org/wiki/Q49650017
+LIBSRC-LIB34-ENT-GEO-0165591,geometry_with_crs,Point(133.981111111 34.490833333),https://www.wikidata.org/wiki/Q49650017
+LIBSRC-LIB34-ENT-GEO-0165591,location,Naoshima,https://www.wikidata.org/wiki/Q49650017
+LIBSRC-LIB34-ENT-GEO-0165591,location,Japan,https://www.wikidata.org/wiki/Q49650017
+LIBSRC-LIB34-ENT-GEO-0187151,place_identity,village of Kazakhstan,https://www.wikidata.org/wiki/Q4509518
+LIBSRC-LIB34-ENT-GEO-0187151,descriptive_identity,village of Kazakhstan,https://www.wikidata.org/wiki/Q4509518
+LIBSRC-LIB34-ENT-GEO-0187151,descriptive_identity,"suburb of Almaty in Almaty Region, Kazakhstan",https://www.wikidata.org/wiki/Q4509518
+LIBSRC-LIB34-ENT-GEO-0187151,geometry_with_crs,Point(77.086111111 43.250555555),https://www.wikidata.org/wiki/Q4509518
+LIBSRC-LIB34-ENT-GEO-0187151,location,Q16692700,https://www.wikidata.org/wiki/Q4509518
+LIBSRC-LIB34-ENT-GEO-0187151,location,Kazakhstan,https://www.wikidata.org/wiki/Q4509518
+LIBSRC-LIB34-ENT-GEO-0203321,place_identity,nau,https://www.wikidata.org/wiki/Q107900
+LIBSRC-LIB34-ENT-GEO-0203321,descriptive_identity,nau,https://www.wikidata.org/wiki/Q107900
+LIBSRC-LIB34-ENT-GEO-0203321,descriptive_identity,carrack used by Christopher Columbus,https://www.wikidata.org/wiki/Q107900
+LIBSRC-LIB34-ENT-GEO-0211791,place_identity,waterfall,https://www.wikidata.org/wiki/Q34753988
+LIBSRC-LIB34-ENT-GEO-0211791,descriptive_identity,waterfall,https://www.wikidata.org/wiki/Q34753988
+LIBSRC-LIB34-ENT-GEO-0211791,geometry_with_crs,Point(7.59847 61.53798),https://www.wikidata.org/wiki/Q34753988
+LIBSRC-LIB34-ENT-GEO-0211791,location,Luster Municipality,https://www.wikidata.org/wiki/Q34753988
+LIBSRC-LIB34-ENT-GEO-0211791,location,Norway,https://www.wikidata.org/wiki/Q34753988
+LIBSRC-LIB34-ENT-GEO-0209481,place_identity,shipwreck,https://www.wikidata.org/wiki/Q56258771
+LIBSRC-LIB34-ENT-GEO-0209481,descriptive_identity,shipwreck,https://www.wikidata.org/wiki/Q56258771
+LIBSRC-LIB34-ENT-GEO-0209481,descriptive_identity,"shipwreck in Albenga, Italy",https://www.wikidata.org/wiki/Q56258771
+LIBSRC-LIB34-ENT-GEO-0209481,geometry_with_crs,Point(8.2452 44.0306),https://www.wikidata.org/wiki/Q56258771
+LIBSRC-LIB34-ENT-GEO-0209481,location,Albenga,https://www.wikidata.org/wiki/Q56258771
+LIBSRC-LIB34-ENT-GEO-0209481,location,Italy,https://www.wikidata.org/wiki/Q56258771
+LIBSRC-LIB34-ENT-GEO-0207171,place_identity,ravine,https://www.wikidata.org/wiki/Q27806277
+LIBSRC-LIB34-ENT-GEO-0207171,descriptive_identity,ravine,https://www.wikidata.org/wiki/Q27806277
+LIBSRC-LIB34-ENT-GEO-0207171,descriptive_identity,"ravine in Coahuila, Mexico",https://www.wikidata.org/wiki/Q27806277
+LIBSRC-LIB34-ENT-GEO-0207171,geometry_with_crs,Point(-102.143888888 26.313333333),https://www.wikidata.org/wiki/Q27806277
+LIBSRC-LIB34-ENT-GEO-0207171,elevation,1503000.0,https://www.wikidata.org/wiki/Q27806277
+LIBSRC-LIB34-ENT-GEO-0207171,location,Mexico,https://www.wikidata.org/wiki/Q27806277
+LIBSRC-LIB34-ENT-GEO-0207171,location,Coahuila,https://www.wikidata.org/wiki/Q27806277
+LIBSRC-LIB34-ENT-GEO-0213331,place_identity,waterfall,https://www.wikidata.org/wiki/Q34672742
+LIBSRC-LIB34-ENT-GEO-0213331,descriptive_identity,waterfall,https://www.wikidata.org/wiki/Q34672742
+LIBSRC-LIB34-ENT-GEO-0213331,descriptive_identity,"waterfall in Buskerud, Norway",https://www.wikidata.org/wiki/Q34672742
+LIBSRC-LIB34-ENT-GEO-0213331,geometry_with_crs,Point(9.89976 59.78647),https://www.wikidata.org/wiki/Q34672742
+LIBSRC-LIB34-ENT-GEO-0213331,elevation,9000.0,https://www.wikidata.org/wiki/Q34672742
+LIBSRC-LIB34-ENT-GEO-0213331,location,Norway,https://www.wikidata.org/wiki/Q34672742
+LIBSRC-LIB34-ENT-GEO-0213331,location,Øvre Eiker,https://www.wikidata.org/wiki/Q34672742
+LIBSRC-LIB34-ENT-GEO-0214101,place_identity,waterfall,https://www.wikidata.org/wiki/Q34759110
+LIBSRC-LIB34-ENT-GEO-0214101,descriptive_identity,waterfall,https://www.wikidata.org/wiki/Q34759110
+LIBSRC-LIB34-ENT-GEO-0214101,geometry_with_crs,Point(8.48383 60.06461),https://www.wikidata.org/wiki/Q34759110
+LIBSRC-LIB34-ENT-GEO-0214101,location,Norway,https://www.wikidata.org/wiki/Q34759110
+LIBSRC-LIB34-ENT-GEO-0214101,location,Tinn,https://www.wikidata.org/wiki/Q34759110
+LIBSRC-LIB34-ENT-GEO-0177911,place_identity,island,https://www.wikidata.org/wiki/Q27266832
+LIBSRC-LIB34-ENT-GEO-0177911,descriptive_identity,island,https://www.wikidata.org/wiki/Q27266832
+LIBSRC-LIB34-ENT-GEO-0177911,descriptive_identity,island in South Korea,https://www.wikidata.org/wiki/Q27266832
+LIBSRC-LIB34-ENT-GEO-0177911,geometry_with_crs,Point(126.209722222 37.197222222),https://www.wikidata.org/wiki/Q27266832
+LIBSRC-LIB34-ENT-GEO-0177911,location,South Korea,https://www.wikidata.org/wiki/Q27266832
+LIBSRC-LIB34-ENT-GEO-0177911,location,Incheon,https://www.wikidata.org/wiki/Q27266832
+LIBSRC-LIB34-ENT-GEO-0216411,place_identity,locality,https://www.wikidata.org/wiki/Q25660778
+LIBSRC-LIB34-ENT-GEO-0216411,descriptive_identity,locality,https://www.wikidata.org/wiki/Q25660778
+LIBSRC-LIB34-ENT-GEO-0216411,descriptive_identity,"locality in Ōpōtiki District, Bay of Plenty Region, New Zealand",https://www.wikidata.org/wiki/Q25660778
+LIBSRC-LIB34-ENT-GEO-0216411,geometry_with_crs,Point(177.508 -38.146),https://www.wikidata.org/wiki/Q25660778
+LIBSRC-LIB34-ENT-GEO-0216411,location,New Zealand,https://www.wikidata.org/wiki/Q25660778
+LIBSRC-LIB34-ENT-GEO-0216411,location,Ōpōtiki District,https://www.wikidata.org/wiki/Q25660778
+LIBSRC-LIB34-ENT-GEO-0227191,place_identity,cadastral municipality of Serbia,https://www.wikidata.org/wiki/Q1038306
+LIBSRC-LIB34-ENT-GEO-0227191,descriptive_identity,cadastral municipality of Serbia,https://www.wikidata.org/wiki/Q1038306
+LIBSRC-LIB34-ENT-GEO-0227191,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q1038306
+LIBSRC-LIB34-ENT-GEO-0227191,geometry_with_crs,Point(21.156111111 45.041111111),https://www.wikidata.org/wiki/Q1038306
+LIBSRC-LIB34-ENT-GEO-0227191,elevation,89000.0,https://www.wikidata.org/wiki/Q1038306
+LIBSRC-LIB34-ENT-GEO-0227191,location,Serbia,https://www.wikidata.org/wiki/Q1038306
+LIBSRC-LIB34-ENT-GEO-0227191,location,Vršac Municipality,https://www.wikidata.org/wiki/Q1038306
+LIBSRC-LIB34-ENT-GEO-0056251,place_identity,former county of China,https://www.wikidata.org/wiki/Q113491043
+LIBSRC-LIB34-ENT-GEO-0056251,descriptive_identity,former county of China,https://www.wikidata.org/wiki/Q113491043
+LIBSRC-LIB34-ENT-GEO-0056251,descriptive_identity,historical administrative division of China,https://www.wikidata.org/wiki/Q113491043
+LIBSRC-LIB34-ENT-GEO-0056251,location,Baoding Fu,https://www.wikidata.org/wiki/Q113491043
+LIBSRC-LIB34-ENT-GEO-0056251,location,Ming dynasty,https://www.wikidata.org/wiki/Q113491043
+LIBSRC-LIB34-ENT-GEO-0056251,location,Qing dynasty,https://www.wikidata.org/wiki/Q113491043
+LIBSRC-LIB34-ENT-GEO-0229501,place_identity,river,https://www.wikidata.org/wiki/Q36354497
+LIBSRC-LIB34-ENT-GEO-0229501,descriptive_identity,river,https://www.wikidata.org/wiki/Q36354497
+LIBSRC-LIB34-ENT-GEO-0229501,descriptive_identity,"river in Komi Republic, Russia",https://www.wikidata.org/wiki/Q36354497
+LIBSRC-LIB34-ENT-GEO-0229501,geometry_with_crs,Point(50.593333333 61.233888888),https://www.wikidata.org/wiki/Q36354497
+LIBSRC-LIB34-ENT-GEO-0229501,location,Komi Republic,https://www.wikidata.org/wiki/Q36354497
+LIBSRC-LIB34-ENT-GEO-0229501,location,Russia,https://www.wikidata.org/wiki/Q36354497
+LIBSRC-LIB34-ENT-GEO-0233351,place_identity,bight,https://www.wikidata.org/wiki/Q33545246
+LIBSRC-LIB34-ENT-GEO-0233351,descriptive_identity,bight,https://www.wikidata.org/wiki/Q33545246
+LIBSRC-LIB34-ENT-GEO-0233351,descriptive_identity,bight in Russia,https://www.wikidata.org/wiki/Q33545246
+LIBSRC-LIB34-ENT-GEO-0233351,geometry_with_crs,Point(-172.959722222 64.671111111),https://www.wikidata.org/wiki/Q33545246
+LIBSRC-LIB34-ENT-GEO-0233351,location,Russia,https://www.wikidata.org/wiki/Q33545246
+LIBSRC-LIB35-ENT-GAZ-2526595,place_identity,ski resort,https://www.wikidata.org/wiki/Q624323
+LIBSRC-LIB35-ENT-GAZ-2526595,descriptive_identity,ski resort,https://www.wikidata.org/wiki/Q624323
+LIBSRC-LIB35-ENT-GAZ-2526595,descriptive_identity,"commune in Hautes-Alpes, France",https://www.wikidata.org/wiki/Q624323
+LIBSRC-LIB35-ENT-GAZ-2526595,geometry_with_crs,Point(6.305833333 45.046111111),https://www.wikidata.org/wiki/Q624323
+LIBSRC-LIB35-ENT-GAZ-2526595,elevation,2248000.0,https://www.wikidata.org/wiki/Q624323
+LIBSRC-LIB35-ENT-GAZ-2526595,location,France,https://www.wikidata.org/wiki/Q624323
+LIBSRC-LIB35-ENT-GAZ-2526595,elevation,3976000.0,https://www.wikidata.org/wiki/Q624323
+LIBSRC-LIB35-ENT-GAZ-2526595,elevation,1135000.0,https://www.wikidata.org/wiki/Q624323
+LIBSRC-LIB35-ENT-GAZ-2526595,place_identity,commune of France,https://www.wikidata.org/wiki/Q624323
+LIBSRC-LIB35-ENT-GAZ-2526595,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q624323
+LIBSRC-LIB35-ENT-GAZ-2526595,location,canton of La Grave,https://www.wikidata.org/wiki/Q624323
+LIBSRC-LIB35-ENT-GAZ-2526595,location,arrondissement of Briançon,https://www.wikidata.org/wiki/Q624323
+LIBSRC-LIB35-ENT-GAZ-2526595,location,Hautes-Alpes,https://www.wikidata.org/wiki/Q624323
+LIBSRC-LIB34-ENT-GEO-0320921,place_identity,census-designated place in the United States,https://www.wikidata.org/wiki/Q536154
+LIBSRC-LIB34-ENT-GEO-0320921,descriptive_identity,census-designated place in the United States,https://www.wikidata.org/wiki/Q536154
+LIBSRC-LIB34-ENT-GEO-0320921,descriptive_identity,"census-designated place in Neptune Township, Monmouth County, New Jersey, United States",https://www.wikidata.org/wiki/Q536154
+LIBSRC-LIB34-ENT-GEO-0320921,geometry_with_crs,Point(-74.00917 40.21194),https://www.wikidata.org/wiki/Q536154
+LIBSRC-LIB34-ENT-GEO-0320921,elevation,5000.0,https://www.wikidata.org/wiki/Q536154
+LIBSRC-LIB34-ENT-GEO-0320921,location,United States,https://www.wikidata.org/wiki/Q536154
+LIBSRC-LIB34-ENT-GEO-0320921,place_identity,gay village,https://www.wikidata.org/wiki/Q536154
+LIBSRC-LIB34-ENT-GEO-0320921,descriptive_identity,gay village,https://www.wikidata.org/wiki/Q536154
+LIBSRC-LIB34-ENT-GEO-0320921,location,Neptune Township,https://www.wikidata.org/wiki/Q536154
+LIBSRC-LIB34-ENT-GEO-0322461,place_identity,family name,https://www.wikidata.org/wiki/Q1158262
+LIBSRC-LIB34-ENT-GEO-0322461,descriptive_identity,family name,https://www.wikidata.org/wiki/Q1158262
+LIBSRC-LIB34-ENT-GEO-0328521,place_identity,unincorporated community,https://www.wikidata.org/wiki/Q3473843
+LIBSRC-LIB34-ENT-GEO-0328521,descriptive_identity,unincorporated community,https://www.wikidata.org/wiki/Q3473843
+LIBSRC-LIB34-ENT-GEO-0328521,descriptive_identity,unincorporated community in Washington,https://www.wikidata.org/wiki/Q3473843
+LIBSRC-LIB34-ENT-GEO-0328521,geometry_with_crs,Point(-120.712 46.6698),https://www.wikidata.org/wiki/Q3473843
+LIBSRC-LIB34-ENT-GEO-0328521,elevation,450799.2,https://www.wikidata.org/wiki/Q3473843
+LIBSRC-LIB34-ENT-GEO-0328521,location,Yakima County,https://www.wikidata.org/wiki/Q3473843
+LIBSRC-LIB34-ENT-GEO-0328521,elevation,533000.0,https://www.wikidata.org/wiki/Q3473843
+LIBSRC-LIB34-ENT-GEO-0328521,location,United States,https://www.wikidata.org/wiki/Q3473843
+LIBSRC-LIB34-ENT-GEO-0335451,place_identity,waterfall,https://www.wikidata.org/wiki/Q32006460
+LIBSRC-LIB34-ENT-GEO-0335451,descriptive_identity,waterfall,https://www.wikidata.org/wiki/Q32006460
+LIBSRC-LIB34-ENT-GEO-0335451,geometry_with_crs,Point(-67.777777777 4.428888888),https://www.wikidata.org/wiki/Q32006460
+LIBSRC-LIB34-ENT-GEO-0335451,elevation,77000.0,https://www.wikidata.org/wiki/Q32006460
+LIBSRC-LIB34-ENT-GEO-0335451,location,Venezuela,https://www.wikidata.org/wiki/Q32006460
+LIBSRC-LIB34-ENT-GEO-0335451,location,Amazonas,https://www.wikidata.org/wiki/Q32006460
+LIBSRC-LIB34-ENT-GEO-0338531,place_identity,city of Japan,https://www.wikidata.org/wiki/Q496080
+LIBSRC-LIB34-ENT-GEO-0338531,descriptive_identity,city of Japan,https://www.wikidata.org/wiki/Q496080
+LIBSRC-LIB34-ENT-GEO-0338531,descriptive_identity,"city in Ōsaka Prefecture, Japan",https://www.wikidata.org/wiki/Q496080
+LIBSRC-LIB34-ENT-GEO-0338531,geometry_with_crs,Point(135.599444444 34.732222222),https://www.wikidata.org/wiki/Q496080
+LIBSRC-LIB34-ENT-GEO-0338531,location,Japan,https://www.wikidata.org/wiki/Q496080
+LIBSRC-LIB34-ENT-GEO-0338531,geometry_with_crs,Point(135.586861111 34.739138888),https://www.wikidata.org/wiki/Q496080
+LIBSRC-LIB34-ENT-GEO-0338531,place_identity,big city,https://www.wikidata.org/wiki/Q496080
+LIBSRC-LIB34-ENT-GEO-0338531,descriptive_identity,big city,https://www.wikidata.org/wiki/Q496080
+LIBSRC-LIB34-ENT-GEO-0338531,place_identity,second-level administrative division,https://www.wikidata.org/wiki/Q496080
+LIBSRC-LIB34-ENT-GEO-0338531,descriptive_identity,second-level administrative division,https://www.wikidata.org/wiki/Q496080
+LIBSRC-LIB34-ENT-GEO-0338531,location,Osaka Prefecture,https://www.wikidata.org/wiki/Q496080
+LIBSRC-LIB35-ENT-GAZ-2521550,place_identity,affixed family name,https://www.wikidata.org/wiki/Q56434765
+LIBSRC-LIB35-ENT-GAZ-2521550,descriptive_identity,affixed family name,https://www.wikidata.org/wiki/Q56434765
+LIBSRC-LIB35-ENT-GAZ-2521550,descriptive_identity,family name,https://www.wikidata.org/wiki/Q56434765
+LIBSRC-LIB35-ENT-GAZ-2523153,place_identity,neighborhood,https://www.wikidata.org/wiki/Q3413263
+LIBSRC-LIB35-ENT-GAZ-2523153,descriptive_identity,neighborhood,https://www.wikidata.org/wiki/Q3413263
+LIBSRC-LIB35-ENT-GAZ-2523153,descriptive_identity,human settlement in France,https://www.wikidata.org/wiki/Q3413263
+LIBSRC-LIB35-ENT-GAZ-2523153,geometry_with_crs,Point(-0.792654 48.0614),https://www.wikidata.org/wiki/Q3413263
+LIBSRC-LIB35-ENT-GAZ-2523153,location,France,https://www.wikidata.org/wiki/Q3413263
+LIBSRC-LIB35-ENT-GAZ-2523153,location,Laval,https://www.wikidata.org/wiki/Q3413263
+LIBSRC-LIB35-ENT-GAZ-2519938,place_identity,commune of France,https://www.wikidata.org/wiki/Q109575635
+LIBSRC-LIB35-ENT-GAZ-2519938,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q109575635
+LIBSRC-LIB35-ENT-GAZ-2519938,descriptive_identity,"former commune in Calvados, France",https://www.wikidata.org/wiki/Q109575635
+LIBSRC-LIB35-ENT-GAZ-2519938,geometry_with_crs,Point(-0.10594 49.05729),https://www.wikidata.org/wiki/Q109575635
+LIBSRC-LIB35-ENT-GAZ-2519938,location,Calvados,https://www.wikidata.org/wiki/Q109575635
+LIBSRC-LIB35-ENT-GAZ-2519938,location,France,https://www.wikidata.org/wiki/Q109575635
+LIBSRC-LIB35-ENT-GAZ-2524759,place_identity,commune of France,https://www.wikidata.org/wiki/Q1391621
+LIBSRC-LIB35-ENT-GAZ-2524759,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q1391621
+LIBSRC-LIB35-ENT-GAZ-2524759,descriptive_identity,"commune in Loiret, France",https://www.wikidata.org/wiki/Q1391621
+LIBSRC-LIB35-ENT-GAZ-2524759,geometry_with_crs,Point(2.625833333 47.8375),https://www.wikidata.org/wiki/Q1391621
+LIBSRC-LIB35-ENT-GAZ-2524759,elevation,145000.0,https://www.wikidata.org/wiki/Q1391621
+LIBSRC-LIB35-ENT-GAZ-2524759,location,arrondissement of Montargis,https://www.wikidata.org/wiki/Q1391621
+LIBSRC-LIB35-ENT-GAZ-2524759,historical_name,Solin,https://www.wikidata.org/wiki/Q1391621
+LIBSRC-LIB35-ENT-GAZ-2524759,location,Loiret,https://www.wikidata.org/wiki/Q1391621
+LIBSRC-LIB35-ENT-GAZ-2524759,elevation,123000.0,https://www.wikidata.org/wiki/Q1391621
+LIBSRC-LIB35-ENT-GAZ-2524759,elevation,177000.0,https://www.wikidata.org/wiki/Q1391621
+LIBSRC-LIB35-ENT-GAZ-2524759,location,France,https://www.wikidata.org/wiki/Q1391621
+LIBSRC-LIB35-ENT-GAZ-2526363,place_identity,family name,https://www.wikidata.org/wiki/Q37316444
+LIBSRC-LIB35-ENT-GAZ-2526363,descriptive_identity,family name,https://www.wikidata.org/wiki/Q37316444
+LIBSRC-LIB35-ENT-GAZ-2528755,place_identity,summit,https://www.wikidata.org/wiki/Q31662270
+LIBSRC-LIB35-ENT-GAZ-2528755,descriptive_identity,summit,https://www.wikidata.org/wiki/Q31662270
+LIBSRC-LIB35-ENT-GAZ-2528755,geometry_with_crs,Point(6.68098 46.24057),https://www.wikidata.org/wiki/Q31662270
+LIBSRC-LIB35-ENT-GAZ-2528755,elevation,1665000.0,https://www.wikidata.org/wiki/Q31662270
+LIBSRC-LIB35-ENT-GAZ-2528755,location,France,https://www.wikidata.org/wiki/Q31662270
+LIBSRC-LIB35-ENT-GAZ-2529553,place_identity,musical work/composition,https://www.wikidata.org/wiki/Q140916386
+LIBSRC-LIB35-ENT-GAZ-2529553,descriptive_identity,musical work/composition,https://www.wikidata.org/wiki/Q140916386
+LIBSRC-LIB35-ENT-GAZ-2529553,descriptive_identity,composition by Louise Farrenc,https://www.wikidata.org/wiki/Q140916386
+LIBSRC-LIB35-ENT-GAZ-2534312,place_identity,priority neighborhood,https://www.wikidata.org/wiki/Q130874868
+LIBSRC-LIB35-ENT-GAZ-2534312,descriptive_identity,priority neighborhood,https://www.wikidata.org/wiki/Q130874868
+LIBSRC-LIB35-ENT-GAZ-2534312,geometry_with_crs,Point(2.32266204 48.767492226),https://www.wikidata.org/wiki/Q130874868
+LIBSRC-LIB35-ENT-GAZ-2534312,location,France,https://www.wikidata.org/wiki/Q130874868
+LIBSRC-LIB35-ENT-GAZ-2534312,location,L'Haÿ-les-Roses,https://www.wikidata.org/wiki/Q130874868
+LIBSRC-LIB35-ENT-GAZ-2534312,location,Val-de-Marne,https://www.wikidata.org/wiki/Q130874868
+DRV-CORPUS-L02-0001005,place_identity,mountain,https://www.wikidata.org/wiki/Q172070
+DRV-CORPUS-L02-0001005,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q172070
+DRV-CORPUS-L02-0001005,descriptive_identity,African stratovolcano,https://www.wikidata.org/wiki/Q172070
+DRV-CORPUS-L02-0001005,geometry_with_crs,Point(37.2 -0.1),https://www.wikidata.org/wiki/Q172070
+DRV-CORPUS-L02-0001005,elevation,5199000.0,https://www.wikidata.org/wiki/Q172070
+DRV-CORPUS-L02-0001005,location,Kenya,https://www.wikidata.org/wiki/Q172070
+DRV-CORPUS-L02-0001504,place_identity,taxon,https://www.wikidata.org/wiki/Q16679384
+DRV-CORPUS-L02-0001504,descriptive_identity,taxon,https://www.wikidata.org/wiki/Q16679384
+DRV-CORPUS-L02-0001504,descriptive_identity,genus of molluscs,https://www.wikidata.org/wiki/Q16679384
+DRV-CORPUS-L02-0002002,place_identity,taxon,https://www.wikidata.org/wiki/Q10696407
+DRV-CORPUS-L02-0002002,descriptive_identity,taxon,https://www.wikidata.org/wiki/Q10696407
+DRV-CORPUS-L02-0002002,descriptive_identity,genus of crustaceans,https://www.wikidata.org/wiki/Q10696407
+DRV-CORPUS-L02-0001124,place_identity,family name,https://www.wikidata.org/wiki/Q99911894
+DRV-CORPUS-L02-0001124,descriptive_identity,family name,https://www.wikidata.org/wiki/Q99911894
+DRV-CORPUS-L02-0002062,place_identity,website,https://www.wikidata.org/wiki/Q1196431
+DRV-CORPUS-L02-0002062,descriptive_identity,website,https://www.wikidata.org/wiki/Q1196431
+DRV-CORPUS-L02-0002062,descriptive_identity,American music streaming and recommendation website,https://www.wikidata.org/wiki/Q1196431
+DRV-CORPUS-L02-0002062,location,United States,https://www.wikidata.org/wiki/Q1196431
+DRV-CORPUS-L02-0002062,place_identity,organization,https://www.wikidata.org/wiki/Q1196431
+DRV-CORPUS-L02-0002062,descriptive_identity,organization,https://www.wikidata.org/wiki/Q1196431
+DRV-CORPUS-L02-0002062,place_identity,recommender system,https://www.wikidata.org/wiki/Q1196431
+DRV-CORPUS-L02-0002062,descriptive_identity,recommender system,https://www.wikidata.org/wiki/Q1196431
+DRV-CORPUS-L02-0002062,place_identity,public company,https://www.wikidata.org/wiki/Q1196431
+DRV-CORPUS-L02-0002062,descriptive_identity,public company,https://www.wikidata.org/wiki/Q1196431
+DRV-CORPUS-L02-0002062,place_identity,music streaming service,https://www.wikidata.org/wiki/Q1196431
+DRV-CORPUS-L02-0002062,descriptive_identity,music streaming service,https://www.wikidata.org/wiki/Q1196431
+DRV-CORPUS-L02-0002062,place_identity,online music database,https://www.wikidata.org/wiki/Q1196431
+DRV-CORPUS-L02-0002062,descriptive_identity,online music database,https://www.wikidata.org/wiki/Q1196431
+DRV-CORPUS-L02-0002143,place_identity,mountain range,https://www.wikidata.org/wiki/Q189915
+DRV-CORPUS-L02-0002143,descriptive_identity,mountain range,https://www.wikidata.org/wiki/Q189915
+DRV-CORPUS-L02-0002143,descriptive_identity,mountain range in Southeastern Europe,https://www.wikidata.org/wiki/Q189915
+DRV-CORPUS-L02-0002143,geometry_with_crs,Point(16.723858769 44.028667506),https://www.wikidata.org/wiki/Q189915
+DRV-CORPUS-L02-0002143,elevation,2694000.0,https://www.wikidata.org/wiki/Q189915
+DRV-CORPUS-L02-0002143,location,Kosovo,https://www.wikidata.org/wiki/Q189915
+DRV-CORPUS-L02-0002143,historical_name,Dinara,https://www.wikidata.org/wiki/Q189915
+DRV-CORPUS-L02-0002143,location,Serbia,https://www.wikidata.org/wiki/Q189915
+DRV-CORPUS-L02-0002143,location,Montenegro,https://www.wikidata.org/wiki/Q189915
+DRV-CORPUS-L02-0002143,location,Bosnia and Herzegovina,https://www.wikidata.org/wiki/Q189915
+DRV-CORPUS-L02-0002143,location,Croatia,https://www.wikidata.org/wiki/Q189915
+DRV-CORPUS-L02-0002143,location,Albania,https://www.wikidata.org/wiki/Q189915
+DRV-CORPUS-L02-0002143,location,Slovenia,https://www.wikidata.org/wiki/Q189915
+DRV-CORPUS-L02-0002143,location,Balkans,https://www.wikidata.org/wiki/Q189915
+DRV-CORPUS-L02-0002290,place_identity,mountain range,https://www.wikidata.org/wiki/Q333711
+DRV-CORPUS-L02-0002290,descriptive_identity,mountain range,https://www.wikidata.org/wiki/Q333711
+DRV-CORPUS-L02-0002290,descriptive_identity,mountain range in Lebanon,https://www.wikidata.org/wiki/Q333711
+DRV-CORPUS-L02-0002290,geometry_with_crs,Point(36.115833333 34.300833333),https://www.wikidata.org/wiki/Q333711
+DRV-CORPUS-L02-0002290,elevation,3088000.0,https://www.wikidata.org/wiki/Q333711
+DRV-CORPUS-L02-0002290,location,Lebanon,https://www.wikidata.org/wiki/Q333711
+DRV-CORPUS-L02-0002669,place_identity,mountain range,https://www.wikidata.org/wiki/Q170383
+DRV-CORPUS-L02-0002669,descriptive_identity,mountain range,https://www.wikidata.org/wiki/Q170383
+DRV-CORPUS-L02-0002669,descriptive_identity,mountain range in Niger,https://www.wikidata.org/wiki/Q170383
+DRV-CORPUS-L02-0002669,geometry_with_crs,Point(7.999995225 18.280011521),https://www.wikidata.org/wiki/Q170383
+DRV-CORPUS-L02-0002669,elevation,2022000.0,https://www.wikidata.org/wiki/Q170383
+DRV-CORPUS-L02-0002669,location,Niger,https://www.wikidata.org/wiki/Q170383
+DRV-CORPUS-L02-0002669,place_identity,massif,https://www.wikidata.org/wiki/Q170383
+DRV-CORPUS-L02-0002669,descriptive_identity,massif,https://www.wikidata.org/wiki/Q170383
+DRV-CORPUS-L02-0002669,location,Arlit Department,https://www.wikidata.org/wiki/Q170383
+DRV-CORPUS-L02-0003330,place_identity,mountain range,https://www.wikidata.org/wiki/Q271435
+DRV-CORPUS-L02-0003330,descriptive_identity,mountain range,https://www.wikidata.org/wiki/Q271435
+DRV-CORPUS-L02-0003330,descriptive_identity,mountain range in central India,https://www.wikidata.org/wiki/Q271435
+DRV-CORPUS-L02-0003330,geometry_with_crs,Point(82.004802139 24.617504804),https://www.wikidata.org/wiki/Q271435
+DRV-CORPUS-L02-0003330,elevation,752000.0,https://www.wikidata.org/wiki/Q271435
+DRV-CORPUS-L02-0003330,location,India,https://www.wikidata.org/wiki/Q271435
+DRV-CORPUS-L02-0003330,location,Uttar Pradesh,https://www.wikidata.org/wiki/Q271435
+DRV-CORPUS-L02-0003330,location,Madhya Pradesh,https://www.wikidata.org/wiki/Q271435
+DRV-CORPUS-L02-0003330,location,Chhattisgarh,https://www.wikidata.org/wiki/Q271435
+DRV-CORPUS-L02-0003330,location,Bihar,https://www.wikidata.org/wiki/Q271435
+DRV-CORPUS-L02-0003330,location,Gujarat,https://www.wikidata.org/wiki/Q271435
+DRV-CORPUS-L02-0003186,place_identity,mountain,https://www.wikidata.org/wiki/Q208081
+DRV-CORPUS-L02-0003186,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q208081
+DRV-CORPUS-L02-0003186,descriptive_identity,highest mountain of the Pyrenees,https://www.wikidata.org/wiki/Q208081
+DRV-CORPUS-L02-0003186,geometry_with_crs,Point(0.656686111 42.630991666),https://www.wikidata.org/wiki/Q208081
+DRV-CORPUS-L02-0003186,elevation,3404000.0,https://www.wikidata.org/wiki/Q208081
+DRV-CORPUS-L02-0003186,location,Spain,https://www.wikidata.org/wiki/Q208081
+DRV-CORPUS-L02-0003186,place_identity,three-thousander,https://www.wikidata.org/wiki/Q208081
+DRV-CORPUS-L02-0003186,descriptive_identity,three-thousander,https://www.wikidata.org/wiki/Q208081
+DRV-CORPUS-L02-0003186,place_identity,main peak,https://www.wikidata.org/wiki/Q208081
+DRV-CORPUS-L02-0003186,descriptive_identity,main peak,https://www.wikidata.org/wiki/Q208081
+DRV-CORPUS-L02-0003186,location,Benasque,https://www.wikidata.org/wiki/Q208081
+DRV-CORPUS-L02-0003477,place_identity,mountain range,https://www.wikidata.org/wiki/Q194196
+DRV-CORPUS-L02-0003477,descriptive_identity,mountain range,https://www.wikidata.org/wiki/Q194196
+DRV-CORPUS-L02-0003477,descriptive_identity,upland region in Russia,https://www.wikidata.org/wiki/Q194196
+DRV-CORPUS-L02-0003477,geometry_with_crs,Point(33.5 57.0),https://www.wikidata.org/wiki/Q194196
+DRV-CORPUS-L02-0003477,location,Russia,https://www.wikidata.org/wiki/Q194196
+DRV-CORPUS-L02-0003477,place_identity,hill,https://www.wikidata.org/wiki/Q194196
+DRV-CORPUS-L02-0003477,descriptive_identity,hill,https://www.wikidata.org/wiki/Q194196
+DRV-CORPUS-L02-0003477,place_identity,upland,https://www.wikidata.org/wiki/Q194196
+DRV-CORPUS-L02-0003477,descriptive_identity,upland,https://www.wikidata.org/wiki/Q194196
+DRV-CORPUS-L02-0003459,place_identity,asteroid,https://www.wikidata.org/wiki/Q150863
+DRV-CORPUS-L02-0003459,descriptive_identity,asteroid,https://www.wikidata.org/wiki/Q150863
+DRV-CORPUS-L02-0003459,descriptive_identity,main-belt asteroid,https://www.wikidata.org/wiki/Q150863
+DRV-CORPUS-L02-0003459,historical_name,Euphrosyne,https://www.wikidata.org/wiki/Q150863
+DRV-CORPUS-L02-0003966,place_identity,asteroid,https://www.wikidata.org/wiki/Q135808
+DRV-CORPUS-L02-0003966,descriptive_identity,asteroid,https://www.wikidata.org/wiki/Q135808
+DRV-CORPUS-L02-0003966,descriptive_identity,main-belt asteroid,https://www.wikidata.org/wiki/Q135808
+DRV-CORPUS-L02-0003966,historical_name,Felicitas,https://www.wikidata.org/wiki/Q135808
+DRV-CORPUS-L02-0004163,place_identity,asteroid,https://www.wikidata.org/wiki/Q109942
+DRV-CORPUS-L02-0004163,descriptive_identity,asteroid,https://www.wikidata.org/wiki/Q109942
+DRV-CORPUS-L02-0004163,descriptive_identity,main-belt asteroid,https://www.wikidata.org/wiki/Q109942
+DRV-CORPUS-L02-0004163,historical_name,Vienna,https://www.wikidata.org/wiki/Q109942
+DRV-CORPUS-L02-0004893,place_identity,asteroid,https://www.wikidata.org/wiki/Q145367
+DRV-CORPUS-L02-0004893,descriptive_identity,asteroid,https://www.wikidata.org/wiki/Q145367
+DRV-CORPUS-L02-0004893,descriptive_identity,main-belt asteroid,https://www.wikidata.org/wiki/Q145367
+DRV-CORPUS-L02-0004893,historical_name,Phthia,https://www.wikidata.org/wiki/Q145367
+DRV-CORPUS-L02-0004172,place_identity,asteroid,https://www.wikidata.org/wiki/Q148000
+DRV-CORPUS-L02-0004172,descriptive_identity,asteroid,https://www.wikidata.org/wiki/Q148000
+DRV-CORPUS-L02-0004172,descriptive_identity,main-belt asteroid,https://www.wikidata.org/wiki/Q148000
+DRV-CORPUS-L02-0004172,historical_name,Bertha Schwarz,https://www.wikidata.org/wiki/Q148000
+DRV-CORPUS-L02-0006204,place_identity,asteroid,https://www.wikidata.org/wiki/Q150935
+DRV-CORPUS-L02-0006204,descriptive_identity,asteroid,https://www.wikidata.org/wiki/Q150935
+DRV-CORPUS-L02-0006204,descriptive_identity,main-belt asteroid,https://www.wikidata.org/wiki/Q150935
+DRV-CORPUS-L02-0006204,historical_name,consistency,https://www.wikidata.org/wiki/Q150935
+DRV-CORPUS-L02-0004625,place_identity,asteroid,https://www.wikidata.org/wiki/Q109932
+DRV-CORPUS-L02-0004625,descriptive_identity,asteroid,https://www.wikidata.org/wiki/Q109932
+DRV-CORPUS-L02-0004625,descriptive_identity,main-belt asteroid,https://www.wikidata.org/wiki/Q109932
+DRV-CORPUS-L02-0004625,historical_name,Helle,https://www.wikidata.org/wiki/Q109932
+LIBSRC-LIB34-ENT-GEO-0001971,place_identity,mountain,https://www.wikidata.org/wiki/Q21806280
+LIBSRC-LIB34-ENT-GEO-0001971,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q21806280
+LIBSRC-LIB34-ENT-GEO-0001971,descriptive_identity,"mountain in Maidan Wardak, Afghanistan",https://www.wikidata.org/wiki/Q21806280
+LIBSRC-LIB34-ENT-GEO-0001971,geometry_with_crs,Point(68.673333333 34.046944444),https://www.wikidata.org/wiki/Q21806280
+LIBSRC-LIB34-ENT-GEO-0001971,location,Afghanistan,https://www.wikidata.org/wiki/Q21806280
+LIBSRC-LIB34-ENT-GEO-0001971,location,Maidan Wardak Province,https://www.wikidata.org/wiki/Q21806280
+LIBSRC-LIB34-ENT-GEO-0017521,place_identity,mountain,https://www.wikidata.org/wiki/Q21783782
+LIBSRC-LIB34-ENT-GEO-0017521,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q21783782
+LIBSRC-LIB34-ENT-GEO-0017521,descriptive_identity,mountain in Afghanistan,https://www.wikidata.org/wiki/Q21783782
+LIBSRC-LIB34-ENT-GEO-0017521,geometry_with_crs,Point(66.927222222 33.099722222),https://www.wikidata.org/wiki/Q21783782
+LIBSRC-LIB34-ENT-GEO-0017521,elevation,3485000.0,https://www.wikidata.org/wiki/Q21783782
+LIBSRC-LIB34-ENT-GEO-0017521,location,Afghanistan,https://www.wikidata.org/wiki/Q21783782
+LIBSRC-LIB34-ENT-GEO-0026761,place_identity,mountain,https://www.wikidata.org/wiki/Q21820059
+LIBSRC-LIB34-ENT-GEO-0026761,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q21820059
+LIBSRC-LIB34-ENT-GEO-0026761,descriptive_identity,mountain in Afghanistan,https://www.wikidata.org/wiki/Q21820059
+LIBSRC-LIB34-ENT-GEO-0026761,geometry_with_crs,Point(64.529166666 32.841944444),https://www.wikidata.org/wiki/Q21820059
+LIBSRC-LIB34-ENT-GEO-0026761,location,Helmand Province,https://www.wikidata.org/wiki/Q21820059
+LIBSRC-LIB34-ENT-GEO-0026761,location,Afghanistan,https://www.wikidata.org/wiki/Q21820059
+LIBSRC-LIB34-ENT-GEO-0032921,place_identity,glacier,https://www.wikidata.org/wiki/Q2281892
+LIBSRC-LIB34-ENT-GEO-0032921,descriptive_identity,glacier,https://www.wikidata.org/wiki/Q2281892
+LIBSRC-LIB34-ENT-GEO-0032921,descriptive_identity,Antarctic glacier,https://www.wikidata.org/wiki/Q2281892
+LIBSRC-LIB34-ENT-GEO-0032921,geometry_with_crs,Point(162.166666666 -77.733333333),https://www.wikidata.org/wiki/Q2281892
+LIBSRC-LIB34-ENT-GEO-0032921,location,Antarctic Treaty area,https://www.wikidata.org/wiki/Q2281892
+LIBSRC-LIB34-ENT-GEO-0032921,historical_name,Thomas Griffith Taylor,https://www.wikidata.org/wiki/Q2281892
+LIBSRC-LIB34-ENT-GEO-0037541,place_identity,human settlement,https://www.wikidata.org/wiki/Q4720706
+LIBSRC-LIB34-ENT-GEO-0037541,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q4720706
+LIBSRC-LIB34-ENT-GEO-0037541,descriptive_identity,village in the Kalbajar District of Azerbaijan,https://www.wikidata.org/wiki/Q4720706
+LIBSRC-LIB34-ENT-GEO-0037541,geometry_with_crs,Point(46.279886972 39.968891099),https://www.wikidata.org/wiki/Q4720706
+LIBSRC-LIB34-ENT-GEO-0037541,location,Azerbaijan,https://www.wikidata.org/wiki/Q4720706
+LIBSRC-LIB34-ENT-GEO-0037541,location,Kalbajar District,https://www.wikidata.org/wiki/Q4720706
+LIBSRC-LIB34-ENT-GEO-0027531,place_identity,family name,https://www.wikidata.org/wiki/Q123574656
+LIBSRC-LIB34-ENT-GEO-0027531,descriptive_identity,family name,https://www.wikidata.org/wiki/Q123574656
+LIBSRC-LIB34-ENT-GEO-0038311,place_identity,human settlement,https://www.wikidata.org/wiki/Q4540422
+LIBSRC-LIB34-ENT-GEO-0038311,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q4540422
+LIBSRC-LIB34-ENT-GEO-0038311,descriptive_identity,human settlement in Azerbaijan,https://www.wikidata.org/wiki/Q4540422
+LIBSRC-LIB34-ENT-GEO-0038311,geometry_with_crs,Point(47.420400168 40.517613128),https://www.wikidata.org/wiki/Q4540422
+LIBSRC-LIB34-ENT-GEO-0038311,elevation,17000.0,https://www.wikidata.org/wiki/Q4540422
+LIBSRC-LIB34-ENT-GEO-0038311,location,Azerbaijan,https://www.wikidata.org/wiki/Q4540422
+LIBSRC-LIB34-ENT-GEO-0038311,location,Aghdash District,https://www.wikidata.org/wiki/Q4540422
+LIBSRC-LIB34-ENT-GEO-0039081,place_identity,human,https://www.wikidata.org/wiki/Q4319916
+LIBSRC-LIB34-ENT-GEO-0039081,descriptive_identity,human,https://www.wikidata.org/wiki/Q4319916
+LIBSRC-LIB34-ENT-GEO-0039081,descriptive_identity,Russian Orthodox religious writer (1832–1895),https://www.wikidata.org/wiki/Q4319916
+LIBSRC-LIB34-ENT-GEO-0042931,place_identity,human,https://www.wikidata.org/wiki/Q327183
+LIBSRC-LIB34-ENT-GEO-0042931,descriptive_identity,human,https://www.wikidata.org/wiki/Q327183
+LIBSRC-LIB34-ENT-GEO-0042931,descriptive_identity,American actor (1906–1970),https://www.wikidata.org/wiki/Q327183
+LIBSRC-LIB34-ENT-GEO-0047551,place_identity,glacier,https://www.wikidata.org/wiki/Q22531062
+LIBSRC-LIB34-ENT-GEO-0047551,descriptive_identity,glacier,https://www.wikidata.org/wiki/Q22531062
+LIBSRC-LIB34-ENT-GEO-0047551,descriptive_identity,"glacier in British Columbia, Canada",https://www.wikidata.org/wiki/Q22531062
+LIBSRC-LIB34-ENT-GEO-0047551,geometry_with_crs,Point(-116.53532 50.43329),https://www.wikidata.org/wiki/Q22531062
+LIBSRC-LIB34-ENT-GEO-0047551,location,British Columbia,https://www.wikidata.org/wiki/Q22531062
+LIBSRC-LIB34-ENT-GEO-0047551,location,Canada,https://www.wikidata.org/wiki/Q22531062
+LIBSRC-LIB34-ENT-GEO-0048321,place_identity,ice field,https://www.wikidata.org/wiki/Q7161888
+LIBSRC-LIB34-ENT-GEO-0048321,descriptive_identity,ice field,https://www.wikidata.org/wiki/Q7161888
+LIBSRC-LIB34-ENT-GEO-0048321,descriptive_identity,"ice field in British Columbia, Canada",https://www.wikidata.org/wiki/Q7161888
+LIBSRC-LIB34-ENT-GEO-0048321,geometry_with_crs,Point(-123.366666666 50.366666666),https://www.wikidata.org/wiki/Q7161888
+LIBSRC-LIB34-ENT-GEO-0048321,location,British Columbia,https://www.wikidata.org/wiki/Q7161888
+LIBSRC-LIB34-ENT-GEO-0048321,location,Canada,https://www.wikidata.org/wiki/Q7161888
+LIBSRC-LIB34-ENT-GEO-0043701,place_identity,municipality of Brazil,https://www.wikidata.org/wiki/Q651613
+LIBSRC-LIB34-ENT-GEO-0043701,descriptive_identity,municipality of Brazil,https://www.wikidata.org/wiki/Q651613
+LIBSRC-LIB34-ENT-GEO-0043701,descriptive_identity,"municipality of the state of Pará, Brazil",https://www.wikidata.org/wiki/Q651613
+LIBSRC-LIB34-ENT-GEO-0043701,geometry_with_crs,Point(-48.96 -1.975),https://www.wikidata.org/wiki/Q651613
+LIBSRC-LIB34-ENT-GEO-0043701,elevation,17000.0,https://www.wikidata.org/wiki/Q651613
+LIBSRC-LIB34-ENT-GEO-0043701,location,Pará,https://www.wikidata.org/wiki/Q651613
+LIBSRC-LIB34-ENT-GEO-0043701,location,Brazil,https://www.wikidata.org/wiki/Q651613
+LIBSRC-LIB34-ENT-GEO-0062181,place_identity,medium regional center,https://www.wikidata.org/wiki/Q82917
+LIBSRC-LIB34-ENT-GEO-0062181,descriptive_identity,medium regional center,https://www.wikidata.org/wiki/Q82917
+LIBSRC-LIB34-ENT-GEO-0062181,descriptive_identity,municipality in Germany,https://www.wikidata.org/wiki/Q82917
+LIBSRC-LIB34-ENT-GEO-0062181,geometry_with_crs,Point(9.256666666 47.924166666),https://www.wikidata.org/wiki/Q82917
+LIBSRC-LIB34-ENT-GEO-0062181,elevation,654000.0,https://www.wikidata.org/wiki/Q82917
+LIBSRC-LIB34-ENT-GEO-0062181,location,Germany,https://www.wikidata.org/wiki/Q82917
+LIBSRC-LIB34-ENT-GEO-0062181,place_identity,urban municipality in Germany,https://www.wikidata.org/wiki/Q82917
+LIBSRC-LIB34-ENT-GEO-0062181,descriptive_identity,urban municipality in Germany,https://www.wikidata.org/wiki/Q82917
+LIBSRC-LIB34-ENT-GEO-0062181,location,Pfullendorf VVG,https://www.wikidata.org/wiki/Q82917
+LIBSRC-LIB34-ENT-GEO-0062181,location,Sigmaringen District,https://www.wikidata.org/wiki/Q82917
+LIBSRC-LIB34-ENT-GEO-0066801,place_identity,megalithic tomb,https://www.wikidata.org/wiki/Q110042972
+LIBSRC-LIB34-ENT-GEO-0066801,descriptive_identity,megalithic tomb,https://www.wikidata.org/wiki/Q110042972
+LIBSRC-LIB34-ENT-GEO-0066801,descriptive_identity,The megalithic tomb DÖN 4,https://www.wikidata.org/wiki/Q110042972
+LIBSRC-LIB34-ENT-GEO-0066801,geometry_with_crs,Point(11.3370799 52.2613889),https://www.wikidata.org/wiki/Q110042972
+LIBSRC-LIB34-ENT-GEO-0066801,location,Germany,https://www.wikidata.org/wiki/Q110042972
+LIBSRC-LIB34-ENT-GEO-0066801,location,Hohe Börde,https://www.wikidata.org/wiki/Q110042972
+LIBSRC-LIB34-ENT-GEO-0068341,place_identity,spring,https://www.wikidata.org/wiki/Q23827294
+LIBSRC-LIB34-ENT-GEO-0068341,descriptive_identity,spring,https://www.wikidata.org/wiki/Q23827294
+LIBSRC-LIB34-ENT-GEO-0068341,descriptive_identity,"spring in Tamanghasset Province, Algeria",https://www.wikidata.org/wiki/Q23827294
+LIBSRC-LIB34-ENT-GEO-0068341,geometry_with_crs,Point(3.374444444 28.052222222),https://www.wikidata.org/wiki/Q23827294
+LIBSRC-LIB34-ENT-GEO-0068341,elevation,594000.0,https://www.wikidata.org/wiki/Q23827294
+LIBSRC-LIB34-ENT-GEO-0068341,location,Algeria,https://www.wikidata.org/wiki/Q23827294
+LIBSRC-LIB34-ENT-GEO-0068341,location,Tamanrasset Province,https://www.wikidata.org/wiki/Q23827294
+LIBSRC-LIB34-ENT-GEO-0052941,place_identity,stream,https://www.wikidata.org/wiki/Q29988951
+LIBSRC-LIB34-ENT-GEO-0052941,descriptive_identity,stream,https://www.wikidata.org/wiki/Q29988951
+LIBSRC-LIB34-ENT-GEO-0052941,descriptive_identity,stream in People's Republic of China,https://www.wikidata.org/wiki/Q29988951
+LIBSRC-LIB34-ENT-GEO-0052941,geometry_with_crs,Point(86.85 44.25),https://www.wikidata.org/wiki/Q29988951
+LIBSRC-LIB34-ENT-GEO-0052941,location,People's Republic of China,https://www.wikidata.org/wiki/Q29988951
+LIBSRC-LIB34-ENT-GEO-0052941,location,Xinjiang,https://www.wikidata.org/wiki/Q29988951
+LIBSRC-LIB34-ENT-GEO-0069111,place_identity,city,https://www.wikidata.org/wiki/Q191106
+LIBSRC-LIB34-ENT-GEO-0069111,descriptive_identity,city,https://www.wikidata.org/wiki/Q191106
+LIBSRC-LIB34-ENT-GEO-0069111,descriptive_identity,"town in Lääne County, Estonia",https://www.wikidata.org/wiki/Q191106
+LIBSRC-LIB34-ENT-GEO-0069111,geometry_with_crs,Point(23.536944444 58.946944444),https://www.wikidata.org/wiki/Q191106
+LIBSRC-LIB34-ENT-GEO-0069111,location,Estonia,https://www.wikidata.org/wiki/Q191106
+LIBSRC-LIB34-ENT-GEO-0069111,location,Haapsalu City,https://www.wikidata.org/wiki/Q191106
+LIBSRC-LIB34-ENT-GEO-0055251,place_identity,mountain,https://www.wikidata.org/wiki/Q28805202
+LIBSRC-LIB34-ENT-GEO-0055251,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q28805202
+LIBSRC-LIB34-ENT-GEO-0055251,descriptive_identity,mountain in People's Republic of China,https://www.wikidata.org/wiki/Q28805202
+LIBSRC-LIB34-ENT-GEO-0055251,geometry_with_crs,Point(109.6811 19.1767),https://www.wikidata.org/wiki/Q28805202
+LIBSRC-LIB34-ENT-GEO-0055251,location,People's Republic of China,https://www.wikidata.org/wiki/Q28805202
+LIBSRC-LIB34-ENT-GEO-0070651,place_identity,mountain,https://www.wikidata.org/wiki/Q23945526
+LIBSRC-LIB34-ENT-GEO-0070651,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q23945526
+LIBSRC-LIB34-ENT-GEO-0070651,descriptive_identity,mountain in Egypt,https://www.wikidata.org/wiki/Q23945526
+LIBSRC-LIB34-ENT-GEO-0070651,geometry_with_crs,Point(33.2375 29.105555555),https://www.wikidata.org/wiki/Q23945526
+LIBSRC-LIB34-ENT-GEO-0070651,location,Egypt,https://www.wikidata.org/wiki/Q23945526
+LIBSRC-LIB34-ENT-GEO-0070651,location,South Sinai Governorate,https://www.wikidata.org/wiki/Q23945526
+LIBSRC-LIB34-ENT-GEO-0080661,place_identity,commune of France,https://www.wikidata.org/wiki/Q845987
+LIBSRC-LIB34-ENT-GEO-0080661,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q845987
+LIBSRC-LIB34-ENT-GEO-0080661,descriptive_identity,"commune in Charente-Maritime, France",https://www.wikidata.org/wiki/Q845987
+LIBSRC-LIB34-ENT-GEO-0080661,geometry_with_crs,Point(-1.367222222 46.203055555),https://www.wikidata.org/wiki/Q845987
+LIBSRC-LIB34-ENT-GEO-0080661,elevation,17000.0,https://www.wikidata.org/wiki/Q845987
+LIBSRC-LIB34-ENT-GEO-0080661,location,canton of Saint-Martin-de-Ré,https://www.wikidata.org/wiki/Q845987
+LIBSRC-LIB34-ENT-GEO-0080661,location,Arrondissement of La Rochelle,https://www.wikidata.org/wiki/Q845987
+LIBSRC-LIB34-ENT-GEO-0080661,location,Charente-Maritime,https://www.wikidata.org/wiki/Q845987
+LIBSRC-LIB34-ENT-GEO-0080661,elevation,0.0,https://www.wikidata.org/wiki/Q845987
+LIBSRC-LIB34-ENT-GEO-0080661,elevation,10000.0,https://www.wikidata.org/wiki/Q845987
+LIBSRC-LIB34-ENT-GEO-0080661,location,France,https://www.wikidata.org/wiki/Q845987
+LIBSRC-LIB34-ENT-GEO-0086051,place_identity,Samian Ware Discovery Site,https://www.wikidata.org/wiki/Q677814
+LIBSRC-LIB34-ENT-GEO-0086051,descriptive_identity,Samian Ware Discovery Site,https://www.wikidata.org/wiki/Q677814
+LIBSRC-LIB34-ENT-GEO-0086051,descriptive_identity,archaeological site,https://www.wikidata.org/wiki/Q677814
+LIBSRC-LIB34-ENT-GEO-0086051,geometry_with_crs,Point(3.092094444 44.097172222),https://www.wikidata.org/wiki/Q677814
+LIBSRC-LIB34-ENT-GEO-0086051,location,France,https://www.wikidata.org/wiki/Q677814
+LIBSRC-LIB34-ENT-GEO-0086051,geometry_with_crs,Point(3.083333 44.099998),https://www.wikidata.org/wiki/Q677814
+LIBSRC-LIB34-ENT-GEO-0086051,place_identity,Celtic archaeological site,https://www.wikidata.org/wiki/Q677814
+LIBSRC-LIB34-ENT-GEO-0086051,descriptive_identity,Celtic archaeological site,https://www.wikidata.org/wiki/Q677814
+LIBSRC-LIB34-ENT-GEO-0086051,location,Millau,https://www.wikidata.org/wiki/Q677814
+LIBSRC-LIB34-ENT-GEO-0085281,place_identity,commune of France,https://www.wikidata.org/wiki/Q651227
+LIBSRC-LIB34-ENT-GEO-0085281,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q651227
+LIBSRC-LIB34-ENT-GEO-0085281,descriptive_identity,"commune in Haute-Garonne, France",https://www.wikidata.org/wiki/Q651227
+LIBSRC-LIB34-ENT-GEO-0085281,geometry_with_crs,Point(1.596944444 43.437222222),https://www.wikidata.org/wiki/Q651227
+LIBSRC-LIB34-ENT-GEO-0085281,elevation,172000.0,https://www.wikidata.org/wiki/Q651227
+LIBSRC-LIB34-ENT-GEO-0085281,location,France,https://www.wikidata.org/wiki/Q651227
+LIBSRC-LIB34-ENT-GEO-0085281,elevation,271000.0,https://www.wikidata.org/wiki/Q651227
+LIBSRC-LIB34-ENT-GEO-0085281,elevation,156000.0,https://www.wikidata.org/wiki/Q651227
+LIBSRC-LIB34-ENT-GEO-0085281,elevation,200000.0,https://www.wikidata.org/wiki/Q651227
+LIBSRC-LIB34-ENT-GEO-0085281,location,arrondissement of Toulouse,https://www.wikidata.org/wiki/Q651227
+LIBSRC-LIB34-ENT-GEO-0085281,location,canton of Montgiscard,https://www.wikidata.org/wiki/Q651227
+LIBSRC-LIB34-ENT-GEO-0085281,location,Haute-Garonne,https://www.wikidata.org/wiki/Q651227
+LIBSRC-LIB34-ENT-GEO-0079891,place_identity,commune of France,https://www.wikidata.org/wiki/Q625208
+LIBSRC-LIB34-ENT-GEO-0079891,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q625208
+LIBSRC-LIB34-ENT-GEO-0079891,descriptive_identity,"commune in Corrèze, France",https://www.wikidata.org/wiki/Q625208
+LIBSRC-LIB34-ENT-GEO-0079891,geometry_with_crs,Point(1.883611111 45.609166666),https://www.wikidata.org/wiki/Q625208
+LIBSRC-LIB34-ENT-GEO-0079891,elevation,715000.0,https://www.wikidata.org/wiki/Q625208
+LIBSRC-LIB34-ENT-GEO-0079891,location,France,https://www.wikidata.org/wiki/Q625208
+LIBSRC-LIB34-ENT-GEO-0079891,elevation,850000.0,https://www.wikidata.org/wiki/Q625208
+LIBSRC-LIB34-ENT-GEO-0079891,elevation,632000.0,https://www.wikidata.org/wiki/Q625208
+LIBSRC-LIB34-ENT-GEO-0079891,location,canton of Bugeat,https://www.wikidata.org/wiki/Q625208
+LIBSRC-LIB34-ENT-GEO-0079891,location,arrondissement of Ussel,https://www.wikidata.org/wiki/Q625208
+LIBSRC-LIB34-ENT-GEO-0079891,location,Arrondissement of Tulle,https://www.wikidata.org/wiki/Q625208
+LIBSRC-LIB34-ENT-GEO-0079891,location,Corrèze,https://www.wikidata.org/wiki/Q625208
+LIBSRC-LIB34-ENT-GEO-0082201,place_identity,commune of France,https://www.wikidata.org/wiki/Q659931
+LIBSRC-LIB34-ENT-GEO-0082201,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q659931
+LIBSRC-LIB34-ENT-GEO-0082201,descriptive_identity,"commune in Meurthe-et-Moselle, France",https://www.wikidata.org/wiki/Q659931
+LIBSRC-LIB34-ENT-GEO-0082201,geometry_with_crs,Point(5.600555555 49.446944444),https://www.wikidata.org/wiki/Q659931
+LIBSRC-LIB34-ENT-GEO-0082201,elevation,297000.0,https://www.wikidata.org/wiki/Q659931
+LIBSRC-LIB34-ENT-GEO-0082201,location,canton of Longuyon,https://www.wikidata.org/wiki/Q659931
+LIBSRC-LIB34-ENT-GEO-0082201,location,arrondissement of Briey,https://www.wikidata.org/wiki/Q659931
+LIBSRC-LIB34-ENT-GEO-0082201,location,Moselle,https://www.wikidata.org/wiki/Q659931
+LIBSRC-LIB34-ENT-GEO-0082201,location,Meurthe-et-Moselle,https://www.wikidata.org/wiki/Q659931
+LIBSRC-LIB34-ENT-GEO-0082201,elevation,203000.0,https://www.wikidata.org/wiki/Q659931
+LIBSRC-LIB34-ENT-GEO-0082201,elevation,389000.0,https://www.wikidata.org/wiki/Q659931
+LIBSRC-LIB34-ENT-GEO-0082201,place_identity,border city,https://www.wikidata.org/wiki/Q659931
+LIBSRC-LIB34-ENT-GEO-0082201,descriptive_identity,border city,https://www.wikidata.org/wiki/Q659931
+LIBSRC-LIB34-ENT-GEO-0082201,location,France,https://www.wikidata.org/wiki/Q659931
+LIBSRC-LIB34-ENT-GEO-0082971,place_identity,commune of France,https://www.wikidata.org/wiki/Q1433144
+LIBSRC-LIB34-ENT-GEO-0082971,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q1433144
+LIBSRC-LIB34-ENT-GEO-0082971,descriptive_identity,"commune in Haute-Garonne, France",https://www.wikidata.org/wiki/Q1433144
+LIBSRC-LIB34-ENT-GEO-0082971,geometry_with_crs,Point(1.4 43.451666666),https://www.wikidata.org/wiki/Q1433144
+LIBSRC-LIB34-ENT-GEO-0082971,elevation,163000.0,https://www.wikidata.org/wiki/Q1433144
+LIBSRC-LIB34-ENT-GEO-0082971,location,France,https://www.wikidata.org/wiki/Q1433144
+LIBSRC-LIB34-ENT-GEO-0082971,historical_name,Lèze,https://www.wikidata.org/wiki/Q1433144
+LIBSRC-LIB34-ENT-GEO-0082971,elevation,151000.0,https://www.wikidata.org/wiki/Q1433144
+LIBSRC-LIB34-ENT-GEO-0082971,elevation,173000.0,https://www.wikidata.org/wiki/Q1433144
+LIBSRC-LIB34-ENT-GEO-0082971,location,arrondissement of Muret,https://www.wikidata.org/wiki/Q1433144
+LIBSRC-LIB34-ENT-GEO-0082971,location,Haute-Garonne,https://www.wikidata.org/wiki/Q1433144
+LIBSRC-LIB34-ENT-GEO-0093751,place_identity,glacier,https://www.wikidata.org/wiki/Q24832372
+LIBSRC-LIB34-ENT-GEO-0093751,descriptive_identity,glacier,https://www.wikidata.org/wiki/Q24832372
+LIBSRC-LIB34-ENT-GEO-0093751,geometry_with_crs,Point(-53.2 72.016666666),https://www.wikidata.org/wiki/Q24832372
+LIBSRC-LIB34-ENT-GEO-0093751,location,Avannaata,https://www.wikidata.org/wiki/Q24832372
+LIBSRC-LIB34-ENT-GEO-0093751,location,Greenland,https://www.wikidata.org/wiki/Q24832372
+LIBSRC-LIB34-ENT-GEO-0094521,place_identity,islet,https://www.wikidata.org/wiki/Q24888343
+LIBSRC-LIB34-ENT-GEO-0094521,descriptive_identity,islet,https://www.wikidata.org/wiki/Q24888343
+LIBSRC-LIB34-ENT-GEO-0094521,descriptive_identity,"islet off Mesologgi, Greece",https://www.wikidata.org/wiki/Q24888343
+LIBSRC-LIB34-ENT-GEO-0094521,geometry_with_crs,Point(21.38333 38.33333),https://www.wikidata.org/wiki/Q24888343
+LIBSRC-LIB34-ENT-GEO-0094521,location,Greece,https://www.wikidata.org/wiki/Q24888343
+LIBSRC-LIB34-ENT-GEO-0094521,location,Missolonghi Municipality,https://www.wikidata.org/wiki/Q24888343
+LIBSRC-LIB34-ENT-GEO-0098371,place_identity,human settlement,https://www.wikidata.org/wiki/Q3406457
+LIBSRC-LIB34-ENT-GEO-0098371,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q3406457
+LIBSRC-LIB34-ENT-GEO-0098371,descriptive_identity,"village in Serres, Greece",https://www.wikidata.org/wiki/Q3406457
+LIBSRC-LIB34-ENT-GEO-0098371,geometry_with_crs,Point(24.041388888 41.028611111),https://www.wikidata.org/wiki/Q3406457
+LIBSRC-LIB34-ENT-GEO-0098371,elevation,54000.0,https://www.wikidata.org/wiki/Q3406457
+LIBSRC-LIB34-ENT-GEO-0098371,location,Commune of Symvoli,https://www.wikidata.org/wiki/Q3406457
+LIBSRC-LIB34-ENT-GEO-0098371,location,Amphipolis Municipality,https://www.wikidata.org/wiki/Q3406457
+LIBSRC-LIB34-ENT-GEO-0098371,location,Greece,https://www.wikidata.org/wiki/Q3406457
+LIBSRC-LIB34-ENT-GEO-0096831,place_identity,city,https://www.wikidata.org/wiki/Q183199
+LIBSRC-LIB34-ENT-GEO-0096831,descriptive_identity,city,https://www.wikidata.org/wiki/Q183199
+LIBSRC-LIB34-ENT-GEO-0096831,descriptive_identity,"capital and largest city of Ioannina and Epirus, Greece",https://www.wikidata.org/wiki/Q183199
+LIBSRC-LIB34-ENT-GEO-0096831,geometry_with_crs,Point(20.852222222 39.663611111),https://www.wikidata.org/wiki/Q183199
+LIBSRC-LIB34-ENT-GEO-0096831,elevation,490000.0,https://www.wikidata.org/wiki/Q183199
+LIBSRC-LIB34-ENT-GEO-0096831,location,Greece,https://www.wikidata.org/wiki/Q183199
+LIBSRC-LIB34-ENT-GEO-0096831,location,Commune of Ioannina,https://www.wikidata.org/wiki/Q183199
+LIBSRC-LIB34-ENT-GEO-0096831,location,Ioannina Municipality,https://www.wikidata.org/wiki/Q183199
+LIBSRC-LIB34-ENT-GEO-0102221,place_identity,settlement in Croatia,https://www.wikidata.org/wiki/Q917220
+LIBSRC-LIB34-ENT-GEO-0102221,descriptive_identity,settlement in Croatia,https://www.wikidata.org/wiki/Q917220
+LIBSRC-LIB34-ENT-GEO-0102221,descriptive_identity,"settlement in the Town of Crikvenica, Primorje-Gorski Kotar County, Croatia",https://www.wikidata.org/wiki/Q917220
+LIBSRC-LIB34-ENT-GEO-0102221,geometry_with_crs,Point(14.616392967 45.228245856),https://www.wikidata.org/wiki/Q917220
+LIBSRC-LIB34-ENT-GEO-0102221,elevation,0.0,https://www.wikidata.org/wiki/Q917220
+LIBSRC-LIB34-ENT-GEO-0102221,location,Crikvenica,https://www.wikidata.org/wiki/Q917220
+LIBSRC-LIB34-ENT-GEO-0102221,location,Primorje-Gorski Kotar County,https://www.wikidata.org/wiki/Q917220
+LIBSRC-LIB34-ENT-GEO-0102221,location,Croatia,https://www.wikidata.org/wiki/Q917220
+LIBSRC-LIB34-ENT-GEO-0107611,place_identity,family name,https://www.wikidata.org/wiki/Q42346687
+LIBSRC-LIB34-ENT-GEO-0107611,descriptive_identity,family name,https://www.wikidata.org/wiki/Q42346687
+LIBSRC-LIB34-ENT-GEO-0112231,place_identity,cross-reference,https://www.wikidata.org/wiki/Q108495974
+LIBSRC-LIB34-ENT-GEO-0112231,descriptive_identity,cross-reference,https://www.wikidata.org/wiki/Q108495974
+LIBSRC-LIB34-ENT-GEO-0112231,descriptive_identity,cross-reference in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),https://www.wikidata.org/wiki/Q108495974
+LIBSRC-LIB34-ENT-GEO-0029301,place_identity,family name,https://www.wikidata.org/wiki/Q37217143
+LIBSRC-LIB34-ENT-GEO-0029301,descriptive_identity,family name,https://www.wikidata.org/wiki/Q37217143
+LIBSRC-LIB34-ENT-GEO-0116851,place_identity,village,https://www.wikidata.org/wiki/Q5863517
+LIBSRC-LIB34-ENT-GEO-0116851,descriptive_identity,village,https://www.wikidata.org/wiki/Q5863517
+LIBSRC-LIB34-ENT-GEO-0116851,descriptive_identity,village in Iran,https://www.wikidata.org/wiki/Q5863517
+LIBSRC-LIB34-ENT-GEO-0116851,geometry_with_crs,Point(46.49083333 36.48138889),https://www.wikidata.org/wiki/Q5863517
+LIBSRC-LIB34-ENT-GEO-0116851,location,Iran,https://www.wikidata.org/wiki/Q5863517
+LIBSRC-LIB34-ENT-GEO-0116851,location,Behi-e Feyzolah Beygi Rural District,https://www.wikidata.org/wiki/Q5863517
+LIBSRC-LIB34-ENT-GEO-0122241,place_identity,mountain,https://www.wikidata.org/wiki/Q26872132
+LIBSRC-LIB34-ENT-GEO-0122241,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q26872132
+LIBSRC-LIB34-ENT-GEO-0122241,descriptive_identity,mountain in Iran,https://www.wikidata.org/wiki/Q26872132
+LIBSRC-LIB34-ENT-GEO-0122241,geometry_with_crs,Point(52.1125 35.441111111),https://www.wikidata.org/wiki/Q26872132
+LIBSRC-LIB34-ENT-GEO-0122241,location,Iran,https://www.wikidata.org/wiki/Q26872132
+LIBSRC-LIB34-ENT-GEO-0122241,location,Semnan Province,https://www.wikidata.org/wiki/Q26872132
+LIBSRC-LIB34-ENT-GEO-0124551,place_identity,mountain,https://www.wikidata.org/wiki/Q26961581
+LIBSRC-LIB34-ENT-GEO-0124551,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q26961581
+LIBSRC-LIB34-ENT-GEO-0124551,descriptive_identity,"mountain in Fars Province, Iran; geonames ID = 8608924",https://www.wikidata.org/wiki/Q26961581
+LIBSRC-LIB34-ENT-GEO-0124551,geometry_with_crs,Point(52.855 30.087777777),https://www.wikidata.org/wiki/Q26961581
+LIBSRC-LIB34-ENT-GEO-0124551,location,Iran,https://www.wikidata.org/wiki/Q26961581
+LIBSRC-LIB34-ENT-GEO-0124551,location,Fars Province,https://www.wikidata.org/wiki/Q26961581
+LIBSRC-LIB34-ENT-GEO-0126861,place_identity,human settlement,https://www.wikidata.org/wiki/Q7916090
+LIBSRC-LIB34-ENT-GEO-0126861,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q7916090
+LIBSRC-LIB34-ENT-GEO-0126861,descriptive_identity,"village in South Khorasan, Iran",https://www.wikidata.org/wiki/Q7916090
+LIBSRC-LIB34-ENT-GEO-0126861,geometry_with_crs,Point(59.53 33.3175),https://www.wikidata.org/wiki/Q7916090
+LIBSRC-LIB34-ENT-GEO-0126861,location,Iran,https://www.wikidata.org/wiki/Q7916090
+LIBSRC-LIB34-ENT-GEO-0126861,location,Shakhenat Rural District,https://www.wikidata.org/wiki/Q7916090
+LIBSRC-LIB34-ENT-GEO-0312681,place_identity,county seat,https://www.wikidata.org/wiki/Q41087
+LIBSRC-LIB34-ENT-GEO-0312681,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q41087
+LIBSRC-LIB34-ENT-GEO-0312681,descriptive_identity,capital city of the U.S. state of North Carolina and seat of Wake County,https://www.wikidata.org/wiki/Q41087
+LIBSRC-LIB34-ENT-GEO-0312681,geometry_with_crs,Point(-78.64 35.78),https://www.wikidata.org/wiki/Q41087
+LIBSRC-LIB34-ENT-GEO-0312681,elevation,96000.0,https://www.wikidata.org/wiki/Q41087
+LIBSRC-LIB34-ENT-GEO-0312681,location,United States,https://www.wikidata.org/wiki/Q41087
+LIBSRC-LIB34-ENT-GEO-0312681,historical_name,Walter Raleigh,https://www.wikidata.org/wiki/Q41087
+LIBSRC-LIB34-ENT-GEO-0312681,place_identity,big city,https://www.wikidata.org/wiki/Q41087
+LIBSRC-LIB34-ENT-GEO-0312681,descriptive_identity,big city,https://www.wikidata.org/wiki/Q41087
+LIBSRC-LIB34-ENT-GEO-0312681,place_identity,city of North Carolina,https://www.wikidata.org/wiki/Q41087
+LIBSRC-LIB34-ENT-GEO-0312681,descriptive_identity,city of North Carolina,https://www.wikidata.org/wiki/Q41087
+LIBSRC-LIB34-ENT-GEO-0312681,location,Wake County,https://www.wikidata.org/wiki/Q41087
+LIBSRC-LIB34-ENT-GEO-0206401,place_identity,canyon,https://www.wikidata.org/wiki/Q27800321
+LIBSRC-LIB34-ENT-GEO-0206401,descriptive_identity,canyon,https://www.wikidata.org/wiki/Q27800321
+LIBSRC-LIB34-ENT-GEO-0206401,geometry_with_crs,Point(-107.613333333 30.911388888),https://www.wikidata.org/wiki/Q27800321
+LIBSRC-LIB34-ENT-GEO-0206401,elevation,1487000.0,https://www.wikidata.org/wiki/Q27800321
+LIBSRC-LIB34-ENT-GEO-0206401,location,Mexico,https://www.wikidata.org/wiki/Q27800321
+LIBSRC-LIB34-ENT-GEO-0206401,location,Chihuahua,https://www.wikidata.org/wiki/Q27800321
+LIBSRC-LIB34-ENT-GEO-0000431,place_identity,mountain,https://www.wikidata.org/wiki/Q21737651
+LIBSRC-LIB34-ENT-GEO-0000431,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q21737651
+LIBSRC-LIB34-ENT-GEO-0000431,descriptive_identity,mountain in Afghanistan,https://www.wikidata.org/wiki/Q21737651
+LIBSRC-LIB34-ENT-GEO-0000431,geometry_with_crs,Point(62.708055555 33.815555555),https://www.wikidata.org/wiki/Q21737651
+LIBSRC-LIB34-ENT-GEO-0000431,elevation,2155000.0,https://www.wikidata.org/wiki/Q21737651
+LIBSRC-LIB34-ENT-GEO-0000431,location,Afghanistan,https://www.wikidata.org/wiki/Q21737651
+LIBSRC-LIB34-ENT-GEO-0000431,location,Herat Province,https://www.wikidata.org/wiki/Q21737651
+LIBSRC-LIB34-ENT-GEO-0001201,place_identity,river,https://www.wikidata.org/wiki/Q21741197
+LIBSRC-LIB34-ENT-GEO-0001201,descriptive_identity,river,https://www.wikidata.org/wiki/Q21741197
+LIBSRC-LIB34-ENT-GEO-0001201,descriptive_identity,river in Afghanistan,https://www.wikidata.org/wiki/Q21741197
+LIBSRC-LIB34-ENT-GEO-0001201,geometry_with_crs,Point(68.960833333 36.121666666),https://www.wikidata.org/wiki/Q21741197
+LIBSRC-LIB34-ENT-GEO-0001201,location,Afghanistan,https://www.wikidata.org/wiki/Q21741197
+LIBSRC-LIB34-ENT-GEO-0001201,location,Baghlan Province,https://www.wikidata.org/wiki/Q21741197
+LIBSRC-LIB34-ENT-GEO-0215641,place_identity,waterfall,https://www.wikidata.org/wiki/Q34682358
+LIBSRC-LIB34-ENT-GEO-0215641,descriptive_identity,waterfall,https://www.wikidata.org/wiki/Q34682358
+LIBSRC-LIB34-ENT-GEO-0215641,descriptive_identity,waterfall in New Zealand,https://www.wikidata.org/wiki/Q34682358
+LIBSRC-LIB34-ENT-GEO-0215641,geometry_with_crs,Point(170.144 -43.701),https://www.wikidata.org/wiki/Q34682358
+LIBSRC-LIB34-ENT-GEO-0215641,location,New Zealand,https://www.wikidata.org/wiki/Q34682358
+LIBSRC-LIB34-ENT-GEO-0215641,location,Canterbury Region,https://www.wikidata.org/wiki/Q34682358
+LIBSRC-LIB34-ENT-GEO-0022141,place_identity,mountain,https://www.wikidata.org/wiki/Q21811186
+LIBSRC-LIB34-ENT-GEO-0022141,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q21811186
+LIBSRC-LIB34-ENT-GEO-0022141,descriptive_identity,"mountain in Maidan Wardak, Afghanistan",https://www.wikidata.org/wiki/Q21811186
+LIBSRC-LIB34-ENT-GEO-0022141,geometry_with_crs,Point(67.5625 34.377777777),https://www.wikidata.org/wiki/Q21811186
+LIBSRC-LIB34-ENT-GEO-0022141,location,Maidan Wardak Province,https://www.wikidata.org/wiki/Q21811186
+LIBSRC-LIB34-ENT-GEO-0022141,location,Afghanistan,https://www.wikidata.org/wiki/Q21811186
+LIBSRC-LIB34-ENT-GEO-0170751,place_identity,grave,https://www.wikidata.org/wiki/Q66133761
+LIBSRC-LIB34-ENT-GEO-0170751,descriptive_identity,grave,https://www.wikidata.org/wiki/Q66133761
+LIBSRC-LIB34-ENT-GEO-0170751,descriptive_identity,archaeological site in North Korea,https://www.wikidata.org/wiki/Q66133761
+LIBSRC-LIB34-ENT-GEO-0170751,geometry_with_crs,Point(125.4469 38.9608),https://www.wikidata.org/wiki/Q66133761
+LIBSRC-LIB34-ENT-GEO-0170751,location,North Korea,https://www.wikidata.org/wiki/Q66133761
+LIBSRC-LIB34-ENT-GEO-0171521,place_identity,dong of South Korea (legal),https://www.wikidata.org/wiki/Q12599621
+LIBSRC-LIB34-ENT-GEO-0171521,descriptive_identity,dong of South Korea (legal),https://www.wikidata.org/wiki/Q12599621
+LIBSRC-LIB34-ENT-GEO-0171521,descriptive_identity,South Korean neighbourhood,https://www.wikidata.org/wiki/Q12599621
+LIBSRC-LIB34-ENT-GEO-0171521,location,South Korea,https://www.wikidata.org/wiki/Q12599621
+LIBSRC-LIB34-ENT-GEO-0171521,location,Sangnok-gu,https://www.wikidata.org/wiki/Q12599621
+LIBSRC-LIB34-ENT-GEO-0178451,place_identity,commune of France,https://www.wikidata.org/wiki/Q946622
+LIBSRC-LIB34-ENT-GEO-0178451,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q946622
+LIBSRC-LIB34-ENT-GEO-0178451,descriptive_identity,"commune in Ariège, France",https://www.wikidata.org/wiki/Q946622
+LIBSRC-LIB34-ENT-GEO-0178451,geometry_with_crs,Point(0.963333333 42.941666666),https://www.wikidata.org/wiki/Q946622
+LIBSRC-LIB34-ENT-GEO-0178451,elevation,600000.0,https://www.wikidata.org/wiki/Q946622
+LIBSRC-LIB34-ENT-GEO-0178451,location,France,https://www.wikidata.org/wiki/Q946622
+LIBSRC-LIB34-ENT-GEO-0178451,elevation,946000.0,https://www.wikidata.org/wiki/Q946622
+LIBSRC-LIB34-ENT-GEO-0178451,elevation,1371000.0,https://www.wikidata.org/wiki/Q946622
+LIBSRC-LIB34-ENT-GEO-0178451,location,canton of Castillon-en-Couserans,https://www.wikidata.org/wiki/Q946622
+LIBSRC-LIB34-ENT-GEO-0178451,location,arrondissement of Saint-Girons,https://www.wikidata.org/wiki/Q946622
+LIBSRC-LIB34-ENT-GEO-0178451,location,Ariège,https://www.wikidata.org/wiki/Q946622
+LIBSRC-LIB34-ENT-GEO-0186151,place_identity,town of China,https://www.wikidata.org/wiki/Q10923330
+LIBSRC-LIB34-ENT-GEO-0186151,descriptive_identity,town of China,https://www.wikidata.org/wiki/Q10923330
+LIBSRC-LIB34-ENT-GEO-0186151,geometry_with_crs,Point(80.48876 40.78855),https://www.wikidata.org/wiki/Q10923330
+LIBSRC-LIB34-ENT-GEO-0186151,location,People's Republic of China,https://www.wikidata.org/wiki/Q10923330
+LIBSRC-LIB34-ENT-GEO-0186151,location,Aksu,https://www.wikidata.org/wiki/Q10923330
+LIBSRC-LIB34-ENT-GEO-0192311,place_identity,archaeological site,https://www.wikidata.org/wiki/Q21581722
+LIBSRC-LIB34-ENT-GEO-0192311,descriptive_identity,archaeological site,https://www.wikidata.org/wiki/Q21581722
+LIBSRC-LIB34-ENT-GEO-0192311,descriptive_identity,"archaeological site in Baalbek-Hermel Governorate, Lebanon",https://www.wikidata.org/wiki/Q21581722
+LIBSRC-LIB34-ENT-GEO-0192311,geometry_with_crs,Point(36.502777777 34.379722222),https://www.wikidata.org/wiki/Q21581722
+LIBSRC-LIB34-ENT-GEO-0192311,location,Lebanon,https://www.wikidata.org/wiki/Q21581722
+LIBSRC-LIB34-ENT-GEO-0192311,location,Baalbek-Hermel Governorate,https://www.wikidata.org/wiki/Q21581722
+LIBSRC-LIB34-ENT-GEO-0193081,place_identity,family name,https://www.wikidata.org/wiki/Q61711975
+LIBSRC-LIB34-ENT-GEO-0193081,descriptive_identity,family name,https://www.wikidata.org/wiki/Q61711975
+LIBSRC-LIB34-ENT-GEO-0203861,place_identity,department of Paraguay,https://www.wikidata.org/wiki/Q526176
+LIBSRC-LIB34-ENT-GEO-0203861,descriptive_identity,department of Paraguay,https://www.wikidata.org/wiki/Q526176
+LIBSRC-LIB34-ENT-GEO-0203861,geometry_with_crs,Point(-57.083333333 -24.1),https://www.wikidata.org/wiki/Q526176
+LIBSRC-LIB34-ENT-GEO-0203861,location,Paraguay,https://www.wikidata.org/wiki/Q526176
+LIBSRC-LIB34-ENT-GEO-0205401,place_identity,canyon,https://www.wikidata.org/wiki/Q27821476
+LIBSRC-LIB34-ENT-GEO-0205401,descriptive_identity,canyon,https://www.wikidata.org/wiki/Q27821476
+LIBSRC-LIB34-ENT-GEO-0205401,geometry_with_crs,Point(-102.108888888 25.1325),https://www.wikidata.org/wiki/Q27821476
+LIBSRC-LIB34-ENT-GEO-0205401,elevation,1435000.0,https://www.wikidata.org/wiki/Q27821476
+LIBSRC-LIB34-ENT-GEO-0205401,location,Coahuila,https://www.wikidata.org/wiki/Q27821476
+LIBSRC-LIB34-ENT-GEO-0205401,location,Mexico,https://www.wikidata.org/wiki/Q27821476
+LIBSRC-LIB34-ENT-GEO-0213101,place_identity,family name,https://www.wikidata.org/wiki/Q122838417
+LIBSRC-LIB34-ENT-GEO-0213101,descriptive_identity,family name,https://www.wikidata.org/wiki/Q122838417
+LIBSRC-LIB34-ENT-GEO-0218491,place_identity,human settlement,https://www.wikidata.org/wiki/Q7131436
+LIBSRC-LIB34-ENT-GEO-0218491,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q7131436
+LIBSRC-LIB34-ENT-GEO-0218491,descriptive_identity,human settlement in Pakistan,https://www.wikidata.org/wiki/Q7131436
+LIBSRC-LIB34-ENT-GEO-0218491,geometry_with_crs,Point(69.116666666 27.866666666),https://www.wikidata.org/wiki/Q7131436
+LIBSRC-LIB34-ENT-GEO-0218491,location,Sukkur District,https://www.wikidata.org/wiki/Q7131436
+LIBSRC-LIB34-ENT-GEO-0218491,location,Pakistan,https://www.wikidata.org/wiki/Q7131436
+LIBSRC-LIB34-ENT-GEO-0231581,place_identity,glacier,https://www.wikidata.org/wiki/Q34840305
+LIBSRC-LIB34-ENT-GEO-0231581,descriptive_identity,glacier,https://www.wikidata.org/wiki/Q34840305
+LIBSRC-LIB34-ENT-GEO-0231581,geometry_with_crs,Point(95.6 81.233333333),https://www.wikidata.org/wiki/Q34840305
+LIBSRC-LIB34-ENT-GEO-0231581,location,Russia,https://www.wikidata.org/wiki/Q34840305
+LIBSRC-LIB34-ENT-GEO-0231581,location,Krasnoyarsk Krai,https://www.wikidata.org/wiki/Q34840305
+LIBSRC-LIB34-ENT-GEO-0217721,place_identity,island,https://www.wikidata.org/wiki/Q42000
+LIBSRC-LIB34-ENT-GEO-0217721,descriptive_identity,island,https://www.wikidata.org/wiki/Q42000
+LIBSRC-LIB34-ENT-GEO-0217721,descriptive_identity,island in the Southern Pacific Ocean,https://www.wikidata.org/wiki/Q42000
+LIBSRC-LIB34-ENT-GEO-0217721,geometry_with_crs,Point(-149.466666666 -17.666666666),https://www.wikidata.org/wiki/Q42000
+LIBSRC-LIB34-ENT-GEO-0217721,elevation,2241000.0,https://www.wikidata.org/wiki/Q42000
+LIBSRC-LIB34-ENT-GEO-0217721,location,France,https://www.wikidata.org/wiki/Q42000
+LIBSRC-LIB34-ENT-GEO-0217721,place_identity,volcanic island,https://www.wikidata.org/wiki/Q42000
+LIBSRC-LIB34-ENT-GEO-0217721,descriptive_identity,volcanic island,https://www.wikidata.org/wiki/Q42000
+LIBSRC-LIB34-ENT-GEO-0217721,location,French Polynesia,https://www.wikidata.org/wiki/Q42000
+LIBSRC-LIB34-ENT-GEO-0212331,place_identity,family name,https://www.wikidata.org/wiki/Q5473438
+LIBSRC-LIB34-ENT-GEO-0212331,descriptive_identity,family name,https://www.wikidata.org/wiki/Q5473438
+LIBSRC-LIB34-ENT-GEO-0233121,place_identity,island,https://www.wikidata.org/wiki/Q49645242
+LIBSRC-LIB34-ENT-GEO-0233121,descriptive_identity,island,https://www.wikidata.org/wiki/Q49645242
+LIBSRC-LIB34-ENT-GEO-0233121,descriptive_identity,island in Japan,https://www.wikidata.org/wiki/Q49645242
+LIBSRC-LIB34-ENT-GEO-0233121,geometry_with_crs,Point(130.893333333 34.060833333),https://www.wikidata.org/wiki/Q49645242
+LIBSRC-LIB34-ENT-GEO-0233121,location,Japan,https://www.wikidata.org/wiki/Q49645242
+LIBSRC-LIB34-ENT-GEO-0233121,location,Yamaguchi Prefecture,https://www.wikidata.org/wiki/Q49645242
+LIBSRC-LIB34-ENT-GEO-0236761,place_identity,human settlement,https://www.wikidata.org/wiki/Q2069613
+LIBSRC-LIB34-ENT-GEO-0236761,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q2069613
+LIBSRC-LIB34-ENT-GEO-0236761,descriptive_identity,"place in Styria, Slovenia",https://www.wikidata.org/wiki/Q2069613
+LIBSRC-LIB34-ENT-GEO-0236761,geometry_with_crs,Point(15.908889 46.411667),https://www.wikidata.org/wiki/Q2069613
+LIBSRC-LIB34-ENT-GEO-0236761,elevation,218600.0,https://www.wikidata.org/wiki/Q2069613
+LIBSRC-LIB34-ENT-GEO-0236761,location,Urban Municipality of Ptuj,https://www.wikidata.org/wiki/Q2069613
+LIBSRC-LIB34-ENT-GEO-0236761,location,Slovenia,https://www.wikidata.org/wiki/Q2069613
+LIBSRC-LIB34-ENT-GEO-0238301,place_identity,glacier,https://www.wikidata.org/wiki/Q34850259
+LIBSRC-LIB34-ENT-GEO-0238301,descriptive_identity,glacier,https://www.wikidata.org/wiki/Q34850259
+LIBSRC-LIB34-ENT-GEO-0238301,geometry_with_crs,Point(-8.09667 71.065),https://www.wikidata.org/wiki/Q34850259
+LIBSRC-LIB34-ENT-GEO-0238301,location,Norway,https://www.wikidata.org/wiki/Q34850259
+LIBSRC-LIB34-ENT-GEO-0238301,historical_name,Carl Fredrik Wille,https://www.wikidata.org/wiki/Q34850259
+LIBSRC-LIB34-ENT-GEO-0238301,location,Jan Mayen,https://www.wikidata.org/wiki/Q34850259
+LIBSRC-LIB34-ENT-GEO-0237531,place_identity,glacier,https://www.wikidata.org/wiki/Q34849526
+LIBSRC-LIB34-ENT-GEO-0237531,descriptive_identity,glacier,https://www.wikidata.org/wiki/Q34849526
+LIBSRC-LIB34-ENT-GEO-0237531,descriptive_identity,glacier in Svalbard,https://www.wikidata.org/wiki/Q34849526
+LIBSRC-LIB34-ENT-GEO-0237531,geometry_with_crs,Point(13.42045 78.30178),https://www.wikidata.org/wiki/Q34849526
+LIBSRC-LIB34-ENT-GEO-0237531,location,Norway,https://www.wikidata.org/wiki/Q34849526
+LIBSRC-LIB34-ENT-GEO-0237531,historical_name,Vättern,https://www.wikidata.org/wiki/Q34849526
+LIBSRC-LIB34-ENT-GEO-0237531,location,Svalbard,https://www.wikidata.org/wiki/Q34849526
+LIBSRC-LIB34-ENT-GEO-0239841,place_identity,tell,https://www.wikidata.org/wiki/Q978443
+LIBSRC-LIB34-ENT-GEO-0239841,descriptive_identity,tell,https://www.wikidata.org/wiki/Q978443
+LIBSRC-LIB34-ENT-GEO-0239841,descriptive_identity,Archaeological site in Syria,https://www.wikidata.org/wiki/Q978443
+LIBSRC-LIB34-ENT-GEO-0239841,geometry_with_crs,Point(41.0583 36.6667),https://www.wikidata.org/wiki/Q978443
+LIBSRC-LIB34-ENT-GEO-0239841,location,Hasakah Governorate,https://www.wikidata.org/wiki/Q978443
+LIBSRC-LIB34-ENT-GEO-0239841,location,Syria,https://www.wikidata.org/wiki/Q978443
+LIBSRC-LIB34-ENT-GEO-0239071,place_identity,rapids,https://www.wikidata.org/wiki/Q99288909
+LIBSRC-LIB34-ENT-GEO-0239071,descriptive_identity,rapids,https://www.wikidata.org/wiki/Q99288909
+LIBSRC-LIB34-ENT-GEO-0239071,descriptive_identity,Rapids in Suriname,https://www.wikidata.org/wiki/Q99288909
+LIBSRC-LIB34-ENT-GEO-0239071,geometry_with_crs,Point(-54.933333333 3.65),https://www.wikidata.org/wiki/Q99288909
+LIBSRC-LIB34-ENT-GEO-0239071,location,Suriname,https://www.wikidata.org/wiki/Q99288909
+LIBSRC-LIB34-ENT-GEO-0239071,location,Sipaliwini District,https://www.wikidata.org/wiki/Q99288909
+LIBSRC-LIB34-ENT-GEO-0221571,place_identity,municipality of Puerto Rico,https://www.wikidata.org/wiki/Q2159630
+LIBSRC-LIB34-ENT-GEO-0221571,descriptive_identity,municipality of Puerto Rico,https://www.wikidata.org/wiki/Q2159630
+LIBSRC-LIB34-ENT-GEO-0221571,descriptive_identity,municipality in Puerto Rico,https://www.wikidata.org/wiki/Q2159630
+LIBSRC-LIB34-ENT-GEO-0221571,geometry_with_crs,Point(-65.973055555 18.254166666),https://www.wikidata.org/wiki/Q2159630
+LIBSRC-LIB34-ENT-GEO-0221571,elevation,59000.0,https://www.wikidata.org/wiki/Q2159630
+LIBSRC-LIB34-ENT-GEO-0221571,location,United States,https://www.wikidata.org/wiki/Q2159630
+LIBSRC-LIB34-ENT-GEO-0221571,location,Puerto Rico,https://www.wikidata.org/wiki/Q2159630
+LIBSRC-LIB34-ENT-GEO-0242921,place_identity,human settlement,https://www.wikidata.org/wiki/Q20299534
+LIBSRC-LIB34-ENT-GEO-0242921,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q20299534
+LIBSRC-LIB34-ENT-GEO-0242921,descriptive_identity,human settlement in Yemen,https://www.wikidata.org/wiki/Q20299534
+LIBSRC-LIB34-ENT-GEO-0242921,geometry_with_crs,Point(43.782777777 13.490555555),https://www.wikidata.org/wiki/Q20299534
+LIBSRC-LIB34-ENT-GEO-0242921,location,Yemen,https://www.wikidata.org/wiki/Q20299534
+LIBSRC-LIB34-ENT-GEO-0242921,location,Maqbanah District,https://www.wikidata.org/wiki/Q20299534
+LIBSRC-LIB34-ENT-GEO-0246001,place_identity,glacier,https://www.wikidata.org/wiki/Q34836308
+LIBSRC-LIB34-ENT-GEO-0246001,descriptive_identity,glacier,https://www.wikidata.org/wiki/Q34836308
+LIBSRC-LIB34-ENT-GEO-0246001,geometry_with_crs,Point(68.975 -49.420555555),https://www.wikidata.org/wiki/Q34836308
+LIBSRC-LIB34-ENT-GEO-0246001,location,French Southern and Antarctic Lands,https://www.wikidata.org/wiki/Q34836308
+LIBSRC-LIB34-ENT-GEO-0246001,location,France,https://www.wikidata.org/wiki/Q34836308
+LIBSRC-LIB34-ENT-GEO-0298361,place_identity,railway station,https://www.wikidata.org/wiki/Q10866249
+LIBSRC-LIB34-ENT-GEO-0298361,descriptive_identity,railway station,https://www.wikidata.org/wiki/Q10866249
+LIBSRC-LIB34-ENT-GEO-0298361,descriptive_identity,"railway station in Lianhu District, People's Republic of China",https://www.wikidata.org/wiki/Q10866249
+LIBSRC-LIB34-ENT-GEO-0298361,geometry_with_crs,Point(108.859859 34.288781),https://www.wikidata.org/wiki/Q10866249
+LIBSRC-LIB34-ENT-GEO-0298361,location,Lianhu District,https://www.wikidata.org/wiki/Q10866249
+LIBSRC-LIB34-ENT-GEO-0298361,location,People's Republic of China,https://www.wikidata.org/wiki/Q10866249
+LIBSRC-LIB34-ENT-GEO-0303751,place_identity,fossil taxon,https://www.wikidata.org/wiki/Q7902186
+LIBSRC-LIB34-ENT-GEO-0303751,descriptive_identity,fossil taxon,https://www.wikidata.org/wiki/Q7902186
+LIBSRC-LIB34-ENT-GEO-0303751,descriptive_identity,genus of mammals (fossil),https://www.wikidata.org/wiki/Q7902186
+LIBSRC-LIB34-ENT-GEO-0299131,place_identity,village of Taiwan,https://www.wikidata.org/wiki/Q97023334
+LIBSRC-LIB34-ENT-GEO-0299131,descriptive_identity,village of Taiwan,https://www.wikidata.org/wiki/Q97023334
+LIBSRC-LIB34-ENT-GEO-0299131,descriptive_identity,"village in Mingjian, Nantou County, Taiwan",https://www.wikidata.org/wiki/Q97023334
+LIBSRC-LIB34-ENT-GEO-0299131,geometry_with_crs,Point(120.66479914 23.835998377),https://www.wikidata.org/wiki/Q97023334
+LIBSRC-LIB34-ENT-GEO-0299131,location,Taiwan,https://www.wikidata.org/wiki/Q97023334
+LIBSRC-LIB34-ENT-GEO-0299131,location,Mingjian Township,https://www.wikidata.org/wiki/Q97023334
+LIBSRC-LIB34-ENT-GEO-0305291,place_identity,village of Ukraine,https://www.wikidata.org/wiki/Q4512455
+LIBSRC-LIB34-ENT-GEO-0305291,descriptive_identity,village of Ukraine,https://www.wikidata.org/wiki/Q4512455
+LIBSRC-LIB34-ENT-GEO-0305291,descriptive_identity,"village in Krynychky Raion, Dnipropetrovsk Oblast (province), Ukraine",https://www.wikidata.org/wiki/Q4512455
+LIBSRC-LIB34-ENT-GEO-0305291,geometry_with_crs,Point(33.995096909 48.191097429),https://www.wikidata.org/wiki/Q4512455
+LIBSRC-LIB34-ENT-GEO-0305291,elevation,161000.0,https://www.wikidata.org/wiki/Q4512455
+LIBSRC-LIB34-ENT-GEO-0305291,location,Ukraine,https://www.wikidata.org/wiki/Q4512455
+LIBSRC-LIB34-ENT-GEO-0305291,location,Kamianske Raion,https://www.wikidata.org/wiki/Q4512455
+LIBSRC-LIB34-ENT-GEO-0307601,place_identity,family name,https://www.wikidata.org/wiki/Q37169051
+LIBSRC-LIB34-ENT-GEO-0307601,descriptive_identity,family name,https://www.wikidata.org/wiki/Q37169051
+LIBSRC-LIB34-ENT-GEO-0309911,place_identity,commune of France,https://www.wikidata.org/wiki/Q28723548
+LIBSRC-LIB34-ENT-GEO-0309911,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q28723548
+LIBSRC-LIB34-ENT-GEO-0309911,descriptive_identity,"commune in Manche, France",https://www.wikidata.org/wiki/Q28723548
+LIBSRC-LIB34-ENT-GEO-0309911,geometry_with_crs,Point(-1.324722222 48.522777777),https://www.wikidata.org/wiki/Q28723548
+LIBSRC-LIB34-ENT-GEO-0309911,location,France,https://www.wikidata.org/wiki/Q28723548
+LIBSRC-LIB34-ENT-GEO-0309911,place_identity,human settlement,https://www.wikidata.org/wiki/Q28723548
+LIBSRC-LIB34-ENT-GEO-0309911,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q28723548
+LIBSRC-LIB34-ENT-GEO-0309911,location,arrondissement of Avranches,https://www.wikidata.org/wiki/Q28723548
+LIBSRC-LIB34-ENT-GEO-0309911,location,Manche,https://www.wikidata.org/wiki/Q28723548
+LIBSRC-LIB34-ENT-GEO-0313761,place_identity,village,https://www.wikidata.org/wiki/Q1020014
+LIBSRC-LIB34-ENT-GEO-0313761,descriptive_identity,village,https://www.wikidata.org/wiki/Q1020014
+LIBSRC-LIB34-ENT-GEO-0313761,descriptive_identity,"village and civil parish in West Sussex, England",https://www.wikidata.org/wiki/Q1020014
+LIBSRC-LIB34-ENT-GEO-0313761,geometry_with_crs,Point(-0.319 50.832),https://www.wikidata.org/wiki/Q1020014
+LIBSRC-LIB34-ENT-GEO-0313761,location,Adur,https://www.wikidata.org/wiki/Q1020014
+LIBSRC-LIB34-ENT-GEO-0313761,place_identity,civil parish,https://www.wikidata.org/wiki/Q1020014
+LIBSRC-LIB34-ENT-GEO-0313761,descriptive_identity,civil parish,https://www.wikidata.org/wiki/Q1020014
+LIBSRC-LIB34-ENT-GEO-0313761,location,United Kingdom,https://www.wikidata.org/wiki/Q1020014
+LIBSRC-LIB34-ENT-GEO-0319151,place_identity,city in the United States,https://www.wikidata.org/wiki/Q43421
+LIBSRC-LIB34-ENT-GEO-0319151,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q43421
+LIBSRC-LIB34-ENT-GEO-0319151,descriptive_identity,independent city in and capital of the U.S. state of Virginia,https://www.wikidata.org/wiki/Q43421
+LIBSRC-LIB34-ENT-GEO-0319151,geometry_with_crs,Point(-77.436666666 37.540833333),https://www.wikidata.org/wiki/Q43421
+LIBSRC-LIB34-ENT-GEO-0319151,elevation,59000.0,https://www.wikidata.org/wiki/Q43421
+LIBSRC-LIB34-ENT-GEO-0319151,location,United States,https://www.wikidata.org/wiki/Q43421
+LIBSRC-LIB34-ENT-GEO-0319151,historical_name,Richmond,https://www.wikidata.org/wiki/Q43421
+LIBSRC-LIB34-ENT-GEO-0319151,place_identity,independent city in the United States,https://www.wikidata.org/wiki/Q43421
+LIBSRC-LIB34-ENT-GEO-0319151,descriptive_identity,independent city in the United States,https://www.wikidata.org/wiki/Q43421
+LIBSRC-LIB34-ENT-GEO-0319151,place_identity,big city,https://www.wikidata.org/wiki/Q43421
+LIBSRC-LIB34-ENT-GEO-0319151,descriptive_identity,big city,https://www.wikidata.org/wiki/Q43421
+LIBSRC-LIB34-ENT-GEO-0319151,place_identity,independent city in Virginia,https://www.wikidata.org/wiki/Q43421
+LIBSRC-LIB34-ENT-GEO-0319151,descriptive_identity,independent city in Virginia,https://www.wikidata.org/wiki/Q43421
+LIBSRC-LIB34-ENT-GEO-0319151,location,Virginia,https://www.wikidata.org/wiki/Q43421
+LIBSRC-LIB34-ENT-GEO-0312221,place_identity,city in the United States,https://www.wikidata.org/wiki/Q959906
+LIBSRC-LIB34-ENT-GEO-0312221,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q959906
+LIBSRC-LIB34-ENT-GEO-0312221,descriptive_identity,"city in Jackson County, Missouri, United States",https://www.wikidata.org/wiki/Q959906
+LIBSRC-LIB34-ENT-GEO-0312221,geometry_with_crs,Point(-94.465555555 38.995),https://www.wikidata.org/wiki/Q959906
+LIBSRC-LIB34-ENT-GEO-0312221,elevation,309000.0,https://www.wikidata.org/wiki/Q959906
+LIBSRC-LIB34-ENT-GEO-0312221,location,United States,https://www.wikidata.org/wiki/Q959906
+LIBSRC-LIB34-ENT-GEO-0312221,location,Jackson County,https://www.wikidata.org/wiki/Q959906
+LIBSRC-LIB34-ENT-GEO-0319921,descriptive_identity,type of sedimentary rock,https://www.wikidata.org/wiki/Q13085
+LIBSRC-LIB34-ENT-GEO-0320691,place_identity,river,https://www.wikidata.org/wiki/Q7198225
+LIBSRC-LIB34-ENT-GEO-0320691,descriptive_identity,river,https://www.wikidata.org/wiki/Q7198225
+LIBSRC-LIB34-ENT-GEO-0320691,descriptive_identity,"river in Maine and New Hampshire, United States",https://www.wikidata.org/wiki/Q7198225
+LIBSRC-LIB34-ENT-GEO-0320691,geometry_with_crs,Point(-70.826111111 43.177777777),https://www.wikidata.org/wiki/Q7198225
+LIBSRC-LIB34-ENT-GEO-0320691,location,United States,https://www.wikidata.org/wiki/Q7198225
+LIBSRC-LIB34-ENT-GEO-0320691,geometry_with_crs,Point(-70.703055555 43.056111111),https://www.wikidata.org/wiki/Q7198225
+LIBSRC-LIB34-ENT-GEO-0320691,location,Maine,https://www.wikidata.org/wiki/Q7198225
+LIBSRC-LIB34-ENT-GEO-0322231,place_identity,census-designated place in the United States,https://www.wikidata.org/wiki/Q1183574
+LIBSRC-LIB34-ENT-GEO-0322231,descriptive_identity,census-designated place in the United States,https://www.wikidata.org/wiki/Q1183574
+LIBSRC-LIB34-ENT-GEO-0322231,descriptive_identity,"census designated place in Westmoreland County, Pennsylvania, United States",https://www.wikidata.org/wiki/Q1183574
+LIBSRC-LIB34-ENT-GEO-0322231,geometry_with_crs,Point(-79.606944444 40.324722222),https://www.wikidata.org/wiki/Q1183574
+LIBSRC-LIB34-ENT-GEO-0322231,elevation,344119.2,https://www.wikidata.org/wiki/Q1183574
+LIBSRC-LIB34-ENT-GEO-0322231,location,United States,https://www.wikidata.org/wiki/Q1183574
+LIBSRC-LIB34-ENT-GEO-0322231,place_identity,unincorporated community,https://www.wikidata.org/wiki/Q1183574
+LIBSRC-LIB34-ENT-GEO-0322231,descriptive_identity,unincorporated community,https://www.wikidata.org/wiki/Q1183574
+LIBSRC-LIB34-ENT-GEO-0322231,location,Westmoreland County,https://www.wikidata.org/wiki/Q1183574
+LIBSRC-LIB34-ENT-GEO-0309141,place_identity,video game,https://www.wikidata.org/wiki/Q20020458
+LIBSRC-LIB34-ENT-GEO-0309141,descriptive_identity,video game,https://www.wikidata.org/wiki/Q20020458
+LIBSRC-LIB34-ENT-GEO-0309141,descriptive_identity,2015 video game,https://www.wikidata.org/wiki/Q20020458
+LIBSRC-LIB34-ENT-GEO-0295281,place_identity,village of Turkey,https://www.wikidata.org/wiki/Q6907638
+LIBSRC-LIB34-ENT-GEO-0295281,descriptive_identity,village of Turkey,https://www.wikidata.org/wiki/Q6907638
+LIBSRC-LIB34-ENT-GEO-0295281,descriptive_identity,"village in Malazgirt, Muş, eastern Turkey",https://www.wikidata.org/wiki/Q6907638
+LIBSRC-LIB34-ENT-GEO-0295281,geometry_with_crs,Point(42.555555555 39.292777777),https://www.wikidata.org/wiki/Q6907638
+LIBSRC-LIB34-ENT-GEO-0295281,location,Turkey,https://www.wikidata.org/wiki/Q6907638
+LIBSRC-LIB34-ENT-GEO-0295281,location,Q746811,https://www.wikidata.org/wiki/Q6907638
+LIBSRC-LIB34-ENT-GEO-0200551,place_identity,village,https://www.wikidata.org/wiki/Q2455526
+LIBSRC-LIB34-ENT-GEO-0200551,descriptive_identity,village,https://www.wikidata.org/wiki/Q2455526
+LIBSRC-LIB34-ENT-GEO-0200551,descriptive_identity,"village in Călărași District, Moldova",https://www.wikidata.org/wiki/Q2455526
+LIBSRC-LIB34-ENT-GEO-0200551,geometry_with_crs,Point(28.198333333 47.276388888),https://www.wikidata.org/wiki/Q2455526
+LIBSRC-LIB34-ENT-GEO-0200551,elevation,132000.0,https://www.wikidata.org/wiki/Q2455526
+LIBSRC-LIB34-ENT-GEO-0200551,location,Călărași District,https://www.wikidata.org/wiki/Q2455526
+LIBSRC-LIB34-ENT-GEO-0200551,place_identity,seat village,https://www.wikidata.org/wiki/Q2455526
+LIBSRC-LIB34-ENT-GEO-0200551,descriptive_identity,seat village,https://www.wikidata.org/wiki/Q2455526
+LIBSRC-LIB34-ENT-GEO-0200551,location,Moldova,https://www.wikidata.org/wiki/Q2455526
+LIBSRC-LIB34-ENT-GEO-0209791,place_identity,mountain,https://www.wikidata.org/wiki/Q31213483
+LIBSRC-LIB34-ENT-GEO-0209791,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q31213483
+LIBSRC-LIB34-ENT-GEO-0209791,descriptive_identity,"promontory in Lebesby, Finnmark, Norway",https://www.wikidata.org/wiki/Q31213483
+LIBSRC-LIB34-ENT-GEO-0209791,geometry_with_crs,Point(26.10314 70.15533),https://www.wikidata.org/wiki/Q31213483
+LIBSRC-LIB34-ENT-GEO-0209791,elevation,625000.0,https://www.wikidata.org/wiki/Q31213483
+LIBSRC-LIB34-ENT-GEO-0209791,location,Norway,https://www.wikidata.org/wiki/Q31213483
+LIBSRC-LIB34-ENT-GEO-0209791,geometry_with_crs,Point(26.1031 70.1553),https://www.wikidata.org/wiki/Q31213483
+LIBSRC-LIB34-ENT-GEO-0209791,place_identity,mountain ridge,https://www.wikidata.org/wiki/Q31213483
+LIBSRC-LIB34-ENT-GEO-0209791,descriptive_identity,mountain ridge,https://www.wikidata.org/wiki/Q31213483
+LIBSRC-LIB34-ENT-GEO-0209791,location,Lebesby Municipality,https://www.wikidata.org/wiki/Q31213483
+LIBSRC-LIB34-ENT-GEO-0166671,place_identity,human,https://www.wikidata.org/wiki/Q21338062
+LIBSRC-LIB34-ENT-GEO-0166671,descriptive_identity,human,https://www.wikidata.org/wiki/Q21338062
+LIBSRC-LIB34-ENT-GEO-0166671,descriptive_identity,Japanese entomologist,https://www.wikidata.org/wiki/Q21338062
+LIBSRC-LIB34-ENT-GEO-0201321,place_identity,mountain,https://www.wikidata.org/wiki/Q20931878
+LIBSRC-LIB34-ENT-GEO-0201321,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q20931878
+LIBSRC-LIB34-ENT-GEO-0201321,descriptive_identity,mountain in Republic of Macedonia,https://www.wikidata.org/wiki/Q20931878
+LIBSRC-LIB34-ENT-GEO-0201321,geometry_with_crs,Point(22.335833333 41.4675),https://www.wikidata.org/wiki/Q20931878
+LIBSRC-LIB34-ENT-GEO-0201321,elevation,1159000.0,https://www.wikidata.org/wiki/Q20931878
+LIBSRC-LIB34-ENT-GEO-0201321,location,North Macedonia,https://www.wikidata.org/wiki/Q20931878
+LIBSRC-LIB34-ENT-GEO-0214411,place_identity,glacier,https://www.wikidata.org/wiki/Q34841886
+LIBSRC-LIB34-ENT-GEO-0214411,descriptive_identity,glacier,https://www.wikidata.org/wiki/Q34841886
+LIBSRC-LIB34-ENT-GEO-0214411,geometry_with_crs,Point(13.83046 66.69228),https://www.wikidata.org/wiki/Q34841886
+LIBSRC-LIB34-ENT-GEO-0214411,location,Norway,https://www.wikidata.org/wiki/Q34841886
+LIBSRC-LIB34-ENT-GEO-0214411,location,Meløy,https://www.wikidata.org/wiki/Q34841886
+LIBSRC-LIB34-ENT-GEO-0204401,place_identity,canyon,https://www.wikidata.org/wiki/Q27785935
+LIBSRC-LIB34-ENT-GEO-0204401,descriptive_identity,canyon,https://www.wikidata.org/wiki/Q27785935
+LIBSRC-LIB34-ENT-GEO-0204401,geometry_with_crs,Point(-101.683055555 25.871111111),https://www.wikidata.org/wiki/Q27785935
+LIBSRC-LIB34-ENT-GEO-0204401,elevation,1484000.0,https://www.wikidata.org/wiki/Q27785935
+LIBSRC-LIB34-ENT-GEO-0204401,location,Coahuila,https://www.wikidata.org/wiki/Q27785935
+LIBSRC-LIB34-ENT-GEO-0204401,location,Mexico,https://www.wikidata.org/wiki/Q27785935
+LIBSRC-LIB34-ENT-GEO-0215951,place_identity,pā,https://www.wikidata.org/wiki/Q126163235
+LIBSRC-LIB34-ENT-GEO-0215951,descriptive_identity,pā,https://www.wikidata.org/wiki/Q126163235
+LIBSRC-LIB34-ENT-GEO-0215951,descriptive_identity,pā in New Zealand,https://www.wikidata.org/wiki/Q126163235
+LIBSRC-LIB34-ENT-GEO-0215951,geometry_with_crs,Point(174.245 -39.528),https://www.wikidata.org/wiki/Q126163235
+LIBSRC-LIB34-ENT-GEO-0215951,location,South Taranaki District,https://www.wikidata.org/wiki/Q126163235
+LIBSRC-LIB34-ENT-GEO-0215951,location,New Zealand,https://www.wikidata.org/wiki/Q126163235
+LIBSRC-LIB34-ENT-GEO-0228271,place_identity,river,https://www.wikidata.org/wiki/Q2433716
+LIBSRC-LIB34-ENT-GEO-0228271,descriptive_identity,river,https://www.wikidata.org/wiki/Q2433716
+LIBSRC-LIB34-ENT-GEO-0228271,descriptive_identity,river in Russia,https://www.wikidata.org/wiki/Q2433716
+LIBSRC-LIB34-ENT-GEO-0228271,geometry_with_crs,Point(21.9092 55.0813),https://www.wikidata.org/wiki/Q2433716
+LIBSRC-LIB34-ENT-GEO-0228271,location,Russia,https://www.wikidata.org/wiki/Q2433716
+LIBSRC-LIB34-ENT-GEO-0228271,geometry_with_crs,Point(21.9772 54.8102),https://www.wikidata.org/wiki/Q2433716
+LIBSRC-LIB34-ENT-GEO-0228271,location,Kaliningrad Oblast,https://www.wikidata.org/wiki/Q2433716
+LIBSRC-LIB34-ENT-GEO-0239611,place_identity,village,https://www.wikidata.org/wiki/Q12180430
+LIBSRC-LIB34-ENT-GEO-0239611,descriptive_identity,village,https://www.wikidata.org/wiki/Q12180430
+LIBSRC-LIB34-ENT-GEO-0239611,descriptive_identity,village in Syria,https://www.wikidata.org/wiki/Q12180430
+LIBSRC-LIB34-ENT-GEO-0239611,geometry_with_crs,Point(36.78555556 35.50277778),https://www.wikidata.org/wiki/Q12180430
+LIBSRC-LIB34-ENT-GEO-0239611,location,Al-Tamanah Subdistrict,https://www.wikidata.org/wiki/Q12180430
+LIBSRC-LIB34-ENT-GEO-0239611,place_identity,populated place in Syria,https://www.wikidata.org/wiki/Q12180430
+LIBSRC-LIB34-ENT-GEO-0239611,descriptive_identity,populated place in Syria,https://www.wikidata.org/wiki/Q12180430
+LIBSRC-LIB34-ENT-GEO-0239611,location,Syria,https://www.wikidata.org/wiki/Q12180430
+LIBSRC-LIB34-ENT-GEO-0242691,place_identity,village,https://www.wikidata.org/wiki/Q12235412
+LIBSRC-LIB34-ENT-GEO-0242691,descriptive_identity,village,https://www.wikidata.org/wiki/Q12235412
+LIBSRC-LIB34-ENT-GEO-0242691,descriptive_identity,village in Syria,https://www.wikidata.org/wiki/Q12235412
+LIBSRC-LIB34-ENT-GEO-0242691,location,Syria,https://www.wikidata.org/wiki/Q12235412
+LIBSRC-LIB34-ENT-GEO-0205941,place_identity,canyon,https://www.wikidata.org/wiki/Q27858523
+LIBSRC-LIB34-ENT-GEO-0205941,descriptive_identity,canyon,https://www.wikidata.org/wiki/Q27858523
+LIBSRC-LIB34-ENT-GEO-0205941,geometry_with_crs,Point(-101.15071 22.51557),https://www.wikidata.org/wiki/Q27858523
+LIBSRC-LIB34-ENT-GEO-0205941,location,Mexico,https://www.wikidata.org/wiki/Q27858523
+LIBSRC-LIB34-ENT-GEO-0205941,location,San Luis Potosí,https://www.wikidata.org/wiki/Q27858523
+LIBSRC-LIB34-ENT-GEO-0295051,place_identity,village of Turkey,https://www.wikidata.org/wiki/Q10839107
+LIBSRC-LIB34-ENT-GEO-0295051,descriptive_identity,village of Turkey,https://www.wikidata.org/wiki/Q10839107
+LIBSRC-LIB34-ENT-GEO-0295051,descriptive_identity,"village in Kurtalan, Siirt, southeastern Turkey",https://www.wikidata.org/wiki/Q10839107
+LIBSRC-LIB34-ENT-GEO-0295051,geometry_with_crs,Point(41.769444444 37.755555555),https://www.wikidata.org/wiki/Q10839107
+LIBSRC-LIB34-ENT-GEO-0295051,location,Turkey,https://www.wikidata.org/wiki/Q10839107
+LIBSRC-LIB34-ENT-GEO-0295051,location,Kurtalan,https://www.wikidata.org/wiki/Q10839107
+LIBSRC-LIB34-ENT-GEO-0295821,place_identity,village of Turkey,https://www.wikidata.org/wiki/Q6530511
+LIBSRC-LIB34-ENT-GEO-0295821,descriptive_identity,village of Turkey,https://www.wikidata.org/wiki/Q6530511
+LIBSRC-LIB34-ENT-GEO-0295821,descriptive_identity,"village in Akıncılar, Sivas, central Turkey",https://www.wikidata.org/wiki/Q6530511
+LIBSRC-LIB34-ENT-GEO-0295821,geometry_with_crs,Point(38.2875 40.121111111),https://www.wikidata.org/wiki/Q6530511
+LIBSRC-LIB34-ENT-GEO-0295821,location,Turkey,https://www.wikidata.org/wiki/Q6530511
+LIBSRC-LIB34-ENT-GEO-0295821,location,Akıncılar,https://www.wikidata.org/wiki/Q6530511
+LIBSRC-LIB34-ENT-GEO-0294281,place_identity,bay,https://www.wikidata.org/wiki/Q49392148
+LIBSRC-LIB34-ENT-GEO-0294281,descriptive_identity,bay,https://www.wikidata.org/wiki/Q49392148
+LIBSRC-LIB34-ENT-GEO-0294281,descriptive_identity,"bay in İzmir province, western Turkey",https://www.wikidata.org/wiki/Q49392148
+LIBSRC-LIB34-ENT-GEO-0294281,geometry_with_crs,Point(26.700833333 38.131944444),https://www.wikidata.org/wiki/Q49392148
+LIBSRC-LIB34-ENT-GEO-0294281,location,Turkey,https://www.wikidata.org/wiki/Q49392148
+LIBSRC-LIB34-ENT-GEO-0294281,historical_name,Sığacık,https://www.wikidata.org/wiki/Q49392148
+LIBSRC-LIB34-ENT-GEO-0294281,location,İzmir Province,https://www.wikidata.org/wiki/Q49392148
+LIBSRC-LIB34-ENT-GEO-0192851,place_identity,city,https://www.wikidata.org/wiki/Q993076
+LIBSRC-LIB34-ENT-GEO-0192851,descriptive_identity,city,https://www.wikidata.org/wiki/Q993076
+LIBSRC-LIB34-ENT-GEO-0192851,geometry_with_crs,Point(28.041583333 -28.873361111),https://www.wikidata.org/wiki/Q993076
+LIBSRC-LIB34-ENT-GEO-0192851,location,Leribe District,https://www.wikidata.org/wiki/Q993076
+LIBSRC-LIB34-ENT-GEO-0192851,place_identity,border city,https://www.wikidata.org/wiki/Q993076
+LIBSRC-LIB34-ENT-GEO-0192851,descriptive_identity,border city,https://www.wikidata.org/wiki/Q993076
+LIBSRC-LIB34-ENT-GEO-0192851,location,Lesotho,https://www.wikidata.org/wiki/Q993076
+LIBSRC-LIB34-ENT-GEO-0302751,place_identity,summit,https://www.wikidata.org/wiki/Q31624672
+LIBSRC-LIB34-ENT-GEO-0302751,descriptive_identity,summit,https://www.wikidata.org/wiki/Q31624672
+LIBSRC-LIB34-ENT-GEO-0302751,descriptive_identity,mountain in Taiwan,https://www.wikidata.org/wiki/Q31624672
+LIBSRC-LIB34-ENT-GEO-0302751,geometry_with_crs,Point(120.692222222 22.656666666),https://www.wikidata.org/wiki/Q31624672
+LIBSRC-LIB34-ENT-GEO-0302751,elevation,1442000.0,https://www.wikidata.org/wiki/Q31624672
+LIBSRC-LIB34-ENT-GEO-0302751,location,Taiwan,https://www.wikidata.org/wiki/Q31624672
+LIBSRC-LIB34-ENT-GEO-0305061,place_identity,village of Ukraine,https://www.wikidata.org/wiki/Q4278811
+LIBSRC-LIB34-ENT-GEO-0305061,descriptive_identity,village of Ukraine,https://www.wikidata.org/wiki/Q4278811
+LIBSRC-LIB34-ENT-GEO-0305061,descriptive_identity,"village in Velykyi Burluk Raion, Kharkiv Oblast, Ukraine",https://www.wikidata.org/wiki/Q4278811
+LIBSRC-LIB34-ENT-GEO-0305061,geometry_with_crs,Point(37.481666666 50.141388888),https://www.wikidata.org/wiki/Q4278811
+LIBSRC-LIB34-ENT-GEO-0305061,location,Ukraine,https://www.wikidata.org/wiki/Q4278811
+LIBSRC-LIB34-ENT-GEO-0305061,location,Kupiansk Raion,https://www.wikidata.org/wiki/Q4278811
+LIBSRC-LIB34-ENT-GEO-0305831,place_identity,railway station,https://www.wikidata.org/wiki/Q12094741
+LIBSRC-LIB34-ENT-GEO-0305831,descriptive_identity,railway station,https://www.wikidata.org/wiki/Q12094741
+LIBSRC-LIB34-ENT-GEO-0305831,descriptive_identity,railway station in Ukraine,https://www.wikidata.org/wiki/Q12094741
+LIBSRC-LIB34-ENT-GEO-0305831,geometry_with_crs,Point(36.4225 49.689),https://www.wikidata.org/wiki/Q12094741
+LIBSRC-LIB34-ENT-GEO-0305831,location,Ukraine,https://www.wikidata.org/wiki/Q12094741
+LIBSRC-LIB34-ENT-GEO-0305831,location,Cheremushne,https://www.wikidata.org/wiki/Q12094741
+LIBSRC-LIB34-ENT-GEO-0304291,place_identity,village in Belarus,https://www.wikidata.org/wiki/Q16713171
+LIBSRC-LIB34-ENT-GEO-0304291,descriptive_identity,village in Belarus,https://www.wikidata.org/wiki/Q16713171
+LIBSRC-LIB34-ENT-GEO-0304291,descriptive_identity,"village in Lahojsk district, Belarus",https://www.wikidata.org/wiki/Q16713171
+LIBSRC-LIB34-ENT-GEO-0304291,geometry_with_crs,Point(27.710555555 54.561111111),https://www.wikidata.org/wiki/Q16713171
+LIBSRC-LIB34-ENT-GEO-0304291,location,Zadorjeŭski sieĺsaviet,https://www.wikidata.org/wiki/Q16713171
+LIBSRC-LIB34-ENT-GEO-0304291,location,Belarus,https://www.wikidata.org/wiki/Q16713171
+LIBSRC-LIB34-ENT-GEO-0307371,place_identity,river,https://www.wikidata.org/wiki/Q32843765
+LIBSRC-LIB34-ENT-GEO-0307371,descriptive_identity,river,https://www.wikidata.org/wiki/Q32843765
+LIBSRC-LIB34-ENT-GEO-0307371,descriptive_identity,river in the United States of America,https://www.wikidata.org/wiki/Q32843765
+LIBSRC-LIB34-ENT-GEO-0307371,geometry_with_crs,Point(-86.183888888 33.595277777),https://www.wikidata.org/wiki/Q32843765
+LIBSRC-LIB34-ENT-GEO-0307371,elevation,142000.0,https://www.wikidata.org/wiki/Q32843765
+LIBSRC-LIB34-ENT-GEO-0307371,location,United States,https://www.wikidata.org/wiki/Q32843765
+LIBSRC-LIB34-ENT-GEO-0307371,location,Talladega County,https://www.wikidata.org/wiki/Q32843765
+LIBSRC-LIB34-ENT-GEO-0318921,place_identity,charter township of Michigan,https://www.wikidata.org/wiki/Q2550281
+LIBSRC-LIB34-ENT-GEO-0318921,descriptive_identity,charter township of Michigan,https://www.wikidata.org/wiki/Q2550281
+LIBSRC-LIB34-ENT-GEO-0318921,descriptive_identity,"township in Macomb County, Michigan, United States",https://www.wikidata.org/wiki/Q2550281
+LIBSRC-LIB34-ENT-GEO-0318921,geometry_with_crs,Point(-82.92 42.586944444),https://www.wikidata.org/wiki/Q2550281
+LIBSRC-LIB34-ENT-GEO-0318921,elevation,267000.0,https://www.wikidata.org/wiki/Q2550281
+LIBSRC-LIB34-ENT-GEO-0318921,location,United States,https://www.wikidata.org/wiki/Q2550281
+LIBSRC-LIB34-ENT-GEO-0318921,location,Macomb County,https://www.wikidata.org/wiki/Q2550281
+LIBSRC-LIB34-ENT-GEO-0310451,place_identity,city in the United States,https://www.wikidata.org/wiki/Q2185333
+LIBSRC-LIB34-ENT-GEO-0310451,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q2185333
+LIBSRC-LIB34-ENT-GEO-0310451,descriptive_identity,"human settlement in Ottawa County, Kansas, United States of America",https://www.wikidata.org/wiki/Q2185333
+LIBSRC-LIB34-ENT-GEO-0310451,geometry_with_crs,Point(-97.8781 39.0119),https://www.wikidata.org/wiki/Q2185333
+LIBSRC-LIB34-ENT-GEO-0310451,elevation,395000.0,https://www.wikidata.org/wiki/Q2185333
+LIBSRC-LIB34-ENT-GEO-0310451,location,Ottawa County,https://www.wikidata.org/wiki/Q2185333
+LIBSRC-LIB34-ENT-GEO-0310451,location,United States,https://www.wikidata.org/wiki/Q2185333
+LIBSRC-LIB34-ENT-GEO-0299671,place_identity,human,https://www.wikidata.org/wiki/Q18906678
+LIBSRC-LIB34-ENT-GEO-0299671,descriptive_identity,human,https://www.wikidata.org/wiki/Q18906678
+LIBSRC-LIB34-ENT-GEO-0299671,descriptive_identity,Tang dynasty person CBDB = 93709,https://www.wikidata.org/wiki/Q18906678
+LIBSRC-LIB34-ENT-GEO-0311991,place_identity,male given name,https://www.wikidata.org/wiki/Q2131007
+LIBSRC-LIB34-ENT-GEO-0311991,descriptive_identity,male given name,https://www.wikidata.org/wiki/Q2131007
+LIBSRC-LIB34-ENT-GEO-0321231,place_identity,census-designated place in the United States,https://www.wikidata.org/wiki/Q3452339
+LIBSRC-LIB34-ENT-GEO-0321231,descriptive_identity,census-designated place in the United States,https://www.wikidata.org/wiki/Q3452339
+LIBSRC-LIB34-ENT-GEO-0321231,descriptive_identity,"census-designated place in Nassau County, New York, USA",https://www.wikidata.org/wiki/Q3452339
+LIBSRC-LIB34-ENT-GEO-0321231,geometry_with_crs,Point(-73.6628 40.7431),https://www.wikidata.org/wiki/Q3452339
+LIBSRC-LIB34-ENT-GEO-0321231,elevation,32000.0,https://www.wikidata.org/wiki/Q3452339
+LIBSRC-LIB34-ENT-GEO-0321231,location,United States,https://www.wikidata.org/wiki/Q3452339
+LIBSRC-LIB34-ENT-GEO-0321231,place_identity,unincorporated community,https://www.wikidata.org/wiki/Q3452339
+LIBSRC-LIB34-ENT-GEO-0321231,descriptive_identity,unincorporated community,https://www.wikidata.org/wiki/Q3452339
+LIBSRC-LIB34-ENT-GEO-0321231,location,Nassau County,https://www.wikidata.org/wiki/Q3452339
+LIBSRC-LIB34-ENT-GEO-0323541,place_identity,commune of France,https://www.wikidata.org/wiki/Q325426
+LIBSRC-LIB34-ENT-GEO-0323541,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q325426
+LIBSRC-LIB34-ENT-GEO-0323541,descriptive_identity,"commune in Aisne, France",https://www.wikidata.org/wiki/Q325426
+LIBSRC-LIB34-ENT-GEO-0323541,geometry_with_crs,Point(3.446388888 49.488333333),https://www.wikidata.org/wiki/Q325426
+LIBSRC-LIB34-ENT-GEO-0323541,elevation,82000.0,https://www.wikidata.org/wiki/Q325426
+LIBSRC-LIB34-ENT-GEO-0323541,location,France,https://www.wikidata.org/wiki/Q325426
+LIBSRC-LIB34-ENT-GEO-0323541,elevation,158000.0,https://www.wikidata.org/wiki/Q325426
+LIBSRC-LIB34-ENT-GEO-0323541,elevation,54000.0,https://www.wikidata.org/wiki/Q325426
+LIBSRC-LIB34-ENT-GEO-0323541,location,arrondissement of Laon,https://www.wikidata.org/wiki/Q325426
+LIBSRC-LIB34-ENT-GEO-0323541,location,canton of Anizy-le-Château,https://www.wikidata.org/wiki/Q325426
+LIBSRC-LIB34-ENT-GEO-0323541,location,Aisne,https://www.wikidata.org/wiki/Q325426
+LIBSRC-LIB34-ENT-GEO-0325751,place_identity,family name,https://www.wikidata.org/wiki/Q16860087
+LIBSRC-LIB34-ENT-GEO-0325751,descriptive_identity,family name,https://www.wikidata.org/wiki/Q16860087
+LIBSRC-LIB34-ENT-GEO-0328061,place_identity,suburb,https://www.wikidata.org/wiki/Q7138209
+LIBSRC-LIB34-ENT-GEO-0328061,descriptive_identity,suburb,https://www.wikidata.org/wiki/Q7138209
+LIBSRC-LIB34-ENT-GEO-0328061,descriptive_identity,"suburb of Melbourne, Victoria, Australia",https://www.wikidata.org/wiki/Q7138209
+LIBSRC-LIB34-ENT-GEO-0328061,geometry_with_crs,Point(145.08 -37.991),https://www.wikidata.org/wiki/Q7138209
+LIBSRC-LIB34-ENT-GEO-0328061,elevation,17000.0,https://www.wikidata.org/wiki/Q7138209
+LIBSRC-LIB34-ENT-GEO-0328061,location,City of Kingston,https://www.wikidata.org/wiki/Q7138209
+LIBSRC-LIB34-ENT-GEO-0328061,location,Victoria,https://www.wikidata.org/wiki/Q7138209
+LIBSRC-LIB34-ENT-GEO-0328061,place_identity,gazetted locality of Victoria,https://www.wikidata.org/wiki/Q7138209
+LIBSRC-LIB34-ENT-GEO-0328061,descriptive_identity,gazetted locality of Victoria,https://www.wikidata.org/wiki/Q7138209
+LIBSRC-LIB34-ENT-GEO-0328061,location,Australia,https://www.wikidata.org/wiki/Q7138209
+LIBSRC-LIB34-ENT-GEO-0322771,place_identity,city in the United States,https://www.wikidata.org/wiki/Q1996607
+LIBSRC-LIB34-ENT-GEO-0322771,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q1996607
+LIBSRC-LIB34-ENT-GEO-0322771,descriptive_identity,"city in South Dakota, United States of America",https://www.wikidata.org/wiki/Q1996607
+LIBSRC-LIB34-ENT-GEO-0322771,geometry_with_crs,Point(-97.208333333 44.581666666),https://www.wikidata.org/wiki/Q1996607
+LIBSRC-LIB34-ENT-GEO-0322771,elevation,515000.0,https://www.wikidata.org/wiki/Q1996607
+LIBSRC-LIB34-ENT-GEO-0322771,location,Hamlin County,https://www.wikidata.org/wiki/Q1996607
+LIBSRC-LIB34-ENT-GEO-0322771,location,United States,https://www.wikidata.org/wiki/Q1996607
+LIBSRC-LIB35-ENT-GAZ-2517539,place_identity,commune of France,https://www.wikidata.org/wiki/Q193316
+LIBSRC-LIB35-ENT-GAZ-2517539,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q193316
+LIBSRC-LIB35-ENT-GAZ-2517539,descriptive_identity,"commune in Creuse, France",https://www.wikidata.org/wiki/Q193316
+LIBSRC-LIB35-ENT-GAZ-2517539,geometry_with_crs,Point(2.409444444 45.898611111),https://www.wikidata.org/wiki/Q193316
+LIBSRC-LIB35-ENT-GAZ-2517539,elevation,648000.0,https://www.wikidata.org/wiki/Q193316
+LIBSRC-LIB35-ENT-GAZ-2517539,location,arrondissement of Aubusson,https://www.wikidata.org/wiki/Q193316
+LIBSRC-LIB35-ENT-GAZ-2517539,location,canton of Crocq,https://www.wikidata.org/wiki/Q193316
+LIBSRC-LIB35-ENT-GAZ-2517539,location,Creuse,https://www.wikidata.org/wiki/Q193316
+LIBSRC-LIB35-ENT-GAZ-2517539,elevation,790000.0,https://www.wikidata.org/wiki/Q193316
+LIBSRC-LIB35-ENT-GAZ-2517539,elevation,721000.0,https://www.wikidata.org/wiki/Q193316
+LIBSRC-LIB35-ENT-GAZ-2517539,elevation,705000.0,https://www.wikidata.org/wiki/Q193316
+LIBSRC-LIB35-ENT-GAZ-2517539,location,France,https://www.wikidata.org/wiki/Q193316
+LIBSRC-LIB35-ENT-GAZ-2520262,place_identity,nonprofit organization,https://www.wikidata.org/wiki/Q43515009
+LIBSRC-LIB35-ENT-GAZ-2520262,descriptive_identity,nonprofit organization,https://www.wikidata.org/wiki/Q43515009
+LIBSRC-LIB35-ENT-GAZ-2520262,descriptive_identity,"non-profit, non-governmental, collective copyright organization",https://www.wikidata.org/wiki/Q43515009
+LIBSRC-LIB35-ENT-GAZ-2520262,location,Lithuania,https://www.wikidata.org/wiki/Q43515009
+LIBSRC-LIB35-ENT-GAZ-2520262,place_identity,copyright collective,https://www.wikidata.org/wiki/Q43515009
+LIBSRC-LIB35-ENT-GAZ-2520262,descriptive_identity,copyright collective,https://www.wikidata.org/wiki/Q43515009
+LIBSRC-LIB35-ENT-GAZ-2518340,place_identity,city,https://www.wikidata.org/wiki/Q10690
+LIBSRC-LIB35-ENT-GAZ-2518340,descriptive_identity,city,https://www.wikidata.org/wiki/Q10690
+LIBSRC-LIB35-ENT-GAZ-2518340,descriptive_identity,"capital city of Wales, United Kingdom",https://www.wikidata.org/wiki/Q10690
+LIBSRC-LIB35-ENT-GAZ-2518340,geometry_with_crs,Point(-3.179166666 51.481666666),https://www.wikidata.org/wiki/Q10690
+LIBSRC-LIB35-ENT-GAZ-2518340,elevation,41000.0,https://www.wikidata.org/wiki/Q10690
+LIBSRC-LIB35-ENT-GAZ-2518340,location,United Kingdom,https://www.wikidata.org/wiki/Q10690
+LIBSRC-LIB35-ENT-GAZ-2518340,historical_name,River Taff,https://www.wikidata.org/wiki/Q10690
+LIBSRC-LIB35-ENT-GAZ-2518340,place_identity,big city,https://www.wikidata.org/wiki/Q10690
+LIBSRC-LIB35-ENT-GAZ-2518340,descriptive_identity,big city,https://www.wikidata.org/wiki/Q10690
+LIBSRC-LIB35-ENT-GAZ-2518340,place_identity,largest city,https://www.wikidata.org/wiki/Q10690
+LIBSRC-LIB35-ENT-GAZ-2518340,descriptive_identity,largest city,https://www.wikidata.org/wiki/Q10690
+LIBSRC-LIB35-ENT-GAZ-2518340,location,Cardiff,https://www.wikidata.org/wiki/Q10690
+LIBSRC-LIB35-ENT-GAZ-2530671,place_identity,city in the United States,https://www.wikidata.org/wiki/Q643040
+LIBSRC-LIB35-ENT-GAZ-2530671,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q643040
+LIBSRC-LIB35-ENT-GAZ-2530671,descriptive_identity,"city in Sarpy County, Nebraska, United States",https://www.wikidata.org/wiki/Q643040
+LIBSRC-LIB35-ENT-GAZ-2530671,geometry_with_crs,Point(-95.934166666 41.158611111),https://www.wikidata.org/wiki/Q643040
+LIBSRC-LIB35-ENT-GAZ-2530671,elevation,315000.0,https://www.wikidata.org/wiki/Q643040
+LIBSRC-LIB35-ENT-GAZ-2530671,location,United States,https://www.wikidata.org/wiki/Q643040
+LIBSRC-LIB35-ENT-GAZ-2530671,location,Sarpy County,https://www.wikidata.org/wiki/Q643040
+LIBSRC-LIB34-ENT-GEO-0001511,place_identity,plain,https://www.wikidata.org/wiki/Q21742750
+LIBSRC-LIB34-ENT-GEO-0001511,descriptive_identity,plain,https://www.wikidata.org/wiki/Q21742750
+LIBSRC-LIB34-ENT-GEO-0001511,descriptive_identity,plain in Afghanistan,https://www.wikidata.org/wiki/Q21742750
+LIBSRC-LIB34-ENT-GEO-0001511,geometry_with_crs,Point(62.650555555 31.903611111),https://www.wikidata.org/wiki/Q21742750
+LIBSRC-LIB34-ENT-GEO-0001511,elevation,666000.0,https://www.wikidata.org/wiki/Q21742750
+LIBSRC-LIB34-ENT-GEO-0001511,location,Nimruz Province,https://www.wikidata.org/wiki/Q21742750
+LIBSRC-LIB34-ENT-GEO-0001511,location,Afghanistan,https://www.wikidata.org/wiki/Q21742750
+LIBSRC-LIB34-ENT-GEO-0007051,place_identity,desa,https://www.wikidata.org/wiki/Q24445331
+LIBSRC-LIB34-ENT-GEO-0007051,descriptive_identity,desa,https://www.wikidata.org/wiki/Q24445331
+LIBSRC-LIB34-ENT-GEO-0007051,descriptive_identity,"village in Aru Islands Regency, Maluku, Indonesia",https://www.wikidata.org/wiki/Q24445331
+LIBSRC-LIB34-ENT-GEO-0007051,location,Sir-Sir,https://www.wikidata.org/wiki/Q24445331
+LIBSRC-LIB34-ENT-GEO-0007051,location,Indonesia,https://www.wikidata.org/wiki/Q24445331
+LIBSRC-LIB34-ENT-GEO-0010901,place_identity,municipality of Spain,https://www.wikidata.org/wiki/Q1998550
+LIBSRC-LIB34-ENT-GEO-0010901,descriptive_identity,municipality of Spain,https://www.wikidata.org/wiki/Q1998550
+LIBSRC-LIB34-ENT-GEO-0010901,descriptive_identity,"human settlement in Los Serranos, Valencia Province, Valencian Community, Spain",https://www.wikidata.org/wiki/Q1998550
+LIBSRC-LIB34-ENT-GEO-0010901,geometry_with_crs,Point(-0.895555555 39.655555555),https://www.wikidata.org/wiki/Q1998550
+LIBSRC-LIB34-ENT-GEO-0010901,elevation,400000.0,https://www.wikidata.org/wiki/Q1998550
+LIBSRC-LIB34-ENT-GEO-0010901,location,Spain,https://www.wikidata.org/wiki/Q1998550
+LIBSRC-LIB34-ENT-GEO-0010901,place_identity,municipality of the Valencian Community,https://www.wikidata.org/wiki/Q1998550
+LIBSRC-LIB34-ENT-GEO-0010901,descriptive_identity,municipality of the Valencian Community,https://www.wikidata.org/wiki/Q1998550
+LIBSRC-LIB34-ENT-GEO-0010901,location,La Serranía,https://www.wikidata.org/wiki/Q1998550
+LIBSRC-LIB34-ENT-GEO-0010901,location,Province of Valencia,https://www.wikidata.org/wiki/Q1998550
+LIBSRC-LIB34-ENT-GEO-0012441,place_identity,qanat,https://www.wikidata.org/wiki/Q5744433
+LIBSRC-LIB34-ENT-GEO-0012441,descriptive_identity,qanat,https://www.wikidata.org/wiki/Q5744433
+LIBSRC-LIB34-ENT-GEO-0012441,location,Iran,https://www.wikidata.org/wiki/Q5744433
+LIBSRC-LIB34-ENT-GEO-0012441,location,Chapeshlu District,https://www.wikidata.org/wiki/Q5744433
+LIBSRC-LIB34-ENT-GEO-0017831,place_identity,location with peat baths,https://www.wikidata.org/wiki/Q379050
+LIBSRC-LIB34-ENT-GEO-0017831,descriptive_identity,location with peat baths,https://www.wikidata.org/wiki/Q379050
+LIBSRC-LIB34-ENT-GEO-0017831,descriptive_identity,municipality of Germany,https://www.wikidata.org/wiki/Q379050
+LIBSRC-LIB34-ENT-GEO-0017831,geometry_with_crs,Point(11.05 47.666666666),https://www.wikidata.org/wiki/Q379050
+LIBSRC-LIB34-ENT-GEO-0017831,elevation,828000.0,https://www.wikidata.org/wiki/Q379050
+LIBSRC-LIB34-ENT-GEO-0017831,location,District of Garmisch-Partenkirchen,https://www.wikidata.org/wiki/Q379050
+LIBSRC-LIB34-ENT-GEO-0017831,place_identity,municipality without town privileges in Germany,https://www.wikidata.org/wiki/Q379050
+LIBSRC-LIB34-ENT-GEO-0017831,descriptive_identity,municipality without town privileges in Germany,https://www.wikidata.org/wiki/Q379050
+LIBSRC-LIB34-ENT-GEO-0017831,location,Germany,https://www.wikidata.org/wiki/Q379050
+LIBSRC-LIB34-ENT-GEO-0018601,place_identity,mountain,https://www.wikidata.org/wiki/Q21791095
+LIBSRC-LIB34-ENT-GEO-0018601,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q21791095
+LIBSRC-LIB34-ENT-GEO-0018601,descriptive_identity,mountain in Afghanistan,https://www.wikidata.org/wiki/Q21791095
+LIBSRC-LIB34-ENT-GEO-0018601,geometry_with_crs,Point(66.016111111 33.628333333),https://www.wikidata.org/wiki/Q21791095
+LIBSRC-LIB34-ENT-GEO-0018601,location,Afghanistan,https://www.wikidata.org/wiki/Q21791095
+LIBSRC-LIB34-ENT-GEO-0018601,location,Daykundi Province,https://www.wikidata.org/wiki/Q21791095
+LIBSRC-LIB34-ENT-GEO-0020141,place_identity,river,https://www.wikidata.org/wiki/Q21802138
+LIBSRC-LIB34-ENT-GEO-0020141,descriptive_identity,river,https://www.wikidata.org/wiki/Q21802138
+LIBSRC-LIB34-ENT-GEO-0020141,descriptive_identity,river in Afghanistan,https://www.wikidata.org/wiki/Q21802138
+LIBSRC-LIB34-ENT-GEO-0020141,geometry_with_crs,Point(70.067222222 35.663611111),https://www.wikidata.org/wiki/Q21802138
+LIBSRC-LIB34-ENT-GEO-0020141,location,Panjshir Province,https://www.wikidata.org/wiki/Q21802138
+LIBSRC-LIB34-ENT-GEO-0020141,location,Afghanistan,https://www.wikidata.org/wiki/Q21802138
+LIBSRC-LIB34-ENT-GEO-0022451,place_identity,mountain,https://www.wikidata.org/wiki/Q21791225
+LIBSRC-LIB34-ENT-GEO-0022451,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q21791225
+LIBSRC-LIB34-ENT-GEO-0022451,descriptive_identity,"mountain in Daykundi, Afghanistan",https://www.wikidata.org/wiki/Q21791225
+LIBSRC-LIB34-ENT-GEO-0022451,geometry_with_crs,Point(66.425 33.915833333),https://www.wikidata.org/wiki/Q21791225
+LIBSRC-LIB34-ENT-GEO-0022451,location,Afghanistan,https://www.wikidata.org/wiki/Q21791225
+LIBSRC-LIB34-ENT-GEO-0022451,location,Daykundi Province,https://www.wikidata.org/wiki/Q21791225
+LIBSRC-LIB34-ENT-GEO-0208251,place_identity,city,https://www.wikidata.org/wiki/Q2511670
+LIBSRC-LIB34-ENT-GEO-0208251,descriptive_identity,city,https://www.wikidata.org/wiki/Q2511670
+LIBSRC-LIB34-ENT-GEO-0208251,descriptive_identity,city in Egypt,https://www.wikidata.org/wiki/Q2511670
+LIBSRC-LIB34-ENT-GEO-0208251,geometry_with_crs,Point(31.435 26.91),https://www.wikidata.org/wiki/Q2511670
+LIBSRC-LIB34-ENT-GEO-0208251,elevation,66000.0,https://www.wikidata.org/wiki/Q2511670
+LIBSRC-LIB34-ENT-GEO-0208251,location,Egypt,https://www.wikidata.org/wiki/Q2511670
+LIBSRC-LIB34-ENT-GEO-0208251,location,Sohag Governorate,https://www.wikidata.org/wiki/Q2511670
+LIBSRC-LIB34-ENT-GEO-0027071,place_identity,mountain,https://www.wikidata.org/wiki/Q21821859
+LIBSRC-LIB34-ENT-GEO-0027071,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q21821859
+LIBSRC-LIB34-ENT-GEO-0027071,descriptive_identity,mountain in Afghanistan,https://www.wikidata.org/wiki/Q21821859
+LIBSRC-LIB34-ENT-GEO-0027071,geometry_with_crs,Point(68.29167 32.27783),https://www.wikidata.org/wiki/Q21821859
+LIBSRC-LIB34-ENT-GEO-0027071,location,Paktika Province,https://www.wikidata.org/wiki/Q21821859
+LIBSRC-LIB34-ENT-GEO-0027071,location,Afghanistan,https://www.wikidata.org/wiki/Q21821859
+LIBSRC-LIB34-ENT-GEO-0034001,place_identity,glacier,https://www.wikidata.org/wiki/Q5443302
+LIBSRC-LIB34-ENT-GEO-0034001,descriptive_identity,glacier,https://www.wikidata.org/wiki/Q5443302
+LIBSRC-LIB34-ENT-GEO-0034001,descriptive_identity,glacier in Antarctica,https://www.wikidata.org/wiki/Q5443302
+LIBSRC-LIB34-ENT-GEO-0034001,geometry_with_crs,Point(168.783 -71.3),https://www.wikidata.org/wiki/Q5443302
+LIBSRC-LIB34-ENT-GEO-0034001,location,Antarctic Treaty area,https://www.wikidata.org/wiki/Q5443302
+LIBSRC-LIB34-ENT-GEO-0037081,place_identity,district of Azerbaijan,https://www.wikidata.org/wiki/Q249252
+LIBSRC-LIB34-ENT-GEO-0037081,descriptive_identity,district of Azerbaijan,https://www.wikidata.org/wiki/Q249252
+LIBSRC-LIB34-ENT-GEO-0037081,geometry_with_crs,Point(46.69694444 39.06555556),https://www.wikidata.org/wiki/Q249252
+LIBSRC-LIB34-ENT-GEO-0037081,location,Azerbaijan,https://www.wikidata.org/wiki/Q249252
+LIBSRC-LIB34-ENT-GEO-0043241,place_identity,waterfall,https://www.wikidata.org/wiki/Q22014634
+LIBSRC-LIB34-ENT-GEO-0043241,descriptive_identity,waterfall,https://www.wikidata.org/wiki/Q22014634
+LIBSRC-LIB34-ENT-GEO-0043241,geometry_with_crs,Point(-58.4 -8.783333333),https://www.wikidata.org/wiki/Q22014634
+LIBSRC-LIB34-ENT-GEO-0043241,elevation,153000.0,https://www.wikidata.org/wiki/Q22014634
+LIBSRC-LIB34-ENT-GEO-0043241,location,Mato Grosso,https://www.wikidata.org/wiki/Q22014634
+LIBSRC-LIB34-ENT-GEO-0043241,location,Brazil,https://www.wikidata.org/wiki/Q22014634
+LIBSRC-LIB34-ENT-GEO-0048631,place_identity,glacier,https://www.wikidata.org/wiki/Q22576212
+LIBSRC-LIB34-ENT-GEO-0048631,descriptive_identity,glacier,https://www.wikidata.org/wiki/Q22576212
+LIBSRC-LIB34-ENT-GEO-0048631,descriptive_identity,"glacier in British Columbia, Canada",https://www.wikidata.org/wiki/Q22576212
+LIBSRC-LIB34-ENT-GEO-0048631,geometry_with_crs,Point(-126.13642 51.88971),https://www.wikidata.org/wiki/Q22576212
+LIBSRC-LIB34-ENT-GEO-0048631,location,Canada,https://www.wikidata.org/wiki/Q22576212
+LIBSRC-LIB34-ENT-GEO-0048631,location,British Columbia,https://www.wikidata.org/wiki/Q22576212
+LIBSRC-LIB34-ENT-GEO-0044011,place_identity,waterfall,https://www.wikidata.org/wiki/Q22055740
+LIBSRC-LIB34-ENT-GEO-0044011,descriptive_identity,waterfall,https://www.wikidata.org/wiki/Q22055740
+LIBSRC-LIB34-ENT-GEO-0044011,geometry_with_crs,Point(-63.45 1.533333333),https://www.wikidata.org/wiki/Q22055740
+LIBSRC-LIB34-ENT-GEO-0044011,elevation,103000.0,https://www.wikidata.org/wiki/Q22055740
+LIBSRC-LIB34-ENT-GEO-0044011,location,Brazil,https://www.wikidata.org/wiki/Q22055740
+LIBSRC-LIB34-ENT-GEO-0044011,location,Amazonas,https://www.wikidata.org/wiki/Q22055740
+LIBSRC-LIB34-ENT-GEO-0040931,place_identity,kmetstvo of Bulgaria,https://www.wikidata.org/wiki/Q2019993
+LIBSRC-LIB34-ENT-GEO-0040931,descriptive_identity,kmetstvo of Bulgaria,https://www.wikidata.org/wiki/Q2019993
+LIBSRC-LIB34-ENT-GEO-0040931,descriptive_identity,"village in Omurtag municipality, Targovishte oblast, Bulgaria",https://www.wikidata.org/wiki/Q2019993
+LIBSRC-LIB34-ENT-GEO-0040931,geometry_with_crs,Point(26.441755 43.021769),https://www.wikidata.org/wiki/Q2019993
+LIBSRC-LIB34-ENT-GEO-0040931,elevation,561000.0,https://www.wikidata.org/wiki/Q2019993
+LIBSRC-LIB34-ENT-GEO-0040931,location,Bulgaria,https://www.wikidata.org/wiki/Q2019993
+LIBSRC-LIB34-ENT-GEO-0040931,place_identity,village of Bulgaria,https://www.wikidata.org/wiki/Q2019993
+LIBSRC-LIB34-ENT-GEO-0040931,descriptive_identity,village of Bulgaria,https://www.wikidata.org/wiki/Q2019993
+LIBSRC-LIB34-ENT-GEO-0040931,location,Omurtag,https://www.wikidata.org/wiki/Q2019993
+LIBSRC-LIB35-ENT-GAZ-2533839,place_identity,commune of France,https://www.wikidata.org/wiki/Q250655
+LIBSRC-LIB35-ENT-GAZ-2533839,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q250655
+LIBSRC-LIB35-ENT-GAZ-2533839,descriptive_identity,"commune in Orne, France",https://www.wikidata.org/wiki/Q250655
+LIBSRC-LIB35-ENT-GAZ-2533839,geometry_with_crs,Point(-0.699444444 48.486388888),https://www.wikidata.org/wiki/Q250655
+LIBSRC-LIB35-ENT-GAZ-2533839,elevation,149000.0,https://www.wikidata.org/wiki/Q250655
+LIBSRC-LIB35-ENT-GAZ-2533839,location,Q28913609,https://www.wikidata.org/wiki/Q250655
+LIBSRC-LIB35-ENT-GAZ-2533839,location,canton of Passais,https://www.wikidata.org/wiki/Q250655
+LIBSRC-LIB35-ENT-GAZ-2533839,location,arrondissement of Alençon,https://www.wikidata.org/wiki/Q250655
+LIBSRC-LIB35-ENT-GAZ-2533839,location,Orne,https://www.wikidata.org/wiki/Q250655
+LIBSRC-LIB35-ENT-GAZ-2533839,elevation,150000.0,https://www.wikidata.org/wiki/Q250655
+LIBSRC-LIB35-ENT-GAZ-2533839,elevation,196000.0,https://www.wikidata.org/wiki/Q250655
+LIBSRC-LIB35-ENT-GAZ-2533839,elevation,107000.0,https://www.wikidata.org/wiki/Q250655
+LIBSRC-LIB35-ENT-GAZ-2533839,location,France,https://www.wikidata.org/wiki/Q250655
+LIBSRC-LIB34-ENT-GEO-0050171,place_identity,municipality of Switzerland,https://www.wikidata.org/wiki/Q69300
+LIBSRC-LIB34-ENT-GEO-0050171,descriptive_identity,municipality of Switzerland,https://www.wikidata.org/wiki/Q69300
+LIBSRC-LIB34-ENT-GEO-0050171,descriptive_identity,municipality in the canton of Vaud in Switzerland,https://www.wikidata.org/wiki/Q69300
+LIBSRC-LIB34-ENT-GEO-0050171,geometry_with_crs,Point(6.266666666 46.416666666),https://www.wikidata.org/wiki/Q69300
+LIBSRC-LIB34-ENT-GEO-0050171,elevation,432000.0,https://www.wikidata.org/wiki/Q69300
+LIBSRC-LIB34-ENT-GEO-0050171,location,Switzerland,https://www.wikidata.org/wiki/Q69300
+LIBSRC-LIB34-ENT-GEO-0050171,elevation,416000.0,https://www.wikidata.org/wiki/Q69300
+LIBSRC-LIB34-ENT-GEO-0050171,place_identity,city of Switzerland,https://www.wikidata.org/wiki/Q69300
+LIBSRC-LIB34-ENT-GEO-0050171,descriptive_identity,city of Switzerland,https://www.wikidata.org/wiki/Q69300
+LIBSRC-LIB34-ENT-GEO-0050171,location,Nyon District,https://www.wikidata.org/wiki/Q69300
+LIBSRC-LIB34-ENT-GEO-0050941,place_identity,glacier,https://www.wikidata.org/wiki/Q141686176
+LIBSRC-LIB34-ENT-GEO-0050941,descriptive_identity,glacier,https://www.wikidata.org/wiki/Q141686176
+LIBSRC-LIB34-ENT-GEO-0050941,descriptive_identity,"glacier in the canton of Valais, Switzerland",https://www.wikidata.org/wiki/Q141686176
+LIBSRC-LIB34-ENT-GEO-0050941,geometry_with_crs,Point(7.7066 46.05584),https://www.wikidata.org/wiki/Q141686176
+LIBSRC-LIB34-ENT-GEO-0050941,location,Switzerland,https://www.wikidata.org/wiki/Q141686176
+LIBSRC-LIB34-ENT-GEO-0061721,place_identity,urban municipality in Germany,https://www.wikidata.org/wiki/Q46909
+LIBSRC-LIB34-ENT-GEO-0061721,descriptive_identity,urban municipality in Germany,https://www.wikidata.org/wiki/Q46909
+LIBSRC-LIB34-ENT-GEO-0061721,descriptive_identity,"town in the Vogtlandkreis district, in the Free State of Saxony, Germany",https://www.wikidata.org/wiki/Q46909
+LIBSRC-LIB34-ENT-GEO-0061721,geometry_with_crs,Point(12.302222222 50.5425),https://www.wikidata.org/wiki/Q46909
+LIBSRC-LIB34-ENT-GEO-0061721,elevation,424000.0,https://www.wikidata.org/wiki/Q46909
+LIBSRC-LIB34-ENT-GEO-0061721,location,Vogtlandkreis,https://www.wikidata.org/wiki/Q46909
+LIBSRC-LIB34-ENT-GEO-0061721,location,Germany,https://www.wikidata.org/wiki/Q46909
+LIBSRC-LIB34-ENT-GEO-0062491,place_identity,market municipality of Germany,https://www.wikidata.org/wiki/Q539787
+LIBSRC-LIB34-ENT-GEO-0062491,descriptive_identity,market municipality of Germany,https://www.wikidata.org/wiki/Q539787
+LIBSRC-LIB34-ENT-GEO-0062491,descriptive_identity,human settlement in Germany,https://www.wikidata.org/wiki/Q539787
+LIBSRC-LIB34-ENT-GEO-0062491,geometry_with_crs,Point(10.85 49.016666666),https://www.wikidata.org/wiki/Q539787
+LIBSRC-LIB34-ENT-GEO-0062491,elevation,424000.0,https://www.wikidata.org/wiki/Q539787
+LIBSRC-LIB34-ENT-GEO-0062491,location,Weißenburg-Gunzenhausen District,https://www.wikidata.org/wiki/Q539787
+LIBSRC-LIB34-ENT-GEO-0062491,place_identity,municipality without town privileges in Germany,https://www.wikidata.org/wiki/Q539787
+LIBSRC-LIB34-ENT-GEO-0062491,descriptive_identity,municipality without town privileges in Germany,https://www.wikidata.org/wiki/Q539787
+LIBSRC-LIB34-ENT-GEO-0062491,location,Germany,https://www.wikidata.org/wiki/Q539787
+LIBSRC-LIB34-ENT-GEO-0072501,place_identity,city,https://www.wikidata.org/wiki/Q12191144
+LIBSRC-LIB34-ENT-GEO-0072501,descriptive_identity,city,https://www.wikidata.org/wiki/Q12191144
+LIBSRC-LIB34-ENT-GEO-0072501,descriptive_identity,town east of Cairo in Egypt,https://www.wikidata.org/wiki/Q12191144
+LIBSRC-LIB34-ENT-GEO-0072501,geometry_with_crs,Point(31.47 30.03),https://www.wikidata.org/wiki/Q12191144
+LIBSRC-LIB34-ENT-GEO-0072501,elevation,271000.0,https://www.wikidata.org/wiki/Q12191144
+LIBSRC-LIB34-ENT-GEO-0072501,location,Egypt,https://www.wikidata.org/wiki/Q12191144
+LIBSRC-LIB34-ENT-GEO-0072501,historical_name,Cairo,https://www.wikidata.org/wiki/Q12191144
+LIBSRC-LIB34-ENT-GEO-0072501,place_identity,big city,https://www.wikidata.org/wiki/Q12191144
+LIBSRC-LIB34-ENT-GEO-0072501,descriptive_identity,big city,https://www.wikidata.org/wiki/Q12191144
+LIBSRC-LIB34-ENT-GEO-0072501,place_identity,new city of Egypt,https://www.wikidata.org/wiki/Q12191144
+LIBSRC-LIB34-ENT-GEO-0072501,descriptive_identity,new city of Egypt,https://www.wikidata.org/wiki/Q12191144
+LIBSRC-LIB34-ENT-GEO-0072501,location,Cairo Governorate,https://www.wikidata.org/wiki/Q12191144
+LIBSRC-LIB34-ENT-GEO-0047091,geometry_with_crs,Point(-88.975 16.28127),https://www.wikidata.org/wiki/Q21867541
+LIBSRC-LIB34-ENT-GEO-0047091,elevation,60000.0,https://www.wikidata.org/wiki/Q21867541
+LIBSRC-LIB34-ENT-GEO-0047091,location,Toledo District,https://www.wikidata.org/wiki/Q21867541
+LIBSRC-LIB34-ENT-GEO-0047091,location,Belize,https://www.wikidata.org/wiki/Q21867541
+LIBSRC-LIB34-ENT-GEO-0084051,place_identity,commune of France,https://www.wikidata.org/wiki/Q266910
+LIBSRC-LIB34-ENT-GEO-0084051,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q266910
+LIBSRC-LIB34-ENT-GEO-0084051,descriptive_identity,"commune in Gard, France",https://www.wikidata.org/wiki/Q266910
+LIBSRC-LIB34-ENT-GEO-0084051,geometry_with_crs,Point(4.476944444 43.953888888),https://www.wikidata.org/wiki/Q266910
+LIBSRC-LIB34-ENT-GEO-0084051,elevation,20000.0,https://www.wikidata.org/wiki/Q266910
+LIBSRC-LIB34-ENT-GEO-0084051,location,canton of Remoulins,https://www.wikidata.org/wiki/Q266910
+LIBSRC-LIB34-ENT-GEO-0084051,location,arrondissement of Nîmes,https://www.wikidata.org/wiki/Q266910
+LIBSRC-LIB34-ENT-GEO-0084051,location,Gard,https://www.wikidata.org/wiki/Q266910
+LIBSRC-LIB34-ENT-GEO-0084051,elevation,99000.0,https://www.wikidata.org/wiki/Q266910
+LIBSRC-LIB34-ENT-GEO-0084051,elevation,212000.0,https://www.wikidata.org/wiki/Q266910
+LIBSRC-LIB34-ENT-GEO-0084051,location,France,https://www.wikidata.org/wiki/Q266910
+LIBSRC-LIB34-ENT-GEO-0084821,place_identity,commune of France,https://www.wikidata.org/wiki/Q996100
+LIBSRC-LIB34-ENT-GEO-0084821,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q996100
+LIBSRC-LIB34-ENT-GEO-0084821,descriptive_identity,"commune in Pas-de-Calais, France",https://www.wikidata.org/wiki/Q996100
+LIBSRC-LIB34-ENT-GEO-0084821,geometry_with_crs,Point(2.236944444 50.290277777),https://www.wikidata.org/wiki/Q996100
+LIBSRC-LIB34-ENT-GEO-0084821,elevation,52000.0,https://www.wikidata.org/wiki/Q996100
+LIBSRC-LIB34-ENT-GEO-0084821,location,France,https://www.wikidata.org/wiki/Q996100
+LIBSRC-LIB34-ENT-GEO-0084821,historical_name,Canche,https://www.wikidata.org/wiki/Q996100
+LIBSRC-LIB34-ENT-GEO-0084821,elevation,100000.0,https://www.wikidata.org/wiki/Q996100
+LIBSRC-LIB34-ENT-GEO-0084821,elevation,142000.0,https://www.wikidata.org/wiki/Q996100
+LIBSRC-LIB34-ENT-GEO-0084821,location,arrondissement of Arras,https://www.wikidata.org/wiki/Q996100
+LIBSRC-LIB34-ENT-GEO-0084821,location,Pas-de-Calais,https://www.wikidata.org/wiki/Q996100
+LIBSRC-LIB34-ENT-GEO-0088671,place_identity,abbey,https://www.wikidata.org/wiki/Q748927
+LIBSRC-LIB34-ENT-GEO-0088671,descriptive_identity,abbey,https://www.wikidata.org/wiki/Q748927
+LIBSRC-LIB34-ENT-GEO-0088671,descriptive_identity,"abbey in North Yorkshire, England, UK",https://www.wikidata.org/wiki/Q748927
+LIBSRC-LIB34-ENT-GEO-0088671,geometry_with_crs,Point(-1.73779 54.2672),https://www.wikidata.org/wiki/Q748927
+LIBSRC-LIB34-ENT-GEO-0088671,location,United Kingdom,https://www.wikidata.org/wiki/Q748927
+LIBSRC-LIB34-ENT-GEO-0088671,place_identity,monastery ruins,https://www.wikidata.org/wiki/Q748927
+LIBSRC-LIB34-ENT-GEO-0088671,descriptive_identity,monastery ruins,https://www.wikidata.org/wiki/Q748927
+LIBSRC-LIB34-ENT-GEO-0088671,location,East Witton,https://www.wikidata.org/wiki/Q748927
+LIBSRC-LIB34-ENT-GEO-0093291,place_identity,human settlement,https://www.wikidata.org/wiki/Q1765279
+LIBSRC-LIB34-ENT-GEO-0093291,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q1765279
+LIBSRC-LIB34-ENT-GEO-0093291,descriptive_identity,human settlement in Ghana,https://www.wikidata.org/wiki/Q1765279
+LIBSRC-LIB34-ENT-GEO-0093291,geometry_with_crs,Point(-0.43783 10.5322),https://www.wikidata.org/wiki/Q1765279
+LIBSRC-LIB34-ENT-GEO-0093291,elevation,265000.0,https://www.wikidata.org/wiki/Q1765279
+LIBSRC-LIB34-ENT-GEO-0093291,location,Ghana,https://www.wikidata.org/wiki/Q1765279
+LIBSRC-LIB34-ENT-GEO-0093291,geometry_with_crs,Point(-0.442222 10.5306),https://www.wikidata.org/wiki/Q1765279
+LIBSRC-LIB34-ENT-GEO-0093291,location,East Mamprusi Municipal District,https://www.wikidata.org/wiki/Q1765279
+LIBSRC-LIB35-ENT-GAZ-2527479,place_identity,family name,https://www.wikidata.org/wiki/Q19611241
+LIBSRC-LIB35-ENT-GAZ-2527479,descriptive_identity,family name,https://www.wikidata.org/wiki/Q19611241
+LIBSRC-LIB34-ENT-GEO-0049401,place_identity,county seat,https://www.wikidata.org/wiki/Q548384
+LIBSRC-LIB34-ENT-GEO-0049401,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q548384
+LIBSRC-LIB34-ENT-GEO-0049401,descriptive_identity,"city in and county seat of Twin Falls County, Idaho, United States",https://www.wikidata.org/wiki/Q548384
+LIBSRC-LIB34-ENT-GEO-0049401,geometry_with_crs,Point(-114.475 42.578055555),https://www.wikidata.org/wiki/Q548384
+LIBSRC-LIB34-ENT-GEO-0049401,elevation,1141000.0,https://www.wikidata.org/wiki/Q548384
+LIBSRC-LIB34-ENT-GEO-0049401,location,United States,https://www.wikidata.org/wiki/Q548384
+LIBSRC-LIB34-ENT-GEO-0049401,historical_name,Twin Falls,https://www.wikidata.org/wiki/Q548384
+LIBSRC-LIB34-ENT-GEO-0049401,place_identity,city in the United States,https://www.wikidata.org/wiki/Q548384
+LIBSRC-LIB34-ENT-GEO-0049401,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q548384
+LIBSRC-LIB34-ENT-GEO-0049401,location,Twin Falls County,https://www.wikidata.org/wiki/Q548384
+LIBSRC-LIB34-ENT-GEO-0000741,place_identity,mountain,https://www.wikidata.org/wiki/Q21740243
+LIBSRC-LIB34-ENT-GEO-0000741,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q21740243
+LIBSRC-LIB34-ENT-GEO-0000741,descriptive_identity,mountain in Afghanistan,https://www.wikidata.org/wiki/Q21740243
+LIBSRC-LIB34-ENT-GEO-0000741,geometry_with_crs,Point(70.514444444 35.776944444),https://www.wikidata.org/wiki/Q21740243
+LIBSRC-LIB34-ENT-GEO-0000741,elevation,5328000.0,https://www.wikidata.org/wiki/Q21740243
+LIBSRC-LIB34-ENT-GEO-0000741,location,Badakhshan Province,https://www.wikidata.org/wiki/Q21740243
+LIBSRC-LIB34-ENT-GEO-0000741,location,Afghanistan,https://www.wikidata.org/wiki/Q21740243
+LIBSRC-LIB34-ENT-GEO-0117161,place_identity,stream,https://www.wikidata.org/wiki/Q35472229
+LIBSRC-LIB34-ENT-GEO-0117161,descriptive_identity,stream,https://www.wikidata.org/wiki/Q35472229
+LIBSRC-LIB34-ENT-GEO-0117161,descriptive_identity,"stream in Ardabil Province, Iran",https://www.wikidata.org/wiki/Q35472229
+LIBSRC-LIB34-ENT-GEO-0117161,geometry_with_crs,Point(47.628888888 38.277222222),https://www.wikidata.org/wiki/Q35472229
+LIBSRC-LIB34-ENT-GEO-0117161,location,Iran,https://www.wikidata.org/wiki/Q35472229
+LIBSRC-LIB34-ENT-GEO-0117161,location,Ardabil Province,https://www.wikidata.org/wiki/Q35472229
+LIBSRC-LIB34-ENT-GEO-0120241,place_identity,family name,https://www.wikidata.org/wiki/Q105394490
+LIBSRC-LIB34-ENT-GEO-0120241,descriptive_identity,family name,https://www.wikidata.org/wiki/Q105394490
+LIBSRC-LIB34-ENT-GEO-0125631,place_identity,mountain,https://www.wikidata.org/wiki/Q26925052
+LIBSRC-LIB34-ENT-GEO-0125631,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q26925052
+LIBSRC-LIB34-ENT-GEO-0125631,descriptive_identity,"mountain in Golestan Province, Iran",https://www.wikidata.org/wiki/Q26925052
+LIBSRC-LIB34-ENT-GEO-0125631,geometry_with_crs,Point(55.047777777 36.963888888),https://www.wikidata.org/wiki/Q26925052
+LIBSRC-LIB34-ENT-GEO-0125631,location,Golestan Province,https://www.wikidata.org/wiki/Q26925052
+LIBSRC-LIB34-ENT-GEO-0125631,location,Iran,https://www.wikidata.org/wiki/Q26925052
+LIBSRC-LIB34-ENT-GEO-0127941,place_identity,village,https://www.wikidata.org/wiki/Q5823465
+LIBSRC-LIB34-ENT-GEO-0127941,descriptive_identity,village,https://www.wikidata.org/wiki/Q5823465
+LIBSRC-LIB34-ENT-GEO-0127941,descriptive_identity,village in Iran,https://www.wikidata.org/wiki/Q5823465
+LIBSRC-LIB34-ENT-GEO-0127941,geometry_with_crs,Point(48.69222222 36.83666667),https://www.wikidata.org/wiki/Q5823465
+LIBSRC-LIB34-ENT-GEO-0127941,location,Iran,https://www.wikidata.org/wiki/Q5823465
+LIBSRC-LIB34-ENT-GEO-0127941,location,Taham Rural District,https://www.wikidata.org/wiki/Q5823465
+LIBSRC-LIB34-ENT-GEO-0133331,place_identity,human settlement,https://www.wikidata.org/wiki/Q6371313
+LIBSRC-LIB34-ENT-GEO-0133331,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q6371313
+LIBSRC-LIB34-ENT-GEO-0133331,descriptive_identity,"village in Lorestan, Iran",https://www.wikidata.org/wiki/Q6371313
+LIBSRC-LIB34-ENT-GEO-0133331,geometry_with_crs,Point(48.84527778 33.72111111),https://www.wikidata.org/wiki/Q6371313
+LIBSRC-LIB34-ENT-GEO-0133331,location,Iran,https://www.wikidata.org/wiki/Q6371313
+LIBSRC-LIB34-ENT-GEO-0133331,location,Chalanchulan Rural District,https://www.wikidata.org/wiki/Q6371313
+LIBSRC-LIB34-ENT-GEO-0134101,place_identity,village,https://www.wikidata.org/wiki/Q5732511
+LIBSRC-LIB34-ENT-GEO-0134101,descriptive_identity,village,https://www.wikidata.org/wiki/Q5732511
+LIBSRC-LIB34-ENT-GEO-0134101,descriptive_identity,"village in Saveh County, Iran",https://www.wikidata.org/wiki/Q5732511
+LIBSRC-LIB34-ENT-GEO-0134101,geometry_with_crs,Point(49.607777777 35.180277777),https://www.wikidata.org/wiki/Q5732511
+LIBSRC-LIB34-ENT-GEO-0134101,elevation,1771000.0,https://www.wikidata.org/wiki/Q5732511
+LIBSRC-LIB34-ENT-GEO-0134101,location,Iran,https://www.wikidata.org/wiki/Q5732511
+LIBSRC-LIB34-ENT-GEO-0134101,location,Kuhpayeh Rural District,https://www.wikidata.org/wiki/Q5732511
+LIBSRC-LIB34-ENT-GEO-0134871,place_identity,village,https://www.wikidata.org/wiki/Q5620873
+LIBSRC-LIB34-ENT-GEO-0134871,descriptive_identity,village,https://www.wikidata.org/wiki/Q5620873
+LIBSRC-LIB34-ENT-GEO-0134871,descriptive_identity,"village in South Khorasan, Iran",https://www.wikidata.org/wiki/Q5620873
+LIBSRC-LIB34-ENT-GEO-0134871,geometry_with_crs,Point(58.923056 32.822222),https://www.wikidata.org/wiki/Q5620873
+LIBSRC-LIB34-ENT-GEO-0134871,location,Khusf Rural District,https://www.wikidata.org/wiki/Q5620873
+LIBSRC-LIB34-ENT-GEO-0134871,location,Arabkhaneh Rural District,https://www.wikidata.org/wiki/Q5620873
+LIBSRC-LIB34-ENT-GEO-0134871,geometry_with_crs,Point(58.92 32.82305556),https://www.wikidata.org/wiki/Q5620873
+LIBSRC-LIB34-ENT-GEO-0134871,geometry_with_crs,Point(59.68861111 32.20416667),https://www.wikidata.org/wiki/Q5620873
+LIBSRC-LIB34-ENT-GEO-0134871,location,Iran,https://www.wikidata.org/wiki/Q5620873
+LIBSRC-LIB34-ENT-GEO-0137181,place_identity,village,https://www.wikidata.org/wiki/Q5848890
+LIBSRC-LIB34-ENT-GEO-0137181,descriptive_identity,village,https://www.wikidata.org/wiki/Q5848890
+LIBSRC-LIB34-ENT-GEO-0137181,descriptive_identity,"village in Zanjan, Iran",https://www.wikidata.org/wiki/Q5848890
+LIBSRC-LIB34-ENT-GEO-0137181,geometry_with_crs,Point(47.95972222 35.8975),https://www.wikidata.org/wiki/Q5848890
+LIBSRC-LIB34-ENT-GEO-0137181,location,Iran,https://www.wikidata.org/wiki/Q5848890
+LIBSRC-LIB34-ENT-GEO-0137181,location,Howmeh Rural District,https://www.wikidata.org/wiki/Q5848890
+LIBSRC-LIB34-ENT-GEO-0151811,place_identity,mountain,https://www.wikidata.org/wiki/Q26976522
+LIBSRC-LIB34-ENT-GEO-0151811,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q26976522
+LIBSRC-LIB34-ENT-GEO-0151811,descriptive_identity,mountain in Iran,https://www.wikidata.org/wiki/Q26976522
+LIBSRC-LIB34-ENT-GEO-0151811,geometry_with_crs,Point(54.643611111 33.360555555),https://www.wikidata.org/wiki/Q26976522
+LIBSRC-LIB34-ENT-GEO-0151811,location,Isfahan Province,https://www.wikidata.org/wiki/Q26976522
+LIBSRC-LIB34-ENT-GEO-0151811,location,Iran,https://www.wikidata.org/wiki/Q26976522
+LIBSRC-LIB34-ENT-GEO-0177221,place_identity,dong of South Korea,https://www.wikidata.org/wiki/Q16178377
+LIBSRC-LIB34-ENT-GEO-0177221,descriptive_identity,dong of South Korea,https://www.wikidata.org/wiki/Q16178377
+LIBSRC-LIB34-ENT-GEO-0177221,geometry_with_crs,Point(126.59105 33.24041),https://www.wikidata.org/wiki/Q16178377
+LIBSRC-LIB34-ENT-GEO-0177221,location,South Korea,https://www.wikidata.org/wiki/Q16178377
+LIBSRC-LIB34-ENT-GEO-0177221,location,Seogwipo,https://www.wikidata.org/wiki/Q16178377
+LIBSRC-LIB34-ENT-GEO-0124861,place_identity,village,https://www.wikidata.org/wiki/Q5636595
+LIBSRC-LIB34-ENT-GEO-0124861,descriptive_identity,village,https://www.wikidata.org/wiki/Q5636595
+LIBSRC-LIB34-ENT-GEO-0124861,descriptive_identity,village in Iran,https://www.wikidata.org/wiki/Q5636595
+LIBSRC-LIB34-ENT-GEO-0124861,geometry_with_crs,Point(49.76944444 30.67166667),https://www.wikidata.org/wiki/Q5636595
+LIBSRC-LIB34-ENT-GEO-0124861,location,Chah Salem Rural District,https://www.wikidata.org/wiki/Q5636595
+LIBSRC-LIB34-ENT-GEO-0124861,geometry_with_crs,Point(49.7718 30.64485),https://www.wikidata.org/wiki/Q5636595
+LIBSRC-LIB34-ENT-GEO-0124861,location,Iran,https://www.wikidata.org/wiki/Q5636595
+LIBSRC-LIB34-ENT-GEO-0011671,place_identity,mountain,https://www.wikidata.org/wiki/Q21763772
+LIBSRC-LIB34-ENT-GEO-0011671,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q21763772
+LIBSRC-LIB34-ENT-GEO-0011671,descriptive_identity,mountain in Afghanistan,https://www.wikidata.org/wiki/Q21763772
+LIBSRC-LIB34-ENT-GEO-0011671,geometry_with_crs,Point(69.020833333 34.731944444),https://www.wikidata.org/wiki/Q21763772
+LIBSRC-LIB34-ENT-GEO-0011671,elevation,2357000.0,https://www.wikidata.org/wiki/Q21763772
+LIBSRC-LIB34-ENT-GEO-0011671,location,Afghanistan,https://www.wikidata.org/wiki/Q21763772
+LIBSRC-LIB34-ENT-GEO-0011671,location,Kabul Province,https://www.wikidata.org/wiki/Q21763772
