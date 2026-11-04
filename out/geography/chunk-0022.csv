@@ -1,0 +1,484 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB34-ENT-GEO-0320791,location,"""Point(-74.163055555 40.750277777)""",http://www.wikidata.org/entity/Q1087639
+LIBSRC-LIB34-ENT-GEO-0320791,elevation,4.0,http://www.wikidata.org/entity/Q1087639
+LIBSRC-LIB34-ENT-GEO-0320791,descriptive_identity,"[""http://www.wikidata.org/entity/Q2911266""]",http://www.wikidata.org/entity/Q1087639
+LIBSRC-LIB35-ENT-GAZ-2527019,descriptive_identity,"[""http://www.wikidata.org/entity/Q4167410""]",http://www.wikidata.org/entity/Q11119269
+LIBSRC-LIB35-ENT-GAZ-2519803,location,"""Point(-0.18018 49.21341)""",http://www.wikidata.org/entity/Q109573289
+LIBSRC-LIB35-ENT-GAZ-2519803,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q109573289
+LIBSRC-LIB34-ENT-GEO-0300001,descriptive_identity,"[""http://www.wikidata.org/entity/Q4167410""]",http://www.wikidata.org/entity/Q124347975
+LIBSRC-LIB34-ENT-GEO-0317711,location,"""Point(-89.0386 42.4842)""",http://www.wikidata.org/entity/Q577281
+LIBSRC-LIB34-ENT-GEO-0317711,elevation,738.0,http://www.wikidata.org/entity/Q577281
+LIBSRC-LIB34-ENT-GEO-0317711,descriptive_identity,"[""http://www.wikidata.org/entity/Q1093829""]",http://www.wikidata.org/entity/Q577281
+LIBSRC-LIB34-ENT-GEO-0226291,location,"""Point(21.24888889 45.28194444)""",http://www.wikidata.org/entity/Q679511
+LIBSRC-LIB34-ENT-GEO-0226291,elevation,91.0,http://www.wikidata.org/entity/Q679511
+LIBSRC-LIB34-ENT-GEO-0226291,descriptive_identity,"[""http://www.wikidata.org/entity/Q532""]",http://www.wikidata.org/entity/Q679511
+LIBSRC-LIB34-ENT-GEO-0230141,location,"""Point(42.845833333 56.1775)""",http://www.wikidata.org/entity/Q4132551
+LIBSRC-LIB34-ENT-GEO-0230141,descriptive_identity,"[""http://www.wikidata.org/entity/Q2514025""]",http://www.wikidata.org/entity/Q4132551
+LIBSRC-LIB34-ENT-GEO-0203191,location,"""Point(73.00333333 5.80805556)""",http://www.wikidata.org/entity/Q4180967
+LIBSRC-LIB34-ENT-GEO-0203191,descriptive_identity,"[""http://www.wikidata.org/entity/Q23442""]",http://www.wikidata.org/entity/Q4180967
+LIBSRC-LIB34-ENT-GEO-0237631,location,"""Point(16.566666666 76.491666666)""",http://www.wikidata.org/entity/Q4338860
+LIBSRC-LIB34-ENT-GEO-0237631,descriptive_identity,"[""http://www.wikidata.org/entity/Q23442""]",http://www.wikidata.org/entity/Q4338860
+LIBSRC-LIB34-ENT-GEO-0303851,location,"""Point(38.266388888 47.968055555)""",http://www.wikidata.org/entity/Q4463576
+LIBSRC-LIB34-ENT-GEO-0303851,elevation,109.0,http://www.wikidata.org/entity/Q4463576
+LIBSRC-LIB34-ENT-GEO-0303851,descriptive_identity,"[""http://www.wikidata.org/entity/Q121366249""]",http://www.wikidata.org/entity/Q4463576
+LIBSRC-LIB34-ENT-GEO-0034331,location,"""Point(-136.0 -75.15)""",http://www.wikidata.org/entity/Q6415810
+LIBSRC-LIB34-ENT-GEO-0034331,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q6415810
+LIBSRC-LIB34-ENT-GEO-0005841,location,"""Point(70.289166666 34.026111111)""",http://www.wikidata.org/entity/Q21750551
+LIBSRC-LIB34-ENT-GEO-0005841,elevation,3051.0,http://www.wikidata.org/entity/Q21750551
+LIBSRC-LIB34-ENT-GEO-0005841,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21750551
+LIBSRC-LIB34-ENT-GEO-0018161,location,"""Point(66.595555555 32.183611111)""",http://www.wikidata.org/entity/Q21787170
+LIBSRC-LIB34-ENT-GEO-0018161,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21787170
+LIBSRC-LIB34-ENT-GEO-0001841,location,"""Point(66.032222222 34.180555555)""",http://www.wikidata.org/entity/Q21803109
+LIBSRC-LIB34-ENT-GEO-0001841,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21803109
+LIBSRC-LIB34-ENT-GEO-0291531,location,"""Point(8.088333333 36.883611111)""",http://www.wikidata.org/entity/Q23828017
+LIBSRC-LIB34-ENT-GEO-0291531,elevation,23.0,http://www.wikidata.org/entity/Q23828017
+LIBSRC-LIB34-ENT-GEO-0291531,descriptive_identity,"[""http://www.wikidata.org/entity/Q124714""]",http://www.wikidata.org/entity/Q23828017
+LIBSRC-LIB34-ENT-GEO-0217051,location,"""Point(53.919166666 17.086666666)""",http://www.wikidata.org/entity/Q31730465
+LIBSRC-LIB34-ENT-GEO-0217051,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q31730465
+LIBSRC-LIB34-ENT-GEO-0212431,location,"""Point(8.55723 59.50215)""",http://www.wikidata.org/entity/Q34672292
+LIBSRC-LIB34-ENT-GEO-0212431,elevation,553.0,http://www.wikidata.org/entity/Q34672292
+LIBSRC-LIB34-ENT-GEO-0212431,descriptive_identity,"[""http://www.wikidata.org/entity/Q34038""]",http://www.wikidata.org/entity/Q34672292
+LIBSRC-LIB34-ENT-GEO-0307701,location,"""Point(-88.0256 31.0647)""",http://www.wikidata.org/entity/Q1265082
+LIBSRC-LIB34-ENT-GEO-0307701,elevation,52.0,http://www.wikidata.org/entity/Q1265082
+LIBSRC-LIB34-ENT-GEO-0307701,descriptive_identity,"[""http://www.wikidata.org/entity/Q498162""]",http://www.wikidata.org/entity/Q1265082
+LIBSRC-LIB34-ENT-GEO-0332241,location,"""Point(-87.006659 32.378494)""",http://www.wikidata.org/entity/Q1274876
+LIBSRC-LIB34-ENT-GEO-0332241,elevation,117.0,http://www.wikidata.org/entity/Q1274876
+LIBSRC-LIB34-ENT-GEO-0332241,descriptive_identity,"[""http://www.wikidata.org/entity/Q498162""]",http://www.wikidata.org/entity/Q1274876
+LIBSRC-LIB34-ENT-GEO-0304621,location,"""Point(35.7599 49.9258)""",http://www.wikidata.org/entity/Q12135172
+LIBSRC-LIB34-ENT-GEO-0304621,descriptive_identity,"[""http://www.wikidata.org/entity/Q55488""]",http://www.wikidata.org/entity/Q12135172
+LIBSRC-LIB34-ENT-GEO-0028171,location,"""Point(19.709098 41.6573918)""",http://www.wikidata.org/entity/Q16357779
+LIBSRC-LIB34-ENT-GEO-0028171,descriptive_identity,"[""http://www.wikidata.org/entity/Q532""]",http://www.wikidata.org/entity/Q16357779
+LIBSRC-LIB34-ENT-GEO-0215511,location,"""Point(168.75 -44.455)""",http://www.wikidata.org/entity/Q19876376
+LIBSRC-LIB34-ENT-GEO-0215511,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q19876376
+LIBSRC-LIB34-ENT-GEO-0082071,location,"""Point(4.988611111 47.270555555)""",http://www.wikidata.org/entity/Q20328
+LIBSRC-LIB34-ENT-GEO-0082071,elevation,477.0,http://www.wikidata.org/entity/Q20328
+LIBSRC-LIB34-ENT-GEO-0082071,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q20328
+LIBSRC-LIB34-ENT-GEO-0082841,location,"""Point(5.901111111 46.6025)""",http://www.wikidata.org/entity/Q819828
+LIBSRC-LIB34-ENT-GEO-0082841,elevation,1063.0,http://www.wikidata.org/entity/Q819828
+LIBSRC-LIB34-ENT-GEO-0082841,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q819828
+LIBSRC-LIB34-ENT-GEO-0106711,location,"""Point(92.8 24.816666666)""",http://www.wikidata.org/entity/Q944769
+LIBSRC-LIB34-ENT-GEO-0106711,elevation,22.0,http://www.wikidata.org/entity/Q944769
+LIBSRC-LIB34-ENT-GEO-0106711,descriptive_identity,"[""http://www.wikidata.org/entity/Q486972""]",http://www.wikidata.org/entity/Q944769
+LIBSRC-LIB34-ENT-GEO-0220671,location,"""Point(20.63496 49.56364)""",http://www.wikidata.org/entity/Q1280257
+LIBSRC-LIB34-ENT-GEO-0220671,elevation,320.0,http://www.wikidata.org/entity/Q1280257
+LIBSRC-LIB34-ENT-GEO-0220671,descriptive_identity,"[""http://www.wikidata.org/entity/Q515""]",http://www.wikidata.org/entity/Q1280257
+LIBSRC-LIB34-ENT-GEO-0102091,location,"""Point(13.666 45.242)""",http://www.wikidata.org/entity/Q2099891
+LIBSRC-LIB34-ENT-GEO-0102091,descriptive_identity,"[""http://www.wikidata.org/entity/Q4845841""]",http://www.wikidata.org/entity/Q2099891
+LIBSRC-LIB34-ENT-GEO-0074371,location,"""Point(-3.844861111 36.762)""",http://www.wikidata.org/entity/Q2169018
+LIBSRC-LIB34-ENT-GEO-0074371,descriptive_identity,"[""http://www.wikidata.org/entity/Q2232001"", ""http://www.wikidata.org/entity/Q2455463""]",http://www.wikidata.org/entity/Q2169018
+LIBSRC-LIB34-ENT-GEO-0228371,location,"""Point(21.333333333 54.65)""",http://www.wikidata.org/entity/Q2390708
+LIBSRC-LIB34-ENT-GEO-0228371,descriptive_identity,"[""http://www.wikidata.org/entity/Q2514025""]",http://www.wikidata.org/entity/Q2390708
+LIBSRC-LIB34-ENT-GEO-0214511,location,"""Point(29.265489 69.170436)""",http://www.wikidata.org/entity/Q2510380
+LIBSRC-LIB34-ENT-GEO-0214511,elevation,52.0,http://www.wikidata.org/entity/Q2510380
+LIBSRC-LIB34-ENT-GEO-0214511,descriptive_identity,"[""http://www.wikidata.org/entity/Q23397""]",http://www.wikidata.org/entity/Q2510380
+LIBSRC-LIB34-ENT-GEO-0199111,location,"""Point(-8.58 32.16)""",http://www.wikidata.org/entity/Q3483299
+LIBSRC-LIB34-ENT-GEO-0199111,descriptive_identity,"[""http://www.wikidata.org/entity/Q17318027"", ""http://www.wikidata.org/entity/Q2989400""]",http://www.wikidata.org/entity/Q3483299
+LIBSRC-LIB34-ENT-GEO-0303621,location,"""Point(26.107977858 48.699322385)""",http://www.wikidata.org/entity/Q4240954
+LIBSRC-LIB34-ENT-GEO-0303621,elevation,225.0,http://www.wikidata.org/entity/Q4240954
+LIBSRC-LIB34-ENT-GEO-0303621,descriptive_identity,"[""http://www.wikidata.org/entity/Q21672098""]",http://www.wikidata.org/entity/Q4240954
+LIBSRC-LIB34-ENT-GEO-0237401,location,"""Point(14.6325 46.091389)""",http://www.wikidata.org/entity/Q4500003
+LIBSRC-LIB34-ENT-GEO-0237401,elevation,281.6,http://www.wikidata.org/entity/Q4500003
+LIBSRC-LIB34-ENT-GEO-0237401,descriptive_identity,"[""http://www.wikidata.org/entity/Q486972""]",http://www.wikidata.org/entity/Q4500003
+LIBSRC-LIB34-ENT-GEO-0037411,location,"""Point(47.558638659 39.542567983)""",http://www.wikidata.org/entity/Q4592107
+LIBSRC-LIB34-ENT-GEO-0037411,elevation,99.0,http://www.wikidata.org/entity/Q4592107
+LIBSRC-LIB34-ENT-GEO-0037411,descriptive_identity,"[""http://www.wikidata.org/entity/Q486972""]",http://www.wikidata.org/entity/Q4592107
+LIBSRC-LIB34-ENT-GEO-0038181,location,"""Point(47.680389924 41.033351646)""",http://www.wikidata.org/entity/Q4809545
+LIBSRC-LIB34-ENT-GEO-0038181,descriptive_identity,"[""http://www.wikidata.org/entity/Q486972""]",http://www.wikidata.org/entity/Q4809545
+LIBSRC-LIB34-ENT-GEO-0129041,location,"""Point(53.413888888 30.434444444)""",http://www.wikidata.org/entity/Q26879603
+LIBSRC-LIB34-ENT-GEO-0129041,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q26879603
+LIBSRC-LIB34-ENT-GEO-0135201,location,"""Point(59.353611111 28.150555555)""",http://www.wikidata.org/entity/Q26885184
+LIBSRC-LIB34-ENT-GEO-0135201,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q26885184
+LIBSRC-LIB34-ENT-GEO-0149831,location,"""Point(57.2675 33.786944444)""",http://www.wikidata.org/entity/Q26935860
+LIBSRC-LIB34-ENT-GEO-0149831,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q26935860
+LIBSRC-LIB34-ENT-GEO-0173701,location,"""Point(128.789722222 36.087222222)""",http://www.wikidata.org/entity/Q27290916
+LIBSRC-LIB34-ENT-GEO-0173701,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q27290916
+LIBSRC-LIB34-ENT-GEO-0265121,location,"""Point(99.694444444 7.860277777)""",http://www.wikidata.org/entity/Q34676183
+LIBSRC-LIB34-ENT-GEO-0265121,elevation,100.0,http://www.wikidata.org/entity/Q34676183
+LIBSRC-LIB34-ENT-GEO-0265121,descriptive_identity,"[""http://www.wikidata.org/entity/Q34038""]",http://www.wikidata.org/entity/Q34676183
+LIBSRC-LIB34-ENT-GEO-0213741,location,"""Point(11.67304 59.77978)""",http://www.wikidata.org/entity/Q34753819
+LIBSRC-LIB34-ENT-GEO-0213741,elevation,174.0,http://www.wikidata.org/entity/Q34753819
+LIBSRC-LIB34-ENT-GEO-0213741,descriptive_identity,"[""http://www.wikidata.org/entity/Q34038""]",http://www.wikidata.org/entity/Q34753819
+LIBSRC-LIB34-ENT-GEO-0212971,location,"""Point(10.62879 63.78108)""",http://www.wikidata.org/entity/Q34853863
+LIBSRC-LIB34-ENT-GEO-0212971,descriptive_identity,"[""http://www.wikidata.org/entity/Q34038""]",http://www.wikidata.org/entity/Q34853863
+LIBSRC-LIB34-ENT-GEO-0097471,descriptive_identity,"[""http://www.wikidata.org/entity/Q486972""]",http://www.wikidata.org/entity/Q131705195
+LIBSRC-LIB34-ENT-GEO-0323641,location,"""Point(-111.826 31.8139)""",http://www.wikidata.org/entity/Q31882
+LIBSRC-LIB34-ENT-GEO-0323641,elevation,2467.0,http://www.wikidata.org/entity/Q31882
+LIBSRC-LIB34-ENT-GEO-0323641,descriptive_identity,"[""http://www.wikidata.org/entity/Q17343829"", ""http://www.wikidata.org/entity/Q498162""]",http://www.wikidata.org/entity/Q31882
+LIBSRC-LIB34-ENT-GEO-0317481,location,"""Point(-90.5631584 41.400111)""",http://www.wikidata.org/entity/Q575851
+LIBSRC-LIB34-ENT-GEO-0317481,elevation,226.0,http://www.wikidata.org/entity/Q575851
+LIBSRC-LIB34-ENT-GEO-0317481,descriptive_identity,"[""http://www.wikidata.org/entity/Q17343829"", ""http://www.wikidata.org/entity/Q498162""]",http://www.wikidata.org/entity/Q575851
+LIBSRC-LIB34-ENT-GEO-0094161,location,"""Point(-61.316111111 15.883333333)""",http://www.wikidata.org/entity/Q651187
+LIBSRC-LIB34-ENT-GEO-0094161,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q651187
+LIBSRC-LIB34-ENT-GEO-0061051,location,"""Point(15.0925 50.743333333)""",http://www.wikidata.org/entity/Q705952
+LIBSRC-LIB34-ENT-GEO-0061051,elevation,380.0,http://www.wikidata.org/entity/Q705952
+LIBSRC-LIB34-ENT-GEO-0061051,descriptive_identity,"[""http://www.wikidata.org/entity/Q113126851"", ""http://www.wikidata.org/entity/Q61089180"", ""http://www.wikidata.org/entity/Q20871353""]",http://www.wikidata.org/entity/Q705952
+LIBSRC-LIB34-ENT-GEO-0321331,location,"""Point(-74.167222222 41.34)""",http://www.wikidata.org/entity/Q913420
+LIBSRC-LIB34-ENT-GEO-0321331,elevation,257.0,http://www.wikidata.org/entity/Q913420
+LIBSRC-LIB34-ENT-GEO-0321331,descriptive_identity,"[""http://www.wikidata.org/entity/Q55237813""]",http://www.wikidata.org/entity/Q913420
+LIBSRC-LIB34-ENT-GEO-0330471,location,"""Point(-175.72 51.9622)""",http://www.wikidata.org/entity/Q1546221
+LIBSRC-LIB34-ENT-GEO-0330471,descriptive_identity,"[""http://www.wikidata.org/entity/Q23442""]",http://www.wikidata.org/entity/Q1546221
+LIBSRC-LIB34-ENT-GEO-0313631,location,"""Point(-79.2756 33.2912)""",http://www.wikidata.org/entity/Q8026651
+LIBSRC-LIB34-ENT-GEO-0313631,descriptive_identity,"[""http://www.wikidata.org/entity/Q39594""]",http://www.wikidata.org/entity/Q8026651
+LIBSRC-LIB35-ENT-GAZ-2510397,location,"""Point(0.34954 47.240532)""",http://www.wikidata.org/entity/Q15139054
+LIBSRC-LIB35-ENT-GAZ-2510397,descriptive_identity,"[""http://www.wikidata.org/entity/Q160742""]",http://www.wikidata.org/entity/Q15139054
+CAT19_REG_01_ERA_01_2020_k_h_e_taygh_e_z_r_n_ent_geo_0001051,location,"""Point(64.055555555 35.316666666)""",http://www.wikidata.org/entity/Q21740010
+CAT19_REG_01_ERA_01_2020_k_h_e_taygh_e_z_r_n_ent_geo_0001051,elevation,2278.0,http://www.wikidata.org/entity/Q21740010
+CAT19_REG_01_ERA_01_2020_k_h_e_taygh_e_z_r_n_ent_geo_0001051,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21740010
+LIBSRC-LIB34-ENT-GEO-0013311,location,"""Point(69.371388888 34.689444444)""",http://www.wikidata.org/entity/Q21768145
+LIBSRC-LIB34-ENT-GEO-0013311,elevation,2131.0,http://www.wikidata.org/entity/Q21768145
+LIBSRC-LIB34-ENT-GEO-0013311,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21768145
+LIBSRC-LIB34-ENT-GEO-0016391,location,"""Point(67.137777777 31.520277777)""",http://www.wikidata.org/entity/Q21779920
+LIBSRC-LIB34-ENT-GEO-0016391,elevation,2203.0,http://www.wikidata.org/entity/Q21779920
+LIBSRC-LIB34-ENT-GEO-0016391,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21779920
+LIBSRC-LIB34-ENT-GEO-0019471,location,"""Point(68.849166666 34.733333333)""",http://www.wikidata.org/entity/Q21796795
+LIBSRC-LIB34-ENT-GEO-0019471,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21796795
+LIBSRC-LIB34-ENT-GEO-0022551,location,"""Point(63.006666666 33.316388888)""",http://www.wikidata.org/entity/Q21811435
+LIBSRC-LIB34-ENT-GEO-0022551,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21811435
+LIBSRC-LIB34-ENT-GEO-0012541,location,"""Point(67.188055555 34.343333333)""",http://www.wikidata.org/entity/Q21812044
+LIBSRC-LIB34-ENT-GEO-0012541,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21812044
+LIBSRC-LIB34-ENT-GEO-0024861,location,"""Point(69.934444444 35.652777777)""",http://www.wikidata.org/entity/Q21816106
+LIBSRC-LIB34-ENT-GEO-0024861,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21816106
+LIBSRC-LIB34-ENT-GEO-0060281,location,"""Point(33.690277777 35.157777777)""",http://www.wikidata.org/entity/Q22985567
+LIBSRC-LIB34-ENT-GEO-0077991,location,"""Point(21.14591 60.45381)""",http://www.wikidata.org/entity/Q24311158
+LIBSRC-LIB34-ENT-GEO-0077991,descriptive_identity,"[""http://www.wikidata.org/entity/Q23442""]",http://www.wikidata.org/entity/Q24311158
+LIBSRC-LIB34-ENT-GEO-0117261,location,"""Point(55.898333333 36.832777777)""",http://www.wikidata.org/entity/Q26857020
+LIBSRC-LIB34-ENT-GEO-0117261,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q26857020
+LIBSRC-LIB34-ENT-GEO-0128041,location,"""Point(48.8427 31.7502)""",http://www.wikidata.org/entity/Q35501243
+LIBSRC-LIB34-ENT-GEO-0128041,descriptive_identity,"[""http://www.wikidata.org/entity/Q47521""]",http://www.wikidata.org/entity/Q35501243
+LIBSRC-LIB34-ENT-GEO-0134971,descriptive_identity,"[""http://www.wikidata.org/entity/Q101352""]",http://www.wikidata.org/entity/Q119559744
+LIBSRC-LIB35-ENT-GAZ-2520368,location,"""Point(1.414 44.26249)""",http://www.wikidata.org/entity/Q109575357
+LIBSRC-LIB35-ENT-GAZ-2520368,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q109575357
+LIBSRC-LIB34-ENT-GEO-0084921,location,"""Point(2.871111111 43.318611111)""",http://www.wikidata.org/entity/Q1018288
+LIBSRC-LIB34-ENT-GEO-0084921,elevation,323.0,http://www.wikidata.org/entity/Q1018288
+LIBSRC-LIB34-ENT-GEO-0084921,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q1018288
+LIBSRC-LIB34-ENT-GEO-0312861,location,"""Point(-74.183 39.6454)""",http://www.wikidata.org/entity/Q1088826
+LIBSRC-LIB34-ENT-GEO-0312861,elevation,1.0,http://www.wikidata.org/entity/Q1088826
+LIBSRC-LIB34-ENT-GEO-0312861,descriptive_identity,"[""http://www.wikidata.org/entity/Q2911266""]",http://www.wikidata.org/entity/Q1088826
+LIBSRC-LIB34-ENT-GEO-0313401,location,"""Point(-82.541944444 34.304166666)""",http://www.wikidata.org/entity/Q609031
+LIBSRC-LIB34-ENT-GEO-0313401,elevation,220.0,http://www.wikidata.org/entity/Q609031
+LIBSRC-LIB34-ENT-GEO-0313401,descriptive_identity,"[""http://www.wikidata.org/entity/Q498162""]",http://www.wikidata.org/entity/Q609031
+LIBSRC-LIB34-ENT-GEO-0237171,location,"""Point(15.437819 45.937425)""",http://www.wikidata.org/entity/Q2711441
+LIBSRC-LIB34-ENT-GEO-0237171,elevation,185.2,http://www.wikidata.org/entity/Q2711441
+LIBSRC-LIB34-ENT-GEO-0237171,descriptive_identity,"[""http://www.wikidata.org/entity/Q486972""]",http://www.wikidata.org/entity/Q2711441
+LIBSRC-LIB34-ENT-GEO-0305701,location,"""Point(38.121666666 47.994166666)""",http://www.wikidata.org/entity/Q4152796
+LIBSRC-LIB34-ENT-GEO-0305701,elevation,150.0,http://www.wikidata.org/entity/Q4152796
+LIBSRC-LIB34-ENT-GEO-0305701,descriptive_identity,"[""http://www.wikidata.org/entity/Q121366249""]",http://www.wikidata.org/entity/Q4152796
+LIBSRC-LIB34-ENT-GEO-0311091,location,"""Point(-89.945278 29.273333)""",http://www.wikidata.org/entity/Q5471532
+LIBSRC-LIB34-ENT-GEO-0311091,descriptive_identity,"[""http://www.wikidata.org/entity/Q1785071""]",http://www.wikidata.org/entity/Q5471532
+LIBSRC-LIB34-ENT-GEO-0237941,location,"""Point(17.333333333 77.366666666)""",http://www.wikidata.org/entity/Q31868728
+LIBSRC-LIB34-ENT-GEO-0237941,elevation,115.0,http://www.wikidata.org/entity/Q31868728
+LIBSRC-LIB34-ENT-GEO-0237941,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q31868728
+LIBSRC-LIB34-ENT-GEO-0185021,location,"""Point(48.783333333 28.816666666)""",http://www.wikidata.org/entity/Q32129918
+LIBSRC-LIB34-ENT-GEO-0185021,descriptive_identity,"[""http://www.wikidata.org/entity/Q23442""]",http://www.wikidata.org/entity/Q32129918
+LIBSRC-LIB34-ENT-GEO-0211201,location,"""Point(5.74569 61.33479)""",http://www.wikidata.org/entity/Q34832143
+LIBSRC-LIB34-ENT-GEO-0211201,descriptive_identity,"[""http://www.wikidata.org/entity/Q34038""]",http://www.wikidata.org/entity/Q34832143
+LIBSRC-LIB34-ENT-GEO-0214281,location,"""Point(8.54755 61.66082)""",http://www.wikidata.org/entity/Q34836899
+LIBSRC-LIB34-ENT-GEO-0214281,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q34836899
+LIBSRC-LIB34-ENT-GEO-0150371,location,"""Point(56.789722222 29.532222222)""",http://www.wikidata.org/entity/Q35479765
+LIBSRC-LIB34-ENT-GEO-0150371,descriptive_identity,"[""http://www.wikidata.org/entity/Q47521""]",http://www.wikidata.org/entity/Q35479765
+LIBSRC-LIB34-ENT-GEO-0210431,location,"""Point(8.001333333 62.461888888)""",http://www.wikidata.org/entity/Q11243994
+LIBSRC-LIB34-ENT-GEO-0210431,elevation,1770.2,http://www.wikidata.org/entity/Q11243994
+LIBSRC-LIB34-ENT-GEO-0210431,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502"", ""http://www.wikidata.org/entity/Q207326""]",http://www.wikidata.org/entity/Q11243994
+LIBSRC-LIB35-ENT-GAZ-2511766,location,"""Point(2.38333333 49.81)""",http://www.wikidata.org/entity/Q15139076
+LIBSRC-LIB35-ENT-GAZ-2511766,descriptive_identity,"[""http://www.wikidata.org/entity/Q160742""]",http://www.wikidata.org/entity/Q15139076
+LIBSRC-LIB34-ENT-GEO-0016161,location,"""Point(68.9328 33.1637)""",http://www.wikidata.org/entity/Q21778593
+LIBSRC-LIB34-ENT-GEO-0016161,elevation,2353.0,http://www.wikidata.org/entity/Q21778593
+LIBSRC-LIB34-ENT-GEO-0016161,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21778593
+LIBSRC-LIB34-ENT-GEO-0018471,location,"""Point(67.95453 33.41806)""",http://www.wikidata.org/entity/Q21791288
+LIBSRC-LIB34-ENT-GEO-0018471,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21791288
+LIBSRC-LIB34-ENT-GEO-0147291,location,"""Point(56.543055555 29.595)""",http://www.wikidata.org/entity/Q26921830
+LIBSRC-LIB34-ENT-GEO-0147291,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q26921830
+LIBSRC-LIB34-ENT-GEO-0148831,location,"""Point(50.193333333 34.604444444)""",http://www.wikidata.org/entity/Q26932079
+LIBSRC-LIB34-ENT-GEO-0148831,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q26932079
+LIBSRC-LIB34-ENT-GEO-0083921,location,"""Point(2.2125 48.064444444)""",http://www.wikidata.org/entity/Q926253
+LIBSRC-LIB34-ENT-GEO-0083921,elevation,150.0,http://www.wikidata.org/entity/Q926253
+LIBSRC-LIB34-ENT-GEO-0083921,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q926253
+LIBSRC-LIB34-ENT-GEO-0034641,location,"""Point(-62.4903 -62.9819)""",http://www.wikidata.org/entity/Q6438622
+LIBSRC-LIB34-ENT-GEO-0034641,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q6438622
+LIBSRC-LIB34-ENT-GEO-0193261,location,"""Point(23.81944444 55.43888889)""",http://www.wikidata.org/entity/Q8145659
+LIBSRC-LIB34-ENT-GEO-0193261,elevation,75.0,http://www.wikidata.org/entity/Q8145659
+LIBSRC-LIB34-ENT-GEO-0193261,descriptive_identity,"[""http://www.wikidata.org/entity/Q532""]",http://www.wikidata.org/entity/Q8145659
+LIBSRC-LIB34-ENT-GEO-0128581,location,"""Point(56.095 33.437222222)""",http://www.wikidata.org/entity/Q26879340
+LIBSRC-LIB34-ENT-GEO-0128581,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q26879340
+LIBSRC-LIB34-ENT-GEO-0204041,location,"""Point(-102.16667 29.43333)""",http://www.wikidata.org/entity/Q27783443
+LIBSRC-LIB34-ENT-GEO-0204041,elevation,1013.0,http://www.wikidata.org/entity/Q27783443
+LIBSRC-LIB34-ENT-GEO-0204041,descriptive_identity,"[""http://www.wikidata.org/entity/Q150784""]",http://www.wikidata.org/entity/Q27783443
+LIBSRC-LIB34-ENT-GEO-0136281,location,"""Point(45.645555555 34.381111111)""",http://www.wikidata.org/entity/Q32625381
+LIBSRC-LIB34-ENT-GEO-0136281,elevation,395.0,http://www.wikidata.org/entity/Q32625381
+LIBSRC-LIB34-ENT-GEO-0136281,descriptive_identity,"[""http://www.wikidata.org/entity/Q4022""]",http://www.wikidata.org/entity/Q32625381
+LIBSRC-LIB34-ENT-GEO-0211741,location,"""Point(13.33543 65.28693)""",http://www.wikidata.org/entity/Q34833232
+LIBSRC-LIB34-ENT-GEO-0211741,descriptive_identity,"[""http://www.wikidata.org/entity/Q34038""]",http://www.wikidata.org/entity/Q34833232
+LIBSRC-LIB34-ENT-GEO-0153221,location,"""Point(57.837222222 30.291388888)""",http://www.wikidata.org/entity/Q35271166
+LIBSRC-LIB34-ENT-GEO-0153221,descriptive_identity,"[""http://www.wikidata.org/entity/Q47521""]",http://www.wikidata.org/entity/Q35271166
+LIBSRC-LIB34-ENT-GEO-0210201,location,"""Point(12.21626 65.48418)""",http://www.wikidata.org/entity/Q35354606
+LIBSRC-LIB34-ENT-GEO-0210201,descriptive_identity,"[""http://www.wikidata.org/entity/Q207524""]",http://www.wikidata.org/entity/Q35354606
+LIBSRC-LIB34-ENT-GEO-0100091,location,"""Point(25.03594 37.65708)""",http://www.wikidata.org/entity/Q126596405
+LIBSRC-LIB34-ENT-GEO-0100091,descriptive_identity,"[""http://www.wikidata.org/entity/Q16970""]",http://www.wikidata.org/entity/Q126596405
+LIBSRC-LIB34-ENT-GEO-0099321,location,"""Point(25.11257 37.63351)""",http://www.wikidata.org/entity/Q126596514
+LIBSRC-LIB34-ENT-GEO-0099321,descriptive_identity,"[""http://www.wikidata.org/entity/Q16970""]",http://www.wikidata.org/entity/Q126596514
+LIBSRC-LIB34-ENT-GEO-0085461,location,"""Point(4.822777777 45.991944444)""",http://www.wikidata.org/entity/Q206665
+LIBSRC-LIB34-ENT-GEO-0085461,elevation,281.0,http://www.wikidata.org/entity/Q206665
+LIBSRC-LIB34-ENT-GEO-0085461,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q206665
+LIBSRC-LIB34-ENT-GEO-0080841,location,"""Point(-2.065833333 48.113055555)""",http://www.wikidata.org/entity/Q220634
+LIBSRC-LIB34-ENT-GEO-0080841,elevation,95.0,http://www.wikidata.org/entity/Q220634
+LIBSRC-LIB34-ENT-GEO-0080841,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q220634
+LIBSRC-LIB34-ENT-GEO-0029251,location,"""Point(45.683333 40.166667)""",http://www.wikidata.org/entity/Q2639746
+LIBSRC-LIB34-ENT-GEO-0029251,elevation,1940.0,http://www.wikidata.org/entity/Q2639746
+LIBSRC-LIB34-ENT-GEO-0029251,descriptive_identity,"[""http://www.wikidata.org/entity/Q28328984""]",http://www.wikidata.org/entity/Q2639746
+LIBSRC-LIB34-ENT-GEO-0096241,location,"""Point(26.911388888 35.458611111)""",http://www.wikidata.org/entity/Q21693209
+LIBSRC-LIB34-ENT-GEO-0096241,descriptive_identity,"[""http://www.wikidata.org/entity/Q216851""]",http://www.wikidata.org/entity/Q21693209
+LIBSRC-LIB34-ENT-GEO-0036181,location,"""Point(139.883333333 -18.233333333)""",http://www.wikidata.org/entity/Q21889013
+LIBSRC-LIB34-ENT-GEO-0036181,elevation,22.0,http://www.wikidata.org/entity/Q21889013
+LIBSRC-LIB34-ENT-GEO-0036181,descriptive_identity,"[""http://www.wikidata.org/entity/Q34038""]",http://www.wikidata.org/entity/Q21889013
+LIBSRC-LIB34-ENT-GEO-0043881,location,"""Point(-54.85 -1.583333333)""",http://www.wikidata.org/entity/Q22023569
+LIBSRC-LIB34-ENT-GEO-0043881,elevation,38.0,http://www.wikidata.org/entity/Q22023569
+LIBSRC-LIB34-ENT-GEO-0043881,descriptive_identity,"[""http://www.wikidata.org/entity/Q34038""]",http://www.wikidata.org/entity/Q22023569
+LIBSRC-LIB34-ENT-GEO-0101631,location,"""Point(-59.183333333 5.3)""",http://www.wikidata.org/entity/Q25237583
+LIBSRC-LIB34-ENT-GEO-0101631,descriptive_identity,"[""http://www.wikidata.org/entity/Q34038""]",http://www.wikidata.org/entity/Q25237583
+LIBSRC-LIB34-ENT-GEO-0113951,location,"""Point(44.10146 37.08854)""",http://www.wikidata.org/entity/Q26841716
+LIBSRC-LIB34-ENT-GEO-0113951,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q26841716
+LIBSRC-LIB34-ENT-GEO-0143981,location,"""Point(52.635833333 29.170833333)""",http://www.wikidata.org/entity/Q26873941
+LIBSRC-LIB34-ENT-GEO-0143981,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q26873941
+LIBSRC-LIB34-ENT-GEO-0127811,location,"""Point(60.363055555 31.764722222)""",http://www.wikidata.org/entity/Q34923528
+LIBSRC-LIB34-ENT-GEO-0127811,descriptive_identity,"[""http://www.wikidata.org/entity/Q131681""]",http://www.wikidata.org/entity/Q34923528
+LIBSRC-LIB34-ENT-GEO-0085231,location,"""Point(1.941944444 50.861111111)""",http://www.wikidata.org/entity/Q224440
+LIBSRC-LIB34-ENT-GEO-0085231,elevation,37.0,http://www.wikidata.org/entity/Q224440
+LIBSRC-LIB34-ENT-GEO-0085231,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q224440
+LIBSRC-LIB34-ENT-GEO-0323181,location,"""Point(-90.539166666 42.523611111)""",http://www.wikidata.org/entity/Q3961923
+LIBSRC-LIB34-ENT-GEO-0323181,elevation,299.0,http://www.wikidata.org/entity/Q3961923
+LIBSRC-LIB34-ENT-GEO-0323181,descriptive_identity,"[""http://www.wikidata.org/entity/Q17343829""]",http://www.wikidata.org/entity/Q3961923
+LIBSRC-LIB34-ENT-GEO-0041341,descriptive_identity,"[""http://www.wikidata.org/entity/Q4167410""]",http://www.wikidata.org/entity/Q4142866
+LIBSRC-LIB34-ENT-GEO-0303161,location,"""Point(23.203055555 49.102777777)""",http://www.wikidata.org/entity/Q4194493
+LIBSRC-LIB34-ENT-GEO-0303161,elevation,653.0,http://www.wikidata.org/entity/Q4194493
+LIBSRC-LIB34-ENT-GEO-0303161,descriptive_identity,"[""http://www.wikidata.org/entity/Q21672098""]",http://www.wikidata.org/entity/Q4194493
+LIBSRC-LIB34-ENT-GEO-0305471,location,"""Point(29.738888888 51.112777777)""",http://www.wikidata.org/entity/Q4361343
+LIBSRC-LIB34-ENT-GEO-0305471,elevation,130.0,http://www.wikidata.org/entity/Q4361343
+LIBSRC-LIB34-ENT-GEO-0305471,descriptive_identity,"[""http://www.wikidata.org/entity/Q21672098""]",http://www.wikidata.org/entity/Q4361343
+LIBSRC-LIB34-ENT-GEO-0033641,location,"""Point(-97.4333 -72.2333)""",http://www.wikidata.org/entity/Q5577239
+LIBSRC-LIB34-ENT-GEO-0033641,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q5577239
+LIBSRC-LIB34-ENT-GEO-0034411,location,"""Point(-175.333 -85.3)""",http://www.wikidata.org/entity/Q6667613
+LIBSRC-LIB34-ENT-GEO-0034411,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q6667613
+CAT19_REG_01_ERA_04_2022_t_p_e_kh_nah_ent_geo_0000921,location,"""Point(66.376388888 35.633055555)""",http://www.wikidata.org/entity/Q21740123
+CAT19_REG_01_ERA_04_2022_t_p_e_kh_nah_ent_geo_0000921,elevation,3423.0,http://www.wikidata.org/entity/Q21740123
+CAT19_REG_01_ERA_04_2022_t_p_e_kh_nah_ent_geo_0000921,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21740123
+LIBSRC-LIB34-ENT-GEO-0000921,location,"""Point(66.376388888 35.633055555)""",http://www.wikidata.org/entity/Q21740123
+LIBSRC-LIB34-ENT-GEO-0000921,elevation,3423.0,http://www.wikidata.org/entity/Q21740123
+LIBSRC-LIB34-ENT-GEO-0000921,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21740123
+LIBSRC-LIB34-ENT-GEO-0008231,location,"""Point(63.994444444 34.958055555)""",http://www.wikidata.org/entity/Q21755303
+LIBSRC-LIB34-ENT-GEO-0008231,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21755303
+LIBSRC-LIB34-ENT-GEO-0013621,location,"""Point(69.564444444 36.114722222)""",http://www.wikidata.org/entity/Q21769578
+LIBSRC-LIB34-ENT-GEO-0013621,elevation,2130.0,http://www.wikidata.org/entity/Q21769578
+LIBSRC-LIB34-ENT-GEO-0013621,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21769578
+LIBSRC-LIB34-ENT-GEO-0019781,location,"""Point(64.026111111 32.241111111)""",http://www.wikidata.org/entity/Q21802657
+LIBSRC-LIB34-ENT-GEO-0019781,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21802657
+LIBSRC-LIB34-ENT-GEO-0021321,location,"""Point(64.766111111 33.822777777)""",http://www.wikidata.org/entity/Q21808158
+LIBSRC-LIB34-ENT-GEO-0021321,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21808158
+LIBSRC-LIB34-ENT-GEO-0023631,location,"""Point(65.267222222 31.758333333)""",http://www.wikidata.org/entity/Q21813877
+LIBSRC-LIB34-ENT-GEO-0023631,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21813877
+LIBSRC-LIB34-ENT-GEO-0025171,location,"""Point(69.338333333 34.339722222)""",http://www.wikidata.org/entity/Q21826386
+LIBSRC-LIB34-ENT-GEO-0025171,elevation,2287.0,http://www.wikidata.org/entity/Q21826386
+LIBSRC-LIB34-ENT-GEO-0025171,descriptive_identity,"[""http://www.wikidata.org/entity/Q16887036""]",http://www.wikidata.org/entity/Q21826386
+LIBSRC-LIB35-ENT-GAZ-2509908,location,"""Point(7.87295 49.01741)""",http://www.wikidata.org/entity/Q31667279
+LIBSRC-LIB35-ENT-GAZ-2509908,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q31667279
+LIBSRC-LIB34-ENT-GEO-0274671,location,"""Point(98.6325 14.980555555)""",http://www.wikidata.org/entity/Q34675980
+LIBSRC-LIB34-ENT-GEO-0274671,elevation,257.0,http://www.wikidata.org/entity/Q34675980
+LIBSRC-LIB34-ENT-GEO-0274671,descriptive_identity,"[""http://www.wikidata.org/entity/Q34038""]",http://www.wikidata.org/entity/Q34675980
+LIBSRC-LIB34-ENT-GEO-0074451,location,"""Point(-3.035277777 35.939444444)""",http://www.wikidata.org/entity/Q107711262
+LIBSRC-LIB34-ENT-GEO-0074451,descriptive_identity,"[""http://www.wikidata.org/entity/Q473972"", ""http://www.wikidata.org/entity/Q188140"", ""http://www.wikidata.org/entity/Q2463705"", ""http://www.wikidata.org/entity/Q107992622""]",http://www.wikidata.org/entity/Q107711262
+LIBSRC-LIB34-ENT-GEO-0080611,location,"""Point(1.931666666 50.513888888)""",http://www.wikidata.org/entity/Q1023845
+LIBSRC-LIB34-ENT-GEO-0080611,elevation,190.0,http://www.wikidata.org/entity/Q1023845
+LIBSRC-LIB34-ENT-GEO-0080611,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q1023845
+LIBSRC-LIB35-ENT-GAZ-2531088,location,"""Point(3.701944444 43.878888888)""",http://www.wikidata.org/entity/Q1073090
+LIBSRC-LIB35-ENT-GAZ-2531088,elevation,772.0,http://www.wikidata.org/entity/Q1073090
+LIBSRC-LIB35-ENT-GAZ-2531088,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q1073090
+LIBSRC-LIB34-ENT-GEO-0086001,location,"""Point(2.541388888 50.103333333)""",http://www.wikidata.org/entity/Q1090126
+LIBSRC-LIB34-ENT-GEO-0086001,elevation,153.0,http://www.wikidata.org/entity/Q1090126
+LIBSRC-LIB34-ENT-GEO-0086001,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q1090126
+LIBSRC-LIB34-ENT-GEO-0102171,location,"""Point(16.2944 45.7572)""",http://www.wikidata.org/entity/Q1222930
+LIBSRC-LIB34-ENT-GEO-0102171,descriptive_identity,"[""http://www.wikidata.org/entity/Q4845841""]",http://www.wikidata.org/entity/Q1222930
+LIBSRC-LIB34-ENT-GEO-0066751,location,"""Point(13.6871 51.0213)""",http://www.wikidata.org/entity/Q1594201
+LIBSRC-LIB34-ENT-GEO-0066751,descriptive_identity,"[""http://www.wikidata.org/entity/Q23413""]",http://www.wikidata.org/entity/Q1594201
+LIBSRC-LIB34-ENT-GEO-0227681,location,"""Point(19.298333333 45.409166666)""",http://www.wikidata.org/entity/Q122969
+LIBSRC-LIB34-ENT-GEO-0227681,elevation,94.0,http://www.wikidata.org/entity/Q122969
+LIBSRC-LIB34-ENT-GEO-0227681,descriptive_identity,"[""http://www.wikidata.org/entity/Q486972"", ""http://www.wikidata.org/entity/Q28822032""]",http://www.wikidata.org/entity/Q122969
+LIBSRC-LIB34-ENT-GEO-0245951,location,"""Point(17.000277777 21.353333333)""",http://www.wikidata.org/entity/Q653808
+LIBSRC-LIB34-ENT-GEO-0245951,descriptive_identity,"[""http://www.wikidata.org/entity/Q515""]",http://www.wikidata.org/entity/Q653808
+LIBSRC-LIB34-ENT-GEO-0306781,location,"""Point(30.591944444 46.484722222)""",http://www.wikidata.org/entity/Q676594
+LIBSRC-LIB34-ENT-GEO-0306781,descriptive_identity,"[""http://www.wikidata.org/entity/Q121366249""]",http://www.wikidata.org/entity/Q676594
+LIBSRC-LIB34-ENT-GEO-0229991,location,"""Point(46.391193 43.21517)""",http://www.wikidata.org/entity/Q4205722
+LIBSRC-LIB34-ENT-GEO-0229991,elevation,243.0,http://www.wikidata.org/entity/Q4205722
+LIBSRC-LIB34-ENT-GEO-0229991,descriptive_identity,"[""http://www.wikidata.org/entity/Q532""]",http://www.wikidata.org/entity/Q4205722
+LIBSRC-LIB34-ENT-GEO-0320641,location,"""Point(-70.9049 43.0651)""",http://www.wikidata.org/entity/Q6482507
+LIBSRC-LIB34-ENT-GEO-0320641,descriptive_identity,"[""http://www.wikidata.org/entity/Q4022""]",http://www.wikidata.org/entity/Q6482507
+LIBSRC-LIB34-ENT-GEO-0296001,location,"""Point(29.4645181 40.3403011)""",http://www.wikidata.org/entity/Q6590500
+LIBSRC-LIB34-ENT-GEO-0296001,descriptive_identity,"[""http://www.wikidata.org/entity/Q17051044""]",http://www.wikidata.org/entity/Q6590500
+LIBSRC-LIB34-ENT-GEO-0304471,location,"""Point(36.894444444 50.214444444)""",http://www.wikidata.org/entity/Q6666701
+LIBSRC-LIB34-ENT-GEO-0304471,elevation,126.0,http://www.wikidata.org/entity/Q6666701
+LIBSRC-LIB34-ENT-GEO-0304471,descriptive_identity,"[""http://www.wikidata.org/entity/Q21672098""]",http://www.wikidata.org/entity/Q6666701
+LIBSRC-LIB34-ENT-GEO-0193031,location,"""Point(22.983 54.764)""",http://www.wikidata.org/entity/Q12673244
+LIBSRC-LIB34-ENT-GEO-0193031,descriptive_identity,"[""http://www.wikidata.org/entity/Q532""]",http://www.wikidata.org/entity/Q12673244
+LIBSRC-LIB34-ENT-GEO-0179171,location,"""Point(126.32111 33.94667)""",http://www.wikidata.org/entity/Q16191996
+LIBSRC-LIB34-ENT-GEO-0179171,descriptive_identity,"[""http://www.wikidata.org/entity/Q23442""]",http://www.wikidata.org/entity/Q16191996
+LIBSRC-LIB34-ENT-GEO-0237481,location,"""Point(21.71868 78.32099)""",http://www.wikidata.org/entity/Q16891424
+LIBSRC-LIB34-ENT-GEO-0237481,elevation,256.0,http://www.wikidata.org/entity/Q16891424
+LIBSRC-LIB34-ENT-GEO-0237481,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q16891424
+LIBSRC-LIB34-ENT-GEO-0003231,location,"""Point(66.652222222 34.881666666)""",http://www.wikidata.org/entity/Q21746421
+LIBSRC-LIB34-ENT-GEO-0003231,elevation,2777.0,http://www.wikidata.org/entity/Q21746421
+LIBSRC-LIB34-ENT-GEO-0003231,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21746421
+LIBSRC-LIB34-ENT-GEO-0206121,location,"""Point(-99.115555555 19.204444444)""",http://www.wikidata.org/entity/Q31450202
+LIBSRC-LIB34-ENT-GEO-0206121,elevation,2637.0,http://www.wikidata.org/entity/Q31450202
+LIBSRC-LIB34-ENT-GEO-0206121,descriptive_identity,"[""http://www.wikidata.org/entity/Q8072""]",http://www.wikidata.org/entity/Q31450202
+LIBSRC-LIB34-ENT-GEO-0238251,location,"""Point(13.81475 78.21844)""",http://www.wikidata.org/entity/Q31857617
+LIBSRC-LIB34-ENT-GEO-0238251,elevation,83.0,http://www.wikidata.org/entity/Q31857617
+LIBSRC-LIB34-ENT-GEO-0238251,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q31857617
+LIBSRC-LIB34-ENT-GEO-0212281,location,"""Point(8.06279 59.23392)""",http://www.wikidata.org/entity/Q34679554
+LIBSRC-LIB34-ENT-GEO-0212281,elevation,308.0,http://www.wikidata.org/entity/Q34679554
+LIBSRC-LIB34-ENT-GEO-0212281,descriptive_identity,"[""http://www.wikidata.org/entity/Q34038""]",http://www.wikidata.org/entity/Q34679554
+LIBSRC-LIB35-ENT-GAZ-2509673,location,"""Point(6.91083 47.89517)""",http://www.wikidata.org/entity/Q34815836
+LIBSRC-LIB35-ENT-GAZ-2509673,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q34815836
+LIBSRC-LIB34-ENT-GEO-0329781,location,"""Point(-152.511388888 60.662222222)""",http://www.wikidata.org/entity/Q49896164
+LIBSRC-LIB34-ENT-GEO-0329781,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q49896164
+LIBSRC-LIB34-ENT-GEO-0210741,location,"""Point(14.33444444 68.61777778)""",http://www.wikidata.org/entity/Q11219175
+LIBSRC-LIB34-ENT-GEO-0210741,descriptive_identity,"[""http://www.wikidata.org/entity/Q23442""]",http://www.wikidata.org/entity/Q11219175
+LIBSRC-LIB34-ENT-GEO-0085771,location,"""Point(4.208611111 43.684722222)""",http://www.wikidata.org/entity/Q243915
+LIBSRC-LIB34-ENT-GEO-0085771,elevation,13.0,http://www.wikidata.org/entity/Q243915
+LIBSRC-LIB34-ENT-GEO-0085771,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q243915
+LIBSRC-LIB34-ENT-GEO-0079611,location,"""Point(-6.844444444 61.563888888)""",http://www.wikidata.org/entity/Q247637
+LIBSRC-LIB34-ENT-GEO-0079611,descriptive_identity,"[""http://www.wikidata.org/entity/Q486972""]",http://www.wikidata.org/entity/Q247637
+LIBSRC-LIB34-ENT-GEO-0068061,location,"""Point(6.693611111 36.263333333)""",http://www.wikidata.org/entity/Q391129
+LIBSRC-LIB34-ENT-GEO-0068061,elevation,650.0,http://www.wikidata.org/entity/Q391129
+LIBSRC-LIB34-ENT-GEO-0068061,descriptive_identity,"[""http://www.wikidata.org/entity/Q2989398""]",http://www.wikidata.org/entity/Q391129
+LIBSRC-LIB34-ENT-GEO-0099631,location,"""Point(28.0880499 36.0916267)""",http://www.wikidata.org/entity/Q421068
+LIBSRC-LIB34-ENT-GEO-0099631,descriptive_identity,"[""http://www.wikidata.org/entity/Q839954"", ""http://www.wikidata.org/entity/Q131668""]",http://www.wikidata.org/entity/Q421068
+LIBSRC-LIB34-ENT-GEO-0083461,location,"""Point(5.126944444 43.922222222)""",http://www.wikidata.org/entity/Q463304
+LIBSRC-LIB34-ENT-GEO-0083461,elevation,652.0,http://www.wikidata.org/entity/Q463304
+LIBSRC-LIB34-ENT-GEO-0083461,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q463304
+LIBSRC-LIB34-ENT-GEO-0082691,location,"""Point(4.68 44.265833333)""",http://www.wikidata.org/entity/Q471365
+LIBSRC-LIB34-ENT-GEO-0082691,elevation,57.0,http://www.wikidata.org/entity/Q471365
+LIBSRC-LIB34-ENT-GEO-0082691,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q471365
+LIBSRC-LIB34-ENT-GEO-0037261,location,"""Point(49.209446597 39.132597917)""",http://www.wikidata.org/entity/Q4846080
+LIBSRC-LIB34-ENT-GEO-0037261,descriptive_identity,"[""http://www.wikidata.org/entity/Q486972""]",http://www.wikidata.org/entity/Q4846080
+LIBSRC-LIB34-ENT-GEO-0128891,location,"""Point(52.34833333 35.15388889)""",http://www.wikidata.org/entity/Q5816527
+LIBSRC-LIB34-ENT-GEO-0128891,descriptive_identity,"[""http://www.wikidata.org/entity/Q532""]",http://www.wikidata.org/entity/Q5816527
+LIBSRC-LIB34-ENT-GEO-0178941,location,"""Point(129.087 35.646)""",http://www.wikidata.org/entity/Q8527972
+LIBSRC-LIB34-ENT-GEO-0178941,elevation,1032.0,http://www.wikidata.org/entity/Q8527972
+LIBSRC-LIB34-ENT-GEO-0178941,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q8527972
+LIBSRC-LIB34-ENT-GEO-0014931,location,"""Point(70.653055555 36.000833333)""",http://www.wikidata.org/entity/Q21775406
+LIBSRC-LIB34-ENT-GEO-0014931,elevation,3219.0,http://www.wikidata.org/entity/Q21775406
+LIBSRC-LIB34-ENT-GEO-0014931,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21775406
+LIBSRC-LIB34-ENT-GEO-0018781,location,"""Point(66.988611111 32.679166666)""",http://www.wikidata.org/entity/Q21793356
+LIBSRC-LIB34-ENT-GEO-0018781,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21793356
+LIBSRC-LIB34-ENT-GEO-0022631,location,"""Point(67.315 34.469444444)""",http://www.wikidata.org/entity/Q21812376
+LIBSRC-LIB34-ENT-GEO-0022631,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21812376
+LIBSRC-LIB34-ENT-GEO-0044191,location,"""Point(-53.83333 -25.68333)""",http://www.wikidata.org/entity/Q22035385
+LIBSRC-LIB34-ENT-GEO-0044191,elevation,309.0,http://www.wikidata.org/entity/Q22035385
+LIBSRC-LIB34-ENT-GEO-0044191,descriptive_identity,"[""http://www.wikidata.org/entity/Q34038""]",http://www.wikidata.org/entity/Q22035385
+LIBSRC-LIB34-ENT-GEO-0048811,location,"""Point(-122.79942 50.153)""",http://www.wikidata.org/entity/Q22558449
+LIBSRC-LIB34-ENT-GEO-0048811,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q22558449
+LIBSRC-LIB34-ENT-GEO-0050351,location,"""Point(7.48004 46.42637)""",http://www.wikidata.org/entity/Q22627409
+LIBSRC-LIB34-ENT-GEO-0050351,elevation,1145.0,http://www.wikidata.org/entity/Q22627409
+LIBSRC-LIB34-ENT-GEO-0050351,descriptive_identity,"[""http://www.wikidata.org/entity/Q34038""]",http://www.wikidata.org/entity/Q22627409
+LIBSRC-LIB34-ENT-GEO-0051891,location,"""Point(-69.327777777 -54.747222222)""",http://www.wikidata.org/entity/Q23648034
+LIBSRC-LIB34-ENT-GEO-0051891,elevation,1023.0,http://www.wikidata.org/entity/Q23648034
+LIBSRC-LIB34-ENT-GEO-0051891,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q23648034
+LIBSRC-LIB34-ENT-GEO-0122731,location,"""Point(49.360277777 35.234444444)""",http://www.wikidata.org/entity/Q26871413
+LIBSRC-LIB34-ENT-GEO-0122731,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q26871413
+LIBSRC-LIB34-ENT-GEO-0130431,location,"""Point(54.435277777 27.2025)""",http://www.wikidata.org/entity/Q26880453
+LIBSRC-LIB34-ENT-GEO-0130431,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q26880453
+LIBSRC-LIB34-ENT-GEO-0155071,location,"""Point(-16.628611111 64.7)""",http://www.wikidata.org/entity/Q27003786
+LIBSRC-LIB34-ENT-GEO-0155071,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q27003786
+LIBSRC-LIB34-ENT-GEO-0053431,location,"""Point(121.831 38.91488)""",http://www.wikidata.org/entity/Q28795422
+LIBSRC-LIB34-ENT-GEO-0053431,descriptive_identity,"[""http://www.wikidata.org/entity/Q23442""]",http://www.wikidata.org/entity/Q28795422
+LIBSRC-LIB34-ENT-GEO-0203581,descriptive_identity,"[""http://www.wikidata.org/entity/Q4167410""]",http://www.wikidata.org/entity/Q29623318
+LIBSRC-LIB34-ENT-GEO-0162771,location,"""Point(48.533333333 14.383333333)""",http://www.wikidata.org/entity/Q29873933
+LIBSRC-LIB34-ENT-GEO-0162771,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q29873933
+LIBSRC-LIB34-ENT-GEO-0084231,location,"""Point(2.278055555 48.765277777)""",http://www.wikidata.org/entity/Q200945
+LIBSRC-LIB34-ENT-GEO-0084231,elevation,172.0,http://www.wikidata.org/entity/Q200945
+LIBSRC-LIB34-ENT-GEO-0084231,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q200945
+LIBSRC-LIB34-ENT-GEO-0101941,location,"""Point(113.921833333 22.305305555)""",http://www.wikidata.org/entity/Q1072354
+LIBSRC-LIB34-ENT-GEO-0101941,descriptive_identity,"[""http://www.wikidata.org/entity/Q486972"", ""http://www.wikidata.org/entity/Q23442""]",http://www.wikidata.org/entity/Q1072354
+LIBSRC-LIB34-ENT-GEO-0166621,location,"""Point(140.422805555 42.18625)""",http://www.wikidata.org/entity/Q11620695
+LIBSRC-LIB34-ENT-GEO-0166621,descriptive_identity,"[""http://www.wikidata.org/entity/Q18663566""]",http://www.wikidata.org/entity/Q11620695
+LIBSRC-LIB34-ENT-GEO-0011851,location,"""Point(64.1893 34.9452)""",http://www.wikidata.org/entity/Q21763649
+LIBSRC-LIB34-ENT-GEO-0011851,elevation,1904.0,http://www.wikidata.org/entity/Q21763649
+LIBSRC-LIB34-ENT-GEO-0011851,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21763649
+LIBSRC-LIB34-ENT-GEO-0013391,location,"""Point(61.401944444 35.221388888)""",http://www.wikidata.org/entity/Q21768054
+LIBSRC-LIB34-ENT-GEO-0013391,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21768054
+LIBSRC-LIB34-ENT-GEO-0324931,location,"""Point(-116.421111111 33.769166666)""",http://www.wikidata.org/entity/Q506446
+LIBSRC-LIB34-ENT-GEO-0324931,elevation,83.0,http://www.wikidata.org/entity/Q506446
+LIBSRC-LIB34-ENT-GEO-0324931,descriptive_identity,"[""http://www.wikidata.org/entity/Q1093829"", ""http://www.wikidata.org/entity/Q13218391""]",http://www.wikidata.org/entity/Q506446
+LIBSRC-LIB34-ENT-GEO-0326471,location,"""Point(-107.303333333 38.459722222)""",http://www.wikidata.org/entity/Q3709451
+LIBSRC-LIB34-ENT-GEO-0326471,elevation,7621.0,http://www.wikidata.org/entity/Q3709451
+LIBSRC-LIB34-ENT-GEO-0326471,descriptive_identity,"[""http://www.wikidata.org/entity/Q17343829""]",http://www.wikidata.org/entity/Q3709451
+LIBSRC-LIB34-ENT-GEO-0033181,location,"""Point(165.75 -84.6)""",http://www.wikidata.org/entity/Q4895992
+LIBSRC-LIB34-ENT-GEO-0033181,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q4895992
+LIBSRC-LIB34-ENT-GEO-0034721,location,"""Point(-58.8220978 -24.9779803)""",http://www.wikidata.org/entity/Q6875754
+LIBSRC-LIB34-ENT-GEO-0034721,elevation,88.0,http://www.wikidata.org/entity/Q6875754
+LIBSRC-LIB34-ENT-GEO-0034721,descriptive_identity,"[""http://www.wikidata.org/entity/Q15284""]",http://www.wikidata.org/entity/Q6875754
+LIBSRC-LIB34-ENT-GEO-0214361,location,"""Point(6.5458 62.31407)""",http://www.wikidata.org/entity/Q34841902
+LIBSRC-LIB34-ENT-GEO-0214361,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q34841902
+LIBSRC-LIB34-ENT-GEO-0083231,location,"""Point(4.850833333 47.781944444)""",http://www.wikidata.org/entity/Q35302989
+LIBSRC-LIB34-ENT-GEO-0083231,descriptive_identity,"[""http://www.wikidata.org/entity/Q47521""]",http://www.wikidata.org/entity/Q35302989
+LIBSRC-LIB34-ENT-GEO-0028561,location,"""Point(19.5742 41.0218)""",http://www.wikidata.org/entity/Q54986666
+LIBSRC-LIB34-ENT-GEO-0028561,descriptive_identity,"[""http://www.wikidata.org/entity/Q532""]",http://www.wikidata.org/entity/Q54986666
+LIBSRC-LIB34-ENT-GEO-0212051,location,"""Point(6.15781 61.24546)""",http://www.wikidata.org/entity/Q34755047
+LIBSRC-LIB34-ENT-GEO-0212051,descriptive_identity,"[""http://www.wikidata.org/entity/Q34038""]",http://www.wikidata.org/entity/Q34755047
+LIBSRC-LIB34-ENT-GEO-0209741,location,"""Point(30.74103 69.6233)""",http://www.wikidata.org/entity/Q132775684
+LIBSRC-LIB34-ENT-GEO-0209741,elevation,212.0,http://www.wikidata.org/entity/Q132775684
+LIBSRC-LIB34-ENT-GEO-0209741,descriptive_identity,"[""http://www.wikidata.org/entity/Q23397""]",http://www.wikidata.org/entity/Q132775684
+LIBSRC-LIB34-ENT-GEO-0238021,location,"""Point(14.259 77.94491)""",http://www.wikidata.org/entity/Q11973051
+LIBSRC-LIB34-ENT-GEO-0238021,elevation,26.0,http://www.wikidata.org/entity/Q11973051
+LIBSRC-LIB34-ENT-GEO-0238021,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q11973051
+LIBSRC-LIB35-ENT-GAZ-2528224,location,"""Point(2.229722222 44.374166666)""",http://www.wikidata.org/entity/Q1362738
+LIBSRC-LIB35-ENT-GAZ-2528224,elevation,712.0,http://www.wikidata.org/entity/Q1362738
+LIBSRC-LIB35-ENT-GAZ-2528224,descriptive_identity,"[""http://www.wikidata.org/entity/Q484170""]",http://www.wikidata.org/entity/Q1362738
+LIBSRC-LIB34-ENT-GEO-0311171,location,"""Point(-89.91833 29.9275)""",http://www.wikidata.org/entity/Q2193944
+LIBSRC-LIB34-ENT-GEO-0311171,elevation,213.0,http://www.wikidata.org/entity/Q2193944
+LIBSRC-LIB34-ENT-GEO-0311171,descriptive_identity,"[""http://www.wikidata.org/entity/Q115140070"", ""http://www.wikidata.org/entity/Q498162""]",http://www.wikidata.org/entity/Q2193944
+LIBSRC-LIB34-ENT-GEO-0321181,location,"""Point(-73.185 40.7319)""",http://www.wikidata.org/entity/Q3469029
+LIBSRC-LIB34-ENT-GEO-0321181,elevation,5.0,http://www.wikidata.org/entity/Q3469029
+LIBSRC-LIB34-ENT-GEO-0321181,descriptive_identity,"[""http://www.wikidata.org/entity/Q17343829"", ""http://www.wikidata.org/entity/Q498162""]",http://www.wikidata.org/entity/Q3469029
+LIBSRC-LIB34-ENT-GEO-0235711,location,"""Point(15.05 64.933333333)""",http://www.wikidata.org/entity/Q11992236
+LIBSRC-LIB34-ENT-GEO-0235711,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q11992236
+CAT19_REG_01_ERA_03_2024_siy_h_t_pah_ent_geo_0001781,location,"""Point(68.8475 34.206666666)""",http://www.wikidata.org/entity/Q21745322
+CAT19_REG_01_ERA_03_2024_siy_h_t_pah_ent_geo_0001781,elevation,2285.0,http://www.wikidata.org/entity/Q21745322
+CAT19_REG_01_ERA_03_2024_siy_h_t_pah_ent_geo_0001781,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21745322
+LIBSRC-LIB34-ENT-GEO-0006231,location,"""Point(66.2027 33.9937)""",http://www.wikidata.org/entity/Q21751392
+LIBSRC-LIB34-ENT-GEO-0006231,elevation,2907.0,http://www.wikidata.org/entity/Q21751392
+LIBSRC-LIB34-ENT-GEO-0006231,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21751392
+LIBSRC-LIB34-ENT-GEO-0008541,location,"""Point(64.216666666 34.988055555)""",http://www.wikidata.org/entity/Q21755057
+LIBSRC-LIB34-ENT-GEO-0008541,elevation,1509.0,http://www.wikidata.org/entity/Q21755057
+LIBSRC-LIB34-ENT-GEO-0008541,descriptive_identity,"[""http://www.wikidata.org/entity/Q39816""]",http://www.wikidata.org/entity/Q21755057
+LIBSRC-LIB34-ENT-GEO-0017011,location,"""Point(67.701666666 33.749166666)""",http://www.wikidata.org/entity/Q21782559
+LIBSRC-LIB34-ENT-GEO-0017011,elevation,3608.0,http://www.wikidata.org/entity/Q21782559
+LIBSRC-LIB34-ENT-GEO-0017011,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21782559
+LIBSRC-LIB34-ENT-GEO-0020091,location,"""Point(70.388888888 35.981944444)""",http://www.wikidata.org/entity/Q21802221
+LIBSRC-LIB34-ENT-GEO-0020091,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21802221
+LIBSRC-LIB34-ENT-GEO-0027021,location,"""Point(68.085 32.296944444)""",http://www.wikidata.org/entity/Q21822081
+LIBSRC-LIB34-ENT-GEO-0027021,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q21822081
+LIBSRC-LIB34-ENT-GEO-0047811,location,"""Point(-117.82732 51.74993)""",http://www.wikidata.org/entity/Q22383308
+LIBSRC-LIB34-ENT-GEO-0047811,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q22383308
+LIBSRC-LIB34-ENT-GEO-0335711,location,"""Point(-64.767222222 17.704444444)""",http://www.wikidata.org/entity/Q31935610
+LIBSRC-LIB34-ENT-GEO-0335711,descriptive_identity,"[""http://www.wikidata.org/entity/Q17018380""]",http://www.wikidata.org/entity/Q31935610
+LIBSRC-LIB34-ENT-GEO-0107101,location,"""Point(80.12 25.68)""",http://www.wikidata.org/entity/Q580138
+LIBSRC-LIB34-ENT-GEO-0107101,elevation,120.0,http://www.wikidata.org/entity/Q580138
+LIBSRC-LIB34-ENT-GEO-0107101,descriptive_identity,"[""http://www.wikidata.org/entity/Q486972""]",http://www.wikidata.org/entity/Q580138
+LIBSRC-LIB34-ENT-GEO-0307091,location,"""Point(30.861111111 46.894444444)""",http://www.wikidata.org/entity/Q4221575
+LIBSRC-LIB34-ENT-GEO-0307091,elevation,75.0,http://www.wikidata.org/entity/Q4221575
+LIBSRC-LIB34-ENT-GEO-0307091,descriptive_identity,"[""http://www.wikidata.org/entity/Q21672098""]",http://www.wikidata.org/entity/Q4221575
+LIBSRC-LIB34-ENT-GEO-0147141,location,"""Point(56.5125 28.317222222)""",http://www.wikidata.org/entity/Q26921070
+LIBSRC-LIB34-ENT-GEO-0147141,descriptive_identity,"[""http://www.wikidata.org/entity/Q8502""]",http://www.wikidata.org/entity/Q26921070
+LIBSRC-LIB34-ENT-GEO-0169471,location,"""Point(79.806666666 42.023055555)""",http://www.wikidata.org/entity/Q27205305
+LIBSRC-LIB34-ENT-GEO-0169471,descriptive_identity,"[""http://www.wikidata.org/entity/Q35666""]",http://www.wikidata.org/entity/Q27205305
+LIBSRC-LIB34-ENT-GEO-0201041,location,"""Point(49.58333 -12.65)""",http://www.wikidata.org/entity/Q27574207
+LIBSRC-LIB34-ENT-GEO-0201041,descriptive_identity,"[""http://www.wikidata.org/entity/Q39594""]",http://www.wikidata.org/entity/Q27574207
+LIBSRC-LIB34-ENT-GEO-0205661,location,"""Point(-101.680833333 26.633611111)""",http://www.wikidata.org/entity/Q27821405
+LIBSRC-LIB34-ENT-GEO-0205661,elevation,1418.0,http://www.wikidata.org/entity/Q27821405
+LIBSRC-LIB34-ENT-GEO-0205661,descriptive_identity,"[""http://www.wikidata.org/entity/Q150784""]",http://www.wikidata.org/entity/Q27821405
+LIBSRC-LIB34-ENT-GEO-0308631,location,"""Point(-82.820555555 28.029444444)""",http://www.wikidata.org/entity/Q32850442
+LIBSRC-LIB34-ENT-GEO-0308631,elevation,1.0,http://www.wikidata.org/entity/Q32850442
+LIBSRC-LIB34-ENT-GEO-0308631,descriptive_identity,"[""http://www.wikidata.org/entity/Q23442""]",http://www.wikidata.org/entity/Q32850442
+LIBSRC-LIB34-ENT-GEO-0212591,location,"""Point(7.46776 58.83158)""",http://www.wikidata.org/entity/Q34841889
+LIBSRC-LIB34-ENT-GEO-0212591,descriptive_identity,"[""http://www.wikidata.org/entity/Q34038""]",http://www.wikidata.org/entity/Q34841889
+LIBSRC-LIB34-ENT-GEO-0152531,location,"""Point(48.866944444 37.116111111)""",http://www.wikidata.org/entity/Q35493602
+LIBSRC-LIB34-ENT-GEO-0152531,descriptive_identity,"[""http://www.wikidata.org/entity/Q47521""]",http://www.wikidata.org/entity/Q35493602
