@@ -1,0 +1,9 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_03-CAT_13-ERA_02-1650-ACC04-HOP13441-REC2688023,scientific_identity,"Rhinoceros Linnaeus, 1758",https://api.gbif.org/v1/species/match?name=Rhinoceros
+IDB-REG_03-CAT_13-ERA_02-1650-ACC04-HOP13441-REC2688023,identity_label,Rhinoceros,https://api.gbif.org/v1/species/match?name=Rhinoceros
+IDB-REG_03-CAT_11-ERA_02-1650-ACC04-HOP17355-REC3470973,scientific_identity,"Drill Reichenbach, 1862",https://api.gbif.org/v1/species/match?name=Drill
+IDB-REG_03-CAT_11-ERA_02-1650-ACC04-HOP17355-REC3470973,identity_label,Drill,https://api.gbif.org/v1/species/match?name=Drill
+IDB-REG_03-CAT_11-ERA_02-1650-ACC04-HOP18795-REC3758813,scientific_identity,"Ovis canadensis Shaw, 1804",https://api.gbif.org/v1/species/match?name=Ovis%20canadensis
+IDB-REG_03-CAT_11-ERA_02-1650-ACC04-HOP18795-REC3758813,identity_label,Ovis canadensis,https://api.gbif.org/v1/species/match?name=Ovis%20canadensis
+IDB-REG_02-CAT_14-ERA_02-1650-ACC04-HOP17728-REC3545572,scientific_identity,"Ovis canadensis Shaw, 1804",https://api.gbif.org/v1/species/match?name=Ovis%20canadensis
+IDB-REG_02-CAT_14-ERA_02-1650-ACC04-HOP17728-REC3545572,identity_label,Ovis canadensis,https://api.gbif.org/v1/species/match?name=Ovis%20canadensis
