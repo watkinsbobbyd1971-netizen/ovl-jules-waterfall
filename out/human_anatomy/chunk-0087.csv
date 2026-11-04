@@ -1,0 +1,24 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB36-ENT-WRD-0002821,descriptive_identity,"""cause of death""",https://www.wikidata.org/wiki/Q12202
+LIBSRC-LIB36-ENT-WRD-0042876,descriptive_identity,"""cream""",https://www.wikidata.org/wiki/Q1142449
+LIBSRC-LIB36-ENT-WRD-0078180,anatomical_relationship,"""1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane metabolic process""",https://www.wikidata.org/wiki/Q163648
+LIBSRC-LIB36-ENT-WRD-0078180,descriptive_identity,"""type of chemical entity""",https://www.wikidata.org/wiki/Q163648
+LIBSRC-LIB36-ENT-WRD-0054089,anatomical_relationship,"""Levantines""",https://www.wikidata.org/wiki/Q163943
+LIBSRC-LIB36-ENT-WRD-0054089,descriptive_identity,"""ethnoreligious group""",https://www.wikidata.org/wiki/Q163943
+LIBSRC-LIB36-ENT-WRD-0016373,descriptive_identity,"""tobacco product""",https://www.wikidata.org/wiki/Q1576
+LIBSRC-LIB36-ENT-WRD-0047260,anatomical_relationship,"""Central Panama""",https://www.wikidata.org/wiki/Q3306
+LIBSRC-LIB36-ENT-WRD-0047260,descriptive_identity,"""city""",https://www.wikidata.org/wiki/Q3306
+LIBSRC-LIB36-ENT-WRD-0029084,anatomical_relationship,"""carpal bone""",https://www.wikidata.org/wiki/Q13141
+LIBSRC-LIB36-ENT-WRD-0029084,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q13141
+DRV-CORPUS-L17-0012161,descriptive_identity,"""type of disease""",https://www.wikidata.org/wiki/Q1432717
+DRV-CORPUS-L17-0000600,descriptive_identity,"""service""",https://www.wikidata.org/wiki/Q37038
+DRV-CORPUS-L17-0000393,anatomical_relationship,"""carnitine O-acetyltransferase activity""",https://www.wikidata.org/wiki/Q311992
+DRV-CORPUS-L17-0000393,descriptive_identity,"""type of chemical entity""",https://www.wikidata.org/wiki/Q311992
+DRV-CORPUS-L17-0001510,descriptive_identity,"""medical specialty""",https://www.wikidata.org/wiki/Q569965
+DRV-CORPUS-L17-0000499,descriptive_identity,"""behavior""",https://www.wikidata.org/wiki/Q7256373
+DRV-CORPUS-L17-0000368,descriptive_identity,"""structural class of chemical entities""",https://www.wikidata.org/wiki/Q72591894
+DRV-CORPUS-L17-0018394,descriptive_identity,"""WHO essential medicines""",https://www.wikidata.org/wiki/Q368134
+DRV-CORPUS-L17-0006481,descriptive_identity,"""type of disease""",https://www.wikidata.org/wiki/Q2737426
+DRV-CORPUS-L17-0008511,descriptive_identity,"""type of chemical entity""",https://www.wikidata.org/wiki/Q6823517
+DRV-CORPUS-L17-0000616,descriptive_identity,"""sovereign state""",https://www.wikidata.org/wiki/Q889
+DRV-CORPUS-L17-0000643,anatomical_relationship,"""carbon""",https://www.wikidata.org/wiki/Q2573513
