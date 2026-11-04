@@ -1,0 +1,1006 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-0569576,scientific_identity,Pristimantis tayrona,https://api.gbif.org/v1/species/2425253
+LIBSRC-LIB50-ENT-BIO-0569576,taxon_authority,"(Lynch & Ruiz-Carranza, 1985) ",https://api.gbif.org/v1/species/2425253
+LIBSRC-LIB50-ENT-BIO-1007906,scientific_identity,Boana cinerascens,https://api.gbif.org/v1/species/10039315
+LIBSRC-LIB50-ENT-BIO-1007906,taxon_authority,"(Spix, 1824) ",https://api.gbif.org/v1/species/10039315
+LIBSRC-LIB50-ENT-BIO-1003656,scientific_identity,Dendropsophus delarivai,https://api.gbif.org/v1/species/2428481
+LIBSRC-LIB50-ENT-BIO-1003656,taxon_authority,"(Köhler & Lötters, 2001) ",https://api.gbif.org/v1/species/2428481
+LIBSRC-LIB50-ENT-BIO-0569236,scientific_identity,Pristimantis saltissimus,https://api.gbif.org/v1/species/2425275
+LIBSRC-LIB50-ENT-BIO-0569236,taxon_authority,"Means & Savage, 2007",https://api.gbif.org/v1/species/2425275
+LIBSRC-LIB50-ENT-BIO-1082366,scientific_identity,Geotrypetes angeli,https://api.gbif.org/v1/species/2430918
+LIBSRC-LIB50-ENT-BIO-1082366,taxon_authority,"Parker, 1936",https://api.gbif.org/v1/species/2430918
+LIBSRC-LIB50-ENT-BIO-0081726,scientific_identity,Phrynobatrachus albomarginatus,https://api.gbif.org/v1/species/2430190
+LIBSRC-LIB50-ENT-BIO-0081726,taxon_authority,"De Witte, 1933",https://api.gbif.org/v1/species/2430190
+LIBSRC-LIB50-ENT-BIO-1324786,scientific_identity,Leptophryne borbonica,https://api.gbif.org/v1/species/9801018
+LIBSRC-LIB50-ENT-BIO-1324786,taxon_authority,"(Tschudi, 1838) ",https://api.gbif.org/v1/species/9801018
+LIBSRC-LIB50-ENT-BIO-0081556,scientific_identity,Phrynobatrachus gastoni,https://api.gbif.org/v1/species/2430195
+LIBSRC-LIB50-ENT-BIO-0081556,taxon_authority,"Barbour & Loveridge, 1928",https://api.gbif.org/v1/species/2430195
+LIBSRC-LIB50-ENT-BIO-1219896,scientific_identity,Hensonbatrachus kermiti,https://api.gbif.org/v1/species/8643647
+LIBSRC-LIB50-ENT-BIO-1219896,taxon_authority,"Gardner & Brinkman, 2015",https://api.gbif.org/v1/species/8643647
+LIBSRC-LIB50-ENT-BIO-1211226,scientific_identity,Labyrinthodon fuerstenberganus,https://api.gbif.org/v1/species/11191422
+LIBSRC-LIB50-ENT-BIO-1211226,taxon_authority,"(Meyer, 1855) ",https://api.gbif.org/v1/species/11191422
+LIBSRC-LIB50-ENT-BIO-1015046,scientific_identity,Boophis idae,https://api.gbif.org/v1/species/2423390
+LIBSRC-LIB50-ENT-BIO-1015046,taxon_authority,"(Steindachner, 1867) ",https://api.gbif.org/v1/species/2423390
+LIBSRC-LIB50-ENT-BIO-0642166,scientific_identity,Micropterus cahabae,https://api.gbif.org/v1/species/7828381
+LIBSRC-LIB50-ENT-BIO-0642166,taxon_authority,"Baker, Johnston & Blanton, 2013",https://api.gbif.org/v1/species/7828381
+LIBSRC-LIB50-ENT-BIO-1018616,scientific_identity,Aglyptodactylus inguinalis,https://api.gbif.org/v1/species/8824443
+LIBSRC-LIB50-ENT-BIO-1018616,taxon_authority,"(Günther, 1877) ",https://api.gbif.org/v1/species/8824443
+LIBSRC-LIB50-ENT-BIO-0686706,scientific_identity,Limnonectes longchuanensis,https://api.gbif.org/v1/species/7880935
+LIBSRC-LIB50-ENT-BIO-0686706,taxon_authority,"Suwannapoom, Yuan, Sullivan & McLeod, 2016",https://api.gbif.org/v1/species/7880935
+LIBSRC-LIB50-ENT-BIO-0669366,scientific_identity,Protobothrops himalayanus,https://api.gbif.org/v1/species/9570014
+LIBSRC-LIB50-ENT-BIO-0669366,taxon_authority,"Pan, Chettri, Yang, Jiang, Wang, Zhang & Vogel, 2013",https://api.gbif.org/v1/species/9570014
+LIBSRC-LIB50-ENT-BIO-1125716,scientific_identity,Texatrygon stouti,https://api.gbif.org/v1/species/11112568
+LIBSRC-LIB50-ENT-BIO-1125716,taxon_authority,"Bourdon et al., 2011",https://api.gbif.org/v1/species/11112568
+LIBSRC-LIB50-ENT-BIO-2328636,scientific_identity,Lycodes akuugun,https://api.gbif.org/v1/species/5209376
+LIBSRC-LIB50-ENT-BIO-2328636,taxon_authority,"Stevenson & Orr, 2006",https://api.gbif.org/v1/species/5209376
+LIBSRC-LIB50-ENT-BIO-1961776,scientific_identity,Pristidactylus araucanus,https://api.gbif.org/v1/species/2468032
+LIBSRC-LIB50-ENT-BIO-1961776,taxon_authority,"(Gallardo, 1964) ",https://api.gbif.org/v1/species/2468032
+LIBSRC-LIB50-ENT-BIO-1288236,scientific_identity,Acanthophis rugosus,https://api.gbif.org/v1/species/2449643
+LIBSRC-LIB50-ENT-BIO-1288236,taxon_authority,"Loveridge, 1948",https://api.gbif.org/v1/species/2449643
+LIBSRC-LIB50-ENT-BIO-0708296,scientific_identity,Ekemblemaria nigra,https://api.gbif.org/v1/species/2381364
+LIBSRC-LIB50-ENT-BIO-0708296,taxon_authority,"(Meek & Hildebrand, 1928) ",https://api.gbif.org/v1/species/2381364
+LIBSRC-LIB50-ENT-BIO-1621946,scientific_identity,Centropyge multicolor,https://api.gbif.org/v1/species/2396502
+LIBSRC-LIB50-ENT-BIO-1621946,taxon_authority,"Randall & Wass, 1974",https://api.gbif.org/v1/species/2396502
+LIBSRC-LIB50-ENT-BIO-0819306,scientific_identity,Glyptosaurus anceps,https://api.gbif.org/v1/species/8684194
+LIBSRC-LIB50-ENT-BIO-0819306,taxon_authority,"(Marsh, 1871) ",https://api.gbif.org/v1/species/8684194
+LIBSRC-LIB50-ENT-BIO-1727346,scientific_identity,Uromastyx aegyptia,https://api.gbif.org/v1/species/9013567
+LIBSRC-LIB50-ENT-BIO-1727346,taxon_authority,"(Forskal, 1775) ",https://api.gbif.org/v1/species/9013567
+LIBSRC-LIB50-ENT-BIO-2285286,scientific_identity,Capitosaurus africanus,https://api.gbif.org/v1/species/9439169
+LIBSRC-LIB50-ENT-BIO-2285286,taxon_authority,"(Broom, 1909) ",https://api.gbif.org/v1/species/9439169
+LIBSRC-LIB50-ENT-BIO-1284496,scientific_identity,Toxicocalamus pumehanae,https://api.gbif.org/v1/species/10328848
+LIBSRC-LIB50-ENT-BIO-1284496,taxon_authority,"O'Shea, Allison & Kaiser, 2018",https://api.gbif.org/v1/species/10328848
+LIBSRC-LIB50-ENT-BIO-1730576,scientific_identity,Leiolepis ngovantrii,https://api.gbif.org/v1/species/8394233
+LIBSRC-LIB50-ENT-BIO-1730576,taxon_authority,"Grismer & Grismer, 2010",https://api.gbif.org/v1/species/8394233
+LIBSRC-LIB50-ENT-BIO-1729726,scientific_identity,Ctenophorus femoralis,https://api.gbif.org/v1/species/5226071
+LIBSRC-LIB50-ENT-BIO-1729726,taxon_authority,"(Storr, 1965) ",https://api.gbif.org/v1/species/5226071
+LIBSRC-LIB50-ENT-BIO-1724966,scientific_identity,Priscagama gobiensis,https://api.gbif.org/v1/species/4968009
+LIBSRC-LIB50-ENT-BIO-1724966,taxon_authority,"Borsuk-Bialynicka & Moody, 1984",https://api.gbif.org/v1/species/4968009
+LIBSRC-LIB50-ENT-BIO-1619566,scientific_identity,Scriptosaura catimbau,https://api.gbif.org/v1/species/8271058
+LIBSRC-LIB50-ENT-BIO-1619566,taxon_authority,"Rodrigues & Maranhão Dos Santos, 2008",https://api.gbif.org/v1/species/8271058
+LIBSRC-LIB50-ENT-BIO-0078496,scientific_identity,Aromobates ericksonae,https://api.gbif.org/v1/species/8541732
+LIBSRC-LIB50-ENT-BIO-0078496,taxon_authority,"Barrio-Amorós & Santos, 2012",https://api.gbif.org/v1/species/8541732
+LIBSRC-LIB50-ENT-BIO-2181756,scientific_identity,Paristiopterus labiosus,https://api.gbif.org/v1/species/2375228
+LIBSRC-LIB50-ENT-BIO-2181756,taxon_authority,"(Günther, 1872) ",https://api.gbif.org/v1/species/2375228
+LIBSRC-LIB50-ENT-BIO-0125756,scientific_identity,Labrus spalatensis,https://api.gbif.org/v1/species/8875714
+LIBSRC-LIB50-ENT-BIO-0125756,taxon_authority,"Bloch, Schneider & Schneider, 1801",https://api.gbif.org/v1/species/8875714
+LIBSRC-LIB50-ENT-BIO-2461746,scientific_identity,Ophisaurus holeci,https://api.gbif.org/v1/species/11147291
+LIBSRC-LIB50-ENT-BIO-2461746,taxon_authority,"Klembara, 2015",https://api.gbif.org/v1/species/11147291
+LIBSRC-LIB50-ENT-BIO-2464466,scientific_identity,Abronia gaiophantasma,https://api.gbif.org/v1/species/5226610
+LIBSRC-LIB50-ENT-BIO-2464466,taxon_authority,"Campbell & Frost, 1993",https://api.gbif.org/v1/species/5226610
+LIBSRC-LIB50-ENT-BIO-0564986,scientific_identity,Parapercis ocularis,https://api.gbif.org/v1/species/5816868
+LIBSRC-LIB50-ENT-BIO-0564986,taxon_authority,"Waite, 1899",https://api.gbif.org/v1/species/5816868
+LIBSRC-LIB50-ENT-BIO-0124226,scientific_identity,Hyperolius argus,https://api.gbif.org/v1/species/5217725
+LIBSRC-LIB50-ENT-BIO-0124226,taxon_authority,"Peters, 1854",https://api.gbif.org/v1/species/5217725
+LIBSRC-LIB50-ENT-BIO-0125926,scientific_identity,Chromis degruyi,https://api.gbif.org/v1/species/5212201
+LIBSRC-LIB50-ENT-BIO-0125926,taxon_authority,"Pyle, Earle & Greene, 2008",https://api.gbif.org/v1/species/5212201
+LIBSRC-LIB50-ENT-BIO-0193076,scientific_identity,Liolaemus nitidus,https://api.gbif.org/v1/species/2460434
+LIBSRC-LIB50-ENT-BIO-0193076,taxon_authority,"(Wiegmann, 1834) ",https://api.gbif.org/v1/species/2460434
+LIBSRC-LIB50-ENT-BIO-0192906,scientific_identity,Liolaemus capillitas,https://api.gbif.org/v1/species/2460593
+LIBSRC-LIB50-ENT-BIO-0192906,taxon_authority,"Hulse, 1979",https://api.gbif.org/v1/species/2460593
+LIBSRC-LIB50-ENT-BIO-1603076,scientific_identity,Johnius hypostoma,https://api.gbif.org/v1/species/2399542
+LIBSRC-LIB50-ENT-BIO-1603076,taxon_authority,"(Bleeker, 1854) ",https://api.gbif.org/v1/species/2399542
+LIBSRC-LIB50-ENT-BIO-1093586,scientific_identity,Stefania coxi,https://api.gbif.org/v1/species/5218140
+LIBSRC-LIB50-ENT-BIO-1093586,taxon_authority,"MacCulloch & Lathrop, 2002",https://api.gbif.org/v1/species/5218140
+LIBSRC-LIB50-ENT-BIO-0140376,scientific_identity,Ophioblennius phalacrus,https://api.gbif.org/v1/species/8905807
+LIBSRC-LIB50-ENT-BIO-0140376,taxon_authority,"Clark, 1938",https://api.gbif.org/v1/species/8905807
+LIBSRC-LIB50-ENT-BIO-0137486,scientific_identity,Salarias semilineatus,https://api.gbif.org/v1/species/8848022
+LIBSRC-LIB50-ENT-BIO-0137486,taxon_authority,"Kner, 1867",https://api.gbif.org/v1/species/8848022
+LIBSRC-LIB50-ENT-BIO-1322746,scientific_identity,Natrix longivertebrata,https://api.gbif.org/v1/species/6562685
+LIBSRC-LIB50-ENT-BIO-1322746,taxon_authority,"Szyndlar, 1984",https://api.gbif.org/v1/species/6562685
+LIBSRC-LIB50-ENT-BIO-1323256,scientific_identity,Eirenis punctatolineatus,https://api.gbif.org/v1/species/8604614
+LIBSRC-LIB50-ENT-BIO-1323256,taxon_authority,"(Boettger, 1892) ",https://api.gbif.org/v1/species/8604614
+LIBSRC-LIB50-ENT-BIO-1317306,scientific_identity,Thermophis baileyi,https://api.gbif.org/v1/species/2454079
+LIBSRC-LIB50-ENT-BIO-1317306,taxon_authority,"(Wall, 1907) ",https://api.gbif.org/v1/species/2454079
+LIBSRC-LIB50-ENT-BIO-1337876,scientific_identity,Pagothenia brachysoma,https://api.gbif.org/v1/species/2385950
+LIBSRC-LIB50-ENT-BIO-1337876,taxon_authority,"(Pappenheim, 1912) ",https://api.gbif.org/v1/species/2385950
+LIBSRC-LIB50-ENT-BIO-1114326,scientific_identity,Ranitomeya variabilis,https://api.gbif.org/v1/species/2429114
+LIBSRC-LIB50-ENT-BIO-1114326,taxon_authority,"(Zimmermann & Zimmermann, 1988) ",https://api.gbif.org/v1/species/2429114
+LIBSRC-LIB50-ENT-BIO-1113986,scientific_identity,Ranitomeya summersi,https://api.gbif.org/v1/species/2429124
+LIBSRC-LIB50-ENT-BIO-1113986,taxon_authority,"Brown, Twomey, Pepper & Sanchez-Rodriguez, 2008",https://api.gbif.org/v1/species/2429124
+LIBSRC-LIB50-ENT-BIO-0293246,scientific_identity,Anolis altae,https://api.gbif.org/v1/species/2467598
+LIBSRC-LIB50-ENT-BIO-0293246,taxon_authority,"Dunn, 1930",https://api.gbif.org/v1/species/2467598
+LIBSRC-LIB50-ENT-BIO-1316796,scientific_identity,Lycodon septentrionalis,https://api.gbif.org/v1/species/5223681
+LIBSRC-LIB50-ENT-BIO-1316796,taxon_authority,"(Günther, 1875) ",https://api.gbif.org/v1/species/5223681
+LIBSRC-LIB50-ENT-BIO-0383176,scientific_identity,Cichlasoma taenia,https://api.gbif.org/v1/species/2371879
+LIBSRC-LIB50-ENT-BIO-0383176,taxon_authority,"(Bennett, 1831) ",https://api.gbif.org/v1/species/2371879
+LIBSRC-LIB50-ENT-BIO-0389466,scientific_identity,Haplochromis quasimodo,https://api.gbif.org/v1/species/11564872
+LIBSRC-LIB50-ENT-BIO-0389466,taxon_authority,"Vranken, Steenberge, Heylen, Decru & Snoeks, 2022",https://api.gbif.org/v1/species/11564872
+LIBSRC-LIB50-ENT-BIO-0384026,scientific_identity,Nimbochromis venustus,https://api.gbif.org/v1/species/2371145
+LIBSRC-LIB50-ENT-BIO-0384026,taxon_authority,"(Boulenger, 1908) ",https://api.gbif.org/v1/species/2371145
+LIBSRC-LIB50-ENT-BIO-0384366,scientific_identity,Andinoacara latifrons,https://api.gbif.org/v1/species/7856519
+LIBSRC-LIB50-ENT-BIO-0384366,taxon_authority,"(Steindachner, 1878) ",https://api.gbif.org/v1/species/7856519
+LIBSRC-LIB50-ENT-BIO-0389296,scientific_identity,Haplochromis velifer,https://api.gbif.org/v1/species/2373274
+LIBSRC-LIB50-ENT-BIO-0389296,taxon_authority,"Trewavas, 1933",https://api.gbif.org/v1/species/2373274
+LIBSRC-LIB50-ENT-BIO-0929636,scientific_identity,Speleomantes strinatii,https://api.gbif.org/v1/species/2431453
+LIBSRC-LIB50-ENT-BIO-0929636,taxon_authority,"(Aellen, 1958) ",https://api.gbif.org/v1/species/2431453
+LIBSRC-LIB50-ENT-BIO-0933036,scientific_identity,Batrachoseps relictus,https://api.gbif.org/v1/species/2431761
+LIBSRC-LIB50-ENT-BIO-0933036,taxon_authority,"Brame & Murray, 1968",https://api.gbif.org/v1/species/2431761
+LIBSRC-LIB50-ENT-BIO-0924366,scientific_identity,Plethodon richmondi,https://api.gbif.org/v1/species/2431521
+LIBSRC-LIB50-ENT-BIO-0924366,taxon_authority,"Netting & Mittleman, 1938",https://api.gbif.org/v1/species/2431521
+LIBSRC-LIB50-ENT-BIO-0933206,scientific_identity,Nototriton matama,https://api.gbif.org/v1/species/8508592
+LIBSRC-LIB50-ENT-BIO-0933206,taxon_authority,"Boza-Oviedo, Rovito, Chaves, García-Rodríguez, Artavia, Bolaños & Wake, 2012",https://api.gbif.org/v1/species/8508592
+LIBSRC-LIB50-ENT-BIO-0932356,scientific_identity,Bolitoglossa suchitanensis,https://api.gbif.org/v1/species/9143535
+LIBSRC-LIB50-ENT-BIO-0932356,taxon_authority,"Campbell, Smith, Streicher, Acevedo & Brodie, 2010",https://api.gbif.org/v1/species/9143535
+LIBSRC-LIB50-ENT-BIO-0058436,scientific_identity,Diplovertebron punctatum,https://api.gbif.org/v1/species/8481673
+LIBSRC-LIB50-ENT-BIO-0058436,taxon_authority,"Fritsch, 1879",https://api.gbif.org/v1/species/8481673
+LIBSRC-LIB50-ENT-BIO-2019916,scientific_identity,Hypoplectrus puella,https://api.gbif.org/v1/species/2388790
+LIBSRC-LIB50-ENT-BIO-2019916,taxon_authority,"(Cuvier, 1828) ",https://api.gbif.org/v1/species/2388790
+LIBSRC-LIB50-ENT-BIO-2020256,scientific_identity,Pseudanthias tuka,https://api.gbif.org/v1/species/2387643
+LIBSRC-LIB50-ENT-BIO-2020256,taxon_authority,"(Herre & Montalban, 1927) ",https://api.gbif.org/v1/species/2387643
+LIBSRC-LIB50-ENT-BIO-2428256,scientific_identity,Aspidoscelis calidipes,https://api.gbif.org/v1/species/2472436
+LIBSRC-LIB50-ENT-BIO-2428256,taxon_authority,"(Duellman, 1955) ",https://api.gbif.org/v1/species/2472436
+LIBSRC-LIB50-ENT-BIO-2089616,scientific_identity,Ventastega curonica,https://api.gbif.org/v1/species/8599698
+LIBSRC-LIB50-ENT-BIO-2089616,taxon_authority,"Ahlberg et al., 1994",https://api.gbif.org/v1/species/8599698
+LIBSRC-LIB50-ENT-BIO-0389126,scientific_identity,Placidochromis acutirostris,https://api.gbif.org/v1/species/2372654
+LIBSRC-LIB50-ENT-BIO-0389126,taxon_authority,"Hanssens, 2004",https://api.gbif.org/v1/species/2372654
+LIBSRC-LIB50-ENT-BIO-1102936,scientific_identity,Zhangixalus prasinatus,https://api.gbif.org/v1/species/10767031
+LIBSRC-LIB50-ENT-BIO-1102936,taxon_authority,"(Mou, Risch & Lue, 1983) ",https://api.gbif.org/v1/species/10767031
+LIBSRC-LIB50-ENT-BIO-0392526,scientific_identity,Pleurodeles,https://api.gbif.org/v1/species/2431872
+LIBSRC-LIB50-ENT-BIO-0392526,taxon_authority,"Michahelles, 1830",https://api.gbif.org/v1/species/2431872
+LIBSRC-LIB50-ENT-BIO-0206716,scientific_identity,Plica lumaria,https://api.gbif.org/v1/species/2460058
+LIBSRC-LIB50-ENT-BIO-0206716,taxon_authority,"Donnelly & Myers, 1991",https://api.gbif.org/v1/species/2460058
+LIBSRC-LIB50-ENT-BIO-0562266,scientific_identity,Nactus arfakianus,https://api.gbif.org/v1/species/11214979
+LIBSRC-LIB50-ENT-BIO-0562266,taxon_authority,"(Meyer, 1874) ",https://api.gbif.org/v1/species/11214979
+LIBSRC-LIB50-ENT-BIO-0560566,scientific_identity,Gekko adleri,https://api.gbif.org/v1/species/9237541
+LIBSRC-LIB50-ENT-BIO-0560566,taxon_authority,"Nguyen, Wang, Yang, Lehmann, Le, Ziegler & Bonkowski, 2013",https://api.gbif.org/v1/species/9237541
+LIBSRC-LIB50-ENT-BIO-0564646,scientific_identity,Gehyra montium,https://api.gbif.org/v1/species/2446301
+LIBSRC-LIB50-ENT-BIO-0564646,taxon_authority,"Storr, 1982",https://api.gbif.org/v1/species/2446301
+LIBSRC-LIB50-ENT-BIO-0562946,scientific_identity,Lygodactylus conraui,https://api.gbif.org/v1/species/2446642
+LIBSRC-LIB50-ENT-BIO-0562946,taxon_authority,"Tornier, 1902",https://api.gbif.org/v1/species/2446642
+LIBSRC-LIB50-ENT-BIO-0563286,scientific_identity,Cyrtodactylus dati,https://api.gbif.org/v1/species/7550416
+LIBSRC-LIB50-ENT-BIO-0563286,taxon_authority,"Ngo Van Tri, 2013",https://api.gbif.org/v1/species/7550416
+LIBSRC-LIB50-ENT-BIO-0848376,scientific_identity,Trimerorhachis sandovalensis,https://api.gbif.org/v1/species/9571232
+LIBSRC-LIB50-ENT-BIO-0848376,taxon_authority,"Berman & Reisz, 1980",https://api.gbif.org/v1/species/9571232
+LIBSRC-LIB50-ENT-BIO-0553936,scientific_identity,Ctenophryne geayi,https://api.gbif.org/v1/species/2421976
+LIBSRC-LIB50-ENT-BIO-0553936,taxon_authority,"Mocquard, 1904",https://api.gbif.org/v1/species/2421976
+LIBSRC-LIB50-ENT-BIO-0559376,scientific_identity,Elachistocleis bicolor,https://api.gbif.org/v1/species/2421949
+LIBSRC-LIB50-ENT-BIO-0559376,taxon_authority,"(Guérin-Méneville, 1838) ",https://api.gbif.org/v1/species/2421949
+LIBSRC-LIB50-ENT-BIO-0923856,scientific_identity,Dendrotriton cuchumatanus,https://api.gbif.org/v1/species/2431418
+LIBSRC-LIB50-ENT-BIO-0923856,taxon_authority,"(Lynch & Wake, 1975) ",https://api.gbif.org/v1/species/2431418
+LIBSRC-LIB50-ENT-BIO-1741626,scientific_identity,Limnodynastes archeri,https://api.gbif.org/v1/species/8458194
+LIBSRC-LIB50-ENT-BIO-1741626,taxon_authority,"Tyler, 1981",https://api.gbif.org/v1/species/8458194
+LIBSRC-LIB50-ENT-BIO-0558526,scientific_identity,Rana kukunoris,https://api.gbif.org/v1/species/2426780
+LIBSRC-LIB50-ENT-BIO-0558526,taxon_authority,"Nikolskii, 1918",https://api.gbif.org/v1/species/2426780
+LIBSRC-LIB50-ENT-BIO-0815906,scientific_identity,Cryptoblepharus australis,https://api.gbif.org/v1/species/7763240
+LIBSRC-LIB50-ENT-BIO-0815906,taxon_authority,"(Sternfeld, 1918) ",https://api.gbif.org/v1/species/7763240
+LIBSRC-LIB50-ENT-BIO-0814206,scientific_identity,Ophioscincus truncatus,https://api.gbif.org/v1/species/2463837
+LIBSRC-LIB50-ENT-BIO-0814206,taxon_authority,"(Peters, 1876) ",https://api.gbif.org/v1/species/2463837
+LIBSRC-LIB50-ENT-BIO-0813186,scientific_identity,Lerista anyara,https://api.gbif.org/v1/species/10634855
+LIBSRC-LIB50-ENT-BIO-0813186,taxon_authority,"Amey, Couper & Worthington-Wilmer, 2019",https://api.gbif.org/v1/species/10634855
+LIBSRC-LIB50-ENT-BIO-0814886,scientific_identity,Mochlus laeviceps,https://api.gbif.org/v1/species/11116488
+LIBSRC-LIB50-ENT-BIO-0814886,taxon_authority,"(Peters, 1874) ",https://api.gbif.org/v1/species/11116488
+LIBSRC-LIB50-ENT-BIO-0813356,scientific_identity,Proegernia mikebulli,https://api.gbif.org/v1/species/11150184
+LIBSRC-LIB50-ENT-BIO-0813356,taxon_authority,"Thorn, Hutchinson, Lee, Brown, Camens & Worthy, 2021",https://api.gbif.org/v1/species/11150184
+LIBSRC-LIB50-ENT-BIO-1908736,scientific_identity,Pedioplanis undata,https://api.gbif.org/v1/species/2469801
+LIBSRC-LIB50-ENT-BIO-1908736,taxon_authority,"(Smith, 1838) ",https://api.gbif.org/v1/species/2469801
+LIBSRC-LIB50-ENT-BIO-1904316,scientific_identity,Timon kurdistanicus,https://api.gbif.org/v1/species/8817080
+LIBSRC-LIB50-ENT-BIO-1904316,taxon_authority,"(Suchow, 1936) ",https://api.gbif.org/v1/species/8817080
+LIBSRC-LIB50-ENT-BIO-1908056,scientific_identity,Eremias multiocellata,https://api.gbif.org/v1/species/2468881
+LIBSRC-LIB50-ENT-BIO-1908056,taxon_authority,"Günther, 1872",https://api.gbif.org/v1/species/2468881
+LIBSRC-LIB50-ENT-BIO-1643536,scientific_identity,Echeneis imperati,https://api.gbif.org/v1/species/9025388
+LIBSRC-LIB50-ENT-BIO-1643536,taxon_authority,"Rafinesque, 1810",https://api.gbif.org/v1/species/9025388
+LIBSRC-LIB50-ENT-BIO-0931846,scientific_identity,Acentrogobius viridipunctatus,https://api.gbif.org/v1/species/2376422
+LIBSRC-LIB50-ENT-BIO-0931846,taxon_authority,"(Valenciennes, 1837) ",https://api.gbif.org/v1/species/2376422
+LIBSRC-LIB50-ENT-BIO-2010056,scientific_identity,Serranus acanthophorus,https://api.gbif.org/v1/species/9196446
+LIBSRC-LIB50-ENT-BIO-2010056,taxon_authority,"Bocourt, 1868",https://api.gbif.org/v1/species/9196446
+LIBSRC-LIB50-ENT-BIO-0925556,scientific_identity,Cabillus macrophthalmus,https://api.gbif.org/v1/species/2378762
+LIBSRC-LIB50-ENT-BIO-0925556,taxon_authority,"(Weber, 1909) ",https://api.gbif.org/v1/species/2378762
+LIBSRC-LIB50-ENT-BIO-0929466,scientific_identity,Trypauchenichthys typus,https://api.gbif.org/v1/species/2375321
+LIBSRC-LIB50-ENT-BIO-0929466,taxon_authority,"Bleeker, 1860",https://api.gbif.org/v1/species/2375321
+LIBSRC-LIB50-ENT-BIO-0927596,scientific_identity,Tridentiger coreanus,https://api.gbif.org/v1/species/9013867
+LIBSRC-LIB50-ENT-BIO-0927596,taxon_authority,"Regan, 1908",https://api.gbif.org/v1/species/9013867
+LIBSRC-LIB50-ENT-BIO-0932866,scientific_identity,Knipowitschia polonica,https://api.gbif.org/v1/species/11217810
+LIBSRC-LIB50-ENT-BIO-0932866,taxon_authority,"Schwarzhans, Brzobohaty & Radwanska, 2020",https://api.gbif.org/v1/species/11217810
+LIBSRC-LIB50-ENT-BIO-0933376,scientific_identity,Gobius zonalternans,https://api.gbif.org/v1/species/8729997
+LIBSRC-LIB50-ENT-BIO-0933376,taxon_authority,"Day, 1876",https://api.gbif.org/v1/species/8729997
+LIBSRC-LIB50-ENT-BIO-0219806,scientific_identity,Singidella latecostata,https://api.gbif.org/v1/species/4964761
+LIBSRC-LIB50-ENT-BIO-0219806,taxon_authority,"Báez & Harrison, 2005",https://api.gbif.org/v1/species/4964761
+LIBSRC-LIB50-ENT-BIO-0216406,scientific_identity,Xenopus fraseri,https://api.gbif.org/v1/species/5217337
+LIBSRC-LIB50-ENT-BIO-0216406,taxon_authority,"Boulenger, 1905",https://api.gbif.org/v1/species/5217337
+LIBSRC-LIB50-ENT-BIO-0537446,scientific_identity,Assiculoides desmonotus,https://api.gbif.org/v1/species/2381822
+LIBSRC-LIB50-ENT-BIO-0537446,taxon_authority,"Gill & Hutchins, 1997",https://api.gbif.org/v1/species/2381822
+LIBSRC-LIB50-ENT-BIO-0537956,scientific_identity,Pholidochromis marginatus,https://api.gbif.org/v1/species/6169330
+LIBSRC-LIB50-ENT-BIO-0537956,taxon_authority,"(Lubbock, 1980) ",https://api.gbif.org/v1/species/6169330
+LIBSRC-LIB50-ENT-BIO-0552746,scientific_identity,Pseudochromis lugubris,https://api.gbif.org/v1/species/2381716
+LIBSRC-LIB50-ENT-BIO-0552746,taxon_authority,"Gill & Allen, 2004",https://api.gbif.org/v1/species/2381716
+LIBSRC-LIB50-ENT-BIO-0538636,scientific_identity,Natalichthys ori,https://api.gbif.org/v1/species/2381725
+LIBSRC-LIB50-ENT-BIO-0538636,taxon_authority,"Winterbottom, 1980",https://api.gbif.org/v1/species/2381725
+LIBSRC-LIB50-ENT-BIO-1767636,scientific_identity,Crommyodus irregularis,https://api.gbif.org/v1/species/4942000
+LIBSRC-LIB50-ENT-BIO-1767636,taxon_authority,"(Cope, 1869) ",https://api.gbif.org/v1/species/4942000
+LIBSRC-LIB50-ENT-BIO-0119416,scientific_identity,Kinosternon pojoaque,https://api.gbif.org/v1/species/9408485
+LIBSRC-LIB50-ENT-BIO-0119416,taxon_authority,"Bourque, 2012",https://api.gbif.org/v1/species/9408485
+LIBSRC-LIB50-ENT-BIO-2547535,scientific_identity,Terebratula bilimeki,https://api.gbif.org/v1/species/9627647
+LIBSRC-LIB50-ENT-BIO-2547535,taxon_authority,"(Suess, 1858) ",https://api.gbif.org/v1/species/9627647
+LIBSRC-LIB50-ENT-BIO-2511543,scientific_identity,Vettoria longifurca,https://api.gbif.org/v1/species/4324415
+LIBSRC-LIB50-ENT-BIO-2511543,taxon_authority,"(Rose & Vaissière, 1952) ",https://api.gbif.org/v1/species/4324415
+LIBSRC-LIB50-ENT-BIO-0481806,scientific_identity,Pholidophorus browni,https://api.gbif.org/v1/species/11211021
+LIBSRC-LIB50-ENT-BIO-0481806,taxon_authority,"Broom, 1913",https://api.gbif.org/v1/species/11211021
+LIBSRC-LIB50-ENT-BIO-1576166,scientific_identity,Palaeoniscum macropthalmus,https://api.gbif.org/v1/species/4964377
+LIBSRC-LIB50-ENT-BIO-1576166,taxon_authority,"(Agassiz, 1833) ",https://api.gbif.org/v1/species/4964377
+LIBSRC-LIB50-ENT-BIO-0395026,scientific_identity,Cynops orientalis,https://api.gbif.org/v1/species/2431860
+LIBSRC-LIB50-ENT-BIO-0395026,taxon_authority,"(David, 1873) ",https://api.gbif.org/v1/species/2431860
+LIBSRC-LIB50-ENT-BIO-1325926,scientific_identity,Duttaphrynus noellerti,https://api.gbif.org/v1/species/2422529
+LIBSRC-LIB50-ENT-BIO-1325926,taxon_authority,"(Manamendra-Arachchi & Pethiyagoda, 1998) ",https://api.gbif.org/v1/species/2422529
+LIBSRC-LIB50-ENT-BIO-1114446,scientific_identity,Hyloxalus aeruginosus,https://api.gbif.org/v1/species/2429270
+LIBSRC-LIB50-ENT-BIO-1114446,taxon_authority,"(Duellman, 2004) ",https://api.gbif.org/v1/species/2429270
+LIBSRC-LIB50-ENT-BIO-0391116,scientific_identity,Palaeoscincus magoder,https://api.gbif.org/v1/species/11371487
+LIBSRC-LIB50-ENT-BIO-0391116,taxon_authority,"Hennig, 1914",https://api.gbif.org/v1/species/11371487
+LIBSRC-LIB50-ENT-BIO-2182726,scientific_identity,Anomoiodon liliensterni,https://api.gbif.org/v1/species/4965421
+LIBSRC-LIB50-ENT-BIO-2182726,taxon_authority,"Huene, 1939",https://api.gbif.org/v1/species/4965421
+LIBSRC-LIB50-ENT-BIO-0563236,scientific_identity,Cyrtodactylus myaleiktaung,https://api.gbif.org/v1/species/10627730
+LIBSRC-LIB50-ENT-BIO-0563236,taxon_authority,"Grismer, Wood, Thura, Win, Grismer, Trueblood & Quah, 2018",https://api.gbif.org/v1/species/10627730
+LIBSRC-LIB50-ENT-BIO-0817386,scientific_identity,Amphisbaena hiata,https://api.gbif.org/v1/species/2472927
+LIBSRC-LIB50-ENT-BIO-0817386,taxon_authority,"Montero & Céspedez, 2002",https://api.gbif.org/v1/species/2472927
+LIBSRC-LIB50-ENT-BIO-1906476,scientific_identity,Mesalina arnoldi,https://api.gbif.org/v1/species/9758378
+LIBSRC-LIB50-ENT-BIO-1906476,taxon_authority,"Sindaco, Simó-Riudalbas, Sacchi & Carranza, 2018",https://api.gbif.org/v1/species/9758378
+LIBSRC-LIB50-ENT-BIO-1729676,scientific_identity,Ctenophorus salinarum,https://api.gbif.org/v1/species/5226023
+LIBSRC-LIB50-ENT-BIO-1729676,taxon_authority,"(Storr, 1966) ",https://api.gbif.org/v1/species/5226023
+LIBSRC-LIB50-ENT-BIO-0894226,scientific_identity,Xantusia bolsonae,https://api.gbif.org/v1/species/2451738
+LIBSRC-LIB50-ENT-BIO-0894226,taxon_authority,"Webb, 1970",https://api.gbif.org/v1/species/2451738
+LIBSRC-LIB50-ENT-BIO-0564256,scientific_identity,Stenodactylus doriae,https://api.gbif.org/v1/species/5221495
+LIBSRC-LIB50-ENT-BIO-0564256,taxon_authority,"(Blanford, 1874) ",https://api.gbif.org/v1/species/5221495
+LIBSRC-LIB50-ENT-BIO-0563066,scientific_identity,Cyrtodactylus battalensis,https://api.gbif.org/v1/species/2447778
+LIBSRC-LIB50-ENT-BIO-0563066,taxon_authority,"Khan, 1993",https://api.gbif.org/v1/species/2447778
+LIBSRC-LIB50-ENT-BIO-0816196,scientific_identity,Acontias grayi,https://api.gbif.org/v1/species/10674939
+LIBSRC-LIB50-ENT-BIO-0816196,taxon_authority,"Boulenger, 1887",https://api.gbif.org/v1/species/10674939
+LIBSRC-LIB50-ENT-BIO-0693116,scientific_identity,Psammophis jallae,https://api.gbif.org/v1/species/5959507
+LIBSRC-LIB50-ENT-BIO-0693116,taxon_authority,"Peracca, 1896",https://api.gbif.org/v1/species/5959507
+LIBSRC-LIB50-ENT-BIO-1318616,scientific_identity,Trimetopon slevini,https://api.gbif.org/v1/species/2453924
+LIBSRC-LIB50-ENT-BIO-1318616,taxon_authority,"Dunn, 1940",https://api.gbif.org/v1/species/2453924
+LIBSRC-LIB50-ENT-BIO-0665236,scientific_identity,Bothriechis schlegelii,https://api.gbif.org/v1/species/2444681
+LIBSRC-LIB50-ENT-BIO-0665236,taxon_authority,"(Berthold, 1846) ",https://api.gbif.org/v1/species/2444681
+LIBSRC-LIB50-ENT-BIO-1323036,scientific_identity,Herpetoreas sieboldii,https://api.gbif.org/v1/species/2458004
+LIBSRC-LIB50-ENT-BIO-1323036,taxon_authority,"Günther, 1860",https://api.gbif.org/v1/species/2458004
+LIBSRC-LIB50-ENT-BIO-0192686,scientific_identity,Liolaemus robustus,https://api.gbif.org/v1/species/2460579
+LIBSRC-LIB50-ENT-BIO-0192686,taxon_authority,"Laurent, 1992",https://api.gbif.org/v1/species/2460579
+LIBSRC-LIB50-ENT-BIO-0294046,scientific_identity,Diplodactylus capensis,https://api.gbif.org/v1/species/6066778
+LIBSRC-LIB50-ENT-BIO-0294046,taxon_authority,"Doughty, Oliver & Adams, 2008",https://api.gbif.org/v1/species/6066778
+LIBSRC-LIB50-ENT-BIO-0561706,scientific_identity,Paroedura oviceps,https://api.gbif.org/v1/species/9156051
+LIBSRC-LIB50-ENT-BIO-0561706,taxon_authority,"(Boettger, 1881) ",https://api.gbif.org/v1/species/9156051
+LIBSRC-LIB50-ENT-BIO-0595536,scientific_identity,Aristelliger expectatus,https://api.gbif.org/v1/species/2448209
+LIBSRC-LIB50-ENT-BIO-0595536,taxon_authority,"Cochran, 1933",https://api.gbif.org/v1/species/2448209
+LIBSRC-LIB50-ENT-BIO-2056416,scientific_identity,Oracanthus multiseriatus,https://api.gbif.org/v1/species/11219820
+LIBSRC-LIB50-ENT-BIO-2056416,taxon_authority,"Newberry, 1857",https://api.gbif.org/v1/species/11219820
+LIBSRC-LIB50-ENT-BIO-1618496,scientific_identity,Clavohamulus anciensis,https://api.gbif.org/v1/species/11172161
+LIBSRC-LIB50-ENT-BIO-1618496,taxon_authority,"(Zhang & Lin, 1983) ",https://api.gbif.org/v1/species/11172161
+LIBSRC-LIB50-ENT-BIO-0067566,scientific_identity,Acontiodus malayensis,https://api.gbif.org/v1/species/9489397
+LIBSRC-LIB50-ENT-BIO-0067566,taxon_authority,"Igo & Koike, 1967",https://api.gbif.org/v1/species/9489397
+LIBSRC-LIB50-ENT-BIO-1743106,scientific_identity,Saraikisaurus minhui,https://api.gbif.org/v1/species/11164093
+LIBSRC-LIB50-ENT-BIO-1743106,taxon_authority,"Malkani, 2014",https://api.gbif.org/v1/species/11164093
+LIBSRC-LIB50-ENT-BIO-0551166,scientific_identity,Rhacolepis latus,https://api.gbif.org/v1/species/8595657
+LIBSRC-LIB50-ENT-BIO-0551166,taxon_authority,"Agassiz, 1841",https://api.gbif.org/v1/species/8595657
+LIBSRC-LIB50-ENT-BIO-0375986,scientific_identity,Geosaurus saltillense,https://api.gbif.org/v1/species/9584262
+LIBSRC-LIB50-ENT-BIO-0375986,taxon_authority,"(Buchy et al., 2006) ",https://api.gbif.org/v1/species/9584262
+LIBSRC-LIB50-ENT-BIO-2528651,scientific_identity,Cytheridea mulleri,https://api.gbif.org/v1/species/9746375
+LIBSRC-LIB50-ENT-BIO-2528651,taxon_authority,"(Bosquet, 1852) ",https://api.gbif.org/v1/species/9746375
+LIBSRC-LIB50-ENT-BIO-0319716,scientific_identity,Rhynchodus ornatus,https://api.gbif.org/v1/species/11133750
+LIBSRC-LIB50-ENT-BIO-0319716,taxon_authority,"Hussakof & Bryant, 1919",https://api.gbif.org/v1/species/11133750
+LIBSRC-LIB50-ENT-BIO-2529618,scientific_identity,Perissocytheridea ebutemettaensis,https://api.gbif.org/v1/species/7687089
+LIBSRC-LIB50-ENT-BIO-2529618,taxon_authority,"(Omatsola, 1970) ",https://api.gbif.org/v1/species/7687089
+LIBSRC-LIB50-ENT-BIO-1618156,scientific_identity,Hybodus antingensis,https://api.gbif.org/v1/species/8676350
+LIBSRC-LIB50-ENT-BIO-1618156,taxon_authority,"Liu, 1962",https://api.gbif.org/v1/species/8676350
+LIBSRC-LIB50-ENT-BIO-0566976,scientific_identity,Protodus jexi,https://api.gbif.org/v1/species/8502706
+LIBSRC-LIB50-ENT-BIO-0566976,taxon_authority,"Woodward, 1892",https://api.gbif.org/v1/species/8502706
+LIBSRC-LIB50-ENT-BIO-2497399,scientific_identity,Aphyolebias boticarioi,https://api.gbif.org/v1/species/2349515
+LIBSRC-LIB50-ENT-BIO-2497399,taxon_authority,"Costa, 2004",https://api.gbif.org/v1/species/2349515
+LIBSRC-LIB50-ENT-BIO-1308586,scientific_identity,Neospathodus zharnikovi,https://api.gbif.org/v1/species/11173686
+LIBSRC-LIB50-ENT-BIO-1308586,taxon_authority,"Buryi, 1979",https://api.gbif.org/v1/species/11173686
+LIBSRC-LIB50-ENT-BIO-2173886,scientific_identity,Homacanthus gibbosus,https://api.gbif.org/v1/species/11203809
+LIBSRC-LIB50-ENT-BIO-2173886,taxon_authority,"(Newberry & Worthen, 1866) ",https://api.gbif.org/v1/species/11203809
+LIBSRC-LIB50-ENT-BIO-2101976,scientific_identity,Pengxianpus yulinensis,https://api.gbif.org/v1/species/11744425
+LIBSRC-LIB50-ENT-BIO-2101976,taxon_authority,"Wang et al., 2016",https://api.gbif.org/v1/species/11744425
+LIBSRC-LIB50-ENT-BIO-0016796,scientific_identity,Lakumasaurus antarcticus,https://api.gbif.org/v1/species/9502538
+LIBSRC-LIB50-ENT-BIO-0016796,taxon_authority,"(Novas et al., 2002) ",https://api.gbif.org/v1/species/9502538
+LIBSRC-LIB50-ENT-BIO-0363066,scientific_identity,Stahleckeria potens,https://api.gbif.org/v1/species/4975399
+LIBSRC-LIB50-ENT-BIO-0363066,taxon_authority,"Huene, 1935",https://api.gbif.org/v1/species/4975399
+LIBSRC-LIB50-ENT-BIO-1011936,scientific_identity,Urotrygon chilensis,https://api.gbif.org/v1/species/2420481
+LIBSRC-LIB50-ENT-BIO-1011936,taxon_authority,"(Günther, 1872) ",https://api.gbif.org/v1/species/2420481
+LIBSRC-LIB50-ENT-BIO-2016466,scientific_identity,Protoceratopsidovum minimum,https://api.gbif.org/v1/species/4965640
+LIBSRC-LIB50-ENT-BIO-2016466,taxon_authority,"Mikhailov, 1994",https://api.gbif.org/v1/species/4965640
+LIBSRC-LIB50-ENT-BIO-0638376,scientific_identity,Acrodus emmonsi,https://api.gbif.org/v1/species/11181585
+LIBSRC-LIB50-ENT-BIO-0638376,taxon_authority,"Leidy, 1872",https://api.gbif.org/v1/species/11181585
+LIBSRC-LIB50-ENT-BIO-1602856,scientific_identity,Cynoscion parvipinnis,https://api.gbif.org/v1/species/2400019
+LIBSRC-LIB50-ENT-BIO-1602856,taxon_authority,"Ayres, 1861",https://api.gbif.org/v1/species/2400019
+LIBSRC-LIB50-ENT-BIO-0559326,scientific_identity,Aphantophryne sabini,https://api.gbif.org/v1/species/2421882
+LIBSRC-LIB50-ENT-BIO-0559326,taxon_authority,"Zweifel & Parker, 1989",https://api.gbif.org/v1/species/2421882
+LIBSRC-LIB50-ENT-BIO-1102036,scientific_identity,Philautus nephophilus,https://api.gbif.org/v1/species/9631781
+LIBSRC-LIB50-ENT-BIO-1102036,taxon_authority,"Dehling, Matsui & Yambun Imbun, 2016",https://api.gbif.org/v1/species/9631781
+LIBSRC-LIB50-ENT-BIO-0394006,scientific_identity,Serrapinnus gracilis,https://api.gbif.org/v1/species/7193768
+LIBSRC-LIB50-ENT-BIO-0394006,taxon_authority,"(Géry, 1960) ",https://api.gbif.org/v1/species/7193768
+LIBSRC-LIB50-ENT-BIO-0051246,scientific_identity,Geikia elginensis,https://api.gbif.org/v1/species/8458775
+LIBSRC-LIB50-ENT-BIO-0051246,taxon_authority,"Newton, 1893",https://api.gbif.org/v1/species/8458775
+LIBSRC-LIB50-ENT-BIO-0371906,scientific_identity,Boavus brevis,https://api.gbif.org/v1/species/4968115
+LIBSRC-LIB50-ENT-BIO-0371906,taxon_authority,"Marsh, 1871",https://api.gbif.org/v1/species/4968115
+LIBSRC-LIB50-ENT-BIO-0559496,scientific_identity,Plethodontohyla notosticta,https://api.gbif.org/v1/species/2421679
+LIBSRC-LIB50-ENT-BIO-0559496,taxon_authority,"(Günther, 1877) ",https://api.gbif.org/v1/species/2421679
+LIBSRC-LIB50-ENT-BIO-0334676,scientific_identity,Tinca tinca,https://api.gbif.org/v1/species/2362524
+LIBSRC-LIB50-ENT-BIO-0334676,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2362524
+LIBSRC-LIB50-ENT-BIO-0220266,scientific_identity,Raja straeleni,https://api.gbif.org/v1/species/5216012
+LIBSRC-LIB50-ENT-BIO-0220266,taxon_authority,"Poll, 1951",https://api.gbif.org/v1/species/5216012
+LIBSRC-LIB50-ENT-BIO-1321676,scientific_identity,Dendrelaphis haasi,https://api.gbif.org/v1/species/8283922
+LIBSRC-LIB50-ENT-BIO-1321676,taxon_authority,"Van Rooijen & Vogel, 2008",https://api.gbif.org/v1/species/8283922
+LIBSRC-LIB50-ENT-BIO-1322356,scientific_identity,Rhadinaea laureata,https://api.gbif.org/v1/species/5959362
+LIBSRC-LIB50-ENT-BIO-1322356,taxon_authority,"(Günther, 1868) ",https://api.gbif.org/v1/species/5959362
+LIBSRC-LIB50-ENT-BIO-0393156,scientific_identity,Distacodus procerus,https://api.gbif.org/v1/species/11164936
+LIBSRC-LIB50-ENT-BIO-0393156,taxon_authority,"Ethington, 1959",https://api.gbif.org/v1/species/11164936
+LIBSRC-LIB50-ENT-BIO-1952716,scientific_identity,Agalychnis danieli,https://api.gbif.org/v1/species/10848419
+LIBSRC-LIB50-ENT-BIO-1952716,taxon_authority,"(Ruiz-Carranza, Hernández-Camacho & Rueda-Almonacid, 1988) ",https://api.gbif.org/v1/species/10848419
+LIBSRC-LIB50-ENT-BIO-0815856,scientific_identity,Lygosoma haroldyoungi,https://api.gbif.org/v1/species/6161136
+LIBSRC-LIB50-ENT-BIO-0815856,taxon_authority,"(Taylor, 1962) ",https://api.gbif.org/v1/species/6161136
+LIBSRC-LIB50-ENT-BIO-0679176,scientific_identity,Minervarya sahyadris,https://api.gbif.org/v1/species/2430407
+LIBSRC-LIB50-ENT-BIO-0679176,taxon_authority,"Dubois, Ohler & Biju, 2001",https://api.gbif.org/v1/species/2430407
+LIBSRC-LIB50-ENT-BIO-0293366,scientific_identity,Anolis kathydayae,https://api.gbif.org/v1/species/9573484
+LIBSRC-LIB50-ENT-BIO-0293366,taxon_authority,"Poe & Ryan, 2017",https://api.gbif.org/v1/species/9573484
+LIBSRC-LIB50-ENT-BIO-0564596,scientific_identity,Gehyra lauta,https://api.gbif.org/v1/species/11215045
+LIBSRC-LIB50-ENT-BIO-0564596,taxon_authority,"Oliver, Prasetya, Tedeschi, Fenker, Ellis, Doughty & Moritz, 2020",https://api.gbif.org/v1/species/11215045
+LIBSRC-LIB50-ENT-BIO-0294386,scientific_identity,Strophurus congoo,https://api.gbif.org/v1/species/8461051
+LIBSRC-LIB50-ENT-BIO-0294386,taxon_authority,"Vanderduys, 2016",https://api.gbif.org/v1/species/8461051
+LIBSRC-LIB50-ENT-BIO-0908336,scientific_identity,Phrynosoma sherbrookei,https://api.gbif.org/v1/species/9422990
+LIBSRC-LIB50-ENT-BIO-0908336,taxon_authority,"Nieto-Montes De Oca, Arenas-Moreno, Beltrán-Sánchez & Leaché, 2014",https://api.gbif.org/v1/species/9422990
+LIBSRC-LIB50-ENT-BIO-0568506,scientific_identity,Psychrophrynella bagrecito,https://api.gbif.org/v1/species/10735531
+LIBSRC-LIB50-ENT-BIO-0568506,taxon_authority,"(Lynch, 1986) ",https://api.gbif.org/v1/species/10735531
+LIBSRC-LIB50-ENT-BIO-0400716,scientific_identity,Anosteira mongoliensis,https://api.gbif.org/v1/species/8642615
+LIBSRC-LIB50-ENT-BIO-0400716,taxon_authority,"Gilmore, 1931",https://api.gbif.org/v1/species/8642615
+LIBSRC-LIB50-ENT-BIO-1619856,scientific_identity,Yanomamia hoogmoedi,https://api.gbif.org/v1/species/11154290
+LIBSRC-LIB50-ENT-BIO-1619856,taxon_authority,"(Kok, 2008) ",https://api.gbif.org/v1/species/11154290
+LIBSRC-LIB50-ENT-BIO-1322526,scientific_identity,Chionactis annulata,https://api.gbif.org/v1/species/9349321
+LIBSRC-LIB50-ENT-BIO-1322526,taxon_authority,"(Baird, 1859) ",https://api.gbif.org/v1/species/9349321
+LIBSRC-LIB50-ENT-BIO-0138626,scientific_identity,Leptodactylus marambaiae,https://api.gbif.org/v1/species/5217541
+LIBSRC-LIB50-ENT-BIO-0138626,taxon_authority,"Izecksohn, 1976",https://api.gbif.org/v1/species/5217541
+LIBSRC-LIB50-ENT-BIO-0387206,scientific_identity,Vieja breidohri,https://api.gbif.org/v1/species/2372041
+LIBSRC-LIB50-ENT-BIO-0387206,taxon_authority,"(Werner & Stawikowski, 1987) ",https://api.gbif.org/v1/species/2372041
+LIBSRC-LIB50-ENT-BIO-2010006,scientific_identity,Serranus praestigiator,https://api.gbif.org/v1/species/9103045
+LIBSRC-LIB50-ENT-BIO-2010006,taxon_authority,"Poey, 1851",https://api.gbif.org/v1/species/9103045
+LIBSRC-LIB50-ENT-BIO-1022306,scientific_identity,Micropanchax keilhacki,https://api.gbif.org/v1/species/2349797
+LIBSRC-LIB50-ENT-BIO-1022306,taxon_authority,"(Ahl, 1928) ",https://api.gbif.org/v1/species/2349797
+LIBSRC-LIB50-ENT-BIO-0336716,scientific_identity,Chanodichthys erythropterus,https://api.gbif.org/v1/species/2367696
+LIBSRC-LIB50-ENT-BIO-0336716,taxon_authority,"(Basilewsky, 1855) ",https://api.gbif.org/v1/species/2367696
+LIBSRC-LIB50-ENT-BIO-1701626,scientific_identity,Jordania zonope,https://api.gbif.org/v1/species/2333884
+LIBSRC-LIB50-ENT-BIO-1701626,taxon_authority,"Starks, 1895",https://api.gbif.org/v1/species/2333884
+LIBSRC-LIB50-ENT-BIO-0820786,scientific_identity,Hemichirotes,https://api.gbif.org/v1/species/2451017
+LIBSRC-LIB50-ENT-BIO-0820786,taxon_authority,"Cope, 1894",https://api.gbif.org/v1/species/2451017
+LIBSRC-LIB50-ENT-BIO-1116486,scientific_identity,Paruwrobates andinus,https://api.gbif.org/v1/species/10813843
+LIBSRC-LIB50-ENT-BIO-1116486,taxon_authority,"(Myers & Burrowes, 1987) ",https://api.gbif.org/v1/species/10813843
+LIBSRC-LIB50-ENT-BIO-1084696,scientific_identity,Ischnocnema sambaqui,https://api.gbif.org/v1/species/2424888
+LIBSRC-LIB50-ENT-BIO-1084696,taxon_authority,"(Castanho & Haddad, 2000) ",https://api.gbif.org/v1/species/2424888
+LIBSRC-LIB50-ENT-BIO-1575826,scientific_identity,Blasisaurus canudoi,https://api.gbif.org/v1/species/8671097
+LIBSRC-LIB50-ENT-BIO-1575826,taxon_authority,"Cruzado-Caballero et al., 2010",https://api.gbif.org/v1/species/8671097
+LIBSRC-LIB50-ENT-BIO-0293536,scientific_identity,Anolis bitectus,https://api.gbif.org/v1/species/2467825
+LIBSRC-LIB50-ENT-BIO-0293536,taxon_authority,"Cope, 1864",https://api.gbif.org/v1/species/2467825
+LIBSRC-LIB50-ENT-BIO-1288186,scientific_identity,Acanthophis bottomi,https://api.gbif.org/v1/species/9051228
+LIBSRC-LIB50-ENT-BIO-1288186,taxon_authority,"Hoser, 1998",https://api.gbif.org/v1/species/9051228
+LIBSRC-LIB50-ENT-BIO-0563406,scientific_identity,Cyrtodactylus deccanensis,https://api.gbif.org/v1/species/9554517
+LIBSRC-LIB50-ENT-BIO-0563406,taxon_authority,"(Günther, 1864) ",https://api.gbif.org/v1/species/9554517
+LIBSRC-LIB50-ENT-BIO-0565446,scientific_identity,Afroedura halli,https://api.gbif.org/v1/species/2445895
+LIBSRC-LIB50-ENT-BIO-0565446,taxon_authority,"(Hewitt, 1935) ",https://api.gbif.org/v1/species/2445895
+LIBSRC-LIB50-ENT-BIO-0864136,scientific_identity,Ichthyophis multicolor,https://api.gbif.org/v1/species/8768811
+LIBSRC-LIB50-ENT-BIO-0864136,taxon_authority,"Wilkinson, Presswell, Sherratt, Papadopoulou & Gower, 2014",https://api.gbif.org/v1/species/8768811
+LIBSRC-LIB50-ENT-BIO-2115916,scientific_identity,Trichomycterus diabolus,https://api.gbif.org/v1/species/2343179
+LIBSRC-LIB50-ENT-BIO-2115916,taxon_authority,"Bockmann, Casatti & de Pinna, 2004",https://api.gbif.org/v1/species/2343179
+LIBSRC-LIB50-ENT-BIO-0331446,scientific_identity,Sinocyclocheilus jiuxuensis,https://api.gbif.org/v1/species/2359944
+LIBSRC-LIB50-ENT-BIO-0331446,taxon_authority,"Li & Lan, 2003",https://api.gbif.org/v1/species/2359944
+LIBSRC-LIB50-ENT-BIO-1111896,scientific_identity,Paracobitis ghazniensis,https://api.gbif.org/v1/species/2358207
+LIBSRC-LIB50-ENT-BIO-1111896,taxon_authority,"(Bănărescu & Nalbant, 1966) ",https://api.gbif.org/v1/species/2358207
+LIBSRC-LIB50-ENT-BIO-0525496,scientific_identity,Herpetoichthys ornatissimus,https://api.gbif.org/v1/species/10754833
+LIBSRC-LIB50-ENT-BIO-0525496,taxon_authority,"Bauchot, Desoutter & Castle, 1993",https://api.gbif.org/v1/species/10754833
+LIBSRC-LIB50-ENT-BIO-1109516,scientific_identity,Schistura gangetica,https://api.gbif.org/v1/species/8490350
+LIBSRC-LIB50-ENT-BIO-1109516,taxon_authority,"(Menon, 1987) ",https://api.gbif.org/v1/species/8490350
+LIBSRC-LIB50-ENT-BIO-1409396,scientific_identity,Aplidiopsis amoyense,https://api.gbif.org/v1/species/2331164
+LIBSRC-LIB50-ENT-BIO-1409396,taxon_authority,"Tokioka, 1967",https://api.gbif.org/v1/species/2331164
+LIBSRC-LIB50-ENT-BIO-0131486,scientific_identity,Bodianus leucosticticus,https://api.gbif.org/v1/species/5209668
+LIBSRC-LIB50-ENT-BIO-0131486,taxon_authority,"(Bennett, 1832) ",https://api.gbif.org/v1/species/5209668
+LIBSRC-LIB50-ENT-BIO-2348306,scientific_identity,Psittacosaurus xinjiangensis,https://api.gbif.org/v1/species/4965765
+LIBSRC-LIB50-ENT-BIO-2348306,taxon_authority,"Sereno & Chao, 1988",https://api.gbif.org/v1/species/4965765
+LIBSRC-LIB50-ENT-BIO-1003776,scientific_identity,Dryophytes andersonii,https://api.gbif.org/v1/species/10770209
+LIBSRC-LIB50-ENT-BIO-1003776,taxon_authority,"(Baird, 1854) ",https://api.gbif.org/v1/species/10770209
+LIBSRC-LIB50-ENT-BIO-0592646,scientific_identity,Sphaerodactylus dunni,https://api.gbif.org/v1/species/2445376
+LIBSRC-LIB50-ENT-BIO-0592646,taxon_authority,"Schmidt, 1936",https://api.gbif.org/v1/species/2445376
+LIBSRC-LIB50-ENT-BIO-1257756,scientific_identity,Polycarpa glebosa,https://api.gbif.org/v1/species/5200859
+LIBSRC-LIB50-ENT-BIO-1257756,taxon_authority,"(Sluiter, 1904) ",https://api.gbif.org/v1/species/5200859
+LIBSRC-LIB50-ENT-BIO-1003436,scientific_identity,Ololygon humilis,https://api.gbif.org/v1/species/10816454
+LIBSRC-LIB50-ENT-BIO-1003436,taxon_authority,"(A.Lutz & B.Lutz, 1954) ",https://api.gbif.org/v1/species/10816454
+LIBSRC-LIB50-ENT-BIO-1776426,scientific_identity,Parafimbrios lao,https://api.gbif.org/v1/species/8591042
+LIBSRC-LIB50-ENT-BIO-1776426,taxon_authority,"Teynié, David, Lottier, Le, Vidal & Nguyen, 2015",https://api.gbif.org/v1/species/8591042
+LIBSRC-LIB50-ENT-BIO-0560006,scientific_identity,Altiphylax baturensis,https://api.gbif.org/v1/species/7469657
+LIBSRC-LIB50-ENT-BIO-0560006,taxon_authority,"(Khan & Baig, 1992) ",https://api.gbif.org/v1/species/7469657
+LIBSRC-LIB50-ENT-BIO-1922286,scientific_identity,Pseudancistrus pectegenitor,https://api.gbif.org/v1/species/5202279
+LIBSRC-LIB50-ENT-BIO-1922286,taxon_authority,"Lujan, Armbruster & Sabaj Pérez, 2007",https://api.gbif.org/v1/species/5202279
+LIBSRC-LIB50-ENT-BIO-1684116,scientific_identity,Cardioglossa alsco,https://api.gbif.org/v1/species/2429641
+LIBSRC-LIB50-ENT-BIO-1684116,taxon_authority,"Herrmann, Herrmann, Schmitz & Böhme, 2004",https://api.gbif.org/v1/species/2429641
+LIBSRC-LIB50-ENT-BIO-0833876,scientific_identity,Didemnum viride,https://api.gbif.org/v1/species/2329743
+LIBSRC-LIB50-ENT-BIO-0833876,taxon_authority,"(Herdman, 1906) ",https://api.gbif.org/v1/species/2329743
+LIBSRC-LIB50-ENT-BIO-0336206,scientific_identity,Alburnus schischkovi,https://api.gbif.org/v1/species/2363022
+LIBSRC-LIB50-ENT-BIO-0336206,taxon_authority,"(Drensky, 1943) ",https://api.gbif.org/v1/species/2363022
+LIBSRC-LIB50-ENT-BIO-1618666,scientific_identity,Echinosaura palmeri,https://api.gbif.org/v1/species/2450580
+LIBSRC-LIB50-ENT-BIO-1618666,taxon_authority,"Boulenger, 1911",https://api.gbif.org/v1/species/2450580
+LIBSRC-LIB50-ENT-BIO-0332806,scientific_identity,Paraplagusia longirostris,https://api.gbif.org/v1/species/2409795
+LIBSRC-LIB50-ENT-BIO-0332806,taxon_authority,"Chapleau, Renaud & Kailola, 1991",https://api.gbif.org/v1/species/2409795
+LIBSRC-LIB50-ENT-BIO-0292176,scientific_identity,Oedura jowalbinna,https://api.gbif.org/v1/species/6066774
+LIBSRC-LIB50-ENT-BIO-0292176,taxon_authority,"Hoskin & Higgie, 2008",https://api.gbif.org/v1/species/6066774
+LIBSRC-LIB50-ENT-BIO-0569526,scientific_identity,Pristimantis diogenes,https://api.gbif.org/v1/species/2425384
+LIBSRC-LIB50-ENT-BIO-0569526,taxon_authority,"(Lynch & Ruiz-Carranza, 1996) ",https://api.gbif.org/v1/species/2425384
+LIBSRC-LIB50-ENT-BIO-0643476,scientific_identity,Malacoctenus triangulatus,https://api.gbif.org/v1/species/2389521
+LIBSRC-LIB50-ENT-BIO-0643476,taxon_authority,"Springer, 1959",https://api.gbif.org/v1/species/2389521
+LIBSRC-LIB50-ENT-BIO-0389416,scientific_identity,Haplochromis macconneli,https://api.gbif.org/v1/species/2373755
+LIBSRC-LIB50-ENT-BIO-0389416,taxon_authority,"Greenwood, 1974",https://api.gbif.org/v1/species/2373755
+LIBSRC-LIB50-ENT-BIO-0130466,scientific_identity,Stegastes redemptus,https://api.gbif.org/v1/species/2398892
+LIBSRC-LIB50-ENT-BIO-0130466,taxon_authority,"(Heller & Snodgrass, 1903) ",https://api.gbif.org/v1/species/2398892
+LIBSRC-LIB50-ENT-BIO-1286656,scientific_identity,Pseudorhombus diplospilus,https://api.gbif.org/v1/species/2408836
+LIBSRC-LIB50-ENT-BIO-1286656,taxon_authority,"Norman, 1926",https://api.gbif.org/v1/species/2408836
+LIBSRC-LIB50-ENT-BIO-0559666,scientific_identity,Sphenophryne stenodactyla,https://api.gbif.org/v1/species/10772622
+LIBSRC-LIB50-ENT-BIO-0559666,taxon_authority,"(Zweifel, 2000) ",https://api.gbif.org/v1/species/10772622
+LIBSRC-LIB50-ENT-BIO-2448096,scientific_identity,Astroblepus formosus,https://api.gbif.org/v1/species/2342127
+LIBSRC-LIB50-ENT-BIO-2448096,taxon_authority,"Fowler, 1945",https://api.gbif.org/v1/species/2342127
+LIBSRC-LIB50-ENT-BIO-0087286,scientific_identity,Kushlukia permira,https://api.gbif.org/v1/species/9611137
+LIBSRC-LIB50-ENT-BIO-0087286,taxon_authority,"Danil'chenko, 1968",https://api.gbif.org/v1/species/9611137
+LIBSRC-LIB50-ENT-BIO-1923646,scientific_identity,Chaetostoma thomsoni,https://api.gbif.org/v1/species/5202361
+LIBSRC-LIB50-ENT-BIO-1923646,taxon_authority,"Regan, 1904",https://api.gbif.org/v1/species/5202361
+LIBSRC-LIB50-ENT-BIO-0526346,scientific_identity,Ophichthus brachynotopterus,https://api.gbif.org/v1/species/5213150
+LIBSRC-LIB50-ENT-BIO-0526346,taxon_authority,"Karrer, 1983",https://api.gbif.org/v1/species/5213150
+LIBSRC-LIB50-ENT-BIO-1316236,scientific_identity,Caranx funereus,https://api.gbif.org/v1/species/8859469
+LIBSRC-LIB50-ENT-BIO-1316236,taxon_authority,"Curtiss, 1938",https://api.gbif.org/v1/species/8859469
+LIBSRC-LIB50-ENT-BIO-0554226,scientific_identity,Stumpffia makira,https://api.gbif.org/v1/species/9360851
+LIBSRC-LIB50-ENT-BIO-0554226,taxon_authority,"Rakotoarison, Scherz, Glaw, Köhler, Andreone, Franzen, Glos, Hawlitschek, Jono, Mori et al., 2017",https://api.gbif.org/v1/species/9360851
+LIBSRC-LIB50-ENT-BIO-0847306,scientific_identity,Ditypophis vivax,https://api.gbif.org/v1/species/2453129
+LIBSRC-LIB50-ENT-BIO-0847306,taxon_authority,"Günther, 1881",https://api.gbif.org/v1/species/2453129
+LIBSRC-LIB50-ENT-BIO-0393836,scientific_identity,Microgenys lativirgata,https://api.gbif.org/v1/species/2353978
+LIBSRC-LIB50-ENT-BIO-0393836,taxon_authority,"Pearson, 1927",https://api.gbif.org/v1/species/2353978
+LIBSRC-LIB50-ENT-BIO-1102886,scientific_identity,Zhangixalus feae,https://api.gbif.org/v1/species/10809418
+LIBSRC-LIB50-ENT-BIO-1102886,taxon_authority,"(Boulenger, 1893) ",https://api.gbif.org/v1/species/10809418
+LIBSRC-LIB50-ENT-BIO-0286056,scientific_identity,Brauccipycnodus pillae,https://api.gbif.org/v1/species/11192069
+LIBSRC-LIB50-ENT-BIO-0286056,taxon_authority,"Capasso, 2007",https://api.gbif.org/v1/species/11192069
+LIBSRC-LIB50-ENT-BIO-0025806,scientific_identity,Odontaspis teretidens,https://api.gbif.org/v1/species/11185766
+LIBSRC-LIB50-ENT-BIO-0025806,taxon_authority,"White, 1931",https://api.gbif.org/v1/species/11185766
+LIBSRC-LIB50-ENT-BIO-1081296,scientific_identity,Rexea nakamurai,https://api.gbif.org/v1/species/2397845
+LIBSRC-LIB50-ENT-BIO-1081296,taxon_authority,"Parin, 1989",https://api.gbif.org/v1/species/2397845
+LIBSRC-LIB50-ENT-BIO-1034206,scientific_identity,Indotyphlops ahsanai,https://api.gbif.org/v1/species/9286143
+LIBSRC-LIB50-ENT-BIO-1034206,taxon_authority,"(Khan, 1999) ",https://api.gbif.org/v1/species/9286143
+LIBSRC-LIB50-ENT-BIO-0926356,scientific_identity,Pandaka bipunctata,https://api.gbif.org/v1/species/5962075
+LIBSRC-LIB50-ENT-BIO-0926356,taxon_authority,"Chen, Wu, Zhong & Zhao, 2008",https://api.gbif.org/v1/species/5962075
+LIBSRC-LIB50-ENT-BIO-1108666,scientific_identity,Eidinemacheilus smithi,https://api.gbif.org/v1/species/9733472
+LIBSRC-LIB50-ENT-BIO-1108666,taxon_authority,"(Greenwood, 1976) ",https://api.gbif.org/v1/species/9733472
+LIBSRC-LIB50-ENT-BIO-0336886,scientific_identity,Notropis scabriceps,https://api.gbif.org/v1/species/2362183
+LIBSRC-LIB50-ENT-BIO-0336886,taxon_authority,"(Cope, 1868) ",https://api.gbif.org/v1/species/2362183
+LIBSRC-LIB50-ENT-BIO-0569186,scientific_identity,Pristimantis aureoventris,https://api.gbif.org/v1/species/7893203
+LIBSRC-LIB50-ENT-BIO-0569186,taxon_authority,"Kok, Means & Bossuyt, 2011",https://api.gbif.org/v1/species/7893203
+LIBSRC-LIB50-ENT-BIO-1926366,scientific_identity,Parotocinclus fluminense,https://api.gbif.org/v1/species/9240156
+LIBSRC-LIB50-ENT-BIO-1926366,taxon_authority,"Roxo, Melo, Silva & Oliveira, 2017",https://api.gbif.org/v1/species/9240156
+LIBSRC-LIB50-ENT-BIO-0908166,scientific_identity,Holbrookia lacerata,https://api.gbif.org/v1/species/2451451
+LIBSRC-LIB50-ENT-BIO-0908166,taxon_authority,"Cope, 1880",https://api.gbif.org/v1/species/2451451
+LIBSRC-LIB50-ENT-BIO-0125536,scientific_identity,Halichoeres marginatus,https://api.gbif.org/v1/species/2384102
+LIBSRC-LIB50-ENT-BIO-0125536,taxon_authority,"Rüppell, 1835",https://api.gbif.org/v1/species/2384102
+LIBSRC-LIB50-ENT-BIO-0124346,scientific_identity,Hyperolius lucani,https://api.gbif.org/v1/species/5217716
+LIBSRC-LIB50-ENT-BIO-0124346,taxon_authority,"Rochebrune, 1885",https://api.gbif.org/v1/species/5217716
+LIBSRC-LIB50-ENT-BIO-0559836,scientific_identity,Hemidactylus pakkamalaiensis,https://api.gbif.org/v1/species/12248608
+LIBSRC-LIB50-ENT-BIO-0559836,taxon_authority,"Narayanan, Christopher, Raman, Mukherjee, Vimalraj & Deepak, 2023",https://api.gbif.org/v1/species/12248608
+LIBSRC-LIB50-ENT-BIO-0658776,scientific_identity,Myliobates striatus,https://api.gbif.org/v1/species/9563064
+LIBSRC-LIB50-ENT-BIO-0658776,taxon_authority,"(Agassiz, 1843) ",https://api.gbif.org/v1/species/9563064
+LIBSRC-LIB50-ENT-BIO-0388736,scientific_identity,Crenicichla isbrueckeri,https://api.gbif.org/v1/species/2371050
+LIBSRC-LIB50-ENT-BIO-0388736,taxon_authority,"Ploeg, 1991",https://api.gbif.org/v1/species/2371050
+LIBSRC-LIB50-ENT-BIO-1441356,scientific_identity,Potamarius nelsoni,https://api.gbif.org/v1/species/2345045
+LIBSRC-LIB50-ENT-BIO-1441356,taxon_authority,"(Evermann & Goldsborough, 1902) ",https://api.gbif.org/v1/species/2345045
+LIBSRC-LIB50-ENT-BIO-0636506,scientific_identity,Antigonia emanuela,https://api.gbif.org/v1/species/10866006
+LIBSRC-LIB50-ENT-BIO-0636506,taxon_authority,"Prokofiev, Psomadakis & Gon, 2020",https://api.gbif.org/v1/species/10866006
+LIBSRC-LIB50-ENT-BIO-0330256,scientific_identity,Schizothorax prenanti,https://api.gbif.org/v1/species/2363628
+LIBSRC-LIB50-ENT-BIO-0330256,taxon_authority,"(Tchang, 1930) ",https://api.gbif.org/v1/species/2363628
+LIBSRC-LIB50-ENT-BIO-1611016,scientific_identity,Salminus affinis,https://api.gbif.org/v1/species/2354782
+LIBSRC-LIB50-ENT-BIO-1611016,taxon_authority,"Steindachner, 1880",https://api.gbif.org/v1/species/2354782
+LIBSRC-LIB50-ENT-BIO-1801076,scientific_identity,Apogonichthyoides cantoris,https://api.gbif.org/v1/species/5962037
+LIBSRC-LIB50-ENT-BIO-1801076,taxon_authority,"(Bleeker, 1851) ",https://api.gbif.org/v1/species/5962037
+LIBSRC-LIB50-ENT-BIO-0335696,scientific_identity,Hampala sabana,https://api.gbif.org/v1/species/2367435
+LIBSRC-LIB50-ENT-BIO-0335696,taxon_authority,"Inger & Chin, 1962",https://api.gbif.org/v1/species/2367435
+LIBSRC-LIB50-ENT-BIO-0392136,scientific_identity,Hemigrammus iota,https://api.gbif.org/v1/species/2354387
+LIBSRC-LIB50-ENT-BIO-0392136,taxon_authority,"Durbin, 1909",https://api.gbif.org/v1/species/2354387
+LIBSRC-LIB50-ENT-BIO-1808556,scientific_identity,Fulgurotherium australe,https://api.gbif.org/v1/species/11149784
+LIBSRC-LIB50-ENT-BIO-1808556,taxon_authority,"Huene, 1932",https://api.gbif.org/v1/species/11149784
+LIBSRC-LIB50-ENT-BIO-1326946,scientific_identity,Coelodus brownii,https://api.gbif.org/v1/species/11141860
+LIBSRC-LIB50-ENT-BIO-1326946,taxon_authority,"Cope, 1894",https://api.gbif.org/v1/species/11141860
+LIBSRC-LIB50-ENT-BIO-1617646,scientific_identity,Ptychodus schlottheimii,https://api.gbif.org/v1/species/11197526
+LIBSRC-LIB50-ENT-BIO-1617646,taxon_authority,"Agassiz, 1834",https://api.gbif.org/v1/species/11197526
+LIBSRC-LIB50-ENT-BIO-0693796,scientific_identity,Fayolia sharovi,https://api.gbif.org/v1/species/11154432
+LIBSRC-LIB50-ENT-BIO-0693796,taxon_authority,"Fischer et al., 2011",https://api.gbif.org/v1/species/11154432
+LIBSRC-LIB50-ENT-BIO-0220436,scientific_identity,Dipturus amphispinus,https://api.gbif.org/v1/species/8302627
+LIBSRC-LIB50-ENT-BIO-0220436,taxon_authority,"Last & Alava, 2013",https://api.gbif.org/v1/species/8302627
+LIBSRC-LIB50-ENT-BIO-0222136,scientific_identity,Cruriraja durbanensis,https://api.gbif.org/v1/species/2419846
+LIBSRC-LIB50-ENT-BIO-0222136,taxon_authority,"(von Bonde & Swart, 1923) ",https://api.gbif.org/v1/species/2419846
+LIBSRC-LIB50-ENT-BIO-0139986,scientific_identity,Praealticus tanegasimae,https://api.gbif.org/v1/species/2395495
+LIBSRC-LIB50-ENT-BIO-0139986,taxon_authority,"(Jordan & Starks, 1906) ",https://api.gbif.org/v1/species/2395495
+LIBSRC-LIB50-ENT-BIO-0949646,scientific_identity,Parascolopsis townsendi,https://api.gbif.org/v1/species/2380150
+LIBSRC-LIB50-ENT-BIO-0949646,taxon_authority,"Boulenger, 1901",https://api.gbif.org/v1/species/2380150
+LIBSRC-LIB50-ENT-BIO-0384146,scientific_identity,Chromidotilapia schoutedeni,https://api.gbif.org/v1/species/2371104
+LIBSRC-LIB50-ENT-BIO-0384146,taxon_authority,"(Poll & Thys van den Audenaerde, 1967) ",https://api.gbif.org/v1/species/2371104
+LIBSRC-LIB50-ENT-BIO-0961716,scientific_identity,Anodontosaurus inceptus,https://api.gbif.org/v1/species/11200966
+LIBSRC-LIB50-ENT-BIO-0961716,taxon_authority,"Penkalski, 2018",https://api.gbif.org/v1/species/11200966
+LIBSRC-LIB50-ENT-BIO-0923126,scientific_identity,Lophogobius bleekeri,https://api.gbif.org/v1/species/2376035
+LIBSRC-LIB50-ENT-BIO-0923126,taxon_authority,"Popta, 1921",https://api.gbif.org/v1/species/2376035
+LIBSRC-LIB50-ENT-BIO-1604216,scientific_identity,Gymnocranius elongatus,https://api.gbif.org/v1/species/2374996
+LIBSRC-LIB50-ENT-BIO-1604216,taxon_authority,"Senta, 1973",https://api.gbif.org/v1/species/2374996
+LIBSRC-LIB50-ENT-BIO-0931626,scientific_identity,Trimma preclarum,https://api.gbif.org/v1/species/2378604
+LIBSRC-LIB50-ENT-BIO-0931626,taxon_authority,"Winterbottom, 2006",https://api.gbif.org/v1/species/2378604
+LIBSRC-LIB50-ENT-BIO-0994866,scientific_identity,Venustodus variabilis,https://api.gbif.org/v1/species/9055206
+LIBSRC-LIB50-ENT-BIO-0994866,taxon_authority,"Saint John & Worthen, 1875",https://api.gbif.org/v1/species/9055206
+LIBSRC-LIB50-ENT-BIO-0128256,scientific_identity,Semicossyphus darwini,https://api.gbif.org/v1/species/2384407
+LIBSRC-LIB50-ENT-BIO-0128256,taxon_authority,"(Jenyns, 1842) ",https://api.gbif.org/v1/species/2384407
+LIBSRC-LIB50-ENT-BIO-1980256,scientific_identity,Pachydectes elsi,https://api.gbif.org/v1/species/4975444
+LIBSRC-LIB50-ENT-BIO-1980256,taxon_authority,"Rubidge et al., 2006",https://api.gbif.org/v1/species/4975444
+LIBSRC-LIB50-ENT-BIO-0115846,scientific_identity,Chlorurus spilurus,https://api.gbif.org/v1/species/5788023
+LIBSRC-LIB50-ENT-BIO-0115846,taxon_authority,"(Valenciennes, 1840) ",https://api.gbif.org/v1/species/5788023
+LIBSRC-LIB50-ENT-BIO-2271296,scientific_identity,Roa uejoi,https://api.gbif.org/v1/species/11516127
+LIBSRC-LIB50-ENT-BIO-2271296,taxon_authority,"Matsunuma & Motomura, 2022",https://api.gbif.org/v1/species/11516127
+LIBSRC-LIB50-ENT-BIO-2294586,scientific_identity,Psammosteus granulatus,https://api.gbif.org/v1/species/8543000
+LIBSRC-LIB50-ENT-BIO-2294586,taxon_authority,"M'Coy, 1848",https://api.gbif.org/v1/species/8543000
+LIBSRC-LIB50-ENT-BIO-1082146,scientific_identity,Callionymus bifilum,https://api.gbif.org/v1/species/2386916
+LIBSRC-LIB50-ENT-BIO-1082146,taxon_authority,"Fricke, 2000",https://api.gbif.org/v1/species/2386916
+LIBSRC-LIB50-ENT-BIO-1557976,scientific_identity,Ophiclinus antarcticus,https://api.gbif.org/v1/species/2380232
+LIBSRC-LIB50-ENT-BIO-1557976,taxon_authority,"Castelnau, 1872",https://api.gbif.org/v1/species/2380232
+LIBSRC-LIB50-ENT-BIO-1305696,scientific_identity,Lairdina hopletupus,https://api.gbif.org/v1/species/9171202
+LIBSRC-LIB50-ENT-BIO-1305696,taxon_authority,"Fowler, 1953",https://api.gbif.org/v1/species/9171202
+LIBSRC-LIB50-ENT-BIO-0125196,scientific_identity,Priscacara serrata,https://api.gbif.org/v1/species/8467890
+LIBSRC-LIB50-ENT-BIO-0125196,taxon_authority,"Cope, 1877",https://api.gbif.org/v1/species/8467890
+LIBSRC-LIB50-ENT-BIO-0982796,scientific_identity,Chomatodus angustus,https://api.gbif.org/v1/species/11146678
+LIBSRC-LIB50-ENT-BIO-0982796,taxon_authority,"Newberry, 1879",https://api.gbif.org/v1/species/11146678
+LIBSRC-LIB50-ENT-BIO-1359076,scientific_identity,Trichonotus filamentosus,https://api.gbif.org/v1/species/5210845
+LIBSRC-LIB50-ENT-BIO-1359076,taxon_authority,"(Steindachner, 1867) ",https://api.gbif.org/v1/species/5210845
+LIBSRC-LIB50-ENT-BIO-0922446,scientific_identity,Acanthogobius lactipes,https://api.gbif.org/v1/species/2375970
+LIBSRC-LIB50-ENT-BIO-0922446,taxon_authority,"(Hilgendorf, 1879) ",https://api.gbif.org/v1/species/2375970
+LIBSRC-LIB50-ENT-BIO-0384486,scientific_identity,Pseudotropheus tursiops,https://api.gbif.org/v1/species/2373095
+LIBSRC-LIB50-ENT-BIO-0384486,taxon_authority,"Burgess & Axelrod, 1975",https://api.gbif.org/v1/species/2373095
+LIBSRC-LIB50-ENT-BIO-0919726,scientific_identity,Microraptor hanqingi,https://api.gbif.org/v1/species/8663245
+LIBSRC-LIB50-ENT-BIO-0919726,taxon_authority,"Gong et al., 2012",https://api.gbif.org/v1/species/8663245
+LIBSRC-LIB50-ENT-BIO-0383976,scientific_identity,Biotodoma wavrini,https://api.gbif.org/v1/species/2372966
+LIBSRC-LIB50-ENT-BIO-0383976,taxon_authority,"(Gosse, 1963) ",https://api.gbif.org/v1/species/2372966
+LIBSRC-LIB50-ENT-BIO-0320226,scientific_identity,Rhamphodopsis trispinatus,https://api.gbif.org/v1/species/11188612
+LIBSRC-LIB50-ENT-BIO-0320226,taxon_authority,"Watson, 1938",https://api.gbif.org/v1/species/11188612
+LIBSRC-LIB50-ENT-BIO-0711986,scientific_identity,Sulaimanisaurus gingrechi,https://api.gbif.org/v1/species/9260654
+LIBSRC-LIB50-ENT-BIO-0711986,taxon_authority,"Malkani, 2004",https://api.gbif.org/v1/species/9260654
+LIBSRC-LIB50-ENT-BIO-0458176,scientific_identity,Atelomycterus erdmanni,https://api.gbif.org/v1/species/7530671
+LIBSRC-LIB50-ENT-BIO-0458176,taxon_authority,"Fahmi & White, 2015",https://api.gbif.org/v1/species/7530671
+LIBSRC-LIB50-ENT-BIO-0148316,scientific_identity,Squalus japonicus,https://api.gbif.org/v1/species/5216337
+LIBSRC-LIB50-ENT-BIO-0148316,taxon_authority,"Ishikawa, 1908",https://api.gbif.org/v1/species/5216337
+LIBSRC-LIB50-ENT-BIO-0190476,scientific_identity,Brachysomus minor,https://api.gbif.org/v1/species/8620687
+LIBSRC-LIB50-ENT-BIO-0190476,taxon_authority,"(Liu, 2003) ",https://api.gbif.org/v1/species/8620687
+LIBSRC-LIB50-ENT-BIO-0980756,scientific_identity,Dactylodus latus,https://api.gbif.org/v1/species/11184690
+LIBSRC-LIB50-ENT-BIO-0980756,taxon_authority,"(Newberry, 1897) ",https://api.gbif.org/v1/species/11184690
+LIBSRC-LIB50-ENT-BIO-0693966,scientific_identity,Centrophorus squamosus,https://api.gbif.org/v1/species/5216430
+LIBSRC-LIB50-ENT-BIO-0693966,taxon_authority,"(Bonnaterre, 1788) ",https://api.gbif.org/v1/species/5216430
+LIBSRC-LIB50-ENT-BIO-0902896,scientific_identity,Leptolepis macrocephalus,https://api.gbif.org/v1/species/11871646
+LIBSRC-LIB50-ENT-BIO-0902896,taxon_authority,"(Schroeder, 1956) ",https://api.gbif.org/v1/species/11871646
+LIBSRC-LIB50-ENT-BIO-1685476,scientific_identity,Ischypterus elegans,https://api.gbif.org/v1/species/11169069
+LIBSRC-LIB50-ENT-BIO-1685476,taxon_authority,"(Newberry, 1888) ",https://api.gbif.org/v1/species/11169069
+LIBSRC-LIB50-ENT-BIO-2134106,scientific_identity,Bishanopliosaurus youngi,https://api.gbif.org/v1/species/8490080
+LIBSRC-LIB50-ENT-BIO-2134106,taxon_authority,"Dong, 1980",https://api.gbif.org/v1/species/8490080
+LIBSRC-LIB50-ENT-BIO-0802256,scientific_identity,Callawayasaurus columbiensis,https://api.gbif.org/v1/species/4968455
+LIBSRC-LIB50-ENT-BIO-0802256,taxon_authority,"Welles, 1962",https://api.gbif.org/v1/species/4968455
+LIBSRC-LIB50-ENT-BIO-2545012,scientific_identity,Basanistes briani,https://api.gbif.org/v1/species/5719447
+LIBSRC-LIB50-ENT-BIO-2545012,taxon_authority,"Markevich, 1936",https://api.gbif.org/v1/species/5719447
+LIBSRC-LIB50-ENT-BIO-2544469,scientific_identity,Anaclavella filifera,https://api.gbif.org/v1/species/4329675
+LIBSRC-LIB50-ENT-BIO-2544469,taxon_authority,"Kabata, 1992",https://api.gbif.org/v1/species/4329675
+LIBSRC-LIB50-ENT-BIO-0078616,scientific_identity,Scoliodon macrorhynchos,https://api.gbif.org/v1/species/7406079
+LIBSRC-LIB50-ENT-BIO-0078616,taxon_authority,"(Bleeker, 1852) ",https://api.gbif.org/v1/species/7406079
+LIBSRC-LIB50-ENT-BIO-1101866,scientific_identity,Hylaeochampsa vectiana,https://api.gbif.org/v1/species/8496609
+LIBSRC-LIB50-ENT-BIO-1101866,taxon_authority,"Owen, 1874",https://api.gbif.org/v1/species/8496609
+LIBSRC-LIB50-ENT-BIO-0694136,scientific_identity,Termatosaurus crocodilinus,https://api.gbif.org/v1/species/8537066
+LIBSRC-LIB50-ENT-BIO-0694136,taxon_authority,"Quenstedt, 1858",https://api.gbif.org/v1/species/8537066
+LIBSRC-LIB50-ENT-BIO-0106836,scientific_identity,Galeus pristodontus,https://api.gbif.org/v1/species/5816362
+LIBSRC-LIB50-ENT-BIO-0106836,taxon_authority,"(Agassiz, 1835) ",https://api.gbif.org/v1/species/5816362
+LIBSRC-LIB50-ENT-BIO-0638886,scientific_identity,Megaloolithus siruguei,https://api.gbif.org/v1/species/4967369
+LIBSRC-LIB50-ENT-BIO-0638886,taxon_authority,"Vianey-Liaud et al., 1994",https://api.gbif.org/v1/species/4967369
+LIBSRC-LIB50-ENT-BIO-1371486,scientific_identity,Pristis lathami,https://api.gbif.org/v1/species/5935768
+LIBSRC-LIB50-ENT-BIO-1371486,taxon_authority,"Galeotti, 1837",https://api.gbif.org/v1/species/5935768
+LIBSRC-LIB50-ENT-BIO-2185446,scientific_identity,Talmontopus tersi,https://api.gbif.org/v1/species/4966103
+LIBSRC-LIB50-ENT-BIO-2185446,taxon_authority,"Lapparent & Montenat, 1967",https://api.gbif.org/v1/species/4966103
+LIBSRC-LIB50-ENT-BIO-1907666,scientific_identity,Dasyatis datasi,https://api.gbif.org/v1/species/11180557
+LIBSRC-LIB50-ENT-BIO-1907666,taxon_authority,"Noubhani & Cappetta, 1997",https://api.gbif.org/v1/species/11180557
+LIBSRC-LIB50-ENT-BIO-1203186,scientific_identity,Ovaloolithus weiqiaoensis,https://api.gbif.org/v1/species/8689502
+LIBSRC-LIB50-ENT-BIO-1203186,taxon_authority,"Yu, 1998",https://api.gbif.org/v1/species/8689502
+LIBSRC-LIB50-ENT-BIO-2309716,scientific_identity,Tretosternum ambiguum,https://api.gbif.org/v1/species/11188284
+LIBSRC-LIB50-ENT-BIO-2309716,taxon_authority,"(Gaudry, 1890) ",https://api.gbif.org/v1/species/11188284
+LIBSRC-LIB50-ENT-BIO-1318956,scientific_identity,Pelobates fuscus,https://api.gbif.org/v1/species/2430567
+LIBSRC-LIB50-ENT-BIO-1318956,taxon_authority,"(Laurenti, 1768) ",https://api.gbif.org/v1/species/2430567
+LIBSRC-LIB50-ENT-BIO-0849856,scientific_identity,Axoclinus lucillae,https://api.gbif.org/v1/species/2392845
+LIBSRC-LIB50-ENT-BIO-0849856,taxon_authority,"Fowler, 1944",https://api.gbif.org/v1/species/2392845
+LIBSRC-LIB50-ENT-BIO-0851896,scientific_identity,Enneapterygius abeli,https://api.gbif.org/v1/species/2392967
+LIBSRC-LIB50-ENT-BIO-0851896,taxon_authority,"(Klausewitz, 1960) ",https://api.gbif.org/v1/species/2392967
+LIBSRC-LIB50-ENT-BIO-0569356,scientific_identity,Pristimantis thectopternus,https://api.gbif.org/v1/species/2425150
+LIBSRC-LIB50-ENT-BIO-0569356,taxon_authority,"(Lynch, 1975) ",https://api.gbif.org/v1/species/2425150
+LIBSRC-LIB50-ENT-BIO-0568336,scientific_identity,Craugastor gutschei,https://api.gbif.org/v1/species/10818441
+LIBSRC-LIB50-ENT-BIO-0568336,taxon_authority,"McCranie, 2018",https://api.gbif.org/v1/species/10818441
+LIBSRC-LIB50-ENT-BIO-1007856,scientific_identity,Boana joaquini,https://api.gbif.org/v1/species/5218004
+LIBSRC-LIB50-ENT-BIO-1007856,taxon_authority,"(Lutz, 1968) ",https://api.gbif.org/v1/species/5218004
+LIBSRC-LIB50-ENT-BIO-0113466,scientific_identity,Scarus nigricans,https://api.gbif.org/v1/species/9319097
+LIBSRC-LIB50-ENT-BIO-0113466,taxon_authority,"Rüppell, 1829",https://api.gbif.org/v1/species/9319097
+LIBSRC-LIB50-ENT-BIO-0114146,scientific_identity,Nicholsina denticulata,https://api.gbif.org/v1/species/2393453
+LIBSRC-LIB50-ENT-BIO-0114146,taxon_authority,"(Evermann & Radcliffe, 1917) ",https://api.gbif.org/v1/species/2393453
+LIBSRC-LIB50-ENT-BIO-1324736,scientific_identity,Adenomus kandianus,https://api.gbif.org/v1/species/2423084
+LIBSRC-LIB50-ENT-BIO-1324736,taxon_authority,"(Günther, 1872) ",https://api.gbif.org/v1/species/2423084
+LIBSRC-LIB50-ENT-BIO-0177046,scientific_identity,Lutjanus adetii,https://api.gbif.org/v1/species/2384799
+LIBSRC-LIB50-ENT-BIO-0177046,taxon_authority,"(Castelnau, 1873) ",https://api.gbif.org/v1/species/2384799
+LIBSRC-LIB50-ENT-BIO-0884536,scientific_identity,Pempheris ellipse,https://api.gbif.org/v1/species/8847354
+LIBSRC-LIB50-ENT-BIO-0884536,taxon_authority,"Randall & Victor, 2015",https://api.gbif.org/v1/species/8847354
+LIBSRC-LIB50-ENT-BIO-0675946,scientific_identity,Nanorana arunachalensis,https://api.gbif.org/v1/species/12175348
+LIBSRC-LIB50-ENT-BIO-0675946,taxon_authority,"(Saikia, Sinha & Kharkongor, 2017) ",https://api.gbif.org/v1/species/12175348
+LIBSRC-LIB50-ENT-BIO-1016696,scientific_identity,Gephyromantis ceratophrys,https://api.gbif.org/v1/species/10841987
+LIBSRC-LIB50-ENT-BIO-1016696,taxon_authority,"(Ahl, 1929) ",https://api.gbif.org/v1/species/10841987
+LIBSRC-LIB50-ENT-BIO-1314366,scientific_identity,Trachurus indicus,https://api.gbif.org/v1/species/5210485
+LIBSRC-LIB50-ENT-BIO-1314366,taxon_authority,"Nekrasov, 1966",https://api.gbif.org/v1/species/5210485
+LIBSRC-LIB50-ENT-BIO-1683776,scientific_identity,Leptodactylodon polyacanthus,https://api.gbif.org/v1/species/2429616
+LIBSRC-LIB50-ENT-BIO-1683776,taxon_authority,"Amiet, 1971",https://api.gbif.org/v1/species/2429616
+LIBSRC-LIB50-ENT-BIO-2172526,scientific_identity,Trioceros oweni,https://api.gbif.org/v1/species/8225924
+LIBSRC-LIB50-ENT-BIO-2172526,taxon_authority,"(Gray, 1831) ",https://api.gbif.org/v1/species/8225924
+LIBSRC-LIB50-ENT-BIO-0535356,scientific_identity,Litoria iris,https://api.gbif.org/v1/species/2427897
+LIBSRC-LIB50-ENT-BIO-0535356,taxon_authority,"(Tyler, 1962) ",https://api.gbif.org/v1/species/2427897
+LIBSRC-LIB50-ENT-BIO-0657756,scientific_identity,Aetomylaeus milvus,https://api.gbif.org/v1/species/2419264
+LIBSRC-LIB50-ENT-BIO-0657756,taxon_authority,"(Müller & Henle, 1841) ",https://api.gbif.org/v1/species/2419264
+LIBSRC-LIB50-ENT-BIO-1251976,scientific_identity,Ichthyscopus nigripinnis,https://api.gbif.org/v1/species/2394440
+LIBSRC-LIB50-ENT-BIO-1251976,taxon_authority,"Gomon & Johnson, 1999",https://api.gbif.org/v1/species/2394440
+LIBSRC-LIB50-ENT-BIO-1287166,scientific_identity,Vermicella paulmulvanyi,https://api.gbif.org/v1/species/10520583
+LIBSRC-LIB50-ENT-BIO-1287166,taxon_authority,"Hoser, 2019",https://api.gbif.org/v1/species/10520583
+LIBSRC-LIB50-ENT-BIO-2417836,scientific_identity,Estesina elegans,https://api.gbif.org/v1/species/8457943
+LIBSRC-LIB50-ENT-BIO-2417836,taxon_authority,"Ročec & Nessov, 1993",https://api.gbif.org/v1/species/8457943
+LIBSRC-LIB50-ENT-BIO-1794106,scientific_identity,Mullus arnoldorum,https://api.gbif.org/v1/species/8772744
+LIBSRC-LIB50-ENT-BIO-1794106,taxon_authority,"Curtiss, 1938",https://api.gbif.org/v1/species/8772744
+LIBSRC-LIB50-ENT-BIO-1307056,scientific_identity,Giuris margaritacea,https://api.gbif.org/v1/species/4285919
+LIBSRC-LIB50-ENT-BIO-1307056,taxon_authority,"(Valenciennes, 1837) ",https://api.gbif.org/v1/species/4285919
+LIBSRC-LIB50-ENT-BIO-1306376,scientific_identity,Eleotris fasciatus,https://api.gbif.org/v1/species/2386131
+LIBSRC-LIB50-ENT-BIO-1306376,taxon_authority,"Chen, 1964",https://api.gbif.org/v1/species/2386131
+LIBSRC-LIB50-ENT-BIO-2195816,scientific_identity,Exostinus lancensis,https://api.gbif.org/v1/species/4968221
+LIBSRC-LIB50-ENT-BIO-2195816,taxon_authority,"Gilmore, 1928",https://api.gbif.org/v1/species/4968221
+LIBSRC-LIB50-ENT-BIO-0509346,scientific_identity,Carangopsis brevis,https://api.gbif.org/v1/species/8973167
+LIBSRC-LIB50-ENT-BIO-0509346,taxon_authority,"Blainville, 1818",https://api.gbif.org/v1/species/8973167
+LIBSRC-LIB50-ENT-BIO-1727296,scientific_identity,Uromastyx ocellata,https://api.gbif.org/v1/species/2466180
+LIBSRC-LIB50-ENT-BIO-1727296,taxon_authority,"Lichtenstein, 1823",https://api.gbif.org/v1/species/2466180
+LIBSRC-LIB50-ENT-BIO-1722536,scientific_identity,Diporiphora carpentariensis,https://api.gbif.org/v1/species/11197841
+LIBSRC-LIB50-ENT-BIO-1722536,taxon_authority,"Melville, Date, Horner & Doughty, 2019",https://api.gbif.org/v1/species/11197841
+LIBSRC-LIB50-ENT-BIO-1727636,scientific_identity,Salea horsfieldii,https://api.gbif.org/v1/species/2466585
+LIBSRC-LIB50-ENT-BIO-1727636,taxon_authority,"Gray, 1845",https://api.gbif.org/v1/species/2466585
+LIBSRC-LIB50-ENT-BIO-1617136,scientific_identity,Placosoma glabellum,https://api.gbif.org/v1/species/5222371
+LIBSRC-LIB50-ENT-BIO-1617136,taxon_authority,"(Peters, 1870) ",https://api.gbif.org/v1/species/5222371
+LIBSRC-LIB50-ENT-BIO-0508836,scientific_identity,Melanerpeton sembachense,https://api.gbif.org/v1/species/9579634
+LIBSRC-LIB50-ENT-BIO-0508836,taxon_authority,"Werneburg, 1989",https://api.gbif.org/v1/species/9579634
+LIBSRC-LIB50-ENT-BIO-1903076,scientific_identity,Peprilus crenulatus,https://api.gbif.org/v1/species/7770404
+LIBSRC-LIB50-ENT-BIO-1903076,taxon_authority,"Cuvier, 1829",https://api.gbif.org/v1/species/7770404
+LIBSRC-LIB50-ENT-BIO-1351936,scientific_identity,Mastodonsaurus granulosus,https://api.gbif.org/v1/species/9444260
+LIBSRC-LIB50-ENT-BIO-1351936,taxon_authority,"(Fraas, 1889) ",https://api.gbif.org/v1/species/9444260
+LIBSRC-LIB50-ENT-BIO-2498557,scientific_identity,Gerres phaiya,https://api.gbif.org/v1/species/2369455
+LIBSRC-LIB50-ENT-BIO-2498557,taxon_authority,"Iwatsuki & Heemstra, 2001",https://api.gbif.org/v1/species/2369455
+LIBSRC-LIB50-ENT-BIO-0129446,scientific_identity,Macropharyngodon geoffroy,https://api.gbif.org/v1/species/2383665
+LIBSRC-LIB50-ENT-BIO-0129446,taxon_authority,"(Quoy & Gaimard, 1824) ",https://api.gbif.org/v1/species/2383665
+LIBSRC-LIB50-ENT-BIO-0129106,scientific_identity,Cirrhilabrus flavidorsalis,https://api.gbif.org/v1/species/2383863
+LIBSRC-LIB50-ENT-BIO-0129106,taxon_authority,"Randall & Carpenter, 1980",https://api.gbif.org/v1/species/2383863
+LIBSRC-LIB50-ENT-BIO-1906816,scientific_identity,Urogymnus asperrimus,https://api.gbif.org/v1/species/2419580
+LIBSRC-LIB50-ENT-BIO-1906816,taxon_authority,"(Bloch & Schneider, 1801) ",https://api.gbif.org/v1/species/2419580
+LIBSRC-LIB50-ENT-BIO-0129276,scientific_identity,Paracheilinus mccoskeri,https://api.gbif.org/v1/species/2383903
+LIBSRC-LIB50-ENT-BIO-0129276,taxon_authority,"Randall & Harmelin-Vivien, 1977",https://api.gbif.org/v1/species/2383903
+LIBSRC-LIB50-ENT-BIO-1625976,scientific_identity,Necturus punctatus,https://api.gbif.org/v1/species/2432059
+LIBSRC-LIB50-ENT-BIO-1625976,taxon_authority,"(Gibbes, 1850) ",https://api.gbif.org/v1/species/2432059
+LIBSRC-LIB50-ENT-BIO-1283596,scientific_identity,Micrurus dissoleucus,https://api.gbif.org/v1/species/5226865
+LIBSRC-LIB50-ENT-BIO-1283596,taxon_authority,"Cope, 1860",https://api.gbif.org/v1/species/5226865
+LIBSRC-LIB50-ENT-BIO-0131316,scientific_identity,Afrixalus aureus,https://api.gbif.org/v1/species/2426558
+LIBSRC-LIB50-ENT-BIO-0131316,taxon_authority,"Pickersgill, 1984",https://api.gbif.org/v1/species/2426558
+LIBSRC-LIB50-ENT-BIO-0125876,scientific_identity,Chromis unipa,https://api.gbif.org/v1/species/5212218
+LIBSRC-LIB50-ENT-BIO-0125876,taxon_authority,"Allen & Erdmann, 2009",https://api.gbif.org/v1/species/5212218
+LIBSRC-LIB50-ENT-BIO-0137436,scientific_identity,Istiblennius dussumieri,https://api.gbif.org/v1/species/2395247
+LIBSRC-LIB50-ENT-BIO-0137436,taxon_authority,"(Valenciennes, 1836) ",https://api.gbif.org/v1/species/2395247
+LIBSRC-LIB50-ENT-BIO-0136246,scientific_identity,Enchelyurus brunneolus,https://api.gbif.org/v1/species/2395527
+LIBSRC-LIB50-ENT-BIO-0136246,taxon_authority,"(Jenkins, 1903) ",https://api.gbif.org/v1/species/2395527
+LIBSRC-LIB50-ENT-BIO-0140326,scientific_identity,Ecsenius oculus,https://api.gbif.org/v1/species/2396019
+LIBSRC-LIB50-ENT-BIO-0140326,taxon_authority,"Springer, 1971",https://api.gbif.org/v1/species/2396019
+LIBSRC-LIB50-ENT-BIO-1974646,scientific_identity,Coleonyx elegans,https://api.gbif.org/v1/species/2447255
+LIBSRC-LIB50-ENT-BIO-1974646,taxon_authority,"Gray, 1845",https://api.gbif.org/v1/species/2447255
+LIBSRC-LIB50-ENT-BIO-1082316,scientific_identity,Callionymus decoratus,https://api.gbif.org/v1/species/2386815
+LIBSRC-LIB50-ENT-BIO-1082316,taxon_authority,"(Gilbert, 1905) ",https://api.gbif.org/v1/species/2386815
+LIBSRC-LIB50-ENT-BIO-1085886,scientific_identity,Diplogrammus goramensis,https://api.gbif.org/v1/species/5209946
+LIBSRC-LIB50-ENT-BIO-1085886,taxon_authority,"(Bleeker, 1858) ",https://api.gbif.org/v1/species/5209946
+LIBSRC-LIB50-ENT-BIO-1317766,scientific_identity,Atractus serranus,https://api.gbif.org/v1/species/5223953
+LIBSRC-LIB50-ENT-BIO-1317766,taxon_authority,"Amaral, 1930",https://api.gbif.org/v1/species/5223953
+LIBSRC-LIB50-ENT-BIO-1318106,scientific_identity,Rhamnophis batesii,https://api.gbif.org/v1/species/2454364
+LIBSRC-LIB50-ENT-BIO-1318106,taxon_authority,"(Boulenger, 1908) ",https://api.gbif.org/v1/species/2454364
+LIBSRC-LIB50-ENT-BIO-1319976,scientific_identity,Dipsas praeornata,https://api.gbif.org/v1/species/7507696
+LIBSRC-LIB50-ENT-BIO-1319976,taxon_authority,"(Werner, 1909) ",https://api.gbif.org/v1/species/7507696
+LIBSRC-LIB50-ENT-BIO-1320656,scientific_identity,Crotaphopeltis degeni,https://api.gbif.org/v1/species/2455335
+LIBSRC-LIB50-ENT-BIO-1320656,taxon_authority,"(Boulenger, 1906) ",https://api.gbif.org/v1/species/2455335
+LIBSRC-LIB50-ENT-BIO-1323376,scientific_identity,Spalerosophis josephscorteccii,https://api.gbif.org/v1/species/2458794
+LIBSRC-LIB50-ENT-BIO-1323376,taxon_authority,"Lanza, 1964",https://api.gbif.org/v1/species/2458794
+LIBSRC-LIB50-ENT-BIO-1318276,scientific_identity,Contia tenuis,https://api.gbif.org/v1/species/2455975
+LIBSRC-LIB50-ENT-BIO-1318276,taxon_authority,"(Baird & Girard, 1852) ",https://api.gbif.org/v1/species/2455975
+LIBSRC-LIB50-ENT-BIO-0125706,scientific_identity,Iniistius baldwini,https://api.gbif.org/v1/species/2383353
+LIBSRC-LIB50-ENT-BIO-0125706,taxon_authority,"(Jordan & Evermann, 1903) ",https://api.gbif.org/v1/species/2383353
+LIBSRC-LIB50-ENT-BIO-1323886,scientific_identity,Coluber flaviceps,https://api.gbif.org/v1/species/11219291
+LIBSRC-LIB50-ENT-BIO-1323886,taxon_authority,"Gravenhorst, 1807",https://api.gbif.org/v1/species/11219291
+LIBSRC-LIB50-ENT-BIO-1322186,scientific_identity,Chironius spixii,https://api.gbif.org/v1/species/9419132
+LIBSRC-LIB50-ENT-BIO-1322186,taxon_authority,"(Hallowell, 1845) ",https://api.gbif.org/v1/species/9419132
+LIBSRC-LIB50-ENT-BIO-1320486,scientific_identity,Helicops leopardinus,https://api.gbif.org/v1/species/2457694
+LIBSRC-LIB50-ENT-BIO-1320486,taxon_authority,"(Schlegel, 1837) ",https://api.gbif.org/v1/species/2457694
+LIBSRC-LIB50-ENT-BIO-1323716,scientific_identity,Tantilla briggsi,https://api.gbif.org/v1/species/2456416
+LIBSRC-LIB50-ENT-BIO-1323716,taxon_authority,"Savitzky & Smith, 1971",https://api.gbif.org/v1/species/2456416
+LIBSRC-LIB50-ENT-BIO-0293196,scientific_identity,Anolis lyra,https://api.gbif.org/v1/species/8256763
+LIBSRC-LIB50-ENT-BIO-0293196,taxon_authority,"Poe, Velasco, Miyata & Williams, 2009",https://api.gbif.org/v1/species/8256763
+LIBSRC-LIB50-ENT-BIO-1773026,scientific_identity,Cristigerina crassa,https://api.gbif.org/v1/species/11162082
+LIBSRC-LIB50-ENT-BIO-1773026,taxon_authority,"Leriche, 1905",https://api.gbif.org/v1/species/11162082
+LIBSRC-LIB50-ENT-BIO-1774726,scientific_identity,Perca norwegica,https://api.gbif.org/v1/species/8967116
+LIBSRC-LIB50-ENT-BIO-1774726,taxon_authority,"Walbaum, 1792",https://api.gbif.org/v1/species/8967116
+LIBSRC-LIB50-ENT-BIO-1557806,scientific_identity,Leptotyphlops tanae,https://api.gbif.org/v1/species/11871831
+LIBSRC-LIB50-ENT-BIO-1557806,taxon_authority,"Published, 2007",https://api.gbif.org/v1/species/11871831
+LIBSRC-LIB50-ENT-BIO-1973966,scientific_identity,Ernogrammus hexagrammus,https://api.gbif.org/v1/species/2394858
+LIBSRC-LIB50-ENT-BIO-1973966,taxon_authority,"(Schlegel, 1845) ",https://api.gbif.org/v1/species/2394858
+LIBSRC-LIB50-ENT-BIO-1978896,scientific_identity,Lumpenus sagitta,https://api.gbif.org/v1/species/5211330
+LIBSRC-LIB50-ENT-BIO-1978896,taxon_authority,"Wilimovsky, 1956",https://api.gbif.org/v1/species/5211330
+LIBSRC-LIB50-ENT-BIO-0390266,scientific_identity,Apistogramma sororcula,https://api.gbif.org/v1/species/10053512
+LIBSRC-LIB50-ENT-BIO-0390266,taxon_authority,"Staeck & Schindler, 2016",https://api.gbif.org/v1/species/10053512
+LIBSRC-LIB50-ENT-BIO-0387036,scientific_identity,Sarotherodon steinbachi,https://api.gbif.org/v1/species/2372894
+LIBSRC-LIB50-ENT-BIO-0387036,taxon_authority,"(Trewavas, 1962) ",https://api.gbif.org/v1/species/2372894
+LIBSRC-LIB50-ENT-BIO-0384656,scientific_identity,Protomelas labridens,https://api.gbif.org/v1/species/2371496
+LIBSRC-LIB50-ENT-BIO-0384656,taxon_authority,"(Trewavas, 1935) ",https://api.gbif.org/v1/species/2371496
+LIBSRC-LIB50-ENT-BIO-0389246,scientific_identity,Placidochromis acuticeps,https://api.gbif.org/v1/species/2372671
+LIBSRC-LIB50-ENT-BIO-0389246,taxon_authority,"Hanssens, 2004",https://api.gbif.org/v1/species/2372671
+LIBSRC-LIB50-ENT-BIO-0382786,scientific_identity,Lethrinops lunaris,https://api.gbif.org/v1/species/2372723
+LIBSRC-LIB50-ENT-BIO-0382786,taxon_authority,"Trewavas, 1931",https://api.gbif.org/v1/species/2372723
+LIBSRC-LIB50-ENT-BIO-2128326,scientific_identity,Paracrinia lenhoseri,https://api.gbif.org/v1/species/11114096
+LIBSRC-LIB50-ENT-BIO-2128326,taxon_authority,"Hoser, 2020",https://api.gbif.org/v1/species/11114096
+LIBSRC-LIB50-ENT-BIO-2127816,scientific_identity,Crinia nimbus,https://api.gbif.org/v1/species/2424589
+LIBSRC-LIB50-ENT-BIO-2127816,taxon_authority,"(Rounsevell, Ziegeler, Brown, Davies & Littlejohn, 1994) ",https://api.gbif.org/v1/species/2424589
+LIBSRC-LIB50-ENT-BIO-1317426,scientific_identity,Hebius monticola,https://api.gbif.org/v1/species/9487120
+LIBSRC-LIB50-ENT-BIO-1317426,taxon_authority,"(Jerdon, 1853) ",https://api.gbif.org/v1/species/9487120
+LIBSRC-LIB50-ENT-BIO-2015956,scientific_identity,Dermatolepis striolata,https://api.gbif.org/v1/species/2389120
+LIBSRC-LIB50-ENT-BIO-2015956,taxon_authority,"(Playfair, 1867) ",https://api.gbif.org/v1/species/2389120
+LIBSRC-LIB50-ENT-BIO-2013066,scientific_identity,Plectranthias ahiahiata,https://api.gbif.org/v1/species/9811994
+LIBSRC-LIB50-ENT-BIO-2013066,taxon_authority,"Shepherd, Phelps, Pinheiro, Pérez-Matus & Rocha, 2018",https://api.gbif.org/v1/species/9811994
+LIBSRC-LIB50-ENT-BIO-0993506,scientific_identity,Pterocaesio capricornis,https://api.gbif.org/v1/species/2374740
+LIBSRC-LIB50-ENT-BIO-0993506,taxon_authority,"Smith & Smith, 1963",https://api.gbif.org/v1/species/2374740
+LIBSRC-LIB50-ENT-BIO-2443506,scientific_identity,Holcosus niceforoi,https://api.gbif.org/v1/species/8222214
+LIBSRC-LIB50-ENT-BIO-2443506,taxon_authority,"(Dunn, 1943) ",https://api.gbif.org/v1/species/8222214
+LIBSRC-LIB50-ENT-BIO-1798866,scientific_identity,Ostorhinchus multilineatus,https://api.gbif.org/v1/species/7193044
+LIBSRC-LIB50-ENT-BIO-1798866,taxon_authority,"(Bleeker, 1874) ",https://api.gbif.org/v1/species/7193044
+LIBSRC-LIB50-ENT-BIO-1104756,scientific_identity,Raorchestes charius,https://api.gbif.org/v1/species/5785790
+LIBSRC-LIB50-ENT-BIO-1104756,taxon_authority,"(Rao, 1937) ",https://api.gbif.org/v1/species/5785790
+LIBSRC-LIB50-ENT-BIO-2281496,scientific_identity,Chaetodon paucifasciatus,https://api.gbif.org/v1/species/2385551
+LIBSRC-LIB50-ENT-BIO-2281496,taxon_authority,"Ahl, 1923",https://api.gbif.org/v1/species/2385551
+LIBSRC-LIB50-ENT-BIO-2281326,scientific_identity,Chaetodon flavirostris,https://api.gbif.org/v1/species/2385545
+LIBSRC-LIB50-ENT-BIO-2281326,taxon_authority,"Günther, 1874",https://api.gbif.org/v1/species/2385545
+LIBSRC-LIB50-ENT-BIO-0111256,scientific_identity,Micraroter erythrogeios,https://api.gbif.org/v1/species/4964734
+LIBSRC-LIB50-ENT-BIO-0111256,taxon_authority,"Daly, 1973",https://api.gbif.org/v1/species/4964734
+LIBSRC-LIB50-ENT-BIO-0654866,scientific_identity,Anisotremus espinozai,https://api.gbif.org/v1/species/11189993
+LIBSRC-LIB50-ENT-BIO-0654866,taxon_authority,"Acevedo-Álvarez, Ruiz-Campos & Domínguez-Domínguez, 2021",https://api.gbif.org/v1/species/11189993
+LIBSRC-LIB50-ENT-BIO-0564766,scientific_identity,Cnemaspis maculicollis,https://api.gbif.org/v1/species/10328064
+LIBSRC-LIB50-ENT-BIO-0564766,taxon_authority,"Cyriac, Johny, Umesh & Palot, 2018",https://api.gbif.org/v1/species/10328064
+LIBSRC-LIB50-ENT-BIO-1634816,scientific_identity,Crystallodytes enderburyensis,https://api.gbif.org/v1/species/9497031
+LIBSRC-LIB50-ENT-BIO-1634816,taxon_authority,"Schultz, 1943",https://api.gbif.org/v1/species/9497031
+LIBSRC-LIB50-ENT-BIO-0848666,scientific_identity,Alluaudina bellyi,https://api.gbif.org/v1/species/2458632
+LIBSRC-LIB50-ENT-BIO-0848666,taxon_authority,"Mocquard, 1894",https://api.gbif.org/v1/species/2458632
+LIBSRC-LIB50-ENT-BIO-0938086,scientific_identity,Cycloramphus heyeri,https://api.gbif.org/v1/species/12197324
+LIBSRC-LIB50-ENT-BIO-0938086,taxon_authority,"Segalla, Berneck, Canedo, Caramaschi, Cruz, Garcia, Grant, Haddad, Lourenço, Mângia, Mott, Nascimento, Toledo, Werneck & Langone, 2021",https://api.gbif.org/v1/species/12197324
+LIBSRC-LIB50-ENT-BIO-0813136,scientific_identity,Lerista taeniata,https://api.gbif.org/v1/species/2464653
+LIBSRC-LIB50-ENT-BIO-0813136,taxon_authority,"Storr, 1986",https://api.gbif.org/v1/species/2464653
+LIBSRC-LIB50-ENT-BIO-1319296,scientific_identity,Euprepiophis perlaceus,https://api.gbif.org/v1/species/7924675
+LIBSRC-LIB50-ENT-BIO-1319296,taxon_authority,"(Stejneger, 1929) ",https://api.gbif.org/v1/species/7924675
+LIBSRC-LIB50-ENT-BIO-0812626,scientific_identity,Tribolonotus pseudoponceleti,https://api.gbif.org/v1/species/2461076
+LIBSRC-LIB50-ENT-BIO-0812626,taxon_authority,"Greer & Parker, 1968",https://api.gbif.org/v1/species/2461076
+LIBSRC-LIB50-ENT-BIO-0814836,scientific_identity,Dasia griffini,https://api.gbif.org/v1/species/5225566
+LIBSRC-LIB50-ENT-BIO-0814836,taxon_authority,"Taylor, 1915",https://api.gbif.org/v1/species/5225566
+LIBSRC-LIB50-ENT-BIO-0813646,scientific_identity,Typhlacontias gracilis,https://api.gbif.org/v1/species/2461939
+LIBSRC-LIB50-ENT-BIO-0813646,taxon_authority,"Roux, 1907",https://api.gbif.org/v1/species/2461939
+LIBSRC-LIB50-ENT-BIO-0814326,scientific_identity,Emoia aquacauda,https://api.gbif.org/v1/species/10371593
+LIBSRC-LIB50-ENT-BIO-0814326,taxon_authority,"Hoser, 2019",https://api.gbif.org/v1/species/10371593
+LIBSRC-LIB50-ENT-BIO-0815686,scientific_identity,Trachylepis langheldi,https://api.gbif.org/v1/species/11214470
+LIBSRC-LIB50-ENT-BIO-0815686,taxon_authority,"(Sternfeld, 1917) ",https://api.gbif.org/v1/species/11214470
+LIBSRC-LIB50-ENT-BIO-1155076,scientific_identity,Scomber bimaculatus,https://api.gbif.org/v1/species/9088014
+LIBSRC-LIB50-ENT-BIO-1155076,taxon_authority,"Bloch, 1833",https://api.gbif.org/v1/species/9088014
+LIBSRC-LIB50-ENT-BIO-1468216,scientific_identity,Crossodactylus schmidti,https://api.gbif.org/v1/species/2429863
+LIBSRC-LIB50-ENT-BIO-1468216,taxon_authority,"Gallardo, 1961",https://api.gbif.org/v1/species/2429863
+LIBSRC-LIB50-ENT-BIO-0922616,scientific_identity,Coryphopterus curasub,https://api.gbif.org/v1/species/8226338
+LIBSRC-LIB50-ENT-BIO-0922616,taxon_authority,"Baldwin & Robertson, 2015",https://api.gbif.org/v1/species/8226338
+LIBSRC-LIB50-ENT-BIO-0934686,scientific_identity,Callogobius bauchotae,https://api.gbif.org/v1/species/2379358
+LIBSRC-LIB50-ENT-BIO-0934686,taxon_authority,"Goren, 1979",https://api.gbif.org/v1/species/2379358
+LIBSRC-LIB50-ENT-BIO-0922786,scientific_identity,Didogobius kochi,https://api.gbif.org/v1/species/2378242
+LIBSRC-LIB50-ENT-BIO-0922786,taxon_authority,"Van Tassell, 1988",https://api.gbif.org/v1/species/2378242
+LIBSRC-LIB50-ENT-BIO-0925336,scientific_identity,Gobiopsis woodsi,https://api.gbif.org/v1/species/2377169
+LIBSRC-LIB50-ENT-BIO-0925336,taxon_authority,"Lachner & McKinney, 1978",https://api.gbif.org/v1/species/2377169
+LIBSRC-LIB50-ENT-BIO-0928906,scientific_identity,Synechogobius ommaturus,https://api.gbif.org/v1/species/2378659
+LIBSRC-LIB50-ENT-BIO-0928906,taxon_authority,"(Richardson, 1845) ",https://api.gbif.org/v1/species/2378659
+LIBSRC-LIB50-ENT-BIO-0931796,scientific_identity,Acentrogobius violarisi,https://api.gbif.org/v1/species/8982476
+LIBSRC-LIB50-ENT-BIO-0931796,taxon_authority,"Allen, 2015",https://api.gbif.org/v1/species/8982476
+LIBSRC-LIB50-ENT-BIO-0927716,scientific_identity,Valenciennea wardii,https://api.gbif.org/v1/species/2377338
+LIBSRC-LIB50-ENT-BIO-0927716,taxon_authority,"(Playfair, 1867) ",https://api.gbif.org/v1/species/2377338
+LIBSRC-LIB50-ENT-BIO-0927376,scientific_identity,Tryssogobius longipes,https://api.gbif.org/v1/species/2378202
+LIBSRC-LIB50-ENT-BIO-0927376,taxon_authority,"Larson & Hoese, 2001",https://api.gbif.org/v1/species/2378202
+LIBSRC-LIB50-ENT-BIO-0929076,scientific_identity,Bathygobius mystacium,https://api.gbif.org/v1/species/2377093
+LIBSRC-LIB50-ENT-BIO-0929076,taxon_authority,"Ginsburg, 1947",https://api.gbif.org/v1/species/2377093
+LIBSRC-LIB50-ENT-BIO-0931966,scientific_identity,Lentipes andamanicus,https://api.gbif.org/v1/species/4285931
+LIBSRC-LIB50-ENT-BIO-0931966,taxon_authority,"(Mukerji, 1935) ",https://api.gbif.org/v1/species/4285931
+LIBSRC-LIB50-ENT-BIO-0934346,scientific_identity,Eviota oculopiperita,https://api.gbif.org/v1/species/8118484
+LIBSRC-LIB50-ENT-BIO-0934346,taxon_authority,"Greenfield & Bogorodsky, 2014",https://api.gbif.org/v1/species/8118484
+LIBSRC-LIB50-ENT-BIO-1322016,scientific_identity,Siphlophis worontzowi,https://api.gbif.org/v1/species/5959420
+LIBSRC-LIB50-ENT-BIO-1322016,taxon_authority,"(Prado, 1940) ",https://api.gbif.org/v1/species/5959420
+LIBSRC-LIB50-ENT-BIO-0933326,scientific_identity,Gobius voigtii,https://api.gbif.org/v1/species/9137820
+LIBSRC-LIB50-ENT-BIO-0933326,taxon_authority,"Bleeker, 1854",https://api.gbif.org/v1/species/9137820
+LIBSRC-LIB50-ENT-BIO-1763506,scientific_identity,Sparus zipolus,https://api.gbif.org/v1/species/8823945
+LIBSRC-LIB50-ENT-BIO-1763506,taxon_authority,"Rafinesque, 1810",https://api.gbif.org/v1/species/8823945
+LIBSRC-LIB50-ENT-BIO-1148276,scientific_identity,Nandus nandus,https://api.gbif.org/v1/species/2399366
+LIBSRC-LIB50-ENT-BIO-1148276,taxon_authority,"(Hamilton, 1822) ",https://api.gbif.org/v1/species/2399366
+LIBSRC-LIB50-ENT-BIO-0813086,scientific_identity,Testudo,https://api.gbif.org/v1/species/2441658
+LIBSRC-LIB50-ENT-BIO-0813086,taxon_authority,"Linnaeus, 1758",https://api.gbif.org/v1/species/2441658
+LIBSRC-LIB50-ENT-BIO-0114266,scientific_identity,Chelone subcristata,https://api.gbif.org/v1/species/9293883
+LIBSRC-LIB50-ENT-BIO-0114266,taxon_authority,"(Owen, 1841) ",https://api.gbif.org/v1/species/9293883
+LIBSRC-LIB50-ENT-BIO-0816656,scientific_identity,Testudo gringorum,https://api.gbif.org/v1/species/9307679
+LIBSRC-LIB50-ENT-BIO-0816656,taxon_authority,"(Simpson, 1942) ",https://api.gbif.org/v1/species/9307679
+LIBSRC-LIB50-ENT-BIO-2043786,scientific_identity,Belonostomus speciosus,https://api.gbif.org/v1/species/7697577
+LIBSRC-LIB50-ENT-BIO-2043786,taxon_authority,"Wagner, 1863",https://api.gbif.org/v1/species/7697577
+LIBSRC-LIB50-ENT-BIO-2513444,scientific_identity,Sapphirina pyrosomatis,https://api.gbif.org/v1/species/2110659
+LIBSRC-LIB50-ENT-BIO-2513444,taxon_authority,"Giesbrecht, 1893",https://api.gbif.org/v1/species/2110659
+LIBSRC-LIB50-ENT-BIO-1768896,scientific_identity,Trinacromerum bonneri,https://api.gbif.org/v1/species/4968447
+LIBSRC-LIB50-ENT-BIO-1768896,taxon_authority,"(Adams, 1997) ",https://api.gbif.org/v1/species/4968447
+LIBSRC-LIB50-ENT-BIO-2280766,scientific_identity,Gobiates tatarinovi,https://api.gbif.org/v1/species/8571299
+LIBSRC-LIB50-ENT-BIO-2280766,taxon_authority,"Ročec & Nessov, 1993",https://api.gbif.org/v1/species/8571299
+LIBSRC-LIB50-ENT-BIO-1324686,scientific_identity,Sclerophrys capensis,https://api.gbif.org/v1/species/9114626
+LIBSRC-LIB50-ENT-BIO-1324686,taxon_authority,"Tschudi, 1838",https://api.gbif.org/v1/species/9114626
+LIBSRC-LIB50-ENT-BIO-0557576,scientific_identity,Choerophryne siegfriedi,https://api.gbif.org/v1/species/10858866
+LIBSRC-LIB50-ENT-BIO-0557576,taxon_authority,"(Menzies, 1999) ",https://api.gbif.org/v1/species/10858866
+LIBSRC-LIB50-ENT-BIO-0369646,scientific_identity,Trematosuchoides africanus,https://api.gbif.org/v1/species/11141072
+LIBSRC-LIB50-ENT-BIO-0369646,taxon_authority,"Novikov, 2012",https://api.gbif.org/v1/species/11141072
+LIBSRC-LIB50-ENT-BIO-2469126,scientific_identity,Batrachosauroides dissimulans,https://api.gbif.org/v1/species/4964838
+LIBSRC-LIB50-ENT-BIO-2469126,taxon_authority,"Taylor & Hesse, 1943",https://api.gbif.org/v1/species/4964838
+LIBSRC-LIB50-ENT-BIO-0686776,scientific_identity,Limnonectes micrixalus,https://api.gbif.org/v1/species/2430474
+LIBSRC-LIB50-ENT-BIO-0686776,taxon_authority,"(Taylor, 1923) ",https://api.gbif.org/v1/species/2430474
+LIBSRC-LIB50-ENT-BIO-1103346,scientific_identity,Polypedates otilophus,https://api.gbif.org/v1/species/2423777
+LIBSRC-LIB50-ENT-BIO-1103346,taxon_authority,"(Boulenger, 1893) ",https://api.gbif.org/v1/species/2423777
+LIBSRC-LIB50-ENT-BIO-0642796,scientific_identity,Aversor dmitrievi,https://api.gbif.org/v1/species/9361494
+LIBSRC-LIB50-ENT-BIO-0642796,taxon_authority,"Gubin, 1985",https://api.gbif.org/v1/species/9361494
+LIBSRC-LIB50-ENT-BIO-0676066,scientific_identity,Nanorana mokokchungensis,https://api.gbif.org/v1/species/2430209
+LIBSRC-LIB50-ENT-BIO-0676066,taxon_authority,"(Das & Chanda, 2000) ",https://api.gbif.org/v1/species/2430209
+LIBSRC-LIB50-ENT-BIO-0279206,scientific_identity,Tropidosuchus romeri,https://api.gbif.org/v1/species/8674378
+LIBSRC-LIB50-ENT-BIO-0279206,taxon_authority,"Arcucci, 1990",https://api.gbif.org/v1/species/8674378
+LIBSRC-LIB50-ENT-BIO-0564546,scientific_identity,Ptenopus garrulus,https://api.gbif.org/v1/species/2446184
+LIBSRC-LIB50-ENT-BIO-0564546,taxon_authority,"(Smith, 1849) ",https://api.gbif.org/v1/species/2446184
+LIBSRC-LIB50-ENT-BIO-1732176,scientific_identity,Agama hartmanni,https://api.gbif.org/v1/species/5226244
+LIBSRC-LIB50-ENT-BIO-1732176,taxon_authority,"Peters, 1869",https://api.gbif.org/v1/species/5226244
+LIBSRC-LIB50-ENT-BIO-2158706,scientific_identity,Morelia riversleighensis,https://api.gbif.org/v1/species/8566255
+LIBSRC-LIB50-ENT-BIO-2158706,taxon_authority,"(Smith & Plane, 1985) Smith & Plane, 1985",https://api.gbif.org/v1/species/8566255
+LIBSRC-LIB50-ENT-BIO-0815976,scientific_identity,Lobulia brongersmai,https://api.gbif.org/v1/species/2461847
+LIBSRC-LIB50-ENT-BIO-0815976,taxon_authority,"(Zweifel, 1972) ",https://api.gbif.org/v1/species/2461847
+LIBSRC-LIB50-ENT-BIO-0814956,scientific_identity,Lioscincus vivae,https://api.gbif.org/v1/species/7376964
+LIBSRC-LIB50-ENT-BIO-0814956,taxon_authority,"Sadlier, Bauer, Whitaker & Smith, 2004",https://api.gbif.org/v1/species/7376964
+LIBSRC-LIB50-ENT-BIO-1285586,scientific_identity,Aipysurus duboisii,https://api.gbif.org/v1/species/2450128
+LIBSRC-LIB50-ENT-BIO-1285586,taxon_authority,"Bavay, 1869",https://api.gbif.org/v1/species/2450128
+LIBSRC-LIB50-ENT-BIO-1035856,scientific_identity,Letheobia stejnegeri,https://api.gbif.org/v1/species/8031582
+LIBSRC-LIB50-ENT-BIO-1035856,taxon_authority,"(Loveridge, 1931) ",https://api.gbif.org/v1/species/8031582
+LIBSRC-LIB50-ENT-BIO-2426966,scientific_identity,Ameivula mumbuca,https://api.gbif.org/v1/species/7745167
+LIBSRC-LIB50-ENT-BIO-2426966,taxon_authority,"(Colli, Caldwell, Costa, Gainsbury, Garda, Mesquita, Filho, Soares, Silva, Valdujo, Vieira, Vitt, Werneck, Wiederhecker & Zatz, 2003) ",https://api.gbif.org/v1/species/7745167
+LIBSRC-LIB50-ENT-BIO-0816486,scientific_identity,Lipinia surda,https://api.gbif.org/v1/species/2461258
+LIBSRC-LIB50-ENT-BIO-0816486,taxon_authority,"(Boulenger, 1900) ",https://api.gbif.org/v1/species/2461258
+LIBSRC-LIB50-ENT-BIO-1558946,scientific_identity,Leiocephalus herminieri,https://api.gbif.org/v1/species/5224802
+LIBSRC-LIB50-ENT-BIO-1558946,taxon_authority,"(Duméril & Bibron, 1837) ",https://api.gbif.org/v1/species/5224802
+LIBSRC-LIB50-ENT-BIO-0812406,scientific_identity,Tytthoscincus copias,https://api.gbif.org/v1/species/10351969
+LIBSRC-LIB50-ENT-BIO-0812406,taxon_authority,"(Boulenger, 1908) ",https://api.gbif.org/v1/species/10351969
+LIBSRC-LIB50-ENT-BIO-0898086,scientific_identity,Lepidophyma occulor,https://api.gbif.org/v1/species/2451760
+LIBSRC-LIB50-ENT-BIO-0898086,taxon_authority,"Smith, 1942",https://api.gbif.org/v1/species/2451760
+LIBSRC-LIB50-ENT-BIO-2174686,scientific_identity,Bradypodion transvaalense,https://api.gbif.org/v1/species/2449214
+LIBSRC-LIB50-ENT-BIO-2174686,taxon_authority,"(Fitzsimons, 1930) ",https://api.gbif.org/v1/species/2449214
+LIBSRC-LIB50-ENT-BIO-2171966,scientific_identity,Rhampholeon viridis,https://api.gbif.org/v1/species/2449280
+LIBSRC-LIB50-ENT-BIO-2171966,taxon_authority,"Mariaux & Tilbury, 2006",https://api.gbif.org/v1/species/2449280
+LIBSRC-LIB50-ENT-BIO-0083326,scientific_identity,Polemon gracilis,https://api.gbif.org/v1/species/5227605
+LIBSRC-LIB50-ENT-BIO-0083326,taxon_authority,"(Boulenger, 1911) ",https://api.gbif.org/v1/species/5227605
+LIBSRC-LIB50-ENT-BIO-0099306,scientific_identity,Eosipterus yangi,https://api.gbif.org/v1/species/4965563
+LIBSRC-LIB50-ENT-BIO-0099306,taxon_authority,"Ji & Ji, 1997",https://api.gbif.org/v1/species/4965563
+LIBSRC-LIB50-ENT-BIO-2472186,scientific_identity,Pseudopalatus jablonskiae,https://api.gbif.org/v1/species/4967812
+LIBSRC-LIB50-ENT-BIO-2472186,taxon_authority,"Parker & Irmis, 2006",https://api.gbif.org/v1/species/4967812
+LIBSRC-LIB50-ENT-BIO-1242916,scientific_identity,Loganellia scotica,https://api.gbif.org/v1/species/8640209
+LIBSRC-LIB50-ENT-BIO-1242916,taxon_authority,"(Traquair, 1898) ",https://api.gbif.org/v1/species/8640209
+LIBSRC-LIB50-ENT-BIO-2530274,scientific_identity,Cyprideis multipunctata,https://api.gbif.org/v1/species/6470515
+LIBSRC-LIB50-ENT-BIO-1617596,scientific_identity,Planohybodus marki,https://api.gbif.org/v1/species/8466255
+LIBSRC-LIB50-ENT-BIO-1617596,taxon_authority,"Pinheiro et al., 2013",https://api.gbif.org/v1/species/8466255
+LIBSRC-LIB50-ENT-BIO-2325986,scientific_identity,Irolita westraliensis,https://api.gbif.org/v1/species/2419814
+LIBSRC-LIB50-ENT-BIO-2325986,taxon_authority,"Last & Gledhill, 2008",https://api.gbif.org/v1/species/2419814
+LIBSRC-LIB50-ENT-BIO-1308706,scientific_identity,Neospathodus posterolongatus,https://api.gbif.org/v1/species/4964071
+LIBSRC-LIB50-ENT-BIO-1308706,taxon_authority,"Zhao & Orchard, 2007",https://api.gbif.org/v1/species/4964071
+LIBSRC-LIB50-ENT-BIO-0098966,scientific_identity,Ctenognathodus murchisoni,https://api.gbif.org/v1/species/8464007
+LIBSRC-LIB50-ENT-BIO-0098966,taxon_authority,"Pander, 1856",https://api.gbif.org/v1/species/8464007
+LIBSRC-LIB50-ENT-BIO-2172646,scientific_identity,Ctenacanthus parvulus,https://api.gbif.org/v1/species/11209098
+LIBSRC-LIB50-ENT-BIO-2172646,taxon_authority,"(Newberry, 1875) ",https://api.gbif.org/v1/species/11209098
+LIBSRC-LIB50-ENT-BIO-2109576,scientific_identity,Neotrisauropus lambereshei,https://api.gbif.org/v1/species/9446389
+LIBSRC-LIB50-ENT-BIO-2109576,taxon_authority,"(Ellenberger, 1970) ",https://api.gbif.org/v1/species/9446389
+LIBSRC-LIB50-ENT-BIO-2499502,scientific_identity,Sinogastromyzon sichangensis,https://api.gbif.org/v1/species/2358690
+LIBSRC-LIB50-ENT-BIO-2499502,taxon_authority,"Chang, 1944",https://api.gbif.org/v1/species/2358690
+LIBSRC-LIB50-ENT-BIO-0585286,scientific_identity,Idiognathodus wintersetensis,https://api.gbif.org/v1/species/8489479
+LIBSRC-LIB50-ENT-BIO-0585286,taxon_authority,"Gunnell, 1933",https://api.gbif.org/v1/species/8489479
+LIBSRC-LIB50-ENT-BIO-2431386,scientific_identity,Therizinosaurus cheloniformis,https://api.gbif.org/v1/species/4822615
+LIBSRC-LIB50-ENT-BIO-2431386,taxon_authority,"Maleev, 1954",https://api.gbif.org/v1/species/4822615
+LIBSRC-LIB50-ENT-BIO-2509701,scientific_identity,Liaous shaiwensis,https://api.gbif.org/v1/species/8515593
+LIBSRC-LIB50-ENT-BIO-2509701,taxon_authority,"He & Chen, 2016",https://api.gbif.org/v1/species/8515593
+LIBSRC-LIB50-ENT-BIO-1360556,scientific_identity,Pteraspis dunensis,https://api.gbif.org/v1/species/9390588
+LIBSRC-LIB50-ENT-BIO-1360556,taxon_authority,"Roemer, 1854",https://api.gbif.org/v1/species/9390588
+LIBSRC-LIB50-ENT-BIO-1618106,scientific_identity,Hybodus laeviusculus,https://api.gbif.org/v1/species/11140777
+LIBSRC-LIB50-ENT-BIO-1618106,taxon_authority,"Agassiz, 1836",https://api.gbif.org/v1/species/11140777
+LIBSRC-LIB50-ENT-BIO-1340326,scientific_identity,Psilorhynchus breviminor,https://api.gbif.org/v1/species/5205401
+LIBSRC-LIB50-ENT-BIO-1340326,taxon_authority,"Conway & Mayden, 2008",https://api.gbif.org/v1/species/5205401
+LIBSRC-LIB50-ENT-BIO-0393956,scientific_identity,Serrapinnus tocantinensis,https://api.gbif.org/v1/species/8406607
+LIBSRC-LIB50-ENT-BIO-0393956,taxon_authority,"Malabarba & Jerep, 2014",https://api.gbif.org/v1/species/8406607
+LIBSRC-LIB50-ENT-BIO-0563526,scientific_identity,Phelsuma madagascariensis,https://api.gbif.org/v1/species/2447419
+LIBSRC-LIB50-ENT-BIO-0563526,taxon_authority,"Gray, 1831",https://api.gbif.org/v1/species/2447419
+LIBSRC-LIB50-ENT-BIO-0293826,scientific_identity,Lucasium steindachneri,https://api.gbif.org/v1/species/5843339
+LIBSRC-LIB50-ENT-BIO-0293826,taxon_authority,"(Boulenger, 1885) ",https://api.gbif.org/v1/species/5843339
+LIBSRC-LIB50-ENT-BIO-1557076,scientific_identity,Epictia subcrotilla,https://api.gbif.org/v1/species/5789727
+LIBSRC-LIB50-ENT-BIO-1557076,taxon_authority,"(Klauber, 1939) ",https://api.gbif.org/v1/species/5789727
+LIBSRC-LIB50-ENT-BIO-1458476,scientific_identity,Synodontis pardalis,https://api.gbif.org/v1/species/2344323
+LIBSRC-LIB50-ENT-BIO-1458476,taxon_authority,"Boulenger, 1908",https://api.gbif.org/v1/species/2344323
+LIBSRC-LIB50-ENT-BIO-1606376,scientific_identity,Brycon moorei,https://api.gbif.org/v1/species/2353526
+LIBSRC-LIB50-ENT-BIO-1606376,taxon_authority,"Steindachner, 1878",https://api.gbif.org/v1/species/2353526
+LIBSRC-LIB50-ENT-BIO-2003836,scientific_identity,Badis corycaeus,https://api.gbif.org/v1/species/2389458
+LIBSRC-LIB50-ENT-BIO-2003836,taxon_authority,"Kullander & Britz, 2002",https://api.gbif.org/v1/species/2389458
+LIBSRC-LIB50-ENT-BIO-0814616,scientific_identity,Tropidophorus microlepis,https://api.gbif.org/v1/species/9013736
+LIBSRC-LIB50-ENT-BIO-0814616,taxon_authority,"Günther, 1861",https://api.gbif.org/v1/species/9013736
+LIBSRC-LIB50-ENT-BIO-1028886,scientific_identity,Pogonophryne mentella,https://api.gbif.org/v1/species/2386519
+LIBSRC-LIB50-ENT-BIO-1028886,taxon_authority,"Andriashev, 1967",https://api.gbif.org/v1/species/2386519
+LIBSRC-LIB50-ENT-BIO-1106576,scientific_identity,Pteronemacheilus lucidorsum,https://api.gbif.org/v1/species/6167678
+LIBSRC-LIB50-ENT-BIO-1106576,taxon_authority,"Bohlen & Ŝlechtová, 2011",https://api.gbif.org/v1/species/6167678
+LIBSRC-LIB50-ENT-BIO-1037726,scientific_identity,Laeops tungkongensis,https://api.gbif.org/v1/species/2408495
+LIBSRC-LIB50-ENT-BIO-1037726,taxon_authority,"Chen & Weng, 1965",https://api.gbif.org/v1/species/2408495
+LIBSRC-LIB50-ENT-BIO-1928186,scientific_identity,Sturisomatichthys tamanae,https://api.gbif.org/v1/species/2339323
+LIBSRC-LIB50-ENT-BIO-1928186,taxon_authority,"(Regan, 1912) ",https://api.gbif.org/v1/species/2339323
+LIBSRC-LIB50-ENT-BIO-1321966,scientific_identity,Squatina oculata,https://api.gbif.org/v1/species/2417797
+LIBSRC-LIB50-ENT-BIO-1321966,taxon_authority,"Bonaparte, 1840",https://api.gbif.org/v1/species/2417797
+LIBSRC-LIB50-ENT-BIO-0043206,scientific_identity,Pteropsaron evolans,https://api.gbif.org/v1/species/2389189
+LIBSRC-LIB50-ENT-BIO-0043206,taxon_authority,"Jordan & Snyder, 1902",https://api.gbif.org/v1/species/2389189
+LIBSRC-LIB50-ENT-BIO-0552816,scientific_identity,Pseudochromis stellatus,https://api.gbif.org/v1/species/9475608
+LIBSRC-LIB50-ENT-BIO-0552816,taxon_authority,"Gill, Allen & Erdmann, 2017",https://api.gbif.org/v1/species/9475608
+LIBSRC-LIB50-ENT-BIO-0560636,scientific_identity,Oedurella garystephensoni,https://api.gbif.org/v1/species/9565087
+LIBSRC-LIB50-ENT-BIO-0560636,taxon_authority,"Hoser, 2017",https://api.gbif.org/v1/species/9565087
+LIBSRC-LIB50-ENT-BIO-0333436,scientific_identity,Shandongemys dongwuica,https://api.gbif.org/v1/species/8548014
+LIBSRC-LIB50-ENT-BIO-0333436,taxon_authority,"Li et al., 2013",https://api.gbif.org/v1/species/8548014
+LIBSRC-LIB50-ENT-BIO-0331906,scientific_identity,Huigobio exilicauda,https://api.gbif.org/v1/species/7887309
+LIBSRC-LIB50-ENT-BIO-0331906,taxon_authority,"Jiang & Zhang, 2013",https://api.gbif.org/v1/species/7887309
+LIBSRC-LIB50-ENT-BIO-2427646,scientific_identity,Sinohelicoprion macrodontus,https://api.gbif.org/v1/species/8473406
+LIBSRC-LIB50-ENT-BIO-2427646,taxon_authority,"Lei, 1983",https://api.gbif.org/v1/species/8473406
+LIBSRC-LIB50-ENT-BIO-1558436,scientific_identity,Rhinoleptus koniagui,https://api.gbif.org/v1/species/2448247
+LIBSRC-LIB50-ENT-BIO-1558436,taxon_authority,"(Villiers, 1956) ",https://api.gbif.org/v1/species/2448247
+LIBSRC-LIB50-ENT-BIO-1980376,scientific_identity,Alligator luicus,https://api.gbif.org/v1/species/8455118
+LIBSRC-LIB50-ENT-BIO-1980376,taxon_authority,"Li & Wang, 1987",https://api.gbif.org/v1/species/8455118
+LIBSRC-LIB50-ENT-BIO-0709556,scientific_identity,Heteroconger astroblematicus,https://api.gbif.org/v1/species/8619519
+LIBSRC-LIB50-ENT-BIO-0709556,taxon_authority,"Schwarzhans & Bratischko, 2011",https://api.gbif.org/v1/species/8619519
+LIBSRC-LIB50-ENT-BIO-1587676,scientific_identity,Characidium amaila,https://api.gbif.org/v1/species/7661656
+LIBSRC-LIB50-ENT-BIO-1587676,taxon_authority,"Lujan, Agudelo-Zamora, Taphorn, Booth & López-Fernández, 2013",https://api.gbif.org/v1/species/7661656
+LIBSRC-LIB50-ENT-BIO-1801026,scientific_identity,Apogon lozanoi,https://api.gbif.org/v1/species/8663360
+LIBSRC-LIB50-ENT-BIO-1801026,taxon_authority,"Bauza, 1957",https://api.gbif.org/v1/species/8663360
+LIBSRC-LIB50-ENT-BIO-1703276,scientific_identity,Megalosaurus superbus,https://api.gbif.org/v1/species/9596344
+LIBSRC-LIB50-ENT-BIO-1703276,taxon_authority,"(Sauvage, 1882) ",https://api.gbif.org/v1/species/9596344
+LIBSRC-LIB50-ENT-BIO-0535306,scientific_identity,Litoria dentata,https://api.gbif.org/v1/species/2427847
+LIBSRC-LIB50-ENT-BIO-0535306,taxon_authority,"(Keferstein, 1868) ",https://api.gbif.org/v1/species/2427847
+LIBSRC-LIB50-ENT-BIO-1972386,scientific_identity,Melanosuchus latrubessei,https://api.gbif.org/v1/species/10727736
+LIBSRC-LIB50-ENT-BIO-1972386,taxon_authority,"Souza-Filho, Guilherme, Toledo, Carvalho, Negri, Maciente, Cidade, Lacerda & Souza, 2020",https://api.gbif.org/v1/species/10727736
+LIBSRC-LIB50-ENT-BIO-0340066,scientific_identity,Laubuka tenella,https://api.gbif.org/v1/species/9681438
+LIBSRC-LIB50-ENT-BIO-0340066,taxon_authority,"Kullander, Rahman, Norén & Mollah, 2018",https://api.gbif.org/v1/species/9681438
+LIBSRC-LIB50-ENT-BIO-0563356,scientific_identity,Cyrtodactylus santana,https://api.gbif.org/v1/species/12258362
+LIBSRC-LIB50-ENT-BIO-0563356,taxon_authority,"Chan, Grismer, Santana, Pinto, Loke & Conaboy, 2023",https://api.gbif.org/v1/species/12258362
+LIBSRC-LIB50-ENT-BIO-2101416,scientific_identity,Acondylacanthus attenuatus,https://api.gbif.org/v1/species/8568645
+LIBSRC-LIB50-ENT-BIO-2101416,taxon_authority,"Davis, 1883",https://api.gbif.org/v1/species/8568645
+LIBSRC-LIB50-ENT-BIO-1328256,scientific_identity,Scombrolabrax heterolepis,https://api.gbif.org/v1/species/2375206
+LIBSRC-LIB50-ENT-BIO-1328256,taxon_authority,"Roule, 1921",https://api.gbif.org/v1/species/2375206
+LIBSRC-LIB50-ENT-BIO-0026776,scientific_identity,Lamna acutissima,https://api.gbif.org/v1/species/9251668
+LIBSRC-LIB50-ENT-BIO-0026776,taxon_authority,"(Agassiz, 1843) ",https://api.gbif.org/v1/species/9251668
+LIBSRC-LIB50-ENT-BIO-0599736,scientific_identity,Cosmacanthus carinatus,https://api.gbif.org/v1/species/8601992
+LIBSRC-LIB50-ENT-BIO-0599736,taxon_authority,"Davis, 1883",https://api.gbif.org/v1/species/8601992
+LIBSRC-LIB50-ENT-BIO-1320436,scientific_identity,Hydraethiops laevis,https://api.gbif.org/v1/species/2454649
+LIBSRC-LIB50-ENT-BIO-1320436,taxon_authority,"Boulenger, 1904",https://api.gbif.org/v1/species/2454649
+LIBSRC-LIB50-ENT-BIO-2046676,scientific_identity,Batrachyla fitzroya,https://api.gbif.org/v1/species/2424526
+LIBSRC-LIB50-ENT-BIO-2046676,taxon_authority,"Basso, 1994",https://api.gbif.org/v1/species/2424526
+LIBSRC-LIB50-ENT-BIO-0102706,scientific_identity,Chordata,https://api.gbif.org/v1/species/44
+LIBSRC-LIB50-ENT-BIO-1580536,scientific_identity,Pyura doppelgangera,https://api.gbif.org/v1/species/7399406
+LIBSRC-LIB50-ENT-BIO-1580536,taxon_authority,"Rius & Teske, 2013",https://api.gbif.org/v1/species/7399406
+LIBSRC-LIB50-ENT-BIO-1324006,scientific_identity,Taeniophallus nicagus,https://api.gbif.org/v1/species/2452079
+LIBSRC-LIB50-ENT-BIO-1324006,taxon_authority,"(Cope, 1868) ",https://api.gbif.org/v1/species/2452079
+LIBSRC-LIB50-ENT-BIO-1257706,scientific_identity,Polycarpa molguloides,https://api.gbif.org/v1/species/5200843
+LIBSRC-LIB50-ENT-BIO-1257706,taxon_authority,"Herdman, 1881",https://api.gbif.org/v1/species/5200843
+LIBSRC-LIB50-ENT-BIO-0338366,scientific_identity,Neolissochilus hexastichus,https://api.gbif.org/v1/species/2362788
+LIBSRC-LIB50-ENT-BIO-0338366,taxon_authority,"(McClelland, 1839) ",https://api.gbif.org/v1/species/2362788
+LIBSRC-LIB50-ENT-BIO-0813766,scientific_identity,Eremiascincus phastasmus,https://api.gbif.org/v1/species/8966975
+LIBSRC-LIB50-ENT-BIO-0813766,taxon_authority,"Mecke, Doughty & Donnellan, 2013",https://api.gbif.org/v1/species/8966975
+LIBSRC-LIB50-ENT-BIO-0540236,scientific_identity,Nyctimystes purpureolatus,https://api.gbif.org/v1/species/10772356
+LIBSRC-LIB50-ENT-BIO-0540236,taxon_authority,"(Oliver, Richards, Tjaturadi & Iskandar, 2007) ",https://api.gbif.org/v1/species/10772356
+LIBSRC-LIB50-ENT-BIO-1254136,scientific_identity,Botryllus elegans,https://api.gbif.org/v1/species/5200756
+LIBSRC-LIB50-ENT-BIO-1254136,taxon_authority,"(Quoy & Gaimard, 1834) ",https://api.gbif.org/v1/species/5200756
+LIBSRC-LIB50-ENT-BIO-1717386,scientific_identity,Rhamdia itacaiunas,https://api.gbif.org/v1/species/2343681
+LIBSRC-LIB50-ENT-BIO-1717386,taxon_authority,"Silfvergrip, 1996",https://api.gbif.org/v1/species/2343681
+LIBSRC-LIB50-ENT-BIO-1253456,scientific_identity,Synclidopus hogani,https://api.gbif.org/v1/species/5962333
+LIBSRC-LIB50-ENT-BIO-1253456,taxon_authority,"Johnson & Randall, 2008",https://api.gbif.org/v1/species/5962333
+LIBSRC-LIB50-ENT-BIO-1516956,scientific_identity,Bryconalestes tholloni,https://api.gbif.org/v1/species/9933042
+LIBSRC-LIB50-ENT-BIO-1925806,scientific_identity,Ancistrus amaris,https://api.gbif.org/v1/species/10419419
+LIBSRC-LIB50-ENT-BIO-1925806,taxon_authority,"de Souza, Taphorn & Armbruster, 2019",https://api.gbif.org/v1/species/10419419
