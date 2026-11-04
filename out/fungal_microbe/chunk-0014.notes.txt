@@ -1,0 +1,2 @@
+Attempted to fetch data from GBIF species match API (https://api.gbif.org/v1/species/match and /v1/species/{key}).
+Looked for exact matches on canonicalName to avoid false positives.
