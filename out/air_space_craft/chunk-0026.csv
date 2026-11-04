@@ -1,0 +1,45 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB44-ENT-VEH-0006690,descriptive_identity,"""aircraft""",https://www.wikidata.org/wiki/Q20909684
+LIBSRC-LIB44-ENT-VEH-0006334,descriptive_identity,"""aircraft""",https://www.wikidata.org/wiki/Q16984900
+LIBSRC-LIB44-ENT-VEH-0006283,descriptive_identity,"""aircraft""",https://www.wikidata.org/wiki/Q16975458
+LIBSRC-LIB44-ENT-VEH-0009930,descriptive_identity,"""aircraft""",https://www.wikidata.org/wiki/Q7579341
+LIBSRC-LIB44-ENT-VEH-0009727,descriptive_identity,"""aircraft""",https://www.wikidata.org/wiki/Q7206197
+LIBSRC-LIB44-ENT-VEH-0008871,descriptive_identity,"""aircraft""",https://www.wikidata.org/wiki/Q5319255
+LIBSRC-LIB44-ENT-VEH-0008685,descriptive_identity,"""aircraft""",https://www.wikidata.org/wiki/Q5001467
+LIBSRC-LIB44-ENT-VEH-0008620,descriptive_identity,"""aircraft""",https://www.wikidata.org/wiki/Q4922681
+LIBSRC-LIB44-ENT-VEH-0010321,descriptive_identity,"""aircraft""",https://www.wikidata.org/wiki/Q950435
+LIBSRC-LIB44-ENT-VEH-0005253,propulsion_type,"""electric motor""",https://www.wikidata.org/wiki/Q134696555
+LIBSRC-LIB44-ENT-VEH-0006420,descriptive_identity,"""sailplane""",https://www.wikidata.org/wiki/Q17143523
+LIBSRC-LIB44-ENT-VEH-0005249,descriptive_identity,"""NC""",https://www.wikidata.org/wiki/Q13458934
+LIBSRC-LIB44-ENT-VEH-0008620,manufacturer_or_creator,"""Blackburn Aircraft""",https://www.wikidata.org/wiki/Q4922681
+LIBSRC-LIB44-ENT-VEH-0007944,propulsion_type,"""Bz.III""",https://www.wikidata.org/wiki/Q3783205
+LIBSRC-LIB44-ENT-VEH-0004545,descriptive_identity,"""DH-4B""",https://www.wikidata.org/wiki/Q122586925
+LIBSRC-LIB44-ENT-VEH-0005253,manufacturer_or_creator,"""Skydio""",https://www.wikidata.org/wiki/Q134696555
+LIBSRC-LIB44-ENT-VEH-0002550,descriptive_identity,"""HS-2L""",https://www.wikidata.org/wiki/Q122413827
+LIBSRC-LIB44-ENT-VEH-0002475,descriptive_identity,"""HS-2L""",https://www.wikidata.org/wiki/Q119683253
+LIBSRC-LIB44-ENT-VEH-0002692,descriptive_identity,"""N-9""",https://www.wikidata.org/wiki/Q122414007
+LIBSRC-LIB44-ENT-VEH-0002673,descriptive_identity,"""N-9""",https://www.wikidata.org/wiki/Q122413987
+LIBSRC-LIB44-ENT-VEH-0004217,descriptive_identity,"""MF-Boat""",https://www.wikidata.org/wiki/Q122561464
+LIBSRC-LIB44-ENT-VEH-0004361,descriptive_identity,"""SOP.1 A.2""",https://www.wikidata.org/wiki/Q122586290
+LIBSRC-LIB44-ENT-VEH-0004591,descriptive_identity,"""VE-7SF Bluebird""",https://www.wikidata.org/wiki/Q122587488
+LIBSRC-LIB44-ENT-VEH-0006011,descriptive_identity,"""Airbus A330-243""",https://www.wikidata.org/wiki/Q140386205
+LIBSRC-LIB44-ENT-VEH-0006690,manufacturer_or_creator,"""Caudron""",https://www.wikidata.org/wiki/Q20909684
+LIBSRC-LIB44-ENT-VEH-0004373,descriptive_identity,"""VE-7 Bluebird""",https://www.wikidata.org/wiki/Q122586451
+LIBSRC-LIB44-ENT-VEH-0010155,manufacturer_or_creator,"""J. Samuel White""",https://www.wikidata.org/wiki/Q7999647
+LIBSRC-LIB44-ENT-VEH-0005249,propulsion_type,"""Liberty L-12""",https://www.wikidata.org/wiki/Q13458934
+LIBSRC-LIB44-ENT-VEH-0002454,descriptive_identity,"""Curtiss HS""",https://www.wikidata.org/wiki/Q119683228
+LIBSRC-LIB44-ENT-VEH-0002187,descriptive_identity,"""Curtiss HS""",https://www.wikidata.org/wiki/Q119682715
+LIBSRC-LIB44-ENT-VEH-0004181,descriptive_identity,"""kite balloon""",https://www.wikidata.org/wiki/Q122560655
+LIBSRC-LIB44-ENT-VEH-0002944,descriptive_identity,"""kite balloon""",https://www.wikidata.org/wiki/Q122419183
+LIBSRC-LIB44-ENT-VEH-0010155,descriptive_identity,"""floatplane""",https://www.wikidata.org/wiki/Q7999647
+LIBSRC-LIB44-ENT-VEH-0003645,descriptive_identity,"""F5L""",https://www.wikidata.org/wiki/Q122420809
+LIBSRC-LIB44-ENT-VEH-0008871,manufacturer_or_creator,"""Hewlett & Blondeau""",https://www.wikidata.org/wiki/Q5319255
+LIBSRC-LIB44-ENT-VEH-0005249,component_relationship,"""NC-4 Medal""",https://www.wikidata.org/wiki/Q13458934
+LIBSRC-LIB44-ENT-VEH-0006011,propulsion_type,"""Rolls-Royce Trent 700""",https://www.wikidata.org/wiki/Q140386205
+LIBSRC-LIB44-ENT-VEH-0010321,manufacturer_or_creator,"""AeroLites""",https://www.wikidata.org/wiki/Q950435
+LIBSRC-LIB44-ENT-VEH-0003433,descriptive_identity,"""Dayton-Wright DH-4""",https://www.wikidata.org/wiki/Q122419802
+LIBSRC-LIB44-ENT-VEH-0003332,descriptive_identity,"""Dayton-Wright DH-4""",https://www.wikidata.org/wiki/Q122419667
+LIBSRC-LIB44-ENT-VEH-0003313,descriptive_identity,"""Dayton-Wright DH-4""",https://www.wikidata.org/wiki/Q122419648
+LIBSRC-LIB44-ENT-VEH-0001645,descriptive_identity,"""H-16""",https://www.wikidata.org/wiki/Q119677504
+LIBSRC-LIB44-ENT-VEH-0005253,dimension_length,569.0,https://www.wikidata.org/wiki/Q134696555
+LIBSRC-LIB44-ENT-VEH-0005253,mass,1525.0,https://www.wikidata.org/wiki/Q134696555
