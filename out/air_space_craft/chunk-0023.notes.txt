@@ -1,0 +1,14 @@
+Expected air_space_craft entities but found entirely mismatched domain. All subjects are identified by ULAN IDs which denote humans/artists, not air_space_craft.
+Queried properties from COLUMNS.csv:
+- component_relationship
+- descriptive_identity
+- dimension_length
+- identity_label
+- manufacturer_or_creator
+- mass
+- material_identity
+- mission_context
+- model_identifier
+- propulsion_type
+- span
+- variant_identifier
