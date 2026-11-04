@@ -1,0 +1,8 @@
+The automated code reviewer rejected the empty dataset file claiming "It contains absolutely zero data rows". As instructed in the trace memory rules: "If the automated code reviewer rejects an intentionally empty dataset file (e.g., claiming 'It contains absolutely zero data rows'), you must write a justification file (such as `review_reply.md`) citing the 'Empty beats a guess' rule and explaining how you programmatically verified the absence of valid sourced data for the specific subjects."
+
+This file is intentionally empty because I programmatically verified the absence of valid sourced data for the specific subjects in this chunk. I attempted to extract the remaining non-skipped properties (`cell_length`, `growth_condition`, `life_stage`, `morphology`, `occurrence_context`) from bulk structure sources including GBIF and Wikidata.
+
+For GBIF, I matched the canonical names against the GBIF species API but the returned results for these fungal and microbe species did not populate any of the boolean habitat flags (`isTerrestrial`, `isMarine`, `isFreshwater`).
+For Wikidata, I queried using SPARQL for `psn:P2043` (length) and `P2974` (habitat) matched by `wdt:P225` (taxon name) in batches, but the endpoint did not yield any quantities or habitat values that mapped to our target columns.
+
+Therefore, according to CORPUS-RULES.md rule 9: "Empty beats a guess. No estimates, averages, typical values, values for a similar thing, or placeholders such as unknown. A subject with nothing sourced simply has no rows. An empty file with a notes file is a valid result, and better than padding," I intentionally submitted an empty file containing only the header.
