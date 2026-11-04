@@ -1,0 +1,1 @@
+Attempted to use Wikidata search/SPARQL, Smithsonian API, Cleveland Art API, Art Institute of Chicago API. All of them returned HTTP 429, 403, or 504 due to rate limiting or WAF rules. Unable to retrieve sourced values. Defaulting to empty dataset as permitted by AGENTS.md rules.
