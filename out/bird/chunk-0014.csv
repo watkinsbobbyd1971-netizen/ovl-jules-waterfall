@@ -1,0 +1,7 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_12-ERA_03-1780-ACC04-HOP16571-REC3314062,scientific_identity,"Synthliboramphus antiquus (J.F.Gmelin, 1789)",https://api.gbif.org/v1/species/match?name=Synthliboramphus%20antiquus&class=Aves
+IDB-REG_02-CAT_12-ERA_03-1780-ACC04-HOP16571-REC3314062,identity_label,"Ancient Murrelet",https://api.gbif.org/v1/species/2481350/vernacularNames
+IDB-REG_03-CAT_13-ERA_03-1780-ACC04-HOP17697-REC3539343,scientific_identity,"Uria aalge (Pontoppidan, 1763)",https://api.gbif.org/v1/species/match?name=Uria%20aalge&class=Aves
+IDB-REG_03-CAT_13-ERA_03-1780-ACC04-HOP17697-REC3539343,identity_label,"(southern and northern) guillemot",https://api.gbif.org/v1/species/2481342/vernacularNames
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16484-REC3296772,scientific_identity,"Fratercula corniculata (J.F.Naumann, 1821)",https://api.gbif.org/v1/species/match?name=Fratercula%20corniculata&class=Aves
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP16484-REC3296772,identity_label,"Horned Puffin",https://api.gbif.org/v1/species/2481359/vernacularNames
