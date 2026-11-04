@@ -1,0 +1,2 @@
+Attempted Wikidata SPARQL, MediaWiki API for vehicle data. Experienced 429 Too Many Requests and 504 Gateway Timeout.
+Extracted manufacturer_or_creator and model_identifier using NHTSA vPIC API Make/Model endpoints.
