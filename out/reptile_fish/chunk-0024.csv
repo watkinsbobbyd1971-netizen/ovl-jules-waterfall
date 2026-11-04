@@ -1,0 +1,24 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB51-ENT-SMI-1265889,scientific_identity,"Potamotrygon garmani Fontenelle & Carvalho, 2017",https://api.gbif.org/v1/species/search?q=Freshwater%20Stingray&limit=10
+LIBSRC-LIB51-ENT-SMI-1265889,taxon_authority,"Fontenelle & Carvalho, 2017",https://api.gbif.org/v1/species/search?q=Freshwater%20Stingray&limit=10
+LIBSRC-LIB51-ENT-SMI-1265889,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/search?q=Freshwater%20Stingray&limit=10
+LIBSRC-LIB51-ENT-SMI-1265889,identity_label,Freshwater Stingray,https://api.gbif.org/v1/species/search?q=Freshwater%20Stingray&limit=10
+LIBSRC-LIB51-ENT-SMI-1266077,scientific_identity,"Varanus salvadorii (Peters & Doria, 1878)",https://api.gbif.org/v1/species/search?q=Crocodile%20Monitor&limit=10
+LIBSRC-LIB51-ENT-SMI-1266077,taxon_authority,"(Peters & Doria, 1878) ",https://api.gbif.org/v1/species/search?q=Crocodile%20Monitor&limit=10
+LIBSRC-LIB51-ENT-SMI-1266077,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/search?q=Crocodile%20Monitor&limit=10
+LIBSRC-LIB51-ENT-SMI-1266077,identity_label,Crocodile Monitor,https://api.gbif.org/v1/species/search?q=Crocodile%20Monitor&limit=10
+LIBSRC-LIB51-ENT-SMI-1266223,scientific_identity,Various,https://api.gbif.org/v1/species/search?q=Copperhead&limit=10
+LIBSRC-LIB51-ENT-SMI-1266223,descriptive_identity,GENUS,https://api.gbif.org/v1/species/search?q=Copperhead&limit=10
+LIBSRC-LIB51-ENT-SMI-1266223,identity_label,Copperhead,https://api.gbif.org/v1/species/search?q=Copperhead&limit=10
+LIBSRC-LIB51-ENT-SMI-1266676,scientific_identity,"Leporinus fasciatus (Bloch, 1794)",https://api.gbif.org/v1/species/search?q=Banded%20Leporinus&limit=10
+LIBSRC-LIB51-ENT-SMI-1266676,taxon_authority,"(Bloch, 1794) ",https://api.gbif.org/v1/species/search?q=Banded%20Leporinus&limit=10
+LIBSRC-LIB51-ENT-SMI-1266676,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/search?q=Banded%20Leporinus&limit=10
+LIBSRC-LIB51-ENT-SMI-1266676,identity_label,Banded Leporinus,https://api.gbif.org/v1/species/search?q=Banded%20Leporinus&limit=10
+LIBSRC-LIB51-ENT-SMI-1266799,scientific_identity,"Cuora trifasciata (Bell, 1825)",https://api.gbif.org/v1/species/search?q=Chinese%20Three-striped%20Box%20Turtle&limit=10
+LIBSRC-LIB51-ENT-SMI-1266799,taxon_authority,"(Bell, 1825) ",https://api.gbif.org/v1/species/search?q=Chinese%20Three-striped%20Box%20Turtle&limit=10
+LIBSRC-LIB51-ENT-SMI-1266799,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/search?q=Chinese%20Three-striped%20Box%20Turtle&limit=10
+LIBSRC-LIB51-ENT-SMI-1266799,identity_label,Chinese Three-striped Box Turtle,https://api.gbif.org/v1/species/search?q=Chinese%20Three-striped%20Box%20Turtle&limit=10
+LIBSRC-LIB51-ENT-SMI-1266861,scientific_identity,"Varanus komodoensis Ouwens, 1912",https://api.gbif.org/v1/species/search?q=Komodo%20Dragon&limit=10
+LIBSRC-LIB51-ENT-SMI-1266861,taxon_authority,"Ouwens, 1912",https://api.gbif.org/v1/species/search?q=Komodo%20Dragon&limit=10
+LIBSRC-LIB51-ENT-SMI-1266861,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/search?q=Komodo%20Dragon&limit=10
+LIBSRC-LIB51-ENT-SMI-1266861,identity_label,Komodo Dragon,https://api.gbif.org/v1/species/search?q=Komodo%20Dragon&limit=10
