@@ -1,0 +1,2 @@
+Attempted sources:
+- Wikidata API (SPARQL & wbsearchentities): queried exact subject names but strict exact matching and disambiguation checks filtered out results or no data was found that matched constraints.
