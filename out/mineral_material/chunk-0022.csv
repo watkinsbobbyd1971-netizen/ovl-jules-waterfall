@@ -1,0 +1,855 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB52-ENT-MET-0012264,material_property_verbatim,"""Bronze""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001226
+LIBSRC-LIB52-ENT-MET-0012264,descriptive_identity,"""Sculpture""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001226
+LIBSRC-LIB52-ENT-MET-0012264,dimension_length,343.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/001226
+LIBSRC-LIB52-ENT-MET-0014604,material_property_verbatim,"""Pewter""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001460
+LIBSRC-LIB52-ENT-MET-0014604,descriptive_identity,"""Caster""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001460
+LIBSRC-LIB52-ENT-MET-0014604,dimension_length,152.4,https://collectionapi.metmuseum.org/public/collection/v1/objects/001460
+LIBSRC-LIB52-ENT-MET-0031444,material_property_verbatim,"""Mahogany, white pine""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003144
+LIBSRC-LIB52-ENT-MET-0031444,descriptive_identity,"""Desk and bookcase""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003144
+LIBSRC-LIB52-ENT-MET-0031444,dimension_length,625.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003144
+LIBSRC-LIB52-ENT-MET-0035304,material_property_verbatim,"""Mahogany, cherry""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003530
+LIBSRC-LIB52-ENT-MET-0035304,descriptive_identity,"""Embroidery frame""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003530
+LIBSRC-LIB52-ENT-MET-0035304,dimension_length,1397.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003530
+LIBSRC-LIB52-ENT-MET-0035864,material_property_verbatim,"""Parian porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003586
+LIBSRC-LIB52-ENT-MET-0035864,descriptive_identity,"""Figure""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003586
+LIBSRC-LIB52-ENT-MET-0035864,dimension_length,92.07499999999999,https://collectionapi.metmuseum.org/public/collection/v1/objects/003586
+LIBSRC-LIB52-ENT-MET-0036754,material_property_verbatim,"""Marble""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003675
+LIBSRC-LIB52-ENT-MET-0036754,descriptive_identity,"""Fireplace stand""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003675
+LIBSRC-LIB52-ENT-MET-0036754,dimension_length,254.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003675
+LIBSRC-LIB52-ENT-MET-0036824,material_property_verbatim,"""Leaded opalescent glass, brass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003682
+LIBSRC-LIB52-ENT-MET-0036824,descriptive_identity,"""Firescreen""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003682
+LIBSRC-LIB52-ENT-MET-0036824,dimension_length,762.002,https://collectionapi.metmuseum.org/public/collection/v1/objects/003682
+LIBSRC-LIB52-ENT-MET-0036824,dimension_length,1066.802,https://collectionapi.metmuseum.org/public/collection/v1/objects/003682
+LIBSRC-LIB52-ENT-MET-0036914,material_property_verbatim,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003691
+LIBSRC-LIB52-ENT-MET-0036914,descriptive_identity,"""Flagon""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003691
+LIBSRC-LIB52-ENT-MET-0036914,dimension_length,417.50100000000003,https://collectionapi.metmuseum.org/public/collection/v1/objects/003691
+LIBSRC-LIB52-ENT-MET-0036914,dimension_length,139.70000000000002,https://collectionapi.metmuseum.org/public/collection/v1/objects/003691
+LIBSRC-LIB52-ENT-MET-0070824,material_property_verbatim,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/007082
+LIBSRC-LIB52-ENT-MET-0070824,descriptive_identity,"""Salt""",https://collectionapi.metmuseum.org/public/collection/v1/objects/007082
+LIBSRC-LIB52-ENT-MET-0070824,dimension_length,34.925000000000004,https://collectionapi.metmuseum.org/public/collection/v1/objects/007082
+LIBSRC-LIB52-ENT-MET-0071004,material_property_verbatim,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/007100
+LIBSRC-LIB52-ENT-MET-0071004,descriptive_identity,"""Salver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/007100
+LIBSRC-LIB52-ENT-MET-0071004,dimension_length,144.46300000000002,https://collectionapi.metmuseum.org/public/collection/v1/objects/007100
+LIBSRC-LIB52-ENT-MET-0071424,material_property_verbatim,"""Pressed glass, diamond thumbprint""",https://collectionapi.metmuseum.org/public/collection/v1/objects/007142
+LIBSRC-LIB52-ENT-MET-0071424,descriptive_identity,"""Sauce dish""",https://collectionapi.metmuseum.org/public/collection/v1/objects/007142
+LIBSRC-LIB52-ENT-MET-0071424,dimension_length,111.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/007142
+LIBSRC-LIB52-ENT-MET-0071424,dimension_length,111.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/007142
+LIBSRC-LIB52-ENT-MET-0072074,material_property_verbatim,"""Earthenware""",https://collectionapi.metmuseum.org/public/collection/v1/objects/007207
+LIBSRC-LIB52-ENT-MET-0072074,descriptive_identity,"""Sauceboat""",https://collectionapi.metmuseum.org/public/collection/v1/objects/007207
+LIBSRC-LIB52-ENT-MET-0072074,dimension_length,73.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/007207
+LIBSRC-LIB52-ENT-MET-0083944,material_property_verbatim,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/008394
+LIBSRC-LIB52-ENT-MET-0083944,descriptive_identity,"""Teapot""",https://collectionapi.metmuseum.org/public/collection/v1/objects/008394
+LIBSRC-LIB52-ENT-MET-0083944,dimension_length,146.05,https://collectionapi.metmuseum.org/public/collection/v1/objects/008394
+LIBSRC-LIB52-ENT-MET-0088034,material_property_verbatim,"""Fused silver plate""",https://collectionapi.metmuseum.org/public/collection/v1/objects/008803
+LIBSRC-LIB52-ENT-MET-0088034,descriptive_identity,"""Tray""",https://collectionapi.metmuseum.org/public/collection/v1/objects/008803
+LIBSRC-LIB52-ENT-MET-0088034,dimension_length,69.85000000000001,https://collectionapi.metmuseum.org/public/collection/v1/objects/008803
+LIBSRC-LIB52-ENT-MET-0088394,material_property_verbatim,"""Iron""",https://collectionapi.metmuseum.org/public/collection/v1/objects/008839
+LIBSRC-LIB52-ENT-MET-0088394,descriptive_identity,"""Trivet""",https://collectionapi.metmuseum.org/public/collection/v1/objects/008839
+LIBSRC-LIB52-ENT-MET-0088394,dimension_length,25.40005,https://collectionapi.metmuseum.org/public/collection/v1/objects/008839
+LIBSRC-LIB52-ENT-MET-0113254,material_property_verbatim,"""Oil on canvas""",https://collectionapi.metmuseum.org/public/collection/v1/objects/011325
+LIBSRC-LIB52-ENT-MET-0113254,descriptive_identity,"""Painting""",https://collectionapi.metmuseum.org/public/collection/v1/objects/011325
+LIBSRC-LIB52-ENT-MET-0113254,dimension_length,152.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/011325
+LIBSRC-LIB52-ENT-MET-0113254,dimension_length,711.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/011325
+LIBSRC-LIB52-ENT-MET-0113254,dimension_length,727.0763999999999,https://collectionapi.metmuseum.org/public/collection/v1/objects/011325
+LIBSRC-LIB52-ENT-MET-0113284,material_property_verbatim,"""Oil on canvas""",https://collectionapi.metmuseum.org/public/collection/v1/objects/011328
+LIBSRC-LIB52-ENT-MET-0113284,descriptive_identity,"""Painting""",https://collectionapi.metmuseum.org/public/collection/v1/objects/011328
+LIBSRC-LIB52-ENT-MET-0113284,dimension_length,724.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/011328
+LIBSRC-LIB52-ENT-MET-0113284,dimension_length,155.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/011328
+LIBSRC-LIB52-ENT-MET-0113334,material_property_verbatim,"""Tempera on paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/011333
+LIBSRC-LIB52-ENT-MET-0113334,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/011333
+LIBSRC-LIB52-ENT-MET-0113334,dimension_length,876.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/011333
+LIBSRC-LIB52-ENT-MET-0114894,material_property_verbatim,"""Graphite and charcoal on paper, mounted on board""",https://collectionapi.metmuseum.org/public/collection/v1/objects/011489
+LIBSRC-LIB52-ENT-MET-0114894,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/011489
+LIBSRC-LIB52-ENT-MET-0114894,dimension_length,400,https://collectionapi.metmuseum.org/public/collection/v1/objects/011489
+LIBSRC-LIB52-ENT-MET-0114894,dimension_length,711.2014,https://collectionapi.metmuseum.org/public/collection/v1/objects/011489
+LIBSRC-LIB52-ENT-MET-0114904,material_property_verbatim,"""Charcoal on paper, mounted on board""",https://collectionapi.metmuseum.org/public/collection/v1/objects/011490
+LIBSRC-LIB52-ENT-MET-0114904,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/011490
+LIBSRC-LIB52-ENT-MET-0114904,dimension_length,400.051,https://collectionapi.metmuseum.org/public/collection/v1/objects/011490
+LIBSRC-LIB52-ENT-MET-0114904,dimension_length,711.2014,https://collectionapi.metmuseum.org/public/collection/v1/objects/011490
+LIBSRC-LIB52-ENT-MET-0128904,material_property_verbatim,"""Oil on canvas""",https://collectionapi.metmuseum.org/public/collection/v1/objects/012890
+LIBSRC-LIB52-ENT-MET-0128904,descriptive_identity,"""Painting\r\nFrigate Presiden\r\nFrigate President and\r\nH.B.M. Endymion""",https://collectionapi.metmuseum.org/public/collection/v1/objects/012890
+LIBSRC-LIB52-ENT-MET-0128904,dimension_length,565.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/012890
+LIBSRC-LIB52-ENT-MET-0128904,dimension_length,67.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/012890
+LIBSRC-LIB52-ENT-MET-0129064,material_property_verbatim,"""Graphite on paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/012906
+LIBSRC-LIB52-ENT-MET-0129064,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/012906
+LIBSRC-LIB52-ENT-MET-0129064,dimension_length,187.32500000000002,https://collectionapi.metmuseum.org/public/collection/v1/objects/012906
+LIBSRC-LIB52-ENT-MET-0130744,material_property_verbatim,"""Graphite and gouache on brown wove paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/013074
+LIBSRC-LIB52-ENT-MET-0130744,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/013074
+LIBSRC-LIB52-ENT-MET-0130744,dimension_length,210,https://collectionapi.metmuseum.org/public/collection/v1/objects/013074
+LIBSRC-LIB52-ENT-MET-0131864,material_property_verbatim,"""Black and gray ink washes, pen and brown ink, watercolor, and graphite on off-white wove paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/013186
+LIBSRC-LIB52-ENT-MET-0131864,descriptive_identity,"""Watercolor""",https://collectionapi.metmuseum.org/public/collection/v1/objects/013186
+LIBSRC-LIB52-ENT-MET-0131864,dimension_length,244.47500000000002,https://collectionapi.metmuseum.org/public/collection/v1/objects/013186
+LIBSRC-LIB52-ENT-MET-0139164,material_property_verbatim,"""Silk, woven""",https://collectionapi.metmuseum.org/public/collection/v1/objects/013916
+LIBSRC-LIB52-ENT-MET-0139164,descriptive_identity,"""Ribbon""",https://collectionapi.metmuseum.org/public/collection/v1/objects/013916
+LIBSRC-LIB52-ENT-MET-0139164,dimension_length,597.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/013916
+LIBSRC-LIB52-ENT-MET-0159474,material_property_verbatim,"""Graphite on buff paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015947
+LIBSRC-LIB52-ENT-MET-0159474,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015947
+LIBSRC-LIB52-ENT-MET-0159474,dimension_length,248.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/015947
+LIBSRC-LIB52-ENT-MET-0168654,material_property_verbatim,"""Wool with appliqu\u00e9""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016865
+LIBSRC-LIB52-ENT-MET-0168654,descriptive_identity,"""Tablecover""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016865
+LIBSRC-LIB52-ENT-MET-0168654,dimension_length,2007.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/016865
+LIBSRC-LIB52-ENT-MET-0168694,material_property_verbatim,"""Watercolor, gouache, and graphite on blue wove paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016869
+LIBSRC-LIB52-ENT-MET-0168694,descriptive_identity,"""Watercolor""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016869
+LIBSRC-LIB52-ENT-MET-0168694,dimension_length,114.3,https://collectionapi.metmuseum.org/public/collection/v1/objects/016869
+LIBSRC-LIB52-ENT-MET-0168704,material_property_verbatim,"""Porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016870
+LIBSRC-LIB52-ENT-MET-0168704,descriptive_identity,"""Dish""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016870
+LIBSRC-LIB52-ENT-MET-0168704,dimension_length,83.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/016870
+LIBSRC-LIB52-ENT-MET-0169124,material_property_verbatim,"""Cherry, mahogany banding, light- and dark-wood inlay, chestnut, yellow pine, white pine""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016912
+LIBSRC-LIB52-ENT-MET-0169124,descriptive_identity,"""Sideboard""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016912
+LIBSRC-LIB52-ENT-MET-0169124,dimension_length,737.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/016912
+LIBSRC-LIB52-ENT-MET-0172314,material_property_verbatim,"""Transparent and opaque watercolor, and graphite on paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/017231
+LIBSRC-LIB52-ENT-MET-0172314,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/017231
+LIBSRC-LIB52-ENT-MET-0172314,dimension_length,447.04099999999994,https://collectionapi.metmuseum.org/public/collection/v1/objects/017231
+LIBSRC-LIB52-ENT-MET-0172314,dimension_length,459.995,https://collectionapi.metmuseum.org/public/collection/v1/objects/017231
+LIBSRC-LIB52-ENT-MET-0172314,dimension_length,615.95123,https://collectionapi.metmuseum.org/public/collection/v1/objects/017231
+LIBSRC-LIB52-ENT-MET-0172314,dimension_length,6.350012400000001,https://collectionapi.metmuseum.org/public/collection/v1/objects/017231
+LIBSRC-LIB52-ENT-MET-0173684,material_property_verbatim,"""Enamel on porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/017368
+LIBSRC-LIB52-ENT-MET-0173684,descriptive_identity,"""Plaque""",https://collectionapi.metmuseum.org/public/collection/v1/objects/017368
+LIBSRC-LIB52-ENT-MET-0173684,dimension_length,285.751,https://collectionapi.metmuseum.org/public/collection/v1/objects/017368
+LIBSRC-LIB52-ENT-MET-0301134,descriptive_identity,"""Four cock's spurs with case""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030113
+LIBSRC-LIB52-ENT-MET-0313984,material_property_verbatim,"""Steel, wood, silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/031398
+LIBSRC-LIB52-ENT-MET-0313984,descriptive_identity,"""Executioner's kris with sheath""",https://collectionapi.metmuseum.org/public/collection/v1/objects/031398
+LIBSRC-LIB52-ENT-MET-0315774,material_property_verbatim,"""Steel, bone, ivory, brass, sharkskin, agate""",https://collectionapi.metmuseum.org/public/collection/v1/objects/031577
+LIBSRC-LIB52-ENT-MET-0315774,descriptive_identity,"""Knife with sheath, chopsticks, pickle spear and toothpicks""",https://collectionapi.metmuseum.org/public/collection/v1/objects/031577
+LIBSRC-LIB52-ENT-MET-0315784,material_property_verbatim,"""Steel, wood, ebony, ivory, silver, brass, leather, coral""",https://collectionapi.metmuseum.org/public/collection/v1/objects/031578
+LIBSRC-LIB52-ENT-MET-0315784,descriptive_identity,"""Knife with sheath, chopsticks and belt loop""",https://collectionapi.metmuseum.org/public/collection/v1/objects/031578
+LIBSRC-LIB52-ENT-MET-0315974,material_property_verbatim,"""Steel, wood, lacquer, ray skin (sam\u00e9), baleen, copper-silver alloy (shibuichi), copper-gold alloy (shakud\u014d), gold,""",https://collectionapi.metmuseum.org/public/collection/v1/objects/031597
+LIBSRC-LIB52-ENT-MET-0315974,descriptive_identity,"""Blade and mounting for a dagger (Tant\u014d)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/031597
+LIBSRC-LIB52-ENT-MET-0000424,material_property_verbatim,"""Brass, iron""",https://collectionapi.metmuseum.org/public/collection/v1/objects/000042
+LIBSRC-LIB52-ENT-MET-0000424,descriptive_identity,"""Andiron""",https://collectionapi.metmuseum.org/public/collection/v1/objects/000042
+LIBSRC-LIB52-ENT-MET-0000424,dimension_length,352.42600000000004,https://collectionapi.metmuseum.org/public/collection/v1/objects/000042
+LIBSRC-LIB52-ENT-MET-0005124,material_property_verbatim,"""Paper with composition covers""",https://collectionapi.metmuseum.org/public/collection/v1/objects/000512
+LIBSRC-LIB52-ENT-MET-0005124,descriptive_identity,"""Bible""",https://collectionapi.metmuseum.org/public/collection/v1/objects/000512
+LIBSRC-LIB52-ENT-MET-0005124,dimension_length,51.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/000512
+LIBSRC-LIB52-ENT-MET-0007014,material_property_verbatim,"""Blown glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/000701
+LIBSRC-LIB52-ENT-MET-0007014,descriptive_identity,"""Bowl""",https://collectionapi.metmuseum.org/public/collection/v1/objects/000701
+LIBSRC-LIB52-ENT-MET-0007014,dimension_length,158.75,https://collectionapi.metmuseum.org/public/collection/v1/objects/000701
+LIBSRC-LIB52-ENT-MET-0008984,material_property_verbatim,"""Rootwood tortoiseshell, ivory, gilt bronze""",https://collectionapi.metmuseum.org/public/collection/v1/objects/000898
+LIBSRC-LIB52-ENT-MET-0008984,descriptive_identity,"""Box""",https://collectionapi.metmuseum.org/public/collection/v1/objects/000898
+LIBSRC-LIB52-ENT-MET-0008984,dimension_length,89.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/000898
+LIBSRC-LIB52-ENT-MET-0009454,material_property_verbatim,"""White oak, red oak, yellow pine""",https://collectionapi.metmuseum.org/public/collection/v1/objects/000945
+LIBSRC-LIB52-ENT-MET-0009454,descriptive_identity,"""Box""",https://collectionapi.metmuseum.org/public/collection/v1/objects/000945
+LIBSRC-LIB52-ENT-MET-0009454,dimension_length,393.701,https://collectionapi.metmuseum.org/public/collection/v1/objects/000945
+LIBSRC-LIB52-ENT-MET-0009654,material_property_verbatim,"""Cut blown glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/000965
+LIBSRC-LIB52-ENT-MET-0009654,descriptive_identity,"""Brandy tumbler""",https://collectionapi.metmuseum.org/public/collection/v1/objects/000965
+LIBSRC-LIB52-ENT-MET-0009654,dimension_length,34.925000000000004,https://collectionapi.metmuseum.org/public/collection/v1/objects/000965
+LIBSRC-LIB52-ENT-MET-0009684,material_property_verbatim,"""Cut blown glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/000968
+LIBSRC-LIB52-ENT-MET-0009684,descriptive_identity,"""Brandy tumbler""",https://collectionapi.metmuseum.org/public/collection/v1/objects/000968
+LIBSRC-LIB52-ENT-MET-0009684,dimension_length,34.925000000000004,https://collectionapi.metmuseum.org/public/collection/v1/objects/000968
+LIBSRC-LIB52-ENT-MET-0009794,material_property_verbatim,"""Porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/000979
+LIBSRC-LIB52-ENT-MET-0009794,descriptive_identity,"""Bread plate""",https://collectionapi.metmuseum.org/public/collection/v1/objects/000979
+LIBSRC-LIB52-ENT-MET-0009794,dimension_length,159.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/000979
+LIBSRC-LIB52-ENT-MET-0010004,material_property_verbatim,"""Porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001000
+LIBSRC-LIB52-ENT-MET-0010004,descriptive_identity,"""Bread plate""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001000
+LIBSRC-LIB52-ENT-MET-0010004,dimension_length,159.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/001000
+LIBSRC-LIB52-ENT-MET-0010194,material_property_verbatim,"""Cedar""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001019
+LIBSRC-LIB52-ENT-MET-0010194,descriptive_identity,"""Bride box""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001019
+LIBSRC-LIB52-ENT-MET-0010194,dimension_length,273.051,https://collectionapi.metmuseum.org/public/collection/v1/objects/001019
+LIBSRC-LIB52-ENT-MET-0010324,material_property_verbatim,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001032
+LIBSRC-LIB52-ENT-MET-0010324,descriptive_identity,"""Buckle""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001032
+LIBSRC-LIB52-ENT-MET-0010324,dimension_length,60.324999999999996,https://collectionapi.metmuseum.org/public/collection/v1/objects/001032
+LIBSRC-LIB52-ENT-MET-0010424,material_property_verbatim,"""Free-blown glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001042
+LIBSRC-LIB52-ENT-MET-0010424,descriptive_identity,"""Windowpane""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001042
+LIBSRC-LIB52-ENT-MET-0010424,dimension_length,225.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/001042
+LIBSRC-LIB52-ENT-MET-0010764,material_property_verbatim,"""Red oak, white pine, black walnut, red cedar, maple""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001076
+LIBSRC-LIB52-ENT-MET-0010764,descriptive_identity,"""Cabinet""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001076
+LIBSRC-LIB52-ENT-MET-0010764,dimension_length,254.00099999999998,https://collectionapi.metmuseum.org/public/collection/v1/objects/001076
+LIBSRC-LIB52-ENT-MET-0010964,material_property_verbatim,"""Pressed glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001096
+LIBSRC-LIB52-ENT-MET-0010964,descriptive_identity,"""Cake stand""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001096
+LIBSRC-LIB52-ENT-MET-0010964,dimension_length,247.65,https://collectionapi.metmuseum.org/public/collection/v1/objects/001096
+LIBSRC-LIB52-ENT-MET-0011624,material_property_verbatim,"""Brass, iron""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001162
+LIBSRC-LIB52-ENT-MET-0011624,descriptive_identity,"""Candle stand""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001162
+LIBSRC-LIB52-ENT-MET-0011624,dimension_length,1651.0030000000002,https://collectionapi.metmuseum.org/public/collection/v1/objects/001162
+LIBSRC-LIB52-ENT-MET-0011634,material_property_verbatim,"""Brass, iron""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001163
+LIBSRC-LIB52-ENT-MET-0011634,descriptive_identity,"""Candle stand""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001163
+LIBSRC-LIB52-ENT-MET-0011634,dimension_length,1727.203,https://collectionapi.metmuseum.org/public/collection/v1/objects/001163
+LIBSRC-LIB52-ENT-MET-0011734,material_property_verbatim,"""Maple""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001173
+LIBSRC-LIB52-ENT-MET-0011734,descriptive_identity,"""Candle stand""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001173
+LIBSRC-LIB52-ENT-MET-0011734,dimension_length,279.401,https://collectionapi.metmuseum.org/public/collection/v1/objects/001173
+LIBSRC-LIB52-ENT-MET-0011754,material_property_verbatim,"""Cherry""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001175
+LIBSRC-LIB52-ENT-MET-0011754,descriptive_identity,"""Candle stand""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001175
+LIBSRC-LIB52-ENT-MET-0011754,dimension_length,457.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/001175
+LIBSRC-LIB52-ENT-MET-0011764,material_property_verbatim,"""Maple, basswood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001176
+LIBSRC-LIB52-ENT-MET-0011764,descriptive_identity,"""Candle stand""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001176
+LIBSRC-LIB52-ENT-MET-0141484,material_property_verbatim,"""Wool, natural and mercerized cotton, \""artificial silk\""""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014148
+LIBSRC-LIB52-ENT-MET-0141484,descriptive_identity,"""Tapestry""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014148
+LIBSRC-LIB52-ENT-MET-0141484,dimension_length,2134.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/014148
+LIBSRC-LIB52-ENT-MET-0141844,material_property_verbatim,"""Linen embroidered with wool""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014184
+LIBSRC-LIB52-ENT-MET-0141844,descriptive_identity,"""Valance""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014184
+LIBSRC-LIB52-ENT-MET-0141844,dimension_length,1397.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/014184
+LIBSRC-LIB52-ENT-MET-0142054,material_property_verbatim,"""Watercolor and gouache on white wove paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014205
+LIBSRC-LIB52-ENT-MET-0142054,descriptive_identity,"""Watercolor""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014205
+LIBSRC-LIB52-ENT-MET-0142054,dimension_length,213.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/014205
+LIBSRC-LIB52-ENT-MET-0143214,material_property_verbatim,"""Maple, ash""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014321
+LIBSRC-LIB52-ENT-MET-0143214,descriptive_identity,"""Armchair""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014321
+LIBSRC-LIB52-ENT-MET-0143214,dimension_length,441.32599999999996,https://collectionapi.metmuseum.org/public/collection/v1/objects/014321
+LIBSRC-LIB52-ENT-MET-0143254,material_property_verbatim,"""Stoneware""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014325
+LIBSRC-LIB52-ENT-MET-0143254,descriptive_identity,"""Vase""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014325
+LIBSRC-LIB52-ENT-MET-0143254,dimension_length,165.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/014325
+LIBSRC-LIB52-ENT-MET-0143384,material_property_verbatim,"""Glazed terra cotta""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014338
+LIBSRC-LIB52-ENT-MET-0143384,descriptive_identity,"""Panel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014338
+LIBSRC-LIB52-ENT-MET-0143384,dimension_length,127.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/014338
+LIBSRC-LIB52-ENT-MET-0144974,material_property_verbatim,"""Blown crown milano glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014497
+LIBSRC-LIB52-ENT-MET-0144974,descriptive_identity,"""Vase""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014497
+LIBSRC-LIB52-ENT-MET-0144974,dimension_length,107.95,https://collectionapi.metmuseum.org/public/collection/v1/objects/014497
+LIBSRC-LIB52-ENT-MET-0147284,material_property_verbatim,"""White metal""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014728
+LIBSRC-LIB52-ENT-MET-0147284,descriptive_identity,"""Medal""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014728
+LIBSRC-LIB52-ENT-MET-0147284,dimension_length,32.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/014728
+LIBSRC-LIB52-ENT-MET-0148374,material_property_verbatim,"""Watercolor on off-white Bristol board""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014837
+LIBSRC-LIB52-ENT-MET-0148374,descriptive_identity,"""Watercolor""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014837
+LIBSRC-LIB52-ENT-MET-0148374,dimension_length,125.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/014837
+LIBSRC-LIB52-ENT-MET-0149284,material_property_verbatim,"""Wrought iron""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014928
+LIBSRC-LIB52-ENT-MET-0149284,descriptive_identity,"""Screen""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014928
+LIBSRC-LIB52-ENT-MET-0149284,dimension_length,140,https://collectionapi.metmuseum.org/public/collection/v1/objects/014928
+LIBSRC-LIB52-ENT-MET-0152214,material_property_verbatim,"""Watercolor on ivory""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015221
+LIBSRC-LIB52-ENT-MET-0152214,descriptive_identity,"""Painting, miniature""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015221
+LIBSRC-LIB52-ENT-MET-0152214,dimension_length,41.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/015221
+LIBSRC-LIB52-ENT-MET-0185844,material_property_verbatim,"""Favrile glass (blue)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/018584
+LIBSRC-LIB52-ENT-MET-0185844,descriptive_identity,"""Tile fragment""",https://collectionapi.metmuseum.org/public/collection/v1/objects/018584
+LIBSRC-LIB52-ENT-MET-0185844,dimension_length,6.35,https://collectionapi.metmuseum.org/public/collection/v1/objects/018584
+LIBSRC-LIB52-ENT-MET-0187514,material_property_verbatim,"""Porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/018751
+LIBSRC-LIB52-ENT-MET-0187514,descriptive_identity,"""Dinner service""",https://collectionapi.metmuseum.org/public/collection/v1/objects/018751
+LIBSRC-LIB52-ENT-MET-0187514,dimension_length,32.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/018751
+LIBSRC-LIB52-ENT-MET-0192494,material_property_verbatim,"""Pen, ink, wash on paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019249
+LIBSRC-LIB52-ENT-MET-0192494,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019249
+LIBSRC-LIB52-ENT-MET-0192494,dimension_length,536.576,https://collectionapi.metmuseum.org/public/collection/v1/objects/019249
+LIBSRC-LIB52-ENT-MET-0198754,material_property_verbatim,"""Earthenware""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019875
+LIBSRC-LIB52-ENT-MET-0198754,descriptive_identity,"""Vase""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019875
+LIBSRC-LIB52-ENT-MET-0198754,dimension_length,290.51308,https://collectionapi.metmuseum.org/public/collection/v1/objects/019875
+LIBSRC-LIB52-ENT-MET-0199914,material_property_verbatim,"""Earthenware""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019991
+LIBSRC-LIB52-ENT-MET-0199914,descriptive_identity,"""Vase""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019991
+LIBSRC-LIB52-ENT-MET-0199914,dimension_length,114.30023,https://collectionapi.metmuseum.org/public/collection/v1/objects/019991
+LIBSRC-LIB52-ENT-MET-0220034,material_property_verbatim,"""Steel, leather""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022003
+LIBSRC-LIB52-ENT-MET-0220034,descriptive_identity,"""Armor in the style of the 15th century""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022003
+LIBSRC-LIB52-ENT-MET-0221654,material_property_verbatim,"""Chiselled steel, leather, lacquer""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022165
+LIBSRC-LIB52-ENT-MET-0221654,descriptive_identity,"""Half mask (Menp\u014d) and gorget""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022165
+LIBSRC-LIB52-ENT-MET-0225804,material_property_verbatim,"""Iron""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022580
+LIBSRC-LIB52-ENT-MET-0225804,descriptive_identity,"""Half mask (Menp\u014d) with gorget""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022580
+LIBSRC-LIB52-ENT-MET-0225994,material_property_verbatim,"""Iron""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022599
+LIBSRC-LIB52-ENT-MET-0225994,descriptive_identity,"""Pair of sleeves (Kot\u0113)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022599
+LIBSRC-LIB52-ENT-MET-0225994,dimension_length,755.6999999999999,https://collectionapi.metmuseum.org/public/collection/v1/objects/022599
+LIBSRC-LIB52-ENT-MET-0226064,material_property_verbatim,"""Iron, lacquer, silk, gilt copper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022606
+LIBSRC-LIB52-ENT-MET-0226064,descriptive_identity,"""Armor (Gusoku)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022606
+LIBSRC-LIB52-ENT-MET-0226874,material_property_verbatim,"""Iron, gold, bronze""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022687
+LIBSRC-LIB52-ENT-MET-0226874,descriptive_identity,"""Harness ornament (Uzu)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022687
+LIBSRC-LIB52-ENT-MET-0229804,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022980
+LIBSRC-LIB52-ENT-MET-0229804,descriptive_identity,"""Vamplate""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022980
+LIBSRC-LIB52-ENT-MET-0229804,dimension_length,161.8,https://collectionapi.metmuseum.org/public/collection/v1/objects/022980
+LIBSRC-LIB52-ENT-MET-0232494,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023249
+LIBSRC-LIB52-ENT-MET-0232494,descriptive_identity,"""Half sleeve of mail""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023249
+LIBSRC-LIB52-ENT-MET-0232494,dimension_length,342.9,https://collectionapi.metmuseum.org/public/collection/v1/objects/023249
+LIBSRC-LIB52-ENT-MET-0236714,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023671
+LIBSRC-LIB52-ENT-MET-0236714,descriptive_identity,"""Arrowhead (<i>Yanone</i>)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023671
+LIBSRC-LIB52-ENT-MET-0238844,material_property_verbatim,"""Textile (probably hemp or ramie), pigment""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023884
+LIBSRC-LIB52-ENT-MET-0238844,descriptive_identity,"""Standard banner (Sashimono)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023884
+LIBSRC-LIB52-ENT-MET-0238994,material_property_verbatim,"""Steel, wood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023899
+LIBSRC-LIB52-ENT-MET-0238994,descriptive_identity,"""Spearhead with sheath (Sanaku-yari shirasaya)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023899
+LIBSRC-LIB52-ENT-MET-0238994,dimension_length,457.2,https://collectionapi.metmuseum.org/public/collection/v1/objects/023899
+LIBSRC-LIB52-ENT-MET-0239054,material_property_verbatim,"""Wood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023905
+LIBSRC-LIB52-ENT-MET-0239054,descriptive_identity,"""Morning star""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023905
+LIBSRC-LIB52-ENT-MET-0240224,material_property_verbatim,"""Leather, lacquer""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024022
+LIBSRC-LIB52-ENT-MET-0240224,descriptive_identity,"""Helmet""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024022
+LIBSRC-LIB52-ENT-MET-0240294,material_property_verbatim,"""Steel, iron, gold""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024029
+LIBSRC-LIB52-ENT-MET-0240294,descriptive_identity,"""Helmet""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024029
+LIBSRC-LIB52-ENT-MET-0240294,dimension_length,609.6,https://collectionapi.metmuseum.org/public/collection/v1/objects/024029
+LIBSRC-LIB52-ENT-MET-0240394,material_property_verbatim,"""Iron, textile""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024039
+LIBSRC-LIB52-ENT-MET-0240394,descriptive_identity,"""Helmet""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024039
+LIBSRC-LIB52-ENT-MET-0240404,material_property_verbatim,"""Iron, steel, silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024040
+LIBSRC-LIB52-ENT-MET-0240404,descriptive_identity,"""Helmet""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024040
+LIBSRC-LIB52-ENT-MET-0240404,dimension_length,213.1,https://collectionapi.metmuseum.org/public/collection/v1/objects/024040
+LIBSRC-LIB52-ENT-MET-0245314,material_property_verbatim,"""Shell, bone, lacquer, wood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024531
+LIBSRC-LIB52-ENT-MET-0245314,descriptive_identity,"""Powder flask""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024531
+LIBSRC-LIB52-ENT-MET-0245314,dimension_length,260.4,https://collectionapi.metmuseum.org/public/collection/v1/objects/024531
+LIBSRC-LIB52-ENT-MET-0245394,material_property_verbatim,"""Lacquer, wood, brass, textile""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024539
+LIBSRC-LIB52-ENT-MET-0245394,descriptive_identity,"""Powder flask""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024539
+LIBSRC-LIB52-ENT-MET-0245754,material_property_verbatim,"""Linen, silk""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024575
+LIBSRC-LIB52-ENT-MET-0245754,descriptive_identity,"""Surcoat (<i>Jinbaori</i>)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024575
+LIBSRC-LIB52-ENT-MET-0245754,dimension_length,622.3,https://collectionapi.metmuseum.org/public/collection/v1/objects/024575
+LIBSRC-LIB52-ENT-MET-0245804,material_property_verbatim,"""Leather""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024580
+LIBSRC-LIB52-ENT-MET-0245804,descriptive_identity,"""Hat for camp wear""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024580
+LIBSRC-LIB52-ENT-MET-0245824,material_property_verbatim,"""Leather, textile""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024582
+LIBSRC-LIB52-ENT-MET-0245824,descriptive_identity,"""Cap""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024582
+LIBSRC-LIB52-ENT-MET-0246654,material_property_verbatim,"""Iron, lacquer, brocade, silk""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024665
+LIBSRC-LIB52-ENT-MET-0246654,descriptive_identity,"""Officer's baton with cloth case""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024665
+LIBSRC-LIB52-ENT-MET-0249384,material_property_verbatim,"""Ivory""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024938
+LIBSRC-LIB52-ENT-MET-0249384,descriptive_identity,"""Sculpture""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024938
+LIBSRC-LIB52-ENT-MET-0250374,material_property_verbatim,"""Iron, wood (likely mahogany), silver, brass, ivory""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025037
+LIBSRC-LIB52-ENT-MET-0250374,descriptive_identity,"""Flintlock Gun""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025037
+LIBSRC-LIB52-ENT-MET-0250754,material_property_verbatim,"""Steel, gold, iron wire""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025075
+LIBSRC-LIB52-ENT-MET-0250754,descriptive_identity,"""Combination sword and wheellock pistol""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025075
+LIBSRC-LIB52-ENT-MET-0251334,material_property_verbatim,"""Steel, brass, wood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025133
+LIBSRC-LIB52-ENT-MET-0251334,descriptive_identity,"""Ballock knife""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025133
+LIBSRC-LIB52-ENT-MET-0251444,material_property_verbatim,"""Steel, horn, brass, gold""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025144
+LIBSRC-LIB52-ENT-MET-0251444,descriptive_identity,"""Eared dagger""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025144
+LIBSRC-LIB52-ENT-MET-0252474,material_property_verbatim,"""Copper-silver alloy (shibuichi), copper, gold, copper-gold alloy (shakud\u014d)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025247
+LIBSRC-LIB52-ENT-MET-0252474,descriptive_identity,"""Knife handle (Kozuka)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025247
+LIBSRC-LIB52-ENT-MET-0259914,material_property_verbatim,"""Copper-gold alloy (shakud\u014d), gold, silver, copper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025991
+LIBSRC-LIB52-ENT-MET-0259914,descriptive_identity,"""Sword-hilt collar and pommel (Fuchigashira)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025991
+LIBSRC-LIB52-ENT-MET-0264734,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026473
+LIBSRC-LIB52-ENT-MET-0264734,descriptive_identity,"""Fragment of mail""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026473
+LIBSRC-LIB52-ENT-MET-0266674,material_property_verbatim,"""Steel, wood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026667
+LIBSRC-LIB52-ENT-MET-0266674,descriptive_identity,"""Partisan""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026667
+LIBSRC-LIB52-ENT-MET-0266864,material_property_verbatim,"""Steel, wood, gold""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026686
+LIBSRC-LIB52-ENT-MET-0266864,descriptive_identity,"""Partisan""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026686
+LIBSRC-LIB52-ENT-MET-0266914,material_property_verbatim,"""Steel, wood, textile, metallic thread""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026691
+LIBSRC-LIB52-ENT-MET-0266914,descriptive_identity,"""Partisan""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026691
+LIBSRC-LIB52-ENT-MET-0267014,material_property_verbatim,"""Steel, wood (beech)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026701
+LIBSRC-LIB52-ENT-MET-0267014,descriptive_identity,"""Staff weapon""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026701
+LIBSRC-LIB52-ENT-MET-0273844,material_property_verbatim,"""Iron, leather, wood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/027384
+LIBSRC-LIB52-ENT-MET-0273844,descriptive_identity,"""Sword with scabbard""",https://collectionapi.metmuseum.org/public/collection/v1/objects/027384
+LIBSRC-LIB52-ENT-MET-0281094,material_property_verbatim,"""Copper-gold alloy (shakud\u014d), gold, copper-silver alloy (shibuichi), silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/028109
+LIBSRC-LIB52-ENT-MET-0281094,descriptive_identity,"""Knife handle (Kozuka)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/028109
+LIBSRC-LIB52-ENT-MET-0282934,material_property_verbatim,"""Copper-silver alloy (shibuichi)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/028293
+LIBSRC-LIB52-ENT-MET-0282934,descriptive_identity,"""Knife handle (Kozuka)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/028293
+LIBSRC-LIB52-ENT-MET-0011814,material_property_verbatim,"""Wrought iron, bronze, brass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001181
+LIBSRC-LIB52-ENT-MET-0011814,descriptive_identity,"""Candle stand""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001181
+LIBSRC-LIB52-ENT-MET-0011814,dimension_length,406.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/001181
+LIBSRC-LIB52-ENT-MET-0012084,material_property_verbatim,"""Brass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001208
+LIBSRC-LIB52-ENT-MET-0012084,descriptive_identity,"""Candlestick""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001208
+LIBSRC-LIB52-ENT-MET-0012084,dimension_length,196.85,https://collectionapi.metmuseum.org/public/collection/v1/objects/001208
+LIBSRC-LIB52-ENT-MET-0012114,material_property_verbatim,"""Blown glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001211
+LIBSRC-LIB52-ENT-MET-0012114,descriptive_identity,"""Candlestick""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001211
+LIBSRC-LIB52-ENT-MET-0012114,dimension_length,276.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/001211
+LIBSRC-LIB52-ENT-MET-0013284,material_property_verbatim,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001328
+LIBSRC-LIB52-ENT-MET-0013284,descriptive_identity,"""Candlestick""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001328
+LIBSRC-LIB52-ENT-MET-0013284,dimension_length,285.751,https://collectionapi.metmuseum.org/public/collection/v1/objects/001328
+LIBSRC-LIB52-ENT-MET-0016314,material_property_verbatim,"""Rosewood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001631
+LIBSRC-LIB52-ENT-MET-0016314,descriptive_identity,"""Side Chair""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001631
+LIBSRC-LIB52-ENT-MET-0016314,dimension_length,527.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/001631
+LIBSRC-LIB52-ENT-MET-0016354,material_property_verbatim,"""Ebonized wood, light wood inlay""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001635
+LIBSRC-LIB52-ENT-MET-0016354,descriptive_identity,"""Side Chair""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001635
+LIBSRC-LIB52-ENT-MET-0030334,material_property_verbatim,"""Porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003033
+LIBSRC-LIB52-ENT-MET-0030334,descriptive_identity,"""Custard cup""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003033
+LIBSRC-LIB52-ENT-MET-0030334,dimension_length,88.9,https://collectionapi.metmuseum.org/public/collection/v1/objects/003033
+LIBSRC-LIB52-ENT-MET-0030344,material_property_verbatim,"""Porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003034
+LIBSRC-LIB52-ENT-MET-0030344,descriptive_identity,"""Custard cup""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003034
+LIBSRC-LIB52-ENT-MET-0030344,dimension_length,89.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003034
+LIBSRC-LIB52-ENT-MET-0030404,material_property_verbatim,"""Porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003040
+LIBSRC-LIB52-ENT-MET-0030404,descriptive_identity,"""Custard cup""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003040
+LIBSRC-LIB52-ENT-MET-0030404,dimension_length,89.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003040
+LIBSRC-LIB52-ENT-MET-0030454,material_property_verbatim,"""Porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003045
+LIBSRC-LIB52-ENT-MET-0030454,descriptive_identity,"""Custard cup""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003045
+LIBSRC-LIB52-ENT-MET-0030454,dimension_length,89.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003045
+LIBSRC-LIB52-ENT-MET-0030484,material_property_verbatim,"""Porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003048
+LIBSRC-LIB52-ENT-MET-0030484,descriptive_identity,"""Custard cup""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003048
+LIBSRC-LIB52-ENT-MET-0030484,dimension_length,64.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003048
+LIBSRC-LIB52-ENT-MET-0030544,material_property_verbatim,"""Porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003054
+LIBSRC-LIB52-ENT-MET-0030544,descriptive_identity,"""Custard cup""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003054
+LIBSRC-LIB52-ENT-MET-0030544,dimension_length,64.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003054
+LIBSRC-LIB52-ENT-MET-0030614,material_property_verbatim,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003061
+LIBSRC-LIB52-ENT-MET-0030614,descriptive_identity,"""Pipe""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003061
+LIBSRC-LIB52-ENT-MET-0030614,dimension_length,26.988,https://collectionapi.metmuseum.org/public/collection/v1/objects/003061
+LIBSRC-LIB52-ENT-MET-0030644,material_property_verbatim,"""Blown lead glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003064
+LIBSRC-LIB52-ENT-MET-0030644,descriptive_identity,"""Decanter""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003064
+LIBSRC-LIB52-ENT-MET-0030644,dimension_length,254.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003064
+LIBSRC-LIB52-ENT-MET-0030694,material_property_verbatim,"""Blown-molded glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003069
+LIBSRC-LIB52-ENT-MET-0030694,descriptive_identity,"""Decanter""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003069
+LIBSRC-LIB52-ENT-MET-0030694,dimension_length,235.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003069
+LIBSRC-LIB52-ENT-MET-0031164,material_property_verbatim,"""Porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003116
+LIBSRC-LIB52-ENT-MET-0031164,descriptive_identity,"""Demitasse cup and saucer""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003116
+LIBSRC-LIB52-ENT-MET-0031164,dimension_length,71.438,https://collectionapi.metmuseum.org/public/collection/v1/objects/003116
+LIBSRC-LIB52-ENT-MET-0031404,material_property_verbatim,"""Cherry, white pine""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003140
+LIBSRC-LIB52-ENT-MET-0031404,descriptive_identity,"""Desk and bookcase""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003140
+LIBSRC-LIB52-ENT-MET-0031404,dimension_length,603.251,https://collectionapi.metmuseum.org/public/collection/v1/objects/003140
+LIBSRC-LIB52-ENT-MET-0032394,material_property_verbatim,"""Lacy pressed glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003239
+LIBSRC-LIB52-ENT-MET-0032394,descriptive_identity,"""Dish""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003239
+LIBSRC-LIB52-ENT-MET-0032394,dimension_length,141.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003239
+LIBSRC-LIB52-ENT-MET-0032414,material_property_verbatim,"""Pewter""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003241
+LIBSRC-LIB52-ENT-MET-0032414,descriptive_identity,"""Dish""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003241
+LIBSRC-LIB52-ENT-MET-0032414,dimension_length,419.101,https://collectionapi.metmuseum.org/public/collection/v1/objects/003241
+LIBSRC-LIB52-ENT-MET-0032694,material_property_verbatim,"""Lacy pressed glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003269
+LIBSRC-LIB52-ENT-MET-0032694,descriptive_identity,"""Dish""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003269
+LIBSRC-LIB52-ENT-MET-0032694,dimension_length,194.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003269
+LIBSRC-LIB52-ENT-MET-0032724,material_property_verbatim,"""Pewter""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003272
+LIBSRC-LIB52-ENT-MET-0032724,descriptive_identity,"""Dish""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003272
+LIBSRC-LIB52-ENT-MET-0032724,dimension_length,381.001,https://collectionapi.metmuseum.org/public/collection/v1/objects/003272
+LIBSRC-LIB52-ENT-MET-0032914,material_property_verbatim,"""Pewter""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003291
+LIBSRC-LIB52-ENT-MET-0032914,descriptive_identity,"""Dish""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003291
+LIBSRC-LIB52-ENT-MET-0032914,dimension_length,336.551,https://collectionapi.metmuseum.org/public/collection/v1/objects/003291
+LIBSRC-LIB52-ENT-MET-0032924,material_property_verbatim,"""Pewter""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003292
+LIBSRC-LIB52-ENT-MET-0032924,descriptive_identity,"""Dish""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003292
+LIBSRC-LIB52-ENT-MET-0032924,dimension_length,282.576,https://collectionapi.metmuseum.org/public/collection/v1/objects/003292
+LIBSRC-LIB52-ENT-MET-0032954,material_property_verbatim,"""Pewter""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003295
+LIBSRC-LIB52-ENT-MET-0032954,descriptive_identity,"""Dish""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003295
+LIBSRC-LIB52-ENT-MET-0032954,dimension_length,333.37600000000003,https://collectionapi.metmuseum.org/public/collection/v1/objects/003295
+LIBSRC-LIB52-ENT-MET-0032974,material_property_verbatim,"""Earthenware, transfer-printed""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003297
+LIBSRC-LIB52-ENT-MET-0032974,descriptive_identity,"""Dish""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003297
+LIBSRC-LIB52-ENT-MET-0032974,dimension_length,248.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003297
+LIBSRC-LIB52-ENT-MET-0032994,material_property_verbatim,"""Pewter""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003299
+LIBSRC-LIB52-ENT-MET-0032994,descriptive_identity,"""Dish""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003299
+LIBSRC-LIB52-ENT-MET-0032994,dimension_length,330.201,https://collectionapi.metmuseum.org/public/collection/v1/objects/003299
+LIBSRC-LIB52-ENT-MET-0033004,material_property_verbatim,"""Pewter""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003300
+LIBSRC-LIB52-ENT-MET-0033004,descriptive_identity,"""Dish""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003300
+LIBSRC-LIB52-ENT-MET-0033004,dimension_length,342.901,https://collectionapi.metmuseum.org/public/collection/v1/objects/003300
+LIBSRC-LIB52-ENT-MET-0033234,material_property_verbatim,"""Porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003323
+LIBSRC-LIB52-ENT-MET-0033234,descriptive_identity,"""Dish""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003323
+LIBSRC-LIB52-ENT-MET-0033234,dimension_length,249.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003323
+LIBSRC-LIB52-ENT-MET-0033334,material_property_verbatim,"""Porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003333
+LIBSRC-LIB52-ENT-MET-0033334,descriptive_identity,"""Dish""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003333
+LIBSRC-LIB52-ENT-MET-0033334,dimension_length,235.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003333
+LIBSRC-LIB52-ENT-MET-0033364,material_property_verbatim,"""Porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003336
+LIBSRC-LIB52-ENT-MET-0033364,descriptive_identity,"""Dish""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003336
+LIBSRC-LIB52-ENT-MET-0033364,dimension_length,102.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003336
+LIBSRC-LIB52-ENT-MET-0033644,material_property_verbatim,"""Wrought iron""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003364
+LIBSRC-LIB52-ENT-MET-0033644,descriptive_identity,"""Door hinge""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003364
+LIBSRC-LIB52-ENT-MET-0033644,dimension_length,736.601,https://collectionapi.metmuseum.org/public/collection/v1/objects/003364
+LIBSRC-LIB52-ENT-MET-0033944,material_property_verbatim,"""Parian porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003394
+LIBSRC-LIB52-ENT-MET-0033944,descriptive_identity,"""Figure""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003394
+LIBSRC-LIB52-ENT-MET-0033944,dimension_length,2.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003394
+LIBSRC-LIB52-ENT-MET-0033974,material_property_verbatim,"""Poplar""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003397
+LIBSRC-LIB52-ENT-MET-0033974,descriptive_identity,"""Dower chest""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003397
+LIBSRC-LIB52-ENT-MET-0033974,dimension_length,584.201,https://collectionapi.metmuseum.org/public/collection/v1/objects/003397
+LIBSRC-LIB52-ENT-MET-0034004,material_property_verbatim,"""Poplar""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003400
+LIBSRC-LIB52-ENT-MET-0034004,descriptive_identity,"""Dower chest""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003400
+LIBSRC-LIB52-ENT-MET-0034004,dimension_length,591.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003400
+LIBSRC-LIB52-ENT-MET-0034204,material_property_verbatim,"""Japanned maple, white pine""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003420
+LIBSRC-LIB52-ENT-MET-0034204,descriptive_identity,"""Dressing table""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003420
+LIBSRC-LIB52-ENT-MET-0034204,dimension_length,536.576,https://collectionapi.metmuseum.org/public/collection/v1/objects/003420
+LIBSRC-LIB52-ENT-MET-0034244,material_property_verbatim,"""Mahogany, yellow poplar""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003424
+LIBSRC-LIB52-ENT-MET-0034244,descriptive_identity,"""Dressing Table""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003424
+LIBSRC-LIB52-ENT-MET-0034244,dimension_length,549.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003424
+LIBSRC-LIB52-ENT-MET-0034274,material_property_verbatim,"""Mahogany, yellow pine, tulip poplar, white cedar""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003427
+LIBSRC-LIB52-ENT-MET-0034274,descriptive_identity,"""Dressing Table""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003427
+LIBSRC-LIB52-ENT-MET-0034274,dimension_length,523.876,https://collectionapi.metmuseum.org/public/collection/v1/objects/003427
+LIBSRC-LIB52-ENT-MET-0036164,material_property_verbatim,"""Pressed colorless and opaque cranberry glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003616
+LIBSRC-LIB52-ENT-MET-0036164,descriptive_identity,"""Finger bowl""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003616
+LIBSRC-LIB52-ENT-MET-0036164,dimension_length,127.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003616
+LIBSRC-LIB52-ENT-MET-0036224,material_property_verbatim,"""Blown amber glass with applied threaded decoration""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003622
+LIBSRC-LIB52-ENT-MET-0036224,descriptive_identity,"""Finger bowl""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003622
+LIBSRC-LIB52-ENT-MET-0036224,dimension_length,130.175,https://collectionapi.metmuseum.org/public/collection/v1/objects/003622
+LIBSRC-LIB52-ENT-MET-0036504,material_property_verbatim,"""Bell metal, possibly iron""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003650
+LIBSRC-LIB52-ENT-MET-0036504,descriptive_identity,"""Fire tongs""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003650
+LIBSRC-LIB52-ENT-MET-0036504,dimension_length,869.952,https://collectionapi.metmuseum.org/public/collection/v1/objects/003650
+LIBSRC-LIB52-ENT-MET-0037264,material_property_verbatim,"""Blown-molded glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003726
+LIBSRC-LIB52-ENT-MET-0037264,descriptive_identity,"""Flask""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003726
+LIBSRC-LIB52-ENT-MET-0037264,dimension_length,157.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003726
+LIBSRC-LIB52-ENT-MET-0072744,material_property_verbatim,"""Porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/007274
+LIBSRC-LIB52-ENT-MET-0072744,descriptive_identity,"""Saucer""",https://collectionapi.metmuseum.org/public/collection/v1/objects/007274
+LIBSRC-LIB52-ENT-MET-0072744,dimension_length,139.70000000000002,https://collectionapi.metmuseum.org/public/collection/v1/objects/007274
+LIBSRC-LIB52-ENT-MET-0077834,material_property_verbatim,"""Pewter""",https://collectionapi.metmuseum.org/public/collection/v1/objects/007783
+LIBSRC-LIB52-ENT-MET-0077834,descriptive_identity,"""Spoon""",https://collectionapi.metmuseum.org/public/collection/v1/objects/007783
+LIBSRC-LIB52-ENT-MET-0077834,dimension_length,180.975,https://collectionapi.metmuseum.org/public/collection/v1/objects/007783
+LIBSRC-LIB52-ENT-MET-0125454,material_property_verbatim,"""Oil on canvas""",https://collectionapi.metmuseum.org/public/collection/v1/objects/012545
+LIBSRC-LIB52-ENT-MET-0125454,descriptive_identity,"""Painting""",https://collectionapi.metmuseum.org/public/collection/v1/objects/012545
+LIBSRC-LIB52-ENT-MET-0125454,dimension_length,711.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/012545
+LIBSRC-LIB52-ENT-MET-0131014,material_property_verbatim,"""Oil on wood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/013101
+LIBSRC-LIB52-ENT-MET-0131014,descriptive_identity,"""Painting""",https://collectionapi.metmuseum.org/public/collection/v1/objects/013101
+LIBSRC-LIB52-ENT-MET-0131014,dimension_length,1038.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/013101
+LIBSRC-LIB52-ENT-MET-0142894,material_property_verbatim,"""White opaque glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014289
+LIBSRC-LIB52-ENT-MET-0142894,descriptive_identity,"""Sugar bowl""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014289
+LIBSRC-LIB52-ENT-MET-0142894,dimension_length,195.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/014289
+LIBSRC-LIB52-ENT-MET-0142974,material_property_verbatim,"""Cherrywood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014297
+LIBSRC-LIB52-ENT-MET-0142974,descriptive_identity,"""\u00c9tag\u00e8re""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014297
+LIBSRC-LIB52-ENT-MET-0142974,dimension_length,406.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/014297
+LIBSRC-LIB52-ENT-MET-0159014,material_property_verbatim,"""Graphite on off-white wove paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015901
+LIBSRC-LIB52-ENT-MET-0159014,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015901
+LIBSRC-LIB52-ENT-MET-0159014,dimension_length,127.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/015901
+LIBSRC-LIB52-ENT-MET-0159024,material_property_verbatim,"""Graphite on off-white wove paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015902
+LIBSRC-LIB52-ENT-MET-0159024,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015902
+LIBSRC-LIB52-ENT-MET-0159024,dimension_length,127.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/015902
+LIBSRC-LIB52-ENT-MET-0160944,material_property_verbatim,"""Graphite on paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016094
+LIBSRC-LIB52-ENT-MET-0160944,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016094
+LIBSRC-LIB52-ENT-MET-0160944,dimension_length,139.70000000000002,https://collectionapi.metmuseum.org/public/collection/v1/objects/016094
+LIBSRC-LIB52-ENT-MET-0160974,material_property_verbatim,"""Graphite on paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016097
+LIBSRC-LIB52-ENT-MET-0160974,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016097
+LIBSRC-LIB52-ENT-MET-0160974,dimension_length,139.70000000000002,https://collectionapi.metmuseum.org/public/collection/v1/objects/016097
+LIBSRC-LIB52-ENT-MET-0162654,material_property_verbatim,"""Graphite on paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016265
+LIBSRC-LIB52-ENT-MET-0162654,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016265
+LIBSRC-LIB52-ENT-MET-0162654,dimension_length,216.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/016265
+LIBSRC-LIB52-ENT-MET-0162684,material_property_verbatim,"""Graphite on paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016268
+LIBSRC-LIB52-ENT-MET-0162684,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016268
+LIBSRC-LIB52-ENT-MET-0162684,dimension_length,216.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/016268
+LIBSRC-LIB52-ENT-MET-0175444,material_property_verbatim,"""Watercolor on ivory""",https://collectionapi.metmuseum.org/public/collection/v1/objects/017544
+LIBSRC-LIB52-ENT-MET-0175444,descriptive_identity,"""Painting, miniature""",https://collectionapi.metmuseum.org/public/collection/v1/objects/017544
+LIBSRC-LIB52-ENT-MET-0175444,dimension_length,49.212999999999994,https://collectionapi.metmuseum.org/public/collection/v1/objects/017544
+LIBSRC-LIB52-ENT-MET-0177804,material_property_verbatim,"""Silk embroidery on linen""",https://collectionapi.metmuseum.org/public/collection/v1/objects/017780
+LIBSRC-LIB52-ENT-MET-0177804,descriptive_identity,"""Sampler""",https://collectionapi.metmuseum.org/public/collection/v1/objects/017780
+LIBSRC-LIB52-ENT-MET-0177804,dimension_length,25.40005,https://collectionapi.metmuseum.org/public/collection/v1/objects/017780
+LIBSRC-LIB52-ENT-MET-0190154,material_property_verbatim,"""Watercolor on ivory""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019015
+LIBSRC-LIB52-ENT-MET-0190154,descriptive_identity,"""Painting, miniature""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019015
+LIBSRC-LIB52-ENT-MET-0190154,dimension_length,76.2,https://collectionapi.metmuseum.org/public/collection/v1/objects/019015
+LIBSRC-LIB52-ENT-MET-0192894,material_property_verbatim,"""Oil on Masonite""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019289
+LIBSRC-LIB52-ENT-MET-0192894,descriptive_identity,"""Painting""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019289
+LIBSRC-LIB52-ENT-MET-0192894,dimension_length,666.751,https://collectionapi.metmuseum.org/public/collection/v1/objects/019289
+LIBSRC-LIB52-ENT-MET-0197794,material_property_verbatim,"""Possibly beech, brass castors, and reproduction upholstery""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019779
+LIBSRC-LIB52-ENT-MET-0197794,descriptive_identity,"""Armchair""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019779
+LIBSRC-LIB52-ENT-MET-0197794,dimension_length,647.7013,https://collectionapi.metmuseum.org/public/collection/v1/objects/019779
+LIBSRC-LIB52-ENT-MET-0198574,material_property_verbatim,"""Stoneware""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019857
+LIBSRC-LIB52-ENT-MET-0198574,descriptive_identity,"""Vase""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019857
+LIBSRC-LIB52-ENT-MET-0198574,dimension_length,125.41275,https://collectionapi.metmuseum.org/public/collection/v1/objects/019857
+LIBSRC-LIB52-ENT-MET-0200924,material_property_verbatim,"""Stoneware""",https://collectionapi.metmuseum.org/public/collection/v1/objects/020092
+LIBSRC-LIB52-ENT-MET-0200924,descriptive_identity,"""Vase""",https://collectionapi.metmuseum.org/public/collection/v1/objects/020092
+LIBSRC-LIB52-ENT-MET-0200924,dimension_length,130.17526,https://collectionapi.metmuseum.org/public/collection/v1/objects/020092
+LIBSRC-LIB52-ENT-MET-0203354,material_property_verbatim,"""Earthenware""",https://collectionapi.metmuseum.org/public/collection/v1/objects/020335
+LIBSRC-LIB52-ENT-MET-0203354,descriptive_identity,"""Pitcher""",https://collectionapi.metmuseum.org/public/collection/v1/objects/020335
+LIBSRC-LIB52-ENT-MET-0203354,dimension_length,200.025,https://collectionapi.metmuseum.org/public/collection/v1/objects/020335
+LIBSRC-LIB52-ENT-MET-0204664,material_property_verbatim,"""Graphite on off-white paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/020466
+LIBSRC-LIB52-ENT-MET-0204664,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/020466
+LIBSRC-LIB52-ENT-MET-0204664,dimension_length,227.01296,https://collectionapi.metmuseum.org/public/collection/v1/objects/020466
+LIBSRC-LIB52-ENT-MET-0205554,material_property_verbatim,"""Silver, pearls""",https://collectionapi.metmuseum.org/public/collection/v1/objects/020555
+LIBSRC-LIB52-ENT-MET-0205554,descriptive_identity,"""Spoon""",https://collectionapi.metmuseum.org/public/collection/v1/objects/020555
+LIBSRC-LIB52-ENT-MET-0205554,dimension_length,174.62536,https://collectionapi.metmuseum.org/public/collection/v1/objects/020555
+LIBSRC-LIB52-ENT-MET-0222574,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022257
+LIBSRC-LIB52-ENT-MET-0222574,descriptive_identity,"""Breastplate with tassets and arm defenses""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022257
+LIBSRC-LIB52-ENT-MET-0224224,material_property_verbatim,"""Iron, textile""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022422
+LIBSRC-LIB52-ENT-MET-0224224,descriptive_identity,"""Pair of greaves (Sun\u0113-at\u0113)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022422
+LIBSRC-LIB52-ENT-MET-0224224,dimension_length,133.4,https://collectionapi.metmuseum.org/public/collection/v1/objects/022422
+LIBSRC-LIB52-ENT-MET-0224714,material_property_verbatim,"""Iron, leather, lacquer, silk, gilt copper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022471
+LIBSRC-LIB52-ENT-MET-0224714,descriptive_identity,"""Shoulder guard (\u014c-sode)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022471
+LIBSRC-LIB52-ENT-MET-0224714,dimension_length,349.3,https://collectionapi.metmuseum.org/public/collection/v1/objects/022471
+LIBSRC-LIB52-ENT-MET-0233954,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023395
+LIBSRC-LIB52-ENT-MET-0233954,descriptive_identity,"""Arrowhead (<i>Yanone</i>)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023395
+LIBSRC-LIB52-ENT-MET-0233954,dimension_length,295.1,https://collectionapi.metmuseum.org/public/collection/v1/objects/023395
+LIBSRC-LIB52-ENT-MET-0235254,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023525
+LIBSRC-LIB52-ENT-MET-0235254,descriptive_identity,"""Arrowhead (<i>Yanone</i>)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023525
+LIBSRC-LIB52-ENT-MET-0235254,dimension_length,282.4,https://collectionapi.metmuseum.org/public/collection/v1/objects/023525
+LIBSRC-LIB52-ENT-MET-0236514,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023651
+LIBSRC-LIB52-ENT-MET-0236514,descriptive_identity,"""Arrowhead (<i>Yanone</i>)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023651
+LIBSRC-LIB52-ENT-MET-0237624,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023762
+LIBSRC-LIB52-ENT-MET-0237624,descriptive_identity,"""Arrowhead (<i>Yanone</i>)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023762
+LIBSRC-LIB52-ENT-MET-0244614,material_property_verbatim,"""Leather""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024461
+LIBSRC-LIB52-ENT-MET-0244614,descriptive_identity,"""Spear holder""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024461
+LIBSRC-LIB52-ENT-MET-0247924,material_property_verbatim,"""Iron, textile""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024792
+LIBSRC-LIB52-ENT-MET-0247924,descriptive_identity,"""War hat (<i>Jingasa</i>)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024792
+LIBSRC-LIB52-ENT-MET-0247924,dimension_length,450.90000000000003,https://collectionapi.metmuseum.org/public/collection/v1/objects/024792
+LIBSRC-LIB52-ENT-MET-0251164,material_property_verbatim,"""Iron, gold, silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025116
+LIBSRC-LIB52-ENT-MET-0251164,descriptive_identity,"""Pair of stirrups (Yob cha)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025116
+LIBSRC-LIB52-ENT-MET-0252414,material_property_verbatim,"""Copper-gold alloy (shakud\u014d), gold, copper, copper-silver alloy (shibuichi), silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025241
+LIBSRC-LIB52-ENT-MET-0252414,descriptive_identity,"""Knife handle (Kozuka)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025241
+LIBSRC-LIB52-ENT-MET-0257734,material_property_verbatim,"""Iron, gold, shakud\u014d, copper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025773
+LIBSRC-LIB52-ENT-MET-0257734,descriptive_identity,"""Sword guard (Tsuba)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025773
+LIBSRC-LIB52-ENT-MET-0257754,material_property_verbatim,"""Iron, copper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025775
+LIBSRC-LIB52-ENT-MET-0257754,descriptive_identity,"""Sword guard (Tsuba)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025775
+LIBSRC-LIB52-ENT-MET-0258954,material_property_verbatim,"""Steel, wood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025895
+LIBSRC-LIB52-ENT-MET-0258954,descriptive_identity,"""Partisan""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025895
+LIBSRC-LIB52-ENT-MET-0259114,material_property_verbatim,"""Steel, wood (ash)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025911
+LIBSRC-LIB52-ENT-MET-0259114,descriptive_identity,"""Spontoon""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025911
+LIBSRC-LIB52-ENT-MET-0259154,material_property_verbatim,"""Steel, wood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025915
+LIBSRC-LIB52-ENT-MET-0259154,descriptive_identity,"""Linstock""",https://collectionapi.metmuseum.org/public/collection/v1/objects/025915
+LIBSRC-LIB52-ENT-MET-0260894,material_property_verbatim,"""Steel, wood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026089
+LIBSRC-LIB52-ENT-MET-0260894,descriptive_identity,"""Halberd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026089
+LIBSRC-LIB52-ENT-MET-0261444,material_property_verbatim,"""Copper-silver alloy (shibuichi), gold""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026144
+LIBSRC-LIB52-ENT-MET-0261444,descriptive_identity,"""Knife handle (Kozuka)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026144
+LIBSRC-LIB52-ENT-MET-0261844,material_property_verbatim,"""Steel, wood (ash)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026184
+LIBSRC-LIB52-ENT-MET-0261844,descriptive_identity,"""Linstock""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026184
+LIBSRC-LIB52-ENT-MET-0264004,material_property_verbatim,"""Copper, gold, silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026400
+LIBSRC-LIB52-ENT-MET-0264004,descriptive_identity,"""Sword guard (Tsuba)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026400
+LIBSRC-LIB52-ENT-MET-0265504,material_property_verbatim,"""Steel, copper alloy""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026550
+LIBSRC-LIB52-ENT-MET-0265504,descriptive_identity,"""Collar plate for a helmet""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026550
+LIBSRC-LIB52-ENT-MET-0266214,material_property_verbatim,"""Iron, leather""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026621
+LIBSRC-LIB52-ENT-MET-0266214,descriptive_identity,"""Fragment from a lamellar armor""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026621
+LIBSRC-LIB52-ENT-MET-0266234,material_property_verbatim,"""Ink, watercolor, paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026623
+LIBSRC-LIB52-ENT-MET-0266234,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026623
+LIBSRC-LIB52-ENT-MET-0267244,material_property_verbatim,"""Steel, wood, textile""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026724
+LIBSRC-LIB52-ENT-MET-0267244,descriptive_identity,"""Partisan""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026724
+LIBSRC-LIB52-ENT-MET-0267284,material_property_verbatim,"""Steel, wood (pine), iron, leather""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026728
+LIBSRC-LIB52-ENT-MET-0267284,descriptive_identity,"""Boar spear""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026728
+LIBSRC-LIB52-ENT-MET-0267304,material_property_verbatim,"""Steel, wood, gold""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026730
+LIBSRC-LIB52-ENT-MET-0267304,descriptive_identity,"""Halberd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026730
+LIBSRC-LIB52-ENT-MET-0267354,material_property_verbatim,"""Steel, wood, leather""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026735
+LIBSRC-LIB52-ENT-MET-0267354,descriptive_identity,"""Boar spear""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026735
+LIBSRC-LIB52-ENT-MET-0267494,material_property_verbatim,"""Steel, brass, wood, leather""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026749
+LIBSRC-LIB52-ENT-MET-0267494,descriptive_identity,"""Broadsword""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026749
+LIBSRC-LIB52-ENT-MET-0267514,material_property_verbatim,"""Steel, ivory, gold, leather, wood, silver, textile""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026751
+LIBSRC-LIB52-ENT-MET-0267514,descriptive_identity,"""Sword (Shamshir) with scabbard""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026751
+LIBSRC-LIB52-ENT-MET-0267534,material_property_verbatim,"""Steel, wood, textile, copper alloy""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026753
+LIBSRC-LIB52-ENT-MET-0267534,descriptive_identity,"""Halberd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026753
+LIBSRC-LIB52-ENT-MET-0267664,material_property_verbatim,"""Steel, wood, textile, metallic thread""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026766
+LIBSRC-LIB52-ENT-MET-0267664,descriptive_identity,"""Partisan""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026766
+LIBSRC-LIB52-ENT-MET-0267814,material_property_verbatim,"""Steel, wood, gold, copper alloy, textile""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026781
+LIBSRC-LIB52-ENT-MET-0267814,descriptive_identity,"""Glaive""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026781
+LIBSRC-LIB52-ENT-MET-0267994,material_property_verbatim,"""Iron, lacquer, gold, silver, copper alloy, leather, silk""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026799
+LIBSRC-LIB52-ENT-MET-0267994,descriptive_identity,"""Armor (<i>Gusoku</i>)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026799
+LIBSRC-LIB52-ENT-MET-0268034,material_property_verbatim,"""Iron""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026803
+LIBSRC-LIB52-ENT-MET-0268034,descriptive_identity,"""Breastplate""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026803
+LIBSRC-LIB52-ENT-MET-0268064,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026806
+LIBSRC-LIB52-ENT-MET-0268064,descriptive_identity,"""Helmet of mail and plate""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026806
+LIBSRC-LIB52-ENT-MET-0268124,material_property_verbatim,"""Steel, silver, velvet, wood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026812
+LIBSRC-LIB52-ENT-MET-0268124,descriptive_identity,"""Dagger (Katar) with sheath""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026812
+LIBSRC-LIB52-ENT-MET-0268214,material_property_verbatim,"""Wood, leather, iron, gesso, pigment""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026821
+LIBSRC-LIB52-ENT-MET-0268214,descriptive_identity,"""Shield (Targe)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026821
+LIBSRC-LIB52-ENT-MET-0268274,material_property_verbatim,"""Iron, gold""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026827
+LIBSRC-LIB52-ENT-MET-0268274,descriptive_identity,"""Sword guard (Tsuba)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026827
+LIBSRC-LIB52-ENT-MET-0268314,material_property_verbatim,"""Wood, gesso, pigment""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026831
+LIBSRC-LIB52-ENT-MET-0268314,descriptive_identity,"""Shield (<i>Targone</i>)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026831
+LIBSRC-LIB52-ENT-MET-0268314,dimension_length,120.65024,https://collectionapi.metmuseum.org/public/collection/v1/objects/026831
+LIBSRC-LIB52-ENT-MET-0268324,material_property_verbatim,"""Wood, gesso, pigment""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026832
+LIBSRC-LIB52-ENT-MET-0268324,descriptive_identity,"""Mace or Club (<i>Mazzacorto</i>)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026832
+LIBSRC-LIB52-ENT-MET-0268324,dimension_length,28.575058000000002,https://collectionapi.metmuseum.org/public/collection/v1/objects/026832
+LIBSRC-LIB52-ENT-MET-0268374,material_property_verbatim,"""Steel, gold""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026837
+LIBSRC-LIB52-ENT-MET-0268374,descriptive_identity,"""Greave and Sabaton in 16th century style""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026837
+LIBSRC-LIB52-ENT-MET-0268394,material_property_verbatim,"""Iron, leather""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026839
+LIBSRC-LIB52-ENT-MET-0268394,descriptive_identity,"""Foot defense""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026839
+LIBSRC-LIB52-ENT-MET-0268504,material_property_verbatim,"""Stained Glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026850
+LIBSRC-LIB52-ENT-MET-0268504,descriptive_identity,"""Stained glass panel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026850
+LIBSRC-LIB52-ENT-MET-0268744,material_property_verbatim,"""Copper-silver alloy (shibuichi), gold, silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026874
+LIBSRC-LIB52-ENT-MET-0268744,descriptive_identity,"""Knife handle (Kozuka)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026874
+LIBSRC-LIB52-ENT-MET-0268794,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026879
+LIBSRC-LIB52-ENT-MET-0268794,descriptive_identity,"""Close helmet""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026879
+LIBSRC-LIB52-ENT-MET-0268934,material_property_verbatim,"""Steel, gold""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026893
+LIBSRC-LIB52-ENT-MET-0268934,descriptive_identity,"""Percussion target pistol""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026893
+LIBSRC-LIB52-ENT-MET-0268984,material_property_verbatim,"""Tintype (in carte de visite format)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026898
+LIBSRC-LIB52-ENT-MET-0268984,descriptive_identity,"""Tintype photograph""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026898
+LIBSRC-LIB52-ENT-MET-0268984,dimension_length,98.425,https://collectionapi.metmuseum.org/public/collection/v1/objects/026898
+LIBSRC-LIB52-ENT-MET-0269124,material_property_verbatim,"""Copper-silver alloy (shibuichi), gold, copper-gold alloy (shakud\u014d)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026912
+LIBSRC-LIB52-ENT-MET-0269124,descriptive_identity,"""Knife handle (Kozuka)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026912
+LIBSRC-LIB52-ENT-MET-0269154,material_property_verbatim,"""Iron, wood, leather, copper, textile""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026915
+LIBSRC-LIB52-ENT-MET-0269154,descriptive_identity,"""Matchlock musket""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026915
+LIBSRC-LIB52-ENT-MET-0269184,material_property_verbatim,"""Stone, leather, lead, textile""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026918
+LIBSRC-LIB52-ENT-MET-0269184,descriptive_identity,"""Bullet mold and case""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026918
+LIBSRC-LIB52-ENT-MET-0269224,material_property_verbatim,"""Metal, gilt""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026922
+LIBSRC-LIB52-ENT-MET-0269224,descriptive_identity,"""Cantle plate of a saddle""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026922
+LIBSRC-LIB52-ENT-MET-0269244,material_property_verbatim,"""Satin, linen""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026924
+LIBSRC-LIB52-ENT-MET-0269244,descriptive_identity,"""Military skirt (Brocade)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026924
+LIBSRC-LIB52-ENT-MET-0269254,material_property_verbatim,"""Silk, velvet""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026925
+LIBSRC-LIB52-ENT-MET-0269254,descriptive_identity,"""Trunk Hose""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026925
+LIBSRC-LIB52-ENT-MET-0269364,material_property_verbatim,"""Cotton, polychromy""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026936
+LIBSRC-LIB52-ENT-MET-0269364,descriptive_identity,"""Banner""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026936
+LIBSRC-LIB52-ENT-MET-0269404,material_property_verbatim,"""Textile""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026940
+LIBSRC-LIB52-ENT-MET-0269404,descriptive_identity,"""Banner""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026940
+LIBSRC-LIB52-ENT-MET-0269434,material_property_verbatim,"""Silk, polychromy""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026943
+LIBSRC-LIB52-ENT-MET-0269434,descriptive_identity,"""Banner""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026943
+LIBSRC-LIB52-ENT-MET-0269464,material_property_verbatim,"""Silk, polychromy""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026946
+LIBSRC-LIB52-ENT-MET-0269464,descriptive_identity,"""Banner""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026946
+LIBSRC-LIB52-ENT-MET-0269554,material_property_verbatim,"""Textile, polychromy, wood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026955
+LIBSRC-LIB52-ENT-MET-0269554,descriptive_identity,"""Flag with shaft""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026955
+LIBSRC-LIB52-ENT-MET-0269564,material_property_verbatim,"""Textile, silver, wood, metal, gilding""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026956
+LIBSRC-LIB52-ENT-MET-0269564,descriptive_identity,"""Lance with banner""",https://collectionapi.metmuseum.org/public/collection/v1/objects/026956
+LIBSRC-LIB52-ENT-MET-0271864,material_property_verbatim,"""Steel, gold""",https://collectionapi.metmuseum.org/public/collection/v1/objects/027186
+LIBSRC-LIB52-ENT-MET-0271864,descriptive_identity,"""Pommel plate""",https://collectionapi.metmuseum.org/public/collection/v1/objects/027186
+LIBSRC-LIB52-ENT-MET-0275294,material_property_verbatim,"""Steel, brass, wood, ivory""",https://collectionapi.metmuseum.org/public/collection/v1/objects/027529
+LIBSRC-LIB52-ENT-MET-0275294,descriptive_identity,"""Serving knife""",https://collectionapi.metmuseum.org/public/collection/v1/objects/027529
+LIBSRC-LIB52-ENT-MET-0275934,material_property_verbatim,"""Wood, copper, lacquer, iron, gold, hemp""",https://collectionapi.metmuseum.org/public/collection/v1/objects/027593
+LIBSRC-LIB52-ENT-MET-0275934,descriptive_identity,"""War hat (<i>Jingasa</i>)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/027593
+LIBSRC-LIB52-ENT-MET-0278964,material_property_verbatim,"""Steel, wood, gold, silver, copper alloy, cord""",https://collectionapi.metmuseum.org/public/collection/v1/objects/027896
+LIBSRC-LIB52-ENT-MET-0278964,descriptive_identity,"""Kris with sheath""",https://collectionapi.metmuseum.org/public/collection/v1/objects/027896
+LIBSRC-LIB52-ENT-MET-0279664,material_property_verbatim,"""Steel, copper alloy""",https://collectionapi.metmuseum.org/public/collection/v1/objects/027966
+LIBSRC-LIB52-ENT-MET-0279664,descriptive_identity,"""Hand-and-a-half sword""",https://collectionapi.metmuseum.org/public/collection/v1/objects/027966
+LIBSRC-LIB52-ENT-MET-0289674,material_property_verbatim,"""Copper-silver alloy (shibuichi), gold, copper-gold alloy (shakud\u014d), copper, silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/028967
+LIBSRC-LIB52-ENT-MET-0289674,descriptive_identity,"""Set of sword fittings""",https://collectionapi.metmuseum.org/public/collection/v1/objects/028967
+LIBSRC-LIB52-ENT-MET-0293084,material_property_verbatim,"""Iron, tin""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029308
+LIBSRC-LIB52-ENT-MET-0293084,descriptive_identity,"""Stirrup""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029308
+LIBSRC-LIB52-ENT-MET-0294614,material_property_verbatim,"""Gold""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029461
+LIBSRC-LIB52-ENT-MET-0294614,descriptive_identity,"""Pair of sword-grip ornaments (Menuki)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029461
+LIBSRC-LIB52-ENT-MET-0295114,material_property_verbatim,"""Iron, gold, copper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029511
+LIBSRC-LIB52-ENT-MET-0295114,descriptive_identity,"""Sword guard (Tsuba)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029511
+LIBSRC-LIB52-ENT-MET-0296204,material_property_verbatim,"""Iron alloy""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029620
+LIBSRC-LIB52-ENT-MET-0296204,descriptive_identity,"""Spur""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029620
+LIBSRC-LIB52-ENT-MET-0296214,material_property_verbatim,"""Copper alloy""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029621
+LIBSRC-LIB52-ENT-MET-0296214,descriptive_identity,"""Spur""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029621
+LIBSRC-LIB52-ENT-MET-0296414,material_property_verbatim,"""Copper-silver alloy (shibuichi), copper-gold alloy (shakud\u014d), gold, silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029641
+LIBSRC-LIB52-ENT-MET-0296414,descriptive_identity,"""Sword-hilt collar and pommel (Fuchigashira)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029641
+LIBSRC-LIB52-ENT-MET-0296884,material_property_verbatim,"""Steel, wood, lacquer, ray skin (sam\u00e9), baleen, copper-silver alloy (shibuichi)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029688
+LIBSRC-LIB52-ENT-MET-0296884,descriptive_identity,"""Blade and mounting for a sword (Katana)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029688
+LIBSRC-LIB52-ENT-MET-0297184,material_property_verbatim,"""Copper alloy (sentoku), copper-gold alloy (shakud\u014d), gold""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029718
+LIBSRC-LIB52-ENT-MET-0297184,descriptive_identity,"""Knife handle (Kozuka)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029718
+LIBSRC-LIB52-ENT-MET-0297754,material_property_verbatim,"""Copper-gold alloy (shakud\u014d), gold, copper-silver alloy (shibuichi)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029775
+LIBSRC-LIB52-ENT-MET-0297754,descriptive_identity,"""Knife handle (Kozuka)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029775
+LIBSRC-LIB52-ENT-MET-0299634,material_property_verbatim,"""Iron, gold, copper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029963
+LIBSRC-LIB52-ENT-MET-0299634,descriptive_identity,"""Sword guard (Tsuba)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029963
+LIBSRC-LIB52-ENT-MET-0299744,material_property_verbatim,"""Iron, copper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029974
+LIBSRC-LIB52-ENT-MET-0299744,descriptive_identity,"""Sword guard (Tsuba)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/029974
+LIBSRC-LIB52-ENT-MET-0300184,material_property_verbatim,"""Copper-gold alloy (shakud\u014d), silver, gold, copper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030018
+LIBSRC-LIB52-ENT-MET-0300184,descriptive_identity,"""Sword guard (Tsuba)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030018
+LIBSRC-LIB52-ENT-MET-0300414,material_property_verbatim,"""Iron, gold, silver, copper-silver alloy (shibuichi), copper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030041
+LIBSRC-LIB52-ENT-MET-0300414,descriptive_identity,"""Sword guard (Tsuba)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030041
+LIBSRC-LIB52-ENT-MET-0301424,material_property_verbatim,"""Bronze""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030142
+LIBSRC-LIB52-ENT-MET-0301424,descriptive_identity,"""Archer's ring""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030142
+LIBSRC-LIB52-ENT-MET-0302094,material_property_verbatim,"""Nephrite""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030209
+LIBSRC-LIB52-ENT-MET-0302094,descriptive_identity,"""Archer's ring""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030209
+LIBSRC-LIB52-ENT-MET-0303024,material_property_verbatim,"""Lacquer""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030302
+LIBSRC-LIB52-ENT-MET-0303024,descriptive_identity,"""Bow""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030302
+LIBSRC-LIB52-ENT-MET-0303154,material_property_verbatim,"""Bone (whale), iron""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030315
+LIBSRC-LIB52-ENT-MET-0303154,descriptive_identity,"""Exercising bow""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030315
+LIBSRC-LIB52-ENT-MET-0303184,material_property_verbatim,"""Brass, leather, cloth""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030318
+LIBSRC-LIB52-ENT-MET-0303184,descriptive_identity,"""Bow case and quiver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030318
+LIBSRC-LIB52-ENT-MET-0303864,material_property_verbatim,"""Silver, leather, silk""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030386
+LIBSRC-LIB52-ENT-MET-0303864,descriptive_identity,"""Bandoleer""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030386
+LIBSRC-LIB52-ENT-MET-0304134,descriptive_identity,"""Bow""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030413
+LIBSRC-LIB52-ENT-MET-0304244,material_property_verbatim,"""Leather""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030424
+LIBSRC-LIB52-ENT-MET-0304244,descriptive_identity,"""Powder flask""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030424
+LIBSRC-LIB52-ENT-MET-0304704,material_property_verbatim,"""Leather, pigment, steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030470
+LIBSRC-LIB52-ENT-MET-0304704,descriptive_identity,"""Powder flask""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030470
+LIBSRC-LIB52-ENT-MET-0305244,material_property_verbatim,"""Iron, wood (ash or elm)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030524
+LIBSRC-LIB52-ENT-MET-0305244,descriptive_identity,"""Flintlock blunderbuss pistol""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030524
+LIBSRC-LIB52-ENT-MET-0305264,material_property_verbatim,"""Brass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030526
+LIBSRC-LIB52-ENT-MET-0305264,descriptive_identity,"""Matchlock gun""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030526
+LIBSRC-LIB52-ENT-MET-0305384,material_property_verbatim,"""Steel, silver, gold""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030538
+LIBSRC-LIB52-ENT-MET-0305384,descriptive_identity,"""Pair of flintlock pistols""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030538
+LIBSRC-LIB52-ENT-MET-0305624,material_property_verbatim,"""Steel, diamond""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030562
+LIBSRC-LIB52-ENT-MET-0305624,descriptive_identity,"""Combination pistol and pike head""",https://collectionapi.metmuseum.org/public/collection/v1/objects/030562
+LIBSRC-LIB52-ENT-MET-0312794,material_property_verbatim,"""Steel, wood, ivory, brass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/031279
+LIBSRC-LIB52-ENT-MET-0312794,descriptive_identity,"""Kris with sheath""",https://collectionapi.metmuseum.org/public/collection/v1/objects/031279
+LIBSRC-LIB52-ENT-MET-0312874,material_property_verbatim,"""Wood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/031287
+LIBSRC-LIB52-ENT-MET-0312874,descriptive_identity,"""Kris with sheath""",https://collectionapi.metmuseum.org/public/collection/v1/objects/031287
+LIBSRC-LIB52-ENT-MET-0313744,material_property_verbatim,"""Steel, wood, silver, copper alloy""",https://collectionapi.metmuseum.org/public/collection/v1/objects/031374
+LIBSRC-LIB52-ENT-MET-0313744,descriptive_identity,"""Kris with sheath""",https://collectionapi.metmuseum.org/public/collection/v1/objects/031374
+LIBSRC-LIB52-ENT-MET-0010184,material_property_verbatim,"""Cedar""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001018
+LIBSRC-LIB52-ENT-MET-0010184,descriptive_identity,"""Bride box""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001018
+LIBSRC-LIB52-ENT-MET-0010184,dimension_length,276.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/001018
+LIBSRC-LIB52-ENT-MET-0013274,material_property_verbatim,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001327
+LIBSRC-LIB52-ENT-MET-0013274,descriptive_identity,"""Candlestick""",https://collectionapi.metmuseum.org/public/collection/v1/objects/001327
+LIBSRC-LIB52-ENT-MET-0013274,dimension_length,285.751,https://collectionapi.metmuseum.org/public/collection/v1/objects/001327
+LIBSRC-LIB52-ENT-MET-0038914,material_property_verbatim,"""Metal""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003891
+LIBSRC-LIB52-ENT-MET-0038914,descriptive_identity,"""Gas lighting fixture""",https://collectionapi.metmuseum.org/public/collection/v1/objects/003891
+LIBSRC-LIB52-ENT-MET-0038914,dimension_length,457.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/003891
+LIBSRC-LIB52-ENT-MET-0042294,material_property_verbatim,"""Brass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/004229
+LIBSRC-LIB52-ENT-MET-0042294,descriptive_identity,"""Furniture hardware""",https://collectionapi.metmuseum.org/public/collection/v1/objects/004229
+LIBSRC-LIB52-ENT-MET-0044354,material_property_verbatim,"""Pewter""",https://collectionapi.metmuseum.org/public/collection/v1/objects/004435
+LIBSRC-LIB52-ENT-MET-0044354,descriptive_identity,"""Inkstand""",https://collectionapi.metmuseum.org/public/collection/v1/objects/004435
+LIBSRC-LIB52-ENT-MET-0044354,dimension_length,76.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/004435
+LIBSRC-LIB52-ENT-MET-0045754,material_property_verbatim,"""Stoneware""",https://collectionapi.metmuseum.org/public/collection/v1/objects/004575
+LIBSRC-LIB52-ENT-MET-0045754,descriptive_identity,"""Pitcher""",https://collectionapi.metmuseum.org/public/collection/v1/objects/004575
+LIBSRC-LIB52-ENT-MET-0045754,dimension_length,292.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/004575
+LIBSRC-LIB52-ENT-MET-0045954,material_property_verbatim,"""Iron""",https://collectionapi.metmuseum.org/public/collection/v1/objects/004595
+LIBSRC-LIB52-ENT-MET-0045954,descriptive_identity,"""Kettle""",https://collectionapi.metmuseum.org/public/collection/v1/objects/004595
+LIBSRC-LIB52-ENT-MET-0045954,dimension_length,431.80088,https://collectionapi.metmuseum.org/public/collection/v1/objects/004595
+LIBSRC-LIB52-ENT-MET-0046624,material_property_verbatim,"""Blown glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/004662
+LIBSRC-LIB52-ENT-MET-0046624,descriptive_identity,"""Ladle""",https://collectionapi.metmuseum.org/public/collection/v1/objects/004662
+LIBSRC-LIB52-ENT-MET-0046624,dimension_length,368.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/004662
+LIBSRC-LIB52-ENT-MET-0047594,material_property_verbatim,"""Wrought iron""",https://collectionapi.metmuseum.org/public/collection/v1/objects/004759
+LIBSRC-LIB52-ENT-MET-0047594,descriptive_identity,"""Latch""",https://collectionapi.metmuseum.org/public/collection/v1/objects/004759
+LIBSRC-LIB52-ENT-MET-0047594,dimension_length,137.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/004759
+LIBSRC-LIB52-ENT-MET-0050474,material_property_verbatim,"""Bronze""",https://collectionapi.metmuseum.org/public/collection/v1/objects/005047
+LIBSRC-LIB52-ENT-MET-0050474,descriptive_identity,"""Medal""",https://collectionapi.metmuseum.org/public/collection/v1/objects/005047
+LIBSRC-LIB52-ENT-MET-0050474,dimension_length,63.5,https://collectionapi.metmuseum.org/public/collection/v1/objects/005047
+LIBSRC-LIB52-ENT-MET-0051354,material_property_verbatim,"""Silvered iron""",https://collectionapi.metmuseum.org/public/collection/v1/objects/005135
+LIBSRC-LIB52-ENT-MET-0051354,descriptive_identity,"""Plaque""",https://collectionapi.metmuseum.org/public/collection/v1/objects/005135
+LIBSRC-LIB52-ENT-MET-0051354,dimension_length,158.75,https://collectionapi.metmuseum.org/public/collection/v1/objects/005135
+LIBSRC-LIB52-ENT-MET-0081514,material_property_verbatim,"""Cherry, mahogany with maple, white pine, yellow poplar""",https://collectionapi.metmuseum.org/public/collection/v1/objects/008151
+LIBSRC-LIB52-ENT-MET-0081514,descriptive_identity,"""Tall clock""",https://collectionapi.metmuseum.org/public/collection/v1/objects/008151
+LIBSRC-LIB52-ENT-MET-0081514,dimension_length,2318.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/008151
+LIBSRC-LIB52-ENT-MET-0115774,material_property_verbatim,"""Watercolor, gouache, and graphite on light green wove paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/011577
+LIBSRC-LIB52-ENT-MET-0115774,descriptive_identity,"""Watercolor""",https://collectionapi.metmuseum.org/public/collection/v1/objects/011577
+LIBSRC-LIB52-ENT-MET-0115774,dimension_length,506.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/011577
+LIBSRC-LIB52-ENT-MET-0123004,material_property_verbatim,"""Watercolor and gouache on white wove paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/012300
+LIBSRC-LIB52-ENT-MET-0123004,descriptive_identity,"""Watercolor""",https://collectionapi.metmuseum.org/public/collection/v1/objects/012300
+LIBSRC-LIB52-ENT-MET-0123004,dimension_length,268.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/012300
+LIBSRC-LIB52-ENT-MET-0128224,material_property_verbatim,"""Oil on canvas""",https://collectionapi.metmuseum.org/public/collection/v1/objects/012822
+LIBSRC-LIB52-ENT-MET-0128224,descriptive_identity,"""Painting""",https://collectionapi.metmuseum.org/public/collection/v1/objects/012822
+LIBSRC-LIB52-ENT-MET-0128224,dimension_length,127.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/012822
+LIBSRC-LIB52-ENT-MET-0129894,material_property_verbatim,"""Watercolor on ivory""",https://collectionapi.metmuseum.org/public/collection/v1/objects/012989
+LIBSRC-LIB52-ENT-MET-0129894,descriptive_identity,"""Painting, miniature""",https://collectionapi.metmuseum.org/public/collection/v1/objects/012989
+LIBSRC-LIB52-ENT-MET-0129894,dimension_length,113.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/012989
+LIBSRC-LIB52-ENT-MET-0134104,material_property_verbatim,"""Belleek porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/013410
+LIBSRC-LIB52-ENT-MET-0134104,descriptive_identity,"""Saucer""",https://collectionapi.metmuseum.org/public/collection/v1/objects/013410
+LIBSRC-LIB52-ENT-MET-0134104,dimension_length,127.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/013410
+LIBSRC-LIB52-ENT-MET-0137004,material_property_verbatim,"""Silk, cyanotype printing of portrait, printed""",https://collectionapi.metmuseum.org/public/collection/v1/objects/013700
+LIBSRC-LIB52-ENT-MET-0137004,descriptive_identity,"""Handkerchief""",https://collectionapi.metmuseum.org/public/collection/v1/objects/013700
+LIBSRC-LIB52-ENT-MET-0137004,dimension_length,610,https://collectionapi.metmuseum.org/public/collection/v1/objects/013700
+LIBSRC-LIB52-ENT-MET-0137994,material_property_verbatim,"""Cotton, painted and block-printed resist, dyed""",https://collectionapi.metmuseum.org/public/collection/v1/objects/013799
+LIBSRC-LIB52-ENT-MET-0137994,descriptive_identity,"""Panel, blue-resist textile""",https://collectionapi.metmuseum.org/public/collection/v1/objects/013799
+LIBSRC-LIB52-ENT-MET-0137994,dimension_length,1308.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/013799
+LIBSRC-LIB52-ENT-MET-0143724,material_property_verbatim,"""Porcelain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014372
+LIBSRC-LIB52-ENT-MET-0143724,descriptive_identity,"""Plate""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014372
+LIBSRC-LIB52-ENT-MET-0143724,dimension_length,187.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/014372
+LIBSRC-LIB52-ENT-MET-0145894,material_property_verbatim,"""Bronze""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014589
+LIBSRC-LIB52-ENT-MET-0145894,descriptive_identity,"""Medal""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014589
+LIBSRC-LIB52-ENT-MET-0145894,dimension_length,105.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/014589
+LIBSRC-LIB52-ENT-MET-0146804,material_property_verbatim,"""Bronze""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014680
+LIBSRC-LIB52-ENT-MET-0146804,descriptive_identity,"""Medal""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014680
+LIBSRC-LIB52-ENT-MET-0146804,dimension_length,76.2,https://collectionapi.metmuseum.org/public/collection/v1/objects/014680
+LIBSRC-LIB52-ENT-MET-0148244,material_property_verbatim,"""Oil on canvas""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014824
+LIBSRC-LIB52-ENT-MET-0148244,descriptive_identity,"""Painting""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014824
+LIBSRC-LIB52-ENT-MET-0148244,dimension_length,76.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/014824
+LIBSRC-LIB52-ENT-MET-0148804,material_property_verbatim,"""Graphite on off-white wove paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014880
+LIBSRC-LIB52-ENT-MET-0148804,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014880
+LIBSRC-LIB52-ENT-MET-0148804,dimension_length,168.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/014880
+LIBSRC-LIB52-ENT-MET-0149154,material_property_verbatim,"""Cotton, discharge and roller-printed""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014915
+LIBSRC-LIB52-ENT-MET-0149154,descriptive_identity,"""Sample""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014915
+LIBSRC-LIB52-ENT-MET-0149574,material_property_verbatim,"""Woven wool""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014957
+LIBSRC-LIB52-ENT-MET-0149574,descriptive_identity,"""Carpet""",https://collectionapi.metmuseum.org/public/collection/v1/objects/014957
+LIBSRC-LIB52-ENT-MET-0150764,material_property_verbatim,"""Watercolor on ivory""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015076
+LIBSRC-LIB52-ENT-MET-0150764,descriptive_identity,"""Painting, miniature""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015076
+LIBSRC-LIB52-ENT-MET-0150764,dimension_length,49.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/015076
+LIBSRC-LIB52-ENT-MET-0151094,material_property_verbatim,"""Watercolor on ivory""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015109
+LIBSRC-LIB52-ENT-MET-0151094,descriptive_identity,"""Painting, miniature""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015109
+LIBSRC-LIB52-ENT-MET-0151094,dimension_length,24.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/015109
+LIBSRC-LIB52-ENT-MET-0151274,material_property_verbatim,"""Watercolor on ivory""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015127
+LIBSRC-LIB52-ENT-MET-0151274,descriptive_identity,"""Painting, miniature""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015127
+LIBSRC-LIB52-ENT-MET-0151274,dimension_length,38.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/015127
+LIBSRC-LIB52-ENT-MET-0151734,material_property_verbatim,"""Watercolor on ivory""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015173
+LIBSRC-LIB52-ENT-MET-0151734,descriptive_identity,"""Painting, miniature""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015173
+LIBSRC-LIB52-ENT-MET-0151734,dimension_length,67.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/015173
+LIBSRC-LIB52-ENT-MET-0154344,material_property_verbatim,"""Watercolor and graphite on off-white wove paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015434
+LIBSRC-LIB52-ENT-MET-0154344,descriptive_identity,"""Watercolor""",https://collectionapi.metmuseum.org/public/collection/v1/objects/015434
+LIBSRC-LIB52-ENT-MET-0154344,dimension_length,203.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/015434
+LIBSRC-LIB52-ENT-MET-0160904,material_property_verbatim,"""Graphite on paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016090
+LIBSRC-LIB52-ENT-MET-0160904,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016090
+LIBSRC-LIB52-ENT-MET-0160904,dimension_length,139.70000000000002,https://collectionapi.metmuseum.org/public/collection/v1/objects/016090
+LIBSRC-LIB52-ENT-MET-0161304,material_property_verbatim,"""Graphite on paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016130
+LIBSRC-LIB52-ENT-MET-0161304,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016130
+LIBSRC-LIB52-ENT-MET-0161304,dimension_length,139.70000000000002,https://collectionapi.metmuseum.org/public/collection/v1/objects/016130
+LIBSRC-LIB52-ENT-MET-0167344,material_property_verbatim,"""Graphite on off-white wove paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016734
+LIBSRC-LIB52-ENT-MET-0167344,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/016734
+LIBSRC-LIB52-ENT-MET-0167344,dimension_length,221.0,https://collectionapi.metmuseum.org/public/collection/v1/objects/016734
+LIBSRC-LIB52-ENT-MET-0174244,material_property_verbatim,"""Photostat with watercolor highlights""",https://collectionapi.metmuseum.org/public/collection/v1/objects/017424
+LIBSRC-LIB52-ENT-MET-0174244,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/017424
+LIBSRC-LIB52-ENT-MET-0174244,dimension_length,508.001,https://collectionapi.metmuseum.org/public/collection/v1/objects/017424
+LIBSRC-LIB52-ENT-MET-0176754,material_property_verbatim,"""woven""",https://collectionapi.metmuseum.org/public/collection/v1/objects/017675
+LIBSRC-LIB52-ENT-MET-0176754,descriptive_identity,"""Piece""",https://collectionapi.metmuseum.org/public/collection/v1/objects/017675
+LIBSRC-LIB52-ENT-MET-0176754,dimension_length,508.001,https://collectionapi.metmuseum.org/public/collection/v1/objects/017675
+LIBSRC-LIB52-ENT-MET-0190374,material_property_verbatim,"""Wood, ivory, patinated silver, nickel-plated brass, steel, amethyst, and semi-precious quartz""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019037
+LIBSRC-LIB52-ENT-MET-0190374,descriptive_identity,"""Box""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019037
+LIBSRC-LIB52-ENT-MET-0190374,dimension_length,219.075,https://collectionapi.metmuseum.org/public/collection/v1/objects/019037
+LIBSRC-LIB52-ENT-MET-0192814,material_property_verbatim,"""Crayon on paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019281
+LIBSRC-LIB52-ENT-MET-0192814,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019281
+LIBSRC-LIB52-ENT-MET-0192814,dimension_length,282.576,https://collectionapi.metmuseum.org/public/collection/v1/objects/019281
+LIBSRC-LIB52-ENT-MET-0193024,material_property_verbatim,"""Charcoal, crayon, and wash on paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019302
+LIBSRC-LIB52-ENT-MET-0193024,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019302
+LIBSRC-LIB52-ENT-MET-0193024,dimension_length,304.801,https://collectionapi.metmuseum.org/public/collection/v1/objects/019302
+LIBSRC-LIB52-ENT-MET-0199904,material_property_verbatim,"""Earthenware""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019990
+LIBSRC-LIB52-ENT-MET-0199904,descriptive_identity,"""Vase""",https://collectionapi.metmuseum.org/public/collection/v1/objects/019990
+LIBSRC-LIB52-ENT-MET-0199904,dimension_length,193.675,https://collectionapi.metmuseum.org/public/collection/v1/objects/019990
+LIBSRC-LIB52-ENT-MET-0201964,material_property_verbatim,"""Earthenware""",https://collectionapi.metmuseum.org/public/collection/v1/objects/020196
+LIBSRC-LIB52-ENT-MET-0201964,descriptive_identity,"""Vase""",https://collectionapi.metmuseum.org/public/collection/v1/objects/020196
+LIBSRC-LIB52-ENT-MET-0201964,dimension_length,120.65024,https://collectionapi.metmuseum.org/public/collection/v1/objects/020196
+LIBSRC-LIB52-ENT-MET-0202494,material_property_verbatim,"""Glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/020249
+LIBSRC-LIB52-ENT-MET-0202494,descriptive_identity,"""Salt""",https://collectionapi.metmuseum.org/public/collection/v1/objects/020249
+LIBSRC-LIB52-ENT-MET-0202494,dimension_length,63.5,https://collectionapi.metmuseum.org/public/collection/v1/objects/020249
+LIBSRC-LIB52-ENT-MET-0202504,material_property_verbatim,"""Glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/020250
+LIBSRC-LIB52-ENT-MET-0202504,descriptive_identity,"""Salt""",https://collectionapi.metmuseum.org/public/collection/v1/objects/020250
+LIBSRC-LIB52-ENT-MET-0202504,dimension_length,63.5,https://collectionapi.metmuseum.org/public/collection/v1/objects/020250
+LIBSRC-LIB52-ENT-MET-0220444,material_property_verbatim,"""Leather, gold""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022044
+LIBSRC-LIB52-ENT-MET-0220444,descriptive_identity,"""Horse armor""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022044
+LIBSRC-LIB52-ENT-MET-0220444,dimension_length,539.8,https://collectionapi.metmuseum.org/public/collection/v1/objects/022044
+LIBSRC-LIB52-ENT-MET-0223074,material_property_verbatim,"""Steel, leather""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022307
+LIBSRC-LIB52-ENT-MET-0223074,descriptive_identity,"""Rump defense of a jousting armor""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022307
+LIBSRC-LIB52-ENT-MET-0223094,material_property_verbatim,"""Iron, pigment, paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022309
+LIBSRC-LIB52-ENT-MET-0223094,descriptive_identity,"""Mask""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022309
+LIBSRC-LIB52-ENT-MET-0223094,dimension_length,228.6,https://collectionapi.metmuseum.org/public/collection/v1/objects/022309
+LIBSRC-LIB52-ENT-MET-0226484,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022648
+LIBSRC-LIB52-ENT-MET-0226484,descriptive_identity,"""Blade for a dagger (Tant\u014d)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022648
+LIBSRC-LIB52-ENT-MET-0227684,material_property_verbatim,"""Steel, wood, leather, silk""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022768
+LIBSRC-LIB52-ENT-MET-0227684,descriptive_identity,"""Smallsword hilt with storage case""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022768
+LIBSRC-LIB52-ENT-MET-0227684,dimension_length,222.3,https://collectionapi.metmuseum.org/public/collection/v1/objects/022768
+LIBSRC-LIB52-ENT-MET-0229884,material_property_verbatim,"""Steel, gold""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022988
+LIBSRC-LIB52-ENT-MET-0229884,descriptive_identity,"""Knee defense (Poleyn)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/022988
+LIBSRC-LIB52-ENT-MET-0229884,dimension_length,50.8,https://collectionapi.metmuseum.org/public/collection/v1/objects/022988
+LIBSRC-LIB52-ENT-MET-0231104,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023110
+LIBSRC-LIB52-ENT-MET-0231104,descriptive_identity,"""Outer plate of a forearm defense (Vambrace)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023110
+LIBSRC-LIB52-ENT-MET-0231124,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023112
+LIBSRC-LIB52-ENT-MET-0231124,descriptive_identity,"""Part of a forearm defense (Vambrace)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023112
+LIBSRC-LIB52-ENT-MET-0231744,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023174
+LIBSRC-LIB52-ENT-MET-0231744,descriptive_identity,"""Elbow defense (Couter)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023174
+LIBSRC-LIB52-ENT-MET-0232654,material_property_verbatim,"""Steel, leather""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023265
+LIBSRC-LIB52-ENT-MET-0232654,descriptive_identity,"""Mitten gauntlet for the left hand""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023265
+LIBSRC-LIB52-ENT-MET-0232654,dimension_length,241.29999999999998,https://collectionapi.metmuseum.org/public/collection/v1/objects/023265
+LIBSRC-LIB52-ENT-MET-0234404,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023440
+LIBSRC-LIB52-ENT-MET-0234404,descriptive_identity,"""Arrowhead (<i>Yanone</i>)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023440
+LIBSRC-LIB52-ENT-MET-0234404,dimension_length,457.2,https://collectionapi.metmuseum.org/public/collection/v1/objects/023440
+LIBSRC-LIB52-ENT-MET-0237044,material_property_verbatim,"""Steel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023704
+LIBSRC-LIB52-ENT-MET-0237044,descriptive_identity,"""Arrowhead (<i>Yanone</i>)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023704
+LIBSRC-LIB52-ENT-MET-0237494,material_property_verbatim,"""Wood (Japanese Cypress), urushi (Japanese lacquer), hemp cloth, abalone shell, gold, silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023749
+LIBSRC-LIB52-ENT-MET-0237494,descriptive_identity,"""Quiver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023749
+LIBSRC-LIB52-ENT-MET-0237494,dimension_length,90,https://collectionapi.metmuseum.org/public/collection/v1/objects/023749
+LIBSRC-LIB52-ENT-MET-0238344,material_property_verbatim,"""Wood""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023834
+LIBSRC-LIB52-ENT-MET-0238344,descriptive_identity,"""Arrowhead rack""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023834
+LIBSRC-LIB52-ENT-MET-0239504,material_property_verbatim,"""Steel, wood (walnut, ebony), gold, silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023950
+LIBSRC-LIB52-ENT-MET-0239504,descriptive_identity,"""Double-barreled flintlock shotgun""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023950
+LIBSRC-LIB52-ENT-MET-0239504,dimension_length,23.599999999999998,https://collectionapi.metmuseum.org/public/collection/v1/objects/023950
+LIBSRC-LIB52-ENT-MET-0239564,material_property_verbatim,"""Wood, lacquer, leather""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023956
+LIBSRC-LIB52-ENT-MET-0239564,descriptive_identity,"""Standard banner (Sashimono)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/023956
+LIBSRC-LIB52-ENT-MET-0241574,material_property_verbatim,"""Iron, lacquer, silk, leather""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024157
+LIBSRC-LIB52-ENT-MET-0241574,descriptive_identity,"""Chin mask (Ho-ate) with gorget""",https://collectionapi.metmuseum.org/public/collection/v1/objects/024157
