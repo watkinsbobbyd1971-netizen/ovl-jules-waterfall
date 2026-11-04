@@ -1,0 +1,3 @@
+Queried Wikidata SPARQL endpoint for subjects in chunk-0008.
+Attempted to find anatomical_identity, anatomical_length, anatomical_relationship, descriptive_identity, identity_label, morphology, tissue_identity.
+Subjects (e.g., 'Fish bone', 'Mask, Pascola', 'Pinnipedia vertebra') did not yield verifiable referenced anatomical properties for humans.
