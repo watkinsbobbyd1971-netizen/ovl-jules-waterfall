@@ -1,0 +1,17 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_12-ERA_02-1650-ACC04-HOP18415-REC3682982,scientific_identity,"Cerorhinca monocerata (Pallas, 1811)",https://www.gbif.org/species/2481324
+IDB-REG_02-CAT_12-ERA_02-1650-ACC04-HOP18415-REC3682982,taxon_authority,"(Pallas, 1811) ",https://www.gbif.org/species/2481324
+IDB-REG_02-CAT_12-ERA_02-1650-ACC04-HOP18415-REC3682982,descriptive_identity,SPECIES,https://www.gbif.org/species/2481324
+IDB-REG_02-CAT_12-ERA_02-1650-ACC04-HOP18415-REC3682982,identity_label,Rhinoceros Auklet,https://www.gbif.org/species/2481324
+IDB-REG_02-CAT_14-ERA_02-1650-ACC04-HOP14948-REC2989492,scientific_identity,"Spatula F.Boie, 1822",https://www.gbif.org/species/4850990
+IDB-REG_02-CAT_14-ERA_02-1650-ACC04-HOP14948-REC2989492,taxon_authority,"F.Boie, 1822",https://www.gbif.org/species/4850990
+IDB-REG_02-CAT_14-ERA_02-1650-ACC04-HOP14948-REC2989492,descriptive_identity,GENUS,https://www.gbif.org/species/4850990
+IDB-REG_02-CAT_14-ERA_02-1650-ACC04-HOP14948-REC2989492,identity_label,Blue-winged Ducks,https://www.gbif.org/species/4850990
+IDB-REG_03-CAT_11-ERA_02-1650-ACC04-HOP17561-REC3512133,scientific_identity,"Polysticta stelleri (Pallas, 1769)",https://www.gbif.org/species/5232431
+IDB-REG_03-CAT_11-ERA_02-1650-ACC04-HOP17561-REC3512133,taxon_authority,"(Pallas, 1769) ",https://www.gbif.org/species/5232431
+IDB-REG_03-CAT_11-ERA_02-1650-ACC04-HOP17561-REC3512133,descriptive_identity,SPECIES,https://www.gbif.org/species/5232431
+IDB-REG_03-CAT_11-ERA_02-1650-ACC04-HOP17561-REC3512133,identity_label,Steller's Eider,https://www.gbif.org/species/5232431
+IDB-REG_02-CAT_12-ERA_02-1650-ACC04-HOP16776-REC3355102,scientific_identity,"Melanitta fusca (Linnaeus, 1758)",https://www.gbif.org/species/2498238
+IDB-REG_02-CAT_12-ERA_02-1650-ACC04-HOP16776-REC3355102,taxon_authority,"(Linnaeus, 1758) ",https://www.gbif.org/species/2498238
+IDB-REG_02-CAT_12-ERA_02-1650-ACC04-HOP16776-REC3355102,descriptive_identity,SPECIES,https://www.gbif.org/species/2498238
+IDB-REG_02-CAT_12-ERA_02-1650-ACC04-HOP16776-REC3355102,identity_label,White-winged Scoter,https://www.gbif.org/species/2498238

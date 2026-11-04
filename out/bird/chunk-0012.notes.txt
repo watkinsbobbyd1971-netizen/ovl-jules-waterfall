@@ -1,0 +1,1 @@
+Queried GBIF Species API for exact biological taxonomic matches of birds. Used strict exact matching or >95% confidence fuzzy matching that aligns identically to canonical names to prevent artifacts from yielding false biological taxa. Filtered for class Aves.
