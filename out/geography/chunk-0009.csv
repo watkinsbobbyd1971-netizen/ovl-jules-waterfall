@@ -1,0 +1,151 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB34-ENT-GEO-0269681,geometry_with_crs,POINT(99.442777777778 8.6411111111111),https://www.wikidata.org/wiki/Q34846254
+LIBSRC-LIB34-ENT-GEO-0269681,location,POINT(99.442777777778 8.6411111111111),https://www.wikidata.org/wiki/Q34846254
+LIBSRC-LIB34-ENT-GEO-0325791,geometry_with_crs,POINT(-129.994167 57.723056),https://www.wikidata.org/wiki/Q22408804
+LIBSRC-LIB34-ENT-GEO-0325791,location,POINT(-129.994167 57.723056),https://www.wikidata.org/wiki/Q22408804
+LIBSRC-LIB34-ENT-GEO-0325791,elevation,823000.0,https://www.wikidata.org/wiki/Q22408804
+LIBSRC-LIB34-ENT-GEO-0205211,geometry_with_crs,POINT(-103.85305555556 28.901111111111),https://www.wikidata.org/wiki/Q27804887
+LIBSRC-LIB34-ENT-GEO-0205211,location,POINT(-103.85305555556 28.901111111111),https://www.wikidata.org/wiki/Q27804887
+LIBSRC-LIB34-ENT-GEO-0205211,elevation,1248000.0,https://www.wikidata.org/wiki/Q27804887
+LIBSRC-LIB34-ENT-GEO-0319731,geometry_with_crs,POINT(-93.421388888889 45.001944444444),https://www.wikidata.org/wiki/Q1916607
+LIBSRC-LIB34-ENT-GEO-0319731,location,POINT(-93.421388888889 45.001944444444),https://www.wikidata.org/wiki/Q1916607
+LIBSRC-LIB34-ENT-GEO-0319731,elevation,274000.0,https://www.wikidata.org/wiki/Q1916607
+LIBSRC-LIB34-ENT-GEO-0232931,geometry_with_crs,POINT(142.7869693 63.4629473),https://www.wikidata.org/wiki/Q192098
+LIBSRC-LIB34-ENT-GEO-0232931,location,POINT(142.7869693 63.4629473),https://www.wikidata.org/wiki/Q192098
+LIBSRC-LIB34-ENT-GEO-0232931,elevation,745000.0,https://www.wikidata.org/wiki/Q192098
+LIBSRC-LIB35-ENT-GAZ-2521115,geometry_with_crs,POINT(1.86909969499552 41.6916393131123),https://www.wikidata.org/wiki/Q106116451
+LIBSRC-LIB35-ENT-GAZ-2521115,location,POINT(1.86909969499552 41.6916393131123),https://www.wikidata.org/wiki/Q106116451
+LIBSRC-LIB35-ENT-GAZ-2533881,geometry_with_crs,POINT(3.5927777777778 45.993888888889),https://www.wikidata.org/wiki/Q1218291
+LIBSRC-LIB35-ENT-GAZ-2533881,location,POINT(3.5927777777778 45.993888888889),https://www.wikidata.org/wiki/Q1218291
+LIBSRC-LIB35-ENT-GAZ-2533881,elevation,600000.0,https://www.wikidata.org/wiki/Q1218291
+CAT19_REG_01_ERA_07_1960_siy_h_ch_b_ent_geo_0001981,geometry_with_crs,POINT(68.673333333333 34.046944444444),https://www.wikidata.org/wiki/Q21806280
+CAT19_REG_01_ERA_07_1960_siy_h_ch_b_ent_geo_0001981,location,POINT(68.673333333333 34.046944444444),https://www.wikidata.org/wiki/Q21806280
+LIBSRC-LIB35-ENT-GAZ-2529118,geometry_with_crs,POINT(-64.350555 48.419443),https://www.wikidata.org/wiki/Q28037017
+LIBSRC-LIB35-ENT-GAZ-2529118,location,POINT(-64.350555 48.419443),https://www.wikidata.org/wiki/Q28037017
+LIBSRC-LIB34-ENT-GEO-0001551,geometry_with_crs,POINT(68.781111111111 32.130833333333),https://www.wikidata.org/wiki/Q21742695
+LIBSRC-LIB34-ENT-GEO-0001551,location,POINT(68.781111111111 32.130833333333),https://www.wikidata.org/wiki/Q21742695
+LIBSRC-LIB34-ENT-GEO-0001551,elevation,2086000.0,https://www.wikidata.org/wiki/Q21742695
+LIBSRC-LIB34-ENT-GEO-0000011,geometry_with_crs,POINT(1.582778 42.536111),https://www.wikidata.org/wiki/Q24269
+LIBSRC-LIB34-ENT-GEO-0000011,location,POINT(1.582778 42.536111),https://www.wikidata.org/wiki/Q24269
+LIBSRC-LIB34-ENT-GEO-0000011,elevation,1238000.0,https://www.wikidata.org/wiki/Q24269
+LIBSRC-LIB34-ENT-GEO-0012481,geometry_with_crs,POINT(66.383055555556 35.826666666667),https://www.wikidata.org/wiki/Q21764920
+LIBSRC-LIB34-ENT-GEO-0012481,location,POINT(66.383055555556 35.826666666667),https://www.wikidata.org/wiki/Q21764920
+LIBSRC-LIB34-ENT-GEO-0010941,geometry_with_crs,POINT(69.4325 34.015),https://www.wikidata.org/wiki/Q21814806
+LIBSRC-LIB34-ENT-GEO-0010941,location,POINT(69.4325 34.015),https://www.wikidata.org/wiki/Q21814806
+LIBSRC-LIB34-ENT-GEO-0014791,geometry_with_crs,POINT(65.0514 35.43502),https://www.wikidata.org/wiki/Q21774791
+LIBSRC-LIB34-ENT-GEO-0014791,location,POINT(65.0514 35.43502),https://www.wikidata.org/wiki/Q21774791
+LIBSRC-LIB34-ENT-GEO-0013251,geometry_with_crs,POINT(63.020833333333 32.325),https://www.wikidata.org/wiki/Q21778482
+LIBSRC-LIB34-ENT-GEO-0013251,location,POINT(63.020833333333 32.325),https://www.wikidata.org/wiki/Q21778482
+LIBSRC-LIB34-ENT-GEO-0013251,elevation,879000.0,https://www.wikidata.org/wiki/Q21778482
+LIBSRC-LIB34-ENT-GEO-0017101,geometry_with_crs,POINT(68.835 33.8025),https://www.wikidata.org/wiki/Q21782416
+LIBSRC-LIB34-ENT-GEO-0017101,location,POINT(68.835 33.8025),https://www.wikidata.org/wiki/Q21782416
+LIBSRC-LIB34-ENT-GEO-0017101,elevation,2750000.0,https://www.wikidata.org/wiki/Q21782416
+LIBSRC-LIB34-ENT-GEO-0017871,geometry_with_crs,POINT(61.078333333333 32.77),https://www.wikidata.org/wiki/Q21786316
+LIBSRC-LIB34-ENT-GEO-0017871,location,POINT(61.078333333333 32.77),https://www.wikidata.org/wiki/Q21786316
+LIBSRC-LIB34-ENT-GEO-0015561,geometry_with_crs,POINT(69.942777777778 35.022222222222),https://www.wikidata.org/wiki/Q21777110
+LIBSRC-LIB34-ENT-GEO-0015561,location,POINT(69.942777777778 35.022222222222),https://www.wikidata.org/wiki/Q21777110
+LIBSRC-LIB34-ENT-GEO-0020951,geometry_with_crs,POINT(66.989444444444 34.813333333333),https://www.wikidata.org/wiki/Q21805822
+LIBSRC-LIB34-ENT-GEO-0020951,location,POINT(66.989444444444 34.813333333333),https://www.wikidata.org/wiki/Q21805822
+LIBSRC-LIB34-ENT-GEO-0026341,geometry_with_crs,POINT(63.9275 34.0508),https://www.wikidata.org/wiki/Q21819752
+LIBSRC-LIB34-ENT-GEO-0026341,location,POINT(63.9275 34.0508),https://www.wikidata.org/wiki/Q21819752
+LIBSRC-LIB34-ENT-GEO-0034041,geometry_with_crs,POINT(138.25 -66.5167),https://www.wikidata.org/wiki/Q5493078
+LIBSRC-LIB34-ENT-GEO-0034041,location,POINT(138.25 -66.5167),https://www.wikidata.org/wiki/Q5493078
+LIBSRC-LIB34-ENT-GEO-0034811,geometry_with_crs,POINT(-70.033333333333 -45.416666666667),https://www.wikidata.org/wiki/Q21831352
+LIBSRC-LIB34-ENT-GEO-0034811,location,POINT(-70.033333333333 -45.416666666667),https://www.wikidata.org/wiki/Q21831352
+LIBSRC-LIB34-ENT-GEO-0034811,elevation,498000.0,https://www.wikidata.org/wiki/Q21831352
+LIBSRC-LIB34-ENT-GEO-0037891,geometry_with_crs,POINT(48.40437927348472 39.257448976489115),https://www.wikidata.org/wiki/Q4670811
+LIBSRC-LIB34-ENT-GEO-0037891,location,POINT(48.40437927348472 39.257448976489115),https://www.wikidata.org/wiki/Q4670811
+LIBSRC-LIB34-ENT-GEO-0037891,elevation,80000.0,https://www.wikidata.org/wiki/Q4670811
+LIBSRC-LIB34-ENT-GEO-0038661,geometry_with_crs,POINT(48.918072092752936 41.36557909539897),https://www.wikidata.org/wiki/Q4592406
+LIBSRC-LIB34-ENT-GEO-0038661,location,POINT(48.918072092752936 41.36557909539897),https://www.wikidata.org/wiki/Q4592406
+LIBSRC-LIB34-ENT-GEO-0035581,geometry_with_crs,POINT(10.833333333333 46.8),https://www.wikidata.org/wiki/Q21868692
+LIBSRC-LIB34-ENT-GEO-0035581,location,POINT(10.833333333333 46.8),https://www.wikidata.org/wiki/Q21868692
+LIBSRC-LIB34-ENT-GEO-0035581,elevation,2921000.0,https://www.wikidata.org/wiki/Q21868692
+LIBSRC-LIB34-ENT-GEO-0033271,geometry_with_crs,POINT(-64.35 -65.9667),https://www.wikidata.org/wiki/Q4916551
+LIBSRC-LIB34-ENT-GEO-0033271,location,POINT(-64.35 -65.9667),https://www.wikidata.org/wiki/Q4916551
+LIBSRC-LIB34-ENT-GEO-0044051,geometry_with_crs,POINT(-49.066666666667 -3.15),https://www.wikidata.org/wiki/Q22016436
+LIBSRC-LIB34-ENT-GEO-0044051,location,POINT(-49.066666666667 -3.15),https://www.wikidata.org/wiki/Q22016436
+LIBSRC-LIB34-ENT-GEO-0044051,elevation,84000.0,https://www.wikidata.org/wiki/Q22016436
+LIBSRC-LIB34-ENT-GEO-0050211,geometry_with_crs,POINT(8.5369444444444 46.464722222222),https://www.wikidata.org/wiki/Q2354368
+LIBSRC-LIB34-ENT-GEO-0050211,location,POINT(8.5369444444444 46.464722222222),https://www.wikidata.org/wiki/Q2354368
+LIBSRC-LIB34-ENT-GEO-0050211,elevation,2912000.0,https://www.wikidata.org/wiki/Q2354368
+LIBSRC-LIB34-ENT-GEO-0047131,geometry_with_crs,POINT(-94.4172 33.4606),https://www.wikidata.org/wiki/Q641096
+LIBSRC-LIB34-ENT-GEO-0047131,location,POINT(-94.4172 33.4606),https://www.wikidata.org/wiki/Q641096
+LIBSRC-LIB34-ENT-GEO-0047131,elevation,109000.0,https://www.wikidata.org/wiki/Q641096
+LIBSRC-LIB34-ENT-GEO-0059451,geometry_with_crs,POINT(-73.4908 6.3308),https://www.wikidata.org/wiki/Q23680893
+LIBSRC-LIB34-ENT-GEO-0059451,location,POINT(-73.4908 6.3308),https://www.wikidata.org/wiki/Q23680893
+LIBSRC-LIB34-ENT-GEO-0064841,geometry_with_crs,POINT(9.258498132177069 47.92520139176282),https://www.wikidata.org/wiki/Q107544758
+LIBSRC-LIB34-ENT-GEO-0064841,location,POINT(9.258498132177069 47.92520139176282),https://www.wikidata.org/wiki/Q107544758
+LIBSRC-LIB34-ENT-GEO-0071771,geometry_with_crs,POINT(31.25 29.4),https://www.wikidata.org/wiki/Q5001976
+LIBSRC-LIB34-ENT-GEO-0071771,location,POINT(31.25 29.4),https://www.wikidata.org/wiki/Q5001976
+LIBSRC-LIB34-ENT-GEO-0071771,elevation,24000.0,https://www.wikidata.org/wiki/Q5001976
+LIBSRC-LIB34-ENT-GEO-0061761,geometry_with_crs,POINT(13 49.033333333333),https://www.wikidata.org/wiki/Q488612
+LIBSRC-LIB34-ENT-GEO-0061761,location,POINT(13 49.033333333333),https://www.wikidata.org/wiki/Q488612
+LIBSRC-LIB34-ENT-GEO-0061761,elevation,478000.0,https://www.wikidata.org/wiki/Q488612
+LIBSRC-LIB34-ENT-GEO-0077931,geometry_with_crs,POINT(27.8268595 69.5899281),https://www.wikidata.org/wiki/Q24305867
+LIBSRC-LIB34-ENT-GEO-0077931,location,POINT(27.8268595 69.5899281),https://www.wikidata.org/wiki/Q24305867
+LIBSRC-LIB34-ENT-GEO-0077931,elevation,259100.00000000003,https://www.wikidata.org/wiki/Q24305867
+LIBSRC-LIB34-ENT-GEO-0086401,geometry_with_crs,POINT(4.87312 44.29776),https://www.wikidata.org/wiki/Q15138983
+LIBSRC-LIB34-ENT-GEO-0086401,location,POINT(4.87312 44.29776),https://www.wikidata.org/wiki/Q15138983
+LIBSRC-LIB34-ENT-GEO-0082551,geometry_with_crs,POINT(5.3133333333333 43.746944444444),https://www.wikidata.org/wiki/Q625678
+LIBSRC-LIB34-ENT-GEO-0082551,location,POINT(5.3133333333333 43.746944444444),https://www.wikidata.org/wiki/Q625678
+LIBSRC-LIB34-ENT-GEO-0082551,elevation,350000.0,https://www.wikidata.org/wiki/Q625678
+LIBSRC-LIB34-ENT-GEO-0080241,geometry_with_crs,POINT(7.4483333333333 43.876944444444),https://www.wikidata.org/wiki/Q467020
+LIBSRC-LIB34-ENT-GEO-0080241,location,POINT(7.4483333333333 43.876944444444),https://www.wikidata.org/wiki/Q467020
+LIBSRC-LIB34-ENT-GEO-0080241,elevation,348000.0,https://www.wikidata.org/wiki/Q467020
+LIBSRC-LIB34-ENT-GEO-0083321,geometry_with_crs,POINT(1.8505555555556 45.299444444444),https://www.wikidata.org/wiki/Q626415
+LIBSRC-LIB34-ENT-GEO-0083321,location,POINT(1.8505555555556 45.299444444444),https://www.wikidata.org/wiki/Q626415
+LIBSRC-LIB34-ENT-GEO-0083321,elevation,220000.0,https://www.wikidata.org/wiki/Q626415
+LIBSRC-LIB34-ENT-GEO-0088711,geometry_with_crs,POINT(-0.1744 51.5541),https://www.wikidata.org/wiki/Q25610
+LIBSRC-LIB34-ENT-GEO-0088711,location,POINT(-0.1744 51.5541),https://www.wikidata.org/wiki/Q25610
+LIBSRC-LIB34-ENT-GEO-0084091,geometry_with_crs,POINT(-4.1036111111111 48.663333333333),https://www.wikidata.org/wiki/Q221537
+LIBSRC-LIB34-ENT-GEO-0084091,location,POINT(-4.1036111111111 48.663333333333),https://www.wikidata.org/wiki/Q221537
+LIBSRC-LIB34-ENT-GEO-0084091,elevation,0.0,https://www.wikidata.org/wiki/Q221537
+LIBSRC-LIB34-ENT-GEO-0044361,geometry_with_crs,POINT(-52.670833333333 -26.228888888889),https://www.wikidata.org/wiki/Q1772650
+LIBSRC-LIB34-ENT-GEO-0044361,location,POINT(-52.670833333333 -26.228888888889),https://www.wikidata.org/wiki/Q1772650
+LIBSRC-LIB34-ENT-GEO-0044361,elevation,760000.0,https://www.wikidata.org/wiki/Q1772650
+LIBSRC-LIB34-ENT-GEO-0101881,geometry_with_crs,POINT(113.977 22.2398),https://www.wikidata.org/wiki/Q7259008
+LIBSRC-LIB34-ENT-GEO-0101881,location,POINT(113.977 22.2398),https://www.wikidata.org/wiki/Q7259008
+LIBSRC-LIB34-ENT-GEO-0085711,geometry_with_crs,POINT(3.7116666666667 45.199722222222),https://www.wikidata.org/wiki/Q1065755
+LIBSRC-LIB34-ENT-GEO-0085711,location,POINT(3.7116666666667 45.199722222222),https://www.wikidata.org/wiki/Q1065755
+LIBSRC-LIB34-ENT-GEO-0085711,elevation,880000.0,https://www.wikidata.org/wiki/Q1065755
+LIBSRC-LIB34-ENT-GEO-0127291,geometry_with_crs,POINT(49.3511 34.7725),https://www.wikidata.org/wiki/Q2511730
+LIBSRC-LIB34-ENT-GEO-0127291,location,POINT(49.3511 34.7725),https://www.wikidata.org/wiki/Q2511730
+LIBSRC-LIB34-ENT-GEO-0047981,geometry_with_crs,POINT(-126.283 51.4167),https://www.wikidata.org/wiki/Q6412449
+LIBSRC-LIB34-ENT-GEO-0047981,location,POINT(-126.283 51.4167),https://www.wikidata.org/wiki/Q6412449
+LIBSRC-LIB34-ENT-GEO-0145771,geometry_with_crs,POINT(48.301111111111 35.029444444444),https://www.wikidata.org/wiki/Q26908658
+LIBSRC-LIB34-ENT-GEO-0145771,location,POINT(48.301111111111 35.029444444444),https://www.wikidata.org/wiki/Q26908658
+LIBSRC-LIB34-ENT-GEO-0147311,geometry_with_crs,POINT(59.29 33.916111111111),https://www.wikidata.org/wiki/Q26989609
+LIBSRC-LIB34-ENT-GEO-0147311,location,POINT(59.29 33.916111111111),https://www.wikidata.org/wiki/Q26989609
+LIBSRC-LIB34-ENT-GEO-0148081,geometry_with_crs,POINT(56.516666666667 36.568611111111),https://www.wikidata.org/wiki/Q26927470
+LIBSRC-LIB34-ENT-GEO-0148081,location,POINT(56.516666666667 36.568611111111),https://www.wikidata.org/wiki/Q26927470
+LIBSRC-LIB34-ENT-GEO-0151161,geometry_with_crs,POINT(47.760833333333 33.548888888889),https://www.wikidata.org/wiki/Q26959374
+LIBSRC-LIB34-ENT-GEO-0151161,location,POINT(47.760833333333 33.548888888889),https://www.wikidata.org/wiki/Q26959374
+LIBSRC-LIB34-ENT-GEO-0151931,geometry_with_crs,POINT(54.127222222222 29.05),https://www.wikidata.org/wiki/Q26980269
+LIBSRC-LIB34-ENT-GEO-0151931,location,POINT(54.127222222222 29.05),https://www.wikidata.org/wiki/Q26980269
+LIBSRC-LIB34-ENT-GEO-0165791,geometry_with_crs,POINT(127.36944444444 26.230555555556),https://www.wikidata.org/wiki/Q49639068
+LIBSRC-LIB34-ENT-GEO-0165791,location,POINT(127.36944444444 26.230555555556),https://www.wikidata.org/wiki/Q49639068
+LIBSRC-LIB34-ENT-GEO-0170411,geometry_with_crs,POINT(49.1925 33.43166667),https://www.wikidata.org/wiki/Q5069832
+LIBSRC-LIB34-ENT-GEO-0170411,location,POINT(49.1925 33.43166667),https://www.wikidata.org/wiki/Q5069832
+LIBSRC-LIB34-ENT-GEO-0102651,geometry_with_crs,POINT(17.19848056 46.82861944),https://www.wikidata.org/wiki/Q1030350
+LIBSRC-LIB34-ENT-GEO-0102651,location,POINT(17.19848056 46.82861944),https://www.wikidata.org/wiki/Q1030350
+LIBSRC-LIB34-ENT-GEO-0083401,geometry_with_crs,POINT(0.15916666666667 43.173611111111),https://www.wikidata.org/wiki/Q1327470
+LIBSRC-LIB34-ENT-GEO-0083401,location,POINT(0.15916666666667 43.173611111111),https://www.wikidata.org/wiki/Q1327470
+LIBSRC-LIB34-ENT-GEO-0083401,elevation,418000.0,https://www.wikidata.org/wiki/Q1327470
+LIBSRC-LIB34-ENT-GEO-0191201,geometry_with_crs,POINT(35.9925 34.264722222222),https://www.wikidata.org/wiki/Q21577771
+LIBSRC-LIB34-ENT-GEO-0191201,location,POINT(35.9925 34.264722222222),https://www.wikidata.org/wiki/Q21577771
+LIBSRC-LIB34-ENT-GEO-0190431,geometry_with_crs,POINT(35.79583333 33.55861111),https://www.wikidata.org/wiki/Q4661080
+LIBSRC-LIB34-ENT-GEO-0190431,location,POINT(35.79583333 33.55861111),https://www.wikidata.org/wiki/Q4661080
+LIBSRC-LIB34-ENT-GEO-0190431,elevation,1304000.0,https://www.wikidata.org/wiki/Q4661080
+LIBSRC-LIB34-ENT-GEO-0303411,geometry_with_crs,POINT(30 61.026666666666664),https://www.wikidata.org/wiki/Q4538616
+LIBSRC-LIB34-ENT-GEO-0303411,location,POINT(30 61.026666666666664),https://www.wikidata.org/wiki/Q4538616
+LIBSRC-LIB34-ENT-GEO-0305721,geometry_with_crs,POINT(29.754722222222 50.297777777778),https://www.wikidata.org/wiki/Q260567
+LIBSRC-LIB34-ENT-GEO-0305721,location,POINT(29.754722222222 50.297777777778),https://www.wikidata.org/wiki/Q260567
+LIBSRC-LIB34-ENT-GEO-0305721,elevation,170000.0,https://www.wikidata.org/wiki/Q260567
+LIBSRC-LIB34-ENT-GEO-0311881,geometry_with_crs,POINT(-90.305 37.489444444444),https://www.wikidata.org/wiki/Q547515
+LIBSRC-LIB34-ENT-GEO-0311881,location,POINT(-90.305 37.489444444444),https://www.wikidata.org/wiki/Q547515
+LIBSRC-LIB34-ENT-GEO-0311881,elevation,978000.0,https://www.wikidata.org/wiki/Q547515
+LIBSRC-LIB34-ENT-GEO-0204291,geometry_with_crs,POINT(-101.86675 18.045250000000003),https://www.wikidata.org/wiki/Q50013506
+LIBSRC-LIB34-ENT-GEO-0204291,location,POINT(-101.86675 18.045250000000003),https://www.wikidata.org/wiki/Q50013506
+IDB-REG_01-CAT_15-ERA_05-1965-ACC05-HOP1112-REC222241,geometry_with_crs,POINT(9.06072 48.56137),https://www.wikidata.org/wiki/Q518676
+IDB-REG_01-CAT_15-ERA_05-1965-ACC05-HOP1112-REC222241,location,POINT(9.06072 48.56137),https://www.wikidata.org/wiki/Q518676
