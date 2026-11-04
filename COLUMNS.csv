@@ -1,0 +1,10 @@
+column_name,data_type,unit,description
+construction_technique,JSON,,value types: string
+creator_or_attribution,JSON,,value types: string
+date_or_interval,JSON,,value types: string
+descriptive_identity,JSON,,value types: string
+dimension_length,JSON,mm,value types: number
+identity_label,JSON,,value types: string
+mass,JSON,g,value types: number
+material_identity,JSON,,value types: string
+visual_identity,JSON,,value types: string
