@@ -1,0 +1,13 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_07-CAT_11-ERA_01-1200-ACC04-HOP16893-REC3378537,sex,"""Male""",https://www.gbif.org/occurrence/5938040561
+IDB-REG_07-CAT_11-ERA_01-1200-ACC04-HOP16893-REC3378537,life_stage,"""Adult""",https://www.gbif.org/occurrence/5938040561
+IDB-REG_07-CAT_13-ERA_01-1200-ACC04-HOP17729-REC3545767,sex,"""Male""",https://www.gbif.org/occurrence/5938040561
+IDB-REG_07-CAT_13-ERA_01-1200-ACC04-HOP17729-REC3545767,life_stage,"""Adult""",https://www.gbif.org/occurrence/5938040561
+IDB-REG_07-CAT_11-ERA_01-1200-ACC04-HOP16732-REC3346337,sex,"""Male""",https://www.gbif.org/occurrence/5938040561
+IDB-REG_07-CAT_11-ERA_01-1200-ACC04-HOP16732-REC3346337,life_stage,"""Adult""",https://www.gbif.org/occurrence/5938040561
+IDB-REG_07-CAT_13-ERA_01-1200-ACC04-HOP17300-REC3459947,sex,"""Indeterminate""",https://www.gbif.org/occurrence/6147581348
+IDB-REG_07-CAT_13-ERA_01-1200-ACC04-HOP17300-REC3459947,life_stage,"""Juvenile""",https://www.gbif.org/occurrence/6147581348
+IDB-REG_07-CAT_13-ERA_01-1200-ACC04-HOP17302-REC3460367,sex,"""Indeterminate""",https://www.gbif.org/occurrence/6147581348
+IDB-REG_07-CAT_13-ERA_01-1200-ACC04-HOP17302-REC3460367,life_stage,"""Juvenile""",https://www.gbif.org/occurrence/6147581348
+IDB-REG_07-CAT_13-ERA_01-1200-ACC04-HOP18129-REC3625707,sex,"""Female""",https://www.gbif.org/occurrence/6320488312
+IDB-REG_07-CAT_13-ERA_01-1200-ACC04-HOP18129-REC3625707,life_stage,"""Adult""",https://www.gbif.org/occurrence/6320488312
