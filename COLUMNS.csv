@@ -1,0 +1,11 @@
+column_name,data_type,unit,description
+component_relationship,JSON,,value types: string
+descriptive_identity,JSON,,value types: string
+dimension_length,JSON,mm,value types: number
+identity_label,JSON,,value types: string
+manufacturer_or_creator,JSON,,value types: string
+mass,JSON,g,value types: number
+material_identity,JSON,,value types: string
+model_identifier,JSON,,value types: string
+propulsion_type,JSON,,value types: string
+variant_identifier,JSON,,value types: string
