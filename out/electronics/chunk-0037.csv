@@ -1,0 +1,74 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB39-ENT-AAT-0001885,descriptive_identity,"""type of pole""",http://www.wikidata.org/entity/Q1144084
+LIBSRC-LIB39-ENT-AAT-0007014,descriptive_identity,"""profession""",http://www.wikidata.org/entity/Q627325
+LIBSRC-LIB39-ENT-AAT-0008445,descriptive_identity,"""passive electronic component""",http://www.wikidata.org/entity/Q5322
+LIBSRC-LIB39-ENT-AAT-0016834,descriptive_identity,"""Wikibase reason for deprecated rank""",http://www.wikidata.org/entity/Q11796892
+LIBSRC-LIB39-ENT-AAT-0021419,descriptive_identity,"""profession""",http://www.wikidata.org/entity/Q82594
+LIBSRC-LIB39-ENT-AAT-0026381,descriptive_identity,"""unit of information""",http://www.wikidata.org/entity/Q79741
+LIBSRC-LIB39-ENT-AAT-0029336,descriptive_identity,"""unit of time""",http://www.wikidata.org/entity/Q577
+LIBSRC-LIB39-ENT-AAT-0030173,descriptive_identity,"""synthetic element""",http://www.wikidata.org/entity/Q1888
+LIBSRC-LIB39-ENT-AAT-0030194,descriptive_identity,"""mineral species""",http://www.wikidata.org/entity/Q414888
+LIBSRC-LIB39-ENT-AAT-0034340,descriptive_identity,"""software category""",http://www.wikidata.org/entity/Q620615
+LIBSRC-LIB39-ENT-AAT-0037113,descriptive_identity,"""magazine genre""",http://www.wikidata.org/entity/Q22575725
+LIBSRC-LIB43-ENT-OBJ-0025681,descriptive_identity,"""input device""",http://www.wikidata.org/entity/Q250
+LIBSRC-LIB43-ENT-OBJ-0025698,descriptive_identity,"""fictional sword""",http://www.wikidata.org/entity/Q100165772
+LIBSRC-LIB43-ENT-OBJ-0026384,descriptive_identity,"""fictional weapon""",http://www.wikidata.org/entity/Q100323635
+LIBSRC-LIB43-ENT-OBJ-0026386,descriptive_identity,"""fictional weapon""",http://www.wikidata.org/entity/Q100325213
+LIBSRC-LIB43-ENT-OBJ-0030298,descriptive_identity,"""radio telescope""",http://www.wikidata.org/entity/Q1055792
+LIBSRC-LIB43-ENT-OBJ-0033887,descriptive_identity,"""microprocessor""",http://www.wikidata.org/entity/Q109170743
+LIBSRC-LIB43-ENT-OBJ-0038425,descriptive_identity,"""CPU socket""",http://www.wikidata.org/entity/Q1132283
+LIBSRC-LIB43-ENT-OBJ-0039077,descriptive_identity,"""optical instrument""",http://www.wikidata.org/entity/Q115756544
+LIBSRC-LIB43-ENT-OBJ-0055061,descriptive_identity,"""radio telescope""",http://www.wikidata.org/entity/Q119086208
+LIBSRC-LIB43-ENT-OBJ-0055085,descriptive_identity,"""radio interferometer""",http://www.wikidata.org/entity/Q1192324
+LIBSRC-LIB43-ENT-OBJ-0056298,descriptive_identity,"""Gregorian telescope""",http://www.wikidata.org/entity/Q1200061
+LIBSRC-LIB43-ENT-OBJ-0056370,descriptive_identity,"""radio interferometer""",http://www.wikidata.org/entity/Q1205241
+LIBSRC-LIB43-ENT-OBJ-0056991,descriptive_identity,"""phased array""",http://www.wikidata.org/entity/Q12098684
+LIBSRC-LIB43-ENT-OBJ-0057750,descriptive_identity,"""image processor""",http://www.wikidata.org/entity/Q123425449
+LIBSRC-LIB43-ENT-OBJ-0057750,manufacturer_or_creator,"""Canon Inc.""",http://www.wikidata.org/entity/Q123425449
+LIBSRC-LIB43-ENT-OBJ-0059588,descriptive_identity,"""space instrument""",http://www.wikidata.org/entity/Q124834453
+LIBSRC-LIB43-ENT-OBJ-0062285,descriptive_identity,"""microprocessor""",http://www.wikidata.org/entity/Q131829470
+LIBSRC-LIB43-ENT-OBJ-0063417,descriptive_identity,"""telephone connector""",http://www.wikidata.org/entity/Q134582876
+LIBSRC-LIB43-ENT-OBJ-0063810,descriptive_identity,"""ROM cartridge""",http://www.wikidata.org/entity/Q135397696
+LIBSRC-LIB43-ENT-OBJ-0063810,manufacturer_or_creator,"""Toshiba""",http://www.wikidata.org/entity/Q135397696
+LIBSRC-LIB43-ENT-OBJ-0068608,descriptive_identity,"""physical technological component""",http://www.wikidata.org/entity/Q167676
+LIBSRC-LIB43-ENT-OBJ-0069613,descriptive_identity,"""solar telescope""",http://www.wikidata.org/entity/Q18385771
+LIBSRC-LIB43-ENT-OBJ-0069764,descriptive_identity,"""electrical connector""",http://www.wikidata.org/entity/Q1930032
+LIBSRC-LIB43-ENT-OBJ-0069780,descriptive_identity,"""computer appliance""",http://www.wikidata.org/entity/Q1935523
+LIBSRC-LIB43-ENT-OBJ-0070350,descriptive_identity,"""sound card""",http://www.wikidata.org/entity/Q21041288
+LIBSRC-LIB43-ENT-OBJ-0070350,manufacturer_or_creator,"""IBM""",http://www.wikidata.org/entity/Q21041288
+LIBSRC-LIB43-ENT-OBJ-0070369,descriptive_identity,"""brand""",http://www.wikidata.org/entity/Q21081798
+LIBSRC-LIB43-ENT-OBJ-0070406,descriptive_identity,"""microcontroller""",http://www.wikidata.org/entity/Q21233311
+LIBSRC-LIB43-ENT-OBJ-0070951,descriptive_identity,"""image sensor""",http://www.wikidata.org/entity/Q2261857
+LIBSRC-LIB43-ENT-OBJ-0071408,descriptive_identity,"""radio telescope""",http://www.wikidata.org/entity/Q24685664
+LIBSRC-LIB43-ENT-OBJ-0071447,descriptive_identity,"""floating-point unit""",http://www.wikidata.org/entity/Q2486154
+LIBSRC-LIB43-ENT-OBJ-0071447,manufacturer_or_creator,"""Intel""",http://www.wikidata.org/entity/Q2486154
+LIBSRC-LIB43-ENT-OBJ-0071753,descriptive_identity,"""single-board computer""",http://www.wikidata.org/entity/Q25906090
+LIBSRC-LIB43-ENT-OBJ-0073815,descriptive_identity,"""computer key""",http://www.wikidata.org/entity/Q27884981
+LIBSRC-LIB43-ENT-OBJ-0073817,descriptive_identity,"""computer key""",http://www.wikidata.org/entity/Q27884983
+LIBSRC-LIB43-ENT-OBJ-0073819,descriptive_identity,"""computer key""",http://www.wikidata.org/entity/Q27885066
+LIBSRC-LIB43-ENT-OBJ-0074082,descriptive_identity,"""disk image format""",http://www.wikidata.org/entity/Q28757951
+LIBSRC-LIB43-ENT-OBJ-0079471,descriptive_identity,"""space instrument""",http://www.wikidata.org/entity/Q298019
+LIBSRC-LIB43-ENT-OBJ-0079750,descriptive_identity,"""radio telescope""",http://www.wikidata.org/entity/Q30674265
+LIBSRC-LIB43-ENT-OBJ-0080382,descriptive_identity,"""type of electrical connector""",http://www.wikidata.org/entity/Q3271837
+LIBSRC-LIB43-ENT-OBJ-0082343,descriptive_identity,"""computer display standard""",http://www.wikidata.org/entity/Q3515025
+LIBSRC-LIB43-ENT-OBJ-0082470,descriptive_identity,"""file system""",http://www.wikidata.org/entity/Q370047
+LIBSRC-LIB43-ENT-OBJ-0082700,descriptive_identity,"""computer key""",http://www.wikidata.org/entity/Q391956
+LIBSRC-LIB43-ENT-OBJ-0082843,descriptive_identity,"""computer mouse""",http://www.wikidata.org/entity/Q40777709
+LIBSRC-LIB43-ENT-OBJ-0083313,descriptive_identity,"""open hardware""",http://www.wikidata.org/entity/Q429109
+LIBSRC-LIB43-ENT-OBJ-0083319,descriptive_identity,"""integrated circuit series""",http://www.wikidata.org/entity/Q4293160
+LIBSRC-LIB43-ENT-OBJ-0083332,descriptive_identity,"""CPU model""",http://www.wikidata.org/entity/Q430856
+LIBSRC-LIB43-ENT-OBJ-0084175,descriptive_identity,"""electronic device""",http://www.wikidata.org/entity/Q493576
+LIBSRC-LIB43-ENT-OBJ-0086432,descriptive_identity,"""computer key""",http://www.wikidata.org/entity/Q5710148
+LIBSRC-LIB43-ENT-OBJ-0087828,descriptive_identity,"""microprocessor""",http://www.wikidata.org/entity/Q5969194
+LIBSRC-LIB43-ENT-OBJ-0088770,descriptive_identity,"""ergonomic keyboard""",http://www.wikidata.org/entity/Q61457156
+LIBSRC-LIB43-ENT-OBJ-0088770,manufacturer_or_creator,"""Keyboardio""",http://www.wikidata.org/entity/Q61457156
+LIBSRC-LIB43-ENT-OBJ-0089803,descriptive_identity,"""computer keyboard""",http://www.wikidata.org/entity/Q6458886
+LIBSRC-LIB43-ENT-OBJ-0089803,manufacturer_or_creator,"""Digital Equipment Corporation""",http://www.wikidata.org/entity/Q6458886
+LIBSRC-LIB43-ENT-OBJ-0090818,descriptive_identity,"""webcam""",http://www.wikidata.org/entity/Q6920703
+LIBSRC-LIB43-ENT-OBJ-0091211,descriptive_identity,"""single-board computer""",http://www.wikidata.org/entity/Q7294736
+LIBSRC-LIB43-ENT-OBJ-0091795,descriptive_identity,"""microprocessor""",http://www.wikidata.org/entity/Q767710
+LIBSRC-LIB43-ENT-OBJ-0091795,manufacturer_or_creator,"""Texas Instruments""",http://www.wikidata.org/entity/Q767710
+LIBSRC-LIB43-ENT-OBJ-0091841,descriptive_identity,"""one-of-a-kind computer""",http://www.wikidata.org/entity/Q776823
+LIBSRC-LIB43-ENT-OBJ-0091841,manufacturer_or_creator,"""IBM""",http://www.wikidata.org/entity/Q776823
+LIBSRC-LIB43-ENT-OBJ-0093378,descriptive_identity,"""space instrument""",http://www.wikidata.org/entity/Q85750031
+LIBSRC-LIB43-ENT-OBJ-0098194,descriptive_identity,"""fictional miracle weapon""",http://www.wikidata.org/entity/Q100258674
