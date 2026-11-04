@@ -1,0 +1,138 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_06-CAT_12-ERA_05-1965-ACC04-HOP16484-REC3296606,material_identity,"Haliotis rufescens Swainson, 1822",https://api.gbif.org/v1/species/match?name=Haliotis%20rufescens
+IDB-REG_06-CAT_12-ERA_05-1965-ACC04-HOP16565-REC3312986,material_identity,"Haliotis cracherodii Leach, 1814",https://api.gbif.org/v1/species/match?name=Haliotis%20cracherodii
+IDB-REG_06-CAT_12-ERA_05-1965-ACC04-HOP16638-REC3327546,material_identity,"Mytilus californianus Conrad, 1837",https://api.gbif.org/v1/species/match?name=Mytilus%20californianus
+IDB-REG_06-CAT_12-ERA_05-1965-ACC04-HOP16730-REC3345886,material_identity,"Haliotis cracherodii Leach, 1814",https://api.gbif.org/v1/species/match?name=Haliotis%20cracherodii
+IDB-REG_06-CAT_12-ERA_05-1965-ACC04-HOP17112-REC3422326,material_identity,"Haliotis rufescens Swainson, 1822",https://api.gbif.org/v1/species/match?name=Haliotis%20rufescens
+IDB-REG_06-CAT_12-ERA_05-1965-ACC04-HOP17308-REC3461526,material_identity,"Haliotis rufescens Swainson, 1822",https://api.gbif.org/v1/species/match?name=Haliotis%20rufescens
+IDB-REG_06-CAT_12-ERA_05-1965-ACC04-HOP17380-REC3475946,material_identity,"Haliotis rufescens Swainson, 1822",https://api.gbif.org/v1/species/match?name=Haliotis%20rufescens
+IDB-REG_06-CAT_12-ERA_06-2015-ACC04-HOP16750-REC3349926,material_identity,"Mytilus californianus Conrad, 1837",https://api.gbif.org/v1/species/match?name=Mytilus%20californianus
+IDB-REG_06-CAT_12-ERA_06-2015-ACC04-HOP16936-REC3387026,material_identity,"Haliotis rufescens Swainson, 1822",https://api.gbif.org/v1/species/match?name=Haliotis%20rufescens
+IDB-REG_06-CAT_12-ERA_06-2015-ACC04-HOP17556-REC3511066,material_identity,"Haliotis cracherodii Leach, 1814",https://api.gbif.org/v1/species/match?name=Haliotis%20cracherodii
+IDB-REG_06-CAT_12-ERA_06-2015-ACC04-HOP17968-REC3593526,material_identity,"Mytilus californianus Conrad, 1837",https://api.gbif.org/v1/species/match?name=Mytilus%20californianus
+IDB-REG_06-CAT_12-ERA_06-2015-ACC04-HOP18570-REC3713926,material_identity,"Tivela stultorum (Mawe, 1823)",https://api.gbif.org/v1/species/match?name=Tivela%20stultorum
+IDB-REG_06-CAT_12-ERA_07-2025-ACC04-HOP16659-REC3331706,material_identity,"Myliobatis californica Gill, 1865",https://api.gbif.org/v1/species/match?name=Myliobatis%20californica
+IDB-REG_06-CAT_12-ERA_07-2025-ACC04-HOP17164-REC3432646,material_identity,"Odocoileus hemionus (Rafinesque, 1817)",https://api.gbif.org/v1/species/match?name=Odocoileus%20hemionus
+IDB-REG_06-CAT_12-ERA_07-2025-ACC04-HOP17825-REC3564946,material_identity,"Mytilus californianus Conrad, 1837",https://api.gbif.org/v1/species/match?name=Mytilus%20californianus
+IDB-REG_06-CAT_12-ERA_07-2025-ACC04-HOP17897-REC3579226,material_identity,"Haliotis rufescens Swainson, 1822",https://api.gbif.org/v1/species/match?name=Haliotis%20rufescens
+IDB-REG_06-CAT_12-ERA_07-2025-ACC04-HOP17938-REC3587486,material_identity,"Haliotis cracherodii Leach, 1814",https://api.gbif.org/v1/species/match?name=Haliotis%20cracherodii
+IDB-REG_06-CAT_12-ERA_07-2025-ACC04-HOP17968-REC3593506,material_identity,"Haliotis cracherodii Leach, 1814",https://api.gbif.org/v1/species/match?name=Haliotis%20cracherodii
+IDB-REG_06-CAT_12-ERA_07-2025-ACC04-HOP18207-REC3641386,material_identity,"Haliotis rufescens Swainson, 1822",https://api.gbif.org/v1/species/match?name=Haliotis%20rufescens
+IDB-REG_06-CAT_12-ERA_07-2025-ACC04-HOP18238-REC3647546,material_identity,"Haliotis rufescens Swainson, 1822",https://api.gbif.org/v1/species/match?name=Haliotis%20rufescens
+IDB-REG_06-CAT_12-ERA_07-2025-ACC04-HOP18695-REC3738966,material_identity,"Tivela stultorum (Mawe, 1823)",https://api.gbif.org/v1/species/match?name=Tivela%20stultorum
+IDB-REG_06-CAT_12-ERA_07-2025-ACC04-HOP18914-REC3782786,material_identity,"Tivela stultorum (Mawe, 1823)",https://api.gbif.org/v1/species/match?name=Tivela%20stultorum
+LIBSRC-LIB51-ENT-SMI-0001369,composition,sheet brass inlaid with silver,https://openaccess-api.clevelandart.org/api/artworks?q=Candlestick&limit=1
+LIBSRC-LIB51-ENT-SMI-0006681,composition,sheet brass inlaid with silver,https://openaccess-api.clevelandart.org/api/artworks?q=Candlestick&limit=1
+LIBSRC-LIB51-ENT-SMI-0024337,composition,Silver,https://openaccess-api.clevelandart.org/api/artworks?q=Design%20for%20a%20Coffee%20Urn&limit=1
+LIBSRC-LIB51-ENT-SMI-0040038,composition,sheet brass inlaid with silver,https://openaccess-api.clevelandart.org/api/artworks?q=Candlestick&limit=1
+LIBSRC-LIB51-ENT-SMI-0046877,composition,oil on canvas,https://openaccess-api.clevelandart.org/api/artworks?q=Design%20for%20a%20Mantelpiece&limit=1
+LIBSRC-LIB51-ENT-SMI-0053898,composition,engraving,https://openaccess-api.clevelandart.org/api/artworks?q=A%20Set%20of%20Four%20Candlesticks&limit=1
+LIBSRC-LIB51-ENT-SMI-0055966,composition,enamel on copper,https://openaccess-api.clevelandart.org/api/artworks?q=Design%20for%20a%20Candlestick%20with%20a%20Clock&limit=1
+LIBSRC-LIB51-ENT-SMI-0086968,composition,glass,https://openaccess-api.clevelandart.org/api/artworks?q=sticker&limit=1
+LIBSRC-LIB51-ENT-SMI-0096955,composition,glass,https://openaccess-api.clevelandart.org/api/artworks?q=sticker&limit=1
+LIBSRC-LIB51-ENT-SMI-0097649,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0100604,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=House%20of%20Representatives&limit=1
+LIBSRC-LIB51-ENT-SMI-0104341,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0106324,composition,"Wood, snakeskin, and plant fiber",https://openaccess-api.clevelandart.org/api/artworks?q=spike&limit=1
+LIBSRC-LIB51-ENT-SMI-0111627,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=Odessa&limit=1
+LIBSRC-LIB51-ENT-SMI-0112489,composition,tempera and gold on wood,https://openaccess-api.clevelandart.org/api/artworks?q=Virgin&limit=1
+LIBSRC-LIB51-ENT-SMI-0121545,composition,silver gilt,https://openaccess-api.clevelandart.org/api/artworks?q=decanter&limit=1
+LIBSRC-LIB51-ENT-SMI-0121977,composition,oil on canvas,https://openaccess-api.clevelandart.org/api/artworks?q=card&limit=1
+LIBSRC-LIB51-ENT-SMI-0129588,composition,Watercolor with scraping on paper,https://openaccess-api.clevelandart.org/api/artworks?q=West%20Point&limit=1
+LIBSRC-LIB51-ENT-SMI-0133044,composition,sheet brass inlaid with silver,https://openaccess-api.clevelandart.org/api/artworks?q=candlestick&limit=1
+LIBSRC-LIB51-ENT-SMI-0139381,composition,gold,https://openaccess-api.clevelandart.org/api/artworks?q=pennant&limit=1
+LIBSRC-LIB51-ENT-SMI-0146944,composition,glass,https://openaccess-api.clevelandart.org/api/artworks?q=sticker&limit=1
+LIBSRC-LIB51-ENT-SMI-0154476,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=Nursing%20Bottle&limit=1
+LIBSRC-LIB51-ENT-SMI-0155181,composition,oil on canvas,https://openaccess-api.clevelandart.org/api/artworks?q=card&limit=1
+LIBSRC-LIB51-ENT-SMI-0155470,composition,Gum tempera and gold on paper,https://openaccess-api.clevelandart.org/api/artworks?q=News%20Stick&limit=1
+LIBSRC-LIB51-ENT-SMI-0157601,composition,"gelatin silver print, wirephoto",https://openaccess-api.clevelandart.org/api/artworks?q=Vote&limit=1
+LIBSRC-LIB51-ENT-SMI-0165735,composition,graphite on paper,https://openaccess-api.clevelandart.org/api/artworks?q=flytrap&limit=1
+LIBSRC-LIB51-ENT-SMI-0169007,composition,"gelatin silver print, wirephoto",https://openaccess-api.clevelandart.org/api/artworks?q=National%20March%20on%20Washington&limit=1
+LIBSRC-LIB51-ENT-SMI-0169332,composition,silver gilt,https://openaccess-api.clevelandart.org/api/artworks?q=decanter&limit=1
+LIBSRC-LIB51-ENT-SMI-0179416,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0180750,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0184360,composition,camelid fiber: plain weave with embroidery,https://openaccess-api.clevelandart.org/api/artworks?q=mantle&limit=1
+LIBSRC-LIB51-ENT-SMI-0184829,composition,softground etching,https://openaccess-api.clevelandart.org/api/artworks?q=Canada&limit=1
+LIBSRC-LIB51-ENT-SMI-0198701,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0206966,composition,Kaolin with traces of pigment,https://openaccess-api.clevelandart.org/api/artworks?q=flyer&limit=1
+LIBSRC-LIB51-ENT-SMI-0211249,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=lipstick&limit=1
+LIBSRC-LIB51-ENT-SMI-0215238,composition,sheet brass inlaid with silver,https://openaccess-api.clevelandart.org/api/artworks?q=candlestick&limit=1
+LIBSRC-LIB51-ENT-SMI-0215261,composition,sheet brass inlaid with silver,https://openaccess-api.clevelandart.org/api/artworks?q=candlestick&limit=1
+LIBSRC-LIB51-ENT-SMI-0216174,composition,oil on panel,https://openaccess-api.clevelandart.org/api/artworks?q=bathing%20suit&limit=1
+LIBSRC-LIB51-ENT-SMI-0220895,composition,sheet brass inlaid with silver,https://openaccess-api.clevelandart.org/api/artworks?q=candlestick&limit=1
+LIBSRC-LIB51-ENT-SMI-0222811,composition,gold,https://openaccess-api.clevelandart.org/api/artworks?q=1%20Pound&limit=1
+LIBSRC-LIB51-ENT-SMI-0226057,composition,pen and brown ink and brush and brown wash,https://openaccess-api.clevelandart.org/api/artworks?q=Fly%20Swatter&limit=1
+LIBSRC-LIB51-ENT-SMI-0230503,composition,red sandstone,https://openaccess-api.clevelandart.org/api/artworks?q=Fly%2C%20The&limit=1
+LIBSRC-LIB51-ENT-SMI-0236392,composition,sheet brass inlaid with silver,https://openaccess-api.clevelandart.org/api/artworks?q=candlestick&limit=1
+LIBSRC-LIB51-ENT-SMI-0243065,composition,"ceramic, slip",https://openaccess-api.clevelandart.org/api/artworks?q=canteen%2C%20water&limit=1
+LIBSRC-LIB51-ENT-SMI-0254605,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0271709,composition,tempera and gold on wood,https://openaccess-api.clevelandart.org/api/artworks?q=Unidentified%20Virgin&limit=1
+LIBSRC-LIB51-ENT-SMI-0277735,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0284526,composition,camelid fiber: plain weave with embroidery,https://openaccess-api.clevelandart.org/api/artworks?q=mantle&limit=1
+LIBSRC-LIB51-ENT-SMI-0287831,composition,camelid fiber: plain weave with embroidery,https://openaccess-api.clevelandart.org/api/artworks?q=mantle&limit=1
+LIBSRC-LIB51-ENT-SMI-0289902,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0290821,composition,camelid fiber: plain weave with embroidery,https://openaccess-api.clevelandart.org/api/artworks?q=mantle&limit=1
+LIBSRC-LIB51-ENT-SMI-0297507,composition,"pen and brush and black ink and black crayon, with graphite",https://openaccess-api.clevelandart.org/api/artworks?q=Republican%20National%20Convention&limit=1
+LIBSRC-LIB51-ENT-SMI-0300919,composition,camelid fiber: plain weave with embroidery,https://openaccess-api.clevelandart.org/api/artworks?q=mantle&limit=1
+LIBSRC-LIB51-ENT-SMI-0303123,composition,gum tempera and gold on paper,https://openaccess-api.clevelandart.org/api/artworks?q=News&limit=1
+LIBSRC-LIB51-ENT-SMI-0303944,composition,glass,https://openaccess-api.clevelandart.org/api/artworks?q=sticker&limit=1
+LIBSRC-LIB51-ENT-SMI-0304296,composition,silver gilt,https://openaccess-api.clevelandart.org/api/artworks?q=decanter&limit=1
+LIBSRC-LIB51-ENT-SMI-0307703,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0308432,composition,sheet brass inlaid with silver,https://openaccess-api.clevelandart.org/api/artworks?q=candlestick&limit=1
+LIBSRC-LIB51-ENT-SMI-0310354,composition,Kaolin with traces of pigment,https://openaccess-api.clevelandart.org/api/artworks?q=flyer&limit=1
+LIBSRC-LIB51-ENT-SMI-0317785,composition,camelid fiber: plain weave with embroidery,https://openaccess-api.clevelandart.org/api/artworks?q=mantle&limit=1
+LIBSRC-LIB51-ENT-SMI-0321019,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=Convention%20Hall&limit=1
+LIBSRC-LIB51-ENT-SMI-0321943,composition,vintage gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=Democratic%20National%20Convention&limit=1
+LIBSRC-LIB51-ENT-SMI-0323583,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0324744,composition,gold,https://openaccess-api.clevelandart.org/api/artworks?q=George%20V&limit=1
+LIBSRC-LIB51-ENT-SMI-0326905,composition,Album leaf; ink and color on silk,https://openaccess-api.clevelandart.org/api/artworks?q=Children%20of%20the%20World&limit=1
+LIBSRC-LIB51-ENT-SMI-0333900,composition,ceramic,https://openaccess-api.clevelandart.org/api/artworks?q=top&limit=1
+LIBSRC-LIB51-ENT-SMI-0334741,composition,postcard,https://openaccess-api.clevelandart.org/api/artworks?q=postcard&limit=1
+LIBSRC-LIB51-ENT-SMI-0340800,composition,sheet brass inlaid with silver,https://openaccess-api.clevelandart.org/api/artworks?q=candlestick&limit=1
+LIBSRC-LIB51-ENT-SMI-0342779,composition,Etching and aquatint from the First Suite of ten prints on blue-toned laid paper,https://openaccess-api.clevelandart.org/api/artworks?q=shot&limit=1
+LIBSRC-LIB51-ENT-SMI-0346155,composition,sheet brass inlaid with silver,https://openaccess-api.clevelandart.org/api/artworks?q=candlestick&limit=1
+LIBSRC-LIB51-ENT-SMI-0352767,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0354068,composition,lithographic crayon on paper,https://openaccess-api.clevelandart.org/api/artworks?q=San%20Jose&limit=1
+LIBSRC-LIB51-ENT-SMI-0356062,composition,sheet brass inlaid with silver,https://openaccess-api.clevelandart.org/api/artworks?q=candlestick&limit=1
+LIBSRC-LIB51-ENT-SMI-0359874,composition,Plain weave piña: needle lace (drawnwork) and embroidery,https://openaccess-api.clevelandart.org/api/artworks?q=blouse&limit=1
+LIBSRC-LIB51-ENT-SMI-0363052,composition,sheet brass inlaid with silver,https://openaccess-api.clevelandart.org/api/artworks?q=candlestick&limit=1
+LIBSRC-LIB51-ENT-SMI-0369272,composition,sheet brass inlaid with silver,https://openaccess-api.clevelandart.org/api/artworks?q=candlestick&limit=1
+LIBSRC-LIB51-ENT-SMI-0373512,composition,"silver, aventurine quartz",https://openaccess-api.clevelandart.org/api/artworks?q=compote&limit=1
+LIBSRC-LIB51-ENT-SMI-0374874,composition,hanging scroll; ink and color on paper,https://openaccess-api.clevelandart.org/api/artworks?q=Pheasant&limit=1
+LIBSRC-LIB51-ENT-SMI-0378945,composition,"daguerreotype, applied color, quarter-plate",https://openaccess-api.clevelandart.org/api/artworks?q=portrait%20of%20infant%20in%20white&limit=1
+LIBSRC-LIB51-ENT-SMI-0386646,composition,gold,https://openaccess-api.clevelandart.org/api/artworks?q=pennants&limit=1
+LIBSRC-LIB51-ENT-SMI-0388058,composition,glazed ceramic with sgraffito design,https://openaccess-api.clevelandart.org/api/artworks?q=Art%20Pottery&limit=1
+LIBSRC-LIB51-ENT-SMI-0389120,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0391896,composition,sheet brass inlaid with silver,https://openaccess-api.clevelandart.org/api/artworks?q=candlestick&limit=1
+LIBSRC-LIB51-ENT-SMI-0399849,composition,tempera and gold on wood,https://openaccess-api.clevelandart.org/api/artworks?q=Unidentified%20Virgin&limit=1
+LIBSRC-LIB51-ENT-SMI-0403704,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0403831,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0407057,composition,"silver gilt, opaque cloisonné enamel",https://openaccess-api.clevelandart.org/api/artworks?q=Creamer&limit=1
+LIBSRC-LIB51-ENT-SMI-0408697,composition,woodburytype,https://openaccess-api.clevelandart.org/api/artworks?q=Pedestrian%20Pass&limit=1
+LIBSRC-LIB51-ENT-SMI-0410495,composition,oil on canvas,https://openaccess-api.clevelandart.org/api/artworks?q=Level&limit=1
+LIBSRC-LIB51-ENT-SMI-0418124,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0426190,composition,"graphite, pen and dark brown ink, and watercolor on thick ivory wove paper",https://openaccess-api.clevelandart.org/api/artworks?q=sheet%20of%20paper&limit=1
+LIBSRC-LIB51-ENT-SMI-0427447,composition,sheet brass inlaid with silver,https://openaccess-api.clevelandart.org/api/artworks?q=candlestick&limit=1
+LIBSRC-LIB51-ENT-SMI-0428165,composition,lithographic crayon on paper,https://openaccess-api.clevelandart.org/api/artworks?q=San%20Jos%C3%A9&limit=1
+LIBSRC-LIB51-ENT-SMI-0430179,composition,silver gilt,https://openaccess-api.clevelandart.org/api/artworks?q=decanter&limit=1
+LIBSRC-LIB51-ENT-SMI-0437244,composition,letterpress poster,https://openaccess-api.clevelandart.org/api/artworks?q=Got%20Hope%3F&limit=1
+LIBSRC-LIB51-ENT-SMI-0437529,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=lipstick&limit=1
+LIBSRC-LIB51-ENT-SMI-0445619,composition,gold,https://openaccess-api.clevelandart.org/api/artworks?q=files%2C%20set%20of&limit=1
+LIBSRC-LIB51-ENT-SMI-0450385,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0450899,composition,terracotta with traces of polychromy,https://openaccess-api.clevelandart.org/api/artworks?q=Unidentified%20Saint&limit=1
+LIBSRC-LIB51-ENT-SMI-0462789,composition,gelatin silver print,https://openaccess-api.clevelandart.org/api/artworks?q=ticket&limit=1
+LIBSRC-LIB51-ENT-SMI-0473787,composition,oil on wood,https://openaccess-api.clevelandart.org/api/artworks?q=Santo%20Nino%20de%20Atocha&limit=1
+LIBSRC-LIB51-ENT-SMI-0478074,composition,glass,https://openaccess-api.clevelandart.org/api/artworks?q=sticker&limit=1
+LIBSRC-LIB51-ENT-SMI-0487259,composition,cast bronze and wood,https://openaccess-api.clevelandart.org/api/artworks?q=Wedge&limit=1
+LIBSRC-LIB51-ENT-SMI-0499591,composition,tan-colored flint,https://openaccess-api.clevelandart.org/api/artworks?q=Tool%20of%20unknown%20function&limit=1
+LIBSRC-LIB51-ENT-SMI-0505666,composition,"Native-tanned hide, glass beads, cotton thread",https://openaccess-api.clevelandart.org/api/artworks?q=Awl%20and%20case&limit=1
+LIBSRC-LIB51-ENT-SMI-0514991,composition,woodcut,https://openaccess-api.clevelandart.org/api/artworks?q=Woman%27s%20love%20charm&limit=1
+LIBSRC-LIB51-ENT-SMI-0517640,composition,rock crystal with a garnet mounted in a gold granulated star,https://openaccess-api.clevelandart.org/api/artworks?q=Button&limit=1
+LIBSRC-LIB51-ENT-SMI-0520086,composition,marble,https://openaccess-api.clevelandart.org/api/artworks?q=Worked%20stone&limit=1
+LIBSRC-LIB51-ENT-SMI-0537630,composition,Porcelain with underglaze blue,https://openaccess-api.clevelandart.org/api/artworks?q=Stamp/Stamping%20tool&limit=1
+LIBSRC-LIB51-ENT-SMI-0542495,composition,"horn, enamel and gold",https://openaccess-api.clevelandart.org/api/artworks?q=Hair%20comb&limit=1
+LIBSRC-LIB51-ENT-SMI-0543210,composition,"Native-tanned hide, glass beads, cotton thread",https://openaccess-api.clevelandart.org/api/artworks?q=Awl&limit=1
+LIBSRC-LIB51-ENT-SMI-0555842,composition,cast gold,https://openaccess-api.clevelandart.org/api/artworks?q=Antler&limit=1
+LIBSRC-LIB51-ENT-SMI-0561732,composition,ivory with pigments,https://openaccess-api.clevelandart.org/api/artworks?q=Seat&limit=1
+LIBSRC-LIB51-ENT-SMI-0565274,composition,Bronze,https://openaccess-api.clevelandart.org/api/artworks?q=Projectile%20point&limit=1
+LIBSRC-LIB51-ENT-SMI-0572280,composition,"wax on a metal armature, mounted on wood",https://openaccess-api.clevelandart.org/api/artworks?q=Church%20model&limit=1
