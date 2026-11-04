@@ -1,0 +1,6 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-1259132,descriptive_identity,"""species""",https://www.gbif.org/species/168010235
+LIBSRC-LIB50-ENT-BIO-2064983,descriptive_identity,"""species""",https://www.gbif.org/species/2477260
+IDB-REG_03-CAT_11-ERA_06-2015-ACC04-HOP18037-REC3607393,descriptive_identity,"""subspecies""",https://www.gbif.org/species/5229290
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP16948-REC3389532,descriptive_identity,"""species""",https://www.gbif.org/species/2482100
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP18578-REC3715452,descriptive_identity,"""family""",https://www.gbif.org/species/3685
