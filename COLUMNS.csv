@@ -1,0 +1,10 @@
+column_name,data_type,unit,description
+cell_length,JSON,mm,value types: number
+descriptive_identity,JSON,,value types: string
+growth_condition,JSON,,value types: string
+identity_label,JSON,,value types: string
+life_stage,JSON,,value types: string
+morphology,JSON,,value types: string
+occurrence_context,JSON,,value types: string
+scientific_identity,JSON,,value types: string
+taxon_authority,JSON,,value types: string
