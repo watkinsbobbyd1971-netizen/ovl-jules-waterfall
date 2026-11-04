@@ -1,0 +1,3 @@
+Attempted to match subjects to bird taxa using GBIF API (class=Aves) and Wikidata.
+All subjects were found to be complex cultural artifacts (e.g. Belt, curling iron, Hoe, Doll) or museum inventory items, which are out of scope for the biological category 'bird'.
+Therefore, no properties were extracted.
