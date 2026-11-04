@@ -1,0 +1,1 @@
+Used Wikidata API (wbsearchentities, wbgetentities) to map subjects and extract properties: identity_label, descriptive_identity, event_type, duration (converted to seconds), phenomenon_time, location.

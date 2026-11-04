@@ -1,0 +1,306 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG03-CAT20-ERA06-2010S-CYCLONE-XYNTHIA,identity_label,Cyclone Xynthia,https://www.wikidata.org/wiki/Q926626
+IDB-REG03-CAT20-ERA06-2010S-CYCLONE-XYNTHIA,descriptive_identity,storm,https://www.wikidata.org/wiki/Q926626
+IDB-REG03-CAT20-ERA06-2010S-CYCLONE-XYNTHIA,event_type,European windstorm,https://www.wikidata.org/wiki/Q926626
+IDB-REG03-CAT20-ERA06-2010S-CYCLONE-XYNTHIA,event_type,storm surge,https://www.wikidata.org/wiki/Q926626
+IDB-REG03-CAT20-ERA06-2010S-WINTER-FLOODING-OF-2013-14-ON-THE-SOMERSET-LEVELS,identity_label,Winter flooding of 2013–14 on the Somerset Levels,https://www.wikidata.org/wiki/Q17038761
+IDB-REG03-CAT20-ERA06-2010S-WINTER-FLOODING-OF-2013-14-ON-THE-SOMERSET-LEVELS,descriptive_identity,"Flooding in Somerset, England",https://www.wikidata.org/wiki/Q17038761
+IDB-REG03-CAT20-ERA06-2010S-WINTER-FLOODING-OF-2013-14-ON-THE-SOMERSET-LEVELS,event_type,flood,https://www.wikidata.org/wiki/Q17038761
+IDB-REG03-CAT20-ERA06-2010S-WINTER-FLOODING-OF-2013-14-ON-THE-SOMERSET-LEVELS,phenomenon_time,+2013-12-00T00:00:00Z,https://www.wikidata.org/wiki/Q17038761
+IDB-REG03-CAT20-ERA06-2010S-WINTER-FLOODING-OF-2013-14-ON-THE-SOMERSET-LEVELS,location,United Kingdom,https://www.wikidata.org/wiki/Q17038761
+IDB-REG04-CAT20-ERA02-940S-RILA-MONASTERY-RILSKI-MANASTIR,identity_label,Rila Monastery,https://www.wikidata.org/wiki/Q64617589
+IDB-REG04-CAT20-ERA02-940S-RILA-MONASTERY-RILSKI-MANASTIR,descriptive_identity,World Heritage site in Bulgaria,https://www.wikidata.org/wiki/Q64617589
+IDB-REG04-CAT20-ERA02-940S-RILA-MONASTERY-RILSKI-MANASTIR,event_type,architectural ensemble,https://www.wikidata.org/wiki/Q64617589
+IDB-REG04-CAT20-ERA02-940S-RILA-MONASTERY-RILSKI-MANASTIR,location,Bulgaria,https://www.wikidata.org/wiki/Q64617589
+IDB-REG04-CAT20-ERA02-1400S-BELOGRADCHIK-ROCKS,identity_label,Belogradchik Rocks,https://www.wikidata.org/wiki/Q3042478
+IDB-REG04-CAT20-ERA02-1400S-BELOGRADCHIK-ROCKS,descriptive_identity,natural monument in Bulgaria,https://www.wikidata.org/wiki/Q3042478
+IDB-REG04-CAT20-ERA02-1400S-BELOGRADCHIK-ROCKS,event_type,natural monument,https://www.wikidata.org/wiki/Q3042478
+IDB-REG04-CAT20-ERA02-1400S-BELOGRADCHIK-ROCKS,event_type,mountain,https://www.wikidata.org/wiki/Q3042478
+IDB-REG04-CAT20-ERA02-1400S-BELOGRADCHIK-ROCKS,location,Bulgaria,https://www.wikidata.org/wiki/Q3042478
+IDB-REG03-CAT20-ERA07-2021-WINCHCOMBE-METEORITE,identity_label,Winchcombe meteorite,https://www.wikidata.org/wiki/Q105941450
+IDB-REG03-CAT20-ERA07-2021-WINCHCOMBE-METEORITE,descriptive_identity,meteorite that hit England in 2021,https://www.wikidata.org/wiki/Q105941450
+IDB-REG03-CAT20-ERA07-2021-WINCHCOMBE-METEORITE,event_type,meteorite,https://www.wikidata.org/wiki/Q105941450
+IDB-REG03-CAT20-ERA07-2021-WINCHCOMBE-METEORITE,event_type,carbonaceous chondrite,https://www.wikidata.org/wiki/Q105941450
+IDB-REG03-CAT20-ERA07-2021-WINCHCOMBE-METEORITE,location,United Kingdom,https://www.wikidata.org/wiki/Q105941450
+IDB-REG02-CAT20-ERA02-1200S-TIERRA-DEL-FUEGO-ARCHIPELAGO,identity_label,"Tierra del Fuego, Antarctica and South Atlantic Islands Province",https://www.wikidata.org/wiki/Q44832
+IDB-REG02-CAT20-ERA02-1200S-TIERRA-DEL-FUEGO-ARCHIPELAGO,descriptive_identity,province of Argentina,https://www.wikidata.org/wiki/Q44832
+IDB-REG02-CAT20-ERA02-1200S-TIERRA-DEL-FUEGO-ARCHIPELAGO,event_type,province of Argentina,https://www.wikidata.org/wiki/Q44832
+IDB-REG02-CAT20-ERA02-1200S-TIERRA-DEL-FUEGO-ARCHIPELAGO,event_type,pene-enclave,https://www.wikidata.org/wiki/Q44832
+IDB-REG02-CAT20-ERA02-1200S-TIERRA-DEL-FUEGO-ARCHIPELAGO,location,Argentina,https://www.wikidata.org/wiki/Q44832
+IDB-REG04-CAT20-ERA06-2000S-SKAKAVAC-WATERFALL,identity_label,Skakavac Waterfall,https://www.wikidata.org/wiki/Q3435229
+IDB-REG04-CAT20-ERA06-2000S-SKAKAVAC-WATERFALL,descriptive_identity,waterfall near Sarajevo,https://www.wikidata.org/wiki/Q3435229
+IDB-REG04-CAT20-ERA06-2000S-SKAKAVAC-WATERFALL,event_type,waterfall,https://www.wikidata.org/wiki/Q3435229
+IDB-REG04-CAT20-ERA06-2000S-SKAKAVAC-WATERFALL,event_type,natural monument,https://www.wikidata.org/wiki/Q3435229
+IDB-REG04-CAT20-ERA06-2000S-SKAKAVAC-WATERFALL,event_type,protected area,https://www.wikidata.org/wiki/Q3435229
+IDB-REG04-CAT20-ERA06-2000S-SKAKAVAC-WATERFALL,location,Bosnia and Herzegovina,https://www.wikidata.org/wiki/Q3435229
+IDB-REG02-CAT20-ERA07-2020S-R-O-DE-LA-PLATA,identity_label,Río de la Plata,https://www.wikidata.org/wiki/Q35827
+IDB-REG02-CAT20-ERA07-2020S-R-O-DE-LA-PLATA,descriptive_identity,estuary formed by the confluence of the Uruguay River and the Paraná River on the border between Argentina and Uruguay,https://www.wikidata.org/wiki/Q35827
+IDB-REG02-CAT20-ERA07-2020S-R-O-DE-LA-PLATA,event_type,estuary,https://www.wikidata.org/wiki/Q35827
+IDB-REG02-CAT20-ERA07-2020S-R-O-DE-LA-PLATA,event_type,river,https://www.wikidata.org/wiki/Q35827
+IDB-REG02-CAT20-ERA07-2020S-R-O-DE-LA-PLATA,event_type,main stem,https://www.wikidata.org/wiki/Q35827
+IDB-REG02-CAT20-ERA07-2020S-R-O-DE-LA-PLATA,location,Argentina,https://www.wikidata.org/wiki/Q35827
+IDB-REG02-CAT20-ERA07-2020S-R-O-DE-LA-PLATA,location,Uruguay,https://www.wikidata.org/wiki/Q35827
+IDB-REG02-CAT20-ERA07-2020S-HURRICANE-BERYL,identity_label,Hurricane Beryl,https://www.wikidata.org/wiki/Q55588072
+IDB-REG02-CAT20-ERA07-2020S-HURRICANE-BERYL,descriptive_identity,Category 1 Atlantic hurricane in 2018,https://www.wikidata.org/wiki/Q55588072
+IDB-REG02-CAT20-ERA07-2020S-HURRICANE-BERYL,event_type,hurricane,https://www.wikidata.org/wiki/Q55588072
+IDB-REG03-CAT20-ERA06-2000S-MORS-RFOSS,identity_label,Morsárfoss,https://www.wikidata.org/wiki/Q3324444
+IDB-REG03-CAT20-ERA06-2000S-MORS-RFOSS,descriptive_identity,waterfall in Iceland,https://www.wikidata.org/wiki/Q3324444
+IDB-REG03-CAT20-ERA06-2000S-MORS-RFOSS,event_type,waterfall,https://www.wikidata.org/wiki/Q3324444
+IDB-REG03-CAT20-ERA06-2000S-MORS-RFOSS,location,Iceland,https://www.wikidata.org/wiki/Q3324444
+IDB-REG01-CAT20-ERA07-12000S-NIAGARA-FALLS-GORGE,identity_label,Niagara Falls,https://www.wikidata.org/wiki/Q34221
+IDB-REG01-CAT20-ERA07-12000S-NIAGARA-FALLS-GORGE,descriptive_identity,three waterfalls that straddle the international border between Canada and the United States,https://www.wikidata.org/wiki/Q34221
+IDB-REG01-CAT20-ERA07-12000S-NIAGARA-FALLS-GORGE,event_type,waterfall,https://www.wikidata.org/wiki/Q34221
+IDB-REG01-CAT20-ERA07-12000S-NIAGARA-FALLS-GORGE,event_type,horseshoe waterfall,https://www.wikidata.org/wiki/Q34221
+IDB-REG01-CAT20-ERA07-12000S-NIAGARA-FALLS-GORGE,location,United States,https://www.wikidata.org/wiki/Q34221
+IDB-REG01-CAT20-ERA07-12000S-NIAGARA-FALLS-GORGE,location,Canada,https://www.wikidata.org/wiki/Q34221
+IDB-REG01-CAT20-ERA07-2020S-LAKE-SUPERIOR,identity_label,Lake Superior,https://www.wikidata.org/wiki/Q1066
+IDB-REG01-CAT20-ERA07-2020S-LAKE-SUPERIOR,descriptive_identity,largest of the Great Lakes of North America,https://www.wikidata.org/wiki/Q1066
+IDB-REG01-CAT20-ERA07-2020S-LAKE-SUPERIOR,event_type,glacial lake,https://www.wikidata.org/wiki/Q1066
+IDB-REG01-CAT20-ERA07-2020S-LAKE-SUPERIOR,event_type,rift lake,https://www.wikidata.org/wiki/Q1066
+IDB-REG01-CAT20-ERA07-2020S-LAKE-SUPERIOR,event_type,lake,https://www.wikidata.org/wiki/Q1066
+IDB-REG01-CAT20-ERA07-2020S-LAKE-SUPERIOR,location,Canada,https://www.wikidata.org/wiki/Q1066
+IDB-REG01-CAT20-ERA07-2020S-LAKE-SUPERIOR,location,United States,https://www.wikidata.org/wiki/Q1066
+IDB-REG01-CAT20-ERA07-2020S-GRAND-CANYON,identity_label,Grand Canyon,https://www.wikidata.org/wiki/Q118841
+IDB-REG01-CAT20-ERA07-2020S-GRAND-CANYON,descriptive_identity,"steep-sided canyon carved by the Colorado River in Arizona, United States",https://www.wikidata.org/wiki/Q118841
+IDB-REG01-CAT20-ERA07-2020S-GRAND-CANYON,event_type,canyon,https://www.wikidata.org/wiki/Q118841
+IDB-REG01-CAT20-ERA07-2020S-GRAND-CANYON,location,United States,https://www.wikidata.org/wiki/Q118841
+IDB-REG01-CAT20-ERA06-2010S-2011-SAWYERVILLE-EOLINE-TORNADO,identity_label,2011 Sawyerville–Eoline tornado,https://www.wikidata.org/wiki/Q135838258
+IDB-REG01-CAT20-ERA06-2010S-2011-SAWYERVILLE-EOLINE-TORNADO,descriptive_identity,"2011 EF3 tornado in Alabama, U.S",https://www.wikidata.org/wiki/Q135838258
+IDB-REG01-CAT20-ERA06-2010S-2011-SAWYERVILLE-EOLINE-TORNADO,event_type,tornado,https://www.wikidata.org/wiki/Q135838258
+IDB-REG01-CAT20-ERA06-2010S-2011-SAWYERVILLE-EOLINE-TORNADO,phenomenon_time,+2011-04-27T00:00:00Z,https://www.wikidata.org/wiki/Q135838258
+IDB-REG03-CAT20-ERA07-2020S-V-TTERN,identity_label,Vättern,https://www.wikidata.org/wiki/Q188195
+IDB-REG03-CAT20-ERA07-2020S-V-TTERN,descriptive_identity,second largest lake in Sweden,https://www.wikidata.org/wiki/Q188195
+IDB-REG03-CAT20-ERA07-2020S-V-TTERN,event_type,lake,https://www.wikidata.org/wiki/Q188195
+IDB-REG03-CAT20-ERA07-2020S-V-TTERN,location,Sweden,https://www.wikidata.org/wiki/Q188195
+IDB-REG02-CAT20-ERA07-2020S-AMAZON-RIVER,identity_label,Amazon River,https://www.wikidata.org/wiki/Q3783
+IDB-REG02-CAT20-ERA07-2020S-AMAZON-RIVER,descriptive_identity,river in South America,https://www.wikidata.org/wiki/Q3783
+IDB-REG02-CAT20-ERA07-2020S-AMAZON-RIVER,event_type,river,https://www.wikidata.org/wiki/Q3783
+IDB-REG02-CAT20-ERA07-2020S-AMAZON-RIVER,location,Peru,https://www.wikidata.org/wiki/Q3783
+IDB-REG02-CAT20-ERA07-2020S-AMAZON-RIVER,location,Colombia,https://www.wikidata.org/wiki/Q3783
+IDB-REG02-CAT20-ERA07-2020S-AMAZON-RIVER,location,Brazil,https://www.wikidata.org/wiki/Q3783
+IDB-REG02-CAT20-ERA07-2010S-2019-HAVANA-TORNADO,identity_label,2019 Havana tornado,https://www.wikidata.org/wiki/Q110517116
+IDB-REG02-CAT20-ERA07-2010S-2019-HAVANA-TORNADO,descriptive_identity,Extreme weather event in Cuba,https://www.wikidata.org/wiki/Q110517116
+IDB-REG02-CAT20-ERA07-2010S-2019-HAVANA-TORNADO,event_type,tornado,https://www.wikidata.org/wiki/Q110517116
+IDB-REG02-CAT20-ERA07-2010S-2019-HAVANA-TORNADO,phenomenon_time,+2019-01-27T00:00:00Z,https://www.wikidata.org/wiki/Q110517116
+IDB-REG02-CAT20-ERA07-2010S-2019-HAVANA-TORNADO,location,Cuba,https://www.wikidata.org/wiki/Q110517116
+IDB-REG01-CAT20-ERA07-10000S-MISSISSIPPI-RIVER-BASIN,identity_label,Mississippi River,https://www.wikidata.org/wiki/Q1497
+IDB-REG01-CAT20-ERA07-10000S-MISSISSIPPI-RIVER-BASIN,descriptive_identity,primary river of the largest drainage basin in the United States,https://www.wikidata.org/wiki/Q1497
+IDB-REG01-CAT20-ERA07-10000S-MISSISSIPPI-RIVER-BASIN,event_type,main stem,https://www.wikidata.org/wiki/Q1497
+IDB-REG01-CAT20-ERA07-10000S-MISSISSIPPI-RIVER-BASIN,event_type,river,https://www.wikidata.org/wiki/Q1497
+IDB-REG01-CAT20-ERA07-10000S-MISSISSIPPI-RIVER-BASIN,location,United States,https://www.wikidata.org/wiki/Q1497
+IDB-REG04-CAT20-ERA06-2010S-KALU-ERSKI-SKOKOVI,identity_label,Kaluđerski Skokovi,https://www.wikidata.org/wiki/Q25464417
+IDB-REG04-CAT20-ERA06-2010S-KALU-ERSKI-SKOKOVI,descriptive_identity,the highest waterfall in Serbia,https://www.wikidata.org/wiki/Q25464417
+IDB-REG04-CAT20-ERA06-2010S-KALU-ERSKI-SKOKOVI,event_type,waterfall,https://www.wikidata.org/wiki/Q25464417
+IDB-REG04-CAT20-ERA06-2010S-KALU-ERSKI-SKOKOVI,location,Serbia,https://www.wikidata.org/wiki/Q25464417
+IDB-REG01-CAT20-ERA06-2010S-TORNADOES-OF-2010,identity_label,Tornadoes of 2010,https://www.wikidata.org/wiki/Q7826050
+IDB-REG01-CAT20-ERA06-2010S-TORNADOES-OF-2010,descriptive_identity,List of notable tornadoes occurring in 2010,https://www.wikidata.org/wiki/Q7826050
+IDB-REG01-CAT20-ERA06-2010S-TORNADOES-OF-2010,event_type,events in a specific year or time period,https://www.wikidata.org/wiki/Q7826050
+IDB-REG01-CAT20-ERA06-2010S-TORNADOES-OF-2010,phenomenon_time,+2010-00-00T00:00:00Z,https://www.wikidata.org/wiki/Q7826050
+IDB-REG03-CAT20-ERA07-2010S-2019-20-EUROPEAN-WINDSTORM-SEASON,identity_label,2019–20 European windstorm season,https://www.wikidata.org/wiki/Q67390843
+IDB-REG03-CAT20-ERA07-2010S-2019-20-EUROPEAN-WINDSTORM-SEASON,descriptive_identity,European windstorm season,https://www.wikidata.org/wiki/Q67390843
+IDB-REG03-CAT20-ERA07-2010S-2019-20-EUROPEAN-WINDSTORM-SEASON,event_type,events in a specific year or time period,https://www.wikidata.org/wiki/Q67390843
+IDB-REG02-CAT20-ERA07-2020S-LAKE-MARACAIBO,identity_label,Lake Maracaibo,https://www.wikidata.org/wiki/Q182137
+IDB-REG02-CAT20-ERA07-2020S-LAKE-MARACAIBO,descriptive_identity,large lake in Venezuela with an outflow to the Caribbean Sea,https://www.wikidata.org/wiki/Q182137
+IDB-REG02-CAT20-ERA07-2020S-LAKE-MARACAIBO,event_type,lake,https://www.wikidata.org/wiki/Q182137
+IDB-REG02-CAT20-ERA07-2020S-LAKE-MARACAIBO,location,Venezuela,https://www.wikidata.org/wiki/Q182137
+IDB-REG01-CAT20-ERA07-5700S-CRATER-LAKE-MOUNT-MAZAMA,identity_label,Crater Lake,https://www.wikidata.org/wiki/Q329266
+IDB-REG01-CAT20-ERA07-5700S-CRATER-LAKE-MOUNT-MAZAMA,descriptive_identity,caldera lake in south-central Oregon and main feature of Crater Lake National Park,https://www.wikidata.org/wiki/Q329266
+IDB-REG01-CAT20-ERA07-5700S-CRATER-LAKE-MOUNT-MAZAMA,event_type,volcanic crater lake,https://www.wikidata.org/wiki/Q329266
+IDB-REG01-CAT20-ERA07-5700S-CRATER-LAKE-MOUNT-MAZAMA,event_type,lake,https://www.wikidata.org/wiki/Q329266
+IDB-REG01-CAT20-ERA07-5700S-CRATER-LAKE-MOUNT-MAZAMA,event_type,volcanogenic lake,https://www.wikidata.org/wiki/Q329266
+IDB-REG01-CAT20-ERA07-5700S-CRATER-LAKE-MOUNT-MAZAMA,location,United States,https://www.wikidata.org/wiki/Q329266
+IDB-REG01-CAT20-ERA02-1480S-MOUNT-ST-HELENS-ERUPTION-1480-CE,descriptive_identity,volcano in Washington state,https://www.wikidata.org/wiki/Q4675
+IDB-REG01-CAT20-ERA02-1480S-MOUNT-ST-HELENS-ERUPTION-1480-CE,event_type,stratovolcano,https://www.wikidata.org/wiki/Q4675
+IDB-REG01-CAT20-ERA02-1480S-MOUNT-ST-HELENS-ERUPTION-1480-CE,event_type,mountain,https://www.wikidata.org/wiki/Q4675
+IDB-REG01-CAT20-ERA02-1480S-MOUNT-ST-HELENS-ERUPTION-1480-CE,location,United States,https://www.wikidata.org/wiki/Q4675
+IDB-REG03-CAT20-ERA07-2020S-WINDERMERE,identity_label,Windermere,https://www.wikidata.org/wiki/Q390370
+IDB-REG03-CAT20-ERA07-2020S-WINDERMERE,descriptive_identity,largest natural lake in England,https://www.wikidata.org/wiki/Q390370
+IDB-REG03-CAT20-ERA07-2020S-WINDERMERE,event_type,lake,https://www.wikidata.org/wiki/Q390370
+IDB-REG03-CAT20-ERA07-2020S-WINDERMERE,event_type,mere,https://www.wikidata.org/wiki/Q390370
+IDB-REG03-CAT20-ERA07-2020S-WINDERMERE,location,United Kingdom,https://www.wikidata.org/wiki/Q390370
+IDB-REG03-CAT20-ERA07-2020S-LAKE-GENEVA-L-MAN,identity_label,Lake Geneva,https://www.wikidata.org/wiki/Q6403
+IDB-REG03-CAT20-ERA07-2020S-LAKE-GENEVA-L-MAN,descriptive_identity,lake in Switzerland and France,https://www.wikidata.org/wiki/Q6403
+IDB-REG03-CAT20-ERA07-2020S-LAKE-GENEVA-L-MAN,event_type,glacial lake,https://www.wikidata.org/wiki/Q6403
+IDB-REG03-CAT20-ERA07-2020S-LAKE-GENEVA-L-MAN,location,Switzerland,https://www.wikidata.org/wiki/Q6403
+IDB-REG03-CAT20-ERA07-2020S-LAKE-GENEVA-L-MAN,location,France,https://www.wikidata.org/wiki/Q6403
+IDB-REG03-CAT20-ERA07-2020S-LOCH-MORAR,identity_label,Loch Morar,https://www.wikidata.org/wiki/Q1444264
+IDB-REG03-CAT20-ERA07-2020S-LOCH-MORAR,descriptive_identity,"freshwater loch in Lochaber, Highland, Scotland, UK, outflows at its west to the River Morar",https://www.wikidata.org/wiki/Q1444264
+IDB-REG03-CAT20-ERA07-2020S-LOCH-MORAR,event_type,lake,https://www.wikidata.org/wiki/Q1444264
+IDB-REG03-CAT20-ERA07-2020S-LOCH-MORAR,location,United Kingdom,https://www.wikidata.org/wiki/Q1444264
+IDB-REG03-CAT20-ERA07-2020S-LOCH-LOMOND,identity_label,Loch Lomond,https://www.wikidata.org/wiki/Q208926
+IDB-REG03-CAT20-ERA07-2020S-LOCH-LOMOND,descriptive_identity,"freshwater lake in Scotland, UK",https://www.wikidata.org/wiki/Q208926
+IDB-REG03-CAT20-ERA07-2020S-LOCH-LOMOND,event_type,lake,https://www.wikidata.org/wiki/Q208926
+IDB-REG03-CAT20-ERA07-2020S-LOCH-LOMOND,location,United Kingdom,https://www.wikidata.org/wiki/Q208926
+IDB-REG04-CAT20-ERA00-2000000SBCE-LAKE-OHRID-NATURAL-TECTONIC,identity_label,Lake Ohrid,https://www.wikidata.org/wiki/Q156258
+IDB-REG04-CAT20-ERA00-2000000SBCE-LAKE-OHRID-NATURAL-TECTONIC,descriptive_identity,lake in North Macedonia and Albania,https://www.wikidata.org/wiki/Q156258
+IDB-REG04-CAT20-ERA00-2000000SBCE-LAKE-OHRID-NATURAL-TECTONIC,event_type,lake,https://www.wikidata.org/wiki/Q156258
+IDB-REG04-CAT20-ERA00-2000000SBCE-LAKE-OHRID-NATURAL-TECTONIC,event_type,ancient lake,https://www.wikidata.org/wiki/Q156258
+IDB-REG04-CAT20-ERA00-2000000SBCE-LAKE-OHRID-NATURAL-TECTONIC,location,North Macedonia,https://www.wikidata.org/wiki/Q156258
+IDB-REG04-CAT20-ERA00-2000000SBCE-LAKE-OHRID-NATURAL-TECTONIC,location,Albania,https://www.wikidata.org/wiki/Q156258
+IDB-REG03-CAT20-ERA07-2020S-V-NERN,identity_label,Vänern,https://www.wikidata.org/wiki/Q173596
+IDB-REG03-CAT20-ERA07-2020S-V-NERN,descriptive_identity,lake in Sweden,https://www.wikidata.org/wiki/Q173596
+IDB-REG03-CAT20-ERA07-2020S-V-NERN,event_type,lake,https://www.wikidata.org/wiki/Q173596
+IDB-REG03-CAT20-ERA07-2020S-V-NERN,location,Sweden,https://www.wikidata.org/wiki/Q173596
+IDB-REG02-CAT20-ERA00-10000SBCE-SALAR-DE-UYUNI-SALT-FLAT,identity_label,Salar de Uyuni,https://www.wikidata.org/wiki/Q76122
+IDB-REG02-CAT20-ERA00-10000SBCE-SALAR-DE-UYUNI-SALT-FLAT,descriptive_identity,salt flat in Bolivia,https://www.wikidata.org/wiki/Q76122
+IDB-REG02-CAT20-ERA00-10000SBCE-SALAR-DE-UYUNI-SALT-FLAT,event_type,salt pan,https://www.wikidata.org/wiki/Q76122
+IDB-REG02-CAT20-ERA00-10000SBCE-SALAR-DE-UYUNI-SALT-FLAT,event_type,solonchak,https://www.wikidata.org/wiki/Q76122
+IDB-REG02-CAT20-ERA00-10000SBCE-SALAR-DE-UYUNI-SALT-FLAT,location,Bolivia,https://www.wikidata.org/wiki/Q76122
+IDB-REG03-CAT20-ERA07-2020S-LOCH-NESS,identity_label,Loch Ness,https://www.wikidata.org/wiki/Q49650
+IDB-REG03-CAT20-ERA07-2020S-LOCH-NESS,descriptive_identity,"lake in Highland, Scotland, UK, outflows via Loch Dochfour to the River Ness and Caledonian Canal",https://www.wikidata.org/wiki/Q49650
+IDB-REG03-CAT20-ERA07-2020S-LOCH-NESS,event_type,lake,https://www.wikidata.org/wiki/Q49650
+IDB-REG03-CAT20-ERA07-2020S-LOCH-NESS,location,United Kingdom,https://www.wikidata.org/wiki/Q49650
+IDB-REG02-CAT20-ERA00-1300000000SBCE-ANGEL-FALLS-WATERFALL,identity_label,Angel Falls,https://www.wikidata.org/wiki/Q80299
+IDB-REG02-CAT20-ERA00-1300000000SBCE-ANGEL-FALLS-WATERFALL,descriptive_identity,waterfall in Venezuela; highest uninterrupted waterfall in the world,https://www.wikidata.org/wiki/Q80299
+IDB-REG02-CAT20-ERA00-1300000000SBCE-ANGEL-FALLS-WATERFALL,event_type,waterfall,https://www.wikidata.org/wiki/Q80299
+IDB-REG02-CAT20-ERA00-1300000000SBCE-ANGEL-FALLS-WATERFALL,location,Venezuela,https://www.wikidata.org/wiki/Q80299
+IDB-REG03-CAT20-ERA00-10000SBCE-M-LAREN-SWEDISH-GLACIAL-LAKE,identity_label,Mälaren,https://www.wikidata.org/wiki/Q184492
+IDB-REG03-CAT20-ERA00-10000SBCE-M-LAREN-SWEDISH-GLACIAL-LAKE,descriptive_identity,lake in Sweden,https://www.wikidata.org/wiki/Q184492
+IDB-REG03-CAT20-ERA00-10000SBCE-M-LAREN-SWEDISH-GLACIAL-LAKE,event_type,lake,https://www.wikidata.org/wiki/Q184492
+IDB-REG03-CAT20-ERA00-10000SBCE-M-LAREN-SWEDISH-GLACIAL-LAKE,location,Sweden,https://www.wikidata.org/wiki/Q184492
+IDB-REG02-CAT20-ERA00-10000000SBCE-ORINOCO-RIVER,identity_label,Orinoco River,https://www.wikidata.org/wiki/Q131792
+IDB-REG02-CAT20-ERA00-10000000SBCE-ORINOCO-RIVER,descriptive_identity,river in South America,https://www.wikidata.org/wiki/Q131792
+IDB-REG02-CAT20-ERA00-10000000SBCE-ORINOCO-RIVER,event_type,river,https://www.wikidata.org/wiki/Q131792
+IDB-REG02-CAT20-ERA00-10000000SBCE-ORINOCO-RIVER,event_type,main stem,https://www.wikidata.org/wiki/Q131792
+IDB-REG02-CAT20-ERA00-10000000SBCE-ORINOCO-RIVER,location,Venezuela,https://www.wikidata.org/wiki/Q131792
+IDB-REG02-CAT20-ERA00-10000000SBCE-ORINOCO-RIVER,location,Colombia,https://www.wikidata.org/wiki/Q131792
+IDB-REG03-CAT20-ERA00-12000SBCE-LAKE-AGASSIZ-GLACIAL-PARTIAL-EUROPEAN-EXTENT,identity_label,Lake Agassiz,https://www.wikidata.org/wiki/Q390804
+IDB-REG03-CAT20-ERA00-12000SBCE-LAKE-AGASSIZ-GLACIAL-PARTIAL-EUROPEAN-EXTENT,descriptive_identity,glacial lake in North America,https://www.wikidata.org/wiki/Q390804
+IDB-REG03-CAT20-ERA00-12000SBCE-LAKE-AGASSIZ-GLACIAL-PARTIAL-EUROPEAN-EXTENT,event_type,glacial lake,https://www.wikidata.org/wiki/Q390804
+IDB-REG03-CAT20-ERA00-12000SBCE-LAKE-AGASSIZ-GLACIAL-PARTIAL-EUROPEAN-EXTENT,event_type,paleolake,https://www.wikidata.org/wiki/Q390804
+IDB-REG03-CAT20-ERA00-12000SBCE-LAKE-AGASSIZ-GLACIAL-PARTIAL-EUROPEAN-EXTENT,location,Canada,https://www.wikidata.org/wiki/Q390804
+IDB-REG03-CAT20-ERA00-12000SBCE-LAKE-AGASSIZ-GLACIAL-PARTIAL-EUROPEAN-EXTENT,location,United States,https://www.wikidata.org/wiki/Q390804
+IDB-REG03-CAT20-ERA07-3ROOT-CATATUMBO-LIGHTNING-RELAMPAGO-DEL-CATATUMBO-LAKE,identity_label,Catatumbo lightning,https://www.wikidata.org/wiki/Q1512672
+IDB-REG03-CAT20-ERA07-3ROOT-CATATUMBO-LIGHTNING-RELAMPAGO-DEL-CATATUMBO-LAKE,descriptive_identity,atmospheric phenomenon in Venezuela,https://www.wikidata.org/wiki/Q1512672
+IDB-REG03-CAT20-ERA07-3ROOT-CATATUMBO-LIGHTNING-RELAMPAGO-DEL-CATATUMBO-LAKE,event_type,meteorological phenomenon,https://www.wikidata.org/wiki/Q1512672
+IDB-REG03-CAT20-ERA07-3ROOT-CATATUMBO-LIGHTNING-RELAMPAGO-DEL-CATATUMBO-LAKE,location,Venezuela,https://www.wikidata.org/wiki/Q1512672
+IDB-REG03-CAT20-ERA07-2023-2023-CX1,identity_label,2023 CX1,https://www.wikidata.org/wiki/Q116769227
+IDB-REG03-CAT20-ERA07-2023-2023-CX1,descriptive_identity,small asteroid which entered Earth's atmosphere in February 2023,https://www.wikidata.org/wiki/Q116769227
+IDB-REG03-CAT20-ERA07-2023-2023-CX1,event_type,Earth-crossing asteroid,https://www.wikidata.org/wiki/Q116769227
+IDB-REG03-CAT20-ERA07-2023-2023-CX1,event_type,former entity,https://www.wikidata.org/wiki/Q116769227
+IDB-REG03-CAT20-ERA00-10000SBCE-V-TTERN-SWEDISH-GLACIAL-LAKE,identity_label,Vättern,https://www.wikidata.org/wiki/Q188195
+IDB-REG03-CAT20-ERA00-10000SBCE-V-TTERN-SWEDISH-GLACIAL-LAKE,descriptive_identity,second largest lake in Sweden,https://www.wikidata.org/wiki/Q188195
+IDB-REG03-CAT20-ERA00-10000SBCE-V-TTERN-SWEDISH-GLACIAL-LAKE,event_type,lake,https://www.wikidata.org/wiki/Q188195
+IDB-REG03-CAT20-ERA00-10000SBCE-V-TTERN-SWEDISH-GLACIAL-LAKE,location,Sweden,https://www.wikidata.org/wiki/Q188195
+IDB-REG03-CAT20-ERA07-2024-2024-BX1,identity_label,2024 BX1,https://www.wikidata.org/wiki/Q124330385
+IDB-REG03-CAT20-ERA07-2024-2024-BX1,descriptive_identity,Apollo-family asteroid discovered just before hitting Earth in January 2024,https://www.wikidata.org/wiki/Q124330385
+IDB-REG03-CAT20-ERA07-2024-2024-BX1,event_type,Earth-crossing asteroid,https://www.wikidata.org/wiki/Q124330385
+IDB-REG03-CAT20-ERA07-2024-2024-BX1,event_type,former entity,https://www.wikidata.org/wiki/Q124330385
+IDB-REG02-CAT20-ERA00-500000SBCE-POPOCAT-PETL-VOLCANO,identity_label,Popocatépetl,https://www.wikidata.org/wiki/Q181157
+IDB-REG02-CAT20-ERA00-500000SBCE-POPOCAT-PETL-VOLCANO,descriptive_identity,North America volcano,https://www.wikidata.org/wiki/Q181157
+IDB-REG02-CAT20-ERA00-500000SBCE-POPOCAT-PETL-VOLCANO,event_type,stratovolcano,https://www.wikidata.org/wiki/Q181157
+IDB-REG02-CAT20-ERA00-500000SBCE-POPOCAT-PETL-VOLCANO,location,Mexico,https://www.wikidata.org/wiki/Q181157
+IDB-REG02-CAT20-ERA07-3ROOT-MEDICANE-IANOS-SEPTEMBER-2020-IONIAN-SEA-WARM-CO,identity_label,Medicane Ianos,https://www.wikidata.org/wiki/Q99484699
+IDB-REG02-CAT20-ERA07-3ROOT-MEDICANE-IANOS-SEPTEMBER-2020-IONIAN-SEA-WARM-CO,descriptive_identity,Mediterranean tropical-like cyclone in 2020,https://www.wikidata.org/wiki/Q99484699
+IDB-REG02-CAT20-ERA07-3ROOT-MEDICANE-IANOS-SEPTEMBER-2020-IONIAN-SEA-WARM-CO,event_type,mediterranean tropical cyclone,https://www.wikidata.org/wiki/Q99484699
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP148-REC29534,identity_label,1971 San Fernando earthquake,https://www.wikidata.org/wiki/Q912835
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP148-REC29534,descriptive_identity,earthquake,https://www.wikidata.org/wiki/Q912835
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP148-REC29534,event_type,earthquake,https://www.wikidata.org/wiki/Q912835
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP148-REC29534,event_type,disaster,https://www.wikidata.org/wiki/Q912835
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP148-REC29534,event_type,natural disaster,https://www.wikidata.org/wiki/Q912835
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP148-REC29534,phenomenon_time,+1971-02-09T00:00:00Z,https://www.wikidata.org/wiki/Q912835
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP148-REC29534,location,United States,https://www.wikidata.org/wiki/Q912835
+IDB-REG_02-CAT_16-ERA_01-1200-ACC05-HOP143-REC28442,identity_label,1906 San Francisco earthquake,https://www.wikidata.org/wiki/Q211386
+IDB-REG_02-CAT_16-ERA_01-1200-ACC05-HOP143-REC28442,descriptive_identity,major earthquake that struck San Francisco and the coast of Northern California,https://www.wikidata.org/wiki/Q211386
+IDB-REG_02-CAT_16-ERA_01-1200-ACC05-HOP143-REC28442,event_type,earthquake,https://www.wikidata.org/wiki/Q211386
+IDB-REG_02-CAT_16-ERA_01-1200-ACC05-HOP143-REC28442,phenomenon_time,+1906-04-18T00:00:00Z,https://www.wikidata.org/wiki/Q211386
+IDB-REG_02-CAT_16-ERA_01-1200-ACC05-HOP143-REC28442,phenomenon_time,+1906-04-18T00:00:00Z,https://www.wikidata.org/wiki/Q211386
+IDB-REG_02-CAT_16-ERA_01-1200-ACC05-HOP143-REC28442,location,United States,https://www.wikidata.org/wiki/Q211386
+IDB-REG_03-CAT_16-ERA_01-1200-ACC05-HOP143-REC28463,identity_label,1907 Guerrero earthquake,https://www.wikidata.org/wiki/Q6142898
+IDB-REG_03-CAT_16-ERA_01-1200-ACC05-HOP143-REC28463,event_type,earthquake,https://www.wikidata.org/wiki/Q6142898
+IDB-REG_03-CAT_16-ERA_01-1200-ACC05-HOP143-REC28463,phenomenon_time,+1907-04-15T00:00:00Z,https://www.wikidata.org/wiki/Q6142898
+IDB-REG_03-CAT_16-ERA_01-1200-ACC05-HOP143-REC28463,location,Mexico,https://www.wikidata.org/wiki/Q6142898
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP137-REC27224,identity_label,1639 Amatrice earthquake,https://www.wikidata.org/wiki/Q26703059
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP137-REC27224,descriptive_identity,"earthquake occurred on 7 October 1639 near Amatrice, in the Kingdom of Naples",https://www.wikidata.org/wiki/Q26703059
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP137-REC27224,event_type,earthquake,https://www.wikidata.org/wiki/Q26703059
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP137-REC27224,event_type,natural disaster,https://www.wikidata.org/wiki/Q26703059
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP137-REC27224,event_type,disaster,https://www.wikidata.org/wiki/Q26703059
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP137-REC27224,phenomenon_time,+1639-10-08T00:00:00Z,https://www.wikidata.org/wiki/Q26703059
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP137-REC27224,location,Italy,https://www.wikidata.org/wiki/Q26703059
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP151-REC30031,identity_label,1989 Newcastle earthquake,https://www.wikidata.org/wiki/Q4585341
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP151-REC30031,descriptive_identity,"December 1989 earthquake in New South Wales, Australia",https://www.wikidata.org/wiki/Q4585341
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP151-REC30031,event_type,earthquake,https://www.wikidata.org/wiki/Q4585341
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP151-REC30031,phenomenon_time,+1989-12-28T00:00:00Z,https://www.wikidata.org/wiki/Q4585341
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP151-REC30031,phenomenon_time,+1989-00-00T00:00:00Z,https://www.wikidata.org/wiki/Q4585341
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP151-REC30031,location,Australia,https://www.wikidata.org/wiki/Q4585341
+IDB-REG_02-CAT_17-ERA_01-1200-ACC05-HOP164-REC32712,identity_label,2020 Zagreb earthquake,https://www.wikidata.org/wiki/Q88259708
+IDB-REG_02-CAT_17-ERA_01-1200-ACC05-HOP164-REC32712,descriptive_identity,"earthquake in Zagreb, Croatia on 22 March 2020",https://www.wikidata.org/wiki/Q88259708
+IDB-REG_02-CAT_17-ERA_01-1200-ACC05-HOP164-REC32712,event_type,earthquake,https://www.wikidata.org/wiki/Q88259708
+IDB-REG_02-CAT_17-ERA_01-1200-ACC05-HOP164-REC32712,event_type,disaster,https://www.wikidata.org/wiki/Q88259708
+IDB-REG_02-CAT_17-ERA_01-1200-ACC05-HOP164-REC32712,event_type,natural disaster,https://www.wikidata.org/wiki/Q88259708
+IDB-REG_02-CAT_17-ERA_01-1200-ACC05-HOP164-REC32712,phenomenon_time,+2020-03-22T00:00:00Z,https://www.wikidata.org/wiki/Q88259708
+IDB-REG_02-CAT_17-ERA_01-1200-ACC05-HOP164-REC32712,location,Croatia,https://www.wikidata.org/wiki/Q88259708
+IDB-REG_02-CAT_17-ERA_01-1200-ACC05-HOP162-REC32292,identity_label,2013 Borazjan earthquake,https://www.wikidata.org/wiki/Q15245683
+IDB-REG_02-CAT_17-ERA_01-1200-ACC05-HOP162-REC32292,descriptive_identity,"earthquake in Dashtestan County, Iran",https://www.wikidata.org/wiki/Q15245683
+IDB-REG_02-CAT_17-ERA_01-1200-ACC05-HOP162-REC32292,event_type,earthquake,https://www.wikidata.org/wiki/Q15245683
+IDB-REG_02-CAT_17-ERA_01-1200-ACC05-HOP162-REC32292,phenomenon_time,+2013-11-28T00:00:00Z,https://www.wikidata.org/wiki/Q15245683
+IDB-REG_02-CAT_17-ERA_01-1200-ACC05-HOP162-REC32292,location,Iran,https://www.wikidata.org/wiki/Q15245683
+IDB-REG_02-CAT_15-ERA_01-1200-ACC05-HOP160-REC31942,identity_label,2006 Banda Sea earthquake,https://www.wikidata.org/wiki/Q4165194
+IDB-REG_02-CAT_15-ERA_01-1200-ACC05-HOP160-REC31942,event_type,earthquake,https://www.wikidata.org/wiki/Q4165194
+IDB-REG_02-CAT_15-ERA_01-1200-ACC05-HOP160-REC31942,event_type,natural disaster,https://www.wikidata.org/wiki/Q4165194
+IDB-REG_02-CAT_15-ERA_01-1200-ACC05-HOP160-REC31942,event_type,disaster,https://www.wikidata.org/wiki/Q4165194
+IDB-REG_02-CAT_15-ERA_01-1200-ACC05-HOP160-REC31942,phenomenon_time,+2006-01-27T00:00:00Z,https://www.wikidata.org/wiki/Q4165194
+IDB-REG_02-CAT_15-ERA_01-1200-ACC05-HOP160-REC31942,location,Indonesia,https://www.wikidata.org/wiki/Q4165194
+IDB-REG_02-CAT_15-ERA_01-1200-ACC05-HOP160-REC31942,location,Timor-Leste,https://www.wikidata.org/wiki/Q4165194
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP165-REC32964,identity_label,2024 Kashmar earthquake,https://www.wikidata.org/wiki/Q126722933
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP165-REC32964,descriptive_identity,"earthquake in Razavi Khorasan Province, Iran",https://www.wikidata.org/wiki/Q126722933
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP165-REC32964,event_type,earthquake,https://www.wikidata.org/wiki/Q126722933
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP165-REC32964,phenomenon_time,+2024-06-18T00:00:00Z,https://www.wikidata.org/wiki/Q126722933
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP165-REC32964,phenomenon_time,+2024-06-21T00:00:00Z,https://www.wikidata.org/wiki/Q126722933
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP165-REC32964,location,Iran,https://www.wikidata.org/wiki/Q126722933
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP146-REC29184,identity_label,1952 Kern County earthquake,https://www.wikidata.org/wiki/Q1163038
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP146-REC29184,descriptive_identity,earthquake,https://www.wikidata.org/wiki/Q1163038
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP146-REC29184,event_type,earthquake,https://www.wikidata.org/wiki/Q1163038
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP146-REC29184,event_type,disaster,https://www.wikidata.org/wiki/Q1163038
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP146-REC29184,event_type,natural disaster,https://www.wikidata.org/wiki/Q1163038
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP146-REC29184,phenomenon_time,+1952-07-21T00:00:00Z,https://www.wikidata.org/wiki/Q1163038
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP146-REC29184,location,United States,https://www.wikidata.org/wiki/Q1163038
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP164-REC32684,identity_label,2019 Ambon earthquake,https://www.wikidata.org/wiki/Q68746792
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP164-REC32684,descriptive_identity,"earthquake on 25 September 2019 in Piru Bay, between the islands of Seram and Ambon, Indonesia",https://www.wikidata.org/wiki/Q68746792
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP164-REC32684,event_type,earthquake,https://www.wikidata.org/wiki/Q68746792
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP164-REC32684,phenomenon_time,+2019-09-25T00:00:00Z,https://www.wikidata.org/wiki/Q68746792
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP164-REC32684,location,Indonesia,https://www.wikidata.org/wiki/Q68746792
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP162-REC32334,identity_label,2014 Aleutian Islands earthquake,https://www.wikidata.org/wiki/Q17507681
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP162-REC32334,descriptive_identity,"earthquake in Alaska, United States",https://www.wikidata.org/wiki/Q17507681
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP162-REC32334,event_type,earthquake,https://www.wikidata.org/wiki/Q17507681
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP162-REC32334,phenomenon_time,+2014-06-23T00:00:00Z,https://www.wikidata.org/wiki/Q17507681
+IDB-REG_02-CAT_15-ERA_01-1200-ACC05-HOP148-REC29422,identity_label,1966 Varto earthquake,https://www.wikidata.org/wiki/Q3666305
+IDB-REG_02-CAT_15-ERA_01-1200-ACC05-HOP148-REC29422,descriptive_identity,earthquake in eastern Turkey,https://www.wikidata.org/wiki/Q3666305
+IDB-REG_02-CAT_15-ERA_01-1200-ACC05-HOP148-REC29422,event_type,earthquake,https://www.wikidata.org/wiki/Q3666305
+IDB-REG_02-CAT_15-ERA_01-1200-ACC05-HOP148-REC29422,event_type,natural disaster,https://www.wikidata.org/wiki/Q3666305
+IDB-REG_02-CAT_15-ERA_01-1200-ACC05-HOP148-REC29422,event_type,disaster,https://www.wikidata.org/wiki/Q3666305
+IDB-REG_02-CAT_15-ERA_01-1200-ACC05-HOP148-REC29422,phenomenon_time,+1966-08-19T00:00:00Z,https://www.wikidata.org/wiki/Q3666305
+IDB-REG_02-CAT_15-ERA_01-1200-ACC05-HOP148-REC29422,location,Turkey,https://www.wikidata.org/wiki/Q3666305
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP171-REC34014,identity_label,2005 eruption of Santa Ana,https://www.wikidata.org/wiki/Q141984535
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP171-REC34014,descriptive_identity,volcanic eruption,https://www.wikidata.org/wiki/Q141984535
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP171-REC34014,event_type,volcanic eruption,https://www.wikidata.org/wiki/Q141984535
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP151-REC30024,identity_label,1989 Loma Prieta earthquake,https://www.wikidata.org/wiki/Q1053476
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP151-REC30024,descriptive_identity,major earthquake in northern California,https://www.wikidata.org/wiki/Q1053476
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP151-REC30024,event_type,earthquake,https://www.wikidata.org/wiki/Q1053476
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP151-REC30024,event_type,natural disaster,https://www.wikidata.org/wiki/Q1053476
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP151-REC30024,event_type,disaster,https://www.wikidata.org/wiki/Q1053476
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP151-REC30024,phenomenon_time,+1989-10-17T00:00:00Z,https://www.wikidata.org/wiki/Q1053476
+IDB-REG_04-CAT_17-ERA_01-1200-ACC05-HOP151-REC30024,location,United States,https://www.wikidata.org/wiki/Q1053476
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP161-REC32054,identity_label,1481 Rhodes earthquake,https://www.wikidata.org/wiki/Q3984715
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP161-REC32054,descriptive_identity,Magnitude 7 earthquake (3 May 1481) amongst a series that affected Rhodes in that year,https://www.wikidata.org/wiki/Q3984715
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP161-REC32054,event_type,earthquake,https://www.wikidata.org/wiki/Q3984715
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP161-REC32054,event_type,natural disaster,https://www.wikidata.org/wiki/Q3984715
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP161-REC32054,event_type,disaster,https://www.wikidata.org/wiki/Q3984715
+IDB-REG_04-CAT_16-ERA_01-1200-ACC05-HOP161-REC32054,phenomenon_time,+1481-05-03T00:00:00Z,https://www.wikidata.org/wiki/Q3984715
+IDB-REG_03-CAT_17-ERA_01-1200-ACC05-HOP147-REC29373,identity_label,1963 Skopje earthquake,https://www.wikidata.org/wiki/Q578179
+IDB-REG_03-CAT_17-ERA_01-1200-ACC05-HOP147-REC29373,descriptive_identity,"July 1963 Earthquake in SR Macedonia, Yugoslavia",https://www.wikidata.org/wiki/Q578179
+IDB-REG_03-CAT_17-ERA_01-1200-ACC05-HOP147-REC29373,event_type,earthquake,https://www.wikidata.org/wiki/Q578179
+IDB-REG_03-CAT_17-ERA_01-1200-ACC05-HOP147-REC29373,phenomenon_time,+1963-07-26T00:00:00Z,https://www.wikidata.org/wiki/Q578179
+IDB-REG_03-CAT_17-ERA_01-1200-ACC05-HOP147-REC29373,location,Socialist Federal Republic of Yugoslavia,https://www.wikidata.org/wiki/Q578179
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP143-REC28421,identity_label,1905 Shkoder earthquake,https://www.wikidata.org/wiki/Q5900067
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP143-REC28421,descriptive_identity,"earthquake struck Shkoder County, Albania on June 1, 1905",https://www.wikidata.org/wiki/Q5900067
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP143-REC28421,event_type,earthquake,https://www.wikidata.org/wiki/Q5900067
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP143-REC28421,phenomenon_time,+1905-06-01T00:00:00Z,https://www.wikidata.org/wiki/Q5900067
+IDB-REG_01-CAT_16-ERA_01-1200-ACC05-HOP143-REC28421,location,Albania,https://www.wikidata.org/wiki/Q5900067
+IDB-REG_03-CAT_16-ERA_01-1200-ACC05-HOP156-REC31193,identity_label,1994 Kuril Islands earthquake,https://www.wikidata.org/wiki/Q4589533
+IDB-REG_03-CAT_16-ERA_01-1200-ACC05-HOP156-REC31193,descriptive_identity,earthquake in Japan,https://www.wikidata.org/wiki/Q4589533
+IDB-REG_03-CAT_16-ERA_01-1200-ACC05-HOP156-REC31193,event_type,earthquake,https://www.wikidata.org/wiki/Q4589533
+IDB-REG_03-CAT_16-ERA_01-1200-ACC05-HOP156-REC31193,event_type,Kuril Islands earthquake,https://www.wikidata.org/wiki/Q4589533
+IDB-REG_03-CAT_16-ERA_01-1200-ACC05-HOP156-REC31193,phenomenon_time,+1994-10-04T00:00:00Z,https://www.wikidata.org/wiki/Q4589533
+IDB-REG_03-CAT_16-ERA_01-1200-ACC05-HOP156-REC31193,location,Russia,https://www.wikidata.org/wiki/Q4589533
+IDB-REG_03-CAT_16-ERA_01-1200-ACC05-HOP156-REC31193,location,Japan,https://www.wikidata.org/wiki/Q4589533
