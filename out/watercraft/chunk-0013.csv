@@ -1,0 +1,23 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB44-ENT-VEH-0090478,descriptive_identity,ship,https://www.wikidata.org/wiki/Q16222903
+LIBSRC-LIB44-ENT-VEH-0092639,descriptive_identity,frigate,https://www.wikidata.org/wiki/Q20056928
+LIBSRC-LIB44-ENT-VEH-0092867,descriptive_identity,sailing yacht,https://www.wikidata.org/wiki/Q20642192
+LIBSRC-LIB44-ENT-VEH-0096138,descriptive_identity,ship,https://www.wikidata.org/wiki/Q2823773
+LIBSRC-LIB44-ENT-VEH-0096138,dimension_length,15240.0,https://www.wikidata.org/wiki/Q2823773
+LIBSRC-LIB44-ENT-VEH-0141194,descriptive_identity,large torpedo boat of German navy,https://www.wikidata.org/wiki/Q9332483
+LIBSRC-LIB44-ENT-VEH-0096735,descriptive_identity,sailing ship,https://www.wikidata.org/wiki/Q3015138
+LIBSRC-LIB44-ENT-VEH-0092639,manufacturer_or_creator,Damen Schelde Naval Shipbuilding,https://www.wikidata.org/wiki/Q20056928
+LIBSRC-LIB44-ENT-VEH-0141212,descriptive_identity,large torpedo boat of German navy,https://www.wikidata.org/wiki/Q9332509
+LIBSRC-LIB44-ENT-VEH-0096735,manufacturer_or_creator,William Fife III,https://www.wikidata.org/wiki/Q3015138
+LIBSRC-LIB44-ENT-VEH-0141194,manufacturer_or_creator,Schichau-Werke,https://www.wikidata.org/wiki/Q9332483
+LIBSRC-LIB44-ENT-VEH-0106423,descriptive_identity,ship of the line,https://www.wikidata.org/wiki/Q56310440
+LIBSRC-LIB44-ENT-VEH-0096735,material_identity,fiberglass,https://www.wikidata.org/wiki/Q3015138
+LIBSRC-LIB44-ENT-VEH-0096735,dimension_length,17600.0,https://www.wikidata.org/wiki/Q3015138
+LIBSRC-LIB44-ENT-VEH-0096735,draft,2200.0,https://www.wikidata.org/wiki/Q3015138
+LIBSRC-LIB44-ENT-VEH-0106423,manufacturer_or_creator,Solombala Shipyard,https://www.wikidata.org/wiki/Q56310440
+LIBSRC-LIB44-ENT-VEH-0141212,manufacturer_or_creator,Schichau-Werke,https://www.wikidata.org/wiki/Q9332509
+LIBSRC-LIB44-ENT-VEH-0141135,descriptive_identity,ship,https://www.wikidata.org/wiki/Q928912
+LIBSRC-LIB44-ENT-VEH-0096087,descriptive_identity,salvage tug,https://www.wikidata.org/wiki/Q2821472
+LIBSRC-LIB44-ENT-VEH-0096087,manufacturer_or_creator,Hatlø Verksted,https://www.wikidata.org/wiki/Q2821472
+LIBSRC-LIB44-ENT-VEH-0096087,dimension_length,63000.0,https://www.wikidata.org/wiki/Q2821472
+LIBSRC-LIB44-ENT-VEH-0142674,descriptive_identity,business,https://www.wikidata.org/wiki/Q57315743
