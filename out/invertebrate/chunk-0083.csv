@@ -1,0 +1,216 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-2066051,occurrence_context,"""\\\""NO\\\""""",https://api.gbif.org/v1/species/5030072
+LIBSRC-LIB50-ENT-BIO-2060421,occurrence_context,"""\\\""SE\\\""""",https://api.gbif.org/v1/species/1294154
+LIBSRC-LIB50-ENT-BIO-2050111,occurrence_context,"""\\\""European Marine Waters\\\""""",https://api.gbif.org/v1/species/2250456
+LIBSRC-LIB50-ENT-BIO-2049361,occurrence_context,"""\\\""Europe & Northern Asia (excluding China)\\\""""",https://api.gbif.org/v1/species/2156563
+LIBSRC-LIB50-ENT-BIO-2037621,occurrence_context,"""\\\""Africa\\\""""",https://api.gbif.org/v1/species/2157989
+LIBSRC-LIB50-ENT-BIO-2049521,occurrence_context,"""\\\""Middle America\\\""""",https://api.gbif.org/v1/species/2157078
+LIBSRC-LIB50-ENT-BIO-2044701,occurrence_context,"""\\\""South America\\\""""",https://api.gbif.org/v1/species/2157934
+LIBSRC-LIB50-ENT-BIO-2049841,occurrence_context,"""\\\""Europe & Northern Asia (excluding China)\\\""""",https://api.gbif.org/v1/species/2157058
+LIBSRC-LIB50-ENT-BIO-2040191,occurrence_context,"""\\\""Africa\\\""""",https://api.gbif.org/v1/species/2157484
+LIBSRC-LIB50-ENT-BIO-2049441,occurrence_context,"""\\\""Australia\\\""""",https://api.gbif.org/v1/species/2156798
+LIBSRC-LIB50-ENT-BIO-2049701,occurrence_context,"""\\\""South America\\\""""",https://api.gbif.org/v1/species/2157125
+LIBSRC-LIB50-ENT-BIO-2050001,occurrence_context,"""\\\""Hawaii\\\""""",https://api.gbif.org/v1/species/11456688
+LIBSRC-LIB50-ENT-BIO-2049981,occurrence_context,"""\\\""Southern Asia\\\""""",https://api.gbif.org/v1/species/7412795
+LIBSRC-LIB50-ENT-BIO-0304001,occurrence_context,"""\\\""Africa\\\""""",https://api.gbif.org/v1/species/2131393
+LIBSRC-LIB50-ENT-BIO-0310921,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/2130994
+LIBSRC-LIB50-ENT-BIO-0296021,occurrence_context,"""\\\""Panama\\\""""",https://api.gbif.org/v1/species/5173633
+LIBSRC-LIB50-ENT-BIO-0304451,occurrence_context,"""\\\""Caribbean\\\""""",https://api.gbif.org/v1/species/10651942
+LIBSRC-LIB50-ENT-BIO-0301211,occurrence_context,"""\\\""Mexico: Puebla\\\""""",https://api.gbif.org/v1/species/7826234
+LIBSRC-LIB50-ENT-BIO-0311371,occurrence_context,"""\\\""Cameroon; Ghana; Uganda\\\""""",https://api.gbif.org/v1/species/7585844
+LIBSRC-LIB50-ENT-BIO-0304491,occurrence_context,"""\\\""France; Italy\\\""""",https://api.gbif.org/v1/species/4488046
+LIBSRC-LIB50-ENT-BIO-0314121,occurrence_context,"""\\\""Asiatic USSR; Persia; Turkmenistan; USSR: Tuva\\\""""",https://api.gbif.org/v1/species/7910848
+LIBSRC-LIB50-ENT-BIO-0303641,occurrence_context,"""\\\""TAIWAN\\\""""",https://api.gbif.org/v1/species/7663235
+LIBSRC-LIB50-ENT-BIO-0302871,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/2011735
+LIBSRC-LIB50-ENT-BIO-0294271,occurrence_context,"""\\\""Indonesia(Sumatra)\\\""""",https://api.gbif.org/v1/species/6992344
+LIBSRC-LIB50-ENT-BIO-0301631,occurrence_context,"""\\\""Greece: Rhodos Is.\\\""""",https://api.gbif.org/v1/species/4488327
+LIBSRC-LIB50-ENT-BIO-0313951,occurrence_context,"""\\\""Portuguese Guinea\\\""""",https://api.gbif.org/v1/species/8098244
+LIBSRC-LIB50-ENT-BIO-0298791,occurrence_context,"""\\\""Mariana Is.\\\""""",https://api.gbif.org/v1/species/8074726
+LIBSRC-LIB50-ENT-BIO-0309301,occurrence_context,"""\\\""Asiatic USSR\\\""""",https://api.gbif.org/v1/species/8149357
+LIBSRC-LIB50-ENT-BIO-0296101,occurrence_context,"""\\\""Argentina; Bolivia; Brazil; Peru; Costa Rica; El Salvador; Mexico; Guatemala\\\""""",https://api.gbif.org/v1/species/7375693
+LIBSRC-LIB50-ENT-BIO-0311191,occurrence_context,"""\\\""Peru\\\""""",https://api.gbif.org/v1/species/7951951
+LIBSRC-LIB50-ENT-BIO-0307461,occurrence_context,"""\\\""AUSTRALIA: New South Wales; South Australia\\\""""",https://api.gbif.org/v1/species/8179729
+LIBSRC-LIB50-ENT-BIO-0312261,occurrence_context,"""\\\""Cape Verde Is.\\\""""",https://api.gbif.org/v1/species/7569240
+LIBSRC-LIB50-ENT-BIO-0294891,occurrence_context,"""\\\""Congo; Ivory Coast; Cameroun; IVORY COAST; CAMEROON; CONGO; GHANA; IVORY COAST; NIGERIA; SIERRA LEONE\\\""""",https://api.gbif.org/v1/species/7453599
+LIBSRC-LIB50-ENT-BIO-0296581,occurrence_context,"""\\\""Venezuela: Lara\\\""""",https://api.gbif.org/v1/species/7982017
+LIBSRC-LIB50-ENT-BIO-0312621,occurrence_context,"""\\\""El Salvador\\\""""",https://api.gbif.org/v1/species/7517044
+LIBSRC-LIB50-ENT-BIO-0304071,occurrence_context,"""\\\""Peru: Cuzco\\\""""",https://api.gbif.org/v1/species/7693758
+LIBSRC-LIB50-ENT-BIO-0303501,occurrence_context,"""\\\""Africa\\\""""",https://api.gbif.org/v1/species/2011697
+LIBSRC-LIB50-ENT-BIO-0302751,occurrence_context,"""\\\""Brazil: Santa Catarina\\\""""",https://api.gbif.org/v1/species/8108189
+LIBSRC-LIB50-ENT-BIO-0305391,occurrence_context,"""\\\""Brazil; Paraguay\\\""""",https://api.gbif.org/v1/species/7412971
+LIBSRC-LIB50-ENT-BIO-0306831,occurrence_context,"""\\\""PAPUA NEW GUINEA: Madang Prov.\\\""""",https://api.gbif.org/v1/species/7622230
+LIBSRC-LIB50-ENT-BIO-0311411,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/2010204
+LIBSRC-LIB50-ENT-BIO-0310171,occurrence_context,"""\\\""NAMBIBIA: Khomas\\\""""",https://api.gbif.org/v1/species/8428764
+LIBSRC-LIB50-ENT-BIO-0302771,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/2011818
+LIBSRC-LIB50-ENT-BIO-0297681,occurrence_context,"""\\\""Europe & Northern Asia (excluding China)\\\""""",https://api.gbif.org/v1/species/2009151
+LIBSRC-LIB50-ENT-BIO-0302851,occurrence_context,"""\\\""Baltic amber fossil\\\""""",https://api.gbif.org/v1/species/7575003
+LIBSRC-LIB50-ENT-BIO-0305621,occurrence_context,"""\\\""MEXICO: Oaxaca\\\""""",https://api.gbif.org/v1/species/8121770
+LIBSRC-LIB50-ENT-BIO-0303111,occurrence_context,"""\\\""S Africa: Addo\\\""""",https://api.gbif.org/v1/species/7473054
+LIBSRC-LIB50-ENT-BIO-0311311,occurrence_context,"""\\\""CHINA: Inner Mongolia\\\""""",https://api.gbif.org/v1/species/7887491
+LIBSRC-LIB50-ENT-BIO-0299471,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/2009637
+LIBSRC-LIB50-ENT-BIO-0298951,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/2009773
+LIBSRC-LIB50-ENT-BIO-0298491,occurrence_context,"""\\\""China: Sichuan\\\""""",https://api.gbif.org/v1/species/8267180
+LIBSRC-LIB50-ENT-BIO-0308081,occurrence_context,"""\\\""Brazil; Colombia\\\""""",https://api.gbif.org/v1/species/7665975
+LIBSRC-LIB50-ENT-BIO-0299811,occurrence_context,"""\\\""AUSTRALIA: New South Wales\\\""""",https://api.gbif.org/v1/species/7765687
+LIBSRC-LIB50-ENT-BIO-0310681,occurrence_context,"""\\\""Tibet\\\""""",https://api.gbif.org/v1/species/7993478
+LIBSRC-LIB50-ENT-BIO-0297641,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/2009180
+LIBSRC-LIB50-ENT-BIO-0302461,occurrence_context,"""\\\""Caroline Is.: Kusaie\\\""""",https://api.gbif.org/v1/species/8324342
+LIBSRC-LIB50-ENT-BIO-0312491,occurrence_context,"""\\\""Europe & Northern Asia (excluding China)\\\""""",https://api.gbif.org/v1/species/2011117
+LIBSRC-LIB50-ENT-BIO-0313911,occurrence_context,"""\\\""MADAGASCAR\\\""""",https://api.gbif.org/v1/species/7975568
+LIBSRC-LIB50-ENT-BIO-0296061,occurrence_context,"""\\\""Australia: New South Wales\\\""""",https://api.gbif.org/v1/species/7821837
+LIBSRC-LIB50-ENT-BIO-0298461,occurrence_context,"""\\\""New Guinea\\\""""",https://api.gbif.org/v1/species/7516812
+LIBSRC-LIB50-ENT-BIO-0308071,occurrence_context,"""\\\""Mexico: Jalisco\\\""""",https://api.gbif.org/v1/species/7743957
+LIBSRC-LIB50-ENT-BIO-0308561,occurrence_context,"""\\\""Mexico: Sonora\\\""""",https://api.gbif.org/v1/species/7743218
+LIBSRC-LIB50-ENT-BIO-0304531,occurrence_context,"""\\\""South Africa\\\""""",https://api.gbif.org/v1/species/7950350
+LIBSRC-LIB50-ENT-BIO-0304461,occurrence_context,"""\\\""Argentina: Missiones\\\""""",https://api.gbif.org/v1/species/7403600
+LIBSRC-LIB50-ENT-BIO-0312771,occurrence_context,"""\\\""Brazil; Brazil: Rio de Janeiro; Peru\\\""""",https://api.gbif.org/v1/species/8176967
+LIBSRC-LIB50-ENT-BIO-0298781,occurrence_context,"""\\\""Tonkin\\\""""",https://api.gbif.org/v1/species/7770044
+LIBSRC-LIB50-ENT-BIO-0303061,occurrence_context,"""\\\""Panama\\\""""",https://api.gbif.org/v1/species/8222620
+LIBSRC-LIB50-ENT-BIO-0303581,occurrence_context,"""\\\""China: Sichuan\\\""""",https://api.gbif.org/v1/species/7830647
+LIBSRC-LIB50-ENT-BIO-0294951,occurrence_context,"""\\\""GREECE; CROATIA\\\""""",https://api.gbif.org/v1/species/4488434
+LIBSRC-LIB50-ENT-BIO-0303521,occurrence_context,"""\\\""Greece\\\""""",https://api.gbif.org/v1/species/4488745
+LIBSRC-LIB50-ENT-BIO-0307161,occurrence_context,"""\\\""JAPAN: Ryukyu Islands; Taiwan\\\""""",https://api.gbif.org/v1/species/7386192
+LIBSRC-LIB50-ENT-BIO-0303101,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/2011901
+LIBSRC-LIB50-ENT-BIO-0305451,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/2009209
+LIBSRC-LIB50-ENT-BIO-0306991,occurrence_context,"""\\\""S Africa: Transvaal\\\""""",https://api.gbif.org/v1/species/8335580
+LIBSRC-LIB50-ENT-BIO-0311331,occurrence_context,"""\\\""China: Hunan\\\""""",https://api.gbif.org/v1/species/8414525
+LIBSRC-LIB50-ENT-BIO-0305991,occurrence_context,"""\\\""Madeira\\\""""",https://api.gbif.org/v1/species/4488615
+LIBSRC-LIB50-ENT-BIO-0300681,occurrence_context,"""\\\""China: Sichuan\\\""""",https://api.gbif.org/v1/species/8362012
+LIBSRC-LIB50-ENT-BIO-0307091,occurrence_context,"""\\\""S Africa: Delagoa Bay\\\""""",https://api.gbif.org/v1/species/8129894
+LIBSRC-LIB50-ENT-BIO-0299161,occurrence_context,"""\\\""Brazil: Rio de Janeiro\\\""""",https://api.gbif.org/v1/species/7475425
+LIBSRC-LIB50-ENT-BIO-0309441,occurrence_context,"""\\\""Israel\\\""""",https://api.gbif.org/v1/species/8305729
+LIBSRC-LIB50-ENT-BIO-0306571,occurrence_context,"""\\\""New Guinea\\\""""",https://api.gbif.org/v1/species/7640360
+LIBSRC-LIB50-ENT-BIO-0311981,occurrence_context,"""\\\""Argentina: San Luiz\\\""""",https://api.gbif.org/v1/species/7440686
+LIBSRC-LIB50-ENT-BIO-0308941,occurrence_context,"""\\\""Costa Rica\\\""""",https://api.gbif.org/v1/species/8062621
+LIBSRC-LIB50-ENT-BIO-0295601,occurrence_context,"""\\\""Peru\\\""""",https://api.gbif.org/v1/species/8156712
+LIBSRC-LIB50-ENT-BIO-0303731,occurrence_context,"""\\\""CHINA: Sichuan Prov.; China: Sichuan\\\""""",https://api.gbif.org/v1/species/7666362
+LIBSRC-LIB50-ENT-BIO-0304831,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/2011588
+LIBSRC-LIB50-ENT-BIO-0314941,occurrence_context,"""\\\""Sulawesi\\\""""",https://api.gbif.org/v1/species/1415627
+LIBSRC-LIB50-ENT-BIO-0315571,occurrence_context,"""\\\""Borneo\\\""""",https://api.gbif.org/v1/species/1415655
+LIBSRC-LIB50-ENT-BIO-0308311,occurrence_context,"""\\\""Argentina: Missiones; Catamarca\\\""""",https://api.gbif.org/v1/species/8355296
+LIBSRC-LIB50-ENT-BIO-0298471,occurrence_context,"""\\\""Tonga; New Hebrides; Samoa\\\""""",https://api.gbif.org/v1/species/7477618
+LIBSRC-LIB50-ENT-BIO-0294901,occurrence_context,"""\\\""MADAGASCAR\\\""""",https://api.gbif.org/v1/species/7454827
+LIBSRC-LIB50-ENT-BIO-0299721,occurrence_context,"""\\\""Brazil: Santa Catarina\\\""""",https://api.gbif.org/v1/species/8301724
+LIBSRC-LIB50-ENT-BIO-0303141,occurrence_context,"""\\\""Spain\\\""""",https://api.gbif.org/v1/species/4487433
+LIBSRC-LIB50-ENT-BIO-0298151,occurrence_context,"""\\\""NEPAL\\\""""",https://api.gbif.org/v1/species/7690747
+LIBSRC-LIB50-ENT-BIO-0310711,occurrence_context,"""\\\""Middle America\\\""""",https://api.gbif.org/v1/species/2130982
+LIBSRC-LIB50-ENT-BIO-0309921,occurrence_context,"""\\\""NIGERIA: B Pl State\\\""""",https://api.gbif.org/v1/species/7756566
+LIBSRC-LIB50-ENT-BIO-0300871,occurrence_context,"""\\\""ZA\\\""""",https://api.gbif.org/v1/species/2247932
+LIBSRC-LIB50-ENT-BIO-0304271,occurrence_context,"""\\\""Africa\\\""""",https://api.gbif.org/v1/species/2131584
+LIBSRC-LIB50-ENT-BIO-0313871,occurrence_context,"""\\\""Panama\\\""""",https://api.gbif.org/v1/species/7402657
+LIBSRC-LIB50-ENT-BIO-0312961,occurrence_context,"""\\\""New Caledonia\\\""""",https://api.gbif.org/v1/species/8362444
+LIBSRC-LIB50-ENT-BIO-0306441,occurrence_context,"""\\\""JORDAN\\\""""",https://api.gbif.org/v1/species/7418363
+LIBSRC-LIB50-ENT-BIO-0295631,occurrence_context,"""\\\""Canada\\\""""",https://api.gbif.org/v1/species/1309136
+LIBSRC-LIB50-ENT-BIO-0308181,occurrence_context,"""\\\""CHINA: Yunnan Prov.\\\""""",https://api.gbif.org/v1/species/7518419
+LIBSRC-LIB50-ENT-BIO-0294711,occurrence_context,"""\\\""South China Sea\\\""""",https://api.gbif.org/v1/species/10783707
+LIBSRC-LIB50-ENT-BIO-0305811,occurrence_context,"""\\\""Nigeria\\\""""",https://api.gbif.org/v1/species/7915361
+LIBSRC-LIB50-ENT-BIO-0314301,occurrence_context,"""\\\""Georgia\\\""""",https://api.gbif.org/v1/species/6464941
+LIBSRC-LIB50-ENT-BIO-0312901,occurrence_context,"""\\\""BRAZIL; Guatemala; PUERTO RICO; Puerto Rico; Surinam\\\""""",https://api.gbif.org/v1/species/7877295
+LIBSRC-LIB50-ENT-BIO-0310931,occurrence_context,"""\\\""Middle America\\\""""",https://api.gbif.org/v1/species/2131069
+LIBSRC-LIB50-ENT-BIO-0305031,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/2131211
+LIBSRC-LIB50-ENT-BIO-0311671,occurrence_context,"""\\\""S Africa: Cape Town\\\""""",https://api.gbif.org/v1/species/8225351
+LIBSRC-LIB50-ENT-BIO-0295751,occurrence_context,"""\\\""Distribution. Nearctic.\\\""""",https://api.gbif.org/v1/species/10779379
+LIBSRC-LIB50-ENT-BIO-0300741,occurrence_context,"""\\\""Central Kuroshio Current\\\""""",https://api.gbif.org/v1/species/2248147
+LIBSRC-LIB50-ENT-BIO-0296841,occurrence_context,"""\\\""France\\\""""",https://api.gbif.org/v1/species/4487844
+LIBSRC-LIB50-ENT-BIO-0309601,occurrence_context,"""\\\""Brazil: Rio de Janeiro\\\""""",https://api.gbif.org/v1/species/7971655
+LIBSRC-LIB50-ENT-BIO-0302721,occurrence_context,"""\\\""Chile: Coquimbo\\\""""",https://api.gbif.org/v1/species/7527883
+LIBSRC-LIB50-ENT-BIO-0314931,occurrence_context,"""\\\""Middle America\\\""""",https://api.gbif.org/v1/species/4987143
+LIBSRC-LIB50-ENT-BIO-0303981,occurrence_context,"""\\\""Africa\\\""""",https://api.gbif.org/v1/species/2131614
+LIBSRC-LIB50-ENT-BIO-0310761,occurrence_context,"""\\\""Southern Asia\\\""""",https://api.gbif.org/v1/species/2131059
+LIBSRC-LIB50-ENT-BIO-0304171,occurrence_context,"""\\\""Africa\\\""""",https://api.gbif.org/v1/species/2131430
+LIBSRC-LIB50-ENT-BIO-2490661,occurrence_context,"""\\\""European Marine Waters\\\""""",https://api.gbif.org/v1/species/4345125
+LIBSRC-LIB50-ENT-BIO-2487831,occurrence_context,"""\\\""North Sea\\\""""",https://api.gbif.org/v1/species/4347606
+LIBSRC-LIB50-ENT-BIO-2491361,occurrence_context,"""\\\""Australia\\\""""",https://api.gbif.org/v1/species/5806433
+LIBSRC-LIB50-ENT-BIO-2492211,occurrence_context,"""\\\""TW\\\""""",https://api.gbif.org/v1/species/5734266
+LIBSRC-LIB50-ENT-BIO-2491761,occurrence_context,"""\\\""Southern Asia\\\""""",https://api.gbif.org/v1/species/5976564
+LIBSRC-LIB50-ENT-BIO-2489601,occurrence_context,"""\\\""European Marine Waters\\\""""",https://api.gbif.org/v1/species/2243141
+LIBSRC-LIB50-ENT-BIO-2484831,occurrence_context,"""\\\""Southern Asia\\\""""",https://api.gbif.org/v1/species/5976582
+LIBSRC-LIB50-ENT-BIO-2491531,occurrence_context,"""\\\""TZ\\\""""",https://api.gbif.org/v1/species/5076373
+LIBSRC-LIB50-ENT-BIO-2490131,occurrence_context,"""\\\""European Marine Waters\\\""""",https://api.gbif.org/v1/species/4359803
+LIBSRC-LIB50-ENT-BIO-2488371,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/5139567
+LIBSRC-LIB50-ENT-BIO-2488811,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/1922865
+LIBSRC-LIB50-ENT-BIO-2487391,occurrence_context,"""\\\""Global\\\""""",https://api.gbif.org/v1/species/1924167
+LIBSRC-LIB50-ENT-BIO-2494391,occurrence_context,"""\\\""Global\\\""""",https://api.gbif.org/v1/species/1920927
+LIBSRC-LIB50-ENT-BIO-2490651,occurrence_context,"""\\\""Global\\\""""",https://api.gbif.org/v1/species/1922304
+LIBSRC-LIB50-ENT-BIO-2495421,occurrence_context,"""\\\""Corregimiento de San Antonio de Cham\\\\u00ed\\\""""",https://api.gbif.org/v1/species/1929890
+LIBSRC-LIB50-ENT-BIO-2494841,occurrence_context,"""\\\""TW\\\""""",https://api.gbif.org/v1/species/10952474
+LIBSRC-LIB50-ENT-BIO-2484911,occurrence_context,"""\\\""Southern Asia\\\""""",https://api.gbif.org/v1/species/5976605
+LIBSRC-LIB50-ENT-BIO-2484321,occurrence_context,"""\\\""Europe\\\""""",https://api.gbif.org/v1/species/5140214
+LIBSRC-LIB50-ENT-BIO-2492611,occurrence_context,"""\\\""Europe\\\""""",https://api.gbif.org/v1/species/1933649
+LIBSRC-LIB50-ENT-BIO-2495121,occurrence_context,"""\\\""Mallorca\\\""""",https://api.gbif.org/v1/species/4347650
+LIBSRC-LIB50-ENT-BIO-2483551,occurrence_context,"""\\\""Southern Asia\\\""""",https://api.gbif.org/v1/species/6929697
+LIBSRC-LIB50-ENT-BIO-2484841,occurrence_context,"""\\\""Red Sea\\\""""",https://api.gbif.org/v1/species/4347742
+LIBSRC-LIB50-ENT-BIO-2487791,occurrence_context,"""\\\""North Sea\\\""""",https://api.gbif.org/v1/species/4347598
+LIBSRC-LIB50-ENT-BIO-2486951,occurrence_context,"""\\\""Gulf of Lion\\\""""",https://api.gbif.org/v1/species/4347666
+LIBSRC-LIB50-ENT-BIO-2486751,occurrence_context,"""\\\""Western Australia\\\""""",https://api.gbif.org/v1/species/4347679
+LIBSRC-LIB50-ENT-BIO-2485851,occurrence_context,"""\\\""TW\\\""""",https://api.gbif.org/v1/species/11616379
+LIBSRC-LIB50-ENT-BIO-2483081,occurrence_context,"""\\\""BR\\\""""",https://api.gbif.org/v1/species/12215588
+LIBSRC-LIB50-ENT-BIO-2483261,occurrence_context,"""\\\""Indian part of the Bay of Bengal\\\""""",https://api.gbif.org/v1/species/7028637
+LIBSRC-LIB50-ENT-BIO-2483331,occurrence_context,"""\\\""Okinawa\\\""""",https://api.gbif.org/v1/species/10720361
+LIBSRC-LIB50-ENT-BIO-2490541,occurrence_context,"""\\\""Southern Ocean\\\""""",https://api.gbif.org/v1/species/4345116
+LIBSRC-LIB50-ENT-BIO-2484311,occurrence_context,"""\\\""European Marine Waters\\\""""",https://api.gbif.org/v1/species/4345095
+LIBSRC-LIB50-ENT-BIO-0624001,occurrence_context,"""\\\""US\\\""""",https://api.gbif.org/v1/species/2116763
+LIBSRC-LIB50-ENT-BIO-0624081,occurrence_context,"""\\\""DK\\\""""",https://api.gbif.org/v1/species/2116907
+LIBSRC-LIB50-ENT-BIO-0632221,occurrence_context,"""\\\""Europe & Northern Asia (excluding China)\\\""""",https://api.gbif.org/v1/species/11439855
+LIBSRC-LIB50-ENT-BIO-0627181,occurrence_context,"""\\\""Brazil\\\""""",https://api.gbif.org/v1/species/2152808
+LIBSRC-LIB50-ENT-BIO-0624291,occurrence_context,"""\\\""Venezuela\\\""""",https://api.gbif.org/v1/species/2179084
+LIBSRC-LIB50-ENT-BIO-0642421,occurrence_context,"""\\\""Africa\\\""""",https://api.gbif.org/v1/species/11698599
+LIBSRC-LIB50-ENT-BIO-0641511,occurrence_context,"""\\\""Africa\\\""""",https://api.gbif.org/v1/species/6899278
+LIBSRC-LIB50-ENT-BIO-0625181,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/1046872
+LIBSRC-LIB50-ENT-BIO-0648221,occurrence_context,"""\\\""British Columbia\\\""""",https://api.gbif.org/v1/species/5152137
+LIBSRC-LIB50-ENT-BIO-0620931,occurrence_context,"""\\\""BR\\\""""",https://api.gbif.org/v1/species/2067506
+LIBSRC-LIB50-ENT-BIO-0645061,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/4994132
+LIBSRC-LIB50-ENT-BIO-0620921,occurrence_context,"""\\\""Italy\\\""""",https://api.gbif.org/v1/species/1020217
+LIBSRC-LIB50-ENT-BIO-0633481,occurrence_context,"""\\\""Spanish Exclusive Economic Zone (Canary Islands)\\\""""",https://api.gbif.org/v1/species/7815890
+LIBSRC-LIB50-ENT-BIO-0631131,occurrence_context,"""\\\""Caribbean Sea\\\""""",https://api.gbif.org/v1/species/6501163
+LIBSRC-LIB50-ENT-BIO-0633681,occurrence_context,"""\\\""Caribbean Sea\\\""""",https://api.gbif.org/v1/species/4367275
+LIBSRC-LIB50-ENT-BIO-0635981,occurrence_context,"""\\\""European Marine Waters\\\""""",https://api.gbif.org/v1/species/4371291
+LIBSRC-LIB50-ENT-BIO-0644091,occurrence_context,"""\\\""Italy\\\""""",https://api.gbif.org/v1/species/5721757
+LIBSRC-LIB50-ENT-BIO-0644651,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/2302131
+LIBSRC-LIB50-ENT-BIO-0641321,occurrence_context,"""\\\""Germany\\\""""",https://api.gbif.org/v1/species/9383198
+LIBSRC-LIB50-ENT-BIO-0644551,occurrence_context,"""\\\""Global\\\""""",https://api.gbif.org/v1/species/5784807
+LIBSRC-LIB50-ENT-BIO-0642671,occurrence_context,"""\\\""Singaporean Exclusive Economic Zone\\\""""",https://api.gbif.org/v1/species/9021282
+LIBSRC-LIB50-ENT-BIO-0642551,occurrence_context,"""\\\""Marshallese Exclusive Economic Zone\\\""""",https://api.gbif.org/v1/species/6472991
+LIBSRC-LIB50-ENT-BIO-0626951,occurrence_context,"""\\\""Nepal\\\""""",https://api.gbif.org/v1/species/10550695
+LIBSRC-LIB50-ENT-BIO-0634871,occurrence_context,"""\\\""Brazil (Bah\\\\u00eda)\\\""""",https://api.gbif.org/v1/species/10163841
+LIBSRC-LIB50-ENT-BIO-0636451,occurrence_context,"""\\\""China (Jiangxi)\\\""""",https://api.gbif.org/v1/species/8622369
+LIBSRC-LIB50-ENT-BIO-0625531,occurrence_context,"""\\\""French Guiana\\\""""",https://api.gbif.org/v1/species/7562035
+LIBSRC-LIB50-ENT-BIO-0625891,occurrence_context,"""\\\""Madagascar\\\""""",https://api.gbif.org/v1/species/10342210
+LIBSRC-LIB50-ENT-BIO-0625841,occurrence_context,"""\\\""Guatemala\\\""""",https://api.gbif.org/v1/species/10196377
+LIBSRC-LIB50-ENT-BIO-0625381,occurrence_context,"""\\\""Thailand\\\""""",https://api.gbif.org/v1/species/7395023
+LIBSRC-LIB50-ENT-BIO-0634851,occurrence_context,"""\\\""Middle America\\\""""",https://api.gbif.org/v1/species/1034304
+LIBSRC-LIB50-ENT-BIO-0637741,occurrence_context,"""\\\""Laos\\\""""",https://api.gbif.org/v1/species/10170200
+LIBSRC-LIB50-ENT-BIO-0631411,occurrence_context,"""\\\""China (Yunnan)\\\""""",https://api.gbif.org/v1/species/10210253
+LIBSRC-LIB50-ENT-BIO-0631091,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/1034004
+LIBSRC-LIB50-ENT-BIO-0631311,occurrence_context,"""\\\""Venezuela\\\""""",https://api.gbif.org/v1/species/8825638
+LIBSRC-LIB50-ENT-BIO-0627681,occurrence_context,"""\\\""Nepal\\\""""",https://api.gbif.org/v1/species/10465593
+LIBSRC-LIB50-ENT-BIO-0636441,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/1034401
+LIBSRC-LIB50-ENT-BIO-0638631,occurrence_context,"""\\\""Switzerland (Oeningen) [Miocene]\\\""""",https://api.gbif.org/v1/species/8488500
+LIBSRC-LIB50-ENT-BIO-0624201,occurrence_context,"""\\\""Europe & Northern Asia (excluding China)\\\""""",https://api.gbif.org/v1/species/2209247
+LIBSRC-LIB50-ENT-BIO-0628851,occurrence_context,"""\\\""Minnesota\\\""""",https://api.gbif.org/v1/species/2503533
+LIBSRC-LIB50-ENT-BIO-0622671,occurrence_context,"""\\\""Southern Asia\\\""""",https://api.gbif.org/v1/species/1438345
+LIBSRC-LIB50-ENT-BIO-0622081,occurrence_context,"""\\\""Caribbean\\\""""",https://api.gbif.org/v1/species/1438431
+LIBSRC-LIB50-ENT-BIO-0621731,occurrence_context,"""\\\""Southern Asia\\\""""",https://api.gbif.org/v1/species/1438403
+LIBSRC-LIB50-ENT-BIO-0644591,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/2302092
+LIBSRC-LIB50-ENT-BIO-0624241,occurrence_context,"""\\\""Czech Republic\\\""""",https://api.gbif.org/v1/species/9057369
+LIBSRC-LIB50-ENT-BIO-0644151,occurrence_context,"""\\\""Norwegian Exclusive Economic Zone\\\""""",https://api.gbif.org/v1/species/6477678
+LIBSRC-LIB50-ENT-BIO-0631741,occurrence_context,"""\\\""Colombia\\\""""",https://api.gbif.org/v1/species/9572304
+LIBSRC-LIB50-ENT-BIO-0622931,occurrence_context,"""\\\""Sabah\\\""""",https://api.gbif.org/v1/species/2066496
+LIBSRC-LIB50-ENT-BIO-0643831,occurrence_context,"""\\\""Vanuatu\\\""""",https://api.gbif.org/v1/species/1410712
+LIBSRC-LIB50-ENT-BIO-0641351,occurrence_context,"""\\\""Australia\\\""""",https://api.gbif.org/v1/species/2178298
+LIBSRC-LIB50-ENT-BIO-0643101,occurrence_context,"""\\\""European Marine Waters\\\""""",https://api.gbif.org/v1/species/4343382
+LIBSRC-LIB50-ENT-BIO-0625611,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/1034032
+LIBSRC-LIB50-ENT-BIO-0631271,occurrence_context,"""\\\""Malawi\\\""""",https://api.gbif.org/v1/species/10393377
+LIBSRC-LIB50-ENT-BIO-0643811,occurrence_context,"""\\\""Congo\\\""""",https://api.gbif.org/v1/species/1410581
+LIBSRC-LIB50-ENT-BIO-0626941,occurrence_context,"""\\\""South Africa\\\""""",https://api.gbif.org/v1/species/9982138
+LIBSRC-LIB50-ENT-BIO-0645771,occurrence_context,"""\\\""North America\\\""""",https://api.gbif.org/v1/species/2302316
+LIBSRC-LIB50-ENT-BIO-0649101,occurrence_context,"""\\\""East Pacific\\\""""",https://api.gbif.org/v1/species/4312171
+LIBSRC-LIB50-ENT-BIO-0649871,occurrence_context,"""\\\""New Zealand\\\""""",https://api.gbif.org/v1/species/8636280
+LIBSRC-LIB50-ENT-BIO-0640231,occurrence_context,"""\\\""Europe & Northern Asia (excluding China)\\\""""",https://api.gbif.org/v1/species/11778307
+LIBSRC-LIB50-ENT-BIO-0637561,occurrence_context,"""\\\""St. Vincent\\\""""",https://api.gbif.org/v1/species/5170350
+LIBSRC-LIB50-ENT-BIO-0628831,occurrence_context,"""\\\""Bahamas\\\""""",https://api.gbif.org/v1/species/6717428
+LIBSRC-LIB50-ENT-BIO-0638201,occurrence_context,"""\\\""Indonesia (Moluccas: Halmahera)\\\""""",https://api.gbif.org/v1/species/10191429
+LIBSRC-LIB50-ENT-BIO-0644071,occurrence_context,"""\\\""Greenland\\\""""",https://api.gbif.org/v1/species/6477628
+LIBSRC-LIB50-ENT-BIO-0650521,occurrence_context,"""\\\""British Columbia\\\""""",https://api.gbif.org/v1/species/2004598
+LIBSRC-LIB50-ENT-BIO-0626141,occurrence_context,"""\\\""Indonesia\\\""""",https://api.gbif.org/v1/species/7400695
+LIBSRC-LIB50-ENT-BIO-0625931,occurrence_context,"""\\\""Faial\\\""""",https://api.gbif.org/v1/species/4434272
