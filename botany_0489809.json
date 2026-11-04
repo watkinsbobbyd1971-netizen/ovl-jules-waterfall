@@ -1,0 +1,211 @@
+{
+  "id": "ld1-1643407787750-1643407846641-0",
+  "version": "",
+  "unitCode": "NMNHBOTANY",
+  "linkedId": "",
+  "type": "edanmdm",
+  "content": {
+    "freetext": {
+      "date": [
+        {
+          "label": "Collection Date",
+          "content": "16 Apr 1947 to 25 Apr 1947"
+        }
+      ],
+      "name": [
+        {
+          "label": "Biogeographical Region",
+          "content": "81 - Caribbean"
+        },
+        {
+          "label": "Collector",
+          "content": "Conrad V. Morton"
+        },
+        {
+          "label": "Max. Elevation",
+          "content": "400"
+        },
+        {
+          "label": "Microhabitat Description",
+          "content": "Frequent in moist places"
+        },
+        {
+          "label": "Min. Elevation",
+          "content": "300"
+        }
+      ],
+      "notes": [
+        {
+          "label": "Record Last Modified",
+          "content": "18 Nov 2025"
+        },
+        {
+          "label": "Specimen Count",
+          "content": "1"
+        }
+      ],
+      "place": [
+        {
+          "label": "Place",
+          "content": "Chateaubelair River, St. Vincent - Grenadines, West Indies - Neotropics"
+        }
+      ],
+      "setName": [
+        {
+          "label": "See more items in",
+          "content": "Botany"
+        },
+        {
+          "label": "See more items in",
+          "content": "Angiosperms"
+        },
+        {
+          "label": "See more items in",
+          "content": "West Indies Project"
+        }
+      ],
+      "publisher": [
+        {
+          "label": "Published Name",
+          "content": "Clidemia hirta (L.) D. Don"
+        }
+      ],
+      "dataSource": [
+        {
+          "label": "Data Source",
+          "content": "NMNH - Botany Dept."
+        }
+      ],
+      "identifier": [
+        {
+          "label": "Barcode",
+          "content": "01071058"
+        },
+        {
+          "label": "USNM Number",
+          "content": "1884232"
+        }
+      ],
+      "taxonomicName": [
+        {
+          "label": "Taxonomy",
+          "content": "Plantae Dicotyledonae Myrtales Melastomataceae Melastomatoideae"
+        }
+      ]
+    },
+    "indexedStructured": {
+      "date": [],
+      "name": [
+        "Morton, C. V.",
+        "West Indies Project"
+      ],
+      "place": [
+        "West Indies - Neotropics",
+        "St. Vincent - Grenadines"
+      ],
+      "topic": [
+        "Dicotyledonae"
+      ],
+      "tax_class": [
+        "Dicotyledonae"
+      ],
+      "tax_order": [
+        "Myrtales"
+      ],
+      "tax_family": [
+        "Melastomataceae"
+      ],
+      "geoLocation": [
+        {
+          "L1": {
+            "type": "Continent",
+            "content": "West Indies - Neotropics"
+          },
+          "L2": {
+            "type": "Country",
+            "content": "St. Vincent - Grenadines"
+          },
+          "Other": {
+            "type": "Locality",
+            "content": "Chateaubelair River"
+          }
+        }
+      ],
+      "tax_kingdom": [
+        "Plantae"
+      ],
+      "scientific_name": [
+        "Clidemia hirta (L.) D. Don"
+      ],
+      "online_media_type": [
+        "Images"
+      ]
+    },
+    "descriptiveNonRepeating": {
+      "guid": "http://n2t.net/ark:/65665/32f98391b-51b5-4f58-8d52-0af7e0a5a07d",
+      "title": {
+        "label": "title",
+        "content": "Clidemia hirta (L.) D. Don"
+      },
+      "record_ID": "nmnhbotany_10489809",
+      "unit_code": "NMNHBOTANY",
+      "title_sort": "CLIDEMIA HIRTA L D DON",
+      "data_source": "NMNH - Botany Dept.",
+      "record_link": "http://n2t.net/ark:/65665/32f98391b-51b5-4f58-8d52-0af7e0a5a07d",
+      "online_media": {
+        "media": [
+          {
+            "id": "media:NMNH-01071058",
+            "guid": "http://n2t.net/ark:/65665/m35a15a346-a888-467e-b31a-42efc4024c0c",
+            "type": "Images",
+            "idsId": "ark:/65665/m35a15a346a888467eb31a42efc4024c0c",
+            "usage": {
+              "access": "CC0"
+            },
+            "width": 6793,
+            "height": 8950,
+            "content": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m35a15a346a888467eb31a42efc4024c0c",
+            "maxsize": 0,
+            "thumbnail": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m35a15a346a888467eb31a42efc4024c0c/90",
+            "altTextAccessibility": "",
+            "extDescrAccessibility": "",
+            "resources": [
+              {
+                "label": "High-resolution TIFF",
+                "url": "https://ids.si.edu/ids/download?id=NMNH-01071058.tif",
+                "width": 6793,
+                "height": 8950,
+                "dimensions": "6793x8950"
+              },
+              {
+                "label": "High-resolution JPEG",
+                "url": "https://ids.si.edu/ids/download?id=NMNH-01071058.jpg",
+                "width": 6793,
+                "height": 8950,
+                "dimensions": "6793x8950"
+              },
+              {
+                "label": "Screen Image",
+                "url": "https://ids.si.edu/ids/download?id=NMNH-01071058_screen"
+              },
+              {
+                "label": "Thumbnail Image",
+                "url": "https://ids.si.edu/ids/download?id=NMNH-01071058_thumb"
+              }
+            ]
+          }
+        ],
+        "mediaCount": 1
+      },
+      "metadata_usage": {
+        "access": "CC0"
+      }
+    }
+  },
+  "url": "edanmdm:nmnhbotany_10489809",
+  "hash": "003c34f60864b634108e689a2e9b434e0b4696fb",
+  "docSignature": "f03ec9edca20721c3640389dab4ea2e8",
+  "timestamp": 1663785191,
+  "lastTimeUpdated": 1793187217,
+  "title": "Clidemia hirta (L.) D. Don"
+}
