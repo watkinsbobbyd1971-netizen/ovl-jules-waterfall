@@ -1,0 +1,7 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP14471-REC2894121,anatomical_identity,"""eye""",https://en.wikipedia.org/wiki/Eye
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP14419-REC2883761,anatomical_identity,"""colon""",https://en.wikipedia.org/wiki/Colon
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16072-REC3214301,anatomical_identity,"""chest""",https://en.wikipedia.org/wiki/Chest
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16750-REC3349821,anatomical_identity,"""anus""",https://en.wikipedia.org/wiki/Anus
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP13467-REC2693361,anatomical_identity,"""brain""",https://en.wikipedia.org/wiki/Brain
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP19273-REC3854521,anatomical_identity,"""vertebra""",https://en.wikipedia.org/wiki/Vertebra
