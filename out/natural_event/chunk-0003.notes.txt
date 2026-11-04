@@ -1,0 +1,6 @@
+1. Wikidata (API/SPARQL): Repeatedly returned 429 Too Many Requests, blocking exact matching of subjects.
+2. Wikipedia API: Repeatedly returned 429 Too Many Requests.
+3. NOAA Significant Earthquakes API: Returned 404 Not Found.
+4. USGS API (fdsnws): Attempted matching using year extraction and text comparison on the 'place' field. The script was excessively slow due to fetching full year records sequentially for all events and then doing string matches without explicit IDs. Exact match on subject_name wasn't consistently available as places and names vary in the dataset compared to USGS records.
+
+Without a reliable open structured source for exact name matches (as required by instructions and rules forbidding partial matches or manual generation), the result remains empty.
