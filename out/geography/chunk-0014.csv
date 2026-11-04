@@ -1,0 +1,602 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB34-ENT-GEO-0147481,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [58.9008, 27.9554]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0140551,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [51.3767, 33.034]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0155181,location,"Borgarfjarðarhreppur",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0155181,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-13.812222222, 65.526111111]}",https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0179051,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [126.34278, 34.64389]}",https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0178281,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [126.45, 37.53333333]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0192911,elevation,30000.0,https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0192911,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [22.1306, 55.1194]}",https://pl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0196761,elevation,1216000.0,https://it.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0196761,location,"Kelaat Sraghna Province",https://ar.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0196761,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-7.5262, 31.8288]}",https://fr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0203691,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-99.06028, 22.61361]}",https://sh.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0203691,elevation,184000.0,http://sh.wikipedia.com/
+LIBSRC-LIB34-ENT-GEO-0203691,location,"Antiguo Morelos Municipality",https://sh.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0207541,elevation,635000.0,https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0208311,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [8.06666667, 6.38333333]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0208311,location,"Ebonyi State",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0212161,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0212161,location,"Førde",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0212161,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [5.92492, 61.46904]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0212931,location,"Volda Municipality",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0212931,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0212931,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [6.10469, 62.04611]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0211391,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0211391,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [6.42984, 60.83624]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0211391,location,"Voss Municipality",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0204461,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-105.58333, 23.53333]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0204461,identity_label,"stream",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0218321,identity_label,"river",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0218321,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [69.4497, 33.528]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0218321,location,"Paktia Province",https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0227561,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [21.8228, 43.2611]}",https://fr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0227561,identity_label,"cadastral municipality of Serbia",http://www.rgz.gov.rs/upload/web/Spisak%20KO-20150521.zip
+LIBSRC-LIB34-ENT-GEO-0227561,location,"Merošina",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0237361,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [13.497525, 46.049169]}",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0237361,location,"Municipality of Brda",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0237361,elevation,184900.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0238131,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [16.22, 78.088]}",https://nn.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0213701,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [10.44119, 61.20567]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0213701,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0213701,location,"Øyer",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0245831,elevation,1050000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0245831,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [31.2, -27.116666666]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0295881,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [32.746666666, 40.971388888]}",https://tr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0295881,location,"Eskipazar",https://tr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0292031,location,"delegation of Enfida",https://opendata.interieur.gov.tn/ar/catalog/secteurs-territoriaux-par-gouvernorat-et-delegation
+LIBSRC-LIB34-ENT-GEO-0292031,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [10.380922222, 36.135294444]}",https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0292031,identity_label,"imada",https://opendata.interieur.gov.tn/ar/catalog/secteurs-territoriaux-par-gouvernorat-et-delegation
+LIBSRC-LIB34-ENT-GEO-0305121,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [35.879166666, 45.404166666]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0305891,location,"Slavuta Raion",https://uk.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0305891,elevation,213000.0,https://uk.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0305891,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [27.030555555, 50.458333333]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0310511,elevation,77000.0,https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0310511,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-74.61, 45.32]}",https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0311281,elevation,34137.6672,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0311281,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-93.0411, 31.7325]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0318981,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [144.91, -37.8362]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0314361,elevation,70713.73920000001,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0314361,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-96.58636, 29.70079]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0327351,elevation,945000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0327351,location,"Flathead County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0327351,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-114.064722222, 48.384722222]}",https://fa.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0328121,identity_label,"Wikimedia disambiguation page",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0329661,location,"Alaska",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0329661,identity_label,"glacier",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0329661,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-148.473, 60.2444]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0308971,location,"Newberry County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0308971,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-81.61656, 34.277655]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0308971,elevation,151000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0009421,elevation,3354000.0,https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0018661,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [65.9978, 33.9987]}",https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0024821,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [64.17304, 34.91475]}",https://sv.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2520325,elevation,99000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2520325,location,"canton of Payrac",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0027901,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [20.016666666, 41.0]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0030211,location,"Belmonte Calabro",https://www.geonames.org/8960863
+LIBSRC-LIB34-ENT-GEO-0030211,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [16.06678, 39.15593]}",http://sh.wikipedia.com/
+LIBSRC-LIB34-ENT-GEO-0033291,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-68.25, -75.9167]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0033291,identity_label,"glacier",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0034061,identity_label,"glacier",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0034061,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-177.833, -85.15]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0034831,elevation,4189000.0,https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0050231,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [8.102222222, 46.751388888]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0050231,elevation,680000.0,https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0048691,identity_label,"family name",https://www.lausanne2020.sport/results/nh/en/Participant/List
+LIBSRC-LIB34-ENT-GEO-0061011,identity_label,"mountain",https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0061781,elevation,364000.0,https://it.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0061781,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [9.7575, 48.679722222]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0062551,identity_label,"stream",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0062551,location,"Lower Saxony",https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0063321,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [11.18472222, 49.77916667]}",https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0082571,identity_label,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=18843
+LIBSRC-LIB34-ENT-GEO-0083341,elevation,17000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0083341,location,"canton of Archiac",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0085651,location,"canton of Ambrières-les-Vallées",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0085651,elevation,162000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0094121,elevation,30000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0092581,location,"Kvemo Kartli",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0092581,identity_label,"self-governing city of Georgia",https://www.matsne.gov.ge/ka/document/view/2244429?publication=80
+LIBSRC-LIB34-ENT-GEO-0092581,elevation,350000.0,https://it.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0101051,elevation,2032000.0,https://sh.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0101051,location,"Chapulco Municipality",https://sh.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0101821,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [114.23974, 22.43683]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0101821,identity_label,"cape",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0102591,location,"Sopron District",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0102591,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [16.75, 47.55]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0107981,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [75.05, 21.05]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0107981,location,"Jalgaon district",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0107981,elevation,188000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0128001,identity_label,"stream",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0134161,location,"Sharabian Rural District",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0134161,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [47.140556, 37.866667]}",https://fa.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0137241,location,"Koregah-e Sharqi Rural District",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0137241,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [48.32472222, 33.39416667]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0137241,identity_label,"village",https://fa.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0158801,identity_label,"archaeological site",http://wikilovesmonuments.wikimedia.it/
+LIBSRC-LIB34-ENT-GEO-0158801,location,"Alcamo",http://wikilovesmonuments.wikimedia.it/
+LIBSRC-LIB34-ENT-GEO-0158801,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [12.95926, 37.95884]}",https://www.openstreetmap.org
+LIBSRC-LIB34-ENT-GEO-0195761,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [18.47361, 30.5424]}",http://www.geonames.org/2213712
+LIBSRC-LIB34-ENT-GEO-0201151,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [169.02225, 9.9702]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0201921,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [96.138611111, 20.431666666]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0201921,location,"Yamethin Township",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0205771,elevation,2233000.0,https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0207311,elevation,2613000.0,https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0210391,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [7.17963, 61.59471]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0210391,identity_label,"glacier",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0211161,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0211161,location,"Aurland Municipality",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0211161,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [7.41886, 60.91356]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0212701,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [9.20908, 59.40139]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0212701,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0212701,location,"Sauherad",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0213471,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0213471,location,"Strand Municipality",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0213471,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [6.10111, 58.98024]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0226561,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [21.33583333, 46.06888889]}",https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0237131,location,"Municipality of Makole",https://sl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0237131,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [15.691578, 46.315775]}",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0237131,elevation,470700.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0241751,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [32.35, 13.9]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0294881,identity_label,"mahalle",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0296421,location,"Odunpazarı district",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0296421,identity_label,"mahalle",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0308741,location,"Seminole County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0308741,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-81.346388888, 28.648055555]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0308741,elevation,28956.057,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0309511,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-84.8889, 32.4029]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0309511,location,"Georgia",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0309511,identity_label,"river",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0310281,identity_label,"Wikimedia disambiguation page",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0303351,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [142.630833333, 47.102777777]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0325581,location,"Logan County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0325581,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-101.007, 39.1044]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0327891,identity_label,"fictional human",https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0328661,location,"Talbot County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0328661,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-84.4581, 32.6031]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0328661,elevation,205000.0,https://it.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0330201,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-164.644, 60.9444]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0330201,location,"Bethel Census Area",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0327121,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-114.63504, 42.39574]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0337901,identity_label,"town",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0337901,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [26.95, -27.216666666]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0337901,location,"Moqhaka Local Municipality",https://en.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2516560,location,"canton of Pouilly-en-Auxois",https://nl.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2516560,elevation,342000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2520085,identity_label,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=21440
+LIBSRC-LIB34-ENT-GEO-0321061,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-73.6694, 40.6322]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0321061,elevation,3000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0321061,location,"Nassau County",https://en.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2521698,elevation,710000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0011501,elevation,1231000.0,https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0016121,elevation,2686000.0,https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0019201,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [71.46611, 34.94935]}",https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0033061,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-58.0667, -62.0833]}",https://pl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0047691,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-118.23567, 52.63332]}",https://ceb.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2528103,identity_label,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=13450
+LIBSRC-LIB34-ENT-GEO-0063091,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [13.599722222, 51.966666666]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0062321,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [12.68998, 48.24102]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0077721,elevation,1459000.0,https://cs.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0077721,identity_label,"mountain",https://fr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0077721,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [41.266666666, 11.083333333]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0077721,location,"Awsi Rasu",https://fr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0080031,elevation,290000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0083111,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [7.50161, 45.76358]}",https://sh.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0083111,location,"Verrayes",https://www.geonames.org/3175665
+LIBSRC-LIB34-ENT-GEO-0083111,identity_label,"frazione",https://it.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0083881,elevation,199000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0085421,elevation,256000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0088501,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-2.733611111, 53.341944444]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0088501,identity_label,"town",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0123921,location,"Gilan Province",https://fa.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0123921,identity_label,"village",https://fa.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0123921,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [49.5, 36.8667]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0061551,location,"Torgau",https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0147791,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [52.4742, 27.8357]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0141631,location,"Zaz-e Gharbi Rural District",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0203231,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [34.7509, -15.9006]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0203231,location,"Malawi",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0203231,elevation,100000.0,https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0204001,elevation,1362000.0,https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0208621,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [6.2411, 53.0944]}",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0208621,location,"Opsterland",https://www.cbs.nl/nl-nl/cijfers/detail/84992NED
+LIBSRC-LIB34-ENT-GEO-0214781,location,"Modum Municipality",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0214781,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [9.96193, 60.11456]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0214781,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0213241,location,"Målselv",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0213241,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [18.66671, 69.17565]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0213241,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0216321,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0216321,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [176.365627833, -38.21255]}",http://waterfalls.co.nz/waterfalls-by-region/north-island/79-new-zealand-waterfalls/north-island/bayofplenty/132-wairere-te-wairoa-falls
+LIBSRC-LIB34-ENT-GEO-0218631,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [73.387063, 33.59169]}",https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0218631,location,"Rawalpindi District",https://fr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0226331,elevation,106000.0,https://ro.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0236901,location,"Miren–Kostanjevica Municipality",https://sl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0236901,elevation,170400.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0236901,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [13.582688888, 45.851313888]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0214011,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [25.18202, 70.78983]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0214011,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0214011,location,"Måsøy Municipality",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0239211,identity_label,"stream",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0294651,elevation,1500000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0295421,location,"Akyazı district",https://tr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0295421,identity_label,"mahalle",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0306971,location,"Synelnykove Raion",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0306971,identity_label,"village of Ukraine",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0306971,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [35.913414057, 48.20730593]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0310051,identity_label,"Wikimedia disambiguation page",https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0311591,elevation,113000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0311591,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-77.1928, 39.1764]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0310821,identity_label,"painting",https://commons.wikimedia.org/
+LIBSRC-LIB34-ENT-GEO-0317751,elevation,84000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0317751,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-97.502415, 28.983196]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0313131,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-123.07533, 44.0469]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0323141,elevation,1238000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0323141,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-111.76333333, 34.77916667]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0315441,elevation,223000.0,https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0315441,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-88.80008, 48.4001]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0325351,identity_label,"Wikimedia disambiguation page",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0329201,location,"Uinta County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0329201,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-110.336, 41.3161]}",https://en.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2510677,elevation,1263000.0,https://de.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2510677,identity_label,"mountain",https://en.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2510677,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [7.98694444, 47.76722222]}",https://de.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2513893,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-72.744, 46.506]}",https://en.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2520653,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-73.7709, 45.3862]}",https://ceb.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2525460,identity_label,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=23033
+LIBSRC-LIB35-ENT-GAZ-2531841,location,"canton of Le Bar-sur-Loup",https://nl.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2531841,elevation,157000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2533424,elevation,134000.0,https://it.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2533424,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-2.8674, 51.9149]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0000341,elevation,3130000.0,https://sv.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2532631,elevation,720000.0,https://ca.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2532631,location,"canton of La Motte-du-Caire",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0005881,elevation,2826000.0,https://sv.wikipedia.org/
+CAT19_REG_01_ERA_02_1982_siy_h_k_h_ent_geo_0001871,elevation,3352000.0,https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0009731,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [70.583333333, 37.121944444]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0010501,elevation,3540000.0,https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0033601,identity_label,"glacier",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0033601,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-145.417, -77.2333]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0034371,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-154.0, -77.4667]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0034371,identity_label,"glacier",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0041301,identity_label,"kmetstvo of Bulgaria",https://www.nsi.bg/nrnm/ekatte/town-halls
+LIBSRC-LIB34-ENT-GEO-0041301,location,"Ivaylovgrad",https://www.nsi.bg/nrnm/ekatte/territorial-units
+LIBSRC-LIB34-ENT-GEO-0041301,elevation,235000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0038221,location,"Goychay District",https://ms.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0038221,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [48.049624044, 40.61953649]}",https://opendata.az/@azerbaycan-respublikasinin-ekologiya-ve-tebii-servetler-nazirliyi/azerbaycanin-seherleri-ve-inzibati-erazi-vahidleri
+LIBSRC-LIB34-ENT-GEO-0046691,location,"Dvarec",https://pl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0046691,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [25.5812, 53.403]}",https://pl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0048231,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-123.55261, 48.48293]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0044381,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-98.10415, 23.60591]}",https://sh.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0044381,location,"Soto la Marina Municipality",https://sh.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0044381,elevation,27000.0,http://sh.wikipedia.com/
+LIBSRC-LIB34-ENT-GEO-0063631,elevation,116000.0,https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0063631,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [9.465277777, 52.199166666]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0080571,elevation,103000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0082111,location,"Canton of Mormoiron",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0082111,elevation,208000.0,https://ca.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0083651,location,"canton of Guillaumes",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0083651,elevation,2105000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0084421,elevation,215000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0082881,elevation,46000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0085961,location,"arrondissement of Lille",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0085961,elevation,29000.0,https://it.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0104441,identity_label,"visual artwork",https://museums.gov.il/he/items/Pages/ItemCard.aspx?IdItem=ICMS_IMJ_399392
+LIBSRC-LIB34-ENT-GEO-0101361,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [144.76444444, 13.47416667]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0108291,location,"Baghmundi community development block",http://censusindia.gov.in/pca/pcadata/DDW_PCA1914_2011_MDDS%20with%20UI.xlsx
+LIBSRC-LIB34-ENT-GEO-0107521,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [70.8, 21.97]}",https://fr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0107521,identity_label,"city",https://gu.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0107521,elevation,132000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0132161,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [49.4861, 34.26603]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0166041,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [139.673394444, 35.479177777]}",https://ja.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0166041,identity_label,"chōchō",https://www.city.yokohama.lg.jp/kurashi/koseki-zei-hoken/todokede/jukyo/jisshi/chomeiichiran.files/0031_20180709.pdf
+LIBSRC-LIB34-ENT-GEO-0179901,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [128.4325, 38.1325]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0185291,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [58.292826, 49.417229]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0185291,elevation,352000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0201461,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [21.52471969, 41.933498769]}",https://fr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0201461,elevation,240000.0,https://mk.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0215321,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-36.616666666, -54.283333333]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0215321,identity_label,"glacier",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0211471,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [11.19494, 60.02917]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0211471,location,"Sørum Municipality",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0211471,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0207621,elevation,15000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0231491,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [85.439444444, 56.728888888]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0229181,location,"Novovilgovskoye rural settlement",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0229181,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [34.151111111, 61.810555555]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0236671,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [14.901389, 45.851667]}",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0236671,elevation,272100.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0295191,location,"Tutak",https://tr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0295961,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [39.23333, 41.05]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0295961,elevation,12000.0,https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0295961,identity_label,"river",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0305201,identity_label,"archaeological site",https://ru.wikivoyage.org/
+LIBSRC-LIB34-ENT-GEO-0307511,identity_label,"painting",https://www.slam.org/collection/objects/36741/
+LIBSRC-LIB34-ENT-GEO-0298271,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [122.99107, 39.52811]}",https://zh.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0298271,location,"Zhuanghe",https://zh.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0317521,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-80.82, 40.10888889]}",https://simple.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0318291,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-70.7297, 42.1444]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0318291,location,"Plymouth County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0318291,elevation,39000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0319831,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-89.1661, 43.4022]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0319831,location,"Otsego",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0319831,elevation,288950.9688,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0310591,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-83.2283, 36.7839]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0310591,elevation,402336.792,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0310591,location,"Harlan County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0324451,identity_label,"lake",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0324451,location,"Georgia",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0326661,identity_label,"glacier",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0326661,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-67.0, -67.1833]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0328201,identity_label,"human settlement",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0328201,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-96.411944444, 34.878055555]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0328201,location,"Oklahoma",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0322141,location,"Summit County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0322141,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-81.6331, 40.9233]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0322141,elevation,289000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0335901,identity_label,"district-level town of Vietnam",https://vi.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0335901,elevation,1000.0,https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0335901,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [105.09029, 10.67875]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0335901,location,"An Giang",https://danhmuchanhchinh.nso.gov.vn/
+LIBSRC-LIB35-ENT-GAZ-2514467,identity_label,"impact crater",https://en.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2524429,elevation,178000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0014891,elevation,1719000.0,https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0026441,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [65.87869, 34.63893]}",https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0308281,location,"Buffalo County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0308281,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-91.7758, 44.5272]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0308281,identity_label,"ghost town",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0308281,elevation,292913.3766,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0028751,identity_label,"river",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0033371,identity_label,"glacier",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0033371,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-125.3, -73.3]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0031061,identity_label,"female given name",https://www.apc.gov.tw/portal/getfile?source=2D838540F5D6F659FAFB9859EF31AC3B381A272F479D65D98D902DFAAFC2E154BE103991618406210EC701BB170CBF4A37883E5F77EDFDDB3B91B9DF71659F0C&filename=6650D72E0C971224FD13DC6FE0061FAD02D1DE3DCEB210BC
+LIBSRC-LIB34-ENT-GEO-0034911,identity_label,"glacier",https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0035681,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [13.925, 46.577777777]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0035681,location,"Villach",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0035681,identity_label,"lake",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0037991,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [48.388146814, 39.008798873]}",https://opendata.az/@azerbaycan-respublikasinin-ekologiya-ve-tebii-servetler-nazirliyi/azerbaycanin-seherleri-ve-inzibati-erazi-vahidleri
+LIBSRC-LIB34-ENT-GEO-0044151,elevation,305000.0,https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0048771,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-129.62049, 55.63287]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0036451,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [148.715277777, -20.268055555]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0046461,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [27.942277777, 53.5715]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0050311,elevation,3328000.0,https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0059551,identity_label,"stream",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0059551,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-72.45139, 7.56528]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0063401,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [10.0833, 49.1667]}",https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0063401,location,"Baden-Württemberg",https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0068021,identity_label,"family name",https://www2.census.gov/topics/genealogy/2010surnames/names.zip
+LIBSRC-LIB34-ENT-GEO-0074951,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-1.07917, 42.59754]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0078031,identity_label,"Wikimedia disambiguation page",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0080341,elevation,2260000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0081111,elevation,1062000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB34-ENT-GEO-0081111,location,"canton of Pradelles",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0082651,elevation,3000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0082651,location,"canton of Douvres-la-Délivrande",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0081881,location,"canton of Aubeterre-sur-Dronne",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0081881,elevation,62000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0083421,elevation,240000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0083421,location,"canton of Montiers-sur-Saulx",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0084191,location,"canton of Pouancé",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0084191,elevation,52000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0107291,location,"Patna district",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0107291,elevation,55000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0107291,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [85.05, 25.58]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0141171,identity_label,"village",https://fa.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0141171,location,"Kheyrgu Rural District",https://fa.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0141171,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [53.2839, 27.5028]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0151181,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [51.9592, 28.2783]}",https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0160421,location,"Matera",http://wikilovesmonuments.wikimedia.it/
+LIBSRC-LIB34-ENT-GEO-0165811,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [127.941222222, 26.928333333]}",https://ja.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0167351,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [136.256416666, 35.282916666]}",https://geoshape.ex.nii.ac.jp/city/resource/25B0060007.html
+LIBSRC-LIB34-ENT-GEO-0193531,location,"Aukštelkai eldership",https://lt.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0203541,location,"Othón P. Blanco Municipality",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0203541,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-88.297898888, 18.493889444]}",https://www.inegi.org.mx/app/scitel/Default?ev=9
+LIBSRC-LIB34-ENT-GEO-0203541,elevation,2000.0,https://www.inegi.org.mx/app/scitel/Default?ev=9
+LIBSRC-LIB34-ENT-GEO-0211241,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0211241,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [11.20611, 60.30572]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0211241,location,"Eidsvoll Municipality",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0212781,location,"Voss Municipality",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0212781,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [6.84536, 60.69781]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0212781,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0214321,identity_label,"glacier",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0214321,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [7.58181, 61.84071]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0215861,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [171.529, -42.891]}",https://gazetteer.linz.govt.nz/place/38755
+LIBSRC-LIB34-ENT-GEO-0215861,identity_label,"glacier",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0225101,elevation,124000.0,https://fr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0225101,location,"Central Department",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0225101,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-57.42, -25.35]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0213551,location,"Vennesla",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0213551,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [7.96754, 58.3018]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0213551,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0226641,location,"Vaslui County",https://ro.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0226641,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [27.666666666, 46.216666666]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0226641,elevation,100000.0,https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0226641,identity_label,"municipality of Romania",https://ro.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0227411,location,"Prokuplje City",http://www.rgz.gov.rs/upload/web/Spisak%20KO-20150521.zip
+LIBSRC-LIB34-ENT-GEO-0227411,identity_label,"cadastral municipality of Serbia",http://www.rgz.gov.rs/upload/web/Spisak%20KO-20150521.zip
+LIBSRC-LIB34-ENT-GEO-0227411,elevation,870000.0,https://sr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0227411,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [21.5333, 43.1447]}",https://fr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0238751,location,"Guédiawaye Department",https://fr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0295731,elevation,120000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0295731,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [32.93333333, 36.15]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0295731,location,"Bozyazı district",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0295731,identity_label,"mahalle",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0304201,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [32.5274, 52.1071]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0304201,identity_label,"stream",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0307281,location,"Mukono District",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0296501,location,"Çekerek",https://tr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0308051,elevation,203911.60139999999,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0308051,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-82.4333, 38.0756]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0308051,location,"Wayne County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0308821,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-76.5664, 38.725]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0308821,identity_label,"building",https://mht.maryland.gov/nr/NRDetail.aspx?NRID=59
+LIBSRC-LIB34-ENT-GEO-0308821,location,"Anne Arundel County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0310361,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-97.003055555, 37.075]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0310361,elevation,348000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0310361,location,"Cowley County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0321141,elevation,86000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0321141,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-73.8097, 42.9144]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0321141,location,"Saratoga County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0320371,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-79.62, 43.52]}",https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0320371,elevation,93000.0,https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0319601,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-89.9361, 42.8761]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0319601,elevation,271000.0,https://en.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2511807,identity_label,"mountain ridge",https://ceb.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2511807,elevation,910000.0,https://ceb.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2511807,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [5.1937, 44.9354]}",https://ceb.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2517443,identity_label,"Wikimedia disambiguation page",https://fr.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2514221,location,"canton of Mauléon-Barousse",https://nl.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2514221,elevation,680000.0,https://data.geopf.fr/telechargement/download/GEOFLA/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28/GEOFLA_2-2_COMMUNE_SHP_LAMB93_FXX_2016-06-28.7z
+LIBSRC-LIB35-ENT-GAZ-2518247,elevation,463000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2518247,location,"arrondissement of Vichy",https://www.prefectures-regions.gouv.fr/auvergne-rhone-alpes/irecontenu/telechargement/112588/843056/file/3janvier2023_n°-2_recueil-84-2024-002-recueil-des-actes-administratifs-special.pdf
+LIBSRC-LIB35-ENT-GAZ-2526585,identity_label,"human",https://en.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2527385,identity_label,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=27380
+LIBSRC-LIB34-ENT-GEO-0002961,elevation,426000.0,https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0015431,elevation,2629000.0,https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0016971,elevation,3328000.0,https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0017741,elevation,2421000.0,https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0021591,elevation,3055000.0,https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0023901,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [70.7422, 36.6635]}",https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0031601,identity_label,"film",https://fa.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0033141,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-151.433, -85.6]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0033141,identity_label,"glacier",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0039301,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [46.908359646, 40.10328147]}",https://opendata.az/@azerbaycan-respublikasinin-ekologiya-ve-tebii-servetler-nazirliyi/azerbaycanin-seherleri-ve-inzibati-erazi-vahidleri
+LIBSRC-LIB34-ENT-GEO-0040071,location,"Stichtse Vecht",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0040071,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [4.9844, 52.1572]}",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0040071,identity_label,"buurtschap",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0034681,identity_label,"Antarctic research station",https://www.comnap.aq/Members/SitePages/Home.aspx
+LIBSRC-LIB34-ENT-GEO-0034681,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [62.873215, -67.599971]}",https://data.gov.au/dataset/57720684-4948-45db-a2c8-37259d531d87
+LIBSRC-LIB34-ENT-GEO-0034681,location,"Antarctic Treaty area",https://www.comnap.aq/Members/SitePages/Home.aspx
+LIBSRC-LIB34-ENT-GEO-0034681,elevation,15000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0038531,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [46.675870076, 40.060405106]}",https://opendata.az/@azerbaycan-respublikasinin-ekologiya-ve-tebii-servetler-nazirliyi/azerbaycanin-seherleri-ve-inzibati-erazi-vahidleri
+LIBSRC-LIB34-ENT-GEO-0040841,identity_label,"village of Bulgaria",https://bg.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0040841,location,"Kirkovo",https://www.nsi.bg/nrnm/ekatte/territorial-units
+LIBSRC-LIB34-ENT-GEO-0040841,elevation,377000.0,https://uk.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0041611,elevation,324000.0,https://uk.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0041611,location,"Sungurlare",https://www.nsi.bg/nrnm/ekatte/territorial-units
+LIBSRC-LIB34-ENT-GEO-0041611,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [26.7, 42.833333333]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0041611,identity_label,"village of Bulgaria",https://www.nsi.bg/nrnm/ekatte/territorial-units
+LIBSRC-LIB34-ENT-GEO-0043921,elevation,125000.0,https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0047771,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-125.35309, 51.383]}",https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0048541,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-117.9023, 51.67161]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0054701,location,"Datong Town",https://zh.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0056241,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [123.45, 40.35]}",https://pl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0053161,identity_label,"Wikimedia disambiguation page",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0063171,elevation,358000.0,https://cs.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0063171,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [13.317777777, 48.5225]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0070871,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [25.0, 24.0]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0080111,elevation,100000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0081651,identity_label,"Wikimedia disambiguation page",https://fr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0084731,location,"canton of Amou",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0084731,elevation,35000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0062401,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [9.18083333, 47.88527778]}",https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0062401,elevation,638000.0,https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0085501,elevation,547000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0088581,identity_label,"small burgh",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0088581,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-3.054166666, 55.941944444]}",https://maps.nls.uk/geo/explore/#zoom=14&lat=55.9426&lon=-3.0376&layers=1&b=1
+LIBSRC-LIB34-ENT-GEO-0114761,identity_label,"mountain",https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0114761,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [44.94041, 36.71071]}",https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0130931,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [49.3987, 35.923]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0146331,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [58.5142, 28.2783]}",https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0150181,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [54.79, 31.4694]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0177901,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [126.02139, 37.11444]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0201771,location,"N'Tjiba",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0201771,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-8.337777777, 13.138888888]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0201771,elevation,337000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0201001,location,"Betioky District",https://fr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0201001,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [44.3333, -23.5167]}",https://fr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0201001,elevation,88000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0207931,elevation,30000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0208701,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [6.16168, 52.18665]}",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0208701,location,"Voorst",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0213321,location,"Tranøy Municipality",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0213321,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [17.53522, 69.25028]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0213321,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0211781,location,"Bø Municipality",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0211781,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0211781,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [9.02511, 59.42465]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0216401,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [168.832, -44.353]}",https://gazetteer.linz.govt.nz/place/5820
+LIBSRC-LIB34-ENT-GEO-0214091,location,"Grong Municipality",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0214091,identity_label,"waterfall",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0214091,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [12.55331, 64.40064]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0229491,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [36.881388888, 55.856666666]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0229491,identity_label,"railway station",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0235441,identity_label,"river",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0235441,elevation,42000.0,https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0295501,location,"Hendek district",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0295501,identity_label,"mahalle",https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
+LIBSRC-LIB34-ENT-GEO-0300891,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [108.76176, 29.66125]}",https://zh.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0304741,elevation,144000.0,https://uk.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0304741,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [38.0425, 47.557222222]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0304741,location,"Starobesheve Raion",https://uk.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0303201,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [33.608209032, 47.715699395]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0303201,location,"Kryvyi Rih Raion",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0303201,elevation,97000.0,https://uk.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0308591,identity_label,"painting",https://artuk.org/discover/artworks/baldwin-149961
+LIBSRC-LIB34-ENT-GEO-0309361,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-84.47883, 36.88119]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0313981,elevation,8000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0313981,location,"Jefferson County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0313981,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-94.2683, 30.1517]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0315521,elevation,50901.7002,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0315521,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-74.24638889, 40.31527778]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0315521,location,"Marlboro",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0317061,location,"Pottawattamie County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0317061,elevation,379000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0317061,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-95.68389, 41.32889]}",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0316291,identity_label,"stream",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0310901,identity_label,"stream",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0317831,elevation,2061976.0590000001,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0317831,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-110.765, 40.4042]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0317831,location,"Duchesne County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0323991,elevation,205000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0323991,location,"Fresno County",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0323991,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-120.360277777, 36.139722222]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0326971,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-125.6529, 49.4829]}",https://ceb.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2510760,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [2.69458, 42.427344]}",https://www.feec.cat/activitats/100-cims/cim/roc-de-sant-salvador/
+LIBSRC-LIB35-ENT-GAZ-2510760,identity_label,"mountain",https://www.feec.cat/activitats/100-cims/cim/roc-de-sant-salvador/
+LIBSRC-LIB35-ENT-GAZ-2513173,identity_label,"family name",https://www2.census.gov/topics/genealogy/2010surnames/names.zip
+LIBSRC-LIB35-ENT-GAZ-2514792,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [2.07888889, 49.44166667]}",https://de.wikipedia.org/
+LIBSRC-LIB35-ENT-GAZ-2523954,identity_label,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=60609
+LIBSRC-LIB35-ENT-GAZ-2534302,elevation,701000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB35-ENT-GAZ-2534302,location,"canton of Luc-en-Diois",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0013661,elevation,2132000.0,https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0013661,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [64.0714, 35.11113]}",https://sv.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0029061,elevation,2027000.0,https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0029061,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [45.801111, 40.156667]}",https://fr.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0033681,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [161.48333333, -77.68333333]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0032911,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-73.75, -71.53333333]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0034451,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [10.45, -71.7667]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0034451,identity_label,"glacier",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0038301,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [48.900624803, 40.223209519]}",https://opendata.az/@azerbaycan-respublikasinin-ekologiya-ve-tebii-servetler-nazirliyi/azerbaycanin-seherleri-ve-inzibati-erazi-vahidleri
+LIBSRC-LIB34-ENT-GEO-0035991,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [13.9031, 46.5466]}",https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0035991,identity_label,"ruins",https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=at&srlanguage=de&srid=34249
+LIBSRC-LIB34-ENT-GEO-0035991,location,"Finkenstein am Faaker See",https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=at&srlanguage=de&srid=34249
+LIBSRC-LIB34-ENT-GEO-0041381,identity_label,"village of Bulgaria",https://www.nsi.bg/nrnm/ekatte/territorial-units
+LIBSRC-LIB34-ENT-GEO-0041381,location,"Tsar Kaloyan",https://www.nsi.bg/nrnm/ekatte/territorial-units
+LIBSRC-LIB34-ENT-GEO-0043691,location,"Grão Mogol",https://ipatrimonio.org/grao-mogol-cachoeira-do-inferno
+LIBSRC-LIB34-ENT-GEO-0043691,identity_label,"waterfall",https://ipatrimonio.org/grao-mogol-cachoeira-do-inferno
+LIBSRC-LIB34-ENT-GEO-0325431,location,"Eloxochitlán Municipality",https://sh.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0325431,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-96.9091, 18.51824]}",http://sh.wikipedia.com/
+LIBSRC-LIB34-ENT-GEO-0325431,elevation,793000.0,https://sh.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0048311,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [-77.1506, 79.6239]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0048311,identity_label,"glacier",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0048311,location,"Nunavut",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0051391,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [8.80056, 49.39]}",https://de.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0062171,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [12.433262, 52.397706]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0062171,identity_label,"lake",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0053701,location,"Zhejiang",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0053701,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [122.86944, 30.16222]}",https://ceb.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0063711,identity_label,"watercolor painting",https://commons.wikimedia.org/
+LIBSRC-LIB34-ENT-GEO-0062941,elevation,107000.0,https://it.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0062941,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [8.656388888, 49.590277777]}",https://ru.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0077571,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [39.0167, 14.2833]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0077571,elevation,2120000.0,https://www.geonames.org/326022/
+LIBSRC-LIB34-ENT-GEO-0079881,elevation,652000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0082961,identity_label,"commune of France",http://cassini.ehess.fr/fr/html/fiche.php?select_resultat=2900
+LIBSRC-LIB34-ENT-GEO-0085271,location,"canton of Peyriac-Minervois",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0085271,elevation,120000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0084501,elevation,329000.0,https://wxs-telechargement.ign.fr/83edtfdyqte031y0ra49d2e3/telechargement/inspire/RGC-2015-01$RGC2015/file/RGC2015.7z
+LIBSRC-LIB34-ENT-GEO-0084501,location,"canton of Oloron-Sainte-Marie-Est",https://nl.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0108371,geometry_with_crs,"{""crs"": {""type"": ""name"", ""properties"": {""name"": ""EPSG:4326""}}, ""type"": ""Point"", ""coordinates"": [80.2592, 12.9495]}",https://en.wikipedia.org/
+LIBSRC-LIB34-ENT-GEO-0108371,location,"Chennai",https://en.wikipedia.org/
