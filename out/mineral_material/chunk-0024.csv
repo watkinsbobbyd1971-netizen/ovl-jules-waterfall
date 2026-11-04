@@ -1,0 +1,663 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13789-REC2757721,descriptive_identity,"""Hair pin""",https://collectionapi.metmuseum.org/public/collection/v1/objects/546610
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13789-REC2757721,material_identity,"""Ivory""",https://collectionapi.metmuseum.org/public/collection/v1/objects/546610
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP14516-REC2903181,descriptive_identity,"""Brooch""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP14516-REC2903181,material_identity,"""Emerald, diamonds, platinum""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14556-REC2911041,descriptive_identity,"""Brooch""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14556-REC2911041,material_identity,"""Emerald, diamonds, platinum""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13336-REC2667071,descriptive_identity,"""Brooch""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13336-REC2667071,material_identity,"""Emerald, diamonds, platinum""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13400-REC2679811,descriptive_identity,"""Brooch""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13400-REC2679811,material_identity,"""Emerald, diamonds, platinum""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14935-REC2986971,descriptive_identity,"""Brooch""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14935-REC2986971,material_identity,"""Emerald, diamonds, platinum""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15067-REC3013291,descriptive_identity,"""Brooch""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15067-REC3013291,material_identity,"""Emerald, diamonds, platinum""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15438-REC3087561,descriptive_identity,"""Leather""",https://clevelandart.org/art/1934.241
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15438-REC3087561,material_identity,"""Native-tanned hide, glass beads, cotton thread""",https://clevelandart.org/art/1934.241
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15438-REC3087561,descriptive_identity,"""Awl""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323705
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15438-REC3087561,material_identity,"""Copper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323705
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15517-REC3103381,descriptive_identity,"""Doll""",https://collectionapi.metmuseum.org/public/collection/v1/objects/156488
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15517-REC3103381,material_identity,"""silk""",https://collectionapi.metmuseum.org/public/collection/v1/objects/156488
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15697-REC3139361,descriptive_identity,"""Box""",https://collectionapi.metmuseum.org/public/collection/v1/objects/200435
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15697-REC3139361,material_identity,"""Gold""",https://collectionapi.metmuseum.org/public/collection/v1/objects/200435
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15814-REC3162741,descriptive_identity,"""Dress""",https://collectionapi.metmuseum.org/public/collection/v1/objects/317736
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15814-REC3162741,material_identity,"""Camelid hair""",https://collectionapi.metmuseum.org/public/collection/v1/objects/317736
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16189-REC3237781,descriptive_identity,"""Photograph""",https://collectionapi.metmuseum.org/public/collection/v1/objects/288842
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16189-REC3237781,material_identity,"""Albumen silver print from glass negative""",https://collectionapi.metmuseum.org/public/collection/v1/objects/288842
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15671-REC3134111,descriptive_identity,"""Photograph""",https://collectionapi.metmuseum.org/public/collection/v1/objects/288842
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15671-REC3134111,material_identity,"""Albumen silver print from glass negative""",https://collectionapi.metmuseum.org/public/collection/v1/objects/288842
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16472-REC3294201,descriptive_identity,"""Glass fragments""",https://collectionapi.metmuseum.org/public/collection/v1/objects/776267
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16472-REC3294201,material_identity,"""Glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/776267
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15517-REC3103381,descriptive_identity,"""Painting""",https://clevelandart.org/art/1994.3
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15517-REC3103381,material_identity,"""oil on canvas""",https://clevelandart.org/art/1994.3
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP12780-REC2555981,descriptive_identity,"""Frieze""",https://collectionapi.metmuseum.org/public/collection/v1/objects/3838
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP12780-REC2555981,material_identity,"""Terracotta""",https://collectionapi.metmuseum.org/public/collection/v1/objects/3838
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP12939-REC2587601,descriptive_identity,"""Frieze""",https://collectionapi.metmuseum.org/public/collection/v1/objects/3838
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP12939-REC2587601,material_identity,"""Terracotta""",https://collectionapi.metmuseum.org/public/collection/v1/objects/3838
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP12962-REC2592361,descriptive_identity,"""Frieze""",https://collectionapi.metmuseum.org/public/collection/v1/objects/3838
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP12962-REC2592361,material_identity,"""Terracotta""",https://collectionapi.metmuseum.org/public/collection/v1/objects/3838
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP12912-REC2582321,descriptive_identity,"""Frieze""",https://collectionapi.metmuseum.org/public/collection/v1/objects/3838
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP12912-REC2582321,material_identity,"""Terracotta""",https://collectionapi.metmuseum.org/public/collection/v1/objects/3838
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15697-REC3139361,descriptive_identity,"""Tools and Equipment""",https://clevelandart.org/art/1914.680
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15697-REC3139361,material_identity,"""boxwood with inscription inlaid in Egyptian blue""",https://clevelandart.org/art/1914.680
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15814-REC3162741,descriptive_identity,"""Garment""",https://clevelandart.org/art/1916.1467
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15814-REC3162741,material_identity,"""silk embellished with mirror work and embroidered with silk in open-chain, stem, basket, and running stitch""",https://clevelandart.org/art/1916.1467
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16491-REC3298121,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1978.25
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16491-REC3298121,material_identity,"""gold and glass""",https://clevelandart.org/art/1978.25
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP12928-REC2585521,descriptive_identity,"""Drawing""",https://collectionapi.metmuseum.org/public/collection/v1/objects/335407
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP12928-REC2585521,material_identity,"""Pen and black ink and  brush with brown, yellow, green, black, gray, gold, and red watercolors.""",https://collectionapi.metmuseum.org/public/collection/v1/objects/335407
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13023-REC2604421,descriptive_identity,"""Fragments""",https://collectionapi.metmuseum.org/public/collection/v1/objects/450924
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13023-REC2604421,material_identity,"""Glass, colorless; cut""",https://collectionapi.metmuseum.org/public/collection/v1/objects/450924
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP13002-REC2600201,descriptive_identity,"""Fragments""",https://collectionapi.metmuseum.org/public/collection/v1/objects/450924
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP13002-REC2600201,material_identity,"""Glass, colorless; cut""",https://collectionapi.metmuseum.org/public/collection/v1/objects/450924
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP12813-REC2562491,descriptive_identity,"""Fragments""",https://collectionapi.metmuseum.org/public/collection/v1/objects/450924
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP12813-REC2562491,material_identity,"""Glass, colorless; cut""",https://collectionapi.metmuseum.org/public/collection/v1/objects/450924
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13228-REC2645441,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13228-REC2645441,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13329-REC2665601,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13329-REC2665601,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13417-REC2683241,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13417-REC2683241,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP14470-REC2893801,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP14470-REC2893801,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP14531-REC2906121,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP14531-REC2906121,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP14850-REC2969821,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP14850-REC2969821,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP14954-REC2990681,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP14954-REC2990681,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP14958-REC2991521,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP14958-REC2991521,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15016-REC3003001,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15016-REC3003001,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15046-REC3009161,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15046-REC3009161,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP13455-REC2690921,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP13455-REC2690921,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP14137-REC2827281,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP14137-REC2827281,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP14178-REC2835401,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP14178-REC2835401,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP14278-REC2855421,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP14278-REC2855421,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP14396-REC2879081,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP14396-REC2879081,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP14777-REC2955241,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP14777-REC2955241,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP13251-REC2650161,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP13251-REC2650161,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP14282-REC2856241,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP14282-REC2856241,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP14453-REC2890541,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP14453-REC2890541,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP15139-REC3027601,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP15139-REC3027601,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP13423-REC2684581,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP13423-REC2684581,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP13456-REC2691021,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP13456-REC2691021,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP13531-REC2706141,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP13531-REC2706141,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP13729-REC2745621,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP13729-REC2745621,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP13841-REC2768021,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP13841-REC2768021,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP13947-REC2789301,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP13947-REC2789301,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP13984-REC2796721,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP13984-REC2796721,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP14903-REC2980541,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP14903-REC2980541,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP13553-REC2710461,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP13553-REC2710461,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP13754-REC2750641,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP13754-REC2750641,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP13916-REC2783121,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP13916-REC2783121,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP14159-REC2831701,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP14159-REC2831701,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP14246-REC2849061,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP14246-REC2849061,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP14518-REC2903521,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP14518-REC2903521,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP14893-REC2978421,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP14893-REC2978421,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP13578-REC2715481,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP13578-REC2715481,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP13748-REC2749501,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP13748-REC2749501,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP13783-REC2756501,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP13783-REC2756501,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP14128-REC2825521,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP14128-REC2825521,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP14491-REC2898041,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP14491-REC2898041,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP14713-REC2942421,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP14713-REC2942421,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP14861-REC2972101,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP14861-REC2972101,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13689-REC2737721,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13689-REC2737721,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13852-REC2770341,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13852-REC2770341,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13978-REC2795541,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP13978-REC2795541,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14067-REC2813321,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14067-REC2813321,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14107-REC2821301,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14107-REC2821301,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14400-REC2879821,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14400-REC2879821,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14491-REC2898021,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14491-REC2898021,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14738-REC2947581,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14738-REC2947581,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14977-REC2995321,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14977-REC2995321,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13211-REC2642151,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13211-REC2642151,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13261-REC2652091,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13261-REC2652091,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13304-REC2660631,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13304-REC2660631,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13345-REC2668891,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13345-REC2668891,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13455-REC2690871,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13455-REC2690871,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13469-REC2693671,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13469-REC2693671,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13474-REC2694791,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13474-REC2694791,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13857-REC2771231,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13857-REC2771231,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13978-REC2795451,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13978-REC2795451,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14221-REC2844171,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14221-REC2844171,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14232-REC2846271,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14232-REC2846271,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14342-REC2868391,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14342-REC2868391,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14375-REC2874831,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14375-REC2874831,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14462-REC2892331,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14462-REC2892331,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14556-REC2911091,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14556-REC2911091,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14557-REC2911371,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14557-REC2911371,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14583-REC2916411,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14583-REC2916411,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14653-REC2930411,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14653-REC2930411,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14678-REC2935591,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14678-REC2935591,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14907-REC2981371,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14907-REC2981371,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14974-REC2994671,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14974-REC2994671,material_identity,"""bronze""",https://clevelandart.org/art/1987.195
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13789-REC2757721,descriptive_identity,"""Hair pin""",https://collectionapi.metmuseum.org/public/collection/v1/objects/546610
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13789-REC2757721,material_identity,"""Ivory""",https://collectionapi.metmuseum.org/public/collection/v1/objects/546610
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP14516-REC2903181,descriptive_identity,"""Brooch""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP14516-REC2903181,material_identity,"""Emerald, diamonds, platinum""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14556-REC2911041,descriptive_identity,"""Brooch""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP14556-REC2911041,material_identity,"""Emerald, diamonds, platinum""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13336-REC2667071,descriptive_identity,"""Brooch""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13336-REC2667071,material_identity,"""Emerald, diamonds, platinum""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13400-REC2679811,descriptive_identity,"""Brooch""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13400-REC2679811,material_identity,"""Emerald, diamonds, platinum""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14935-REC2986971,descriptive_identity,"""Brooch""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14935-REC2986971,material_identity,"""Emerald, diamonds, platinum""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15067-REC3013291,descriptive_identity,"""Brooch""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15067-REC3013291,material_identity,"""Emerald, diamonds, platinum""",https://collectionapi.metmuseum.org/public/collection/v1/objects/1025
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15178-REC3035481,descriptive_identity,"""Man's hat""",https://collectionapi.metmuseum.org/public/collection/v1/objects/70995
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15178-REC3035481,material_identity,"""Horsehair and cow tail hair""",https://collectionapi.metmuseum.org/public/collection/v1/objects/70995
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15352-REC3070341,descriptive_identity,"""Headdress part""",https://collectionapi.metmuseum.org/public/collection/v1/objects/216380
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15352-REC3070341,material_identity,"""Muslin and silk thread; bobbin lace""",https://collectionapi.metmuseum.org/public/collection/v1/objects/216380
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15377-REC3075381,descriptive_identity,"""Poncho""",https://collectionapi.metmuseum.org/public/collection/v1/objects/815003
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15377-REC3075381,material_identity,"""Camelid fiber, dyes""",https://collectionapi.metmuseum.org/public/collection/v1/objects/815003
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15395-REC3078881,descriptive_identity,"""Book""",https://collectionapi.metmuseum.org/public/collection/v1/objects/345354
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15604-REC3120601,descriptive_identity,"""Book""",https://collectionapi.metmuseum.org/public/collection/v1/objects/345354
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP18534-REC3706641,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP18534-REC3706641,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP18116-REC3623021,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP18116-REC3623021,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP17834-REC3566701,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP17834-REC3566701,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16509-REC3301691,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16509-REC3301691,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15412-REC3082241,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15412-REC3082241,material_identity,"""glass""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15667-REC3133341,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15667-REC3133341,material_identity,"""glass""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP16329-REC3265621,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP16329-REC3265621,material_identity,"""glass""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP13038-REC2607461,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP13038-REC2607461,material_identity,"""glass""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP15511-REC3102081,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP15511-REC3102081,material_identity,"""glass""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP16291-REC3258041,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP16291-REC3258041,material_identity,"""glass""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16304-REC3260641,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16304-REC3260641,material_identity,"""glass""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15275-REC3054821,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15275-REC3054821,material_identity,"""glass""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13051-REC2610091,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13051-REC2610091,material_identity,"""glass""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15608-REC3121511,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15608-REC3121511,material_identity,"""glass""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15691-REC3138171,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15691-REC3138171,material_identity,"""glass""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15793-REC3158471,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15793-REC3158471,material_identity,"""glass""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15801-REC3160011,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15801-REC3160011,material_identity,"""glass""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16239-REC3247651,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16239-REC3247651,material_identity,"""glass""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15438-REC3087561,descriptive_identity,"""Leather""",https://clevelandart.org/art/1934.241
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15438-REC3087561,material_identity,"""Native-tanned hide, glass beads, cotton thread""",https://clevelandart.org/art/1934.241
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15517-REC3103381,descriptive_identity,"""Painting""",https://clevelandart.org/art/1994.3
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15517-REC3103381,material_identity,"""oil on canvas""",https://clevelandart.org/art/1994.3
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15697-REC3139361,descriptive_identity,"""Tools and Equipment""",https://clevelandart.org/art/1914.680
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15697-REC3139361,material_identity,"""boxwood with inscription inlaid in Egyptian blue""",https://clevelandart.org/art/1914.680
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15709-REC3141741,descriptive_identity,"""Textile""",https://clevelandart.org/art/2022.256
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15709-REC3141741,material_identity,"""Goatskin, grass, glass beads""",https://clevelandart.org/art/2022.256
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15820-REC3163861,descriptive_identity,"""Miscellaneous""",https://clevelandart.org/art/2003.44
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP15820-REC3163861,material_identity,"""wood with carved base""",https://clevelandart.org/art/2003.44
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15669-REC3133701,material_identity,"""4 watercolor on ivory lover\u2019s eyes set in gold cases and attached to a gold and hairwork chain""",https://collectionapi.metmuseum.org/public/collection/v1/objects/19575
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16000-REC3199841,descriptive_identity,"""Woodblock print""",https://collectionapi.metmuseum.org/public/collection/v1/objects/54502
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16000-REC3199841,material_identity,"""Woodblock print (surimono); ink and color on paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/54502
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP15310-REC3061921,descriptive_identity,"""Woodblock print""",https://collectionapi.metmuseum.org/public/collection/v1/objects/54502
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP15310-REC3061921,material_identity,"""Woodblock print (surimono); ink and color on paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/54502
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP15834-REC3166721,descriptive_identity,"""Woodblock print""",https://collectionapi.metmuseum.org/public/collection/v1/objects/54502
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP15834-REC3166721,material_identity,"""Woodblock print (surimono); ink and color on paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/54502
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15347-REC3069261,descriptive_identity,"""Woodblock print""",https://collectionapi.metmuseum.org/public/collection/v1/objects/54502
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15347-REC3069261,material_identity,"""Woodblock print (surimono); ink and color on paper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/54502
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15969-REC3193621,descriptive_identity,"""Cooking vessel""",https://collectionapi.metmuseum.org/public/collection/v1/objects/53557
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15969-REC3193621,material_identity,"""Bronze""",https://collectionapi.metmuseum.org/public/collection/v1/objects/53557
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16189-REC3237781,descriptive_identity,"""Photograph""",https://collectionapi.metmuseum.org/public/collection/v1/objects/288842
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16189-REC3237781,material_identity,"""Albumen silver print from glass negative""",https://collectionapi.metmuseum.org/public/collection/v1/objects/288842
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15671-REC3134111,descriptive_identity,"""Photograph""",https://collectionapi.metmuseum.org/public/collection/v1/objects/288842
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15671-REC3134111,material_identity,"""Albumen silver print from glass negative""",https://collectionapi.metmuseum.org/public/collection/v1/objects/288842
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP18215-REC3642801,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1945.124
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP18215-REC3642801,material_identity,"""gray volcanic stone""",https://clevelandart.org/art/1945.124
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16267-REC3253321,descriptive_identity,"""Spindle Whorl""",https://clevelandart.org/art/1961.352
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16267-REC3253321,material_identity,"""bone, incised""",https://clevelandart.org/art/1961.352
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP15624-REC3124781,descriptive_identity,"""Spindle Whorl""",https://clevelandart.org/art/1961.352
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP15624-REC3124781,material_identity,"""bone, incised""",https://clevelandart.org/art/1961.352
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP15373-REC3074501,descriptive_identity,"""Spindle Whorl""",https://clevelandart.org/art/1961.352
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP15373-REC3074501,material_identity,"""bone, incised""",https://clevelandart.org/art/1961.352
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16491-REC3298121,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1978.25
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16491-REC3298121,material_identity,"""gold and glass""",https://clevelandart.org/art/1978.25
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP16466-REC3293001,descriptive_identity,"""Metate fragment""",https://collectionapi.metmuseum.org/public/collection/v1/objects/318229
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP16466-REC3293001,material_identity,"""Stone""",https://collectionapi.metmuseum.org/public/collection/v1/objects/318229
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP12922-REC2584381,descriptive_identity,"""Painting""",https://clevelandart.org/art/1963.252
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP12922-REC2584381,material_identity,"""fresco on wall fragment""",https://clevelandart.org/art/1963.252
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP12876-REC2575121,descriptive_identity,"""Painting""",https://clevelandart.org/art/1963.252
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP12876-REC2575121,material_identity,"""fresco on wall fragment""",https://clevelandart.org/art/1963.252
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP12991-REC2598041,descriptive_identity,"""Painting""",https://clevelandart.org/art/1963.252
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP12991-REC2598041,material_identity,"""fresco on wall fragment""",https://clevelandart.org/art/1963.252
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP12911-REC2582061,descriptive_identity,"""Painting""",https://clevelandart.org/art/1963.252
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP12911-REC2582061,material_identity,"""fresco on wall fragment""",https://clevelandart.org/art/1963.252
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP12948-REC2589461,descriptive_identity,"""Painting""",https://clevelandart.org/art/1963.252
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP12948-REC2589461,material_identity,"""fresco on wall fragment""",https://clevelandart.org/art/1963.252
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP12810-REC2561931,descriptive_identity,"""Painting""",https://clevelandart.org/art/1963.252
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP12810-REC2561931,material_identity,"""fresco on wall fragment""",https://clevelandart.org/art/1963.252
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP14521-REC2904141,descriptive_identity,"""chemical element""",https://www.wikidata.org/wiki/Q1090
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP15624-REC3124781,descriptive_identity,"""Spindle Whorl""",https://clevelandart.org/art/1961.352
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP15624-REC3124781,material_identity,"""bone, incised""",https://clevelandart.org/art/1961.352
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15249-REC3049661,descriptive_identity,"""Blanket Strip""",https://collectionapi.metmuseum.org/public/collection/v1/objects/751523
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15249-REC3049661,material_identity,"""Tanned leather, glass beads, horsehair, porcupine quills, dye, wool cloth, and brass bells""",https://collectionapi.metmuseum.org/public/collection/v1/objects/751523
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15287-REC3057221,descriptive_identity,"""Whetstone""",https://collectionapi.metmuseum.org/public/collection/v1/objects/590423
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15287-REC3057221,material_identity,"""Grit stone (sandstone)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/590423
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15345-REC3068841,descriptive_identity,"""Spoon""",https://collectionapi.metmuseum.org/public/collection/v1/objects/7828
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15345-REC3068841,material_identity,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/7828
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16797-REC3359201,descriptive_identity,"""Knife fragment""",https://collectionapi.metmuseum.org/public/collection/v1/objects/251919
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16797-REC3359201,material_identity,"""Bronze""",https://collectionapi.metmuseum.org/public/collection/v1/objects/251919
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18750-REC3749801,descriptive_identity,"""Coin""",https://collectionapi.metmuseum.org/public/collection/v1/objects/457133
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18750-REC3749801,material_identity,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/457133
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18891-REC3778081,descriptive_identity,"""Textile fragment""",https://collectionapi.metmuseum.org/public/collection/v1/objects/448525
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18891-REC3778081,material_identity,"""Cotton, plain weave; mordant and resist dyed""",https://collectionapi.metmuseum.org/public/collection/v1/objects/448525
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP16092-REC3218301,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1951.444
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP16092-REC3218301,material_identity,"""bronze""",https://clevelandart.org/art/1951.444
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP18215-REC3642801,descriptive_identity,"""Stone""",https://clevelandart.org/art/1951.178
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP18215-REC3642801,material_identity,"""stone""",https://clevelandart.org/art/1951.178
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP18534-REC3706641,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP18534-REC3706641,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP18116-REC3623021,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP18116-REC3623021,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP17834-REC3566701,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP17834-REC3566701,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16509-REC3301691,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16509-REC3301691,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP18908-REC3781401,descriptive_identity,"""Body sherd, Aegean""",https://collectionapi.metmuseum.org/public/collection/v1/objects/556881
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP18908-REC3781401,material_identity,"""Pottery""",https://collectionapi.metmuseum.org/public/collection/v1/objects/556881
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP17966-REC3593041,descriptive_identity,"""Body sherd, Aegean""",https://collectionapi.metmuseum.org/public/collection/v1/objects/556881
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP17966-REC3593041,material_identity,"""Pottery""",https://collectionapi.metmuseum.org/public/collection/v1/objects/556881
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17507-REC3501301,descriptive_identity,"""Body sherd, Aegean""",https://collectionapi.metmuseum.org/public/collection/v1/objects/556881
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17507-REC3501301,material_identity,"""Pottery""",https://collectionapi.metmuseum.org/public/collection/v1/objects/556881
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16508-REC3301411,descriptive_identity,"""Body sherd, Aegean""",https://collectionapi.metmuseum.org/public/collection/v1/objects/556881
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16508-REC3301411,material_identity,"""Pottery""",https://collectionapi.metmuseum.org/public/collection/v1/objects/556881
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16697-REC3339351,descriptive_identity,"""Body sherd, Aegean""",https://collectionapi.metmuseum.org/public/collection/v1/objects/556881
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16697-REC3339351,material_identity,"""Pottery""",https://collectionapi.metmuseum.org/public/collection/v1/objects/556881
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP12922-REC2584381,descriptive_identity,"""Fragment""",https://collectionapi.metmuseum.org/public/collection/v1/objects/65762
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP12922-REC2584381,material_identity,"""Twill-weave silk with brocading in silk and supplementary weft patterning in silk (karaori)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/65762
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP12876-REC2575121,descriptive_identity,"""Fragment""",https://collectionapi.metmuseum.org/public/collection/v1/objects/65762
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP12876-REC2575121,material_identity,"""Twill-weave silk with brocading in silk and supplementary weft patterning in silk (karaori)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/65762
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP12991-REC2598041,descriptive_identity,"""Fragment""",https://collectionapi.metmuseum.org/public/collection/v1/objects/65762
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP12991-REC2598041,material_identity,"""Twill-weave silk with brocading in silk and supplementary weft patterning in silk (karaori)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/65762
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP12911-REC2582061,descriptive_identity,"""Fragment""",https://collectionapi.metmuseum.org/public/collection/v1/objects/65762
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP12911-REC2582061,material_identity,"""Twill-weave silk with brocading in silk and supplementary weft patterning in silk (karaori)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/65762
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP12948-REC2589461,descriptive_identity,"""Fragment""",https://collectionapi.metmuseum.org/public/collection/v1/objects/65762
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP12948-REC2589461,material_identity,"""Twill-weave silk with brocading in silk and supplementary weft patterning in silk (karaori)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/65762
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP12810-REC2561931,descriptive_identity,"""Fragment""",https://collectionapi.metmuseum.org/public/collection/v1/objects/65762
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP12810-REC2561931,material_identity,"""Twill-weave silk with brocading in silk and supplementary weft patterning in silk (karaori)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/65762
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP14521-REC2904141,descriptive_identity,"""Silver""",https://clevelandart.org/art/1977.7
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP14521-REC2904141,material_identity,"""hammered silver soldered together, with chased decoration""",https://clevelandart.org/art/1977.7
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP15885-REC3176861,descriptive_identity,"""Vessel fragment, \""Tell Basta Treasure\""""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP15885-REC3176861,material_identity,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP15954-REC3190721,descriptive_identity,"""Vessel fragment, \""Tell Basta Treasure\""""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP15954-REC3190721,material_identity,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP15994-REC3198701,descriptive_identity,"""Vessel fragment, \""Tell Basta Treasure\""""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP15994-REC3198701,material_identity,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP16225-REC3244901,descriptive_identity,"""Vessel fragment, \""Tell Basta Treasure\""""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP16225-REC3244901,material_identity,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP15306-REC3061061,descriptive_identity,"""Vessel fragment, \""Tell Basta Treasure\""""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP15306-REC3061061,material_identity,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP15652-REC3130361,descriptive_identity,"""Vessel fragment, \""Tell Basta Treasure\""""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP15652-REC3130361,material_identity,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15498-REC3099541,descriptive_identity,"""Vessel fragment, \""Tell Basta Treasure\""""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15498-REC3099541,material_identity,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15941-REC3188021,descriptive_identity,"""Vessel fragment, \""Tell Basta Treasure\""""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15941-REC3188021,material_identity,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15341-REC3068141,descriptive_identity,"""Vessel fragment, \""Tell Basta Treasure\""""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15341-REC3068141,material_identity,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15330-REC3065881,descriptive_identity,"""Vessel fragment, \""Tell Basta Treasure\""""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP15330-REC3065881,material_identity,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16026-REC3205091,descriptive_identity,"""Vessel fragment, \""Tell Basta Treasure\""""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16026-REC3205091,material_identity,"""Silver""",https://collectionapi.metmuseum.org/public/collection/v1/objects/561650
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP16087-REC3217321,descriptive_identity,"""Cover""",https://collectionapi.metmuseum.org/public/collection/v1/objects/903993
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP16087-REC3217321,material_identity,"""Cotton, silk""",https://collectionapi.metmuseum.org/public/collection/v1/objects/903993
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP16092-REC3218301,descriptive_identity,"""Mortar""",https://collectionapi.metmuseum.org/public/collection/v1/objects/464235
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP16092-REC3218301,material_identity,"""Elephant ivory""",https://collectionapi.metmuseum.org/public/collection/v1/objects/464235
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15667-REC3133381,descriptive_identity,"""Mortar""",https://collectionapi.metmuseum.org/public/collection/v1/objects/464235
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15667-REC3133381,material_identity,"""Elephant ivory""",https://collectionapi.metmuseum.org/public/collection/v1/objects/464235
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16177-REC3235301,descriptive_identity,"""Mortar""",https://collectionapi.metmuseum.org/public/collection/v1/objects/464235
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16177-REC3235301,material_identity,"""Elephant ivory""",https://collectionapi.metmuseum.org/public/collection/v1/objects/464235
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP16680-REC3335901,descriptive_identity,"""Pin""",https://collectionapi.metmuseum.org/public/collection/v1/objects/315349
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP16680-REC3335901,material_identity,"""Copper (cast)""",https://collectionapi.metmuseum.org/public/collection/v1/objects/315349
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP17988-REC3597421,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1916.131
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP17988-REC3597421,material_identity,"""gold and agate""",https://clevelandart.org/art/1916.131
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP18394-REC3678621,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1930.742
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP18394-REC3678621,material_identity,"""basse-taille enamel and gilding on silver, silver thread, gilt-silver buckle, cast and chased""",https://clevelandart.org/art/1930.742
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP18408-REC3681421,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1058
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP18408-REC3681421,material_identity,"""glass""",https://clevelandart.org/art/1917.1058
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP18459-REC3691641,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/1983.28
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP18459-REC3691641,material_identity,"""glazed porcelain""",https://clevelandart.org/art/1983.28
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16246-REC3249191,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/1983.28
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16246-REC3249191,material_identity,"""glazed porcelain""",https://clevelandart.org/art/1983.28
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP18954-REC3790761,descriptive_identity,"""science fiction fanzine""",https://www.wikidata.org/wiki/Q130750193
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP16550-REC3309841,descriptive_identity,"""science fiction fanzine""",https://www.wikidata.org/wiki/Q130750193
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP17015-REC3402901,descriptive_identity,"""science fiction fanzine""",https://www.wikidata.org/wiki/Q130750193
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17634-REC3526781,descriptive_identity,"""science fiction fanzine""",https://www.wikidata.org/wiki/Q130750193
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18036-REC3607141,descriptive_identity,"""science fiction fanzine""",https://www.wikidata.org/wiki/Q130750193
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16561-REC3312051,descriptive_identity,"""science fiction fanzine""",https://www.wikidata.org/wiki/Q130750193
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP19002-REC3800281,descriptive_identity,"""painting""",https://www.wikidata.org/wiki/Q47513578
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP13038-REC2607461,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP13038-REC2607461,material_identity,"""glass""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13051-REC2610091,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13051-REC2610091,material_identity,"""glass""",https://clevelandart.org/art/1917.1055
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP17343-REC3468481,descriptive_identity,"""Print""",https://collectionapi.metmuseum.org/public/collection/v1/objects/635681
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP17343-REC3468481,material_identity,"""Photolithograph""",https://collectionapi.metmuseum.org/public/collection/v1/objects/635681
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP17393-REC3478421,descriptive_identity,"""Tool, scraper""",https://collectionapi.metmuseum.org/public/collection/v1/objects/569229
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP17393-REC3478421,material_identity,"""Flint""",https://collectionapi.metmuseum.org/public/collection/v1/objects/569229
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP17864-REC3572641,descriptive_identity,"""Cast""",https://collectionapi.metmuseum.org/public/collection/v1/objects/314215
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP17864-REC3572641,material_identity,"""Plaster""",https://collectionapi.metmuseum.org/public/collection/v1/objects/314215
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17585-REC3516841,descriptive_identity,"""Cast""",https://collectionapi.metmuseum.org/public/collection/v1/objects/314215
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17585-REC3516841,material_identity,"""Plaster""",https://collectionapi.metmuseum.org/public/collection/v1/objects/314215
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP13517-REC2703221,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2021.66
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP13517-REC2703221,material_identity,"""salt print mounted on card""",https://clevelandart.org/art/2021.66
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP12908-REC2581421,descriptive_identity,"""Print""",https://collectionapi.metmuseum.org/public/collection/v1/objects/634950
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP12908-REC2581421,material_identity,"""Photolithograph""",https://collectionapi.metmuseum.org/public/collection/v1/objects/634950
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP15430-REC3085981,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1946.259
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP15430-REC3085981,material_identity,"""rock crystal with a garnet mounted in a gold granulated star""",https://clevelandart.org/art/1946.259
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP15979-REC3195601,descriptive_identity,"""Textile""",https://clevelandart.org/art/1940.516
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP15979-REC3195601,material_identity,"""cotton and pigment, plain weave""",https://clevelandart.org/art/1940.516
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP16619-REC3323701,descriptive_identity,"""Bowl""",https://collectionapi.metmuseum.org/public/collection/v1/objects/752
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP16619-REC3323701,material_identity,"""Lacy pressed glass""",https://collectionapi.metmuseum.org/public/collection/v1/objects/752
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP16658-REC3331541,descriptive_identity,"""blade""",https://collectionapi.metmuseum.org/public/collection/v1/objects/557883
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP16658-REC3331541,material_identity,"""Flint""",https://collectionapi.metmuseum.org/public/collection/v1/objects/557883
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP17038-REC3407421,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP17038-REC3407421,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP17303-REC3460481,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP17303-REC3460481,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP18876-REC3775061,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP18876-REC3775061,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP16724-REC3344681,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP16724-REC3344681,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP18162-REC3632241,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP18162-REC3632241,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP18648-REC3729401,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP18648-REC3729401,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP17616-REC3523161,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP17616-REC3523161,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17476-REC3495001,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17476-REC3495001,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17849-REC3569601,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17849-REC3569601,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16823-REC3364411,descriptive_identity,"""Sherd""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16823-REC3364411,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP17187-REC3437241,descriptive_identity,"""blade""",https://collectionapi.metmuseum.org/public/collection/v1/objects/557883
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP17187-REC3437241,material_identity,"""Flint""",https://collectionapi.metmuseum.org/public/collection/v1/objects/557883
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP15772-REC3154301,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP15772-REC3154301,material_identity,"""Wood, ceramic or Formica, copper alloy, and iron alloy""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15656-REC3131031,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15656-REC3131031,material_identity,"""Wood, ceramic or Formica, copper alloy, and iron alloy""",https://clevelandart.org/art/2010.428
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP17349-REC3469721,descriptive_identity,"""Harpoon head""",https://collectionapi.metmuseum.org/public/collection/v1/objects/62310
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP17349-REC3469721,material_identity,"""Bone""",https://collectionapi.metmuseum.org/public/collection/v1/objects/62310
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP17801-REC3560021,descriptive_identity,"""Sherds""",https://collectionapi.metmuseum.org/public/collection/v1/objects/327372
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP17801-REC3560021,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/327372
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP17936-REC3587181,descriptive_identity,"""Sherds""",https://collectionapi.metmuseum.org/public/collection/v1/objects/327372
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP17936-REC3587181,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/327372
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP17290-REC3457921,descriptive_identity,"""Sherds""",https://collectionapi.metmuseum.org/public/collection/v1/objects/327372
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP17290-REC3457921,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/327372
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16418-REC3283441,descriptive_identity,"""Sherds""",https://collectionapi.metmuseum.org/public/collection/v1/objects/327372
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16418-REC3283441,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/327372
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17765-REC3552941,descriptive_identity,"""Sherds""",https://collectionapi.metmuseum.org/public/collection/v1/objects/327372
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17765-REC3552941,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/327372
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17461-REC3492091,descriptive_identity,"""Sherds""",https://collectionapi.metmuseum.org/public/collection/v1/objects/327372
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17461-REC3492091,material_identity,"""Ceramic""",https://collectionapi.metmuseum.org/public/collection/v1/objects/327372
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP13865-REC2772921,descriptive_identity,"""Measure""",https://collectionapi.metmuseum.org/public/collection/v1/objects/193281
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP13865-REC2772921,material_identity,"""Pewter""",https://collectionapi.metmuseum.org/public/collection/v1/objects/193281
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15253-REC3050401,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15253-REC3050401,material_identity,"""gold""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15267-REC3053331,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15267-REC3053331,material_identity,"""gold""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15388-REC3077551,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15388-REC3077551,material_identity,"""gold""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15259-REC3051661,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1985.174
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15259-REC3051661,material_identity,"""gold and garnet""",https://clevelandart.org/art/1985.174
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15658-REC3131451,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1985.174
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15658-REC3131451,material_identity,"""gold and garnet""",https://clevelandart.org/art/1985.174
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15909-REC3181711,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1985.174
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15909-REC3181711,material_identity,"""gold and garnet""",https://clevelandart.org/art/1985.174
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16180-REC3235891,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1985.174
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16180-REC3235891,material_identity,"""gold and garnet""",https://clevelandart.org/art/1985.174
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15417-REC3083301,descriptive_identity,"""Stone""",https://clevelandart.org/art/1956.86
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15417-REC3083301,material_identity,"""stone""",https://clevelandart.org/art/1956.86
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP17104-REC3420701,descriptive_identity,"""Wood""",https://clevelandart.org/art/1929.566.2
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP17104-REC3420701,material_identity,"""Wood and glass beads""",https://clevelandart.org/art/1929.566.2
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP16169-REC3233681,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1963.98
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP16169-REC3233681,material_identity,"""silver""",https://clevelandart.org/art/1963.98
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15354-REC3070701,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/2015.2
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15354-REC3070701,material_identity,"""gold, hammered""",https://clevelandart.org/art/2015.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15538-REC3107511,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/2015.2
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15538-REC3107511,material_identity,"""gold, hammered""",https://clevelandart.org/art/2015.2
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15253-REC3050401,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15253-REC3050401,material_identity,"""gold""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15267-REC3053331,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15267-REC3053331,material_identity,"""gold""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15388-REC3077551,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15388-REC3077551,material_identity,"""gold""",https://clevelandart.org/art/1953.181
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15259-REC3051661,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1985.174
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15259-REC3051661,material_identity,"""gold and garnet""",https://clevelandart.org/art/1985.174
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15658-REC3131451,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1985.174
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15658-REC3131451,material_identity,"""gold and garnet""",https://clevelandart.org/art/1985.174
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15909-REC3181711,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1985.174
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15909-REC3181711,material_identity,"""gold and garnet""",https://clevelandart.org/art/1985.174
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16180-REC3235891,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1985.174
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16180-REC3235891,material_identity,"""gold and garnet""",https://clevelandart.org/art/1985.174
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15583-REC3116481,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1990.83
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15583-REC3116481,material_identity,"""gilt bronze""",https://clevelandart.org/art/1990.83
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15669-REC3133701,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1918.795
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15669-REC3133701,material_identity,"""brass""",https://clevelandart.org/art/1918.795
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15969-REC3193621,descriptive_identity,"""Ceramic""",https://clevelandart.org/art/1984.68
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP15969-REC3193621,material_identity,"""Earthenware with carved and applied decoration""",https://clevelandart.org/art/1984.68
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP13220-REC2643941,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1978.25
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP13220-REC2643941,material_identity,"""gold and glass""",https://clevelandart.org/art/1978.25
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13715-REC2742951,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1978.25
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13715-REC2742951,material_identity,"""gold and glass""",https://clevelandart.org/art/1978.25
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14647-REC2929291,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1978.25
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14647-REC2929291,material_identity,"""gold and glass""",https://clevelandart.org/art/1978.25
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16071-REC3214161,descriptive_identity,"""Stone""",https://clevelandart.org/art/1957.494.b
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP16071-REC3214161,material_identity,"""stone, pigment""",https://clevelandart.org/art/1957.494.b
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13241-REC2648171,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1919.908
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13241-REC2648171,material_identity,"""bronze""",https://clevelandart.org/art/1919.908
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP16034-REC3206621,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1930.232
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP16034-REC3206621,material_identity,"""bronze and champlev\u00e9 enamel""",https://clevelandart.org/art/1930.232
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16110-REC3221841,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q12400737
+IDB-REG01-CAT18-ERA07-2025-BENITOITE-NATROLITE-GL3531A-1084,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q415318
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP18417-REC3683321,descriptive_identity,"""Jade""",https://clevelandart.org/art/1949.556
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP18417-REC3683321,material_identity,"""greenstone""",https://clevelandart.org/art/1949.556
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP13220-REC2643941,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1978.25
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP13220-REC2643941,material_identity,"""gold and glass""",https://clevelandart.org/art/1978.25
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14647-REC2929291,descriptive_identity,"""Jewelry""",https://clevelandart.org/art/1978.25
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14647-REC2929291,material_identity,"""gold and glass""",https://clevelandart.org/art/1978.25
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15249-REC3049661,descriptive_identity,"""Leather""",https://clevelandart.org/art/1937.865
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15249-REC3049661,material_identity,"""Native-tanned hide, glass beads, metal beads, sinew thread """,https://clevelandart.org/art/1937.865
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15287-REC3057221,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1965.554
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15287-REC3057221,material_identity,"""bronze, cast""",https://clevelandart.org/art/1965.554
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15345-REC3068841,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1917.338
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15345-REC3068841,material_identity,"""silver bronze""",https://clevelandart.org/art/1917.338
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18750-REC3749801,descriptive_identity,"""Coins""",https://clevelandart.org/art/1999.227
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18750-REC3749801,material_identity,"""gold""",https://clevelandart.org/art/1999.227
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18891-REC3778081,descriptive_identity,"""Textile""",https://clevelandart.org/art/2007.2.3
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP18891-REC3778081,material_identity,"""cotton and camelid fiber""",https://clevelandart.org/art/2007.2.3
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13004-REC2600711,descriptive_identity,"""Lace""",https://clevelandart.org/art/1919.778
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13004-REC2600711,material_identity,"""Bleached linen (est.): needle lace, filet/lacis (knotted ground and darned in two directions) and cutwork insertion""",https://clevelandart.org/art/1919.778
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13241-REC2648171,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1919.908
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13241-REC2648171,material_identity,"""bronze""",https://clevelandart.org/art/1919.908
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13869-REC2773751,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1930.731
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP13869-REC2773751,material_identity,"""gilt bronze""",https://clevelandart.org/art/1930.731
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14319-REC2863771,descriptive_identity,"""Metalwork""",https://clevelandart.org/art/1930.731
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14319-REC2863771,material_identity,"""gilt bronze""",https://clevelandart.org/art/1930.731
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14689-REC2937691,descriptive_identity,"""Photograph""",https://clevelandart.org/art/2007.9
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14689-REC2937691,material_identity,"""gelatin silver print""",https://clevelandart.org/art/2007.9
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14774-REC2954631,descriptive_identity,"""Photograph""",https://clevelandart.org/art/1985.48
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP14774-REC2954631,material_identity,"""gelatin silver print""",https://clevelandart.org/art/1985.48
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15003-REC3000411,descriptive_identity,"""world's fair""",https://www.wikidata.org/wiki/Q285406
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15584-REC3116611,descriptive_identity,"""Painting""",https://clevelandart.org/art/1944.524
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15584-REC3116611,material_identity,"""oil on canvas""",https://clevelandart.org/art/1944.524
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15948-REC3189551,descriptive_identity,"""Sculpture""",https://clevelandart.org/art/1994.203
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP15948-REC3189551,material_identity,"""gilt bronze""",https://clevelandart.org/art/1994.203
+IDB-REG01-CAT18-ERA07-2021-GOLD-GALENA-GLORY-HOLE-L4TEE7-1336,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q171917
+IDB-REG01-CAT18-ERA07-1990S-RECTORITE-ARKANSAS-Q36P9A-943,descriptive_identity,"""village""",https://www.wikidata.org/wiki/Q7492524
+IDB-REG01-CAT18-ERA07-1990S-FLUORAPATITE-HIMALAYA-MESA-GRANDE-PGTVLY-1405,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q14467113
+IDB-REG01-CAT18-ERA06-2018-FLUORAPATITE-HIMALAYA-MESA-GRANDE-PGTVLY-1405,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q14467113
+IDB-REG01-CAT18-ERA07-2010S-GROSSULAR-HESSONITE-GM1755-022,descriptive_identity,"""female given name""",https://www.wikidata.org/wiki/Q13582300
+IDB-REG01-CAT18-ERA07-2026-WULFENITE-FLUORITE-GL3348A-1081,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q102151
+IDB-REG01-CAT18-ERA07-2010S-ADAMITE-MINIATURE-7RMQWU-406,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q111200
+IDB-REG01-CAT18-ERA06-2012-CHALCOPYRITE-THUMB-P23VG4-463,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q43010
+IDB-REG01-CAT18-ERA07-1990S-CHALCOPYRITE-THUMB-P23VG4-463,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q43010
+IDB-REG01-CAT18-ERA07-2010S-FLUORAPATITE-HIMALAYA-PGTVLY-997,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q416275
+IDB-REG01-CAT18-ERA07-2000S-GREENOCKITE-SPHALERITE-PATCH-YUNMUU-1255,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q105006
+IDB-REG01-CAT18-ERA06-2018-GREENOCKITE-SPHALERITE-PATCH-YUNMUU-1255,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q105006
+IDB-REG01-CAT18-ERA07-1990S-PYRITE-ONTARIO-CL811J-574,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q50769
+IDB-REG01-CAT18-ERA07-2000S-PYRITE-ONTARIO-CL811J-076,descriptive_identity,"""female given name""",https://www.wikidata.org/wiki/Q13582300
+IDB-REG01-CAT18-ERA06-2010-UYTENBOGAARDTITE-SILVER-COMSTOCK-U2JNU7-1519,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q420531
+IDB-REG01-CAT18-ERA07-2020S-MORGANITE-MUSCOVITE-PALA-127,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q106532
+IDB-REG01-CAT18-ERA06-2018-TITANITE-EGANVILLE-GVF1JR-565,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q377280
+IDB-REG01-CAT18-ERA07-1990S-CALCITE-BYSSOLITE-FRENCH-CREEK-30M4N6-1414,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q171917
+IDB-REG01-CAT18-ERA06-2015-CALCITE-BYSSOLITE-FRENCH-CREEK-30M4N6-1414,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q171917
+IDB-REG01-CAT18-ERA07-2000S-REALGAR-GOLDBAR-808H3L-067,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q109746
+IDB-REG01-CAT18-ERA07-2010S-COLUMBITE-FE-WILLIAMSON-YW8CAC-1234,descriptive_identity,"""mineral series""",https://www.wikidata.org/wiki/Q899841
+IDB-REG01-CAT18-ERA07-2000S-COLUMBITE-FE-ANZA-658,descriptive_identity,"""mineral series""",https://www.wikidata.org/wiki/Q899841
+IDB-REG01-CAT18-ERA07-2021-ROSASITE-HEMIMORPHITE-79-MINE-W7AH6G-1456,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q410369
+IDB-REG01-CAT18-ERA07-2010S-ARGENTOJAROSITE-TINTIC-9Y367L-880,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q3622405
+IDB-REG01-CAT18-ERA07-2000S-MUSCOVITE-ELBAITE-U908YG-907,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q1920794
+IDB-REG01-CAT18-ERA06-2014-MUSCOVITE-ELBAITE-U908YG-907,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q1920794
+IDB-REG01-CAT18-ERA06-2013-ORTHOCLASE-CHALK-MTN-940,descriptive_identity,"""female given name""",https://www.wikidata.org/wiki/Q13582300
+IDB-REG01-CAT18-ERA07-1990S-ORTHOCLASE-CHALK-MTN-940,descriptive_identity,"""female given name""",https://www.wikidata.org/wiki/Q13582300
+IDB-REG01-CAT18-ERA06-2011-HEMATITE-GLENDINNING-GC39YH-556,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q103223
+IDB-REG01-CAT18-ERA06-2016-OPAL-VIRGIN-VALLEY-691,descriptive_identity,"""film""",https://www.wikidata.org/wiki/Q269331
+IDB-REG01-CAT18-ERA07-2010S-AMETHYST-FOUR-PEAKS-7NMMAN-1102,descriptive_identity,"""female given name""",https://www.wikidata.org/wiki/Q13582300
+IDB-REG01-CAT18-ERA07-2010S-ORTHOCLASE-CHALK-MOUNTAIN-LAKE-LDXVMD-1465,descriptive_identity,"""female given name""",https://www.wikidata.org/wiki/Q13582300
+IDB-REG01-CAT18-ERA06-2019-LINARITE-NAICA-YXGH7U-922,descriptive_identity,"""city in the United States""",https://www.wikidata.org/wiki/Q2357309
+IDB-REG01-CAT18-ERA06-2012-ARROJADITE-KFE-YUKON-343,descriptive_identity,"""crystal habit""",https://www.wikidata.org/wiki/Q13402984
+IDB-REG01-CAT18-ERA07-2020S-LABRADORITE-SUNSTONE-PLUSH-OREGON,descriptive_identity,"""comic book series""",https://www.wikidata.org/wiki/Q16255377
+IDB-REG01-CAT18-ERA07-2024-WULFENITE-GOSSAN-GL3348-967,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q421092
+IDB-REG01-CAT18-ERA07-2020S-WULFENITE-GOSSAN-GL3348-967,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q421092
+IDB-REG01-CAT18-ERA06-2017-SPHALERITE-FRISCO-NKY0GG-958,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q105006
+IDB-REG01-CAT18-ERA06-2013-ZEKTZERITE-MICROCLINE-6W0CXR-190,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q187295
+IDB-REG01-CAT18-ERA07-2000S-ZEKTZERITE-MICROCLINE-6W0CXR-190,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q187295
+IDB-REG01-CAT18-ERA07-1990S-SCHEELITE-CAMP-BIRD-1069,descriptive_identity,"""periodical""",https://www.wikidata.org/wiki/Q7269379
+IDB-REG01-CAT18-ERA06-2019-EMPRESSITE-KERBER-7W6V82-1072,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q3724872
+IDB-REG01-CAT18-ERA07-1990S-BERYL-QUARTZ-PL7PTC-817,descriptive_identity,"""periodical""",https://www.wikidata.org/wiki/Q7269379
+IDB-REG01-CAT18-ERA06-2015-GALENA-BARYTE-VG6JDD-904,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q184196
+IDB-REG01-CAT18-ERA07-2010S-STIBIOTANTALITE-HIMALAYA-MINE-AYNRLV-1471,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q1919792
+IDB-REG01-CAT18-ERA07-2000S-COPPER-CALEDONIA-YCA5D8-064,descriptive_identity,"""chemical element""",https://www.wikidata.org/wiki/Q753
+IDB-REG01-CAT18-ERA07-2000S-COPPER-CALEDONIA-YCA5D8-064,material_identity,"""chalcopyrite""",https://www.wikidata.org/wiki/Q753
+IDB-REG01-CAT18-ERA06-2019-TOPAZ-TEPETATE-E5FHDV-352,descriptive_identity,"""given name""",https://www.wikidata.org/wiki/Q106457510
+IDB-REG01-CAT18-ERA06-2013-SMITHSONITE-MINIATURE-H7WRQ3-430,descriptive_identity,"""mineral species""",https://www.wikidata.org/wiki/Q152400
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP12752-REC2550241,material_identity,"""leather""",https://www.wikidata.org/wiki/Q3217573
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13321-REC2664061,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q17121819
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13115-REC2622901,descriptive_identity,"""musical group""",https://www.wikidata.org/wiki/Q1455399
+IDB-REG01-CAT18-ERA07-2020S-WULFENITE-LIMONITE-GLOVE-PUA52L-1324,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37121650
+IDB-REG01-CAT18-ERA07-2025-WULFENITE-LIMONITE-GLOVE-PUA52L-1324,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37121650
+IDB-REG01-CAT18-ERA06-2014-OCTAHEDRITE-DIABLO-GM49852-037,descriptive_identity,"""video game series""",https://www.wikidata.org/wiki/Q44165
+IDB-REG01-CAT18-ERA07-2010S-OCTAHEDRITE-DIABLO-GM49852-037,descriptive_identity,"""video game series""",https://www.wikidata.org/wiki/Q44165
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13388-REC2677501,descriptive_identity,"""given name""",https://www.wikidata.org/wiki/Q17018229
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13854-REC2770741,descriptive_identity,"""dhikr""",https://www.wikidata.org/wiki/Q3595926
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP13168-REC2633401,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q16913566
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16446-REC3289161,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP17046-REC3409001,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP16910-REC3381821,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP17159-REC3431661,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP17406-REC3481081,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP17661-REC3532181,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_02-1650-ACC04-HOP18296-REC3659021,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP16399-REC3279601,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP17161-REC3432061,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP17420-REC3483861,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP17890-REC3577941,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_03-1780-ACC04-HOP18836-REC3767081,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP16601-REC3320181,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP17241-REC3448001,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP18351-REC3670181,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP18459-REC3691741,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_04-1890-ACC04-HOP18473-REC3694541,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP16985-REC3396881,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_05-1965-ACC04-HOP18522-REC3704321,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17199-REC3439701,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16351-REC3270001,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP16983-REC3396421,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17043-REC3408461,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17909-REC3581781,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP17954-REC3590601,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18269-REC3653601,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18714-REC3742641,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_07-2025-ACC04-HOP18959-REC3791781,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16396-REC3279151,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP16662-REC3332211,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17030-REC3405851,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17663-REC3532551,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP17901-REC3580011,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18099-REC3619771,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18116-REC3623131,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_13-ERA_01-1200-ACC04-HOP18183-REC3636431,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q64372128
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16709-REC3341661,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q1215200
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16752-REC3350341,descriptive_identity,"""literary work""",https://www.wikidata.org/wiki/Q69364975
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16920-REC3383801,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37527603
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP16829-REC3365741,descriptive_identity,"""scientific journal""",https://www.wikidata.org/wiki/Q27727085
+IDB-REG_01-CAT_11-ERA_01-1200-ACC04-HOP17134-REC3426641,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q3749226
