@@ -1,0 +1,37 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP17157-REC3431222,descriptive_identity,"""GENUS""",https://www.gbif.org/species/7479876
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP17157-REC3431222,identity_label,"""Scapula""",https://www.gbif.org/species/7479876
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP17157-REC3431222,scientific_identity,"""Scapula""",https://www.gbif.org/species/7479876
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP17923-REC3584522,descriptive_identity,"""GENUS""",https://www.gbif.org/species/8898886
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP17923-REC3584522,identity_label,"""Archer""",https://www.gbif.org/species/8898886
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP17923-REC3584522,scientific_identity,"""Archer""",https://www.gbif.org/species/8898886
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP16612-REC3322253,descriptive_identity,"""GENUS""",https://www.gbif.org/species/4827248
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP16612-REC3322253,identity_label,"""Drill""",https://www.gbif.org/species/4827248
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP16612-REC3322253,scientific_identity,"""Drill Reichenbach, 1862""",https://www.gbif.org/species/4827248
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP16896-REC3379002,descriptive_identity,"""SUBSPECIES""",https://www.gbif.org/species/2481956
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP16896-REC3379002,identity_label,"""Gavia arctica pacifica""",https://www.gbif.org/species/2481956
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP16896-REC3379002,scientific_identity,"""Gavia arctica pacifica (Lawrence, 1858)""",https://www.gbif.org/species/2481956
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP18698-REC3739453,descriptive_identity,"""SPECIES""",https://www.gbif.org/species/2481127
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP18698-REC3739453,identity_label,"""Larus hyperboreus""",https://www.gbif.org/species/2481127
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP18698-REC3739453,scientific_identity,"""Larus hyperboreus Gunnerus, 1767""",https://www.gbif.org/species/2481127
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP17728-REC3545553,descriptive_identity,"""SPECIES""",https://www.gbif.org/species/2498263
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP17728-REC3545553,identity_label,"""Aythya americana""",https://www.gbif.org/species/2498263
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP17728-REC3545553,scientific_identity,"""Aythya americana (Eyton, 1838)""",https://www.gbif.org/species/2498263
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP13348-REC2669552,descriptive_identity,"""GENUS""",https://www.gbif.org/species/11123265
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP13348-REC2669552,identity_label,"""Assay""",https://www.gbif.org/species/11123265
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP13348-REC2669552,scientific_identity,"""Assay""",https://www.gbif.org/species/11123265
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP18835-REC3766963,descriptive_identity,"""SPECIES""",https://www.gbif.org/species/2481342
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP18835-REC3766963,identity_label,"""Uria aalge""",https://www.gbif.org/species/2481342
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP18835-REC3766963,scientific_identity,"""Uria aalge (Pontoppidan, 1763)""",https://www.gbif.org/species/2481342
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP18120-REC3623862,descriptive_identity,"""GENUS""",https://www.gbif.org/species/7479876
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP18120-REC3623862,identity_label,"""Scapula""",https://www.gbif.org/species/7479876
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP18120-REC3623862,scientific_identity,"""Scapula""",https://www.gbif.org/species/7479876
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP17185-REC3436843,descriptive_identity,"""SPECIES""",https://www.gbif.org/species/2481295
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP17185-REC3436843,identity_label,"""Aethia cristatella""",https://www.gbif.org/species/2481295
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP17185-REC3436843,scientific_identity,"""Aethia cristatella (Pallas, 1769)""",https://www.gbif.org/species/2481295
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16983-REC3396432,descriptive_identity,"""GENUS""",https://www.gbif.org/species/7479876
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16983-REC3396432,identity_label,"""Scapula""",https://www.gbif.org/species/7479876
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16983-REC3396432,scientific_identity,"""Scapula""",https://www.gbif.org/species/7479876
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP17005-REC3400933,descriptive_identity,"""SUBSPECIES""",https://www.gbif.org/species/5229288
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP17005-REC3400933,identity_label,"""Uria lomvia arra""",https://www.gbif.org/species/5229288
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP17005-REC3400933,scientific_identity,"""Uria lomvia arra (Pallas, 1811)""",https://www.gbif.org/species/5229288
