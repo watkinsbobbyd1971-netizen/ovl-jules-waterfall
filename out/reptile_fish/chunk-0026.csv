@@ -1,0 +1,195 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-2232324,identity_label,"""Cryptobranchus alleganiensis (Sonnini de Manoncourt & Latreille, 1801)""",https://api.gbif.org/v1/species/2432031
+LIBSRC-LIB50-ENT-BIO-0566454,identity_label,"""Microkayla colla (De la Riva, Aparicio, Soto & R\u00edos, 2016)""",https://api.gbif.org/v1/species/10886819
+LIBSRC-LIB50-ENT-BIO-0566994,identity_label,"""Oreobates crepitans (Bokermann, 1965)""",https://api.gbif.org/v1/species/10710468
+LIBSRC-LIB50-ENT-BIO-0567594,identity_label,"""Lynchius simmonsi (Lynch, 1974)""",https://api.gbif.org/v1/species/10727963
+LIBSRC-LIB50-ENT-BIO-0567694,identity_label,"""Ceuthomantis duellmani Barrio-Amor\u00f3s, 2010""",https://api.gbif.org/v1/species/10772879
+LIBSRC-LIB50-ENT-BIO-0568334,identity_label,"""Craugastor bitonium Jameson, Streicher, Manuelli, Head & Smith, 2022""",https://api.gbif.org/v1/species/11714529
+LIBSRC-LIB50-ENT-BIO-0568344,identity_label,"""Craugastor chingopetaca K\u00f6hler & Sunyer, 2006""",https://api.gbif.org/v1/species/2430722
+LIBSRC-LIB50-ENT-BIO-0568354,identity_label,"""Craugastor campbelli (Smith, 2005)""",https://api.gbif.org/v1/species/2430836
+LIBSRC-LIB50-ENT-BIO-0568404,identity_label,"""Craugastor polymniae (Campbell, Lamar & Hillis, 1989)""",https://api.gbif.org/v1/species/2430650
+LIBSRC-LIB50-ENT-BIO-0568424,identity_label,"""Craugastor rupinius (Campbell & Savage, 2000)""",https://api.gbif.org/v1/species/2430813
+LIBSRC-LIB50-ENT-BIO-0569094,identity_label,"""Pristimantis reichlei Padial & De la Riva, 2009""",https://api.gbif.org/v1/species/2425797
+LIBSRC-LIB50-ENT-BIO-0569114,identity_label,"""Pristimantis almendariz Brito-M. & Pozo-Zamora, 2013""",https://api.gbif.org/v1/species/10866661
+LIBSRC-LIB50-ENT-BIO-0569174,identity_label,"""Pristimantis bowara Acevedo, Armesto & Palma, 2020""",https://api.gbif.org/v1/species/10678707
+LIBSRC-LIB50-ENT-BIO-0569184,identity_label,"""Pristimantis tinajillas Urgil\u00e9s, S\u00e1nchez-Nivicela, Nieves & Y\u00e1nez-Mu\u00f1oz, 2014""",https://api.gbif.org/v1/species/8966187
+LIBSRC-LIB50-ENT-BIO-0569204,identity_label,"""Pristimantis cedros Hutter & Guayasamin, 2015""",https://api.gbif.org/v1/species/9156265
+LIBSRC-LIB50-ENT-BIO-0569254,identity_label,"""Pristimantis stipa Venegas & Duellman, 2012""",https://api.gbif.org/v1/species/8501417
+LIBSRC-LIB50-ENT-BIO-0569364,identity_label,"""Pristimantis cryophilius (Lynch, 1979)""",https://api.gbif.org/v1/species/2425703
+LIBSRC-LIB50-ENT-BIO-0569464,identity_label,"""Pristimantis paisa (Lynch & Ardila-Robayo, 1999)""",https://api.gbif.org/v1/species/2425047
+LIBSRC-LIB50-ENT-BIO-0569514,identity_label,"""Pristimantis kareliae (La Marca, 2005)""",https://api.gbif.org/v1/species/2425800
+LIBSRC-LIB50-ENT-BIO-0569524,identity_label,"""Pristimantis stictoboubonus (Duellman, Lehr & Venegas, 2006)""",https://api.gbif.org/v1/species/2425525
+LIBSRC-LIB50-ENT-BIO-0569634,identity_label,"""Pristimantis riveti (Despax, 1911)""",https://api.gbif.org/v1/species/2425514
+LIBSRC-LIB50-ENT-BIO-0569694,identity_label,"""Bryophryne mancoinca Mamani, Catenazzi, Ttito, Mallqui & Chaparro, 2017""",https://api.gbif.org/v1/species/9716044
+LIBSRC-LIB50-ENT-BIO-0569814,identity_label,"""Phrynopus sancristobali D\u00edaz, Mamani & Catenazzi, 2023""",https://api.gbif.org/v1/species/12210749
+LIBSRC-LIB50-ENT-BIO-1003024,identity_label,"""Phyllodytes tuberculosus Bokermann, 1966""",https://api.gbif.org/v1/species/5217984
+LIBSRC-LIB50-ENT-BIO-1003194,identity_label,"""Plectrohyla guatemalensis Brocchi, 1877""",https://api.gbif.org/v1/species/2428244
+LIBSRC-LIB50-ENT-BIO-1003464,identity_label,"""Ololygon caissara (Louren\u00e7o, Zina, Catroli, Kasahara, Faivovich & Haddad, 2016)""",https://api.gbif.org/v1/species/10819460
+LIBSRC-LIB50-ENT-BIO-1003584,identity_label,"""Dendropsophus melanargyreus (Cope, 1887)""",https://api.gbif.org/v1/species/2428462
+LIBSRC-LIB50-ENT-BIO-1003634,identity_label,"""Dendropsophus minimus (Ahl, 1933)""",https://api.gbif.org/v1/species/2428442
+LIBSRC-LIB50-ENT-BIO-1003664,identity_label,"""Dendropsophus koechlini (Duellman & Trueb, 1989)""",https://api.gbif.org/v1/species/2428388
+LIBSRC-LIB50-ENT-BIO-1003724,identity_label,"""Bokermannohyla oxente Lugli & Haddad, 2006""",https://api.gbif.org/v1/species/2428057
+LIBSRC-LIB50-ENT-BIO-1003794,identity_label,"""Phytotriades auratus (Boulenger, 1917)""",https://api.gbif.org/v1/species/10842379
+LIBSRC-LIB50-ENT-BIO-1006094,identity_label,"""Osteocephalus mimeticus (Melin, 1941)""",https://api.gbif.org/v1/species/8202523
+LIBSRC-LIB50-ENT-BIO-1006784,identity_label,"""Hyla chinensis G\u00fcnther, 1858""",https://api.gbif.org/v1/species/2427571
+LIBSRC-LIB50-ENT-BIO-1007064,identity_label,"""Corythomantis greeningi Boulenger, 1896""",https://api.gbif.org/v1/species/2428282
+LIBSRC-LIB50-ENT-BIO-1007774,identity_label,"""Tlalocohyla celeste Varela-Soto, Abarca, Brenes-Mora, Aspinall, Leenders & Shepack, 2022""",https://api.gbif.org/v1/species/11447014
+LIBSRC-LIB50-ENT-BIO-1007804,identity_label,"""Hyloscirtus japreria Rojas-Runjaic, Infante-Rivero, Salerno & Meza-Joya, 2018""",https://api.gbif.org/v1/species/9677467
+LIBSRC-LIB50-ENT-BIO-1007844,identity_label,"""Hyloscirtus callipeza (Duellman, 1989)""",https://api.gbif.org/v1/species/2428311
+LIBSRC-LIB50-ENT-BIO-1007954,identity_label,"""Boana beckeri (Caramaschi & Cruz, 2004)""",https://api.gbif.org/v1/species/10870980
+LIBSRC-LIB50-ENT-BIO-1009514,identity_label,"""Scinax ruber (Laurenti, 1768)""",https://api.gbif.org/v1/species/5217952
+LIBSRC-LIB50-ENT-BIO-1009614,identity_label,"""Ecnomiohyla rabborum Mendelson, Savage, Griffith, Ross, Kubicki & Gagliardo, 2008""",https://api.gbif.org/v1/species/2428650
+LIBSRC-LIB50-ENT-BIO-1009664,identity_label,"""Pseudacris maculata (Agassiz, 1850)""",https://api.gbif.org/v1/species/2428169
+LIBSRC-LIB50-ENT-BIO-1010424,identity_label,"""Trachycephalus macrotis (Andersson, 1945)""",https://api.gbif.org/v1/species/10732942
+LIBSRC-LIB50-ENT-BIO-0817334,identity_label,"""Luzocephalus johannsoni S\u00e4ve-S\u00f6derbergh, 1935""",https://api.gbif.org/v1/species/8623557
+LIBSRC-LIB50-ENT-BIO-1899514,identity_label,"""Enosuchus breviceps Konzhukova, 1955""",https://api.gbif.org/v1/species/8594867
+LIBSRC-LIB50-ENT-BIO-1803514,identity_label,"""Lepterpeton dobbsii Wright & Huxley, 1866""",https://api.gbif.org/v1/species/8695870
+LIBSRC-LIB50-ENT-BIO-1745594,identity_label,"""Blanus mettetali Bons, 1963""",https://api.gbif.org/v1/species/2473229
+LIBSRC-LIB50-ENT-BIO-1684524,identity_label,"""Hynobius shinichisatoi Nishikawa & Matsui, 2014""",https://api.gbif.org/v1/species/9221997
+LIBSRC-LIB50-ENT-BIO-1684554,identity_label,"""Hynobius amakusaensis Nishikawa & Matsui, 2014""",https://api.gbif.org/v1/species/8835825
+LIBSRC-LIB50-ENT-BIO-1684854,identity_label,"""Onychodactylus fuscus Yoshikawa & Matsui, 2014""",https://api.gbif.org/v1/species/9006439
+LIBSRC-LIB50-ENT-BIO-1324144,identity_label,"""Incilius cavifrons (Firschein, 1950)""",https://api.gbif.org/v1/species/2422381
+LIBSRC-LIB50-ENT-BIO-1324704,identity_label,"""Sclerophrys funerea (Bocage, 1866)""",https://api.gbif.org/v1/species/10868563
+LIBSRC-LIB50-ENT-BIO-1324724,identity_label,"""Sclerophrys turkanae (Tandy & Feener, 1985)""",https://api.gbif.org/v1/species/10784217
+LIBSRC-LIB50-ENT-BIO-1324824,identity_label,"""Rhinella cerradensis Maciel, Brand\u00e3o, Campos & Sebben, 2007""",https://api.gbif.org/v1/species/5216978
+LIBSRC-LIB50-ENT-BIO-1324854,identity_label,"""Rhinella azarai (Gallardo, 1965)""",https://api.gbif.org/v1/species/10727722
+LIBSRC-LIB50-ENT-BIO-1324874,identity_label,"""Rhinella proboscidea (Spix, 1824)""",https://api.gbif.org/v1/species/5216995
+LIBSRC-LIB50-ENT-BIO-1324894,identity_label,"""Rhinella rumbolli (Carrizo, 1992)""",https://api.gbif.org/v1/species/5216881
+LIBSRC-LIB50-ENT-BIO-1324964,identity_label,"""Pelophryne ingeri Matsui, 2019""",https://api.gbif.org/v1/species/10736641
+LIBSRC-LIB50-ENT-BIO-1325114,identity_label,"""Dendrophryniscus brevipollicatus Jim\u00e9nez de la Espada, 1870""",https://api.gbif.org/v1/species/2422262
+LIBSRC-LIB50-ENT-BIO-1325714,identity_label,"""Nectophrynoides laticeps Channing, Menegon, Salvidio & Akker, 2005""",https://api.gbif.org/v1/species/2422546
+LIBSRC-LIB50-ENT-BIO-1325774,identity_label,"""Nectophrynoides paulae Menegon, Salvidio, Ngalason & Loader, 2007""",https://api.gbif.org/v1/species/2422549
+LIBSRC-LIB50-ENT-BIO-1325794,identity_label,"""Atelopus longirostris Cope, 1868""",https://api.gbif.org/v1/species/5216619
+LIBSRC-LIB50-ENT-BIO-1325804,identity_label,"""Atelopus nocturnus Bravo-Valencia & Rivera-Correa, 2011""",https://api.gbif.org/v1/species/8298659
+LIBSRC-LIB50-ENT-BIO-1325924,identity_label,"""Duttaphrynus mizoramensis (Mathew & Sen, 2009)""",https://api.gbif.org/v1/species/10797236
+LIBSRC-LIB50-ENT-BIO-1326124,identity_label,"""Amazophrynella manaos Rojas, Carvalho, \u00c1vila, Farias & Hrbek, 2014""",https://api.gbif.org/v1/species/9287104
+LIBSRC-LIB50-ENT-BIO-1326744,identity_label,"""Peltophryne gundlachi (Ruibal, 1959)""",https://api.gbif.org/v1/species/2422490
+LIBSRC-LIB50-ENT-BIO-1326854,identity_label,"""Bufo scorteccii Balletto & Cherchi, 1970""",https://api.gbif.org/v1/species/5217131
+LIBSRC-LIB50-ENT-BIO-1326884,identity_label,"""Bufo aspinius (Rao & Yang, 1994)""",https://api.gbif.org/v1/species/5217148
+LIBSRC-LIB50-ENT-BIO-1326984,identity_label,"""Osornophryne simpsoni P\u00e1ez-Moscoso, Guayasamin & Y\u00e1nez-Mu\u00f1oz, 2011""",https://api.gbif.org/v1/species/9110276
+LIBSRC-LIB50-ENT-BIO-1327164,identity_label,"""Nannophryne variegata G\u00fcnther, 1870""",https://api.gbif.org/v1/species/2422946
+LIBSRC-LIB50-ENT-BIO-1327374,identity_label,"""Bufotes shaartusiensis (Pisanets, Mezhzherin & Shcherbak, 1996)""",https://api.gbif.org/v1/species/10708925
+LIBSRC-LIB50-ENT-BIO-1327654,identity_label,"""Anaxyrus baxteri (Porter, 1968)""",https://api.gbif.org/v1/species/2422894
+LIBSRC-LIB50-ENT-BIO-0487464,identity_label,"""Cacosternum boettgeri (Boulenger, 1882)""",https://api.gbif.org/v1/species/2429906
+LIBSRC-LIB50-ENT-BIO-0489464,identity_label,"""Anhydrophryne rattrayi Hewitt, 1919""",https://api.gbif.org/v1/species/2429876
+LIBSRC-LIB50-ENT-BIO-0081324,identity_label,"""Phrynobatrachus pintoi Hillers, Zimkus & R\u00f6del, 2008""",https://api.gbif.org/v1/species/2430166
+LIBSRC-LIB50-ENT-BIO-2287254,identity_label,"""Lankanectes pera Senevirathne, Samarawickrama, Wijayathilaka, Manamendra-Arachchi, Bowatte et al., 2018""",https://api.gbif.org/v1/species/10173397
+LIBSRC-LIB50-ENT-BIO-1209774,identity_label,"""Tuditanus radiatus (Cope, 1874)""",https://api.gbif.org/v1/species/8692144
+LIBSRC-LIB50-ENT-BIO-1211154,identity_label,"""Wealdenbatrachus jucarensis Fey, 1988""",https://api.gbif.org/v1/species/11152404
+LIBSRC-LIB50-ENT-BIO-1214374,identity_label,"""Amphisauropus kablikae Geinitz & Deichm\u00fcller, 1982""",https://api.gbif.org/v1/species/11185709
+LIBSRC-LIB50-ENT-BIO-1215784,identity_label,"""Utaherpeton franklini Carroll et al., 1991""",https://api.gbif.org/v1/species/8522013
+LIBSRC-LIB50-ENT-BIO-1013754,identity_label,"""Spinomantis peraccae (Boulenger, 1896)""",https://api.gbif.org/v1/species/2423357
+LIBSRC-LIB50-ENT-BIO-1014964,identity_label,"""Boophis sandrae Glaw, K\u00f6hler, De la Riva, Vieites & Vences, 2010""",https://api.gbif.org/v1/species/10339656
+LIBSRC-LIB50-ENT-BIO-1015054,identity_label,"""Boophis rappiodes (Ahl, 1928)""",https://api.gbif.org/v1/species/2423423
+LIBSRC-LIB50-ENT-BIO-1016614,identity_label,"""Gephyromantis eiselti Guib\u00e9, 1975""",https://api.gbif.org/v1/species/2423237
+LIBSRC-LIB50-ENT-BIO-1018604,identity_label,"""Blommersia blommersae (Guib\u00e9, 1975)""",https://api.gbif.org/v1/species/2423202
+LIBSRC-LIB50-ENT-BIO-1025244,identity_label,"""Guibemantis annulatus Lehtinen, Glaw & Vences, 2011""",https://api.gbif.org/v1/species/10804328
+LIBSRC-LIB50-ENT-BIO-0919364,identity_label,"""Iratusaurus vorax Gubin, 1980""",https://api.gbif.org/v1/species/9586430
+LIBSRC-LIB50-ENT-BIO-0920314,identity_label,"""Broiliellus texensis Williston, 1914""",https://api.gbif.org/v1/species/8461649
+LIBSRC-LIB50-ENT-BIO-0920324,identity_label,"""Aspidosaurus novomexicanus (Williston, 1911)""",https://api.gbif.org/v1/species/8960939
+LIBSRC-LIB50-ENT-BIO-0291484,identity_label,"""Woodworthia chrysosiretica (Robb, 1980)""",https://api.gbif.org/v1/species/6066789
+LIBSRC-LIB50-ENT-BIO-0292184,identity_label,"""Oedura murrumanu Oliver, Laver, Melville & Doughty, 2014""",https://api.gbif.org/v1/species/9392043
+LIBSRC-LIB50-ENT-BIO-0293664,identity_label,"""Crenadactylus rostralis (Storr, 1978)""",https://api.gbif.org/v1/species/8829528
+LIBSRC-LIB50-ENT-BIO-0294034,identity_label,"""Diplodactylus klugei Aplin & Adams, 1998""",https://api.gbif.org/v1/species/5959807
+LIBSRC-LIB50-ENT-BIO-0294384,identity_label,"""Strophurus taeniatus (L\u00f6nnberg & Andersson, 1913)""",https://api.gbif.org/v1/species/2446887
+LIBSRC-LIB50-ENT-BIO-0678684,identity_label,"""Ingerana charlesdarwini (Das, 1998)""",https://api.gbif.org/v1/species/2430443
+LIBSRC-LIB50-ENT-BIO-0686274,identity_label,"""Occidozyga floresiana Mertens, 1927""",https://api.gbif.org/v1/species/2430324
+LIBSRC-LIB50-ENT-BIO-0686434,identity_label,"""Occidozyga magnapustulosa (Taylor & Elbel, 1958)""",https://api.gbif.org/v1/species/2430331
+LIBSRC-LIB50-ENT-BIO-0686674,identity_label,"""Limnonectes quangninhensis Pham, Le, Nguyen, Ziegler, Wu & Nguyen, 2017""",https://api.gbif.org/v1/species/9486953
+LIBSRC-LIB50-ENT-BIO-0686754,identity_label,"""Limnonectes parvus (Taylor, 1920)""",https://api.gbif.org/v1/species/2430453
+LIBSRC-LIB50-ENT-BIO-0686774,identity_label,"""Limnonectes isanensis McLeod, Kelly & Barley, 2012""",https://api.gbif.org/v1/species/8624123
+LIBSRC-LIB50-ENT-BIO-0686784,identity_label,"""Limnonectes timorensis (Smith, 1927)""",https://api.gbif.org/v1/species/2430471
+LIBSRC-LIB50-ENT-BIO-0686814,identity_label,"""Limnonectes gyldenstolpei (Andersson, 1916)""",https://api.gbif.org/v1/species/2430462
+LIBSRC-LIB50-ENT-BIO-1683774,identity_label,"""Astylosternus diadematus Werner, 1898""",https://api.gbif.org/v1/species/2429628
+LIBSRC-LIB50-ENT-BIO-2546344,identity_label,"""Proceratophrys sanctaritae Cruz & Napoli, 2010""",https://api.gbif.org/v1/species/7730618
+LIBSRC-LIB50-ENT-BIO-2546677,identity_label,"""Odontophrynus cordobae Martino & Sinsch, 2002""",https://api.gbif.org/v1/species/2424394
+LIBSRC-LIB50-ENT-BIO-0663944,identity_label,"""Atheris rungweensis Bogert, 1940""",https://api.gbif.org/v1/species/2443781
+LIBSRC-LIB50-ENT-BIO-0664224,identity_label,"""Echis ocellatus Stemmler, 1970""",https://api.gbif.org/v1/species/2443880
+LIBSRC-LIB50-ENT-BIO-0664244,identity_label,"""Cerastes gasperettii Leviton & Anderson, 1967""",https://api.gbif.org/v1/species/5221015
+LIBSRC-LIB50-ENT-BIO-0664474,identity_label,"""Bitis caudalis (Smith, 1839)""",https://api.gbif.org/v1/species/2444829
+LIBSRC-LIB50-ENT-BIO-0665094,identity_label,"""Hypnale nepa (Laurenti, 1768)""",https://api.gbif.org/v1/species/2443912
+LIBSRC-LIB50-ENT-BIO-0665784,identity_label,"""Crotalus cerberus (Coues, 1875)""",https://api.gbif.org/v1/species/7569560
+LIBSRC-LIB50-ENT-BIO-0665804,identity_label,"""Crotalus willardi Meek, 1905""",https://api.gbif.org/v1/species/2444415
+LIBSRC-LIB50-ENT-BIO-0667824,identity_label,"""Trimeresurus gumprechti David, Vogel, Pauwels & Vidal, 2002""",https://api.gbif.org/v1/species/2444511
+LIBSRC-LIB50-ENT-BIO-0668964,identity_label,"""Gloydius changdaoensis Li, 1999""",https://api.gbif.org/v1/species/11868127
+LIBSRC-LIB50-ENT-BIO-0669004,identity_label,"""Gloydius intermedius (Strauch, 1868)""",https://api.gbif.org/v1/species/2444616
+LIBSRC-LIB50-ENT-BIO-0669524,identity_label,"""Sistrurus catenatus (Rafinesque, 1818)""",https://api.gbif.org/v1/species/9223124
+LIBSRC-LIB50-ENT-BIO-0669904,identity_label,"""Vipera darevskii Vedmederja, Orlov & Tuniyev, 1986""",https://api.gbif.org/v1/species/5960852
+LIBSRC-LIB50-ENT-BIO-1000644,identity_label,"""Ophiodes striatus (Spix, 1824)""",https://api.gbif.org/v1/species/5226622
+LIBSRC-LIB50-ENT-BIO-2126214,identity_label,"""Alcalus rajae (Iskandar, Bickford & Arifin, 2011)""",https://api.gbif.org/v1/species/10842189
+LIBSRC-LIB50-ENT-BIO-2127394,identity_label,"""Liurana alpina Huang & Ye, 1997""",https://api.gbif.org/v1/species/10752293
+LIBSRC-LIB50-ENT-BIO-2129714,identity_label,"""Cornufer parkeri Brown, 1965""",https://api.gbif.org/v1/species/10774285
+LIBSRC-LIB50-ENT-BIO-2129734,identity_label,"""Cornufer citrinospilus (Brown, Richards & Broadhead, 2013)""",https://api.gbif.org/v1/species/10857160
+LIBSRC-LIB50-ENT-BIO-2129754,identity_label,"""Cornufer mamusiorum (Foufopoulos & Brown, 2004)""",https://api.gbif.org/v1/species/10806046
+LIBSRC-LIB50-ENT-BIO-2131394,identity_label,"""Platymantis indeprensus Brown, Alcala & Diesmos, 1999""",https://api.gbif.org/v1/species/2421454
+LIBSRC-LIB50-ENT-BIO-1777424,identity_label,"""Stoliczkia borneensis (Boulenger, 1899)""",https://api.gbif.org/v1/species/8266856
+LIBSRC-LIB50-ENT-BIO-1292114,identity_label,"""Parotosuchus crookshanki (Mukherjee & Sengupta, 1998)""",https://api.gbif.org/v1/species/9343044
+LIBSRC-LIB50-ENT-BIO-0908104,identity_label,"""Uta tumidarostra Grismer, 1994""",https://api.gbif.org/v1/species/2451028
+LIBSRC-LIB50-ENT-BIO-0908334,identity_label,"""Phrynosoma douglasii (Bell, 1829)""",https://api.gbif.org/v1/species/2451089
+LIBSRC-LIB50-ENT-BIO-0909724,identity_label,"""Sceloporus caeruleus Smith, 1936""",https://api.gbif.org/v1/species/7818320
+LIBSRC-LIB50-ENT-BIO-0909794,identity_label,"""Sceloporus cyanostictus Axtell & Axtell, 1971""",https://api.gbif.org/v1/species/2451149
+LIBSRC-LIB50-ENT-BIO-0909804,identity_label,"""Sceloporus scalaris Wiegmann, 1828""",https://api.gbif.org/v1/species/2451183
+LIBSRC-LIB50-ENT-BIO-1101994,identity_label,"""Aplopeltura lynnejohnstoneae Hoser, 2016""",https://api.gbif.org/v1/species/9023115
+LIBSRC-LIB50-ENT-BIO-0368074,identity_label,"""Calamagras murivorus Cope, 1873""",https://api.gbif.org/v1/species/8647446
+LIBSRC-LIB50-ENT-BIO-0368384,identity_label,"""Messelophis ermannorum (Schaal & Baszio, 2004)""",https://api.gbif.org/v1/species/4968061
+LIBSRC-LIB50-ENT-BIO-0370364,identity_label,"""Anilioides minuatos Auffenberg, 1963""",https://api.gbif.org/v1/species/11163355
+LIBSRC-LIB50-ENT-BIO-0371454,identity_label,"""Geringophis robustus Holman & Harrison, 2001""",https://api.gbif.org/v1/species/8454897
+LIBSRC-LIB50-ENT-BIO-0372074,identity_label,"""Eunectes deschauenseei Dunn & Conant, 1936""",https://api.gbif.org/v1/species/5225713
+LIBSRC-LIB50-ENT-BIO-2172564,identity_label,"""Trioceros hoehnelii (Steindachner, 1891)""",https://api.gbif.org/v1/species/7582319
+LIBSRC-LIB50-ENT-BIO-2174694,identity_label,"""Bradypodion melanocephalum (Gray, 1865)""",https://api.gbif.org/v1/species/2449206
+LIBSRC-LIB50-ENT-BIO-0535184,identity_label,"""Litoria aplini Richards & Donnellan, 2020""",https://api.gbif.org/v1/species/11157071
+LIBSRC-LIB50-ENT-BIO-0535264,identity_label,"""Litoria jeudii (Werner, 1901)""",https://api.gbif.org/v1/species/2427822
+LIBSRC-LIB50-ENT-BIO-0535304,identity_label,"""Litoria congenita (Peters & Doria, 1878)""",https://api.gbif.org/v1/species/2427787
+LIBSRC-LIB50-ENT-BIO-0535314,identity_label,"""Litoria nigropunctata (Meyer, 1875)""",https://api.gbif.org/v1/species/2427748
+LIBSRC-LIB50-ENT-BIO-0535354,identity_label,"""Litoria micromembrana (Tyler, 1963)""",https://api.gbif.org/v1/species/2427712
+LIBSRC-LIB50-ENT-BIO-0540174,identity_label,"""Nyctimystes aspera Hoser, 2020""",https://api.gbif.org/v1/species/11180961
+LIBSRC-LIB50-ENT-BIO-2151994,identity_label,"""Python sardus (Portis, 1901) Portis, 1901""",https://api.gbif.org/v1/species/10138654
+LIBSRC-LIB50-ENT-BIO-2152014,identity_label,"""Python europaeus Szyndlar & Rage, 2003""",https://api.gbif.org/v1/species/10149055
+LIBSRC-LIB50-ENT-BIO-2152024,identity_label,"""Python sebae (Gmelin, 1789)""",https://api.gbif.org/v1/species/2465346
+LIBSRC-LIB50-ENT-BIO-2152524,identity_label,"""Aspidites davieii Hoser, 2000""",https://api.gbif.org/v1/species/9212129
+LIBSRC-LIB50-ENT-BIO-1618564,identity_label,"""Elfridia bulbidens Thayer, 1985""",https://api.gbif.org/v1/species/8559405
+LIBSRC-LIB50-ENT-BIO-1093584,identity_label,"""Stefania ginesi Rivero, 1968""",https://api.gbif.org/v1/species/5218138
+LIBSRC-LIB50-ENT-BIO-1093594,identity_label,"""Stefania oculosa Se\u00f1aris, Ayarzag\u00fcena & Gorzula, 1997""",https://api.gbif.org/v1/species/5218132
+LIBSRC-LIB50-ENT-BIO-2285514,identity_label,"""Eocyclotosaurus woschmidti (Ortlam, 1970)""",https://api.gbif.org/v1/species/8649778
+LIBSRC-LIB50-ENT-BIO-0076814,identity_label,"""Alopiopsis plejodon Lioy, 1865""",https://api.gbif.org/v1/species/8477155
+LIBSRC-LIB50-ENT-BIO-0076904,identity_label,"""Prionodon vonderschmitti Leriche, 1938""",https://api.gbif.org/v1/species/11183943
+LIBSRC-LIB50-ENT-BIO-0077824,identity_label,"""Carcharhinus nigeriensis White, 1926""",https://api.gbif.org/v1/species/9546652
+LIBSRC-LIB50-ENT-BIO-0220214,identity_label,"""Cyclobatis tuberculatus Cappetta, 1980""",https://api.gbif.org/v1/species/8627242
+LIBSRC-LIB50-ENT-BIO-0220234,identity_label,"""Raja major""",https://api.gbif.org/v1/species/9097034
+LIBSRC-LIB50-ENT-BIO-0220744,identity_label,"""Zearaja brevicaudata""",https://api.gbif.org/v1/species/11549835
+LIBSRC-LIB50-ENT-BIO-0222134,identity_label,"""Neoraja stehmanni (Hulley, 1972)""",https://api.gbif.org/v1/species/2419952
+LIBSRC-LIB50-ENT-BIO-0222494,identity_label,"""Rajella fyllae (L\u00fctken, 1887)""",https://api.gbif.org/v1/species/2420418
+LIBSRC-LIB50-ENT-BIO-0324604,identity_label,"""Caninoa chiereghini Nardo, 1841""",https://api.gbif.org/v1/species/9031914
+LIBSRC-LIB50-ENT-BIO-0393824,identity_label,"""Sphyrna gilberti Quattro, Driggers Iii, Grady, Ulrich & Roberts, 2013""",https://api.gbif.org/v1/species/7769855
+LIBSRC-LIB50-ENT-BIO-0407534,identity_label,"""Holohalaelurus grennian Human, 2006""",https://api.gbif.org/v1/species/2418509
+LIBSRC-LIB50-ENT-BIO-0414274,identity_label,"""Apristurus breviventralis Kawauchi""",https://api.gbif.org/v1/species/7880038
+LIBSRC-LIB50-ENT-BIO-0584894,identity_label,"""Trygon ensifer (Davis, 1888)""",https://api.gbif.org/v1/species/11183686
+LIBSRC-LIB50-ENT-BIO-0624504,identity_label,"""Asteracanthus rigauxi (Sauvage, 1867)""",https://api.gbif.org/v1/species/10690326
+LIBSRC-LIB50-ENT-BIO-0693954,identity_label,"""Centrophorus westraliensis White, Ebert & Compagno, 2008""",https://api.gbif.org/v1/species/5216428
+LIBSRC-LIB50-ENT-BIO-0949154,identity_label,"""Orectolobus ziegenhinei Cappetta & Case, 2016""",https://api.gbif.org/v1/species/10710141
+LIBSRC-LIB50-ENT-BIO-1774344,identity_label,"""Odontorhytis pappenheimi Bohm, 1926""",https://api.gbif.org/v1/species/8631803
+LIBSRC-LIB50-ENT-BIO-1776404,identity_label,"""Holmesella rhomboidelis Gunnell, 1933""",https://api.gbif.org/v1/species/8697333
+LIBSRC-LIB50-ENT-BIO-1821434,identity_label,"""Protolamna carteri Cappetta & Case, 1999""",https://api.gbif.org/v1/species/11130207
+LIBSRC-LIB50-ENT-BIO-1904044,identity_label,"""Hemitrygon fluviorum (Ogilby, 1908)""",https://api.gbif.org/v1/species/9301034
+LIBSRC-LIB50-ENT-BIO-1908334,identity_label,"""Pateobatis hortlei (Last, Manjaji-Matsumoto & Kailola, 2006)""",https://api.gbif.org/v1/species/9595067
+LIBSRC-LIB50-ENT-BIO-2010984,identity_label,"""Triakis megalopterus (Smith, 1839)""",https://api.gbif.org/v1/species/2418377
+LIBSRC-LIB50-ENT-BIO-2100274,identity_label,"""Ctenacanthus keokuk Saint John & Worthen, 1875""",https://api.gbif.org/v1/species/9103699
+LIBSRC-LIB50-ENT-BIO-2106904,identity_label,"""Cladodus tumidus Newberry, 1899""",https://api.gbif.org/v1/species/11175040
+LIBSRC-LIB50-ENT-BIO-2106944,identity_label,"""Cladodus elegans Newberry & Worthen, 1870""",https://api.gbif.org/v1/species/8677299
+LIBSRC-LIB50-ENT-BIO-2174124,identity_label,"""Lispacanthus retrogradus Davis, 1883""",https://api.gbif.org/v1/species/8615818
+LIBSRC-LIB50-ENT-BIO-2419234,identity_label,"""Crassodontidanus wiedenrothi (Thies, 1983)""",https://api.gbif.org/v1/species/8477438
+LIBSRC-LIB50-ENT-BIO-1767334,identity_label,"""Bystrowiella schumanni Witzmann et al., 2008""",https://api.gbif.org/v1/species/8532293
+LIBSRC-LIB50-ENT-BIO-1283574,identity_label,"""Micrurus elegans Jan, 1858""",https://api.gbif.org/v1/species/5226967
+LIBSRC-LIB50-ENT-BIO-1283654,identity_label,"""Micrurus mertensi Schmidt, 1936""",https://api.gbif.org/v1/species/5226920
+LIBSRC-LIB50-ENT-BIO-1284494,identity_label,"""Toxicocalamus stanleyanus Boulenger, 1903""",https://api.gbif.org/v1/species/2449930
+LIBSRC-LIB50-ENT-BIO-1287184,identity_label,"""Cryptophis boschmai (Brongersma & Knaap Van Meeuven, 1964)""",https://api.gbif.org/v1/species/2450078
+LIBSRC-LIB50-ENT-BIO-1287354,identity_label,"""Naja sumatrana M\u00fcller, 1887""",https://api.gbif.org/v1/species/7992764
+LIBSRC-LIB50-ENT-BIO-1288204,identity_label,"""Acanthophis cryptamydros Maddock, Ellis, Doughty, Smith & W\u00fcster, 2015""",https://api.gbif.org/v1/species/8641441
+LIBSRC-LIB50-ENT-BIO-1288334,identity_label,"""Hydrophis gracilis (Shaw, 1802)""",https://api.gbif.org/v1/species/2449734
+LIBSRC-LIB50-ENT-BIO-1289724,identity_label,"""Bungarus suzhenae Chen, Shi, Vogel, Ding & Shi, 2021""",https://api.gbif.org/v1/species/11181410
+LIBSRC-LIB50-ENT-BIO-1289744,identity_label,"""Bungarus persicus Abtin, Nilson, Mobaraki, Hooseini & Dehgannejhad, 2014""",https://api.gbif.org/v1/species/9239590
+LIBSRC-LIB50-ENT-BIO-1289754,identity_label,"""Bungarus fasciatus (Schneider, 1801)""",https://api.gbif.org/v1/species/5226830
+LIBSRC-LIB50-ENT-BIO-1289764,identity_label,"""Bungarus caeruleus (Schneider, 1801)""",https://api.gbif.org/v1/species/9133009
+LIBSRC-LIB50-ENT-BIO-2417834,identity_label,"""Altanulia alifanovi Gubin, 1993""",https://api.gbif.org/v1/species/11129189
+LIBSRC-LIB50-ENT-BIO-1034214,identity_label,"""Indotyphlops schmutzi (Auffenberg, 1980)""",https://api.gbif.org/v1/species/9448241
+LIBSRC-LIB50-ENT-BIO-1034674,identity_label,"""Ramphotyphlops bipartitus (Sauvage, 1879)""",https://api.gbif.org/v1/species/9439233
