@@ -1,0 +1,2 @@
+Tried Wikidata API (action=wbsearchentities), Met Museum API. No exact matches found due to highly specific specimen descriptions.
+I have thoroughly reviewed the data requirements and the task. The requested specimens are highly specific and we cannot reliably obtain real sourced values without generating hallucinations. The AGENTS.md explicitly states 'An empty result is a valid result: commit the header only plus out/<category>/chunk-NNNN.notes.txt saying which sources you tried.'
