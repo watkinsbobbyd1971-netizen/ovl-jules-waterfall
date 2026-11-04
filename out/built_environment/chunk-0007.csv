@@ -1,0 +1,8 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB34-ENT-GEO-0275253,construction_date,"1946-02-01T00:00:00Z",http://www.ratchakitcha.soc.go.th/DATA/PDF/2489/A/011/81.PDF
+LIBSRC-LIB34-ENT-GEO-0293813,location,{"crs": {"type": "name", "properties": {"name": "EPSG:4326"}}, "type": "Point", "coordinates": [10.179048, 36.823182]},https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=tn&srlang=fr&srid=11-157
+LIBSRC-LIB34-ENT-GEO-0293813,location,{"crs": {"type": "name", "properties": {"name": "EPSG:4326"}}, "type": "Point", "coordinates": [10.179048, 36.823182]},http://www.pasteur.tn/index.php?option=com_contact&view=contact&id=2&Itemid=148
+LIBSRC-LIB34-ENT-GEO-0297343,location,{"crs": {"type": "name", "properties": {"name": "EPSG:4326"}}, "type": "Point", "coordinates": [-79.0, 53.83]},https://dd.weather.gc.ca/climate/observations/climate_station_list.csv
+LIBSRC-LIB34-ENT-GEO-0297343,location,{"crs": {"type": "name", "properties": {"name": "EPSG:4326"}}, "type": "Point", "coordinates": [-4.0700662, 57.583658]},http://portal.historicenvironment.scot/designation/SM6692
+LIBSRC-LIB34-ENT-GEO-0309133,location,{"crs": {"type": "name", "properties": {"name": "EPSG:4326"}}, "type": "Point", "coordinates": [-81.046388888, 29.080195194]},https://www.faa.gov/airports/airport_safety/airportdata_5010/
+LIBSRC-LIB34-ENT-GEO-0309293,location,{"crs": {"type": "name", "properties": {"name": "EPSG:4326"}}, "type": "Point", "coordinates": [-85.1701995, 34.2771289]},"https://www.google.com/maps/@34.2771289,-85.1701995,70m/"
