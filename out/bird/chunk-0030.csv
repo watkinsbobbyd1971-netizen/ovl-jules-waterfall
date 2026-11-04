@@ -1,0 +1,6 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-1407523,identity_label,"""Grandala""",https://api.gbif.org/v1/species/2492673
+LIBSRC-LIB50-ENT-BIO-1448103,identity_label,"""Tepui Elaenia""",https://api.gbif.org/v1/species/7394570
+LIBSRC-LIB50-ENT-BIO-1449973,identity_label,"""Plain Inezia""",https://api.gbif.org/v1/species/5229714
+LIBSRC-LIB50-ENT-BIO-2245862,identity_label,"""Yellow-crowned Euphonia""",https://api.gbif.org/v1/species/2487979
+LIBSRC-LIB50-ENT-BIO-2339192,identity_label,"""Sulphur-bellied Neopelma""",https://api.gbif.org/v1/species/5230512
