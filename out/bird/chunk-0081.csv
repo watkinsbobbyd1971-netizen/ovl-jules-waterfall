@@ -1,0 +1,8 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-0382516,identity_label,"""Passerina ciris (Linnaeus, 1758)""",https://api.gbif.org/v1/species/5230852
+LIBSRC-LIB50-ENT-BIO-0801056,identity_label,"""Oceanites zaloscarthmus Olson, 1985""",https://api.gbif.org/v1/species/8595615
+LIBSRC-LIB50-ENT-BIO-0523807,identity_label,"""Lanioturdus torquatus Waterhouse, 1838""",https://api.gbif.org/v1/species/2492309
+LIBSRC-LIB50-ENT-BIO-0654077,identity_label,"""Gecinulus viridis Blyth, 1862""",https://api.gbif.org/v1/species/2478220
+LIBSRC-LIB50-ENT-BIO-0654147,identity_label,"""Sphyrapicus varius (Linnaeus, 1766)""",https://api.gbif.org/v1/species/2478605
+LIBSRC-LIB50-ENT-BIO-0655477,identity_label,"""Campephilus magellanicus (P.P.King, 1827)""",https://api.gbif.org/v1/species/2478578
+LIBSRC-LIB50-ENT-BIO-0655806,identity_label,"""Picumnus varzeae E.Snethlage, 1912""",https://api.gbif.org/v1/species/5228716
