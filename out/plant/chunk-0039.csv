@@ -1,0 +1,10 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-0580026,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/3176552/speciesProfiles
+LIBSRC-LIB50-ENT-BIO-0567456,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/2891720/speciesProfiles
+LIBSRC-LIB50-ENT-BIO-0567536,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/9823072/speciesProfiles
+LIBSRC-LIB50-ENT-BIO-0567516,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/7156971/speciesProfiles
+LIBSRC-LIB50-ENT-BIO-0702116,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/5372647/speciesProfiles
+LIBSRC-LIB50-ENT-BIO-0700396,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/3040233/speciesProfiles
+LIBSRC-LIB50-ENT-BIO-0683596,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/2900952/speciesProfiles
+LIBSRC-LIB50-ENT-BIO-0702186,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/5582973/speciesProfiles
+LIBSRC-LIB50-ENT-BIO-0700306,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/3040184/speciesProfiles
