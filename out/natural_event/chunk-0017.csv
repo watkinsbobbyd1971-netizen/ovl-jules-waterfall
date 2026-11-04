@@ -1,0 +1,541 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB57-ENT-DIS-0005918,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905919
+LIBSRC-LIB57-ENT-DIS-0005918,magnitude_with_scale,"""7.44""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905919
+LIBSRC-LIB57-ENT-DIS-0005918,phenomenon_time,"""1933-11-20T23:21:35Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905919
+LIBSRC-LIB57-ENT-DIS-0005918,location,"""Baffin Bay""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905919
+LIBSRC-LIB57-ENT-DIS-0009725,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957878
+LIBSRC-LIB57-ENT-DIS-0009725,magnitude_with_scale,"""7.24""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957878
+LIBSRC-LIB57-ENT-DIS-0009725,phenomenon_time,"""1905-11-08T22:06:11Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957878
+LIBSRC-LIB57-ENT-DIS-0009725,location,"""Aegean Sea""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957878
+LIBSRC-LIB57-ENT-DIS-0009970,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000hvrb
+LIBSRC-LIB57-ENT-DIS-0009970,magnitude_with_scale,"""6.1""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000hvrb
+LIBSRC-LIB57-ENT-DIS-0009970,phenomenon_time,"""2011-03-11T08:15:41Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000hvrb
+LIBSRC-LIB57-ENT-DIS-0009970,location,"""off the east coast of Honshu, Japan""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000hvrb
+LIBSRC-LIB57-ENT-DIS-0006387,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000ldbb
+LIBSRC-LIB57-ENT-DIS-0006387,magnitude_with_scale,"""6.1""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000ldbb
+LIBSRC-LIB57-ENT-DIS-0006387,phenomenon_time,"""2023-10-06T01:31:17Z""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000ldbb
+LIBSRC-LIB57-ENT-DIS-0006387,location,"""Izu Islands, Japan region""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000ldbb
+LIBSRC-LIB57-ENT-DIS-0003278,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0001rkp
+LIBSRC-LIB57-ENT-DIS-0003278,magnitude_with_scale,"""6.3""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0001rkp
+LIBSRC-LIB57-ENT-DIS-0003278,phenomenon_time,"""1982-12-20T17:46:08Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0001rkp
+LIBSRC-LIB57-ENT-DIS-0003278,location,"""265 km SSW of \u2018Ohonua, Tonga""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0001rkp
+LIBSRC-LIB57-ENT-DIS-0003067,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000084t
+LIBSRC-LIB57-ENT-DIS-0003067,magnitude_with_scale,"""6.2""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000084t
+LIBSRC-LIB57-ENT-DIS-0003067,phenomenon_time,"""1974-09-23T19:28:17Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000084t
+LIBSRC-LIB57-ENT-DIS-0003067,location,"""64 km NNE of Lastoursville, Gabon""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000084t
+LIBSRC-LIB57-ENT-DIS-0009346,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000cg0q
+LIBSRC-LIB57-ENT-DIS-0009346,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000cg0q
+LIBSRC-LIB57-ENT-DIS-0009346,phenomenon_time,"""2003-12-25T14:21:14Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000cg0q
+LIBSRC-LIB57-ENT-DIS-0009346,location,"""south of the Kermadec Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000cg0q
+LIBSRC-LIB57-ENT-DIS-0004395,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/ushis737
+LIBSRC-LIB57-ENT-DIS-0004395,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/ushis737
+LIBSRC-LIB57-ENT-DIS-0004395,phenomenon_time,"""1926-03-20T09:03:00Z""",https://earthquake.usgs.gov/earthquakes/eventpage/ushis737
+LIBSRC-LIB57-ENT-DIS-0004395,location,"""41 km NE of Hala\u2018ula, Hawaii""",https://earthquake.usgs.gov/earthquakes/eventpage/ushis737
+LIBSRC-LIB57-ENT-DIS-0006606,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000312n
+LIBSRC-LIB57-ENT-DIS-0006606,magnitude_with_scale,"""6.4""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000312n
+LIBSRC-LIB57-ENT-DIS-0006606,phenomenon_time,"""1986-12-22T14:18:37Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000312n
+LIBSRC-LIB57-ENT-DIS-0006606,location,"""Scotia Sea""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000312n
+LIBSRC-LIB57-ENT-DIS-0005852,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/us100044k6
+LIBSRC-LIB57-ENT-DIS-0005852,magnitude_with_scale,"""7.2""",https://earthquake.usgs.gov/earthquakes/eventpage/us100044k6
+LIBSRC-LIB57-ENT-DIS-0005852,phenomenon_time,"""2015-12-07T07:50:05Z""",https://earthquake.usgs.gov/earthquakes/eventpage/us100044k6
+LIBSRC-LIB57-ENT-DIS-0005852,location,"""104 km W of Murghob, Tajikistan""",https://earthquake.usgs.gov/earthquakes/eventpage/us100044k6
+LIBSRC-LIB57-ENT-DIS-0004524,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000y1y
+LIBSRC-LIB57-ENT-DIS-0004524,magnitude_with_scale,"""7""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000y1y
+LIBSRC-LIB57-ENT-DIS-0004524,phenomenon_time,"""1978-12-23T11:23:12Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000y1y
+LIBSRC-LIB57-ENT-DIS-0004524,location,"""94 km SSE of Hualien City, Taiwan""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000y1y
+LIBSRC-LIB57-ENT-DIS-0009021,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem842581
+LIBSRC-LIB57-ENT-DIS-0009021,magnitude_with_scale,"""8.1""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem842581
+LIBSRC-LIB57-ENT-DIS-0009021,phenomenon_time,"""1966-10-17T21:41:58Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem842581
+LIBSRC-LIB57-ENT-DIS-0009021,location,"""67 km W of Paramonga, Peru""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem842581
+LIBSRC-LIB57-ENT-DIS-0008994,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/official19631013051759_30
+LIBSRC-LIB57-ENT-DIS-0008994,magnitude_with_scale,"""8.5""",https://earthquake.usgs.gov/earthquakes/eventpage/official19631013051759_30
+LIBSRC-LIB57-ENT-DIS-0008994,phenomenon_time,"""1963-10-13T05:17:59Z""",https://earthquake.usgs.gov/earthquakes/eventpage/official19631013051759_30
+LIBSRC-LIB57-ENT-DIS-0008994,location,"""1963 Kuril Islands Earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/official19631013051759_30
+LIBSRC-LIB57-ENT-DIS-0006270,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000gdgn
+LIBSRC-LIB57-ENT-DIS-0006270,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000gdgn
+LIBSRC-LIB57-ENT-DIS-0006270,phenomenon_time,"""2021-12-18T20:05:45Z""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000gdgn
+LIBSRC-LIB57-ENT-DIS-0006270,location,"""Prince Edward Islands region""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000gdgn
+LIBSRC-LIB57-ENT-DIS-0001837,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/cent19030201093400000
+LIBSRC-LIB57-ENT-DIS-0001837,magnitude_with_scale,"""7.1""",https://earthquake.usgs.gov/earthquakes/eventpage/cent19030201093400000
+LIBSRC-LIB57-ENT-DIS-0001837,phenomenon_time,"""1903-02-01T09:34:00Z""",https://earthquake.usgs.gov/earthquakes/eventpage/cent19030201093400000
+LIBSRC-LIB57-ENT-DIS-0001837,location,"""Western Mongolia""",https://earthquake.usgs.gov/earthquakes/eventpage/cent19030201093400000
+LIBSRC-LIB57-ENT-DIS-0008607,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913362
+LIBSRC-LIB57-ENT-DIS-0008607,magnitude_with_scale,"""8.01""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913362
+LIBSRC-LIB57-ENT-DIS-0008607,phenomenon_time,"""1918-12-04T11:47:51Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913362
+LIBSRC-LIB57-ENT-DIS-0008607,location,"""60 km W of Diego de Almagro, Chile""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913362
+LIBSRC-LIB57-ENT-DIS-0009932,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897095
+LIBSRC-LIB57-ENT-DIS-0009932,magnitude_with_scale,"""7.58""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897095
+LIBSRC-LIB57-ENT-DIS-0009932,phenomenon_time,"""1949-12-17T15:07:57Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897095
+LIBSRC-LIB57-ENT-DIS-0009932,location,"""109 km SSE of Punta Arenas, Chile""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897095
+LIBSRC-LIB57-ENT-DIS-0008763,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/official19330302173100_30
+LIBSRC-LIB57-ENT-DIS-0008763,magnitude_with_scale,"""8.4""",https://earthquake.usgs.gov/earthquakes/eventpage/official19330302173100_30
+LIBSRC-LIB57-ENT-DIS-0008763,phenomenon_time,"""1933-03-02T17:31:00Z""",https://earthquake.usgs.gov/earthquakes/eventpage/official19330302173100_30
+LIBSRC-LIB57-ENT-DIS-0008763,location,"""1933 Sanriku (Sanriku-oki) Earthquake, Japan""",https://earthquake.usgs.gov/earthquakes/eventpage/official19330302173100_30
+LIBSRC-LIB57-ENT-DIS-0002445,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902187
+LIBSRC-LIB57-ENT-DIS-0002445,magnitude_with_scale,"""7.41""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902187
+LIBSRC-LIB57-ENT-DIS-0002445,phenomenon_time,"""1939-10-10T18:31:59Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902187
+LIBSRC-LIB57-ENT-DIS-0002445,location,"""off the east coast of Honshu, Japan""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902187
+LIBSRC-LIB57-ENT-DIS-0002589,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897124
+LIBSRC-LIB57-ENT-DIS-0002589,magnitude_with_scale,"""6.68""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897124
+LIBSRC-LIB57-ENT-DIS-0002589,phenomenon_time,"""1949-12-27T23:57:15Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897124
+LIBSRC-LIB57-ENT-DIS-0002589,location,"""east of the South Sandwich Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897124
+LIBSRC-LIB57-ENT-DIS-0010130,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/us200082tk
+LIBSRC-LIB57-ENT-DIS-0010130,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/us200082tk
+LIBSRC-LIB57-ENT-DIS-0010130,phenomenon_time,"""2016-12-20T12:33:14Z""",https://earthquake.usgs.gov/earthquakes/eventpage/us200082tk
+LIBSRC-LIB57-ENT-DIS-0010130,location,"""114 km WNW of Kirakira, Solomon Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/us200082tk
+LIBSRC-LIB57-ENT-DIS-0010103,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usc000rknc
+LIBSRC-LIB57-ENT-DIS-0010103,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/usc000rknc
+LIBSRC-LIB57-ENT-DIS-0010103,phenomenon_time,"""2014-06-23T22:29:51Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usc000rknc
+LIBSRC-LIB57-ENT-DIS-0010103,location,"""Rat Islands, Aleutian Islands, Alaska""",https://earthquake.usgs.gov/earthquakes/eventpage/usc000rknc
+LIBSRC-LIB57-ENT-DIS-0002087,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913681
+LIBSRC-LIB57-ENT-DIS-0002087,magnitude_with_scale,"""6.33""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913681
+LIBSRC-LIB57-ENT-DIS-0002087,phenomenon_time,"""1917-10-29T20:36:16Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913681
+LIBSRC-LIB57-ENT-DIS-0002087,location,"""197 km SSE of Kokopo, Papua New Guinea""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913681
+LIBSRC-LIB57-ENT-DIS-0006613,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60
+LIBSRC-LIB57-ENT-DIS-0006613,magnitude_with_scale,"""8.8""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60
+LIBSRC-LIB57-ENT-DIS-0006613,phenomenon_time,"""2025-07-29T23:24:52Z""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60
+LIBSRC-LIB57-ENT-DIS-0006613,location,"""2025 Kamchatka Peninsula, Russia Earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60
+LIBSRC-LIB57-ENT-DIS-0005604,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897130
+LIBSRC-LIB57-ENT-DIS-0005604,magnitude_with_scale,"""7.21""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897130
+LIBSRC-LIB57-ENT-DIS-0005604,phenomenon_time,"""1949-12-29T03:03:56Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897130
+LIBSRC-LIB57-ENT-DIS-0005604,location,"""7 km N of Agbannawag, Philippines""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897130
+LIBSRC-LIB57-ENT-DIS-0004766,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp00081z6
+LIBSRC-LIB57-ENT-DIS-0004766,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/usp00081z6
+LIBSRC-LIB57-ENT-DIS-0004766,phenomenon_time,"""1997-05-09T09:06:37Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp00081z6
+LIBSRC-LIB57-ENT-DIS-0004766,location,"""8 km SSE of Merizo Village, Guam""",https://earthquake.usgs.gov/earthquakes/eventpage/usp00081z6
+LIBSRC-LIB57-ENT-DIS-0002975,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem794513
+LIBSRC-LIB57-ENT-DIS-0002975,magnitude_with_scale,"""7.3""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem794513
+LIBSRC-LIB57-ENT-DIS-0002975,phenomenon_time,"""1970-06-11T16:46:34Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem794513
+LIBSRC-LIB57-ENT-DIS-0002975,location,"""Macquarie Island region""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem794513
+LIBSRC-LIB57-ENT-DIS-0004478,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17291290
+LIBSRC-LIB57-ENT-DIS-0004478,magnitude_with_scale,"""6.55""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17291290
+LIBSRC-LIB57-ENT-DIS-0004478,phenomenon_time,"""1961-12-30T00:39:26Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17291290
+LIBSRC-LIB57-ENT-DIS-0004478,location,"""Rat Islands, Aleutian Islands, Alaska""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17291290
+LIBSRC-LIB57-ENT-DIS-0002850,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem852530
+LIBSRC-LIB57-ENT-DIS-0002850,magnitude_with_scale,"""6.07""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem852530
+LIBSRC-LIB57-ENT-DIS-0002850,phenomenon_time,"""1965-11-19T07:08:09Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem852530
+LIBSRC-LIB57-ENT-DIS-0002850,location,"""Kermadec Islands, New Zealand""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem852530
+LIBSRC-LIB57-ENT-DIS-0004567,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957878
+LIBSRC-LIB57-ENT-DIS-0004567,magnitude_with_scale,"""7.24""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957878
+LIBSRC-LIB57-ENT-DIS-0004567,phenomenon_time,"""1905-11-08T22:06:11Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957878
+LIBSRC-LIB57-ENT-DIS-0004567,location,"""Aegean Sea""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957878
+LIBSRC-LIB57-ENT-DIS-0009199,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp00041kh
+LIBSRC-LIB57-ENT-DIS-0009199,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/usp00041kh
+LIBSRC-LIB57-ENT-DIS-0009199,phenomenon_time,"""1989-11-01T18:36:33Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp00041kh
+LIBSRC-LIB57-ENT-DIS-0009199,location,"""102 km E of Miyako, Japan""",https://earthquake.usgs.gov/earthquakes/eventpage/usp00041kh
+LIBSRC-LIB57-ENT-DIS-0002930,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem816634
+LIBSRC-LIB57-ENT-DIS-0002930,magnitude_with_scale,"""6.33""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem816634
+LIBSRC-LIB57-ENT-DIS-0002930,phenomenon_time,"""1968-09-03T08:19:56Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem816634
+LIBSRC-LIB57-ENT-DIS-0002930,location,"""14 km NNE of Amasra, Turkey""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem816634
+LIBSRC-LIB57-ENT-DIS-0010666,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958085
+LIBSRC-LIB57-ENT-DIS-0010666,magnitude_with_scale,"""6.93""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958085
+LIBSRC-LIB57-ENT-DIS-0010666,phenomenon_time,"""1910-05-31T04:53:56Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958085
+LIBSRC-LIB57-ENT-DIS-0010666,location,"""northern East Pacific Rise""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958085
+LIBSRC-LIB57-ENT-DIS-0008954,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem882875
+LIBSRC-LIB57-ENT-DIS-0008954,magnitude_with_scale,"""6.09""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem882875
+LIBSRC-LIB57-ENT-DIS-0008954,phenomenon_time,"""1959-09-12T11:24:32Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem882875
+LIBSRC-LIB57-ENT-DIS-0008954,location,"""182 km SSW of Gizo, Solomon Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem882875
+LIBSRC-LIB57-ENT-DIS-0010570,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60
+LIBSRC-LIB57-ENT-DIS-0010570,magnitude_with_scale,"""8.8""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60
+LIBSRC-LIB57-ENT-DIS-0010570,phenomenon_time,"""2025-07-29T23:24:52Z""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60
+LIBSRC-LIB57-ENT-DIS-0010570,location,"""2025 Kamchatka Peninsula, Russia Earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60
+LIBSRC-LIB57-ENT-DIS-0004668,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16961526
+LIBSRC-LIB57-ENT-DIS-0004668,magnitude_with_scale,"""6.45""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16961526
+LIBSRC-LIB57-ENT-DIS-0004668,phenomenon_time,"""1928-10-20T12:46:40Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16961526
+LIBSRC-LIB57-ENT-DIS-0004668,location,"""84 km NNE of Naze, Japan""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16961526
+LIBSRC-LIB57-ENT-DIS-0009077,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup769047
+LIBSRC-LIB57-ENT-DIS-0009077,magnitude_with_scale,"""6.46""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup769047
+LIBSRC-LIB57-ENT-DIS-0009077,phenomenon_time,"""1972-09-04T18:11:14Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup769047
+LIBSRC-LIB57-ENT-DIS-0009077,location,"""131 km SSE of Lata, Solomon Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup769047
+LIBSRC-LIB57-ENT-DIS-0002655,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891997
+LIBSRC-LIB57-ENT-DIS-0002655,magnitude_with_scale,"""6.32""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891997
+LIBSRC-LIB57-ENT-DIS-0002655,phenomenon_time,"""1953-09-10T04:06:04Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891997
+LIBSRC-LIB57-ENT-DIS-0002655,location,"""9 km WSW of Paphos, Cyprus""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891997
+LIBSRC-LIB57-ENT-DIS-0005447,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/mb19250628020527000
+LIBSRC-LIB57-ENT-DIS-0005447,magnitude_with_scale,"""6.4""",https://earthquake.usgs.gov/earthquakes/eventpage/mb19250628020527000
+LIBSRC-LIB57-ENT-DIS-0005447,phenomenon_time,"""1925-06-28T02:05:27Z""",https://earthquake.usgs.gov/earthquakes/eventpage/mb19250628020527000
+LIBSRC-LIB57-ENT-DIS-0005447,location,"""Clarkston Valley, Montana (Aftershock)""",https://earthquake.usgs.gov/earthquakes/eventpage/mb19250628020527000
+LIBSRC-LIB57-ENT-DIS-0010271,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957878
+LIBSRC-LIB57-ENT-DIS-0010271,magnitude_with_scale,"""7.24""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957878
+LIBSRC-LIB57-ENT-DIS-0010271,phenomenon_time,"""1905-11-08T22:06:11Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957878
+LIBSRC-LIB57-ENT-DIS-0010271,location,"""Aegean Sea""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957878
+LIBSRC-LIB57-ENT-DIS-0009837,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901221
+LIBSRC-LIB57-ENT-DIS-0009837,magnitude_with_scale,"""6.02""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901221
+LIBSRC-LIB57-ENT-DIS-0009837,phenomenon_time,"""1940-03-04T19:59:09Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901221
+LIBSRC-LIB57-ENT-DIS-0009837,location,"""northern Mid-Atlantic Ridge""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901221
+LIBSRC-LIB57-ENT-DIS-0004382,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912127
+LIBSRC-LIB57-ENT-DIS-0004382,magnitude_with_scale,"""6.33""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912127
+LIBSRC-LIB57-ENT-DIS-0004382,phenomenon_time,"""1922-12-25T03:33:09Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912127
+LIBSRC-LIB57-ENT-DIS-0004382,location,"""86 km NNE of Amberley, New Zealand""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912127
+LIBSRC-LIB57-ENT-DIS-0006238,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/ak021d1u1nos
+LIBSRC-LIB57-ENT-DIS-0006238,magnitude_with_scale,"""6.9""",https://earthquake.usgs.gov/earthquakes/eventpage/ak021d1u1nos
+LIBSRC-LIB57-ENT-DIS-0006238,phenomenon_time,"""2021-10-11T09:10:25Z""",https://earthquake.usgs.gov/earthquakes/eventpage/ak021d1u1nos
+LIBSRC-LIB57-ENT-DIS-0006238,location,"""112 km E of Chignik, Alaska""",https://earthquake.usgs.gov/earthquakes/eventpage/ak021d1u1nos
+LIBSRC-LIB57-ENT-DIS-0009789,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000f115
+LIBSRC-LIB57-ENT-DIS-0009789,magnitude_with_scale,"""6.9""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000f115
+LIBSRC-LIB57-ENT-DIS-0009789,phenomenon_time,"""2006-12-26T12:34:13Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000f115
+LIBSRC-LIB57-ENT-DIS-0009789,location,"""26 km W of Hengchun, Taiwan""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000f115
+LIBSRC-LIB57-ENT-DIS-0002581,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897155
+LIBSRC-LIB57-ENT-DIS-0002581,magnitude_with_scale,"""6.25""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897155
+LIBSRC-LIB57-ENT-DIS-0002581,phenomenon_time,"""1948-01-17T07:11:12Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897155
+LIBSRC-LIB57-ENT-DIS-0002581,location,"""112 km ENE of Saipan, Northern Mariana Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897155
+LIBSRC-LIB57-ENT-DIS-0004647,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0006npu
+LIBSRC-LIB57-ENT-DIS-0004647,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0006npu
+LIBSRC-LIB57-ENT-DIS-0004647,phenomenon_time,"""1994-11-15T20:39:37Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0006npu
+LIBSRC-LIB57-ENT-DIS-0004647,location,"""Kuril Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0006npu
+LIBSRC-LIB57-ENT-DIS-0008844,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899220
+LIBSRC-LIB57-ENT-DIS-0008844,magnitude_with_scale,"""8.1""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899220
+LIBSRC-LIB57-ENT-DIS-0008844,phenomenon_time,"""1945-11-27T21:56:53Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899220
+LIBSRC-LIB57-ENT-DIS-0008844,location,"""1945 Makran Subduction Zone Earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899220
+LIBSRC-LIB57-ENT-DIS-0008488,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/cent19020112221800000
+LIBSRC-LIB57-ENT-DIS-0008488,magnitude_with_scale,"""7""",https://earthquake.usgs.gov/earthquakes/eventpage/cent19020112221800000
+LIBSRC-LIB57-ENT-DIS-0008488,phenomenon_time,"""1902-01-12T22:18:00Z""",https://earthquake.usgs.gov/earthquakes/eventpage/cent19020112221800000
+LIBSRC-LIB57-ENT-DIS-0008488,location,"""Celebes Sea""",https://earthquake.usgs.gov/earthquakes/eventpage/cent19020112221800000
+LIBSRC-LIB57-ENT-DIS-0008993,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/official19631013051759_30
+LIBSRC-LIB57-ENT-DIS-0008993,magnitude_with_scale,"""8.5""",https://earthquake.usgs.gov/earthquakes/eventpage/official19631013051759_30
+LIBSRC-LIB57-ENT-DIS-0008993,phenomenon_time,"""1963-10-13T05:17:59Z""",https://earthquake.usgs.gov/earthquakes/eventpage/official19631013051759_30
+LIBSRC-LIB57-ENT-DIS-0008993,location,"""1963 Kuril Islands Earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/official19631013051759_30
+LIBSRC-LIB57-ENT-DIS-0008682,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910783
+LIBSRC-LIB57-ENT-DIS-0008682,magnitude_with_scale,"""6.48""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910783
+LIBSRC-LIB57-ENT-DIS-0008682,phenomenon_time,"""1925-12-26T18:23:45Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910783
+LIBSRC-LIB57-ENT-DIS-0008682,location,"""6 km NE of Taligaman, Philippines""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910783
+LIBSRC-LIB57-ENT-DIS-0009783,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905823
+LIBSRC-LIB57-ENT-DIS-0009783,magnitude_with_scale,"""6.3""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905823
+LIBSRC-LIB57-ENT-DIS-0009783,phenomenon_time,"""1933-09-21T09:47:59Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905823
+LIBSRC-LIB57-ENT-DIS-0009783,location,"""off the east coast of Honshu, Japan""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905823
+LIBSRC-LIB57-ENT-DIS-0005476,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000hvrb
+LIBSRC-LIB57-ENT-DIS-0005476,magnitude_with_scale,"""6.1""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000hvrb
+LIBSRC-LIB57-ENT-DIS-0005476,phenomenon_time,"""2011-03-11T08:15:41Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000hvrb
+LIBSRC-LIB57-ENT-DIS-0005476,location,"""off the east coast of Honshu, Japan""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000hvrb
+LIBSRC-LIB57-ENT-DIS-0002586,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896695
+LIBSRC-LIB57-ENT-DIS-0002586,magnitude_with_scale,"""6.03""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896695
+LIBSRC-LIB57-ENT-DIS-0002586,phenomenon_time,"""1949-07-19T17:42:15Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896695
+LIBSRC-LIB57-ENT-DIS-0002586,location,"""40 km WSW of Karakenja, Tajikistan""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896695
+LIBSRC-LIB57-ENT-DIS-0002094,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913745
+LIBSRC-LIB57-ENT-DIS-0002094,magnitude_with_scale,"""7.18""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913745
+LIBSRC-LIB57-ENT-DIS-0002094,phenomenon_time,"""1917-12-29T22:50:39Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913745
+LIBSRC-LIB57-ENT-DIS-0002094,location,"""31 km S of San Francisco Cozoaltepec, Mexico""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913745
+LIBSRC-LIB57-ENT-DIS-0009052,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem790180
+LIBSRC-LIB57-ENT-DIS-0009052,magnitude_with_scale,"""6.58""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem790180
+LIBSRC-LIB57-ENT-DIS-0009052,phenomenon_time,"""1970-11-13T14:16:23Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem790180
+LIBSRC-LIB57-ENT-DIS-0009052,location,"""8 km NNE of Placer, Philippines""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem790180
+LIBSRC-LIB57-ENT-DIS-0005294,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000gu0z
+LIBSRC-LIB57-ENT-DIS-0005294,magnitude_with_scale,"""6.1""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000gu0z
+LIBSRC-LIB57-ENT-DIS-0005294,phenomenon_time,"""2009-02-15T10:04:49Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000gu0z
+LIBSRC-LIB57-ENT-DIS-0005294,location,"""near the coast of northern Peru""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000gu0z
+LIBSRC-LIB57-ENT-DIS-0009186,event_type,"""nuclear explosion""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0003bkh
+LIBSRC-LIB57-ENT-DIS-0009186,magnitude_with_scale,"""6.1""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0003bkh
+LIBSRC-LIB57-ENT-DIS-0009186,phenomenon_time,"""1987-12-27T03:05:04Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0003bkh
+LIBSRC-LIB57-ENT-DIS-0009186,location,"""100 km S of Kurchatov, Kazakhstan""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0003bkh
+LIBSRC-LIB57-ENT-DIS-0005107,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913866
+LIBSRC-LIB57-ENT-DIS-0005107,magnitude_with_scale,"""6.39""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913866
+LIBSRC-LIB57-ENT-DIS-0005107,phenomenon_time,"""1916-11-14T22:31:41Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913866
+LIBSRC-LIB57-ENT-DIS-0005107,location,"""18 km NW of Douliu, Taiwan""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913866
+LIBSRC-LIB57-ENT-DIS-0004938,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000g78b
+LIBSRC-LIB57-ENT-DIS-0004938,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000g78b
+LIBSRC-LIB57-ENT-DIS-0004938,phenomenon_time,"""2008-05-19T14:26:45Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000g78b
+LIBSRC-LIB57-ENT-DIS-0004938,location,"""31 km NNW of Padangsidempuan, Indonesia""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000g78b
+LIBSRC-LIB57-ENT-DIS-0008669,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911174
+LIBSRC-LIB57-ENT-DIS-0008669,magnitude_with_scale,"""6.23""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911174
+LIBSRC-LIB57-ENT-DIS-0008669,phenomenon_time,"""1924-10-27T19:57:12Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911174
+LIBSRC-LIB57-ENT-DIS-0008669,location,"""3 km NNE of Rimpeso, Philippines""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911174
+LIBSRC-LIB57-ENT-DIS-0002147,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912145
+LIBSRC-LIB57-ENT-DIS-0002147,magnitude_with_scale,"""6.53""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912145
+LIBSRC-LIB57-ENT-DIS-0002147,phenomenon_time,"""1921-01-09T12:55:07Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912145
+LIBSRC-LIB57-ENT-DIS-0002147,location,"""12 km S of Chiara, Peru""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912145
+LIBSRC-LIB57-ENT-DIS-0001962,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958054
+LIBSRC-LIB57-ENT-DIS-0001962,magnitude_with_scale,"""7.16""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958054
+LIBSRC-LIB57-ENT-DIS-0001962,phenomenon_time,"""1909-10-20T23:41:39Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958054
+LIBSRC-LIB57-ENT-DIS-0001962,location,"""58 km SW of Bhag, Pakistan""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958054
+LIBSRC-LIB57-ENT-DIS-0005541,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902374
+LIBSRC-LIB57-ENT-DIS-0005541,magnitude_with_scale,"""6.64""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902374
+LIBSRC-LIB57-ENT-DIS-0005541,phenomenon_time,"""1938-02-13T08:03:56Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902374
+LIBSRC-LIB57-ENT-DIS-0005541,location,"""off the east coast of the North Island of New Zealand""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902374
+LIBSRC-LIB57-ENT-DIS-0002129,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912686
+LIBSRC-LIB57-ENT-DIS-0002129,magnitude_with_scale,"""6.45""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912686
+LIBSRC-LIB57-ENT-DIS-0002129,phenomenon_time,"""1920-12-13T03:43:04Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912686
+LIBSRC-LIB57-ENT-DIS-0002129,location,"""277 km WSW of Gizo, Solomon Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912686
+LIBSRC-LIB57-ENT-DIS-0004822,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000f0t4
+LIBSRC-LIB57-ENT-DIS-0004822,magnitude_with_scale,"""6.2""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000f0t4
+LIBSRC-LIB57-ENT-DIS-0004822,phenomenon_time,"""2006-12-22T19:50:44Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000f0t4
+LIBSRC-LIB57-ENT-DIS-0004822,location,"""Andaman Islands, India region""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000f0t4
+LIBSRC-LIB57-ENT-DIS-0003198,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000121k
+LIBSRC-LIB57-ENT-DIS-0003198,magnitude_with_scale,"""6.9""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000121k
+LIBSRC-LIB57-ENT-DIS-0003198,phenomenon_time,"""1979-07-24T19:31:19Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000121k
+LIBSRC-LIB57-ENT-DIS-0003198,location,"""south of Java, Indonesia""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000121k
+LIBSRC-LIB57-ENT-DIS-0006229,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000gcxa
+LIBSRC-LIB57-ENT-DIS-0006229,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000gcxa
+LIBSRC-LIB57-ENT-DIS-0006229,phenomenon_time,"""2021-12-16T21:14:46Z""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000gcxa
+LIBSRC-LIB57-ENT-DIS-0006229,location,"""South Sandwich Islands region""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000gcxa
+LIBSRC-LIB57-ENT-DIS-0006152,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/uu19340312150548000
+LIBSRC-LIB57-ENT-DIS-0006152,magnitude_with_scale,"""6.6""",https://earthquake.usgs.gov/earthquakes/eventpage/uu19340312150548000
+LIBSRC-LIB57-ENT-DIS-0006152,phenomenon_time,"""1934-03-12T15:05:48Z""",https://earthquake.usgs.gov/earthquakes/eventpage/uu19340312150548000
+LIBSRC-LIB57-ENT-DIS-0006152,location,"""The 1934 Hansel Valley, Utah Earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/uu19340312150548000
+LIBSRC-LIB57-ENT-DIS-0001986,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958123
+LIBSRC-LIB57-ENT-DIS-0001986,magnitude_with_scale,"""7.46""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958123
+LIBSRC-LIB57-ENT-DIS-0001986,phenomenon_time,"""1910-12-10T09:26:46Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958123
+LIBSRC-LIB57-ENT-DIS-0001986,location,"""47 km ESE of Kirakira, Solomon Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958123
+LIBSRC-LIB57-ENT-DIS-0009978,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000jc7p
+LIBSRC-LIB57-ENT-DIS-0009978,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000jc7p
+LIBSRC-LIB57-ENT-DIS-0009978,phenomenon_time,"""2011-12-15T10:10:07Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000jc7p
+LIBSRC-LIB57-ENT-DIS-0009978,location,"""south of the Kermadec Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000jc7p
+LIBSRC-LIB57-ENT-DIS-0010578,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/cent19020112221800000
+LIBSRC-LIB57-ENT-DIS-0010578,magnitude_with_scale,"""7""",https://earthquake.usgs.gov/earthquakes/eventpage/cent19020112221800000
+LIBSRC-LIB57-ENT-DIS-0010578,phenomenon_time,"""1902-01-12T22:18:00Z""",https://earthquake.usgs.gov/earthquakes/eventpage/cent19020112221800000
+LIBSRC-LIB57-ENT-DIS-0010578,location,"""Celebes Sea""",https://earthquake.usgs.gov/earthquakes/eventpage/cent19020112221800000
+LIBSRC-LIB57-ENT-DIS-0010541,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892293
+LIBSRC-LIB57-ENT-DIS-0010541,magnitude_with_scale,"""6.03""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892293
+LIBSRC-LIB57-ENT-DIS-0010541,phenomenon_time,"""1953-12-16T02:39:57Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892293
+LIBSRC-LIB57-ENT-DIS-0010541,location,"""Bouvet Island region""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892293
+LIBSRC-LIB57-ENT-DIS-0010436,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000evvx
+LIBSRC-LIB57-ENT-DIS-0010436,magnitude_with_scale,"""6.4""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000evvx
+LIBSRC-LIB57-ENT-DIS-0010436,phenomenon_time,"""2006-10-23T21:17:19Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000evvx
+LIBSRC-LIB57-ENT-DIS-0010436,location,"""Izu Islands, Japan region""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000evvx
+LIBSRC-LIB57-ENT-DIS-0010190,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000a05
+LIBSRC-LIB57-ENT-DIS-0010190,magnitude_with_scale,"""6.2""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000a05
+LIBSRC-LIB57-ENT-DIS-0010190,phenomenon_time,"""1975-02-22T22:04:37Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000a05
+LIBSRC-LIB57-ENT-DIS-0010190,location,"""south of the Fiji Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000a05
+LIBSRC-LIB57-ENT-DIS-0002531,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899161
+LIBSRC-LIB57-ENT-DIS-0002531,magnitude_with_scale,"""6.13""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899161
+LIBSRC-LIB57-ENT-DIS-0002531,phenomenon_time,"""1945-10-26T13:56:47Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899161
+LIBSRC-LIB57-ENT-DIS-0002531,location,"""7 km S of Daday, Turkey""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899161
+LIBSRC-LIB57-ENT-DIS-0004723,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0003bab
+LIBSRC-LIB57-ENT-DIS-0004723,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0003bab
+LIBSRC-LIB57-ENT-DIS-0004723,phenomenon_time,"""1987-12-15T14:57:40Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0003bab
+LIBSRC-LIB57-ENT-DIS-0004723,location,"""Volcano Islands, Japan region""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0003bab
+LIBSRC-LIB57-ENT-DIS-0008723,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908989
+LIBSRC-LIB57-ENT-DIS-0008723,magnitude_with_scale,"""7.23""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908989
+LIBSRC-LIB57-ENT-DIS-0008723,phenomenon_time,"""1928-12-02T04:20:26Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908989
+LIBSRC-LIB57-ENT-DIS-0008723,location,"""47 km NW of Cauquenes, Chile""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908989
+LIBSRC-LIB57-ENT-DIS-0008634,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912362
+LIBSRC-LIB57-ENT-DIS-0008634,magnitude_with_scale,"""7.44""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912362
+LIBSRC-LIB57-ENT-DIS-0008634,phenomenon_time,"""1921-11-11T18:36:18Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912362
+LIBSRC-LIB57-ENT-DIS-0008634,location,"""62 km E of Baculin, Philippines""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912362
+LIBSRC-LIB57-ENT-DIS-0002504,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900127
+LIBSRC-LIB57-ENT-DIS-0002504,magnitude_with_scale,"""6.39""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900127
+LIBSRC-LIB57-ENT-DIS-0002504,phenomenon_time,"""1943-12-13T15:53:23Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900127
+LIBSRC-LIB57-ENT-DIS-0002504,location,"""6 km N of Santa Monica, Philippines""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900127
+LIBSRC-LIB57-ENT-DIS-0003366,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0002phb
+LIBSRC-LIB57-ENT-DIS-0003366,magnitude_with_scale,"""6.3""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0002phb
+LIBSRC-LIB57-ENT-DIS-0003366,phenomenon_time,"""1985-12-28T15:41:03Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0002phb
+LIBSRC-LIB57-ENT-DIS-0003366,location,"""136 km NW of Sola, Vanuatu""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0002phb
+LIBSRC-LIB57-ENT-DIS-0010382,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000htt3
+LIBSRC-LIB57-ENT-DIS-0010382,magnitude_with_scale,"""6.2""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000htt3
+LIBSRC-LIB57-ENT-DIS-0010382,phenomenon_time,"""2011-01-29T06:55:27Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000htt3
+LIBSRC-LIB57-ENT-DIS-0010382,location,"""75 km E of Olonkinbyen, Svalbard and Jan Mayen""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000htt3
+LIBSRC-LIB57-ENT-DIS-0004690,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000dqs0
+LIBSRC-LIB57-ENT-DIS-0004690,magnitude_with_scale,"""6.7""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000dqs0
+LIBSRC-LIB57-ENT-DIS-0004690,phenomenon_time,"""2005-05-14T05:05:18Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000dqs0
+LIBSRC-LIB57-ENT-DIS-0004690,location,"""125 km SW of Padangsidempuan, Indonesia""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000dqs0
+LIBSRC-LIB57-ENT-DIS-0005653,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usc000f1s0
+LIBSRC-LIB57-ENT-DIS-0005653,magnitude_with_scale,"""8""",https://earthquake.usgs.gov/earthquakes/eventpage/usc000f1s0
+LIBSRC-LIB57-ENT-DIS-0005653,phenomenon_time,"""2013-02-06T01:12:25Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usc000f1s0
+LIBSRC-LIB57-ENT-DIS-0005653,location,"""2013 Santa Cruz Islands Earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usc000f1s0
+LIBSRC-LIB57-ENT-DIS-0010426,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905954
+LIBSRC-LIB57-ENT-DIS-0010426,magnitude_with_scale,"""6.38""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905954
+LIBSRC-LIB57-ENT-DIS-0010426,phenomenon_time,"""1933-12-14T07:16:36Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905954
+LIBSRC-LIB57-ENT-DIS-0010426,location,"""6 km NE of Aquila, Mexico""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905954
+LIBSRC-LIB57-ENT-DIS-0001807,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/cent19010809183300000
+LIBSRC-LIB57-ENT-DIS-0001807,magnitude_with_scale,"""7.5""",https://earthquake.usgs.gov/earthquakes/eventpage/cent19010809183300000
+LIBSRC-LIB57-ENT-DIS-0001807,phenomenon_time,"""1901-08-09T18:33:00Z""",https://earthquake.usgs.gov/earthquakes/eventpage/cent19010809183300000
+LIBSRC-LIB57-ENT-DIS-0001807,location,"""Near the east coast of Honshu, Japan""",https://earthquake.usgs.gov/earthquakes/eventpage/cent19010809183300000
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP159-REC31628,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000gp76
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP159-REC31628,magnitude_with_scale,"""6.4""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000gp76
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP159-REC31628,phenomenon_time,"""2008-11-22T16:01:39Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000gp76
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP159-REC31628,location,"""southeast of the Loyalty Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000gp76
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP178-REC35538,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/official19631013051759_30
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP178-REC35538,magnitude_with_scale,"""8.5""",https://earthquake.usgs.gov/earthquakes/eventpage/official19631013051759_30
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP178-REC35538,phenomenon_time,"""1963-10-13T05:17:59Z""",https://earthquake.usgs.gov/earthquakes/eventpage/official19631013051759_30
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP178-REC35538,location,"""1963 Kuril Islands Earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/official19631013051759_30
+IDB-REG_08-CAT_17-ERA_05-1965-ACC05-HOP147-REC29328,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup877466
+IDB-REG_08-CAT_17-ERA_05-1965-ACC05-HOP147-REC29328,magnitude_with_scale,"""6.06""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup877466
+IDB-REG_08-CAT_17-ERA_05-1965-ACC05-HOP147-REC29328,phenomenon_time,"""1961-10-02T07:02:37Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup877466
+IDB-REG_08-CAT_17-ERA_05-1965-ACC05-HOP147-REC29328,location,"""south of the Kermadec Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup877466
+IDB-REG_08-CAT_15-ERA_04-1890-ACC05-HOP176-REC35158,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913341
+IDB-REG_08-CAT_15-ERA_04-1890-ACC05-HOP176-REC35158,magnitude_with_scale,"""6.12""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913341
+IDB-REG_08-CAT_15-ERA_04-1890-ACC05-HOP176-REC35158,phenomenon_time,"""1918-11-12T21:44:45Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913341
+IDB-REG_08-CAT_15-ERA_04-1890-ACC05-HOP176-REC35158,location,"""18 km NNW of San Antonio, Puerto Rico""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913341
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP163-REC32468,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/us2000as2f
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP163-REC32468,magnitude_with_scale,"""6.4""",https://earthquake.usgs.gov/earthquakes/eventpage/us2000as2f
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP163-REC32468,phenomenon_time,"""2017-09-20T20:09:49Z""",https://earthquake.usgs.gov/earthquakes/eventpage/us2000as2f
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP163-REC32468,location,"""85 km NNW of Isangel, Vanuatu""",https://earthquake.usgs.gov/earthquakes/eventpage/us2000as2f
+IDB-REG_08-CAT_16-ERA_04-1890-ACC05-HOP162-REC32288,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usc000kn4n
+IDB-REG_08-CAT_16-ERA_04-1890-ACC05-HOP162-REC32288,magnitude_with_scale,"""7.1""",https://earthquake.usgs.gov/earthquakes/eventpage/usc000kn4n
+IDB-REG_08-CAT_16-ERA_04-1890-ACC05-HOP162-REC32288,phenomenon_time,"""2013-10-25T17:10:19Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usc000kn4n
+IDB-REG_08-CAT_16-ERA_04-1890-ACC05-HOP162-REC32288,location,"""off the east coast of Honshu, Japan""",https://earthquake.usgs.gov/earthquakes/eventpage/usc000kn4n
+IDB-REG_08-CAT_17-ERA_03-1780-ACC05-HOP146-REC29088,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/official19460401122901_30
+IDB-REG_08-CAT_17-ERA_03-1780-ACC05-HOP146-REC29088,magnitude_with_scale,"""8.6""",https://earthquake.usgs.gov/earthquakes/eventpage/official19460401122901_30
+IDB-REG_08-CAT_17-ERA_03-1780-ACC05-HOP146-REC29088,phenomenon_time,"""1946-04-01T12:29:01Z""",https://earthquake.usgs.gov/earthquakes/eventpage/official19460401122901_30
+IDB-REG_08-CAT_17-ERA_03-1780-ACC05-HOP146-REC29088,location,"""The 1946 Unimak Island, Alaska Earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/official19460401122901_30
+IDB-REG_08-CAT_15-ERA_03-1780-ACC05-HOP146-REC29158,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896212
+IDB-REG_08-CAT_15-ERA_03-1780-ACC05-HOP146-REC29158,magnitude_with_scale,"""6.04""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896212
+IDB-REG_08-CAT_15-ERA_03-1780-ACC05-HOP146-REC29158,phenomenon_time,"""1950-12-22T09:10:43Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896212
+IDB-REG_08-CAT_15-ERA_03-1780-ACC05-HOP146-REC29158,location,"""Nicobar Islands, India region""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896212
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP145-REC28898,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905405
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP145-REC28898,magnitude_with_scale,"""7.28""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905405
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP145-REC28898,phenomenon_time,"""1933-02-23T08:09:19Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905405
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP145-REC28898,location,"""34 km S of Iquique, Chile""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905405
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP153-REC30498,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000btf5
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP153-REC30498,magnitude_with_scale,"""6.5""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000btf5
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP153-REC30498,phenomenon_time,"""2003-03-25T02:53:25Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000btf5
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP153-REC30498,location,"""46 km NE of Ruteng, Indonesia""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000btf5
+IDB-REG_08-CAT_15-ERA_06-2015-ACC05-HOP145-REC28888,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906496
+IDB-REG_08-CAT_15-ERA_06-2015-ACC05-HOP145-REC28888,magnitude_with_scale,"""6.05""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906496
+IDB-REG_08-CAT_15-ERA_06-2015-ACC05-HOP145-REC28888,phenomenon_time,"""1932-12-09T08:34:55Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906496
+IDB-REG_08-CAT_15-ERA_06-2015-ACC05-HOP145-REC28888,location,"""near the coast of central Peru""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906496
+IDB-REG_08-CAT_17-ERA_04-1890-ACC05-HOP149-REC29628,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000ag4
+IDB-REG_08-CAT_17-ERA_04-1890-ACC05-HOP149-REC29628,magnitude_with_scale,"""6.1""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000ag4
+IDB-REG_08-CAT_17-ERA_04-1890-ACC05-HOP149-REC29628,phenomenon_time,"""1975-04-05T09:34:36Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000ag4
+IDB-REG_08-CAT_17-ERA_04-1890-ACC05-HOP149-REC29628,location,"""19 km NW of Qu\u00edbor, Venezuela""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000ag4
+IDB-REG_08-CAT_15-ERA_01-1200-ACC05-HOP158-REC31438,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000fu3q
+IDB-REG_08-CAT_15-ERA_01-1200-ACC05-HOP158-REC31438,magnitude_with_scale,"""7.8""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000fu3q
+IDB-REG_08-CAT_15-ERA_01-1200-ACC05-HOP158-REC31438,phenomenon_time,"""2007-12-09T07:28:20Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000fu3q
+IDB-REG_08-CAT_15-ERA_01-1200-ACC05-HOP158-REC31438,location,"""south of the Fiji Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000fu3q
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP154-REC30788,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906371
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP154-REC30788,magnitude_with_scale,"""6.9""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906371
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP154-REC30788,phenomenon_time,"""1932-09-15T13:54:56Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906371
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP154-REC30788,location,"""62 km S of Gisborne, New Zealand""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906371
+IDB-REG_08-CAT_16-ERA_01-1200-ACC05-HOP166-REC33188,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957938
+IDB-REG_08-CAT_16-ERA_01-1200-ACC05-HOP166-REC33188,magnitude_with_scale,"""7.03""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957938
+IDB-REG_08-CAT_16-ERA_01-1200-ACC05-HOP166-REC33188,phenomenon_time,"""1906-12-23T17:21:32Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957938
+IDB-REG_08-CAT_16-ERA_01-1200-ACC05-HOP166-REC33188,location,"""153 km SE of Halibut Cove, Alaska""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957938
+IDB-REG_08-CAT_17-ERA_05-1965-ACC05-HOP177-REC35208,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911668
+IDB-REG_08-CAT_17-ERA_05-1965-ACC05-HOP177-REC35208,magnitude_with_scale,"""6.27""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911668
+IDB-REG_08-CAT_17-ERA_05-1965-ACC05-HOP177-REC35208,phenomenon_time,"""1923-10-01T22:27:41Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911668
+IDB-REG_08-CAT_17-ERA_05-1965-ACC05-HOP177-REC35208,location,"""south of the Kermadec Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911668
+IDB-REG_08-CAT_15-ERA_01-1200-ACC05-HOP145-REC28918,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904948
+IDB-REG_08-CAT_15-ERA_01-1200-ACC05-HOP145-REC28918,magnitude_with_scale,"""6.01""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904948
+IDB-REG_08-CAT_15-ERA_01-1200-ACC05-HOP145-REC28918,phenomenon_time,"""1934-05-22T11:01:41Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904948
+IDB-REG_08-CAT_15-ERA_01-1200-ACC05-HOP145-REC28918,location,"""central Mid-Atlantic Ridge""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904948
+IDB-REG_08-CAT_15-ERA_01-1200-ACC05-HOP185-REC36898,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000j985
+IDB-REG_08-CAT_15-ERA_01-1200-ACC05-HOP185-REC36898,magnitude_with_scale,"""6.3""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000j985
+IDB-REG_08-CAT_15-ERA_01-1200-ACC05-HOP185-REC36898,phenomenon_time,"""2022-12-14T18:40:26Z""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000j985
+IDB-REG_08-CAT_15-ERA_01-1200-ACC05-HOP185-REC36898,location,"""Rat Islands, Aleutian Islands, Alaska""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000j985
+IDB-REG_08-CAT_17-ERA_05-1965-ACC05-HOP184-REC36678,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0005rbf
+IDB-REG_08-CAT_17-ERA_05-1965-ACC05-HOP184-REC36678,magnitude_with_scale,"""6.3""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0005rbf
+IDB-REG_08-CAT_17-ERA_05-1965-ACC05-HOP184-REC36678,phenomenon_time,"""1993-04-17T20:32:44Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0005rbf
+IDB-REG_08-CAT_17-ERA_05-1965-ACC05-HOP184-REC36678,location,"""264 km SSE of Alo, Wallis and Futuna""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0005rbf
+IDB-REG_08-CAT_17-ERA_05-1965-ACC05-HOP154-REC30798,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903917
+IDB-REG_08-CAT_17-ERA_05-1965-ACC05-HOP154-REC30798,magnitude_with_scale,"""7.25""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903917
+IDB-REG_08-CAT_17-ERA_05-1965-ACC05-HOP154-REC30798,phenomenon_time,"""1936-11-02T20:45:57Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903917
+IDB-REG_08-CAT_17-ERA_05-1965-ACC05-HOP154-REC30798,location,"""83 km E of Ishinomaki, Japan""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903917
+IDB-REG_08-CAT_16-ERA_07-2025-ACC05-HOP144-REC28658,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913349
+IDB-REG_08-CAT_16-ERA_07-2025-ACC05-HOP144-REC28658,magnitude_with_scale,"""6.75""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913349
+IDB-REG_08-CAT_16-ERA_07-2025-ACC05-HOP144-REC28658,phenomenon_time,"""1918-11-23T22:57:42Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913349
+IDB-REG_08-CAT_16-ERA_07-2025-ACC05-HOP144-REC28658,location,"""Banda Sea""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913349
+IDB-REG_08-CAT_17-ERA_02-1650-ACC05-HOP183-REC36528,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000ftj1
+IDB-REG_08-CAT_17-ERA_02-1650-ACC05-HOP183-REC36528,magnitude_with_scale,"""7.4""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000ftj1
+IDB-REG_08-CAT_17-ERA_02-1650-ACC05-HOP183-REC36528,phenomenon_time,"""2007-11-29T19:00:20Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000ftj1
+IDB-REG_08-CAT_17-ERA_02-1650-ACC05-HOP183-REC36528,location,"""18 km WNW of Basse-Pointe, Martinique""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000ftj1
+IDB-REG_08-CAT_15-ERA_05-1965-ACC05-HOP182-REC36328,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000gqbd
+IDB-REG_08-CAT_15-ERA_05-1965-ACC05-HOP182-REC36328,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000gqbd
+IDB-REG_08-CAT_15-ERA_05-1965-ACC05-HOP182-REC36328,phenomenon_time,"""2008-12-10T13:15:34Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000gqbd
+IDB-REG_08-CAT_15-ERA_05-1965-ACC05-HOP182-REC36328,location,"""197 km SSE of Lata, Solomon Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000gqbd
+IDB-REG_08-CAT_16-ERA_06-2015-ACC05-HOP180-REC35888,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000c79y
+IDB-REG_08-CAT_16-ERA_06-2015-ACC05-HOP180-REC35888,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000c79y
+IDB-REG_08-CAT_16-ERA_06-2015-ACC05-HOP180-REC35888,phenomenon_time,"""2003-09-11T21:58:25Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000c79y
+IDB-REG_08-CAT_16-ERA_06-2015-ACC05-HOP180-REC35888,location,"""76 km W of Gizo, Solomon Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000c79y
+IDB-REG_08-CAT_17-ERA_03-1780-ACC05-HOP156-REC31188,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000wjh
+IDB-REG_08-CAT_17-ERA_03-1780-ACC05-HOP156-REC31188,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000wjh
+IDB-REG_08-CAT_17-ERA_03-1780-ACC05-HOP156-REC31188,phenomenon_time,"""1978-09-15T11:39:25Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000wjh
+IDB-REG_08-CAT_17-ERA_03-1780-ACC05-HOP156-REC31188,location,"""Kuril Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000wjh
+CAT20_REG_08_ERA_06_1979_1905_andreanof_islands_earthquake_ent_dis_0001868,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957881
+CAT20_REG_08_ERA_06_1979_1905_andreanof_islands_earthquake_ent_dis_0001868,magnitude_with_scale,"""6.96""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957881
+CAT20_REG_08_ERA_06_1979_1905_andreanof_islands_earthquake_ent_dis_0001868,phenomenon_time,"""1905-12-17T05:30:32Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957881
+CAT20_REG_08_ERA_06_1979_1905_andreanof_islands_earthquake_ent_dis_0001868,location,"""Revilla Gigedo Islands region""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957881
+IDB-REG_08-CAT_17-ERA_04-1890-ACC05-HOP180-REC35928,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909834
+IDB-REG_08-CAT_17-ERA_04-1890-ACC05-HOP180-REC35928,magnitude_with_scale,"""6.04""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909834
+IDB-REG_08-CAT_17-ERA_04-1890-ACC05-HOP180-REC35928,phenomenon_time,"""1926-05-11T11:20:24Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909834
+IDB-REG_08-CAT_17-ERA_04-1890-ACC05-HOP180-REC35928,location,"""76 km SSW of Barra de Navidad, Mexico""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909834
+IDB-REG_08-CAT_17-ERA_03-1780-ACC05-HOP162-REC32238,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usb000gcls
+IDB-REG_08-CAT_17-ERA_03-1780-ACC05-HOP162-REC32238,magnitude_with_scale,"""6.1""",https://earthquake.usgs.gov/earthquakes/eventpage/usb000gcls
+IDB-REG_08-CAT_17-ERA_03-1780-ACC05-HOP162-REC32238,phenomenon_time,"""2013-04-20T13:12:50Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usb000gcls
+IDB-REG_08-CAT_17-ERA_03-1780-ACC05-HOP162-REC32238,location,"""96 km SE of Severo-Kuril\u2019sk, Russia""",https://earthquake.usgs.gov/earthquakes/eventpage/usb000gcls
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP186-REC37088,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem815166
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP186-REC37088,magnitude_with_scale,"""6.58""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem815166
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP186-REC37088,phenomenon_time,"""1968-11-17T07:41:17Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem815166
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP186-REC37088,location,"""north of Ascension Island""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem815166
+IDB-REG_08-CAT_16-ERA_03-1780-ACC05-HOP177-REC35318,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905221
+IDB-REG_08-CAT_16-ERA_03-1780-ACC05-HOP177-REC35318,magnitude_with_scale,"""6.5""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905221
+IDB-REG_08-CAT_16-ERA_03-1780-ACC05-HOP177-REC35318,phenomenon_time,"""1934-10-18T07:48:30Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905221
+IDB-REG_08-CAT_16-ERA_03-1780-ACC05-HOP177-REC35318,location,"""49 km W of Lata, Solomon Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905221
+IDB-REG_08-CAT_16-ERA_06-2015-ACC05-HOP143-REC28538,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958169
+IDB-REG_08-CAT_16-ERA_06-2015-ACC05-HOP143-REC28538,magnitude_with_scale,"""6.62""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958169
+IDB-REG_08-CAT_16-ERA_06-2015-ACC05-HOP143-REC28538,phenomenon_time,"""1911-10-20T17:43:52Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958169
+IDB-REG_08-CAT_16-ERA_06-2015-ACC05-HOP143-REC28538,location,"""149 km SSE of Lata, Solomon Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958169
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP176-REC35118,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958230
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP176-REC35118,magnitude_with_scale,"""6.26""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958230
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP176-REC35118,phenomenon_time,"""1913-02-14T18:51:59Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958230
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP176-REC35118,location,"""111 km SE of Auki, Solomon Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958230
+CAT20_REG_08_ERA_03_1969_1904_e_of_north_island_earthquake_ent_dis_0001858,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957832
+CAT20_REG_08_ERA_03_1969_1904_e_of_north_island_earthquake_ent_dis_0001858,magnitude_with_scale,"""7.29""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957832
+CAT20_REG_08_ERA_03_1969_1904_e_of_north_island_earthquake_ent_dis_0001858,phenomenon_time,"""1904-12-20T05:44:20Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957832
+CAT20_REG_08_ERA_03_1969_1904_e_of_north_island_earthquake_ent_dis_0001858,location,"""53 km SSE of Quepos, Costa Rica""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957832
+IDB-REG_08-CAT_15-ERA_07-2025-ACC05-HOP165-REC32998,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000jpeh
+IDB-REG_08-CAT_15-ERA_07-2025-ACC05-HOP165-REC32998,magnitude_with_scale,"""6.4""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000jpeh
+IDB-REG_08-CAT_15-ERA_07-2025-ACC05-HOP165-REC32998,phenomenon_time,"""2012-07-25T11:20:27Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000jpeh
+IDB-REG_08-CAT_15-ERA_07-2025-ACC05-HOP165-REC32998,location,"""1 km E of Malango, Solomon Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000jpeh
+IDB-REG_08-CAT_16-ERA_05-1965-ACC05-HOP176-REC35138,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup913580
+IDB-REG_08-CAT_16-ERA_05-1965-ACC05-HOP176-REC35138,magnitude_with_scale,"""6.9""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup913580
+IDB-REG_08-CAT_16-ERA_05-1965-ACC05-HOP176-REC35138,phenomenon_time,"""1917-07-27T02:51:50Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup913580
+IDB-REG_08-CAT_16-ERA_05-1965-ACC05-HOP176-REC35138,location,"""72 km WNW of Calingasta, Argentina""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup913580
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP183-REC36458,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610548604
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP183-REC36458,magnitude_with_scale,"""6.8""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610548604
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP183-REC36458,phenomenon_time,"""1905-05-31T18:23:32Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610548604
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP183-REC36458,location,"""61 km NW of Davila, Philippines""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610548604
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP176-REC35198,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911350
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP176-REC35198,magnitude_with_scale,"""6.41""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911350
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP176-REC35198,phenomenon_time,"""1923-05-01T10:36:17Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911350
+IDB-REG_08-CAT_16-ERA_02-1650-ACC05-HOP176-REC35198,location,"""South Sandwich Islands region""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911350
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP147-REC29238,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889058
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP147-REC29238,magnitude_with_scale,"""6.22""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889058
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP147-REC29238,phenomenon_time,"""1956-12-29T20:22:13Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889058
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP147-REC29238,location,"""126 km S of \u2018Ohonua, Tonga""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889058
+IDB-REG_08-CAT_16-ERA_06-2015-ACC05-HOP185-REC36938,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000j985
+IDB-REG_08-CAT_16-ERA_06-2015-ACC05-HOP185-REC36938,magnitude_with_scale,"""6.3""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000j985
+IDB-REG_08-CAT_16-ERA_06-2015-ACC05-HOP185-REC36938,phenomenon_time,"""2022-12-14T18:40:26Z""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000j985
+IDB-REG_08-CAT_16-ERA_06-2015-ACC05-HOP185-REC36938,location,"""Rat Islands, Aleutian Islands, Alaska""",https://earthquake.usgs.gov/earthquakes/eventpage/us6000j985
+IDB-REG_08-CAT_16-ERA_05-1965-ACC05-HOP166-REC33038,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0003a8a
+IDB-REG_08-CAT_16-ERA_05-1965-ACC05-HOP166-REC33038,magnitude_with_scale,"""6.4""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0003a8a
+IDB-REG_08-CAT_16-ERA_05-1965-ACC05-HOP166-REC33038,phenomenon_time,"""1987-11-18T16:27:05Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0003a8a
+IDB-REG_08-CAT_16-ERA_05-1965-ACC05-HOP166-REC33038,location,"""34 km N of Bugko, Philippines""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0003a8a
+IDB-REG_08-CAT_15-ERA_07-2025-ACC05-HOP158-REC31528,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000gg00
+IDB-REG_08-CAT_15-ERA_07-2025-ACC05-HOP158-REC31528,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000gg00
+IDB-REG_08-CAT_15-ERA_07-2025-ACC05-HOP158-REC31528,phenomenon_time,"""2008-08-30T08:30:53Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000gg00
+IDB-REG_08-CAT_15-ERA_07-2025-ACC05-HOP158-REC31528,location,"""Sichuan-Yunnan border region, China""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000gg00
+IDB-REG_08-CAT_17-ERA_02-1650-ACC05-HOP178-REC35478,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886705
+IDB-REG_08-CAT_17-ERA_02-1650-ACC05-HOP178-REC35478,magnitude_with_scale,"""6.06""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886705
+IDB-REG_08-CAT_17-ERA_02-1650-ACC05-HOP178-REC35478,phenomenon_time,"""1957-06-14T06:24:25Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886705
+IDB-REG_08-CAT_17-ERA_02-1650-ACC05-HOP178-REC35478,location,"""Andreanof Islands, Aleutian Islands, Alaska""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886705
+IDB-REG_08-CAT_17-ERA_01-1200-ACC05-HOP186-REC37038,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905917
+IDB-REG_08-CAT_17-ERA_01-1200-ACC05-HOP186-REC37038,magnitude_with_scale,"""6.36""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905917
+IDB-REG_08-CAT_17-ERA_01-1200-ACC05-HOP186-REC37038,phenomenon_time,"""1933-11-19T03:11:25Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905917
+IDB-REG_08-CAT_17-ERA_01-1200-ACC05-HOP186-REC37038,location,"""96 km SSE of Lakatoro, Vanuatu""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905917
+IDB-REG_08-CAT_15-ERA_05-1965-ACC05-HOP146-REC29188,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893711
+IDB-REG_08-CAT_15-ERA_05-1965-ACC05-HOP146-REC29188,magnitude_with_scale,"""6.19""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893711
+IDB-REG_08-CAT_15-ERA_05-1965-ACC05-HOP146-REC29188,phenomenon_time,"""1952-11-09T15:22:54Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893711
+IDB-REG_08-CAT_15-ERA_05-1965-ACC05-HOP146-REC29188,location,"""off the east coast of the Kamchatka Peninsula, Russia""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893711
+CAT20_REG_08_ERA_01_2009_1906_colombia_earthquake_ent_dis_0001898,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/official19060131153610_30
+CAT20_REG_08_ERA_01_2009_1906_colombia_earthquake_ent_dis_0001898,magnitude_with_scale,"""8.8""",https://earthquake.usgs.gov/earthquakes/eventpage/official19060131153610_30
+CAT20_REG_08_ERA_01_2009_1906_colombia_earthquake_ent_dis_0001898,phenomenon_time,"""1906-01-31T15:36:10Z""",https://earthquake.usgs.gov/earthquakes/eventpage/official19060131153610_30
+CAT20_REG_08_ERA_01_2009_1906_colombia_earthquake_ent_dis_0001898,location,"""1906 Ecuador-Colombia Earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/official19060131153610_30
+IDB-REG_08-CAT_16-ERA_07-2025-ACC05-HOP156-REC31178,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895572
+IDB-REG_08-CAT_16-ERA_07-2025-ACC05-HOP156-REC31178,magnitude_with_scale,"""6.31""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895572
+IDB-REG_08-CAT_16-ERA_07-2025-ACC05-HOP156-REC31178,phenomenon_time,"""1950-07-09T01:39:35Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895572
+IDB-REG_08-CAT_16-ERA_07-2025-ACC05-HOP156-REC31178,location,"""southern East Pacific Rise""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895572
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP166-REC33018,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000dyz
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP166-REC33018,magnitude_with_scale,"""6""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000dyz
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP166-REC33018,phenomenon_time,"""1975-12-19T02:14:29Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000dyz
+IDB-REG_08-CAT_17-ERA_06-2015-ACC05-HOP166-REC33018,location,"""157 km SW of Lata, Solomon Islands""",https://earthquake.usgs.gov/earthquakes/eventpage/usp0000dyz
+IDB-REG_08-CAT_15-ERA_04-1890-ACC05-HOP147-REC29278,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884953
+IDB-REG_08-CAT_15-ERA_04-1890-ACC05-HOP147-REC29278,magnitude_with_scale,"""6.7""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884953
+IDB-REG_08-CAT_15-ERA_04-1890-ACC05-HOP147-REC29278,phenomenon_time,"""1958-08-16T19:13:48Z""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884953
+IDB-REG_08-CAT_15-ERA_04-1890-ACC05-HOP147-REC29278,location,"""25 km SSW of Kang?var, Iran""",https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884953
+IDB-REG_08-CAT_15-ERA_01-1200-ACC05-HOP179-REC35638,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp00007nz
+IDB-REG_08-CAT_15-ERA_01-1200-ACC05-HOP179-REC35638,magnitude_with_scale,"""7.1""",https://earthquake.usgs.gov/earthquakes/eventpage/usp00007nz
+IDB-REG_08-CAT_15-ERA_01-1200-ACC05-HOP179-REC35638,phenomenon_time,"""1974-08-18T10:44:12Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp00007nz
+IDB-REG_08-CAT_15-ERA_01-1200-ACC05-HOP179-REC35638,location,"""37 km NW of Carahue, Chile""",https://earthquake.usgs.gov/earthquakes/eventpage/usp00007nz
+IDB-REG_08-CAT_17-ERA_04-1890-ACC05-HOP160-REC31938,event_type,"""earthquake""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000a70q
+IDB-REG_08-CAT_17-ERA_04-1890-ACC05-HOP160-REC31938,magnitude_with_scale,"""6.8""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000a70q
+IDB-REG_08-CAT_17-ERA_04-1890-ACC05-HOP160-REC31938,phenomenon_time,"""2001-01-01T08:54:31Z""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000a70q
+IDB-REG_08-CAT_17-ERA_04-1890-ACC05-HOP160-REC31938,location,"""Mindanao, Philippines""",https://earthquake.usgs.gov/earthquakes/eventpage/usp000a70q
