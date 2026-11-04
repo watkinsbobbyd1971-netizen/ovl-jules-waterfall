@@ -1,0 +1,686 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB63-ENT-BLF-0007018,component_relationship,"""Schodi\u0161t\u011b se sochami""",https://www.wikidata.org/wiki/Q27554374
+LIBSRC-LIB63-ENT-BLF-0007018,component_relationship,"""Kostel sv. Jana K\u0159titele""",https://www.wikidata.org/wiki/Q27554374
+LIBSRC-LIB63-ENT-BLF-0007018,component_relationship,"""Socha Immaculaty""",https://www.wikidata.org/wiki/Q27554374
+LIBSRC-LIB63-ENT-BLF-0007018,component_relationship,"""Socha sv. Franti\u0161ka z Assisi""",https://www.wikidata.org/wiki/Q27554374
+LIBSRC-LIB63-ENT-BLF-0007018,component_relationship,"""Socha sv. Franti\u0161ka z Pauly""",https://www.wikidata.org/wiki/Q27554374
+LIBSRC-LIB63-ENT-BLF-0007018,component_relationship,"""Socha sv. Josefa""",https://www.wikidata.org/wiki/Q27554374
+LIBSRC-LIB63-ENT-BLF-0007018,component_relationship,"""Q73876619""",https://www.wikidata.org/wiki/Q27554374
+LIBSRC-LIB63-ENT-BLF-0007018,component_relationship,"""Socha sv. Pavla""",https://www.wikidata.org/wiki/Q27554374
+LIBSRC-LIB63-ENT-BLF-0007018,component_relationship,"""Socha sv. Petra""",https://www.wikidata.org/wiki/Q27554374
+LIBSRC-LIB63-ENT-BLF-0007018,component_relationship,"""Socha sv. \u0160ebesti\u00e1na""",https://www.wikidata.org/wiki/Q27554374
+LIBSRC-LIB63-ENT-BLF-0007018,construction_date,"""1794-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q27554374
+LIBSRC-LIB63-ENT-BLF-0007018,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q27554374
+LIBSRC-LIB63-ENT-BLF-0007018,descriptive_identity,"""ensemble of small monuments""",https://www.wikidata.org/wiki/Q27554374
+LIBSRC-LIB63-ENT-BLF-0007018,identity_label,"""kostel sv. Jana K\u0159titele""",https://www.wikidata.org/wiki/Q27554374
+LIBSRC-LIB63-ENT-BLF-0007018,location,"""Rokytnice nad Rokytnou""",https://www.wikidata.org/wiki/Q27554374
+LIBSRC-LIB63-ENT-BLF-0007018,material_identity,"""stone""",https://www.wikidata.org/wiki/Q27554374
+LIBSRC-LIB63-ENT-BLF-0007038,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10300798
+LIBSRC-LIB63-ENT-BLF-0007038,descriptive_identity,"""cultural heritage""",https://www.wikidata.org/wiki/Q10300798
+LIBSRC-LIB63-ENT-BLF-0007038,location,"""Santa Maria Maior""",https://www.wikidata.org/wiki/Q10300798
+LIBSRC-LIB63-ENT-BLF-0007038,location,"""Freguesia de S\u00e3o Miguel""",https://www.wikidata.org/wiki/Q10300798
+LIBSRC-LIB63-ENT-BLF-0007098,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10300935
+LIBSRC-LIB63-ENT-BLF-0007098,descriptive_identity,"""cultural heritage""",https://www.wikidata.org/wiki/Q10300935
+LIBSRC-LIB63-ENT-BLF-0007098,location,"""Uni\u00e3o de Freguesias da Cidade de Santar\u00e9m""",https://www.wikidata.org/wiki/Q10300935
+LIBSRC-LIB63-ENT-BLF-0007098,location,"""Freguesia de Marvila""",https://www.wikidata.org/wiki/Q10300935
+LIBSRC-LIB63-ENT-BLF-0007118,construction_date,"""1958-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q10300978
+LIBSRC-LIB63-ENT-BLF-0007118,creator_or_attribution,"""Oscar Niemeyer""",https://www.wikidata.org/wiki/Q10300978
+LIBSRC-LIB63-ENT-BLF-0007118,creator_or_attribution,"""Joaquim Cardozo""",https://www.wikidata.org/wiki/Q10300978
+LIBSRC-LIB63-ENT-BLF-0007118,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10300978
+LIBSRC-LIB63-ENT-BLF-0007118,dimension_length,19000.0,https://www.wikidata.org/wiki/Q10300978
+LIBSRC-LIB63-ENT-BLF-0007118,location,"""Bras\u00edlia""",https://www.wikidata.org/wiki/Q10300978
+LIBSRC-LIB63-ENT-BLF-0007178,descriptive_identity,"""chapel""",https://www.wikidata.org/wiki/Q50383721
+LIBSRC-LIB63-ENT-BLF-0007178,descriptive_identity,"""historic site""",https://www.wikidata.org/wiki/Q50383721
+LIBSRC-LIB63-ENT-BLF-0007178,location,"""Nazar\u00e9""",https://www.wikidata.org/wiki/Q50383721
+LIBSRC-LIB63-ENT-BLF-0007188,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10332620
+LIBSRC-LIB63-ENT-BLF-0007188,descriptive_identity,"""cultural heritage""",https://www.wikidata.org/wiki/Q10332620
+LIBSRC-LIB63-ENT-BLF-0007188,location,"""Landim""",https://www.wikidata.org/wiki/Q10332620
+LIBSRC-LIB63-ENT-BLF-0007268,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10359090
+LIBSRC-LIB63-ENT-BLF-0007268,location,"""Oslo Municipality""",https://www.wikidata.org/wiki/Q10359090
+LIBSRC-LIB63-ENT-BLF-0007428,component_relationship,"""Kumano Hong\u016b Taisha""",https://www.wikidata.org/wiki/Q10403700
+LIBSRC-LIB63-ENT-BLF-0007428,component_relationship,"""Kumano Hayatama Taisha""",https://www.wikidata.org/wiki/Q10403700
+LIBSRC-LIB63-ENT-BLF-0007428,component_relationship,"""Kumano Nachi Taisha""",https://www.wikidata.org/wiki/Q10403700
+LIBSRC-LIB63-ENT-BLF-0007428,descriptive_identity,"""Kumano shrine""",https://www.wikidata.org/wiki/Q10403700
+LIBSRC-LIB63-ENT-BLF-0007428,descriptive_identity,"""triad""",https://www.wikidata.org/wiki/Q10403700
+LIBSRC-LIB63-ENT-BLF-0007428,descriptive_identity,"""group of structures or buildings""",https://www.wikidata.org/wiki/Q10403700
+LIBSRC-LIB63-ENT-BLF-0007428,location,"""Q131314""",https://www.wikidata.org/wiki/Q10403700
+LIBSRC-LIB63-ENT-BLF-0007428,location,"""Kumano Region""",https://www.wikidata.org/wiki/Q10403700
+LIBSRC-LIB63-ENT-BLF-0007508,construction_date,"""1997-01-01T00:00:00Z""",https://www.wikidata.org/wiki/Q10411542
+LIBSRC-LIB63-ENT-BLF-0007508,creator_or_attribution,"""Johannes Dahl""",https://www.wikidata.org/wiki/Q10411542
+LIBSRC-LIB63-ENT-BLF-0007508,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10411542
+LIBSRC-LIB63-ENT-BLF-0007508,descriptive_identity,"""architectural ensemble""",https://www.wikidata.org/wiki/Q10411542
+LIBSRC-LIB63-ENT-BLF-0007508,location,"""Aneby Municipality""",https://www.wikidata.org/wiki/Q10411542
+LIBSRC-LIB63-ENT-BLF-0007508,location,"""Aneby""",https://www.wikidata.org/wiki/Q10411542
+LIBSRC-LIB63-ENT-BLF-0007588,construction_date,"""1989-01-01T00:00:00Z""",https://www.wikidata.org/wiki/Q10419514
+LIBSRC-LIB63-ENT-BLF-0007588,creator_or_attribution,"""Harald Hille""",https://www.wikidata.org/wiki/Q10419514
+LIBSRC-LIB63-ENT-BLF-0007588,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10419514
+LIBSRC-LIB63-ENT-BLF-0007588,location,"""Oslo Municipality""",https://www.wikidata.org/wiki/Q10419514
+LIBSRC-LIB63-ENT-BLF-0007638,descriptive_identity,"""chapel""",https://www.wikidata.org/wiki/Q104218404
+LIBSRC-LIB63-ENT-BLF-0007638,descriptive_identity,"""road church""",https://www.wikidata.org/wiki/Q104218404
+LIBSRC-LIB63-ENT-BLF-0007638,location,"""Dormagen""",https://www.wikidata.org/wiki/Q104218404
+LIBSRC-LIB63-ENT-BLF-0007638,location,"""Nievenheim""",https://www.wikidata.org/wiki/Q104218404
+LIBSRC-LIB63-ENT-BLF-0007658,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10424138
+LIBSRC-LIB63-ENT-BLF-0007658,descriptive_identity,"""architectural ensemble""",https://www.wikidata.org/wiki/Q10424138
+LIBSRC-LIB63-ENT-BLF-0007658,location,"""Gothenburg Municipality""",https://www.wikidata.org/wiki/Q10424138
+LIBSRC-LIB63-ENT-BLF-0007658,location,"""Backa""",https://www.wikidata.org/wiki/Q10424138
+LIBSRC-LIB63-ENT-BLF-0007688,construction_date,"""1927-01-01T00:00:00Z""",https://www.wikidata.org/wiki/Q10426826
+LIBSRC-LIB63-ENT-BLF-0007688,creator_or_attribution,"""August Ewe""",https://www.wikidata.org/wiki/Q10426826
+LIBSRC-LIB63-ENT-BLF-0007688,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10426826
+LIBSRC-LIB63-ENT-BLF-0007688,descriptive_identity,"""architectural ensemble""",https://www.wikidata.org/wiki/Q10426826
+LIBSRC-LIB63-ENT-BLF-0007688,location,"""Simrishamn Municipality""",https://www.wikidata.org/wiki/Q10426826
+LIBSRC-LIB63-ENT-BLF-0007688,location,"""Baskem\u00f6lla""",https://www.wikidata.org/wiki/Q10426826
+LIBSRC-LIB63-ENT-BLF-0007698,construction_date,"""1300-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q10428472
+LIBSRC-LIB63-ENT-BLF-0007698,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10428472
+LIBSRC-LIB63-ENT-BLF-0007698,location,"""Sk\u00f6vde Municipality""",https://www.wikidata.org/wiki/Q10428472
+LIBSRC-LIB63-ENT-BLF-0007718,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10429614
+LIBSRC-LIB63-ENT-BLF-0007718,descriptive_identity,"""architectural ensemble""",https://www.wikidata.org/wiki/Q10429614
+LIBSRC-LIB63-ENT-BLF-0007718,location,"""Gothenburg Municipality""",https://www.wikidata.org/wiki/Q10429614
+LIBSRC-LIB63-ENT-BLF-0007728,construction_date,"""1899-01-01T00:00:00Z""",https://www.wikidata.org/wiki/Q10430391
+LIBSRC-LIB63-ENT-BLF-0007728,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10430391
+LIBSRC-LIB63-ENT-BLF-0007728,location,"""Mullsj\u00f6 Municipality""",https://www.wikidata.org/wiki/Q10430391
+LIBSRC-LIB63-ENT-BLF-0007738,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10430506
+LIBSRC-LIB63-ENT-BLF-0007738,descriptive_identity,"""architectural ensemble""",https://www.wikidata.org/wiki/Q10430506
+LIBSRC-LIB63-ENT-BLF-0007738,location,"""Kramfors Municipality""",https://www.wikidata.org/wiki/Q10430506
+LIBSRC-LIB63-ENT-BLF-0007748,component_relationship,"""Q10688224""",https://www.wikidata.org/wiki/Q10430585
+LIBSRC-LIB63-ENT-BLF-0007748,construction_date,"""1400-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q10430585
+LIBSRC-LIB63-ENT-BLF-0007748,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10430585
+LIBSRC-LIB63-ENT-BLF-0007748,location,"""Uppsala Municipality""",https://www.wikidata.org/wiki/Q10430585
+LIBSRC-LIB63-ENT-BLF-0007758,construction_date,"""1200-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q10430777
+LIBSRC-LIB63-ENT-BLF-0007758,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10430777
+LIBSRC-LIB63-ENT-BLF-0007758,descriptive_identity,"""architectural ensemble""",https://www.wikidata.org/wiki/Q10430777
+LIBSRC-LIB63-ENT-BLF-0007758,location,"""Kungs\u00f6r Municipality""",https://www.wikidata.org/wiki/Q10430777
+LIBSRC-LIB63-ENT-BLF-0007778,construction_date,"""1972-01-01T00:00:00Z""",https://www.wikidata.org/wiki/Q10431946
+LIBSRC-LIB63-ENT-BLF-0007778,creator_or_attribution,"""Q959698""",https://www.wikidata.org/wiki/Q10431946
+LIBSRC-LIB63-ENT-BLF-0007778,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10431946
+LIBSRC-LIB63-ENT-BLF-0007778,descriptive_identity,"""architectural ensemble""",https://www.wikidata.org/wiki/Q10431946
+LIBSRC-LIB63-ENT-BLF-0007778,location,"""N\u00e4ssj\u00f6 Municipality""",https://www.wikidata.org/wiki/Q10431946
+LIBSRC-LIB63-ENT-BLF-0007778,location,"""Bodafors""",https://www.wikidata.org/wiki/Q10431946
+LIBSRC-LIB63-ENT-BLF-0007788,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10432421
+LIBSRC-LIB63-ENT-BLF-0007788,location,"""Q430780""",https://www.wikidata.org/wiki/Q10432421
+LIBSRC-LIB63-ENT-BLF-0007828,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q10434966
+LIBSRC-LIB63-ENT-BLF-0007828,descriptive_identity,"""architectural ensemble""",https://www.wikidata.org/wiki/Q10434966
+LIBSRC-LIB63-ENT-BLF-0007828,location,"""Q504692""",https://www.wikidata.org/wiki/Q10434966
+LIBSRC-LIB63-ENT-BLF-0007828,location,"""Siml\u00e5ngsdalen""",https://www.wikidata.org/wiki/Q10434966
+LIBSRC-LIB63-ENT-BLF-0008148,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q37631338
+LIBSRC-LIB63-ENT-BLF-0008148,location,"""Nago\u2013Torbole""",https://www.wikidata.org/wiki/Q37631338
+LIBSRC-LIB63-ENT-BLF-0008148,location,"""Nago""",https://www.wikidata.org/wiki/Q37631338
+LIBSRC-LIB63-ENT-BLF-0008188,descriptive_identity,"""parish church""",https://www.wikidata.org/wiki/Q104528582
+LIBSRC-LIB63-ENT-BLF-0008188,location,"""Mont-de-l'Enclus""",https://www.wikidata.org/wiki/Q104528582
+LIBSRC-LIB63-ENT-BLF-0008188,location,"""Amougies""",https://www.wikidata.org/wiki/Q104528582
+LIBSRC-LIB63-ENT-BLF-0013148,descriptive_identity,"""Christian denomination""",https://www.wikidata.org/wiki/Q107286024
+LIBSRC-LIB63-ENT-BLF-0013148,descriptive_identity,"""organization""",https://www.wikidata.org/wiki/Q107286024
+LIBSRC-LIB63-ENT-BLF-0013158,construction_date,"""1970-11-29T00:00:00Z""",https://www.wikidata.org/wiki/Q1089797
+LIBSRC-LIB63-ENT-BLF-0013158,descriptive_identity,"""Christian denomination""",https://www.wikidata.org/wiki/Q1089797
+LIBSRC-LIB63-ENT-BLF-0013228,descriptive_identity,"""Christian denomination""",https://www.wikidata.org/wiki/Q123020500
+LIBSRC-LIB63-ENT-BLF-0013248,descriptive_identity,"""Churches in Indonesia""",https://www.wikidata.org/wiki/Q12483992
+LIBSRC-LIB63-ENT-BLF-0013268,construction_date,"""1950-05-25T00:00:00Z""",https://www.wikidata.org/wiki/Q13149112
+LIBSRC-LIB63-ENT-BLF-0013268,descriptive_identity,"""Churches in Indonesia""",https://www.wikidata.org/wiki/Q13149112
+LIBSRC-LIB63-ENT-BLF-0013278,construction_date,"""1019-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q134168
+LIBSRC-LIB63-ENT-BLF-0013278,descriptive_identity,"""autocephalous Eastern Orthodox church""",https://www.wikidata.org/wiki/Q134168
+LIBSRC-LIB63-ENT-BLF-0013278,descriptive_identity,"""Eastern Orthodox archdiocese""",https://www.wikidata.org/wiki/Q134168
+LIBSRC-LIB63-ENT-BLF-0013388,descriptive_identity,"""Christian denomination""",https://www.wikidata.org/wiki/Q16945757
+LIBSRC-LIB63-ENT-BLF-0013418,construction_date,"""1976-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q17007556
+LIBSRC-LIB63-ENT-BLF-0013418,descriptive_identity,"""Christian denomination""",https://www.wikidata.org/wiki/Q17007556
+LIBSRC-LIB63-ENT-BLF-0013538,construction_date,"""1866-02-06T00:00:00Z""",https://www.wikidata.org/wiki/Q2220098
+LIBSRC-LIB63-ENT-BLF-0013538,creator_or_attribution,"""Luigi Poletti""",https://www.wikidata.org/wiki/Q2220098
+LIBSRC-LIB63-ENT-BLF-0013538,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q2220098
+LIBSRC-LIB63-ENT-BLF-0013538,descriptive_identity,"""national Church""",https://www.wikidata.org/wiki/Q2220098
+LIBSRC-LIB63-ENT-BLF-0013538,location,"""Rome""",https://www.wikidata.org/wiki/Q2220098
+LIBSRC-LIB63-ENT-BLF-0013578,construction_date,"""1919-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q2617023
+LIBSRC-LIB63-ENT-BLF-0013578,descriptive_identity,"""Christian denomination""",https://www.wikidata.org/wiki/Q2617023
+LIBSRC-LIB63-ENT-BLF-0013648,construction_date,"""1961-09-29T00:00:00Z""",https://www.wikidata.org/wiki/Q5415733
+LIBSRC-LIB63-ENT-BLF-0013648,descriptive_identity,"""Christian denomination""",https://www.wikidata.org/wiki/Q5415733
+LIBSRC-LIB63-ENT-BLF-0013678,construction_date,"""1605-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q3668683
+LIBSRC-LIB63-ENT-BLF-0013678,creator_or_attribution,"""Carlo di Castellamonte""",https://www.wikidata.org/wiki/Q3668683
+LIBSRC-LIB63-ENT-BLF-0013678,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q3668683
+LIBSRC-LIB63-ENT-BLF-0013678,descriptive_identity,"""national Church""",https://www.wikidata.org/wiki/Q3668683
+LIBSRC-LIB63-ENT-BLF-0013678,location,"""Rome""",https://www.wikidata.org/wiki/Q3668683
+LIBSRC-LIB63-ENT-BLF-0014038,construction_date,"""1991-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q7307538
+LIBSRC-LIB63-ENT-BLF-0014038,descriptive_identity,"""Christian denomination""",https://www.wikidata.org/wiki/Q7307538
+LIBSRC-LIB63-ENT-BLF-0014078,component_relationship,"""Polish National Catholic Church""",https://www.wikidata.org/wiki/Q7886716
+LIBSRC-LIB63-ENT-BLF-0014078,component_relationship,"""Nordic Catholic Church""",https://www.wikidata.org/wiki/Q7886716
+LIBSRC-LIB63-ENT-BLF-0014078,component_relationship,"""Orthodox Church in Italy""",https://www.wikidata.org/wiki/Q7886716
+LIBSRC-LIB63-ENT-BLF-0014078,construction_date,"""2008-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q7886716
+LIBSRC-LIB63-ENT-BLF-0014078,descriptive_identity,"""Christian denomination""",https://www.wikidata.org/wiki/Q7886716
+LIBSRC-LIB63-ENT-BLF-0014258,descriptive_identity,"""religious denomination""",https://www.wikidata.org/wiki/Q1144064
+LIBSRC-LIB63-ENT-BLF-0014518,construction_date,"""1843-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q3560871
+LIBSRC-LIB63-ENT-BLF-0014518,descriptive_identity,"""religious denomination""",https://www.wikidata.org/wiki/Q3560871
+LIBSRC-LIB63-ENT-BLF-0014608,descriptive_identity,"""church building""",https://www.wikidata.org/wiki/Q1728464
+LIBSRC-LIB63-ENT-BLF-0014608,location,"""Thessaloniki Municipality""",https://www.wikidata.org/wiki/Q1728464
+LIBSRC-LIB63-ENT-BLF-0014608,location,"""Thessaloniki""",https://www.wikidata.org/wiki/Q1728464
+LIBSRC-LIB63-ENT-BLF-0014608,structural_relationship,"""Paleochristian and Byzantine monuments of Thessaloniki""",https://www.wikidata.org/wiki/Q1728464
+LIBSRC-LIB63-ENT-BLF-0016508,construction_date,"""1854-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q486168
+LIBSRC-LIB63-ENT-BLF-0016508,descriptive_identity,"""city of California""",https://www.wikidata.org/wiki/Q486168
+LIBSRC-LIB63-ENT-BLF-0016508,descriptive_identity,"""big city""",https://www.wikidata.org/wiki/Q486168
+LIBSRC-LIB63-ENT-BLF-0016508,descriptive_identity,"""charter city""",https://www.wikidata.org/wiki/Q486168
+LIBSRC-LIB63-ENT-BLF-0016508,descriptive_identity,"""county seat""",https://www.wikidata.org/wiki/Q486168
+LIBSRC-LIB63-ENT-BLF-0016508,identity_label,"""San Bernardino""",https://www.wikidata.org/wiki/Q486168
+LIBSRC-LIB63-ENT-BLF-0016508,location,"""San Bernardino County""",https://www.wikidata.org/wiki/Q486168
+LIBSRC-LIB63-ENT-BLF-0016748,descriptive_identity,"""religious congregation""",https://www.wikidata.org/wiki/Q114239332
+LIBSRC-LIB63-ENT-BLF-0017128,construction_date,"""1942-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q16611176
+LIBSRC-LIB63-ENT-BLF-0017128,descriptive_identity,"""Catholic religious institute""",https://www.wikidata.org/wiki/Q16611176
+LIBSRC-LIB63-ENT-BLF-0018158,construction_date,"""2005-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q5160572
+LIBSRC-LIB63-ENT-BLF-0018158,descriptive_identity,"""religious order""",https://www.wikidata.org/wiki/Q5160572
+IDB-REG03-CAT01-ERA06-2000S-HIGH-SPEED-1-HS1-LTD,component_relationship,"""St Pancras to Cheriton (Channel Tunnel Rail Link), Dagenham Junction to Eurotunnel boundary""",https://www.wikidata.org/wiki/Q277604
+IDB-REG03-CAT01-ERA06-2000S-HIGH-SPEED-1-HS1-LTD,construction_date,"""2007-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q277604
+IDB-REG03-CAT01-ERA06-2000S-HIGH-SPEED-1-HS1-LTD,descriptive_identity,"""high-speed railway line""",https://www.wikidata.org/wiki/Q277604
+IDB-REG03-CAT01-ERA06-2000S-HIGH-SPEED-1-HS1-LTD,descriptive_identity,"""transport megaproject""",https://www.wikidata.org/wiki/Q277604
+IDB-REG03-CAT01-ERA06-2000S-HIGH-SPEED-1-HS1-LTD,descriptive_identity,"""public transport""",https://www.wikidata.org/wiki/Q277604
+IDB-REG03-CAT01-ERA06-2000S-HIGH-SPEED-1-HS1-LTD,location,"""Greater London""",https://www.wikidata.org/wiki/Q277604
+IDB-REG03-CAT01-ERA06-2000S-HIGH-SPEED-1-HS1-LTD,location,"""Essex""",https://www.wikidata.org/wiki/Q277604
+IDB-REG03-CAT01-ERA06-2000S-HIGH-SPEED-1-HS1-LTD,location,"""Kent""",https://www.wikidata.org/wiki/Q277604
+IDB-REG03-CAT01-ERA06-2000S-HIGH-SPEED-1-HS1-LTD,location,"""South East England""",https://www.wikidata.org/wiki/Q277604
+IDB-REG03-CAT01-ERA06-2000S-HIGH-SPEED-1-HS1-LTD,structural_relationship,"""National Rail""",https://www.wikidata.org/wiki/Q277604
+IDB-REG03-CAT01-ERA06-2000S-HIGH-SPEED-1-HS1-LTD,structural_relationship,"""high-speed rail in the United Kingdom""",https://www.wikidata.org/wiki/Q277604
+IDB-REG03-CAT01-ERA07-2010S-20-FENCHURCH-STREET-WALKIE-TALKIE-LONDON-2014,construction_date,"""2014-04-00T00:00:00Z""",https://www.wikidata.org/wiki/Q212834
+IDB-REG03-CAT01-ERA07-2010S-20-FENCHURCH-STREET-WALKIE-TALKIE-LONDON-2014,creator_or_attribution,"""Rafael Vi\u00f1oly""",https://www.wikidata.org/wiki/Q212834
+IDB-REG03-CAT01-ERA07-2010S-20-FENCHURCH-STREET-WALKIE-TALKIE-LONDON-2014,creator_or_attribution,"""Halcrow Group""",https://www.wikidata.org/wiki/Q212834
+IDB-REG03-CAT01-ERA07-2010S-20-FENCHURCH-STREET-WALKIE-TALKIE-LONDON-2014,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q212834
+IDB-REG03-CAT01-ERA07-2010S-20-FENCHURCH-STREET-WALKIE-TALKIE-LONDON-2014,dimension_length,160000.0,https://www.wikidata.org/wiki/Q212834
+IDB-REG03-CAT01-ERA07-2010S-20-FENCHURCH-STREET-WALKIE-TALKIE-LONDON-2014,identity_label,"""20 Fenchurch Street""",https://www.wikidata.org/wiki/Q212834
+IDB-REG03-CAT01-ERA07-2010S-20-FENCHURCH-STREET-WALKIE-TALKIE-LONDON-2014,location,"""City of London""",https://www.wikidata.org/wiki/Q212834
+IDB-REG03-CAT01-ERA07-2010S-DE-ROTTERDAM-WILHELMINAPIER-OMA-2013,construction_date,"""2013-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q2741526
+IDB-REG03-CAT01-ERA07-2010S-DE-ROTTERDAM-WILHELMINAPIER-OMA-2013,construction_date,"""1997-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q2741526
+IDB-REG03-CAT01-ERA07-2010S-DE-ROTTERDAM-WILHELMINAPIER-OMA-2013,creator_or_attribution,"""Rem Koolhaas""",https://www.wikidata.org/wiki/Q2741526
+IDB-REG03-CAT01-ERA07-2010S-DE-ROTTERDAM-WILHELMINAPIER-OMA-2013,creator_or_attribution,"""Reinier de Graaf""",https://www.wikidata.org/wiki/Q2741526
+IDB-REG03-CAT01-ERA07-2010S-DE-ROTTERDAM-WILHELMINAPIER-OMA-2013,creator_or_attribution,"""Ellen van Loon""",https://www.wikidata.org/wiki/Q2741526
+IDB-REG03-CAT01-ERA07-2010S-DE-ROTTERDAM-WILHELMINAPIER-OMA-2013,creator_or_attribution,"""Office for Metropolitan Architecture""",https://www.wikidata.org/wiki/Q2741526
+IDB-REG03-CAT01-ERA07-2010S-DE-ROTTERDAM-WILHELMINAPIER-OMA-2013,creator_or_attribution,"""Z\u00fcblin Nederland""",https://www.wikidata.org/wiki/Q2741526
+IDB-REG03-CAT01-ERA07-2010S-DE-ROTTERDAM-WILHELMINAPIER-OMA-2013,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q2741526
+IDB-REG03-CAT01-ERA07-2010S-DE-ROTTERDAM-WILHELMINAPIER-OMA-2013,dimension_length,149000.0,https://www.wikidata.org/wiki/Q2741526
+IDB-REG03-CAT01-ERA07-2010S-DE-ROTTERDAM-WILHELMINAPIER-OMA-2013,location,"""Rotterdam""",https://www.wikidata.org/wiki/Q2741526
+IDB-REG03-CAT01-ERA07-2010S-DE-ROTTERDAM-WILHELMINAPIER-OMA-2013,location,"""Feijenoord""",https://www.wikidata.org/wiki/Q2741526
+IDB-REG03-CAT01-ERA07-2010S-ELBPHILHARMONIE-KAISPEICHER-A-HAMBURG-2017,construction_date,"""1963-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q673223
+IDB-REG03-CAT01-ERA07-2010S-ELBPHILHARMONIE-KAISPEICHER-A-HAMBURG-2017,creator_or_attribution,"""Herzog & de Meuron""",https://www.wikidata.org/wiki/Q673223
+IDB-REG03-CAT01-ERA07-2010S-ELBPHILHARMONIE-KAISPEICHER-A-HAMBURG-2017,creator_or_attribution,"""Werner Kallmorgen""",https://www.wikidata.org/wiki/Q673223
+IDB-REG03-CAT01-ERA07-2010S-ELBPHILHARMONIE-KAISPEICHER-A-HAMBURG-2017,creator_or_attribution,"""Adamanta""",https://www.wikidata.org/wiki/Q673223
+IDB-REG03-CAT01-ERA07-2010S-ELBPHILHARMONIE-KAISPEICHER-A-HAMBURG-2017,descriptive_identity,"""concert hall""",https://www.wikidata.org/wiki/Q673223
+IDB-REG03-CAT01-ERA07-2010S-ELBPHILHARMONIE-KAISPEICHER-A-HAMBURG-2017,descriptive_identity,"""hotel""",https://www.wikidata.org/wiki/Q673223
+IDB-REG03-CAT01-ERA07-2010S-ELBPHILHARMONIE-KAISPEICHER-A-HAMBURG-2017,descriptive_identity,"""former warehouse""",https://www.wikidata.org/wiki/Q673223
+IDB-REG03-CAT01-ERA07-2010S-ELBPHILHARMONIE-KAISPEICHER-A-HAMBURG-2017,dimension_length,110000.0,https://www.wikidata.org/wiki/Q673223
+IDB-REG03-CAT01-ERA07-2010S-ELBPHILHARMONIE-KAISPEICHER-A-HAMBURG-2017,identity_label,"""Elbphilharmonie""",https://www.wikidata.org/wiki/Q673223
+IDB-REG03-CAT01-ERA07-2010S-ELBPHILHARMONIE-KAISPEICHER-A-HAMBURG-2017,location,"""Hamburg-Mitte""",https://www.wikidata.org/wiki/Q673223
+IDB-REG03-CAT01-ERA07-2010S-ELBPHILHARMONIE-KAISPEICHER-A-HAMBURG-2017,location,"""HafenCity""",https://www.wikidata.org/wiki/Q673223
+IDB-REG03-CAT01-ERA07-2010S-ELBPHILHARMONIE-KAISPEICHER-A-HAMBURG-2017,material_identity,"""reinforced concrete""",https://www.wikidata.org/wiki/Q673223
+IDB-REG03-CAT01-ERA07-2010S-ELBPHILHARMONIE-KAISPEICHER-A-HAMBURG-2017,material_identity,"""glass""",https://www.wikidata.org/wiki/Q673223
+IDB-REG03-CAT01-ERA07-2010S-ELBPHILHARMONIE-KAISPEICHER-A-HAMBURG-2017,material_identity,"""steel""",https://www.wikidata.org/wiki/Q673223
+IDB-REG03-CAT01-ERA07-2010S-ELBPHILHARMONIE-KAISPEICHER-A-HAMBURG-2017,material_identity,"""concrete""",https://www.wikidata.org/wiki/Q673223
+IDB-REG03-CAT01-ERA06-2010S-INNER-WEST-LIGHT-RAIL,descriptive_identity,"""light rail system line""",https://www.wikidata.org/wiki/Q14543324
+IDB-REG03-CAT01-ERA06-2010S-LONDON-STADIUM,construction_date,"""2008-05-22T00:00:00Z""",https://www.wikidata.org/wiki/Q172190
+IDB-REG03-CAT01-ERA06-2010S-LONDON-STADIUM,creator_or_attribution,"""Populous""",https://www.wikidata.org/wiki/Q172190
+IDB-REG03-CAT01-ERA06-2010S-LONDON-STADIUM,creator_or_attribution,"""Sir Robert McAlpine""",https://www.wikidata.org/wiki/Q172190
+IDB-REG03-CAT01-ERA06-2010S-LONDON-STADIUM,creator_or_attribution,"""Buro Happold Engineering""",https://www.wikidata.org/wiki/Q172190
+IDB-REG03-CAT01-ERA06-2010S-LONDON-STADIUM,descriptive_identity,"""association football venue""",https://www.wikidata.org/wiki/Q172190
+IDB-REG03-CAT01-ERA06-2010S-LONDON-STADIUM,descriptive_identity,"""rugby league venue""",https://www.wikidata.org/wiki/Q172190
+IDB-REG03-CAT01-ERA06-2010S-LONDON-STADIUM,descriptive_identity,"""rugby union venue""",https://www.wikidata.org/wiki/Q172190
+IDB-REG03-CAT01-ERA06-2010S-LONDON-STADIUM,descriptive_identity,"""baseball venue""",https://www.wikidata.org/wiki/Q172190
+IDB-REG03-CAT01-ERA06-2010S-LONDON-STADIUM,identity_label,"""London Stadium""",https://www.wikidata.org/wiki/Q172190
+IDB-REG03-CAT01-ERA06-2010S-LONDON-STADIUM,location,"""Stratford""",https://www.wikidata.org/wiki/Q172190
+IDB-REG03-CAT01-ERA06-2010S-LONDON-STADIUM,location,"""London""",https://www.wikidata.org/wiki/Q172190
+IDB-REG03-CAT01-ERA06-2010S-MACLEAY-VALLEY-BRIDGE,descriptive_identity,"""beam bridge""",https://www.wikidata.org/wiki/Q6724668
+IDB-REG03-CAT01-ERA06-2010S-MACLEAY-VALLEY-BRIDGE,descriptive_identity,"""road bridge""",https://www.wikidata.org/wiki/Q6724668
+IDB-REG03-CAT01-ERA06-2010S-MACLEAY-VALLEY-BRIDGE,dimension_length,3200000.0,https://www.wikidata.org/wiki/Q6724668
+IDB-REG03-CAT01-ERA06-2010S-MACLEAY-VALLEY-BRIDGE,location,"""New South Wales""",https://www.wikidata.org/wiki/Q6724668
+IDB-REG03-CAT01-ERA06-2010S-MACLEAY-VALLEY-BRIDGE,material_identity,"""concrete""",https://www.wikidata.org/wiki/Q6724668
+IDB-REG03-CAT01-ERA06-2010S-MEDIA-CITY-FOOTBRIDGE,creator_or_attribution,"""WilkinsonEyre""",https://www.wikidata.org/wiki/Q6805469
+IDB-REG03-CAT01-ERA06-2010S-MEDIA-CITY-FOOTBRIDGE,descriptive_identity,"""footbridge""",https://www.wikidata.org/wiki/Q6805469
+IDB-REG03-CAT01-ERA06-2010S-METROPOL-PARASOL,construction_date,"""2011-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q3087671
+IDB-REG03-CAT01-ERA06-2010S-METROPOL-PARASOL,creator_or_attribution,"""J\u00fcrgen Mayer""",https://www.wikidata.org/wiki/Q3087671
+IDB-REG03-CAT01-ERA06-2010S-METROPOL-PARASOL,descriptive_identity,"""monument""",https://www.wikidata.org/wiki/Q3087671
+IDB-REG03-CAT01-ERA06-2010S-METROPOL-PARASOL,descriptive_identity,"""building""",https://www.wikidata.org/wiki/Q3087671
+IDB-REG03-CAT01-ERA06-2010S-METROPOL-PARASOL,dimension_length,26000.0,https://www.wikidata.org/wiki/Q3087671
+IDB-REG03-CAT01-ERA06-2010S-METROPOL-PARASOL,location,"""Seville""",https://www.wikidata.org/wiki/Q3087671
+IDB-REG03-CAT01-ERA06-2010S-OBEL-TOWER,construction_date,"""2011-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q7074694
+IDB-REG03-CAT01-ERA06-2010S-OBEL-TOWER,descriptive_identity,"""residential tower""",https://www.wikidata.org/wiki/Q7074694
+IDB-REG03-CAT01-ERA06-2010S-OBEL-TOWER,location,"""Belfast""",https://www.wikidata.org/wiki/Q7074694
+IDB-REG03-CAT01-ERA06-2010S-ONE-ANGEL-SQUARE,construction_date,"""2013-03-00T00:00:00Z""",https://www.wikidata.org/wiki/Q7092448
+IDB-REG03-CAT01-ERA06-2010S-ONE-ANGEL-SQUARE,creator_or_attribution,"""Buro Happold Engineering""",https://www.wikidata.org/wiki/Q7092448
+IDB-REG03-CAT01-ERA06-2010S-ONE-ANGEL-SQUARE,creator_or_attribution,"""Waagner-Biro""",https://www.wikidata.org/wiki/Q7092448
+IDB-REG03-CAT01-ERA06-2010S-ONE-ANGEL-SQUARE,descriptive_identity,"""office building""",https://www.wikidata.org/wiki/Q7092448
+IDB-REG03-CAT01-ERA06-2010S-ONE-ANGEL-SQUARE,dimension_length,72000.0,https://www.wikidata.org/wiki/Q7092448
+IDB-REG03-CAT01-ERA06-2010S-ONE-ANGEL-SQUARE,identity_label,"""One Angle Square""",https://www.wikidata.org/wiki/Q7092448
+IDB-REG03-CAT01-ERA06-2010S-ONE-ANGEL-SQUARE,location,"""Manchester""",https://www.wikidata.org/wiki/Q7092448
+IDB-REG03-CAT01-ERA06-2010S-ONE-ANGEL-SQUARE,location,"""NOMA""",https://www.wikidata.org/wiki/Q7092448
+IDB-REG03-CAT01-ERA06-2010S-ONE-ANGEL-SQUARE,structural_relationship,"""NOMA""",https://www.wikidata.org/wiki/Q7092448
+IDB-REG03-CAT01-ERA06-2010S-ONE-ANGEL-SQUARE,structural_relationship,"""The Co-operative Group""",https://www.wikidata.org/wiki/Q7092448
+IDB-REG03-CAT01-ERA06-2010S-PALAZZO-LOMBARDIA,construction_date,"""2010-06-00T00:00:00Z""",https://www.wikidata.org/wiki/Q616863
+IDB-REG03-CAT01-ERA06-2010S-PALAZZO-LOMBARDIA,creator_or_attribution,"""PCF Architects""",https://www.wikidata.org/wiki/Q616863
+IDB-REG03-CAT01-ERA06-2010S-PALAZZO-LOMBARDIA,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q616863
+IDB-REG03-CAT01-ERA06-2010S-PALAZZO-LOMBARDIA,dimension_length,161300.0,https://www.wikidata.org/wiki/Q616863
+IDB-REG03-CAT01-ERA06-2010S-PALAZZO-LOMBARDIA,location,"""Milan""",https://www.wikidata.org/wiki/Q616863
+IDB-REG03-CAT01-ERA06-2010S-PALAZZO-LOMBARDIA,location,"""Centro Direzionale di Milano""",https://www.wikidata.org/wiki/Q616863
+IDB-REG03-CAT01-ERA06-2010S-PASSERELLE-DE-LA-PAIX-DIETMAR-FEICHTINGER,construction_date,"""2014-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q3368308
+IDB-REG03-CAT01-ERA06-2010S-PASSERELLE-DE-LA-PAIX-DIETMAR-FEICHTINGER,creator_or_attribution,"""Dietmar Feichtinger""",https://www.wikidata.org/wiki/Q3368308
+IDB-REG03-CAT01-ERA06-2010S-PASSERELLE-DE-LA-PAIX-DIETMAR-FEICHTINGER,descriptive_identity,"""bridge""",https://www.wikidata.org/wiki/Q3368308
+IDB-REG03-CAT01-ERA06-2010S-PASSERELLE-DE-LA-PAIX-DIETMAR-FEICHTINGER,dimension_length,220000.0,https://www.wikidata.org/wiki/Q3368308
+IDB-REG03-CAT01-ERA06-2010S-PASSERELLE-DE-LA-PAIX-DIETMAR-FEICHTINGER,location,"""Lyon""",https://www.wikidata.org/wiki/Q3368308
+IDB-REG03-CAT01-ERA06-2010S-PASSERELLE-DE-LA-PAIX-DIETMAR-FEICHTINGER,location,"""Caluire-et-Cuire""",https://www.wikidata.org/wiki/Q3368308
+IDB-REG03-CAT01-ERA06-2010S-PONT-BRIWET,descriptive_identity,"""railway bridge""",https://www.wikidata.org/wiki/Q7227998
+IDB-REG03-CAT01-ERA06-2010S-PONT-BRIWET,descriptive_identity,"""road bridge""",https://www.wikidata.org/wiki/Q7227998
+IDB-REG03-CAT01-ERA06-2010S-PONT-BRIWET,location,"""Talsarnau""",https://www.wikidata.org/wiki/Q7227998
+IDB-REG03-CAT01-ERA06-2010S-PONT-BRIWET,location,"""Penrhyndeudraeth""",https://www.wikidata.org/wiki/Q7227998
+IDB-REG03-CAT01-ERA06-2010S-PONT-BRIWET,location,"""Talsarnau""",https://www.wikidata.org/wiki/Q7227998
+IDB-REG03-CAT01-ERA06-2010S-PONT-Y-WERIN,construction_date,"""2010-07-14T00:00:00Z""",https://www.wikidata.org/wiki/Q7228030
+IDB-REG03-CAT01-ERA06-2010S-PONT-Y-WERIN,descriptive_identity,"""footbridge""",https://www.wikidata.org/wiki/Q7228030
+IDB-REG03-CAT01-ERA06-2010S-PONT-Y-WERIN,dimension_length,140000.0,https://www.wikidata.org/wiki/Q7228030
+IDB-REG03-CAT01-ERA06-2010S-PONT-Y-WERIN,location,"""Cardiff""",https://www.wikidata.org/wiki/Q7228030
+IDB-REG03-CAT01-ERA06-2010S-PONT-Y-WERIN,location,"""Cardiff Bay""",https://www.wikidata.org/wiki/Q7228030
+IDB-REG03-CAT01-ERA06-2010S-PORTLAND-TOWERS,construction_date,"""2013-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q26257973
+IDB-REG03-CAT01-ERA06-2010S-PORTLAND-TOWERS,descriptive_identity,"""office building""",https://www.wikidata.org/wiki/Q26257973
+IDB-REG03-CAT01-ERA06-2010S-PORTLAND-TOWERS,location,"""Copenhagen Municipality""",https://www.wikidata.org/wiki/Q26257973
+IDB-REG03-CAT01-ERA06-2010S-POYA-BRIDGE,construction_date,"""2014-10-12T00:00:00Z""",https://www.wikidata.org/wiki/Q568440
+IDB-REG03-CAT01-ERA06-2010S-POYA-BRIDGE,descriptive_identity,"""road bridge""",https://www.wikidata.org/wiki/Q568440
+IDB-REG03-CAT01-ERA06-2010S-POYA-BRIDGE,descriptive_identity,"""cable-stayed bridge""",https://www.wikidata.org/wiki/Q568440
+IDB-REG03-CAT01-ERA06-2010S-POYA-BRIDGE,descriptive_identity,"""project""",https://www.wikidata.org/wiki/Q568440
+IDB-REG03-CAT01-ERA06-2010S-POYA-BRIDGE,dimension_length,851600.0,https://www.wikidata.org/wiki/Q568440
+IDB-REG03-CAT01-ERA06-2010S-POYA-BRIDGE,dimension_length,70000.0,https://www.wikidata.org/wiki/Q568440
+IDB-REG03-CAT01-ERA06-2010S-POYA-BRIDGE,location,"""Fribourg""",https://www.wikidata.org/wiki/Q568440
+IDB-REG03-CAT01-ERA06-2010S-RENAISSANCE-BARCELONA-FIRA-HOTEL,descriptive_identity,"""hotel""",https://www.wikidata.org/wiki/Q111389389
+IDB-REG03-CAT01-ERA06-2010S-RENAISSANCE-BARCELONA-FIRA-HOTEL,location,"""L'Hospitalet de Llobregat""",https://www.wikidata.org/wiki/Q111389389
+IDB-REG03-CAT01-ERA06-2010S-SCANDIC-VICTORIA-TOWER,construction_date,"""2011-09-15T00:00:00Z""",https://www.wikidata.org/wiki/Q1300529
+IDB-REG03-CAT01-ERA06-2010S-SCANDIC-VICTORIA-TOWER,creator_or_attribution,"""Gert Wing\u00e5rdh""",https://www.wikidata.org/wiki/Q1300529
+IDB-REG03-CAT01-ERA06-2010S-SCANDIC-VICTORIA-TOWER,creator_or_attribution,"""Karolina Keyzer""",https://www.wikidata.org/wiki/Q1300529
+IDB-REG03-CAT01-ERA06-2010S-SCANDIC-VICTORIA-TOWER,creator_or_attribution,"""Peab""",https://www.wikidata.org/wiki/Q1300529
+IDB-REG03-CAT01-ERA06-2010S-SCANDIC-VICTORIA-TOWER,descriptive_identity,"""hotel""",https://www.wikidata.org/wiki/Q1300529
+IDB-REG03-CAT01-ERA06-2010S-SCANDIC-VICTORIA-TOWER,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q1300529
+IDB-REG03-CAT01-ERA06-2010S-SCANDIC-VICTORIA-TOWER,dimension_length,117000.0,https://www.wikidata.org/wiki/Q1300529
+IDB-REG03-CAT01-ERA06-2010S-SCANDIC-VICTORIA-TOWER,location,"""Stockholm Municipality""",https://www.wikidata.org/wiki/Q1300529
+IDB-REG03-CAT01-ERA06-2010S-SCANDIC-VICTORIA-TOWER,location,"""Kista""",https://www.wikidata.org/wiki/Q1300529
+IDB-REG03-CAT01-ERA06-2010S-SISIMIUT-HYDRO-POWER-PLANT,descriptive_identity,"""hydroelectric power station""",https://www.wikidata.org/wiki/Q7530815
+IDB-REG03-CAT01-ERA06-2010S-SISIMIUT-HYDRO-POWER-PLANT,location,"""Qeqqata""",https://www.wikidata.org/wiki/Q7530815
+IDB-REG03-CAT01-ERA06-2010S-STADE-PIERRE-MAUROY,construction_date,"""2009-07-00T00:00:00Z""",https://www.wikidata.org/wiki/Q1410402
+IDB-REG03-CAT01-ERA06-2010S-STADE-PIERRE-MAUROY,construction_date,"""2012-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q1410402
+IDB-REG03-CAT01-ERA06-2010S-STADE-PIERRE-MAUROY,construction_date,"""2012-08-17T00:00:00Z""",https://www.wikidata.org/wiki/Q1410402
+IDB-REG03-CAT01-ERA06-2010S-STADE-PIERRE-MAUROY,creator_or_attribution,"""Pierre Ferret""",https://www.wikidata.org/wiki/Q1410402
+IDB-REG03-CAT01-ERA06-2010S-STADE-PIERRE-MAUROY,creator_or_attribution,"""Valode & Pistre""",https://www.wikidata.org/wiki/Q1410402
+IDB-REG03-CAT01-ERA06-2010S-STADE-PIERRE-MAUROY,descriptive_identity,"""multi-purpose stadium""",https://www.wikidata.org/wiki/Q1410402
+IDB-REG03-CAT01-ERA06-2010S-STADE-PIERRE-MAUROY,descriptive_identity,"""sports venue""",https://www.wikidata.org/wiki/Q1410402
+IDB-REG03-CAT01-ERA06-2010S-STADE-PIERRE-MAUROY,identity_label,"""Decathlon Arena \u2013 Stade Pierre-Mauroy""",https://www.wikidata.org/wiki/Q1410402
+IDB-REG03-CAT01-ERA06-2010S-STADE-PIERRE-MAUROY,identity_label,"""stade pierre mauroy""",https://www.wikidata.org/wiki/Q1410402
+IDB-REG03-CAT01-ERA06-2010S-STADE-PIERRE-MAUROY,location,"""Villeneuve-d'Ascq""",https://www.wikidata.org/wiki/Q1410402
+IDB-REG03-CAT01-ERA06-2010S-STADE-PIERRE-MAUROY,location,"""Villeneuve-d'Ascq""",https://www.wikidata.org/wiki/Q1410402
+IDB-REG03-CAT01-ERA06-2010S-STERSUND-ARENA,construction_date,"""2013-01-01T00:00:00Z""",https://www.wikidata.org/wiki/Q18335375
+IDB-REG03-CAT01-ERA06-2010S-STERSUND-ARENA,descriptive_identity,"""arena""",https://www.wikidata.org/wiki/Q18335375
+IDB-REG03-CAT01-ERA06-2010S-STERSUND-ARENA,descriptive_identity,"""indoor ice rink""",https://www.wikidata.org/wiki/Q18335375
+IDB-REG03-CAT01-ERA06-2010S-SUNDSVALL-BRIDGE,construction_date,"""2014-12-18T00:00:00Z""",https://www.wikidata.org/wiki/Q10477352
+IDB-REG03-CAT01-ERA06-2010S-SUNDSVALL-BRIDGE,descriptive_identity,"""bridge""",https://www.wikidata.org/wiki/Q10477352
+IDB-REG03-CAT01-ERA06-2010S-SUNDSVALL-BRIDGE,dimension_length,2109000.0,https://www.wikidata.org/wiki/Q10477352
+IDB-REG03-CAT01-ERA06-2010S-SUNDSVALL-BRIDGE,location,"""Sundsvall Municipality""",https://www.wikidata.org/wiki/Q10477352
+IDB-REG03-CAT01-ERA06-2010S-SUNDSVALL-BRIDGE,location,"""Sundsvall""",https://www.wikidata.org/wiki/Q10477352
+IDB-REG03-CAT01-ERA06-2010S-THE-HERON,construction_date,"""2013-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q7739508
+IDB-REG03-CAT01-ERA06-2010S-THE-HERON,descriptive_identity,"""tower block""",https://www.wikidata.org/wiki/Q7739508
+IDB-REG03-CAT01-ERA06-2010S-THE-HERON,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q7739508
+IDB-REG03-CAT01-ERA06-2010S-THE-HERON,location,"""City of London""",https://www.wikidata.org/wiki/Q7739508
+IDB-REG03-CAT01-ERA06-2010S-THE-ISLAND-CROYDON,construction_date,"""2014-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q5975746
+IDB-REG03-CAT01-ERA06-2010S-THE-ISLAND-CROYDON,creator_or_attribution,"""Scott Wilson Group""",https://www.wikidata.org/wiki/Q5975746
+IDB-REG03-CAT01-ERA06-2010S-THE-ISLAND-CROYDON,descriptive_identity,"""residential building""",https://www.wikidata.org/wiki/Q5975746
+IDB-REG03-CAT01-ERA06-2010S-THE-ISLAND-CROYDON,location,"""Croydon""",https://www.wikidata.org/wiki/Q5975746
+IDB-REG03-CAT01-ERA06-2010S-THE-ISLAND-CROYDON,location,"""London Borough of Croydon""",https://www.wikidata.org/wiki/Q5975746
+IDB-REG03-CAT01-ERA06-2010S-TITANIC-BELFAST,construction_date,"""2012-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q924254
+IDB-REG03-CAT01-ERA06-2010S-TITANIC-BELFAST,creator_or_attribution,"""Eric Kuhne""",https://www.wikidata.org/wiki/Q924254
+IDB-REG03-CAT01-ERA06-2010S-TITANIC-BELFAST,descriptive_identity,"""convention center""",https://www.wikidata.org/wiki/Q924254
+IDB-REG03-CAT01-ERA06-2010S-TITANIC-BELFAST,location,"""Belfast""",https://www.wikidata.org/wiki/Q924254
+IDB-REG03-CAT01-ERA06-2010S-TORRE-EUROPARCO,construction_date,"""2012-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q3995181
+IDB-REG03-CAT01-ERA06-2010S-TORRE-EUROPARCO,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q3995181
+IDB-REG03-CAT01-ERA06-2010S-TORRE-EUROPARCO,location,"""Rome""",https://www.wikidata.org/wiki/Q3995181
+IDB-REG03-CAT01-ERA06-2010S-TORRE-INBISA,construction_date,"""2010-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q1189214
+IDB-REG03-CAT01-ERA06-2010S-TORRE-INBISA,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q1189214
+IDB-REG03-CAT01-ERA06-2010S-TORRE-INBISA,location,"""L'Hospitalet de Llobregat""",https://www.wikidata.org/wiki/Q1189214
+IDB-REG03-CAT01-ERA06-2010S-TORRE-TITANIA,construction_date,"""2013-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q6150288
+IDB-REG03-CAT01-ERA06-2010S-TORRE-TITANIA,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q6150288
+IDB-REG03-CAT01-ERA06-2010S-TORRE-TITANIA,location,"""Cuatro Caminos""",https://www.wikidata.org/wiki/Q6150288
+IDB-REG03-CAT01-ERA06-2010S-TORRE-TITANIA,location,"""Madrid""",https://www.wikidata.org/wiki/Q6150288
+IDB-REG03-CAT01-ERA06-2010S-TORRE-TITANIA,location,"""Tetu\u00e1n""",https://www.wikidata.org/wiki/Q6150288
+IDB-REG03-CAT01-ERA06-2010S-TOUR-D2,construction_date,"""2014-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q2040985
+IDB-REG03-CAT01-ERA06-2010S-TOUR-D2,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q2040985
+IDB-REG03-CAT01-ERA06-2010S-TOUR-D2,dimension_length,171000.0,https://www.wikidata.org/wiki/Q2040985
+IDB-REG03-CAT01-ERA06-2010S-TOUR-D2,identity_label,"""Tour D2""",https://www.wikidata.org/wiki/Q2040985
+IDB-REG03-CAT01-ERA06-2010S-TOUR-D2,location,"""Courbevoie""",https://www.wikidata.org/wiki/Q2040985
+IDB-REG03-CAT01-ERA06-2010S-TOUR-D2,location,"""Courbevoie""",https://www.wikidata.org/wiki/Q2040985
+IDB-REG03-CAT01-ERA06-2010S-TOUR-OXYG-NE,construction_date,"""2010-06-02T00:00:00Z""",https://www.wikidata.org/wiki/Q8530
+IDB-REG03-CAT01-ERA06-2010S-TOUR-OXYG-NE,creator_or_attribution,"""Arte Charpentier""",https://www.wikidata.org/wiki/Q8530
+IDB-REG03-CAT01-ERA06-2010S-TOUR-OXYG-NE,creator_or_attribution,"""Didier-No\u00ebl Petit""",https://www.wikidata.org/wiki/Q8530
+IDB-REG03-CAT01-ERA06-2010S-TOUR-OXYG-NE,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q8530
+IDB-REG03-CAT01-ERA06-2010S-TOUR-OXYG-NE,descriptive_identity,"""office building""",https://www.wikidata.org/wiki/Q8530
+IDB-REG03-CAT01-ERA06-2010S-TOUR-OXYG-NE,dimension_length,115000.0,https://www.wikidata.org/wiki/Q8530
+IDB-REG03-CAT01-ERA06-2010S-TOUR-OXYG-NE,location,"""Lyon""",https://www.wikidata.org/wiki/Q8530
+IDB-REG03-CAT01-ERA06-2010S-TOUR-OXYG-NE,location,"""Lyon""",https://www.wikidata.org/wiki/Q8530
+IDB-REG03-CAT01-ERA06-2010S-V-LODROME-NATIONAL,construction_date,"""2014-01-13T00:00:00Z""",https://www.wikidata.org/wiki/Q3564108
+IDB-REG03-CAT01-ERA06-2010S-V-LODROME-NATIONAL,construction_date,"""2013-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q3564108
+IDB-REG03-CAT01-ERA06-2010S-V-LODROME-NATIONAL,creator_or_attribution,"""Schuermann family""",https://www.wikidata.org/wiki/Q3564108
+IDB-REG03-CAT01-ERA06-2010S-V-LODROME-NATIONAL,creator_or_attribution,"""Ralph Sch\u00fcrmann""",https://www.wikidata.org/wiki/Q3564108
+IDB-REG03-CAT01-ERA06-2010S-V-LODROME-NATIONAL,descriptive_identity,"""velodrome""",https://www.wikidata.org/wiki/Q3564108
+IDB-REG03-CAT01-ERA06-2010S-V-LODROME-NATIONAL,descriptive_identity,"""facility""",https://www.wikidata.org/wiki/Q3564108
+IDB-REG03-CAT01-ERA06-2010S-V-LODROME-NATIONAL,descriptive_identity,"""sports venue""",https://www.wikidata.org/wiki/Q3564108
+IDB-REG03-CAT01-ERA06-2010S-V-LODROME-NATIONAL,location,"""Montigny-le-Bretonneux""",https://www.wikidata.org/wiki/Q3564108
+IDB-REG03-CAT01-ERA06-2010S-V-LODROME-NATIONAL,location,"""Montigny-le-Bretonneux""",https://www.wikidata.org/wiki/Q3564108
+IDB-REG03-CAT01-ERA06-2010S-VASCO-DA-GAMA-TOWER,construction_date,"""1998-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q1756313
+IDB-REG03-CAT01-ERA06-2010S-VASCO-DA-GAMA-TOWER,creator_or_attribution,"""\uc2a4\ud0a4\ub4dc\ubaa8\uc5b4, \uc624\uc719\uc2a4 \uc564\ub4dc \uba54\ub9b4""",https://www.wikidata.org/wiki/Q1756313
+IDB-REG03-CAT01-ERA06-2010S-VASCO-DA-GAMA-TOWER,descriptive_identity,"""tower""",https://www.wikidata.org/wiki/Q1756313
+IDB-REG03-CAT01-ERA06-2010S-VASCO-DA-GAMA-TOWER,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q1756313
+IDB-REG03-CAT01-ERA06-2010S-VASCO-DA-GAMA-TOWER,location,"""Parque das Na\u00e7\u00f5es""",https://www.wikidata.org/wiki/Q1756313
+IDB-REG03-CAT01-ERA07-2010S-50-WEST-STREET,descriptive_identity,"""shop""",https://www.wikidata.org/wiki/Q62070683
+IDB-REG03-CAT01-ERA07-2010S-50-WEST-STREET,location,"""Congleton""",https://www.wikidata.org/wiki/Q62070683
+IDB-REG03-CAT01-ERA07-2010S-ALBERT-COTTER-BRIDGE,descriptive_identity,"""bridge""",https://www.wikidata.org/wiki/Q28128930
+IDB-REG03-CAT01-ERA07-2010S-ALBERT-COTTER-BRIDGE,location,"""New South Wales""",https://www.wikidata.org/wiki/Q28128930
+IDB-REG03-CAT01-ERA07-2010S-ANGEL-GARDENS,construction_date,"""2019-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q28457071
+IDB-REG03-CAT01-ERA07-2010S-ANGEL-GARDENS,descriptive_identity,"""building""",https://www.wikidata.org/wiki/Q28457071
+IDB-REG03-CAT01-ERA07-2010S-ANGEL-GARDENS,location,"""Manchester""",https://www.wikidata.org/wiki/Q28457071
+IDB-REG03-CAT01-ERA07-2010S-ARCTIC-WORLD-ARCHIVE,construction_date,"""2017-03-27T00:00:00Z""",https://www.wikidata.org/wiki/Q55604158
+IDB-REG03-CAT01-ERA07-2010S-ARCTIC-WORLD-ARCHIVE,descriptive_identity,"""digital archive""",https://www.wikidata.org/wiki/Q55604158
+IDB-REG03-CAT01-ERA07-2010S-ARCTIC-WORLD-ARCHIVE,location,"""Svalbard""",https://www.wikidata.org/wiki/Q55604158
+IDB-REG03-CAT01-ERA07-2010S-BECKLEY-POINT,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q117715547
+IDB-REG03-CAT01-ERA07-2010S-BECKLEY-POINT,descriptive_identity,"""university dormitory""",https://www.wikidata.org/wiki/Q117715547
+IDB-REG03-CAT01-ERA07-2010S-BECKLEY-POINT,location,"""City of Plymouth""",https://www.wikidata.org/wiki/Q117715547
+IDB-REG03-CAT01-ERA07-2010S-CHARLES-KUONEN-SUSPENSION-BRIDGE,construction_date,"""2017-07-00T00:00:00Z""",https://www.wikidata.org/wiki/Q34048755
+IDB-REG03-CAT01-ERA07-2010S-CHARLES-KUONEN-SUSPENSION-BRIDGE,descriptive_identity,"""simple suspension bridge""",https://www.wikidata.org/wiki/Q34048755
+IDB-REG03-CAT01-ERA07-2010S-CHARLES-KUONEN-SUSPENSION-BRIDGE,dimension_length,494000.0,https://www.wikidata.org/wiki/Q34048755
+IDB-REG03-CAT01-ERA07-2010S-CHARLES-KUONEN-SUSPENSION-BRIDGE,dimension_length,85000.0,https://www.wikidata.org/wiki/Q34048755
+IDB-REG03-CAT01-ERA07-2010S-CHARLES-KUONEN-SUSPENSION-BRIDGE,location,"""Randa""",https://www.wikidata.org/wiki/Q34048755
+IDB-REG03-CAT01-ERA07-2010S-CHARLES-KUONEN-SUSPENSION-BRIDGE,structural_relationship,"""Q1376219""",https://www.wikidata.org/wiki/Q34048755
+IDB-REG03-CAT01-ERA07-2010S-DEN-BROOK-WIND-FARM,descriptive_identity,"""wind farm""",https://www.wikidata.org/wiki/Q5256451
+IDB-REG03-CAT01-ERA07-2010S-DEN-BROOK-WIND-FARM,location,"""North Tawton""",https://www.wikidata.org/wiki/Q5256451
+IDB-REG03-CAT01-ERA07-2010S-DEN-BROOK-WIND-FARM,location,"""Q4429545""",https://www.wikidata.org/wiki/Q5256451
+IDB-REG03-CAT01-ERA07-2010S-EISERNER-STEG,construction_date,"""1868-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q1313525
+IDB-REG03-CAT01-ERA07-2010S-EISERNER-STEG,descriptive_identity,"""steel bridge""",https://www.wikidata.org/wiki/Q1313525
+IDB-REG03-CAT01-ERA07-2010S-EISERNER-STEG,descriptive_identity,"""footbridge""",https://www.wikidata.org/wiki/Q1313525
+IDB-REG03-CAT01-ERA07-2010S-EISERNER-STEG,descriptive_identity,"""truss bridge""",https://www.wikidata.org/wiki/Q1313525
+IDB-REG03-CAT01-ERA07-2010S-EISERNER-STEG,descriptive_identity,"""bridge""",https://www.wikidata.org/wiki/Q1313525
+IDB-REG03-CAT01-ERA07-2010S-EISERNER-STEG,dimension_length,173590.0,https://www.wikidata.org/wiki/Q1313525
+IDB-REG03-CAT01-ERA07-2010S-EISERNER-STEG,dimension_length,5440.0,https://www.wikidata.org/wiki/Q1313525
+IDB-REG03-CAT01-ERA07-2010S-EISERNER-STEG,identity_label,"""Eiserner Steg""",https://www.wikidata.org/wiki/Q1313525
+IDB-REG03-CAT01-ERA07-2010S-EISERNER-STEG,location,"""Frankfurt-S\u00fcd""",https://www.wikidata.org/wiki/Q1313525
+IDB-REG03-CAT01-ERA07-2010S-EISERNER-STEG,location,"""Frankfurt-Innenstadt I""",https://www.wikidata.org/wiki/Q1313525
+IDB-REG03-CAT01-ERA07-2010S-EISERNER-STEG,location,"""Q1794""",https://www.wikidata.org/wiki/Q1313525
+IDB-REG03-CAT01-ERA07-2010S-EISERNER-STEG,location,"""Q151535""",https://www.wikidata.org/wiki/Q1313525
+IDB-REG03-CAT01-ERA07-2010S-EISERNER-STEG,location,"""Q449266""",https://www.wikidata.org/wiki/Q1313525
+IDB-REG03-CAT01-ERA07-2010S-GENERALI-TOWER,construction_date,"""2017-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q3995195
+IDB-REG03-CAT01-ERA07-2010S-GENERALI-TOWER,creator_or_attribution,"""Zaha Hadid""",https://www.wikidata.org/wiki/Q3995195
+IDB-REG03-CAT01-ERA07-2010S-GENERALI-TOWER,creator_or_attribution,"""Mauro Eugenio Giuliani""",https://www.wikidata.org/wiki/Q3995195
+IDB-REG03-CAT01-ERA07-2010S-GENERALI-TOWER,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q3995195
+IDB-REG03-CAT01-ERA07-2010S-GENERALI-TOWER,dimension_length,177400.0,https://www.wikidata.org/wiki/Q3995195
+IDB-REG03-CAT01-ERA07-2010S-GENERALI-TOWER,location,"""Milan""",https://www.wikidata.org/wiki/Q3995195
+IDB-REG03-CAT01-ERA07-2010S-GENERALI-TOWER,structural_relationship,"""Q3678603""",https://www.wikidata.org/wiki/Q3995195
+IDB-REG03-CAT01-ERA07-2010S-GLOBAL-TOWER,descriptive_identity,"""tower block""",https://www.wikidata.org/wiki/Q1247710
+IDB-REG03-CAT01-ERA07-2010S-GLOBAL-TOWER,dimension_length,108600.0,https://www.wikidata.org/wiki/Q1247710
+IDB-REG03-CAT01-ERA07-2010S-GLOBAL-TOWER,location,"""Frankfurt-Innenstadt I""",https://www.wikidata.org/wiki/Q1247710
+IDB-REG03-CAT01-ERA07-2010S-GLOBAL-TOWER,location,"""Innenstadt""",https://www.wikidata.org/wiki/Q1247710
+IDB-REG03-CAT01-ERA07-2010S-HERON-QUAYS-WEST,construction_date,"""2019-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q5743521
+IDB-REG03-CAT01-ERA07-2010S-HERON-QUAYS-WEST,creator_or_attribution,"""Rogers Stirk Harbour + Partners""",https://www.wikidata.org/wiki/Q5743521
+IDB-REG03-CAT01-ERA07-2010S-HERON-QUAYS-WEST,descriptive_identity,"""tower block""",https://www.wikidata.org/wiki/Q5743521
+IDB-REG03-CAT01-ERA07-2010S-HERON-QUAYS-WEST,location,"""Q208152""",https://www.wikidata.org/wiki/Q5743521
+IDB-REG03-CAT01-ERA07-2010S-HERON-QUAYS-WEST,location,"""Q124377""",https://www.wikidata.org/wiki/Q5743521
+IDB-REG03-CAT01-ERA07-2010S-ISOIS-NSILTA,descriptive_identity,"""bridge""",https://www.wikidata.org/wiki/Q11865208
+IDB-REG03-CAT01-ERA07-2010S-ISOIS-NSILTA,descriptive_identity,"""arch bridge""",https://www.wikidata.org/wiki/Q11865208
+IDB-REG03-CAT01-ERA07-2010S-ISOIS-NSILTA,location,"""Q1757""",https://www.wikidata.org/wiki/Q11865208
+IDB-REG03-CAT01-ERA07-2010S-JABEE-TOWER,construction_date,"""2019-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q72102594
+IDB-REG03-CAT01-ERA07-2010S-JABEE-TOWER,creator_or_attribution,"""Mayo Bucher""",https://www.wikidata.org/wiki/Q72102594
+IDB-REG03-CAT01-ERA07-2010S-JABEE-TOWER,descriptive_identity,"""tower block""",https://www.wikidata.org/wiki/Q72102594
+IDB-REG03-CAT01-ERA07-2010S-JABEE-TOWER,dimension_length,100000.0,https://www.wikidata.org/wiki/Q72102594
+IDB-REG03-CAT01-ERA07-2010S-JABEE-TOWER,location,"""Q64082""",https://www.wikidata.org/wiki/Q72102594
+IDB-REG03-CAT01-ERA07-2010S-JABEE-TOWER,location,"""Q11943""",https://www.wikidata.org/wiki/Q72102594
+IDB-REG03-CAT01-ERA07-2010S-JABEE-TOWER,location,"""Stettbach""",https://www.wikidata.org/wiki/Q72102594
+IDB-REG03-CAT01-ERA07-2010S-LA-CONSTITUCI-N-DE-1812-BRIDGE,construction_date,"""2015-09-24T00:00:00Z""",https://www.wikidata.org/wiki/Q6464357
+IDB-REG03-CAT01-ERA07-2010S-LA-CONSTITUCI-N-DE-1812-BRIDGE,creator_or_attribution,"""Javier Manterola""",https://www.wikidata.org/wiki/Q6464357
+IDB-REG03-CAT01-ERA07-2010S-LA-CONSTITUCI-N-DE-1812-BRIDGE,descriptive_identity,"""bridge""",https://www.wikidata.org/wiki/Q6464357
+IDB-REG03-CAT01-ERA07-2010S-LA-CONSTITUCI-N-DE-1812-BRIDGE,descriptive_identity,"""cable-stayed bridge""",https://www.wikidata.org/wiki/Q6464357
+IDB-REG03-CAT01-ERA07-2010S-LA-CONSTITUCI-N-DE-1812-BRIDGE,dimension_length,3092000.0,https://www.wikidata.org/wiki/Q6464357
+IDB-REG03-CAT01-ERA07-2010S-LA-CONSTITUCI-N-DE-1812-BRIDGE,dimension_length,37000.0,https://www.wikidata.org/wiki/Q6464357
+IDB-REG03-CAT01-ERA07-2010S-LA-CONSTITUCI-N-DE-1812-BRIDGE,location,"""Q81978""",https://www.wikidata.org/wiki/Q6464357
+IDB-REG03-CAT01-ERA07-2010S-LA-CONSTITUCI-N-DE-1812-BRIDGE,location,"""Q15682""",https://www.wikidata.org/wiki/Q6464357
+IDB-REG03-CAT01-ERA07-2010S-LA-CONSTITUCI-N-DE-1812-BRIDGE,structural_relationship,"""Q5986171""",https://www.wikidata.org/wiki/Q6464357
+IDB-REG03-CAT01-ERA07-2010S-LINTH-LIMMERN-POWER-STATIONS,construction_date,"""1957-06-25T00:00:00Z""",https://www.wikidata.org/wiki/Q689068
+IDB-REG03-CAT01-ERA07-2010S-LINTH-LIMMERN-POWER-STATIONS,descriptive_identity,"""Q890545""",https://www.wikidata.org/wiki/Q689068
+IDB-REG03-CAT01-ERA07-2010S-LINTH-LIMMERN-POWER-STATIONS,descriptive_identity,"""Q339353""",https://www.wikidata.org/wiki/Q689068
+IDB-REG03-CAT01-ERA07-2010S-LINTH-LIMMERN-POWER-STATIONS,location,"""Canton of Glarus""",https://www.wikidata.org/wiki/Q689068
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,construction_date,"""1887-01-28T00:00:00Z""",https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,creator_or_attribution,"""St\u00e9phen Sauvestre""",https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,creator_or_attribution,"""Gustave Eiffel""",https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,creator_or_attribution,"""\u00c9mile Nouguier""",https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,creator_or_attribution,"""Maurice Koechlin""",https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,descriptive_identity,"""lattice tower""",https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,descriptive_identity,"""observation tower""",https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,descriptive_identity,"""architectural landmark""",https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,dimension_length,324000.0,https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,dimension_length,300000.0,https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,dimension_length,330000.0,https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,identity_label,"""tour Eiffel""",https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,location,"""7th arrondissement of Paris""",https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,location,"""Champ de Mars""",https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,material_identity,"""wrought iron""",https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,material_identity,"""steel""",https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,material_identity,"""puddled iron""",https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-EIFFEL-TOWER-PARIS-LATTICE-1889,structural_relationship,"""banks of the Seine""",https://www.wikidata.org/wiki/Q243
+IDB-REG03-CAT01-ERA07-2020S-GUGGENHEIM-MUSEUM-BILBAO-TITANIUM-1997,construction_date,"""1997-10-18T00:00:00Z""",https://www.wikidata.org/wiki/Q179199
+IDB-REG03-CAT01-ERA07-2020S-GUGGENHEIM-MUSEUM-BILBAO-TITANIUM-1997,construction_date,"""1997-01-01T00:00:00Z""",https://www.wikidata.org/wiki/Q179199
+IDB-REG03-CAT01-ERA07-2020S-GUGGENHEIM-MUSEUM-BILBAO-TITANIUM-1997,creator_or_attribution,"""Frank Gehry""",https://www.wikidata.org/wiki/Q179199
+IDB-REG03-CAT01-ERA07-2020S-GUGGENHEIM-MUSEUM-BILBAO-TITANIUM-1997,descriptive_identity,"""museum building""",https://www.wikidata.org/wiki/Q179199
+IDB-REG03-CAT01-ERA07-2020S-GUGGENHEIM-MUSEUM-BILBAO-TITANIUM-1997,descriptive_identity,"""museum""",https://www.wikidata.org/wiki/Q179199
+IDB-REG03-CAT01-ERA07-2020S-GUGGENHEIM-MUSEUM-BILBAO-TITANIUM-1997,identity_label,"""Museo Guggenheim Bilbao""",https://www.wikidata.org/wiki/Q179199
+IDB-REG03-CAT01-ERA07-2020S-GUGGENHEIM-MUSEUM-BILBAO-TITANIUM-1997,location,"""Bilbao""",https://www.wikidata.org/wiki/Q179199
+IDB-REG03-CAT01-ERA07-2020S-GUGGENHEIM-MUSEUM-BILBAO-TITANIUM-1997,location,"""Abando""",https://www.wikidata.org/wiki/Q179199
+IDB-REG03-CAT01-ERA07-2020S-GUGGENHEIM-MUSEUM-BILBAO-TITANIUM-1997,structural_relationship,"""Solomon R. Guggenheim Foundation""",https://www.wikidata.org/wiki/Q179199
+IDB-REG03-CAT01-ERA07-2020S-KARLATORNET-GOTHENBURG-2024,creator_or_attribution,"""\uc2a4\ud0a4\ub4dc\ubaa8\uc5b4, \uc624\uc719\uc2a4 \uc564\ub4dc \uba54\ub9b4""",https://www.wikidata.org/wiki/Q17154027
+IDB-REG03-CAT01-ERA07-2020S-KARLATORNET-GOTHENBURG-2024,descriptive_identity,"""residential building""",https://www.wikidata.org/wiki/Q17154027
+IDB-REG03-CAT01-ERA07-2020S-KARLATORNET-GOTHENBURG-2024,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q17154027
+IDB-REG03-CAT01-ERA07-2020S-KARLATORNET-GOTHENBURG-2024,dimension_length,246000.0,https://www.wikidata.org/wiki/Q17154027
+IDB-REG03-CAT01-ERA07-2020S-KARLATORNET-GOTHENBURG-2024,location,"""Gothenburg Municipality""",https://www.wikidata.org/wiki/Q17154027
+IDB-REG03-CAT01-ERA07-2020S-KARLATORNET-GOTHENBURG-2024,location,"""Lindholmen""",https://www.wikidata.org/wiki/Q17154027
+IDB-REG03-CAT01-ERA07-2020S-KARLATORNET-GOTHENBURG-2024,location,"""Gothenburg""",https://www.wikidata.org/wiki/Q17154027
+IDB-REG03-CAT01-ERA07-2020S-KARLATORNET-GOTHENBURG-2024,location,"""Sweden""",https://www.wikidata.org/wiki/Q17154027
+IDB-REG03-CAT01-ERA07-2020S-TOURS-DUO-PARIS-2021,construction_date,"""2021-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q3533060
+IDB-REG03-CAT01-ERA07-2020S-TOURS-DUO-PARIS-2021,creator_or_attribution,"""Jean Nouvel""",https://www.wikidata.org/wiki/Q3533060
+IDB-REG03-CAT01-ERA07-2020S-TOURS-DUO-PARIS-2021,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q3533060
+IDB-REG03-CAT01-ERA07-2020S-TOURS-DUO-PARIS-2021,dimension_length,180000.0,https://www.wikidata.org/wiki/Q3533060
+IDB-REG03-CAT01-ERA07-2020S-TOURS-DUO-PARIS-2021,location,"""13th arrondissement of Paris""",https://www.wikidata.org/wiki/Q3533060
+IDB-REG03-CAT01-ERA07-2020S-TOURS-DUO-PARIS-2021,location,"""13th arrondissement of Paris""",https://www.wikidata.org/wiki/Q3533060
+LIBSRC-LIB34-ENT-GEO-0093310,construction_date,"""1291-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q1282314
+LIBSRC-LIB34-ENT-GEO-0093310,descriptive_identity,"""hydroelectric dam""",https://www.wikidata.org/wiki/Q1282314
+LIBSRC-LIB34-ENT-GEO-0093310,descriptive_identity,"""hydroelectric power station""",https://www.wikidata.org/wiki/Q1282314
+LIBSRC-LIB34-ENT-GEO-0093310,dimension_length,660000.0,https://www.wikidata.org/wiki/Q1282314
+LIBSRC-LIB34-ENT-GEO-0093310,dimension_length,114000.0,https://www.wikidata.org/wiki/Q1282314
+LIBSRC-LIB34-ENT-GEO-0093310,dimension_length,366000.0,https://www.wikidata.org/wiki/Q1282314
+LIBSRC-LIB34-ENT-GEO-0093310,location,"""Asuogyaman District""",https://www.wikidata.org/wiki/Q1282314
+LIBSRC-LIB34-ENT-GEO-0093310,location,"""Akosombo""",https://www.wikidata.org/wiki/Q1282314
+LIBSRC-LIB34-ENT-GEO-0326873,construction_date,"""1938-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q1972924
+LIBSRC-LIB34-ENT-GEO-0326873,descriptive_identity,"""dam""",https://www.wikidata.org/wiki/Q1972924
+LIBSRC-LIB34-ENT-GEO-0326873,descriptive_identity,"""hydroelectric power station""",https://www.wikidata.org/wiki/Q1972924
+LIBSRC-LIB34-ENT-GEO-0326873,dimension_length,1055000.0,https://www.wikidata.org/wiki/Q1972924
+LIBSRC-LIB34-ENT-GEO-0326873,location,"""Shasta County""",https://www.wikidata.org/wiki/Q1972924
+IDB-REG03-CAT01-ERA06-1990S-MESSETURM-FRIEDRICH-EBERT-ANLAGE-FRANKFURT-1991,construction_date,"""1990-10-00T00:00:00Z""",https://www.wikidata.org/wiki/Q156198
+IDB-REG03-CAT01-ERA06-1990S-MESSETURM-FRIEDRICH-EBERT-ANLAGE-FRANKFURT-1991,creator_or_attribution,"""Helmut Jahn""",https://www.wikidata.org/wiki/Q156198
+IDB-REG03-CAT01-ERA06-1990S-MESSETURM-FRIEDRICH-EBERT-ANLAGE-FRANKFURT-1991,creator_or_attribution,"""Hochtief""",https://www.wikidata.org/wiki/Q156198
+IDB-REG03-CAT01-ERA06-1990S-MESSETURM-FRIEDRICH-EBERT-ANLAGE-FRANKFURT-1991,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q156198
+IDB-REG03-CAT01-ERA06-1990S-MESSETURM-FRIEDRICH-EBERT-ANLAGE-FRANKFURT-1991,dimension_length,256500.0,https://www.wikidata.org/wiki/Q156198
+IDB-REG03-CAT01-ERA06-1990S-MESSETURM-FRIEDRICH-EBERT-ANLAGE-FRANKFURT-1991,identity_label,"""MesseTurm""",https://www.wikidata.org/wiki/Q156198
+IDB-REG03-CAT01-ERA06-1990S-MESSETURM-FRIEDRICH-EBERT-ANLAGE-FRANKFURT-1991,location,"""Frankfurt-Innenstadt II""",https://www.wikidata.org/wiki/Q156198
+IDB-REG03-CAT01-ERA06-1990S-MESSETURM-FRIEDRICH-EBERT-ANLAGE-FRANKFURT-1991,material_identity,"""reinforced concrete""",https://www.wikidata.org/wiki/Q156198
+IDB-REG03-CAT01-ERA06-1990S-MESSETURM-FRIEDRICH-EBERT-ANLAGE-FRANKFURT-1991,material_identity,"""steel""",https://www.wikidata.org/wiki/Q156198
+IDB-REG03-CAT01-ERA06-1990S-MESSETURM-FRIEDRICH-EBERT-ANLAGE-FRANKFURT-1991,material_identity,"""granite""",https://www.wikidata.org/wiki/Q156198
+IDB-REG03-CAT01-ERA07-2010S-PHILHARMONIE-DE-PARIS-LA-VILLETTE-2015,component_relationship,"""Cit\u00e9 de la musique""",https://www.wikidata.org/wiki/Q3378907
+IDB-REG03-CAT01-ERA07-2010S-PHILHARMONIE-DE-PARIS-LA-VILLETTE-2015,construction_date,"""2015-01-14T00:00:00Z""",https://www.wikidata.org/wiki/Q3378907
+IDB-REG03-CAT01-ERA07-2010S-PHILHARMONIE-DE-PARIS-LA-VILLETTE-2015,creator_or_attribution,"""Jean Nouvel""",https://www.wikidata.org/wiki/Q3378907
+IDB-REG03-CAT01-ERA07-2010S-PHILHARMONIE-DE-PARIS-LA-VILLETTE-2015,creator_or_attribution,"""Christian de Portzamparc""",https://www.wikidata.org/wiki/Q3378907
+IDB-REG03-CAT01-ERA07-2010S-PHILHARMONIE-DE-PARIS-LA-VILLETTE-2015,descriptive_identity,"""cultural center""",https://www.wikidata.org/wiki/Q3378907
+IDB-REG03-CAT01-ERA07-2010S-PHILHARMONIE-DE-PARIS-LA-VILLETTE-2015,descriptive_identity,"""concert hall""",https://www.wikidata.org/wiki/Q3378907
+IDB-REG03-CAT01-ERA07-2010S-PHILHARMONIE-DE-PARIS-LA-VILLETTE-2015,location,"""Paris""",https://www.wikidata.org/wiki/Q3378907
+IDB-REG03-CAT01-ERA07-2020S-TOUR-OCCITANIE-MATABIAU-TOULOUSE-2026,creator_or_attribution,"""Daniel Libeskind""",https://www.wikidata.org/wiki/Q28952560
+IDB-REG03-CAT01-ERA07-2020S-TOUR-OCCITANIE-MATABIAU-TOULOUSE-2026,descriptive_identity,"""proposed tower""",https://www.wikidata.org/wiki/Q28952560
+IDB-REG03-CAT01-ERA07-2020S-TOUR-OCCITANIE-MATABIAU-TOULOUSE-2026,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q28952560
+IDB-REG03-CAT01-ERA07-2020S-TOUR-OCCITANIE-MATABIAU-TOULOUSE-2026,dimension_length,150000.0,https://www.wikidata.org/wiki/Q28952560
+IDB-REG03-CAT01-ERA07-2020S-TOUR-OCCITANIE-MATABIAU-TOULOUSE-2026,location,"""Toulouse""",https://www.wikidata.org/wiki/Q28952560
+IDB-REG03-CAT01-ERA07-2020S-TOUR-TRIANGLE-PORTE-DE-VERSAILLES-PARIS-2026,construction_date,"""2021-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q3533204
+IDB-REG03-CAT01-ERA07-2020S-TOUR-TRIANGLE-PORTE-DE-VERSAILLES-PARIS-2026,creator_or_attribution,"""Herzog & de Meuron""",https://www.wikidata.org/wiki/Q3533204
+IDB-REG03-CAT01-ERA07-2020S-TOUR-TRIANGLE-PORTE-DE-VERSAILLES-PARIS-2026,descriptive_identity,"""proposed tower""",https://www.wikidata.org/wiki/Q3533204
+IDB-REG03-CAT01-ERA07-2020S-TOUR-TRIANGLE-PORTE-DE-VERSAILLES-PARIS-2026,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q3533204
+IDB-REG03-CAT01-ERA07-2020S-TOUR-TRIANGLE-PORTE-DE-VERSAILLES-PARIS-2026,dimension_length,180000.0,https://www.wikidata.org/wiki/Q3533204
+IDB-REG03-CAT01-ERA07-2020S-TOUR-TRIANGLE-PORTE-DE-VERSAILLES-PARIS-2026,location,"""15th arrondissement of Paris""",https://www.wikidata.org/wiki/Q3533204
+IDB-REG03-CAT01-ERA07-2020S-TOUR-TRIANGLE-PORTE-DE-VERSAILLES-PARIS-2026,location,"""15th arrondissement of Paris""",https://www.wikidata.org/wiki/Q3533204
+CAT01_REG_01_ERA_01_1960_buffalo_city_hall_ent_bld_0000001,construction_date,"""1932-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q1001988
+CAT01_REG_01_ERA_01_1960_buffalo_city_hall_ent_bld_0000001,creator_or_attribution,"""John J. Wade""",https://www.wikidata.org/wiki/Q1001988
+CAT01_REG_01_ERA_01_1960_buffalo_city_hall_ent_bld_0000001,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q1001988
+CAT01_REG_01_ERA_01_1960_buffalo_city_hall_ent_bld_0000001,descriptive_identity,"""city hall""",https://www.wikidata.org/wiki/Q1001988
+CAT01_REG_01_ERA_01_1960_buffalo_city_hall_ent_bld_0000001,descriptive_identity,"""Rathaus""",https://www.wikidata.org/wiki/Q1001988
+CAT01_REG_01_ERA_01_1960_buffalo_city_hall_ent_bld_0000001,location,"""Buffalo""",https://www.wikidata.org/wiki/Q1001988
+CAT01_REG_01_ERA_01_1968_city_investing_building_ent_bld_0000141,construction_date,"""1908-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q1093955
+CAT01_REG_01_ERA_01_1968_city_investing_building_ent_bld_0000141,creator_or_attribution,"""Francis H. Kimball""",https://www.wikidata.org/wiki/Q1093955
+CAT01_REG_01_ERA_01_1968_city_investing_building_ent_bld_0000141,creator_or_attribution,"""Hedden Construction Company""",https://www.wikidata.org/wiki/Q1093955
+CAT01_REG_01_ERA_01_1968_city_investing_building_ent_bld_0000141,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q1093955
+CAT01_REG_01_ERA_01_1968_city_investing_building_ent_bld_0000141,descriptive_identity,"""office building""",https://www.wikidata.org/wiki/Q1093955
+CAT01_REG_01_ERA_01_1968_city_investing_building_ent_bld_0000141,descriptive_identity,"""destroyed building or structure""",https://www.wikidata.org/wiki/Q1093955
+CAT01_REG_01_ERA_01_1968_city_investing_building_ent_bld_0000141,dimension_length,148290.0,https://www.wikidata.org/wiki/Q1093955
+CAT01_REG_01_ERA_01_1968_city_investing_building_ent_bld_0000141,location,"""Manhattan""",https://www.wikidata.org/wiki/Q1093955
+CAT01_REG_01_ERA_01_1972_bahia_center_ent_bld_0002521,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q4842551
+CAT01_REG_01_ERA_01_1972_bahia_center_ent_bld_0002521,descriptive_identity,"""residential building""",https://www.wikidata.org/wiki/Q4842551
+CAT01_REG_01_ERA_01_1972_bahia_center_ent_bld_0002521,location,"""Oran""",https://www.wikidata.org/wiki/Q4842551
+CAT01_REG_01_ERA_01_1976_buhl_building_ent_bld_0002591,construction_date,"""1925-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q4986306
+CAT01_REG_01_ERA_01_1976_buhl_building_ent_bld_0002591,creator_or_attribution,"""Wirt C. Rowland""",https://www.wikidata.org/wiki/Q4986306
+CAT01_REG_01_ERA_01_1976_buhl_building_ent_bld_0002591,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q4986306
+CAT01_REG_01_ERA_01_1976_buhl_building_ent_bld_0002591,location,"""Michigan""",https://www.wikidata.org/wiki/Q4986306
+CAT01_REG_01_ERA_01_1976_nagoya_crosscourt_tower_ent_bld_0000281,creator_or_attribution,"""Nikken Sekkei""",https://www.wikidata.org/wiki/Q11414815
+CAT01_REG_01_ERA_01_1976_nagoya_crosscourt_tower_ent_bld_0000281,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q11414815
+CAT01_REG_01_ERA_01_1976_nagoya_crosscourt_tower_ent_bld_0000281,location,"""Meieki 4-ch\u014dme""",https://www.wikidata.org/wiki/Q11414815
+CAT01_REG_01_ERA_01_1976_nagoya_crosscourt_tower_ent_bld_0000281,location,"""4, Meieki 4-ch\u014dme, Nagoya""",https://www.wikidata.org/wiki/Q11414815
+CAT01_REG_01_ERA_01_1980_city_place_i_ent_bld_0002661,construction_date,"""1980-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q5123364
+CAT01_REG_01_ERA_01_1980_city_place_i_ent_bld_0002661,creator_or_attribution,"""\uc2a4\ud0a4\ub4dc\ubaa8\uc5b4, \uc624\uc719\uc2a4 \uc564\ub4dc \uba54\ub9b4""",https://www.wikidata.org/wiki/Q5123364
+CAT01_REG_01_ERA_01_1980_city_place_i_ent_bld_0002661,creator_or_attribution,"""\uc2a4\ud0a4\ub4dc\ubaa8\uc5b4, \uc624\uc719\uc2a4 \uc564\ub4dc \uba54\ub9b4""",https://www.wikidata.org/wiki/Q5123364
+CAT01_REG_01_ERA_01_1980_city_place_i_ent_bld_0002661,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q5123364
+CAT01_REG_01_ERA_01_1980_city_place_i_ent_bld_0002661,dimension_length,163630.0,https://www.wikidata.org/wiki/Q5123364
+CAT01_REG_01_ERA_01_1980_city_place_i_ent_bld_0002661,location,"""Hartford""",https://www.wikidata.org/wiki/Q5123364
+CAT01_REG_01_ERA_01_1984_kyongrim_residential_5_ent_bld_0000421,construction_date,"""2018-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q118851894
+CAT01_REG_01_ERA_01_1984_kyongrim_residential_5_ent_bld_0000421,construction_date,"""2017-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q118851894
+CAT01_REG_01_ERA_01_1984_kyongrim_residential_5_ent_bld_0000421,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q118851894
+CAT01_REG_01_ERA_01_1984_kyongrim_residential_5_ent_bld_0000421,dimension_length,96000.0,https://www.wikidata.org/wiki/Q118851894
+CAT01_REG_01_ERA_01_1984_kyongrim_residential_5_ent_bld_0000421,dimension_length,90000.0,https://www.wikidata.org/wiki/Q118851894
+CAT01_REG_01_ERA_01_1984_kyongrim_residential_5_ent_bld_0000421,location,"""Pyongyang""",https://www.wikidata.org/wiki/Q118851894
+CAT01_REG_01_ERA_01_1984_kyongrim_residential_5_ent_bld_0000421,material_identity,"""concrete""",https://www.wikidata.org/wiki/Q118851894
+CAT01_REG_01_ERA_01_1984_kyongrim_residential_5_ent_bld_0000421,structural_relationship,"""Kyongrim Residentials""",https://www.wikidata.org/wiki/Q118851894
+CAT01_REG_01_ERA_01_1986_global_front_tower_ent_bld_0001611,creator_or_attribution,"""Shimizu Corporation""",https://www.wikidata.org/wiki/Q24876809
+CAT01_REG_01_ERA_01_1986_global_front_tower_ent_bld_0001611,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q24876809
+CAT01_REG_01_ERA_01_1986_global_front_tower_ent_bld_0001611,location,"""Tokyo""",https://www.wikidata.org/wiki/Q24876809
+CAT01_REG_01_ERA_01_1990_highcliff_ent_bld_0001681,construction_date,"""2003-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q2669877
+CAT01_REG_01_ERA_01_1990_highcliff_ent_bld_0001681,creator_or_attribution,"""Magnusson Klemencic Associates""",https://www.wikidata.org/wiki/Q2669877
+CAT01_REG_01_ERA_01_1990_highcliff_ent_bld_0001681,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q2669877
+CAT01_REG_01_ERA_01_1990_highcliff_ent_bld_0001681,dimension_length,252400.0,https://www.wikidata.org/wiki/Q2669877
+CAT01_REG_01_ERA_01_1990_highcliff_ent_bld_0001681,location,"""Wan Chai District""",https://www.wikidata.org/wiki/Q2669877
+CAT01_REG_01_ERA_01_1992_grosvenor_place_ent_bld_0002871,descriptive_identity,"""road""",https://www.wikidata.org/wiki/Q3117082
+CAT01_REG_01_ERA_01_1992_grosvenor_place_ent_bld_0002871,location,"""City of Westminster""",https://www.wikidata.org/wiki/Q3117082
+CAT01_REG_01_ERA_01_1992_grosvenor_place_ent_bld_0002871,location,"""Belgravia""",https://www.wikidata.org/wiki/Q3117082
+CAT01_REG_01_ERA_01_1992_grosvenor_place_ent_bld_0002871,structural_relationship,"""Q3258965""",https://www.wikidata.org/wiki/Q3117082
+CAT01_REG_01_ERA_01_1992_grosvenor_place_ent_bld_0002871,structural_relationship,"""Q20971401""",https://www.wikidata.org/wiki/Q3117082
+CAT01_REG_01_ERA_01_1994_121_west_trade_ent_bld_0001751,creator_or_attribution,"""Kohn Pedersen Fox""",https://www.wikidata.org/wiki/Q2807230
+CAT01_REG_01_ERA_01_1994_121_west_trade_ent_bld_0001751,descriptive_identity,"""tower block""",https://www.wikidata.org/wiki/Q2807230
+CAT01_REG_01_ERA_01_1994_121_west_trade_ent_bld_0001751,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q2807230
+CAT01_REG_01_ERA_01_1994_121_west_trade_ent_bld_0001751,location,"""North Carolina""",https://www.wikidata.org/wiki/Q2807230
+CAT01_REG_01_ERA_01_1996_edificio_torre_internacional_ent_bld_0000631,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q131007392
+CAT01_REG_01_ERA_01_1996_edificio_torre_internacional_ent_bld_0000631,location,"""Guatemala City""",https://www.wikidata.org/wiki/Q131007392
+CAT01_REG_01_ERA_01_2000_warsaw_spire_ent_bld_0000701,construction_date,"""2016-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q1357866
+CAT01_REG_01_ERA_01_2000_warsaw_spire_ent_bld_0000701,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q1357866
+CAT01_REG_01_ERA_01_2000_warsaw_spire_ent_bld_0000701,dimension_length,220000.0,https://www.wikidata.org/wiki/Q1357866
+CAT01_REG_01_ERA_01_2000_warsaw_spire_ent_bld_0000701,location,"""Warsaw""",https://www.wikidata.org/wiki/Q1357866
+CAT01_REG_01_ERA_01_2004_manhattan_life_insurance_building_ent_bld_0000771,construction_date,"""1894-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q1422777
+CAT01_REG_01_ERA_01_2004_manhattan_life_insurance_building_ent_bld_0000771,creator_or_attribution,"""Kimball & Thompson""",https://www.wikidata.org/wiki/Q1422777
+CAT01_REG_01_ERA_01_2004_manhattan_life_insurance_building_ent_bld_0000771,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q1422777
+CAT01_REG_01_ERA_01_2004_manhattan_life_insurance_building_ent_bld_0000771,dimension_length,106000.0,https://www.wikidata.org/wiki/Q1422777
+CAT01_REG_01_ERA_01_2004_manhattan_life_insurance_building_ent_bld_0000771,location,"""Manhattan""",https://www.wikidata.org/wiki/Q1422777
+CAT01_REG_01_ERA_01_2006_xi_an_glory_international_financial_center_ent_bld_0001961,construction_date,"""2019-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q30766281
+CAT01_REG_01_ERA_01_2006_xi_an_glory_international_financial_center_ent_bld_0001961,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q30766281
+CAT01_REG_01_ERA_01_2006_xi_an_glory_international_financial_center_ent_bld_0001961,dimension_length,350000.0,https://www.wikidata.org/wiki/Q30766281
+CAT01_REG_01_ERA_01_2006_xi_an_glory_international_financial_center_ent_bld_0001961,location,"""Xi'an""",https://www.wikidata.org/wiki/Q30766281
+CAT01_REG_01_ERA_01_2014_kbr_tower_ent_bld_0002101,construction_date,"""1973-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q3490142
+CAT01_REG_01_ERA_01_2014_kbr_tower_ent_bld_0002101,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q3490142
+CAT01_REG_01_ERA_01_2014_kbr_tower_ent_bld_0002101,location,"""Texas""",https://www.wikidata.org/wiki/Q3490142
+CAT01_REG_01_ERA_01_2016_hudson_s_bay_centre_ent_bld_0000981,construction_date,"""1974-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q1633806
+CAT01_REG_01_ERA_01_2016_hudson_s_bay_centre_ent_bld_0000981,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q1633806
+CAT01_REG_01_ERA_01_2016_hudson_s_bay_centre_ent_bld_0000981,dimension_length,135000.0,https://www.wikidata.org/wiki/Q1633806
+CAT01_REG_01_ERA_01_2016_hudson_s_bay_centre_ent_bld_0000981,location,"""Toronto""",https://www.wikidata.org/wiki/Q1633806
+CAT01_REG_01_ERA_01_2018_388_greenwich_street_ent_bld_0002171,construction_date,"""1988-08-10T00:00:00Z""",https://www.wikidata.org/wiki/Q3538182
+CAT01_REG_01_ERA_01_2018_388_greenwich_street_ent_bld_0002171,creator_or_attribution,"""Kohn Pedersen Fox""",https://www.wikidata.org/wiki/Q3538182
+CAT01_REG_01_ERA_01_2018_388_greenwich_street_ent_bld_0002171,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q3538182
+CAT01_REG_01_ERA_01_2018_388_greenwich_street_ent_bld_0002171,descriptive_identity,"""office building""",https://www.wikidata.org/wiki/Q3538182
+CAT01_REG_01_ERA_01_2018_388_greenwich_street_ent_bld_0002171,dimension_length,151000.0,https://www.wikidata.org/wiki/Q3538182
+CAT01_REG_01_ERA_01_2018_388_greenwich_street_ent_bld_0002171,location,"""Tribeca""",https://www.wikidata.org/wiki/Q3538182
+CAT01_REG_01_ERA_01_2020_el_gezira_tower_movenpick_hotel_ent_bld_0001051,construction_date,"""1996-01-01T00:00:00Z""",https://www.wikidata.org/wiki/Q16976181
+CAT01_REG_01_ERA_01_2020_el_gezira_tower_movenpick_hotel_ent_bld_0001051,creator_or_attribution,"""Gamal Bakry""",https://www.wikidata.org/wiki/Q16976181
+CAT01_REG_01_ERA_01_2020_el_gezira_tower_movenpick_hotel_ent_bld_0001051,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q16976181
+CAT01_REG_01_ERA_01_2020_el_gezira_tower_movenpick_hotel_ent_bld_0001051,dimension_length,142000.0,https://www.wikidata.org/wiki/Q16976181
+CAT01_REG_01_ERA_01_2020_el_gezira_tower_movenpick_hotel_ent_bld_0001051,location,"""Cairo""",https://www.wikidata.org/wiki/Q16976181
+CAT01_REG_01_ERA_01_2024_turati_tower_ent_bld_0001121,construction_date,"""1968-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q17638799
+CAT01_REG_01_ERA_01_2024_turati_tower_ent_bld_0001121,creator_or_attribution,"""Giovanni Muzio""",https://www.wikidata.org/wiki/Q17638799
+CAT01_REG_01_ERA_01_2024_turati_tower_ent_bld_0001121,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q17638799
+CAT01_REG_01_ERA_01_2024_turati_tower_ent_bld_0001121,location,"""Milan""",https://www.wikidata.org/wiki/Q17638799
+CAT01_REG_01_ERA_02_1960_firstbank_southwest_tower_ent_bld_0002641,construction_date,"""1971-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q5087204
+CAT01_REG_01_ERA_02_1960_firstbank_southwest_tower_ent_bld_0002641,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q5087204
+CAT01_REG_01_ERA_02_1960_firstbank_southwest_tower_ent_bld_0002641,dimension_length,114000.0,https://www.wikidata.org/wiki/Q5087204
+CAT01_REG_01_ERA_02_1960_firstbank_southwest_tower_ent_bld_0002641,location,"""Texas""",https://www.wikidata.org/wiki/Q5087204
+CAT01_REG_01_ERA_02_1960_manhattan_place_ent_bld_0000331,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q115816175
+CAT01_REG_01_ERA_02_1960_manhattan_place_ent_bld_0000331,descriptive_identity,"""apartment building""",https://www.wikidata.org/wiki/Q115816175
+CAT01_REG_01_ERA_02_1960_manhattan_place_ent_bld_0000331,location,"""Manhattan""",https://www.wikidata.org/wiki/Q115816175
+CAT01_REG_01_ERA_02_1962_soundwill_plaza_ent_bld_0001521,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q24036127
+CAT01_REG_01_ERA_02_1962_soundwill_plaza_ent_bld_0001521,location,"""Q8646""",https://www.wikidata.org/wiki/Q24036127
+CAT01_REG_01_ERA_02_1966_citadel_center_ent_bld_0001591,construction_date,"""2003-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q2456156
+CAT01_REG_01_ERA_02_1966_citadel_center_ent_bld_0001591,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q2456156
+CAT01_REG_01_ERA_02_1966_citadel_center_ent_bld_0001591,location,"""Q1297""",https://www.wikidata.org/wiki/Q2456156
+CAT01_REG_01_ERA_02_1970_the_huntingdon_ent_bld_0001661,construction_date,"""1984-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q2613912
+CAT01_REG_01_ERA_02_1970_the_huntingdon_ent_bld_0001661,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q2613912
+CAT01_REG_01_ERA_02_1970_the_huntingdon_ent_bld_0001661,location,"""Q16555""",https://www.wikidata.org/wiki/Q2613912
+CAT01_REG_01_ERA_02_1976_aro_ent_bld_0000611,descriptive_identity,"""Q101352""",https://www.wikidata.org/wiki/Q16148783
+CAT01_REG_01_ERA_02_1976_aro_ent_bld_0000611,identity_label,"""Aro""",https://www.wikidata.org/wiki/Q16148783
+CAT01_REG_01_ERA_02_1980_dunes_ent_bld_0000681,descriptive_identity,"""Q484170""",https://www.wikidata.org/wiki/Q1626104
+CAT01_REG_01_ERA_02_1980_dunes_ent_bld_0000681,identity_label,"""Dunes""",https://www.wikidata.org/wiki/Q1626104
+CAT01_REG_01_ERA_02_1980_dunes_ent_bld_0000681,location,"""Q1724307""",https://www.wikidata.org/wiki/Q1626104
+CAT01_REG_01_ERA_02_1980_dunes_ent_bld_0000681,location,"""Tarn-et-Garonne""",https://www.wikidata.org/wiki/Q1626104
+CAT01_REG_01_ERA_02_1980_dunes_ent_bld_0000681,location,"""arrondissement of Castelsarrasin""",https://www.wikidata.org/wiki/Q1626104
+CAT01_REG_01_ERA_02_1984_telus_house_ent_bld_0000751,construction_date,"""1971-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q139884963
+CAT01_REG_01_ERA_02_1984_telus_house_ent_bld_0000751,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q139884963
+CAT01_REG_01_ERA_02_1984_telus_house_ent_bld_0000751,dimension_length,134400.0,https://www.wikidata.org/wiki/Q139884963
+CAT01_REG_01_ERA_02_1984_telus_house_ent_bld_0000751,location,"""Q2096""",https://www.wikidata.org/wiki/Q139884963
+CAT01_REG_01_ERA_02_1984_telus_house_ent_bld_0000751,structural_relationship,"""Q2402453""",https://www.wikidata.org/wiki/Q139884963
+CAT01_REG_01_ERA_02_1986_ryomyong_tower_55_floors_210_m_690_ft_ent_bld_0001941,construction_date,"""2017-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q30752674
+CAT01_REG_01_ERA_02_1986_ryomyong_tower_55_floors_210_m_690_ft_ent_bld_0001941,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q30752674
+CAT01_REG_01_ERA_02_1986_ryomyong_tower_55_floors_210_m_690_ft_ent_bld_0001941,dimension_length,210000.0,https://www.wikidata.org/wiki/Q30752674
+CAT01_REG_01_ERA_02_1986_ryomyong_tower_55_floors_210_m_690_ft_ent_bld_0001941,location,"""Pyongyang""",https://www.wikidata.org/wiki/Q30752674
+CAT01_REG_01_ERA_02_1986_ryomyong_tower_55_floors_210_m_690_ft_ent_bld_0001941,material_identity,"""concrete""",https://www.wikidata.org/wiki/Q30752674
+CAT01_REG_01_ERA_02_1986_ryomyong_tower_55_floors_210_m_690_ft_ent_bld_0001941,structural_relationship,"""Q27954065""",https://www.wikidata.org/wiki/Q30752674
+CAT01_REG_01_ERA_03_1966_777_main_street_ent_bld_0001921,construction_date,"""1982-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q4643567
+CAT01_REG_01_ERA_03_1966_777_main_street_ent_bld_0001921,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q4643567
+CAT01_REG_01_ERA_03_1966_777_main_street_ent_bld_0001921,location,"""Texas""",https://www.wikidata.org/wiki/Q4643567
+CAT01_REG_01_ERA_03_1970_henry_m_jackson_federal_building_ent_bld_0001991,construction_date,"""1974-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q3132927
+CAT01_REG_01_ERA_03_1970_henry_m_jackson_federal_building_ent_bld_0001991,creator_or_attribution,"""Fred Bassetti""",https://www.wikidata.org/wiki/Q3132927
+CAT01_REG_01_ERA_03_1970_henry_m_jackson_federal_building_ent_bld_0001991,creator_or_attribution,"""Hoffman Construction Company""",https://www.wikidata.org/wiki/Q3132927
+CAT01_REG_01_ERA_03_1970_henry_m_jackson_federal_building_ent_bld_0001991,creator_or_attribution,"""Magnusson Klemencic Associates""",https://www.wikidata.org/wiki/Q3132927
+CAT01_REG_01_ERA_03_1970_henry_m_jackson_federal_building_ent_bld_0001991,descriptive_identity,"""tower block""",https://www.wikidata.org/wiki/Q3132927
+CAT01_REG_01_ERA_03_1970_henry_m_jackson_federal_building_ent_bld_0001991,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q3132927
+CAT01_REG_01_ERA_03_1970_henry_m_jackson_federal_building_ent_bld_0001991,descriptive_identity,"""office building""",https://www.wikidata.org/wiki/Q3132927
+CAT01_REG_01_ERA_03_1970_henry_m_jackson_federal_building_ent_bld_0001991,location,"""Seattle""",https://www.wikidata.org/wiki/Q3132927
+CAT01_REG_01_ERA_03_1972_tour_first_ent_bld_0000871,construction_date,"""1974-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q1509747
+CAT01_REG_01_ERA_03_1972_tour_first_ent_bld_0000871,creator_or_attribution,"""Pierre Dufau""",https://www.wikidata.org/wiki/Q1509747
+CAT01_REG_01_ERA_03_1972_tour_first_ent_bld_0000871,creator_or_attribution,"""Jean-Pierre Dacbert""",https://www.wikidata.org/wiki/Q1509747
+CAT01_REG_01_ERA_03_1972_tour_first_ent_bld_0000871,creator_or_attribution,"""Henri Pottier""",https://www.wikidata.org/wiki/Q1509747
+CAT01_REG_01_ERA_03_1972_tour_first_ent_bld_0000871,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q1509747
+CAT01_REG_01_ERA_03_1972_tour_first_ent_bld_0000871,dimension_length,231000.0,https://www.wikidata.org/wiki/Q1509747
+CAT01_REG_01_ERA_03_1972_tour_first_ent_bld_0000871,location,"""Courbevoie""",https://www.wikidata.org/wiki/Q1509747
+CAT01_REG_01_ERA_03_1972_tour_first_ent_bld_0000871,location,"""La D\u00e9fense 1""",https://www.wikidata.org/wiki/Q1509747
+CAT01_REG_01_ERA_03_1974_montreal_courthouse_ent_bld_0002061,construction_date,"""1971-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q3361020
+CAT01_REG_01_ERA_03_1974_montreal_courthouse_ent_bld_0002061,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q3361020
+CAT01_REG_01_ERA_03_1974_montreal_courthouse_ent_bld_0002061,location,"""Montreal""",https://www.wikidata.org/wiki/Q3361020
+CAT01_REG_01_ERA_03_1976_renaissance_harbour_view_hotel_ent_bld_0000941,construction_date,"""1989-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q15904972
+CAT01_REG_01_ERA_03_1976_renaissance_harbour_view_hotel_ent_bld_0000941,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q15904972
+CAT01_REG_01_ERA_03_1976_renaissance_harbour_view_hotel_ent_bld_0000941,descriptive_identity,"""hotel""",https://www.wikidata.org/wiki/Q15904972
+CAT01_REG_01_ERA_03_1976_renaissance_harbour_view_hotel_ent_bld_0000941,location,"""Hong Kong""",https://www.wikidata.org/wiki/Q15904972
+CAT01_REG_01_ERA_03_1978_the_carlyle_ent_bld_0002131,creator_or_attribution,"""Sylvan Bien""",https://www.wikidata.org/wiki/Q3378613
+CAT01_REG_01_ERA_03_1978_the_carlyle_ent_bld_0002131,descriptive_identity,"""hotel""",https://www.wikidata.org/wiki/Q3378613
+CAT01_REG_01_ERA_03_1978_the_carlyle_ent_bld_0002131,location,"""Manhattan""",https://www.wikidata.org/wiki/Q3378613
+CAT01_REG_01_ERA_03_1982_north_dakota_state_capitol_ent_bld_0002201,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q3696010
+CAT01_REG_01_ERA_03_1982_north_dakota_state_capitol_ent_bld_0002201,descriptive_identity,"""capitol building""",https://www.wikidata.org/wiki/Q3696010
+CAT01_REG_01_ERA_03_1982_north_dakota_state_capitol_ent_bld_0002201,location,"""North Dakota""",https://www.wikidata.org/wiki/Q3696010
+CAT01_REG_01_ERA_03_1984_50_west_street_ent_bld_0001081,descriptive_identity,"""shop""",https://www.wikidata.org/wiki/Q62070683
+CAT01_REG_01_ERA_03_1984_50_west_street_ent_bld_0001081,location,"""Congleton""",https://www.wikidata.org/wiki/Q62070683
+CAT01_REG_01_ERA_03_1988_nbc_tower_ent_bld_0001151,construction_date,"""1989-00-00T00:00:00Z""",https://www.wikidata.org/wiki/Q1810949
+CAT01_REG_01_ERA_03_1988_nbc_tower_ent_bld_0001151,creator_or_attribution,"""\uc2a4\ud0a4\ub4dc\ubaa8\uc5b4, \uc624\uc719\uc2a4 \uc564\ub4dc \uba54\ub9b4""",https://www.wikidata.org/wiki/Q1810949
+CAT01_REG_01_ERA_03_1988_nbc_tower_ent_bld_0001151,descriptive_identity,"""skyscraper""",https://www.wikidata.org/wiki/Q1810949
+CAT01_REG_01_ERA_03_1988_nbc_tower_ent_bld_0001151,dimension_length,191000.0,https://www.wikidata.org/wiki/Q1810949
+CAT01_REG_01_ERA_03_1988_nbc_tower_ent_bld_0001151,dimension_length,171000.0,https://www.wikidata.org/wiki/Q1810949
+CAT01_REG_01_ERA_03_1988_nbc_tower_ent_bld_0001151,dimension_length,160000.0,https://www.wikidata.org/wiki/Q1810949
+CAT01_REG_01_ERA_03_1988_nbc_tower_ent_bld_0001151,location,"""Chicago""",https://www.wikidata.org/wiki/Q1810949
+CAT01_REG_01_ERA_03_1988_nbc_tower_ent_bld_0001151,location,"""Near North Side""",https://www.wikidata.org/wiki/Q1810949
