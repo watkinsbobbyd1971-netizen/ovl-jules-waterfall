@@ -1,0 +1,5 @@
+Attempted Wikidata SPARQL API for batch querying.
+Smithsonian Open Access API utilizing the default 'DEMO_KEY' is severely rate-limited and returned OVER_RATE_LIMIT.
+Attempted GBIF API for taxon names but none matched anatomical categories.
+Encountered rate limits and mixed dataset (non-anatomical items like 'coffeepot').
+Skipping extraction to avoid out-of-domain mappings per instructions. No valid sourced values found.
