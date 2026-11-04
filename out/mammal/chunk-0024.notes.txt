@@ -1,0 +1,8 @@
+Extracted dataset subjects and performed positive entity resolution.
+Results indicate that the subjects in this dataset chunk are predominantly out-of-scope items:
+ - Cultural artifacts (e.g. 'Tunic From Woman's Costume', 'Stoneware Figure Of A Sage')
+ - Archaeological fragments and stone tools (e.g. 'Pyramidal Core-Scraper', 'Modified Flakes', 'Arrow Shaft Straighteners')
+ - Electronics and historical artifacts (e.g. 'RCA type UX201A “Radiotron “ triode', 'Experimental Tungsten Halogen Lamp')
+ - People and places (e.g. 'Don Bessent', 'Peel')
+
+Searched Wikidata, Europeana, and GBIF for exact 'Mammalia' matches. All subjects were confirmed as out of scope. Emitting empty CSV output for non-biological entities.
