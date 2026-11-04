@@ -1,0 +1,1 @@
+Queried GBIF API (species match and species search) for mammals. Enforced exact string match on scientific, canonical, or vernacular names to prevent false positives from search fuzziness.
