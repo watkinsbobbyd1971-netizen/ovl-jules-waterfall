@@ -1,0 +1,9 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_03-CAT_13-ERA_03-1780-ACC04-HOP17920-REC3583863,scientific_identity,"Cervus elaphus Linnaeus, 1758",https://api.gbif.org/v1/species/match?name=Cervus%20elaphus%2C%20Ovis%20%20Capra%2C&class=Mammalia
+IDB-REG_03-CAT_13-ERA_03-1780-ACC04-HOP17920-REC3583863,identity_label,Cervus elaphus,https://api.gbif.org/v1/species/match?name=Cervus%20elaphus%2C%20Ovis%20%20Capra%2C&class=Mammalia
+IDB-REG_03-CAT_13-ERA_03-1780-ACC04-HOP17920-REC3583863,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Cervus%20elaphus%2C%20Ovis%20%20Capra%2C&class=Mammalia
+IDB-REG_03-CAT_13-ERA_03-1780-ACC04-HOP17920-REC3583863,taxon_authority,"Linnaeus, 1758",https://api.gbif.org/v1/species/match?name=Cervus%20elaphus%2C%20Ovis%20%20Capra%2C&class=Mammalia
+IDB-REG_03-CAT_11-ERA_03-1780-ACC04-HOP17331-REC3466053,scientific_identity,"Bison C.H.Smith, 1827",https://api.gbif.org/v1/species/match?name=Bison&class=Mammalia
+IDB-REG_03-CAT_11-ERA_03-1780-ACC04-HOP17331-REC3466053,identity_label,Bison,https://api.gbif.org/v1/species/match?name=Bison&class=Mammalia
+IDB-REG_03-CAT_11-ERA_03-1780-ACC04-HOP17331-REC3466053,descriptive_identity,GENUS,https://api.gbif.org/v1/species/match?name=Bison&class=Mammalia
+IDB-REG_03-CAT_11-ERA_03-1780-ACC04-HOP17331-REC3466053,taxon_authority,"C.H.Smith, 1827",https://api.gbif.org/v1/species/match?name=Bison&class=Mammalia
