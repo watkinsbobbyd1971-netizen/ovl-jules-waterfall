@@ -1,0 +1,13 @@
+Queried Wikidata API (SPARQL and entity API) and matched subjects against the `human_anatomy` domain constraint (subclass of/instance of anatomical structure, biological tissue, body part, organ system).
+Subjects with successful property matches in Wikidata lacked referenced sources for valid anatomy entries (e.g., anterior cerebral vein had properties but no references).
+Other matched subjects belonged to entirely different domains (e.g., lakes, male given names, prints, languages, patents, mobile apps, websites) and were correctly filtered out to prevent domain-mismatched properties.
+Because no sourced values from the target domain could be found, an empty result is returned due to category mismatch/missing references.
+
+Queried properties from COLUMNS.csv:
+- anatomical_identity
+- anatomical_length
+- anatomical_relationship
+- descriptive_identity
+- identity_label
+- morphology
+- tissue_identity
