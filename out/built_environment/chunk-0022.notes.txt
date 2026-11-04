@@ -1,0 +1,3 @@
+Queried Wikidata action API for exact subject name matches and extracted relevant properties.
+Properties mapped: P31 -> descriptive_identity, P276/P131/P17 -> location, P571/P1619 -> construction_date, P2048 -> dimension_length, P84/P631 -> creator_or_attribution, P186 -> material_identity, P361/P527 -> component_relationship, P138 -> identity_label.
+Used unit conversions for dimension_length (Q11573 -> 1000mm, Q174728 -> 10mm, Q218593 -> 25.4mm, Q3710 -> 304.8mm).
