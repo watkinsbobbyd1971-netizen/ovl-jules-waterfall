@@ -1,0 +1,9 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_14-ERA_02-1650-ACC04-HOP18638-REC3727572,scientific_identity,"Drill Reichenbach, 1862",https://api.gbif.org/v1/species/search?q=Drill
+IDB-REG_03-CAT_13-ERA_02-1650-ACC04-HOP13541-REC2708043,scientific_identity,Pan,https://api.gbif.org/v1/species/search?q=pan
+IDB-REG_02-CAT_12-ERA_02-1650-ACC04-HOP12833-REC2566482,scientific_identity,Border Leicester Sheep,https://api.gbif.org/v1/species/search?q=Border
+IDB-REG_02-CAT_12-ERA_02-1650-ACC04-HOP12979-REC2595602,scientific_identity,Border Leicester Sheep,https://api.gbif.org/v1/species/search?q=Border
+IDB-REG_03-CAT_11-ERA_02-1650-ACC04-HOP15213-REC3042433,scientific_identity,"Fiber Cuvier, 1800",https://api.gbif.org/v1/species/search?q=Fiber
+IDB-REG_03-CAT_11-ERA_02-1650-ACC04-HOP15213-REC3042433,taxon_authority,"Cuvier, 1800",https://api.gbif.org/v1/species/search?q=Fiber
+IDB-REG_03-CAT_13-ERA_02-1650-ACC04-HOP15504-REC3100743,scientific_identity,"Fiber Cuvier, 1800",https://api.gbif.org/v1/species/search?q=Fiber
+IDB-REG_03-CAT_13-ERA_02-1650-ACC04-HOP15504-REC3100743,taxon_authority,"Cuvier, 1800",https://api.gbif.org/v1/species/search?q=Fiber
