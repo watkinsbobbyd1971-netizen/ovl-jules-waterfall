@@ -1,0 +1,310 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB36-ENT-WRD-0035408,descriptive_identity,"""chunk""",http://www.wikidata.org/entity/Q1324888
+LIBSRC-LIB36-ENT-WRD-0035408,descriptive_identity,"""data structure""",http://www.wikidata.org/entity/Q1324888
+LIBSRC-LIB36-ENT-WRD-0035408,component_relationship,"""header""",http://www.wikidata.org/entity/Q1324888
+LIBSRC-LIB36-ENT-WRD-0035408,descriptive_identity,"""bent component""",http://www.wikidata.org/entity/Q2381072
+LIBSRC-LIB36-ENT-WRD-0035408,descriptive_identity,"""nautical term""",http://www.wikidata.org/entity/Q2381072
+LIBSRC-LIB36-ENT-WRD-0035408,descriptive_identity,"""ship element""",http://www.wikidata.org/entity/Q2381072
+LIBSRC-LIB36-ENT-WRD-0035408,descriptive_identity,"""graphical widget""",http://www.wikidata.org/entity/Q4492625
+LIBSRC-LIB36-ENT-WRD-0035408,descriptive_identity,"""HTML element""",http://www.wikidata.org/entity/Q94089732
+LIBSRC-LIB36-ENT-WRD-0035439,descriptive_identity,"""translator-interpreter""",http://www.wikidata.org/entity/Q11085831
+LIBSRC-LIB36-ENT-WRD-0035439,descriptive_identity,"""foreign language profession""",http://www.wikidata.org/entity/Q11085831
+LIBSRC-LIB36-ENT-WRD-0035439,descriptive_identity,"""occupation""",http://www.wikidata.org/entity/Q11287550
+LIBSRC-LIB36-ENT-WRD-0035439,descriptive_identity,"""position""",http://www.wikidata.org/entity/Q102121672
+LIBSRC-LIB36-ENT-WRD-0035439,descriptive_identity,"""profession""",http://www.wikidata.org/entity/Q102121672
+LIBSRC-LIB36-ENT-WRD-0035439,descriptive_identity,"""proto-agent""",http://www.wikidata.org/entity/Q140435193
+LIBSRC-LIB36-ENT-WRD-0035439,descriptive_identity,"""proto-patient""",http://www.wikidata.org/entity/Q140436316
+LIBSRC-LIB36-ENT-WRD-0035439,descriptive_identity,"""semiotic entity""",http://www.wikidata.org/entity/Q141845852
+LIBSRC-LIB36-ENT-WRD-0035439,descriptive_identity,"""communication role""",http://www.wikidata.org/entity/Q141845852
+LIBSRC-LIB36-ENT-WRD-0035439,descriptive_identity,"""agent-driven role""",http://www.wikidata.org/entity/Q141845852
+LIBSRC-LIB36-ENT-WRD-0035502,descriptive_identity,"""subroutine call""",http://www.wikidata.org/entity/Q722192
+LIBSRC-LIB36-ENT-WRD-0035502,descriptive_identity,"""operating system component""",http://www.wikidata.org/entity/Q722192
+LIBSRC-LIB36-ENT-WRD-0035790,descriptive_identity,"""term""",http://www.wikidata.org/entity/Q45109547
+LIBSRC-LIB36-ENT-WRD-0035790,descriptive_identity,"""metadata""",http://www.wikidata.org/entity/Q83966774
+LIBSRC-LIB36-ENT-WRD-0035790,descriptive_identity,"""structure""",http://www.wikidata.org/entity/Q2085518
+LIBSRC-LIB36-ENT-WRD-0035790,descriptive_identity,"""style""",http://www.wikidata.org/entity/Q2085518
+LIBSRC-LIB36-ENT-WRD-0035790,descriptive_identity,"""type of structure""",http://www.wikidata.org/entity/Q2085518
+LIBSRC-LIB36-ENT-WRD-0035790,descriptive_identity,"""computer program""",http://www.wikidata.org/entity/Q1156049
+LIBSRC-LIB36-ENT-WRD-0035790,descriptive_identity,"""command""",http://www.wikidata.org/entity/Q1156049
+LIBSRC-LIB36-ENT-WRD-0035801,descriptive_identity,"""edited volume""",http://www.wikidata.org/entity/Q125949755
+LIBSRC-LIB36-ENT-WRD-0036616,manufacturer_or_creator,"""Andrzej Sapkowski""",http://www.wikidata.org/entity/Q6477658
+LIBSRC-LIB36-ENT-WRD-0036616,descriptive_identity,"""incantation""",http://www.wikidata.org/entity/Q6477658
+LIBSRC-LIB36-ENT-WRD-0036616,descriptive_identity,"""superpower""",http://www.wikidata.org/entity/Q6477658
+LIBSRC-LIB36-ENT-WRD-0036616,descriptive_identity,"""concept""",http://www.wikidata.org/entity/Q262246
+LIBSRC-LIB36-ENT-WRD-0036616,descriptive_identity,"""class""",http://www.wikidata.org/entity/Q262246
+LIBSRC-LIB36-ENT-WRD-0036616,descriptive_identity,"""hand gesture""",http://www.wikidata.org/entity/Q20921471
+LIBSRC-LIB36-ENT-WRD-0036616,component_relationship,"""handshape""",http://www.wikidata.org/entity/Q20921471
+LIBSRC-LIB36-ENT-WRD-0036616,component_relationship,"""orientation""",http://www.wikidata.org/entity/Q20921471
+LIBSRC-LIB36-ENT-WRD-0036616,component_relationship,"""movement""",http://www.wikidata.org/entity/Q20921471
+LIBSRC-LIB36-ENT-WRD-0036616,component_relationship,"""location""",http://www.wikidata.org/entity/Q20921471
+LIBSRC-LIB36-ENT-WRD-0036616,component_relationship,"""expression""",http://www.wikidata.org/entity/Q20921471
+LIBSRC-LIB36-ENT-WRD-0036616,descriptive_identity,"""object""",http://www.wikidata.org/entity/Q3695082
+LIBSRC-LIB36-ENT-WRD-0036616,component_relationship,"""signified and signifier""",http://www.wikidata.org/entity/Q3695082
+LIBSRC-LIB36-ENT-WRD-0036616,descriptive_identity,"""concept""",http://www.wikidata.org/entity/Q3695082
+LIBSRC-LIB36-ENT-WRD-0036616,descriptive_identity,"""proto-patient""",http://www.wikidata.org/entity/Q140406584
+LIBSRC-LIB36-ENT-WRD-0036616,descriptive_identity,"""proto-agent""",http://www.wikidata.org/entity/Q140406854
+LIBSRC-LIB36-ENT-WRD-0036616,descriptive_identity,"""property""",http://www.wikidata.org/entity/Q1193832
+LIBSRC-LIB36-ENT-WRD-0036616,component_relationship,"""positive real number""",http://www.wikidata.org/entity/Q1193832
+LIBSRC-LIB36-ENT-WRD-0036616,component_relationship,"""negative real number""",http://www.wikidata.org/entity/Q1193832
+LIBSRC-LIB36-ENT-WRD-0036616,component_relationship,"""zero""",http://www.wikidata.org/entity/Q1193832
+LIBSRC-LIB36-ENT-WRD-0036616,descriptive_identity,"""trichotomy""",http://www.wikidata.org/entity/Q1193832
+LIBSRC-LIB36-ENT-WRD-0036616,descriptive_identity,"""concept""",http://www.wikidata.org/entity/Q1193832
+LIBSRC-LIB36-ENT-WRD-0037129,descriptive_identity,"""CSS property""",http://www.wikidata.org/entity/Q105755131
+LIBSRC-LIB36-ENT-WRD-0037916,descriptive_identity,"""goal""",http://www.wikidata.org/entity/Q140443486
+LIBSRC-LIB36-ENT-WRD-0037916,descriptive_identity,"""activity""",http://www.wikidata.org/entity/Q140674441
+LIBSRC-LIB36-ENT-WRD-0037916,descriptive_identity,"""type of process""",http://www.wikidata.org/entity/Q140674441
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""line""",http://www.wikidata.org/entity/Q37105
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""member of a group""",http://www.wikidata.org/entity/Q37105
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""generalised circle""",http://www.wikidata.org/entity/Q37105
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""geometric primitive""",http://www.wikidata.org/entity/Q37105
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""algebraic curve""",http://www.wikidata.org/entity/Q37105
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""geometric concept""",http://www.wikidata.org/entity/Q37105
+LIBSRC-LIB36-ENT-WRD-0037949,component_relationship,"""abstract reference point""",http://www.wikidata.org/entity/Q37105
+LIBSRC-LIB36-ENT-WRD-0037949,component_relationship,"""orientation""",http://www.wikidata.org/entity/Q37105
+LIBSRC-LIB36-ENT-WRD-0037949,component_relationship,"""ray""",http://www.wikidata.org/entity/Q37105
+LIBSRC-LIB36-ENT-WRD-0037949,component_relationship,"""point""",http://www.wikidata.org/entity/Q37105
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""text""",http://www.wikidata.org/entity/Q285573
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""English unit of measurement""",http://www.wikidata.org/entity/Q649848
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""obsolete unit of length""",http://www.wikidata.org/entity/Q649848
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""street""",http://www.wikidata.org/entity/Q13424730
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""road type""",http://www.wikidata.org/entity/Q13424730
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""line""",http://www.wikidata.org/entity/Q136644862
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""bertsolarism concept""",http://www.wikidata.org/entity/Q136644862
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""data structure""",http://www.wikidata.org/entity/Q4736436
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""UCUM derived unit""",http://www.wikidata.org/entity/Q105795633
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""unit of length""",http://www.wikidata.org/entity/Q105795633
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""pattern""",http://www.wikidata.org/entity/Q3238500
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""one-dimensional region""",http://www.wikidata.org/entity/Q141177930
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""line""",http://www.wikidata.org/entity/Q141177930
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""locus""",http://www.wikidata.org/entity/Q141177930
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""curve""",http://www.wikidata.org/entity/Q141177930
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""element of art""",http://www.wikidata.org/entity/Q141177945
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""line""",http://www.wikidata.org/entity/Q141177945
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""one-dimensional region""",http://www.wikidata.org/entity/Q1228250
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""locus""",http://www.wikidata.org/entity/Q1228250
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""part of a work""",http://www.wikidata.org/entity/Q125698166
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""oration""",http://www.wikidata.org/entity/Q125698166
+LIBSRC-LIB36-ENT-WRD-0037949,descriptive_identity,"""acting""",http://www.wikidata.org/entity/Q125698166
+LIBSRC-LIB36-ENT-WRD-0039283,descriptive_identity,"""visualization""",http://www.wikidata.org/entity/Q37993700
+LIBSRC-LIB36-ENT-WRD-0039394,descriptive_identity,"""unit of information""",http://www.wikidata.org/entity/Q214111
+LIBSRC-LIB36-ENT-WRD-0039394,descriptive_identity,"""Protocol data unit""",http://www.wikidata.org/entity/Q214111
+LIBSRC-LIB36-ENT-WRD-0039394,descriptive_identity,"""Q116449147""",http://www.wikidata.org/entity/Q25221956
+LIBSRC-LIB36-ENT-WRD-0044363,descriptive_identity,"""independent agency of the United States government""",http://www.wikidata.org/entity/Q128831
+LIBSRC-LIB36-ENT-WRD-0044363,descriptive_identity,"""regulatory agency""",http://www.wikidata.org/entity/Q128831
+LIBSRC-LIB36-ENT-WRD-0045969,descriptive_identity,"""human-made landform""",http://www.wikidata.org/entity/Q2710737
+LIBSRC-LIB36-ENT-WRD-0045969,descriptive_identity,"""hill""",http://www.wikidata.org/entity/Q2710737
+LIBSRC-LIB36-ENT-WRD-0049664,descriptive_identity,"""food preserve""",http://www.wikidata.org/entity/Q30703616
+LIBSRC-LIB36-ENT-WRD-0049664,descriptive_identity,"""snack""",http://www.wikidata.org/entity/Q30703616
+LIBSRC-LIB36-ENT-WRD-0049664,descriptive_identity,"""facet of tenis playing skill""",http://www.wikidata.org/entity/Q48302016
+LIBSRC-LIB36-ENT-WRD-0049664,descriptive_identity,"""surface or structural change""",http://www.wikidata.org/entity/Q117038347
+LIBSRC-LIB36-ENT-WRD-0049664,descriptive_identity,"""flaw""",http://www.wikidata.org/entity/Q117038347
+LIBSRC-LIB36-ENT-WRD-0049664,descriptive_identity,"""chip""",http://www.wikidata.org/entity/Q117038345
+LIBSRC-LIB36-ENT-WRD-0049664,descriptive_identity,"""part""",http://www.wikidata.org/entity/Q128698437
+LIBSRC-LIB36-ENT-WRD-0049664,descriptive_identity,"""graphical widget""",http://www.wikidata.org/entity/Q130226814
+LIBSRC-LIB36-ENT-WRD-0049664,descriptive_identity,"""football dribbling""",http://www.wikidata.org/entity/Q2205353
+LIBSRC-LIB36-ENT-WRD-0049664,descriptive_identity,"""technique""",http://www.wikidata.org/entity/Q2205353
+LIBSRC-LIB36-ENT-WRD-0049664,descriptive_identity,"""code division multiple access""",http://www.wikidata.org/entity/Q1074500
+LIBSRC-LIB36-ENT-WRD-0052667,descriptive_identity,"""media professional""",http://www.wikidata.org/entity/Q1371925
+LIBSRC-LIB36-ENT-WRD-0052667,descriptive_identity,"""role""",http://www.wikidata.org/entity/Q1371925
+LIBSRC-LIB36-ENT-WRD-0052667,descriptive_identity,"""profession""",http://www.wikidata.org/entity/Q1371925
+LIBSRC-LIB36-ENT-WRD-0052667,descriptive_identity,"""proto-agent""",http://www.wikidata.org/entity/Q140409653
+LIBSRC-LIB36-ENT-WRD-0052667,descriptive_identity,"""proto-agent""",http://www.wikidata.org/entity/Q140423787
+LIBSRC-LIB36-ENT-WRD-0052667,descriptive_identity,"""proto-agent""",http://www.wikidata.org/entity/Q140428564
+LIBSRC-LIB36-ENT-WRD-0052667,descriptive_identity,"""proto-agent""",http://www.wikidata.org/entity/Q140434549
+LIBSRC-LIB36-ENT-WRD-0052667,descriptive_identity,"""proto-agent""",http://www.wikidata.org/entity/Q140439590
+LIBSRC-LIB36-ENT-WRD-0052667,descriptive_identity,"""proto-agent""",http://www.wikidata.org/entity/Q140443523
+LIBSRC-LIB36-ENT-WRD-0054837,descriptive_identity,"""gene""",http://www.wikidata.org/entity/Q29733664
+LIBSRC-LIB36-ENT-WRD-0054837,descriptive_identity,"""artificial figure""",http://www.wikidata.org/entity/Q55365900
+LIBSRC-LIB36-ENT-WRD-0054837,descriptive_identity,"""whole-muscle cut""",http://www.wikidata.org/entity/Q170486
+LIBSRC-LIB36-ENT-WRD-0054837,descriptive_identity,"""pork dish""",http://www.wikidata.org/entity/Q170486
+LIBSRC-LIB36-ENT-WRD-0054837,descriptive_identity,"""pork""",http://www.wikidata.org/entity/Q170486
+LIBSRC-LIB36-ENT-WRD-0054837,descriptive_identity,"""cold cut""",http://www.wikidata.org/entity/Q170486
+LIBSRC-LIB36-ENT-WRD-0054837,descriptive_identity,"""food ingredient""",http://www.wikidata.org/entity/Q170486
+LIBSRC-LIB36-ENT-WRD-0054837,material_identity,"""pork thigh""",http://www.wikidata.org/entity/Q170486
+LIBSRC-LIB36-ENT-WRD-0056696,descriptive_identity,"""folklore motif""",http://www.wikidata.org/entity/Q123477257
+LIBSRC-LIB36-ENT-WRD-0056696,descriptive_identity,"""narrative motif""",http://www.wikidata.org/entity/Q123477257
+LIBSRC-LIB36-ENT-WRD-0056912,descriptive_identity,"""occupation""",http://www.wikidata.org/entity/Q1722406
+LIBSRC-LIB36-ENT-WRD-0056912,descriptive_identity,"""position""",http://www.wikidata.org/entity/Q1722406
+LIBSRC-LIB36-ENT-WRD-0056912,descriptive_identity,"""profession""",http://www.wikidata.org/entity/Q1722406
+LIBSRC-LIB36-ENT-WRD-0056916,descriptive_identity,"""spoken word artist""",http://www.wikidata.org/entity/Q23037330
+LIBSRC-LIB36-ENT-WRD-0056916,descriptive_identity,"""public reader""",http://www.wikidata.org/entity/Q23037330
+LIBSRC-LIB36-ENT-WRD-0056916,descriptive_identity,"""profession""",http://www.wikidata.org/entity/Q23037330
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""cyclecar""",http://www.wikidata.org/entity/Q114421
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""automobile manufacturer""",http://www.wikidata.org/entity/Q114421
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""ship""",http://www.wikidata.org/entity/Q5725147
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""railway station""",http://www.wikidata.org/entity/Q5948558
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""mine""",http://www.wikidata.org/entity/Q31879512
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""human""",http://www.wikidata.org/entity/Q43395974
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""family name""",http://www.wikidata.org/entity/Q1444604
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""bulk carrier""",http://www.wikidata.org/entity/Q117011721
+LIBSRC-LIB36-ENT-WRD-0058865,material_identity,"""bronze""",http://www.wikidata.org/entity/Q117233415
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""archaeological find""",http://www.wikidata.org/entity/Q117233415
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""bell""",http://www.wikidata.org/entity/Q117233415
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""bus station""",http://www.wikidata.org/entity/Q62514276
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""parish of New South Wales""",http://www.wikidata.org/entity/Q63518136
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""parish of New South Wales""",http://www.wikidata.org/entity/Q63524950
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""human""",http://www.wikidata.org/entity/Q64214960
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""human""",http://www.wikidata.org/entity/Q65047804
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""buurtschap""",http://www.wikidata.org/entity/Q65415146
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""ship""",http://www.wikidata.org/entity/Q11960209
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""CubeSat""",http://www.wikidata.org/entity/Q14174567
+LIBSRC-LIB36-ENT-WRD-0058865,material_identity,"""bronze""",http://www.wikidata.org/entity/Q123461616
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""suzu""",http://www.wikidata.org/entity/Q123461616
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""brand""",http://www.wikidata.org/entity/Q125698758
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""trademark""",http://www.wikidata.org/entity/Q125698758
+LIBSRC-LIB36-ENT-WRD-0058865,manufacturer_or_creator,"""Wenzel Jamnitzer""",http://www.wikidata.org/entity/Q126484813
+LIBSRC-LIB36-ENT-WRD-0058865,manufacturer_or_creator,"""Wenzel Jamnitzer""",http://www.wikidata.org/entity/Q126484813
+LIBSRC-LIB36-ENT-WRD-0058865,manufacturer_or_creator,"""Wenzel Jamnitzer""",http://www.wikidata.org/entity/Q126484813
+LIBSRC-LIB36-ENT-WRD-0058865,manufacturer_or_creator,"""Wenzel Jamnitzer""",http://www.wikidata.org/entity/Q126484813
+LIBSRC-LIB36-ENT-WRD-0058865,material_identity,"""silver""",http://www.wikidata.org/entity/Q126484813
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""silversmithing""",http://www.wikidata.org/entity/Q126484813
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""sculpture""",http://www.wikidata.org/entity/Q126484813
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""bell""",http://www.wikidata.org/entity/Q126484813
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""pub""",http://www.wikidata.org/entity/Q138588747
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""house""",http://www.wikidata.org/entity/Q138588747
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""farm""",http://www.wikidata.org/entity/Q17750086
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""municipality without town privileges in Germany""",http://www.wikidata.org/entity/Q654172
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""unisex given name""",http://www.wikidata.org/entity/Q21423096
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""municipality without town privileges in Germany""",http://www.wikidata.org/entity/Q676696
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""unincorporated community""",http://www.wikidata.org/entity/Q4883075
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""elevated station""",http://www.wikidata.org/entity/Q4883325
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""railway station""",http://www.wikidata.org/entity/Q4883325
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""human""",http://www.wikidata.org/entity/Q109320931
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""serif typeface""",http://www.wikidata.org/entity/Q2642009
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""typeface family""",http://www.wikidata.org/entity/Q2642009
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""lunar crater""",http://www.wikidata.org/entity/Q2739652
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""impact crater""",http://www.wikidata.org/entity/Q2739652
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""giantess""",http://www.wikidata.org/entity/Q29458827
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""mountain""",http://www.wikidata.org/entity/Q21471571
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""Ortsteil""",http://www.wikidata.org/entity/Q56008581
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""sculpture""",http://www.wikidata.org/entity/Q84708882
+LIBSRC-LIB36-ENT-WRD-0058865,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/47d1dfead69c8e6e83cdd707d9be54a6""",http://www.wikidata.org/entity/Q84708882
+LIBSRC-LIB36-ENT-WRD-0058865,material_identity,"""copper""",http://www.wikidata.org/entity/Q84708882
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""sculpture""",http://www.wikidata.org/entity/Q84717923
+LIBSRC-LIB36-ENT-WRD-0058865,manufacturer_or_creator,"""http://www.wikidata.org/.well-known/genid/b11e0ea6e0053e94d5b91229dc41f481""",http://www.wikidata.org/entity/Q84717923
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""human""",http://www.wikidata.org/entity/Q110636351
+LIBSRC-LIB36-ENT-WRD-0058865,material_identity,"""copper-based alloy""",http://www.wikidata.org/entity/Q119241251
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""bell""",http://www.wikidata.org/entity/Q119241251
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""bell""",http://www.wikidata.org/entity/Q119247958
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""bell""",http://www.wikidata.org/entity/Q119247957
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""human""",http://www.wikidata.org/entity/Q131578584
+LIBSRC-LIB36-ENT-WRD-0058865,descriptive_identity,"""painting""",http://www.wikidata.org/entity/Q140413467
+LIBSRC-LIB36-ENT-WRD-0058865,manufacturer_or_creator,"""Roy Lichtenstein""",http://www.wikidata.org/entity/Q140413467
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""village of Ohio""",http://www.wikidata.org/entity/Q280278
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""human""",http://www.wikidata.org/entity/Q123408763
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""weather station""",http://www.wikidata.org/entity/Q61042576
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""unincorporated community""",http://www.wikidata.org/entity/Q4954543
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""unincorporated community""",http://www.wikidata.org/entity/Q4954540
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""human settlement""",http://www.wikidata.org/entity/Q4954541
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""hamlet""",http://www.wikidata.org/entity/Q4954541
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""suburb""",http://www.wikidata.org/entity/Q4954547
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""unincorporated community""",http://www.wikidata.org/entity/Q4954545
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""human settlement""",http://www.wikidata.org/entity/Q4954551
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""unincorporated community""",http://www.wikidata.org/entity/Q4954549
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""village""",http://www.wikidata.org/entity/Q4954552
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""constituency of the House of Commons""",http://www.wikidata.org/entity/Q4954575
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""census-designated place in the United States""",http://www.wikidata.org/entity/Q16538761
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""human settlement""",http://www.wikidata.org/entity/Q16538761
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""unincorporated community""",http://www.wikidata.org/entity/Q136416314
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""human settlement""",http://www.wikidata.org/entity/Q138546600
+LIBSRC-LIB36-ENT-WRD-0058969,component_relationship,"""Bradford""",http://www.wikidata.org/entity/Q16860328
+LIBSRC-LIB36-ENT-WRD-0058969,component_relationship,"""Bradford""",http://www.wikidata.org/entity/Q16860328
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""name""",http://www.wikidata.org/entity/Q16860328
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""locality""",http://www.wikidata.org/entity/Q16969115
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""male given name""",http://www.wikidata.org/entity/Q20799155
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""civil parish""",http://www.wikidata.org/entity/Q2078452
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""village""",http://www.wikidata.org/entity/Q2078452
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""village of Illinois""",http://www.wikidata.org/entity/Q2471006
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""family name""",http://www.wikidata.org/entity/Q23542895
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""manor estate""",http://www.wikidata.org/entity/Q105796161
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""manor estate""",http://www.wikidata.org/entity/Q105798326
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""civil parish""",http://www.wikidata.org/entity/Q23648369
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""hamlet""",http://www.wikidata.org/entity/Q23648369
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""parish of Victoria""",http://www.wikidata.org/entity/Q28931215
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""car brand""",http://www.wikidata.org/entity/Q896927
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""unincorporated community""",http://www.wikidata.org/entity/Q896936
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""census-designated place in the United States""",http://www.wikidata.org/entity/Q896936
+LIBSRC-LIB36-ENT-WRD-0058969,descriptive_identity,"""suburb""",http://www.wikidata.org/entity/Q96359474
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""male given name""",http://www.wikidata.org/entity/Q123651
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""clam dish""",http://www.wikidata.org/entity/Q29288
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""cocktail""",http://www.wikidata.org/entity/Q29288
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""cocktail""",http://www.wikidata.org/entity/Q29288
+LIBSRC-LIB36-ENT-WRD-0059064,material_identity,"""lime wedge""",http://www.wikidata.org/entity/Q29288
+LIBSRC-LIB36-ENT-WRD-0059064,material_identity,"""celery stalk""",http://www.wikidata.org/entity/Q29288
+LIBSRC-LIB36-ENT-WRD-0059064,material_identity,"""celery salt""",http://www.wikidata.org/entity/Q29288
+LIBSRC-LIB36-ENT-WRD-0059064,material_identity,"""highball glass""",http://www.wikidata.org/entity/Q29288
+LIBSRC-LIB36-ENT-WRD-0059064,material_identity,"""peppercorn""",http://www.wikidata.org/entity/Q29288
+LIBSRC-LIB36-ENT-WRD-0059064,material_identity,"""Clamato""",http://www.wikidata.org/entity/Q29288
+LIBSRC-LIB36-ENT-WRD-0059064,material_identity,"""Worcestershire sauce""",http://www.wikidata.org/entity/Q29288
+LIBSRC-LIB36-ENT-WRD-0059064,material_identity,"""hot sauce""",http://www.wikidata.org/entity/Q29288
+LIBSRC-LIB36-ENT-WRD-0059064,material_identity,"""ice cube""",http://www.wikidata.org/entity/Q29288
+LIBSRC-LIB36-ENT-WRD-0059064,material_identity,"""vodka""",http://www.wikidata.org/entity/Q29288
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""cocktail""",http://www.wikidata.org/entity/Q29288
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""cocktail""",http://www.wikidata.org/entity/Q29288
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""dog""",http://www.wikidata.org/entity/Q5016963
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""television character""",http://www.wikidata.org/entity/Q5016966
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""fictional human""",http://www.wikidata.org/entity/Q5016966
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""board game""",http://www.wikidata.org/entity/Q5016964
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""individual animal""",http://www.wikidata.org/entity/Q11308800
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""horse""",http://www.wikidata.org/entity/Q11308800
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""literary work""",http://www.wikidata.org/entity/Q11707215
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""unincorporated community""",http://www.wikidata.org/entity/Q113023088
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""mine""",http://www.wikidata.org/entity/Q31887967
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""dictionary entry""",http://www.wikidata.org/entity/Q38504163
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""fictional human""",http://www.wikidata.org/entity/Q115858405
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""video game character""",http://www.wikidata.org/entity/Q115858405
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""tanker""",http://www.wikidata.org/entity/Q117023641
+LIBSRC-LIB36-ENT-WRD-0059064,manufacturer_or_creator,"""Q30895274""",http://www.wikidata.org/entity/Q117073731
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""reefer ship""",http://www.wikidata.org/entity/Q117073731
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""fictional revolver""",http://www.wikidata.org/entity/Q70493194
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""family name""",http://www.wikidata.org/entity/Q14873084
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""human""",http://www.wikidata.org/entity/Q16202022
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""masculine praenomen""",http://www.wikidata.org/entity/Q123587291
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""fictional human""",http://www.wikidata.org/entity/Q139411348
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""video game character""",http://www.wikidata.org/entity/Q139411348
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""street""",http://www.wikidata.org/entity/Q18981915
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""position""",http://www.wikidata.org/entity/Q188751
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""noble title""",http://www.wikidata.org/entity/Q188751
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""literary work""",http://www.wikidata.org/entity/Q20875544
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""human""",http://www.wikidata.org/entity/Q104858905
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""historical motorcycle manufacturer""",http://www.wikidata.org/entity/Q2718801
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""video game series""",http://www.wikidata.org/entity/Q3649550
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""literary work""",http://www.wikidata.org/entity/Q25182893
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""crater""",http://www.wikidata.org/entity/Q25908434
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""masculine cognomen""",http://www.wikidata.org/entity/Q1025414
+LIBSRC-LIB36-ENT-WRD-0059064,descriptive_identity,"""human""",http://www.wikidata.org/entity/Q99485760
+LIBSRC-LIB36-ENT-WRD-0063782,descriptive_identity,"""taxon""",http://www.wikidata.org/entity/Q157483
+LIBSRC-LIB36-ENT-WRD-0070964,descriptive_identity,"""royalties""",http://www.wikidata.org/entity/Q7315501
+LIBSRC-LIB36-ENT-WRD-0072131,descriptive_identity,"""repetition""",http://www.wikidata.org/entity/Q651022
+LIBSRC-LIB36-ENT-WRD-0072131,descriptive_identity,"""programming idiom""",http://www.wikidata.org/entity/Q651022
+LIBSRC-LIB36-ENT-WRD-0072131,component_relationship,"""step""",http://www.wikidata.org/entity/Q651022
+LIBSRC-LIB36-ENT-WRD-0074281,descriptive_identity,"""plate""",http://www.wikidata.org/entity/Q10803218
+LIBSRC-LIB36-ENT-WRD-0074281,descriptive_identity,"""cylinder""",http://www.wikidata.org/entity/Q10803218
+LIBSRC-LIB36-ENT-WRD-0074281,descriptive_identity,"""plane figure""",http://www.wikidata.org/entity/Q238231
+LIBSRC-LIB36-ENT-WRD-0074281,descriptive_identity,"""hyperball""",http://www.wikidata.org/entity/Q238231
+LIBSRC-LIB36-ENT-WRD-0074281,descriptive_identity,"""geometric shape""",http://www.wikidata.org/entity/Q238231
+LIBSRC-LIB36-ENT-WRD-0074281,component_relationship,"""circular sector""",http://www.wikidata.org/entity/Q238231
+LIBSRC-LIB36-ENT-WRD-0074281,component_relationship,"""radius""",http://www.wikidata.org/entity/Q238231
+LIBSRC-LIB36-ENT-WRD-0074281,descriptive_identity,"""physical object""",http://www.wikidata.org/entity/Q12346540
+LIBSRC-LIB36-ENT-WRD-0074281,descriptive_identity,"""type of physical object by shape""",http://www.wikidata.org/entity/Q12346540
+LIBSRC-LIB36-ENT-WRD-0077144,descriptive_identity,"""engineering tolerance""",http://www.wikidata.org/entity/Q8365495
+LIBSRC-LIB36-ENT-WRD-0077144,descriptive_identity,"""hand""",http://www.wikidata.org/entity/Q12166713
+LIBSRC-LIB36-ENT-WRD-0077144,descriptive_identity,"""specialized term""",http://www.wikidata.org/entity/Q12166713
+LIBSRC-LIB36-ENT-WRD-0077144,descriptive_identity,"""gene""",http://www.wikidata.org/entity/Q29712875
+LIBSRC-LIB36-ENT-WRD-0077144,descriptive_identity,"""psychological reaction""",http://www.wikidata.org/entity/Q107999954
+LIBSRC-LIB36-ENT-WRD-0078159,descriptive_identity,"""phenol formaldehyde resin""",http://www.wikidata.org/entity/Q146578
+LIBSRC-LIB36-ENT-WRD-0078159,descriptive_identity,"""plastic""",http://www.wikidata.org/entity/Q146578
+LIBSRC-LIB36-ENT-WRD-0078159,descriptive_identity,"""enterprise""",http://www.wikidata.org/entity/Q804293
+LIBSRC-LIB36-ENT-WRD-0078159,descriptive_identity,"""musical ensemble""",http://www.wikidata.org/entity/Q31722989
+LIBSRC-LIB36-ENT-WRD-0084380,descriptive_identity,"""population""",http://www.wikidata.org/entity/Q487765
+LIBSRC-LIB36-ENT-WRD-0084380,descriptive_identity,"""infraspecific name""",http://www.wikidata.org/entity/Q487765
+LIBSRC-LIB36-ENT-WRD-0084380,descriptive_identity,"""segment""",http://www.wikidata.org/entity/Q1670737
+LIBSRC-LIB36-ENT-WRD-0085021,descriptive_identity,"""Wikidata property related to software""",http://www.wikidata.org/entity/P1641
+LIBSRC-LIB36-ENT-WRD-0085021,descriptive_identity,"""left""",http://www.wikidata.org/entity/Q11723008
+LIBSRC-LIB36-ENT-WRD-0085021,descriptive_identity,"""relative direction""",http://www.wikidata.org/entity/Q11723008
+LIBSRC-LIB36-ENT-WRD-0085021,descriptive_identity,"""connection""",http://www.wikidata.org/entity/Q2443617
+LIBSRC-LIB36-ENT-WRD-0085021,component_relationship,"""electrical contact""",http://www.wikidata.org/entity/Q2443617
+LIBSRC-LIB36-ENT-WRD-0085021,descriptive_identity,"""gene""",http://www.wikidata.org/entity/Q29713226
+LIBSRC-LIB36-ENT-WRD-0085021,descriptive_identity,"""address""",http://www.wikidata.org/entity/Q858321
+LIBSRC-LIB36-ENT-WRD-0085021,descriptive_identity,"""specialized term""",http://www.wikidata.org/entity/Q858321
+LIBSRC-LIB36-ENT-WRD-0085021,descriptive_identity,"""software""",http://www.wikidata.org/entity/Q140786589
