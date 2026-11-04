@@ -1,0 +1,1 @@
+Tried to fetch data from Wikidata SPARQL API and Smithsonian Open Access API, but both returned severe rate limits (HTTP 429 and OVER_RATE_LIMIT). Therefore, no valid sourced values were found.
