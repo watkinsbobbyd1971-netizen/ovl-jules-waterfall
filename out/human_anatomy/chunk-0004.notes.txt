@@ -1,0 +1,5 @@
+Attempted to query Wikidata and the Smithsonian Open Access API for subjects in chunk-0004.csv.gz.
+The subjects provided are completely unrelated to human anatomy (e.g., "insignia, pair of", "Barn on Way to Lititz...", "bathing suit, 1-piece").
+As a result, no exact valid anatomical property mappings (anatomical_identity, anatomical_length, anatomical_relationship, descriptive_identity, identity_label, morphology, tissue_identity) were found.
+Additionally, the Smithsonian Open Access API consistently returned an OVER_RATE_LIMIT (HTTP 429) error when queried using the default DEMO_KEY.
+Consequently, no valid real sourced values could be found, so an empty output file with just the header was generated.
