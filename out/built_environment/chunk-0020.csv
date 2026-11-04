@@ -1,0 +1,54 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP706-REC141011,descriptive_identity,"country house",http://www.coflein.gov.uk/en/site/36183/details/pontruffydd-hall
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP727-REC145211,creator_or_attribution,"Jan Koula",https://www.slavnevily.cz/vily/jihocesky/dum-adolfa-heyduka
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP715-REC142901,location,"Kerman",https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ir&srlang=fa&srid=1170
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP715-REC142901,location,"Kerman",https://iranarchpedia.ir/entry/16419
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP715-REC142901,descriptive_identity,"cultural property",https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ir&srlang=fa&srid=1170
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP715-REC142901,structural_relationship,"Harandi Garden",https://iranarchpedia.ir/entry/16419
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP715-REC142901,material_identity,"mortar",https://iranarchpedia.ir/entry/16419
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP715-REC142901,descriptive_identity,"cultural property",https://iranarchpedia.ir/entry/16419
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP706-REC141011,creator_or_attribution,"Thomas Henry Wyatt",http://www.coflein.gov.uk/en/site/36183/details/pontruffydd-hall
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP706-REC141011,location,"Bodfari",http://www.coflein.gov.uk/en/site/36183/details/pontruffydd-hall
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP706-REC141011,construction_date,"1600-01-01T00:00:00Z",http://www.coflein.gov.uk/en/site/36183/details/pontruffydd-hall
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP715-REC142901,material_identity,"brick",https://iranarchpedia.ir/entry/16419
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP715-REC142901,descriptive_identity,"mansion",https://iranarchpedia.ir/entry/16419
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP727-REC145211,location,"Budějovické Předměstí",https://pamatkovykatalog.cz/soupis/podle-relevance/1/seznam?katCislo=1000144432
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP318-REC63431,descriptive_identity,"historic site",http://www.patrimoniocultural.pr.gov.br/modules/conteudo/conteudo.php?conteudo=96
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP318-REC63431,location,"Balsa Nova",http://www.patrimoniocultural.pr.gov.br/modules/conteudo/conteudo.php?conteudo=96
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP318-REC63431,descriptive_identity,"historic site",http://www.patrimoniocultural.pr.gov.br/modules/conteudo/conteudo.php?conteudo=143
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP318-REC63431,location,"Palmeira",http://www.patrimoniocultural.pr.gov.br/modules/conteudo/conteudo.php?conteudo=143
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP409-REC81701,location,"Argyll and Bute",http://portal.historicenvironment.scot/designation/LB43991
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP409-REC81701,descriptive_identity,"watermill",https://canmore.org.uk/site/127737
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP409-REC81701,location,"Luss",http://portal.historicenvironment.scot/designation/LB43991
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP408-REC81491,descriptive_identity,"watermill",http://www.wikilovesmonuments.org.pt/
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP408-REC81491,descriptive_identity,"cultural heritage",http://www.wikilovesmonuments.org.pt/
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP408-REC81491,location,"Nossa Senhora da Conceição",http://www.wikilovesmonuments.org.pt/
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP425-REC84851,location,"Fife",https://www.scottishbrickhistory.co.uk/pittenweem-brick-and-tile-works-pittenweem-fife/
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP425-REC84851,construction_date,"1874-01-01T00:00:00Z",https://www.scottishbrickhistory.co.uk/pittenweem-brick-and-tile-works-pittenweem-fife/
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP425-REC84851,descriptive_identity,"brickworks",https://www.scottishbrickhistory.co.uk/pittenweem-brick-and-tile-works-pittenweem-fife/
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP557-REC111311,descriptive_identity,"psychiatric hospital",https://www.giacomodoni.com/persistenze/manicomio-di-imola/
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP590-REC117821,location,"Telanaipura",https://referensi.data.kemdikbud.go.id/pendidikan/dikmen/106005/3
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP589-REC117611,descriptive_identity,"madrasah ibtidaiyah",https://referensi.data.kemdikbud.go.id/pendidikan/dikdas/100511/3
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP590-REC117821,descriptive_identity,"private school",https://referensi.data.kemdikbud.go.id/pendidikan/dikmen/106005/3
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP589-REC117611,descriptive_identity,"private school",https://referensi.data.kemdikbud.go.id/pendidikan/dikdas/100511/3
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP590-REC117821,location,"Telanaipura",https://referensi.data.kemdikbud.go.id/tabs.php?npsn=10507909
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP589-REC117611,location,"East Air Hangat",https://referensi.data.kemdikbud.go.id/pendidikan/dikdas/100511/3
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP584-REC116771,descriptive_identity,"destroyed building or structure",http://www.dartmo.com/archives/197
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP582-REC116351,location,"University of Victoria",https://www.uvic.ca/search/maps-buildings/buildings/craigdarroch-office.php
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP577-REC115301,location,"Ghent",http://permalink.flandersarchitecture.be/buildingdb/196404
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP557-REC111311,descriptive_identity,"psychiatric hospital",http://archiviostorico.comune.imola.bo.it/documenti/11467
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP589-REC117611,descriptive_identity,"madrasah ibtidaiyah",https://referensi.data.kemdikbud.go.id/tabs.php?npsn=60704565
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP590-REC117821,descriptive_identity,"madrasah aliyah",https://referensi.data.kemdikbud.go.id/tabs.php?npsn=10507909
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP577-REC115301,descriptive_identity,"school building",http://permalink.flandersarchitecture.be/buildingdb/196404
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP589-REC117611,location,"East Air Hangat",https://referensi.data.kemdikbud.go.id/tabs.php?npsn=60704565
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP582-REC116351,descriptive_identity,"university building",https://www.uvic.ca/search/maps-buildings/buildings/craigdarroch-office.php
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP590-REC117821,construction_date,"1989-01-02T00:00:00Z",https://referensi.data.kemdikbud.go.id/tabs.php?npsn=10507909
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP590-REC117821,construction_date,"1989-01-02T00:00:00Z",https://vervalsp.data.kemdikbud.go.id/verval/dokumen/skoperasional/285669-914225-176349-147703116-1547202870.pdf
+IDB-REG_01-CAT_16-ERA_04-1890-ACC05-HOP577-REC115301,creator_or_attribution,"Abscis Architecten",http://permalink.flandersarchitecture.be/buildingdb/196404
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP651-REC130091,location,"Rocafort",https://ceice.gva.es/va/web/patrimonio-cultural-y-museos/inventario-general
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP748-REC149411,location,"Sé",http://www.wikilovesmonuments.org.pt/
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP748-REC149411,descriptive_identity,"cultural heritage",http://www.wikilovesmonuments.org.pt/
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP651-REC130091,descriptive_identity,"Guardia Civil barracks",http://www.ceice.gva.es/es/web/patrimonio-cultural-y-museos/etnologia
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP651-REC130091,location,"Rocafort",http://www.ceice.gva.es/es/web/patrimonio-cultural-y-museos/etnologia
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP651-REC130091,construction_date,"1937-01-01T00:00:00Z",http://www.ceice.gva.es/es/web/patrimonio-cultural-y-museos/etnologia
+IDB-REG_01-CAT_16-ERA_03-1780-ACC05-HOP728-REC145421,construction_date,"1924-01-01T00:00:00Z",https://www.iconichouses.org/houses
