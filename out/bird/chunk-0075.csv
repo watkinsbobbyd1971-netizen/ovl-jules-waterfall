@@ -1,0 +1,32 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-1985464,scientific_identity,Artamus personatus,https://api.gbif.org/v1/species/match?name=Artamus%20personatus&class=Aves
+LIBSRC-LIB50-ENT-BIO-1985464,taxon_authority,"(Gould, 1841)",https://api.gbif.org/v1/species/match?name=Artamus%20personatus&class=Aves
+LIBSRC-LIB50-ENT-BIO-0378434,scientific_identity,Cyanoloxia brissonii,https://api.gbif.org/v1/species/match?name=Cyanoloxia%20brissonii&class=Aves
+LIBSRC-LIB50-ENT-BIO-0378434,taxon_authority,"(Lichtenstein & Mhc, 1823)",https://api.gbif.org/v1/species/match?name=Cyanoloxia%20brissonii&class=Aves
+LIBSRC-LIB50-ENT-BIO-0523134,scientific_identity,Megabyas flammulatus,https://api.gbif.org/v1/species/match?name=Megabyas%20flammulatus&class=Aves
+LIBSRC-LIB50-ENT-BIO-0523134,taxon_authority,"J.Verreaux & E.Verreaux, 1855",https://api.gbif.org/v1/species/match?name=Megabyas%20flammulatus&class=Aves
+LIBSRC-LIB50-ENT-BIO-0514335,scientific_identity,Batis senegalensis,https://api.gbif.org/v1/species/match?name=Batis%20senegalensis&class=Aves
+LIBSRC-LIB50-ENT-BIO-0514335,taxon_authority,"(Linnaeus, 1766)",https://api.gbif.org/v1/species/match?name=Batis%20senegalensis&class=Aves
+LIBSRC-LIB50-ENT-BIO-2099144,scientific_identity,Thalasseus albididorsalis,https://api.gbif.org/v1/species/match?name=Thalasseus%20albididorsalis&class=Aves
+LIBSRC-LIB50-ENT-BIO-2099144,taxon_authority,"(E.Hartert, 1921)",https://api.gbif.org/v1/species/match?name=Thalasseus%20albididorsalis&class=Aves
+LIBSRC-LIB50-ENT-BIO-2097905,scientific_identity,Sterna trudeaui,https://api.gbif.org/v1/species/match?name=Sterna%20trudeaui&class=Aves
+LIBSRC-LIB50-ENT-BIO-2097905,taxon_authority,"Audubon, 1838",https://api.gbif.org/v1/species/match?name=Sterna%20trudeaui&class=Aves
+LIBSRC-LIB50-ENT-BIO-2099445,scientific_identity,Larus cinerarius,https://api.gbif.org/v1/species/match?name=Larus%20cinerarius&class=Aves
+LIBSRC-LIB50-ENT-BIO-2098395,scientific_identity,Rynchops flavirostris,https://api.gbif.org/v1/species/match?name=Rynchops%20flavirostris&class=Aves
+LIBSRC-LIB50-ENT-BIO-2098395,taxon_authority,"Vieillot, 1816",https://api.gbif.org/v1/species/match?name=Rynchops%20flavirostris&class=Aves
+LIBSRC-LIB50-ENT-BIO-2097884,scientific_identity,Sterna hirundinacea,https://api.gbif.org/v1/species/match?name=Sterna%20hirundinacea&class=Aves
+LIBSRC-LIB50-ENT-BIO-2097884,taxon_authority,"R.Lesson, 1831",https://api.gbif.org/v1/species/match?name=Sterna%20hirundinacea&class=Aves
+LIBSRC-LIB50-ENT-BIO-2243344,scientific_identity,Grallaria ruficapilla,https://api.gbif.org/v1/species/match?name=Grallaria%20ruficapilla&class=Aves
+LIBSRC-LIB50-ENT-BIO-2243344,taxon_authority,"Lafresnaye, 1842",https://api.gbif.org/v1/species/match?name=Grallaria%20ruficapilla&class=Aves
+LIBSRC-LIB50-ENT-BIO-2243365,scientific_identity,Grallaria milleri,https://api.gbif.org/v1/species/match?name=Grallaria%20milleri&class=Aves
+LIBSRC-LIB50-ENT-BIO-2243365,taxon_authority,"Chapman, 1912",https://api.gbif.org/v1/species/match?name=Grallaria%20milleri&class=Aves
+LIBSRC-LIB50-ENT-BIO-0654594,scientific_identity,Chrysocolaptes guttacristatus,https://api.gbif.org/v1/species/match?name=Chrysocolaptes%20guttacristatus&class=Aves
+LIBSRC-LIB50-ENT-BIO-0654594,taxon_authority,"(Tickell, 1833)",https://api.gbif.org/v1/species/match?name=Chrysocolaptes%20guttacristatus&class=Aves
+LIBSRC-LIB50-ENT-BIO-0655035,scientific_identity,Dendrocopos macei,https://api.gbif.org/v1/species/match?name=Dendrocopos%20macei&class=Aves
+LIBSRC-LIB50-ENT-BIO-0655035,taxon_authority,"(Vieillot, 1818)",https://api.gbif.org/v1/species/match?name=Dendrocopos%20macei&class=Aves
+LIBSRC-LIB50-ENT-BIO-0656134,scientific_identity,Homalopus picoides,https://api.gbif.org/v1/species/match?name=Homalopus%20picoides&class=Aves
+LIBSRC-LIB50-ENT-BIO-0656134,taxon_authority,"Milne-Edwards, 1871",https://api.gbif.org/v1/species/match?name=Homalopus%20picoides&class=Aves
+LIBSRC-LIB50-ENT-BIO-0655735,scientific_identity,Picumnus olivaceus,https://api.gbif.org/v1/species/match?name=Picumnus%20olivaceus&class=Aves
+LIBSRC-LIB50-ENT-BIO-0655735,taxon_authority,"Lafresnaye, 1845",https://api.gbif.org/v1/species/match?name=Picumnus%20olivaceus&class=Aves
+LIBSRC-LIB50-ENT-BIO-0600435,scientific_identity,Percolinus proudlocki,https://api.gbif.org/v1/species/match?name=Percolinus%20proudlocki&class=Aves
+LIBSRC-LIB50-ENT-BIO-0600435,taxon_authority,"(Harrison & Walker, 1979)",https://api.gbif.org/v1/species/match?name=Percolinus%20proudlocki&class=Aves
