@@ -1,0 +1,3 @@
+Queried Wikidata SPARQL endpoint in batches matching subject names to rdfs:label.
+Filtered for classes representing household items/furniture/cutlery.
+Extracted material_identity (P186), creator_or_attribution (P170/P176), mass (P2067), component_relationship (P527), descriptive_identity (P31/P279).
