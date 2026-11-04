@@ -1,0 +1,1129 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB36-ENT-WRD-0019481,descriptive_identity,"""cathode ray tube""",https://www.wikidata.org/wiki/Q1570706
+LIBSRC-LIB36-ENT-WRD-0019501,descriptive_identity,"""printer""",https://www.wikidata.org/wiki/Q1660218
+LIBSRC-LIB36-ENT-WRD-0019533,descriptive_identity,"""electrical element""",https://www.wikidata.org/wiki/Q5325
+LIBSRC-LIB36-ENT-WRD-0019533,descriptive_identity,"""electronic component""",https://www.wikidata.org/wiki/Q5325
+LIBSRC-LIB36-ENT-WRD-0019533,descriptive_identity,"""one-port circuit""",https://www.wikidata.org/wiki/Q5325
+LIBSRC-LIB36-ENT-WRD-0019533,descriptive_identity,"""electromagnet""",https://www.wikidata.org/wiki/Q5325
+LIBSRC-LIB36-ENT-WRD-0019533,descriptive_identity,"""passive electronic component""",https://www.wikidata.org/wiki/Q5325
+LIBSRC-LIB36-ENT-WRD-0019548,descriptive_identity,"""writing implement""",https://www.wikidata.org/wiki/Q905623
+LIBSRC-LIB36-ENT-WRD-0019549,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q120878242
+LIBSRC-LIB36-ENT-WRD-0019552,descriptive_identity,"""container""",https://www.wikidata.org/wiki/Q1160546
+LIBSRC-LIB36-ENT-WRD-0019552,descriptive_identity,"""writing implement""",https://www.wikidata.org/wiki/Q1160546
+LIBSRC-LIB36-ENT-WRD-0019552,material_identity,"""glass""",https://www.wikidata.org/wiki/Q1160546
+LIBSRC-LIB36-ENT-WRD-0019552,material_identity,"""porcelain""",https://www.wikidata.org/wiki/Q1160546
+LIBSRC-LIB36-ENT-WRD-0019552,material_identity,"""silver""",https://www.wikidata.org/wiki/Q1160546
+LIBSRC-LIB36-ENT-WRD-0019552,material_identity,"""bronze""",https://www.wikidata.org/wiki/Q1160546
+LIBSRC-LIB36-ENT-WRD-0019552,material_identity,"""lead""",https://www.wikidata.org/wiki/Q1160546
+LIBSRC-LIB36-ENT-WRD-0019552,material_identity,"""pewter""",https://www.wikidata.org/wiki/Q1160546
+LIBSRC-LIB36-ENT-WRD-0019552,material_identity,"""gold""",https://www.wikidata.org/wiki/Q1160546
+LIBSRC-LIB36-ENT-WRD-0019552,material_identity,"""stone""",https://www.wikidata.org/wiki/Q1160546
+LIBSRC-LIB36-ENT-WRD-0019654,descriptive_identity,"""literary work""",https://www.wikidata.org/wiki/Q6116759
+LIBSRC-LIB36-ENT-WRD-0019683,descriptive_identity,"""jacket""",https://www.wikidata.org/wiki/Q4227869
+LIBSRC-LIB36-ENT-WRD-0019683,component_relationship,"""wing""",https://www.wikidata.org/wiki/Q4227869
+LIBSRC-LIB36-ENT-WRD-0019683,descriptive_identity,"""part""",https://www.wikidata.org/wiki/Q4227869
+LIBSRC-LIB36-ENT-WRD-0019697,descriptive_identity,"""frame lamellophone""",https://www.wikidata.org/wiki/Q185003
+LIBSRC-LIB36-ENT-WRD-0019697,descriptive_identity,"""string instrument""",https://www.wikidata.org/wiki/Q185003
+LIBSRC-LIB36-ENT-WRD-0019697,descriptive_identity,"""family of musical instruments""",https://www.wikidata.org/wiki/Q185003
+LIBSRC-LIB36-ENT-WRD-0019709,descriptive_identity,"""male given name""",https://www.wikidata.org/wiki/Q2569062
+LIBSRC-LIB36-ENT-WRD-0019718,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37561348
+LIBSRC-LIB36-ENT-WRD-0019744,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37502296
+LIBSRC-LIB36-ENT-WRD-0019746,descriptive_identity,"""literary work""",https://www.wikidata.org/wiki/Q16386500
+LIBSRC-LIB36-ENT-WRD-0019749,descriptive_identity,"""aircraft seat""",https://www.wikidata.org/wiki/Q382835
+LIBSRC-LIB36-ENT-WRD-0019749,descriptive_identity,"""aircraft component""",https://www.wikidata.org/wiki/Q382835
+LIBSRC-LIB36-ENT-WRD-0019749,descriptive_identity,"""individual seat""",https://www.wikidata.org/wiki/Q382835
+LIBSRC-LIB36-ENT-WRD-0019797,descriptive_identity,"""input device""",https://www.wikidata.org/wiki/Q1921606
+LIBSRC-LIB36-ENT-WRD-0019797,descriptive_identity,"""board""",https://www.wikidata.org/wiki/Q1921606
+LIBSRC-LIB36-ENT-WRD-0019797,descriptive_identity,"""assembly""",https://www.wikidata.org/wiki/Q1921606
+LIBSRC-LIB36-ENT-WRD-0019797,component_relationship,"""push-button""",https://www.wikidata.org/wiki/Q1921606
+LIBSRC-LIB36-ENT-WRD-0019826,descriptive_identity,"""laboratory equipment""",https://www.wikidata.org/wiki/Q898470
+LIBSRC-LIB36-ENT-WRD-0019826,descriptive_identity,"""laboratory glassware""",https://www.wikidata.org/wiki/Q898470
+LIBSRC-LIB36-ENT-WRD-0019826,descriptive_identity,"""gas generator""",https://www.wikidata.org/wiki/Q898470
+LIBSRC-LIB36-ENT-WRD-0019845,descriptive_identity,"""aircraft lift class""",https://www.wikidata.org/wiki/Q3038478
+LIBSRC-LIB36-ENT-WRD-0019845,descriptive_identity,"""balloon""",https://www.wikidata.org/wiki/Q3038478
+LIBSRC-LIB36-ENT-WRD-0019872,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37462640
+LIBSRC-LIB36-ENT-WRD-0019879,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q135064069
+LIBSRC-LIB36-ENT-WRD-0019882,descriptive_identity,"""whip""",https://www.wikidata.org/wiki/Q2498624
+LIBSRC-LIB36-ENT-WRD-0019882,descriptive_identity,"""torture instrument""",https://www.wikidata.org/wiki/Q2498624
+LIBSRC-LIB36-ENT-WRD-0019882,descriptive_identity,"""weapon family""",https://www.wikidata.org/wiki/Q2498624
+LIBSRC-LIB36-ENT-WRD-0019884,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q1778468
+LIBSRC-LIB36-ENT-WRD-0019884,descriptive_identity,"""occupational surname""",https://www.wikidata.org/wiki/Q1778468
+LIBSRC-LIB36-ENT-WRD-0019884,descriptive_identity,"""\u00dcbername""",https://www.wikidata.org/wiki/Q1778468
+LIBSRC-LIB36-ENT-WRD-0019940,descriptive_identity,"""lighting component""",https://www.wikidata.org/wiki/Q947686
+LIBSRC-LIB36-ENT-WRD-0019940,descriptive_identity,"""shade""",https://www.wikidata.org/wiki/Q947686
+LIBSRC-LIB36-ENT-WRD-0019961,descriptive_identity,"""part""",https://www.wikidata.org/wiki/Q75930480
+LIBSRC-LIB36-ENT-WRD-0019961,descriptive_identity,"""open to the public""",https://www.wikidata.org/wiki/Q75930480
+LIBSRC-LIB36-ENT-WRD-0019982,descriptive_identity,"""printer""",https://www.wikidata.org/wiki/Q199769
+LIBSRC-LIB36-ENT-WRD-0019982,descriptive_identity,"""xerography""",https://www.wikidata.org/wiki/Q199769
+LIBSRC-LIB36-ENT-WRD-0019982,component_relationship,"""photoconductor drum""",https://www.wikidata.org/wiki/Q199769
+LIBSRC-LIB36-ENT-WRD-0019982,component_relationship,"""laser""",https://www.wikidata.org/wiki/Q199769
+LIBSRC-LIB36-ENT-WRD-0019982,component_relationship,"""toner cartridge""",https://www.wikidata.org/wiki/Q199769
+LIBSRC-LIB36-ENT-WRD-0019982,component_relationship,"""heating element""",https://www.wikidata.org/wiki/Q199769
+LIBSRC-LIB36-ENT-WRD-0020019,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q20996018
+LIBSRC-LIB36-ENT-WRD-0020049,descriptive_identity,"""breeches""",https://www.wikidata.org/wiki/Q261061
+LIBSRC-LIB36-ENT-WRD-0020049,descriptive_identity,"""shorts""",https://www.wikidata.org/wiki/Q261061
+LIBSRC-LIB36-ENT-WRD-0020049,material_identity,"""leather""",https://www.wikidata.org/wiki/Q261061
+LIBSRC-LIB36-ENT-WRD-0020066,descriptive_identity,"""commune of France""",https://www.wikidata.org/wiki/Q165271
+LIBSRC-LIB36-ENT-WRD-0020090,descriptive_identity,"""optical instrument""",https://www.wikidata.org/wiki/Q504027
+LIBSRC-LIB36-ENT-WRD-0020090,component_relationship,"""pulsed laser""",https://www.wikidata.org/wiki/Q504027
+LIBSRC-LIB36-ENT-WRD-0020129,descriptive_identity,"""spacecraft""",https://www.wikidata.org/wiki/Q136085368
+LIBSRC-LIB36-ENT-WRD-0020152,descriptive_identity,"""impact printer""",https://www.wikidata.org/wiki/Q1320033
+LIBSRC-LIB36-ENT-WRD-0020152,descriptive_identity,"""printer""",https://www.wikidata.org/wiki/Q1320033
+LIBSRC-LIB36-ENT-WRD-0020155,descriptive_identity,"""undergarment""",https://www.wikidata.org/wiki/Q855691
+LIBSRC-LIB36-ENT-WRD-0020155,component_relationship,"""undergarment""",https://www.wikidata.org/wiki/Q855691
+LIBSRC-LIB36-ENT-WRD-0020155,component_relationship,"""bra""",https://www.wikidata.org/wiki/Q855691
+LIBSRC-LIB36-ENT-WRD-0020155,component_relationship,"""corset""",https://www.wikidata.org/wiki/Q855691
+LIBSRC-LIB36-ENT-WRD-0020155,component_relationship,"""chemise""",https://www.wikidata.org/wiki/Q855691
+LIBSRC-LIB36-ENT-WRD-0020155,component_relationship,"""garter belt""",https://www.wikidata.org/wiki/Q855691
+LIBSRC-LIB36-ENT-WRD-0020155,component_relationship,"""panties""",https://www.wikidata.org/wiki/Q855691
+LIBSRC-LIB36-ENT-WRD-0020155,component_relationship,"""slip""",https://www.wikidata.org/wiki/Q855691
+LIBSRC-LIB36-ENT-WRD-0020159,manufacturer_or_creator,"""Shigeru Miyamoto""",https://www.wikidata.org/wiki/Q568553
+LIBSRC-LIB36-ENT-WRD-0020159,descriptive_identity,"""Hylian""",https://www.wikidata.org/wiki/Q568553
+LIBSRC-LIB36-ENT-WRD-0020159,descriptive_identity,"""video game character""",https://www.wikidata.org/wiki/Q568553
+LIBSRC-LIB36-ENT-WRD-0020159,descriptive_identity,"""nameable character""",https://www.wikidata.org/wiki/Q568553
+LIBSRC-LIB36-ENT-WRD-0020159,component_relationship,"""incarnation of Link""",https://www.wikidata.org/wiki/Q568553
+LIBSRC-LIB36-ENT-WRD-0020184,descriptive_identity,"""lithograph print""",https://www.wikidata.org/wiki/Q77065459
+LIBSRC-LIB36-ENT-WRD-0020184,manufacturer_or_creator,"""Emil Westerberg""",https://www.wikidata.org/wiki/Q77065459
+LIBSRC-LIB36-ENT-WRD-0020184,material_identity,"""paper""",https://www.wikidata.org/wiki/Q77065459
+LIBSRC-LIB36-ENT-WRD-0020184,material_identity,"""cardboard""",https://www.wikidata.org/wiki/Q77065459
+LIBSRC-LIB36-ENT-WRD-0020194,descriptive_identity,"""room""",https://www.wikidata.org/wiki/Q475018
+LIBSRC-LIB36-ENT-WRD-0020200,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q12795058
+LIBSRC-LIB36-ENT-WRD-0020204,descriptive_identity,"""computer network""",https://www.wikidata.org/wiki/Q11381
+LIBSRC-LIB36-ENT-WRD-0020215,descriptive_identity,"""television series""",https://www.wikidata.org/wiki/Q25207219
+LIBSRC-LIB36-ENT-WRD-0020226,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q16872410
+LIBSRC-LIB36-ENT-WRD-0020286,descriptive_identity,"""type of chemical entity""",https://www.wikidata.org/wiki/Q58614
+LIBSRC-LIB36-ENT-WRD-0020286,mass,327.114,https://www.wikidata.org/wiki/Q58614
+LIBSRC-LIB36-ENT-WRD-0020286,descriptive_identity,"""dibenzoxazepine""",https://www.wikidata.org/wiki/Q58614
+LIBSRC-LIB36-ENT-WRD-0020297,descriptive_identity,"""shelf""",https://www.wikidata.org/wiki/Q11607193
+LIBSRC-LIB36-ENT-WRD-0020310,material_identity,"""gold""",https://www.wikidata.org/wiki/Q1637151
+LIBSRC-LIB36-ENT-WRD-0020310,descriptive_identity,"""jewelry""",https://www.wikidata.org/wiki/Q1637151
+LIBSRC-LIB36-ENT-WRD-0020313,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q534406
+LIBSRC-LIB36-ENT-WRD-0020357,descriptive_identity,"""recording medium""",https://www.wikidata.org/wiki/Q5808240
+LIBSRC-LIB36-ENT-WRD-0020357,descriptive_identity,"""magnetic storage""",https://www.wikidata.org/wiki/Q5808240
+LIBSRC-LIB36-ENT-WRD-0020363,descriptive_identity,"""recording medium""",https://www.wikidata.org/wiki/Q193663
+LIBSRC-LIB36-ENT-WRD-0020363,descriptive_identity,"""machine-readable medium""",https://www.wikidata.org/wiki/Q193663
+LIBSRC-LIB36-ENT-WRD-0020363,descriptive_identity,"""magnetic memory""",https://www.wikidata.org/wiki/Q193663
+LIBSRC-LIB36-ENT-WRD-0020363,descriptive_identity,"""product""",https://www.wikidata.org/wiki/Q193663
+LIBSRC-LIB36-ENT-WRD-0020363,component_relationship,"""magnetic particle""",https://www.wikidata.org/wiki/Q193663
+LIBSRC-LIB36-ENT-WRD-0020367,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q29169128
+LIBSRC-LIB36-ENT-WRD-0020389,descriptive_identity,"""hackspace""",https://www.wikidata.org/wiki/Q134310266
+LIBSRC-LIB36-ENT-WRD-0020389,descriptive_identity,"""nonprofit organization""",https://www.wikidata.org/wiki/Q134310266
+LIBSRC-LIB36-ENT-WRD-0020395,descriptive_identity,"""musical group""",https://www.wikidata.org/wiki/Q6736742
+LIBSRC-LIB36-ENT-WRD-0020424,descriptive_identity,"""musical work/composition""",https://www.wikidata.org/wiki/Q65219511
+LIBSRC-LIB36-ENT-WRD-0020428,descriptive_identity,"""manor estate""",https://www.wikidata.org/wiki/Q2066754
+LIBSRC-LIB36-ENT-WRD-0020437,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q65109782
+LIBSRC-LIB36-ENT-WRD-0020453,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q36974282
+LIBSRC-LIB36-ENT-WRD-0020513,descriptive_identity,"""Ortsteil""",https://www.wikidata.org/wiki/Q28009258
+LIBSRC-LIB36-ENT-WRD-0020513,descriptive_identity,"""hamlet with a church""",https://www.wikidata.org/wiki/Q28009258
+LIBSRC-LIB36-ENT-WRD-0020556,descriptive_identity,"""bibliographic database""",https://www.wikidata.org/wiki/Q1540899
+LIBSRC-LIB36-ENT-WRD-0020568,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q121745552
+LIBSRC-LIB36-ENT-WRD-0020671,descriptive_identity,"""mobile charge""",https://www.wikidata.org/wiki/Q98924209
+LIBSRC-LIB36-ENT-WRD-0020674,descriptive_identity,"""chair""",https://www.wikidata.org/wiki/Q1421800
+LIBSRC-LIB36-ENT-WRD-0020686,descriptive_identity,"""stone tool""",https://www.wikidata.org/wiki/Q670985
+LIBSRC-LIB36-ENT-WRD-0020687,descriptive_identity,"""stone tool""",https://www.wikidata.org/wiki/Q670985
+LIBSRC-LIB36-ENT-WRD-0020691,descriptive_identity,"""religious tower building""",https://www.wikidata.org/wiki/Q48356
+LIBSRC-LIB36-ENT-WRD-0020707,descriptive_identity,"""computer""",https://www.wikidata.org/wiki/Q185131
+LIBSRC-LIB36-ENT-WRD-0020707,descriptive_identity,"""class of computers""",https://www.wikidata.org/wiki/Q185131
+LIBSRC-LIB36-ENT-WRD-0020718,descriptive_identity,"""civil parish""",https://www.wikidata.org/wiki/Q21993854
+LIBSRC-LIB36-ENT-WRD-0020736,descriptive_identity,"""male given name""",https://www.wikidata.org/wiki/Q104269305
+LIBSRC-LIB36-ENT-WRD-0020756,descriptive_identity,"""human""",https://www.wikidata.org/wiki/Q16977596
+LIBSRC-LIB36-ENT-WRD-0020757,descriptive_identity,"""human""",https://www.wikidata.org/wiki/Q16977596
+LIBSRC-LIB36-ENT-WRD-0020759,descriptive_identity,"""goat hair""",https://www.wikidata.org/wiki/Q179628
+LIBSRC-LIB36-ENT-WRD-0020759,descriptive_identity,"""fiber""",https://www.wikidata.org/wiki/Q179628
+LIBSRC-LIB36-ENT-WRD-0020774,descriptive_identity,"""musical group""",https://www.wikidata.org/wiki/Q16411830
+LIBSRC-LIB36-ENT-WRD-0020776,descriptive_identity,"""musical group""",https://www.wikidata.org/wiki/Q16411830
+LIBSRC-LIB36-ENT-WRD-0020788,descriptive_identity,"""drawing""",https://www.wikidata.org/wiki/Q22043450
+LIBSRC-LIB36-ENT-WRD-0020788,manufacturer_or_creator,"""James Ensor""",https://www.wikidata.org/wiki/Q22043450
+LIBSRC-LIB36-ENT-WRD-0020816,descriptive_identity,"""textile""",https://www.wikidata.org/wiki/Q696265
+LIBSRC-LIB36-ENT-WRD-0020816,descriptive_identity,"""protective device""",https://www.wikidata.org/wiki/Q696265
+LIBSRC-LIB36-ENT-WRD-0020816,descriptive_identity,"""linens""",https://www.wikidata.org/wiki/Q696265
+LIBSRC-LIB36-ENT-WRD-0020816,descriptive_identity,"""net""",https://www.wikidata.org/wiki/Q696265
+LIBSRC-LIB36-ENT-WRD-0020836,descriptive_identity,"""exercise equipment""",https://www.wikidata.org/wiki/Q223705
+LIBSRC-LIB36-ENT-WRD-0020836,descriptive_identity,"""bicycle""",https://www.wikidata.org/wiki/Q223705
+LIBSRC-LIB36-ENT-WRD-0020836,descriptive_identity,"""vehicle""",https://www.wikidata.org/wiki/Q223705
+LIBSRC-LIB36-ENT-WRD-0020842,descriptive_identity,"""push-button""",https://www.wikidata.org/wiki/Q6926048
+LIBSRC-LIB36-ENT-WRD-0020852,descriptive_identity,"""mouthpiece""",https://www.wikidata.org/wiki/Q523753
+LIBSRC-LIB36-ENT-WRD-0020885,descriptive_identity,"""GLAM""",https://www.wikidata.org/wiki/Q33506
+LIBSRC-LIB36-ENT-WRD-0020885,descriptive_identity,"""institution""",https://www.wikidata.org/wiki/Q33506
+LIBSRC-LIB36-ENT-WRD-0020885,descriptive_identity,"""venue""",https://www.wikidata.org/wiki/Q33506
+LIBSRC-LIB36-ENT-WRD-0020885,descriptive_identity,"""resource""",https://www.wikidata.org/wiki/Q33506
+LIBSRC-LIB36-ENT-WRD-0020885,descriptive_identity,"""type of institution""",https://www.wikidata.org/wiki/Q33506
+LIBSRC-LIB36-ENT-WRD-0020885,descriptive_identity,"""ambiguous Wikidata item""",https://www.wikidata.org/wiki/Q33506
+LIBSRC-LIB36-ENT-WRD-0020992,descriptive_identity,"""type of chemical entity""",https://www.wikidata.org/wiki/Q410546
+LIBSRC-LIB36-ENT-WRD-0020992,mass,223.144653,https://www.wikidata.org/wiki/Q410546
+LIBSRC-LIB36-ENT-WRD-0020992,descriptive_identity,"""quaternary ammonium cation""",https://www.wikidata.org/wiki/Q410546
+LIBSRC-LIB36-ENT-WRD-0020995,descriptive_identity,"""female given name""",https://www.wikidata.org/wiki/Q23711783
+LIBSRC-LIB36-ENT-WRD-0020997,descriptive_identity,"""business""",https://www.wikidata.org/wiki/Q1475683
+LIBSRC-LIB36-ENT-WRD-0020997,descriptive_identity,"""enterprise""",https://www.wikidata.org/wiki/Q1475683
+LIBSRC-LIB36-ENT-WRD-0020997,descriptive_identity,"""public company""",https://www.wikidata.org/wiki/Q1475683
+LIBSRC-LIB36-ENT-WRD-0021002,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q7000706
+LIBSRC-LIB36-ENT-WRD-0021014,descriptive_identity,"""software""",https://www.wikidata.org/wiki/Q2686971
+LIBSRC-LIB36-ENT-WRD-0021044,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q105180965
+LIBSRC-LIB36-ENT-WRD-0021073,descriptive_identity,"""volume""",https://www.wikidata.org/wiki/Q43013
+LIBSRC-LIB36-ENT-WRD-0021073,descriptive_identity,"""stationery""",https://www.wikidata.org/wiki/Q43013
+LIBSRC-LIB36-ENT-WRD-0021073,descriptive_identity,"""product""",https://www.wikidata.org/wiki/Q43013
+LIBSRC-LIB36-ENT-WRD-0021073,component_relationship,"""leaf""",https://www.wikidata.org/wiki/Q43013
+LIBSRC-LIB36-ENT-WRD-0021073,component_relationship,"""ruled paper""",https://www.wikidata.org/wiki/Q43013
+LIBSRC-LIB36-ENT-WRD-0021073,component_relationship,"""perforation""",https://www.wikidata.org/wiki/Q43013
+LIBSRC-LIB36-ENT-WRD-0021073,component_relationship,"""book cover""",https://www.wikidata.org/wiki/Q43013
+LIBSRC-LIB36-ENT-WRD-0021073,component_relationship,"""binding""",https://www.wikidata.org/wiki/Q43013
+LIBSRC-LIB36-ENT-WRD-0021107,descriptive_identity,"""work of art""",https://www.wikidata.org/wiki/Q7075109
+LIBSRC-LIB36-ENT-WRD-0021107,descriptive_identity,"""manufactured good""",https://www.wikidata.org/wiki/Q7075109
+LIBSRC-LIB36-ENT-WRD-0021115,descriptive_identity,"""physical object""",https://www.wikidata.org/wiki/Q264661
+LIBSRC-LIB36-ENT-WRD-0021126,descriptive_identity,"""building""",https://www.wikidata.org/wiki/Q1021645
+LIBSRC-LIB36-ENT-WRD-0021126,descriptive_identity,"""economic concept""",https://www.wikidata.org/wiki/Q1021645
+LIBSRC-LIB36-ENT-WRD-0021126,descriptive_identity,"""type of building""",https://www.wikidata.org/wiki/Q1021645
+LIBSRC-LIB36-ENT-WRD-0021143,descriptive_identity,"""painting technique""",https://www.wikidata.org/wiki/Q174705
+LIBSRC-LIB36-ENT-WRD-0021143,descriptive_identity,"""painting""",https://www.wikidata.org/wiki/Q174705
+LIBSRC-LIB36-ENT-WRD-0021148,descriptive_identity,"""painting""",https://www.wikidata.org/wiki/Q20862269
+LIBSRC-LIB36-ENT-WRD-0021148,manufacturer_or_creator,"""Loren MacIver""",https://www.wikidata.org/wiki/Q20862269
+LIBSRC-LIB36-ENT-WRD-0021148,material_identity,"""oil paint""",https://www.wikidata.org/wiki/Q20862269
+LIBSRC-LIB36-ENT-WRD-0021148,material_identity,"""canvas""",https://www.wikidata.org/wiki/Q20862269
+LIBSRC-LIB36-ENT-WRD-0021150,descriptive_identity,"""oil tanker""",https://www.wikidata.org/wiki/Q14928
+LIBSRC-LIB36-ENT-WRD-0021150,descriptive_identity,"""ship type""",https://www.wikidata.org/wiki/Q14928
+LIBSRC-LIB36-ENT-WRD-0021163,descriptive_identity,"""art movement""",https://www.wikidata.org/wiki/Q182331
+LIBSRC-LIB36-ENT-WRD-0021213,descriptive_identity,"""costume component""",https://www.wikidata.org/wiki/Q7104012
+LIBSRC-LIB36-ENT-WRD-0021222,descriptive_identity,"""film production company""",https://www.wikidata.org/wiki/Q3886493
+LIBSRC-LIB36-ENT-WRD-0021222,descriptive_identity,"""film distributor""",https://www.wikidata.org/wiki/Q3886493
+LIBSRC-LIB36-ENT-WRD-0021239,descriptive_identity,"""result""",https://www.wikidata.org/wiki/Q1150771
+LIBSRC-LIB36-ENT-WRD-0021240,descriptive_identity,"""input-output device""",https://www.wikidata.org/wiki/Q778637
+LIBSRC-LIB36-ENT-WRD-0021240,descriptive_identity,"""user interface""",https://www.wikidata.org/wiki/Q778637
+LIBSRC-LIB36-ENT-WRD-0021264,descriptive_identity,"""decorating""",https://www.wikidata.org/wiki/Q110008369
+LIBSRC-LIB36-ENT-WRD-0021264,descriptive_identity,"""textile process""",https://www.wikidata.org/wiki/Q110008369
+LIBSRC-LIB36-ENT-WRD-0021321,descriptive_identity,"""business""",https://www.wikidata.org/wiki/Q140991423
+LIBSRC-LIB36-ENT-WRD-0021365,descriptive_identity,"""ship canal""",https://www.wikidata.org/wiki/Q7350
+LIBSRC-LIB36-ENT-WRD-0021365,component_relationship,"""Panama Canal locks""",https://www.wikidata.org/wiki/Q7350
+LIBSRC-LIB36-ENT-WRD-0021365,dimension_length,82.0,https://www.wikidata.org/wiki/Q7350
+LIBSRC-LIB36-ENT-WRD-0021405,material_identity,"""steel""",https://www.wikidata.org/wiki/Q8353
+LIBSRC-LIB36-ENT-WRD-0021405,descriptive_identity,"""clip""",https://www.wikidata.org/wiki/Q8353
+LIBSRC-LIB36-ENT-WRD-0021405,descriptive_identity,"""stationery""",https://www.wikidata.org/wiki/Q8353
+LIBSRC-LIB36-ENT-WRD-0021418,descriptive_identity,"""electrical circuit""",https://www.wikidata.org/wiki/Q302489
+LIBSRC-LIB36-ENT-WRD-0021418,descriptive_identity,"""series and parallel circuits""",https://www.wikidata.org/wiki/Q302489
+LIBSRC-LIB36-ENT-WRD-0021451,descriptive_identity,"""blazonry""",https://www.wikidata.org/wiki/Q260703
+LIBSRC-LIB36-ENT-WRD-0021451,descriptive_identity,"""Commons gallery""",https://www.wikidata.org/wiki/Q260703
+LIBSRC-LIB36-ENT-WRD-0021451,descriptive_identity,"""heraldic terminology""",https://www.wikidata.org/wiki/Q260703
+LIBSRC-LIB36-ENT-WRD-0021454,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q112662827
+LIBSRC-LIB36-ENT-WRD-0021483,descriptive_identity,"""female given name""",https://www.wikidata.org/wiki/Q26266255
+LIBSRC-LIB36-ENT-WRD-0021508,descriptive_identity,"""toy weapon""",https://www.wikidata.org/wiki/Q2683464
+LIBSRC-LIB36-ENT-WRD-0021533,descriptive_identity,"""writing implement""",https://www.wikidata.org/wiki/Q165447
+LIBSRC-LIB36-ENT-WRD-0021533,descriptive_identity,"""drawing instrument""",https://www.wikidata.org/wiki/Q165447
+LIBSRC-LIB36-ENT-WRD-0021533,descriptive_identity,"""pen-shape writing instrument""",https://www.wikidata.org/wiki/Q165447
+LIBSRC-LIB36-ENT-WRD-0021533,descriptive_identity,"""utensil""",https://www.wikidata.org/wiki/Q165447
+LIBSRC-LIB36-ENT-WRD-0021559,descriptive_identity,"""flashlight""",https://www.wikidata.org/wiki/Q3243836
+LIBSRC-LIB36-ENT-WRD-0021562,descriptive_identity,"""webcomic""",https://www.wikidata.org/wiki/Q2069159
+LIBSRC-LIB36-ENT-WRD-0021634,descriptive_identity,"""audio disc""",https://www.wikidata.org/wiki/Q16629185
+LIBSRC-LIB36-ENT-WRD-0021634,descriptive_identity,"""record""",https://www.wikidata.org/wiki/Q16629185
+LIBSRC-LIB36-ENT-WRD-0021634,material_identity,"""polyvinyl chloride""",https://www.wikidata.org/wiki/Q16629185
+LIBSRC-LIB36-ENT-WRD-0021634,material_identity,"""shellac""",https://www.wikidata.org/wiki/Q16629185
+LIBSRC-LIB36-ENT-WRD-0021634,component_relationship,"""A-side""",https://www.wikidata.org/wiki/Q16629185
+LIBSRC-LIB36-ENT-WRD-0021634,component_relationship,"""B-side""",https://www.wikidata.org/wiki/Q16629185
+LIBSRC-LIB36-ENT-WRD-0021634,descriptive_identity,"""audio release format""",https://www.wikidata.org/wiki/Q16629185
+LIBSRC-LIB36-ENT-WRD-0021642,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q488053
+LIBSRC-LIB36-ENT-WRD-0021642,descriptive_identity,"""collection""",https://www.wikidata.org/wiki/Q488053
+LIBSRC-LIB36-ENT-WRD-0021658,descriptive_identity,"""wire""",https://www.wikidata.org/wiki/Q2727963
+LIBSRC-LIB36-ENT-WRD-0021658,descriptive_identity,"""string""",https://www.wikidata.org/wiki/Q2727963
+LIBSRC-LIB36-ENT-WRD-0021664,descriptive_identity,"""military unit""",https://www.wikidata.org/wiki/Q1388729
+LIBSRC-LIB36-ENT-WRD-0021701,descriptive_identity,"""decoration""",https://www.wikidata.org/wiki/Q175112
+LIBSRC-LIB36-ENT-WRD-0021701,descriptive_identity,"""Q136462771""",https://www.wikidata.org/wiki/Q175112
+LIBSRC-LIB36-ENT-WRD-0021701,component_relationship,"""capital""",https://www.wikidata.org/wiki/Q175112
+LIBSRC-LIB36-ENT-WRD-0021701,component_relationship,"""base""",https://www.wikidata.org/wiki/Q175112
+LIBSRC-LIB36-ENT-WRD-0021732,descriptive_identity,"""commune of France""",https://www.wikidata.org/wiki/Q902545
+LIBSRC-LIB36-ENT-WRD-0021744,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37495661
+LIBSRC-LIB36-ENT-WRD-0021765,descriptive_identity,"""physical tool""",https://www.wikidata.org/wiki/Q3355092
+LIBSRC-LIB36-ENT-WRD-0021765,descriptive_identity,"""cleaning tool""",https://www.wikidata.org/wiki/Q3355092
+LIBSRC-LIB36-ENT-WRD-0021765,descriptive_identity,"""smoking equipment""",https://www.wikidata.org/wiki/Q3355092
+LIBSRC-LIB36-ENT-WRD-0021768,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q7197263
+LIBSRC-LIB36-ENT-WRD-0021807,descriptive_identity,"""scientific control""",https://www.wikidata.org/wiki/Q269829
+LIBSRC-LIB36-ENT-WRD-0021807,descriptive_identity,"""medication""",https://www.wikidata.org/wiki/Q269829
+LIBSRC-LIB36-ENT-WRD-0021807,descriptive_identity,"""therapy""",https://www.wikidata.org/wiki/Q269829
+LIBSRC-LIB36-ENT-WRD-0021807,descriptive_identity,"""simulacrum""",https://www.wikidata.org/wiki/Q269829
+LIBSRC-LIB36-ENT-WRD-0021807,descriptive_identity,"""medical procedure""",https://www.wikidata.org/wiki/Q269829
+LIBSRC-LIB36-ENT-WRD-0021821,descriptive_identity,"""venue""",https://www.wikidata.org/wiki/Q148319
+LIBSRC-LIB36-ENT-WRD-0021821,descriptive_identity,"""cultural building""",https://www.wikidata.org/wiki/Q148319
+LIBSRC-LIB36-ENT-WRD-0021862,descriptive_identity,"""fixed construction""",https://www.wikidata.org/wiki/Q64896574
+LIBSRC-LIB36-ENT-WRD-0021862,descriptive_identity,"""transport infrastructure""",https://www.wikidata.org/wiki/Q64896574
+LIBSRC-LIB36-ENT-WRD-0021862,descriptive_identity,"""elevated structure""",https://www.wikidata.org/wiki/Q64896574
+LIBSRC-LIB36-ENT-WRD-0021867,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q1760819
+LIBSRC-LIB36-ENT-WRD-0021883,descriptive_identity,"""printer""",https://www.wikidata.org/wiki/Q193255
+LIBSRC-LIB36-ENT-WRD-0021897,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q36995988
+LIBSRC-LIB36-ENT-WRD-0021907,descriptive_identity,"""WHO essential medicines""",https://www.wikidata.org/wiki/Q14538008
+LIBSRC-LIB36-ENT-WRD-0021907,descriptive_identity,"""vaccine type""",https://www.wikidata.org/wiki/Q14538008
+LIBSRC-LIB36-ENT-WRD-0021907,descriptive_identity,"""public health""",https://www.wikidata.org/wiki/Q14538008
+LIBSRC-LIB36-ENT-WRD-0021907,descriptive_identity,"""streptococcal vaccines""",https://www.wikidata.org/wiki/Q14538008
+LIBSRC-LIB36-ENT-WRD-0021923,descriptive_identity,"""promontory""",https://www.wikidata.org/wiki/Q24529780
+LIBSRC-LIB36-ENT-WRD-0021923,descriptive_identity,"""landform""",https://www.wikidata.org/wiki/Q24529780
+LIBSRC-LIB36-ENT-WRD-0021943,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q85559098
+LIBSRC-LIB36-ENT-WRD-0021967,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37529168
+LIBSRC-LIB36-ENT-WRD-0021977,descriptive_identity,"""art movement""",https://www.wikidata.org/wiki/Q134147
+LIBSRC-LIB36-ENT-WRD-0021977,descriptive_identity,"""architectural style""",https://www.wikidata.org/wiki/Q134147
+LIBSRC-LIB36-ENT-WRD-0022053,descriptive_identity,"""website""",https://www.wikidata.org/wiki/Q7236344
+LIBSRC-LIB36-ENT-WRD-0022066,descriptive_identity,"""army headquarters""",https://www.wikidata.org/wiki/Q1309666
+LIBSRC-LIB36-ENT-WRD-0022066,descriptive_identity,"""headquarters""",https://www.wikidata.org/wiki/Q1309666
+LIBSRC-LIB36-ENT-WRD-0022066,descriptive_identity,"""ancient Roman structure""",https://www.wikidata.org/wiki/Q1309666
+LIBSRC-LIB36-ENT-WRD-0022066,descriptive_identity,"""dwelling""",https://www.wikidata.org/wiki/Q1309666
+LIBSRC-LIB36-ENT-WRD-0022066,descriptive_identity,"""castrum""",https://www.wikidata.org/wiki/Q1309666
+LIBSRC-LIB36-ENT-WRD-0022066,descriptive_identity,"""government building""",https://www.wikidata.org/wiki/Q1309666
+LIBSRC-LIB36-ENT-WRD-0022108,descriptive_identity,"""profession""",https://www.wikidata.org/wiki/Q175151
+LIBSRC-LIB36-ENT-WRD-0022108,descriptive_identity,"""occupation group according to ISCO-08""",https://www.wikidata.org/wiki/Q175151
+LIBSRC-LIB36-ENT-WRD-0022108,descriptive_identity,"""skilled worker""",https://www.wikidata.org/wiki/Q175151
+LIBSRC-LIB36-ENT-WRD-0022108,descriptive_identity,"""printing trades workers""",https://www.wikidata.org/wiki/Q175151
+LIBSRC-LIB36-ENT-WRD-0022130,descriptive_identity,"""surjective function""",https://www.wikidata.org/wiki/Q13415428
+LIBSRC-LIB36-ENT-WRD-0022130,descriptive_identity,"""function""",https://www.wikidata.org/wiki/Q13415428
+LIBSRC-LIB36-ENT-WRD-0022130,descriptive_identity,"""idempotent function""",https://www.wikidata.org/wiki/Q13415428
+LIBSRC-LIB36-ENT-WRD-0022130,descriptive_identity,"""geometric concept""",https://www.wikidata.org/wiki/Q13415428
+LIBSRC-LIB36-ENT-WRD-0022132,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q1535990
+LIBSRC-LIB36-ENT-WRD-0022141,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q111849557
+LIBSRC-LIB36-ENT-WRD-0022163,descriptive_identity,"""Star Trek episode""",https://www.wikidata.org/wiki/Q3177733
+LIBSRC-LIB36-ENT-WRD-0022220,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37488009
+LIBSRC-LIB36-ENT-WRD-0022301,descriptive_identity,"""canal""",https://www.wikidata.org/wiki/Q7279041
+LIBSRC-LIB36-ENT-WRD-0022323,descriptive_identity,"""industry""",https://www.wikidata.org/wiki/Q872
+LIBSRC-LIB36-ENT-WRD-0022323,descriptive_identity,"""technology""",https://www.wikidata.org/wiki/Q872
+LIBSRC-LIB36-ENT-WRD-0022323,component_relationship,"""radio transmitter""",https://www.wikidata.org/wiki/Q872
+LIBSRC-LIB36-ENT-WRD-0022323,component_relationship,"""radio receiver""",https://www.wikidata.org/wiki/Q872
+LIBSRC-LIB36-ENT-WRD-0022323,component_relationship,"""modulator""",https://www.wikidata.org/wiki/Q872
+LIBSRC-LIB36-ENT-WRD-0022323,component_relationship,"""antenna""",https://www.wikidata.org/wiki/Q872
+LIBSRC-LIB36-ENT-WRD-0022323,component_relationship,"""broadcast receiver""",https://www.wikidata.org/wiki/Q872
+LIBSRC-LIB36-ENT-WRD-0022323,descriptive_identity,"""telecommunications""",https://www.wikidata.org/wiki/Q872
+LIBSRC-LIB36-ENT-WRD-0022323,descriptive_identity,"""broadcasting""",https://www.wikidata.org/wiki/Q872
+LIBSRC-LIB36-ENT-WRD-0022343,descriptive_identity,"""built structure""",https://www.wikidata.org/wiki/Q659994
+LIBSRC-LIB36-ENT-WRD-0022343,descriptive_identity,"""housing""",https://www.wikidata.org/wiki/Q659994
+LIBSRC-LIB36-ENT-WRD-0022343,descriptive_identity,"""sphere""",https://www.wikidata.org/wiki/Q659994
+LIBSRC-LIB36-ENT-WRD-0022385,descriptive_identity,"""volatile storage""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,descriptive_identity,"""computer hardware""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,manufacturer_or_creator,"""Micron Technology""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,manufacturer_or_creator,"""Samsung Electronics""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,manufacturer_or_creator,"""Kingston Technology""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,manufacturer_or_creator,"""Q552969""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,manufacturer_or_creator,"""Mushkin""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,descriptive_identity,"""type of computer memory or storage""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,component_relationship,"""static random-access memory""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,component_relationship,"""dynamic random-access memory""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,component_relationship,"""SDR SDRAM""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,component_relationship,"""DDR SDRAM""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,component_relationship,"""RDRAM""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,component_relationship,"""DDR2 SDRAM""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,component_relationship,"""DDR3 SDRAM""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,component_relationship,"""DDR4 SDRAM""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,component_relationship,"""DDR5 SDRAM""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,component_relationship,"""LPDDR2""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,component_relationship,"""LPDDR3""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,component_relationship,"""Q17619409""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,component_relationship,"""Q107545378""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,component_relationship,"""Q137925595""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,component_relationship,"""Q125209195""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022385,component_relationship,"""LPDDR""",https://www.wikidata.org/wiki/Q5295
+LIBSRC-LIB36-ENT-WRD-0022386,descriptive_identity,"""region""",https://www.wikidata.org/wiki/Q4257161
+LIBSRC-LIB36-ENT-WRD-0022387,descriptive_identity,"""measuring instrument""",https://www.wikidata.org/wiki/Q1643652
+LIBSRC-LIB36-ENT-WRD-0022387,descriptive_identity,"""measuring tools & sensor""",https://www.wikidata.org/wiki/Q1643652
+LIBSRC-LIB36-ENT-WRD-0022387,descriptive_identity,"""product category""",https://www.wikidata.org/wiki/Q1643652
+LIBSRC-LIB36-ENT-WRD-0022396,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q135452912
+LIBSRC-LIB36-ENT-WRD-0022404,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37528289
+LIBSRC-LIB36-ENT-WRD-0022416,descriptive_identity,"""online magazine""",https://www.wikidata.org/wiki/Q18353448
+LIBSRC-LIB36-ENT-WRD-0022416,descriptive_identity,"""publishing house""",https://www.wikidata.org/wiki/Q18353448
+LIBSRC-LIB36-ENT-WRD-0022424,descriptive_identity,"""clothing""",https://www.wikidata.org/wiki/Q2912428
+LIBSRC-LIB36-ENT-WRD-0022424,descriptive_identity,"""commercial off-the-shelf product""",https://www.wikidata.org/wiki/Q2912428
+LIBSRC-LIB36-ENT-WRD-0022428,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37499018
+LIBSRC-LIB36-ENT-WRD-0022433,descriptive_identity,"""blanket""",https://www.wikidata.org/wiki/Q655245
+LIBSRC-LIB36-ENT-WRD-0022433,material_identity,"""silk""",https://www.wikidata.org/wiki/Q655245
+LIBSRC-LIB36-ENT-WRD-0022433,material_identity,"""cotton""",https://www.wikidata.org/wiki/Q655245
+LIBSRC-LIB36-ENT-WRD-0022433,material_identity,"""wool""",https://www.wikidata.org/wiki/Q655245
+LIBSRC-LIB36-ENT-WRD-0022433,material_identity,"""acrylic fiber""",https://www.wikidata.org/wiki/Q655245
+LIBSRC-LIB36-ENT-WRD-0022434,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q13424033
+LIBSRC-LIB36-ENT-WRD-0022436,descriptive_identity,"""plant structure""",https://www.wikidata.org/wiki/Q497512
+LIBSRC-LIB36-ENT-WRD-0022477,descriptive_identity,"""single""",https://www.wikidata.org/wiki/Q7307188
+LIBSRC-LIB36-ENT-WRD-0022483,descriptive_identity,"""camera""",https://www.wikidata.org/wiki/Q2858617
+LIBSRC-LIB36-ENT-WRD-0022540,descriptive_identity,"""device""",https://www.wikidata.org/wiki/Q349669
+LIBSRC-LIB36-ENT-WRD-0022622,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q21450476
+LIBSRC-LIB36-ENT-WRD-0022626,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q17019066
+LIBSRC-LIB36-ENT-WRD-0022629,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q21488339
+LIBSRC-LIB36-ENT-WRD-0022642,descriptive_identity,"""building material""",https://www.wikidata.org/wiki/Q1049667
+LIBSRC-LIB36-ENT-WRD-0022642,descriptive_identity,"""physical surface""",https://www.wikidata.org/wiki/Q1049667
+LIBSRC-LIB36-ENT-WRD-0022642,descriptive_identity,"""paver""",https://www.wikidata.org/wiki/Q1049667
+LIBSRC-LIB36-ENT-WRD-0022642,component_relationship,"""paved road surface""",https://www.wikidata.org/wiki/Q1049667
+LIBSRC-LIB36-ENT-WRD-0022642,descriptive_identity,"""property""",https://www.wikidata.org/wiki/Q1049667
+LIBSRC-LIB36-ENT-WRD-0022642,descriptive_identity,"""type of object""",https://www.wikidata.org/wiki/Q1049667
+LIBSRC-LIB36-ENT-WRD-0022651,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37026592
+LIBSRC-LIB36-ENT-WRD-0022653,descriptive_identity,"""lever""",https://www.wikidata.org/wiki/Q388582
+LIBSRC-LIB36-ENT-WRD-0022684,descriptive_identity,"""address book""",https://www.wikidata.org/wiki/Q1476656
+LIBSRC-LIB36-ENT-WRD-0022689,descriptive_identity,"""tribune""",https://www.wikidata.org/wiki/Q837995
+LIBSRC-LIB36-ENT-WRD-0022689,descriptive_identity,"""screen""",https://www.wikidata.org/wiki/Q837995
+LIBSRC-LIB36-ENT-WRD-0022689,descriptive_identity,"""church element""",https://www.wikidata.org/wiki/Q837995
+LIBSRC-LIB36-ENT-WRD-0022689,descriptive_identity,"""choir""",https://www.wikidata.org/wiki/Q837995
+LIBSRC-LIB36-ENT-WRD-0022702,descriptive_identity,"""simple suspension bridge""",https://www.wikidata.org/wiki/Q157942
+LIBSRC-LIB36-ENT-WRD-0022702,descriptive_identity,"""type of bridge by structure""",https://www.wikidata.org/wiki/Q157942
+LIBSRC-LIB36-ENT-WRD-0022707,descriptive_identity,"""prayer beads""",https://www.wikidata.org/wiki/Q132539
+LIBSRC-LIB36-ENT-WRD-0022707,descriptive_identity,"""Marian devotion""",https://www.wikidata.org/wiki/Q132539
+LIBSRC-LIB36-ENT-WRD-0022707,component_relationship,"""Mysteries of the Rosary""",https://www.wikidata.org/wiki/Q132539
+LIBSRC-LIB36-ENT-WRD-0022707,component_relationship,"""Lord's Prayer""",https://www.wikidata.org/wiki/Q132539
+LIBSRC-LIB36-ENT-WRD-0022707,component_relationship,"""Hail Mary""",https://www.wikidata.org/wiki/Q132539
+LIBSRC-LIB36-ENT-WRD-0022707,component_relationship,"""Gloria Patri""",https://www.wikidata.org/wiki/Q132539
+LIBSRC-LIB36-ENT-WRD-0022707,component_relationship,"""Apostles' Creed""",https://www.wikidata.org/wiki/Q132539
+LIBSRC-LIB36-ENT-WRD-0022707,component_relationship,"""sign of the cross""",https://www.wikidata.org/wiki/Q132539
+LIBSRC-LIB36-ENT-WRD-0022707,descriptive_identity,"""Prayer in the Catholic Church""",https://www.wikidata.org/wiki/Q132539
+LIBSRC-LIB36-ENT-WRD-0022715,descriptive_identity,"""actuator""",https://www.wikidata.org/wiki/Q7370260
+LIBSRC-LIB36-ENT-WRD-0022720,descriptive_identity,"""grilling""",https://www.wikidata.org/wiki/Q22847
+LIBSRC-LIB36-ENT-WRD-0022720,descriptive_identity,"""food""",https://www.wikidata.org/wiki/Q22847
+LIBSRC-LIB36-ENT-WRD-0022720,descriptive_identity,"""dish""",https://www.wikidata.org/wiki/Q22847
+LIBSRC-LIB36-ENT-WRD-0022720,material_identity,"""meat""",https://www.wikidata.org/wiki/Q22847
+LIBSRC-LIB36-ENT-WRD-0022720,material_identity,"""vegetable""",https://www.wikidata.org/wiki/Q22847
+LIBSRC-LIB36-ENT-WRD-0022720,material_identity,"""food ingredient""",https://www.wikidata.org/wiki/Q22847
+LIBSRC-LIB36-ENT-WRD-0022720,descriptive_identity,"""food preparation technique""",https://www.wikidata.org/wiki/Q22847
+LIBSRC-LIB36-ENT-WRD-0022746,descriptive_identity,"""plane""",https://www.wikidata.org/wiki/Q1987909
+LIBSRC-LIB36-ENT-WRD-0022746,component_relationship,"""handle""",https://www.wikidata.org/wiki/Q1987909
+LIBSRC-LIB36-ENT-WRD-0022746,component_relationship,"""plane iron""",https://www.wikidata.org/wiki/Q1987909
+LIBSRC-LIB36-ENT-WRD-0022801,descriptive_identity,"""woven fabric""",https://www.wikidata.org/wiki/Q7396816
+LIBSRC-LIB36-ENT-WRD-0022801,material_identity,"""cotton""",https://www.wikidata.org/wiki/Q7396816
+LIBSRC-LIB36-ENT-WRD-0022801,material_identity,"""linen""",https://www.wikidata.org/wiki/Q7396816
+LIBSRC-LIB36-ENT-WRD-0022801,material_identity,"""goat hair""",https://www.wikidata.org/wiki/Q7396816
+LIBSRC-LIB36-ENT-WRD-0022817,descriptive_identity,"""book series""",https://www.wikidata.org/wiki/Q7398571
+LIBSRC-LIB36-ENT-WRD-0022817,component_relationship,"""Off Armageddon Reef""",https://www.wikidata.org/wiki/Q7398571
+LIBSRC-LIB36-ENT-WRD-0022817,component_relationship,"""By Schism Rent Asunder""",https://www.wikidata.org/wiki/Q7398571
+LIBSRC-LIB36-ENT-WRD-0022817,component_relationship,"""By Heresies Distressed""",https://www.wikidata.org/wiki/Q7398571
+LIBSRC-LIB36-ENT-WRD-0022817,component_relationship,"""A Mighty Fortress""",https://www.wikidata.org/wiki/Q7398571
+LIBSRC-LIB36-ENT-WRD-0022864,descriptive_identity,"""home appliance""",https://www.wikidata.org/wiki/Q224418
+LIBSRC-LIB36-ENT-WRD-0022864,descriptive_identity,"""beverage urn""",https://www.wikidata.org/wiki/Q224418
+LIBSRC-LIB36-ENT-WRD-0022867,descriptive_identity,"""scientific concept""",https://www.wikidata.org/wiki/Q141748032
+LIBSRC-LIB36-ENT-WRD-0022867,descriptive_identity,"""measuring point""",https://www.wikidata.org/wiki/Q141748032
+LIBSRC-LIB36-ENT-WRD-0022878,descriptive_identity,"""advertising medium""",https://www.wikidata.org/wiki/Q690700
+LIBSRC-LIB36-ENT-WRD-0022895,descriptive_identity,"""broadcasting""",https://www.wikidata.org/wiki/Q209588
+LIBSRC-LIB36-ENT-WRD-0022921,descriptive_identity,"""product""",https://www.wikidata.org/wiki/Q233320
+LIBSRC-LIB36-ENT-WRD-0022935,descriptive_identity,"""music track with vocals""",https://www.wikidata.org/wiki/Q67203333
+LIBSRC-LIB36-ENT-WRD-0022967,descriptive_identity,"""fortification""",https://www.wikidata.org/wiki/Q91203
+LIBSRC-LIB36-ENT-WRD-0022967,descriptive_identity,"""archaeological site""",https://www.wikidata.org/wiki/Q91203
+LIBSRC-LIB36-ENT-WRD-0022985,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37489346
+LIBSRC-LIB36-ENT-WRD-0022991,descriptive_identity,"""animated character""",https://www.wikidata.org/wiki/Q135402143
+LIBSRC-LIB36-ENT-WRD-0022991,descriptive_identity,"""fictional lion""",https://www.wikidata.org/wiki/Q135402143
+LIBSRC-LIB36-ENT-WRD-0023021,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q123457512
+LIBSRC-LIB36-ENT-WRD-0023034,descriptive_identity,"""magazine""",https://www.wikidata.org/wiki/Q787345
+LIBSRC-LIB36-ENT-WRD-0023060,descriptive_identity,"""technical system""",https://www.wikidata.org/wiki/Q95722120
+LIBSRC-LIB36-ENT-WRD-0023060,descriptive_identity,"""security technology""",https://www.wikidata.org/wiki/Q95722120
+LIBSRC-LIB36-ENT-WRD-0023060,descriptive_identity,"""type of system""",https://www.wikidata.org/wiki/Q95722120
+LIBSRC-LIB36-ENT-WRD-0023060,descriptive_identity,"""sociotechnical system""",https://www.wikidata.org/wiki/Q95722120
+LIBSRC-LIB36-ENT-WRD-0023060,component_relationship,"""security camera""",https://www.wikidata.org/wiki/Q95722120
+LIBSRC-LIB36-ENT-WRD-0023060,component_relationship,"""warning""",https://www.wikidata.org/wiki/Q95722120
+LIBSRC-LIB36-ENT-WRD-0023060,component_relationship,"""sensor""",https://www.wikidata.org/wiki/Q95722120
+LIBSRC-LIB36-ENT-WRD-0023060,component_relationship,"""control panel""",https://www.wikidata.org/wiki/Q95722120
+LIBSRC-LIB36-ENT-WRD-0023060,component_relationship,"""access control""",https://www.wikidata.org/wiki/Q95722120
+LIBSRC-LIB36-ENT-WRD-0023071,descriptive_identity,"""arch""",https://www.wikidata.org/wiki/Q2767147
+LIBSRC-LIB36-ENT-WRD-0023071,descriptive_identity,"""architectural element""",https://www.wikidata.org/wiki/Q2767147
+LIBSRC-LIB36-ENT-WRD-0023093,descriptive_identity,"""electronic component""",https://www.wikidata.org/wiki/Q175805
+LIBSRC-LIB36-ENT-WRD-0023093,material_identity,"""semiconductor""",https://www.wikidata.org/wiki/Q175805
+LIBSRC-LIB36-ENT-WRD-0023093,material_identity,"""dopant""",https://www.wikidata.org/wiki/Q175805
+LIBSRC-LIB36-ENT-WRD-0023124,descriptive_identity,"""male given name""",https://www.wikidata.org/wiki/Q10666489
+LIBSRC-LIB36-ENT-WRD-0023128,descriptive_identity,"""ball kick""",https://www.wikidata.org/wiki/Q767411
+LIBSRC-LIB36-ENT-WRD-0023128,descriptive_identity,"""start of gameplay""",https://www.wikidata.org/wiki/Q767411
+LIBSRC-LIB36-ENT-WRD-0023128,descriptive_identity,"""situation""",https://www.wikidata.org/wiki/Q767411
+LIBSRC-LIB36-ENT-WRD-0023147,descriptive_identity,"""physical tool""",https://www.wikidata.org/wiki/Q142690
+LIBSRC-LIB36-ENT-WRD-0023147,descriptive_identity,"""needle""",https://www.wikidata.org/wiki/Q142690
+LIBSRC-LIB36-ENT-WRD-0023156,descriptive_identity,"""television series episode""",https://www.wikidata.org/wiki/Q51236355
+LIBSRC-LIB36-ENT-WRD-0023178,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q135049788
+LIBSRC-LIB36-ENT-WRD-0023189,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37506947
+LIBSRC-LIB36-ENT-WRD-0023272,descriptive_identity,"""vehicle without engine""",https://www.wikidata.org/wiki/Q796894
+LIBSRC-LIB36-ENT-WRD-0023272,material_identity,"""metal""",https://www.wikidata.org/wiki/Q796894
+LIBSRC-LIB36-ENT-WRD-0023272,material_identity,"""plastic""",https://www.wikidata.org/wiki/Q796894
+LIBSRC-LIB36-ENT-WRD-0023275,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q52361819
+LIBSRC-LIB36-ENT-WRD-0023326,descriptive_identity,"""tent""",https://www.wikidata.org/wiki/Q604104
+LIBSRC-LIB36-ENT-WRD-0023336,descriptive_identity,"""church chapel""",https://www.wikidata.org/wiki/Q2682988
+LIBSRC-LIB36-ENT-WRD-0023336,descriptive_identity,"""church element""",https://www.wikidata.org/wiki/Q2682988
+LIBSRC-LIB36-ENT-WRD-0023336,descriptive_identity,"""chapel""",https://www.wikidata.org/wiki/Q2682988
+LIBSRC-LIB36-ENT-WRD-0023336,descriptive_identity,"""auxiliary chapel""",https://www.wikidata.org/wiki/Q2682988
+LIBSRC-LIB36-ENT-WRD-0023336,descriptive_identity,"""Christian religious building space""",https://www.wikidata.org/wiki/Q2682988
+LIBSRC-LIB36-ENT-WRD-0023371,descriptive_identity,"""print""",https://www.wikidata.org/wiki/Q48244779
+LIBSRC-LIB36-ENT-WRD-0023371,manufacturer_or_creator,"""Rob Scholte""",https://www.wikidata.org/wiki/Q48244779
+LIBSRC-LIB36-ENT-WRD-0023401,descriptive_identity,"""nautical term""",https://www.wikidata.org/wiki/Q923085
+LIBSRC-LIB36-ENT-WRD-0023413,descriptive_identity,"""cryptographic hash function""",https://www.wikidata.org/wiki/Q1142190
+LIBSRC-LIB36-ENT-WRD-0023435,descriptive_identity,"""painting""",https://www.wikidata.org/wiki/Q20490241
+LIBSRC-LIB36-ENT-WRD-0023435,manufacturer_or_creator,"""William H. Johnson""",https://www.wikidata.org/wiki/Q20490241
+LIBSRC-LIB36-ENT-WRD-0023458,descriptive_identity,"""firework""",https://www.wikidata.org/wiki/Q336382
+LIBSRC-LIB36-ENT-WRD-0023528,descriptive_identity,"""musical group""",https://www.wikidata.org/wiki/Q127472
+LIBSRC-LIB36-ENT-WRD-0023528,component_relationship,"""Igor Lobanov""",https://www.wikidata.org/wiki/Q127472
+LIBSRC-LIB36-ENT-WRD-0023528,component_relationship,"""Teona Dolnikova""",https://www.wikidata.org/wiki/Q127472
+LIBSRC-LIB36-ENT-WRD-0023528,component_relationship,"""Denis Khromyh""",https://www.wikidata.org/wiki/Q127472
+LIBSRC-LIB36-ENT-WRD-0023528,component_relationship,"""Ulyana Elina""",https://www.wikidata.org/wiki/Q127472
+LIBSRC-LIB36-ENT-WRD-0023528,component_relationship,"""Daria Stavrovich""",https://www.wikidata.org/wiki/Q127472
+LIBSRC-LIB36-ENT-WRD-0023528,component_relationship,"""Daria Ravdina""",https://www.wikidata.org/wiki/Q127472
+LIBSRC-LIB36-ENT-WRD-0023594,descriptive_identity,"""dispenser""",https://www.wikidata.org/wiki/Q377647
+LIBSRC-LIB36-ENT-WRD-0023594,component_relationship,"""soap""",https://www.wikidata.org/wiki/Q377647
+LIBSRC-LIB36-ENT-WRD-0023594,component_relationship,"""gel""",https://www.wikidata.org/wiki/Q377647
+LIBSRC-LIB36-ENT-WRD-0023618,descriptive_identity,"""software""",https://www.wikidata.org/wiki/Q1995545
+LIBSRC-LIB36-ENT-WRD-0023618,descriptive_identity,"""archive file format""",https://www.wikidata.org/wiki/Q1995545
+LIBSRC-LIB36-ENT-WRD-0023618,component_relationship,"""software library""",https://www.wikidata.org/wiki/Q1995545
+LIBSRC-LIB36-ENT-WRD-0023618,component_relationship,"""computer program""",https://www.wikidata.org/wiki/Q1995545
+LIBSRC-LIB36-ENT-WRD-0023624,descriptive_identity,"""heritage site""",https://www.wikidata.org/wiki/Q66768512
+LIBSRC-LIB36-ENT-WRD-0023629,descriptive_identity,"""written work""",https://www.wikidata.org/wiki/Q122963892
+LIBSRC-LIB36-ENT-WRD-0023644,descriptive_identity,"""film""",https://www.wikidata.org/wiki/Q1622751
+LIBSRC-LIB36-ENT-WRD-0023692,descriptive_identity,"""space""",https://www.wikidata.org/wiki/Q1076457
+LIBSRC-LIB36-ENT-WRD-0023712,descriptive_identity,"""occurrence""",https://www.wikidata.org/wiki/Q224530
+LIBSRC-LIB36-ENT-WRD-0023735,descriptive_identity,"""restaurant""",https://www.wikidata.org/wiki/Q133809898
+LIBSRC-LIB36-ENT-WRD-0023735,descriptive_identity,"""post office""",https://www.wikidata.org/wiki/Q133809898
+LIBSRC-LIB36-ENT-WRD-0023782,descriptive_identity,"""function""",https://www.wikidata.org/wiki/Q735256
+LIBSRC-LIB36-ENT-WRD-0023782,descriptive_identity,"""curve""",https://www.wikidata.org/wiki/Q735256
+LIBSRC-LIB36-ENT-WRD-0023782,descriptive_identity,"""mathematical concept""",https://www.wikidata.org/wiki/Q735256
+LIBSRC-LIB36-ENT-WRD-0023823,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q58965850
+LIBSRC-LIB36-ENT-WRD-0023851,descriptive_identity,"""class of fictional entities""",https://www.wikidata.org/wiki/Q6133514
+LIBSRC-LIB36-ENT-WRD-0023851,descriptive_identity,"""beings in the Harry Potter universe""",https://www.wikidata.org/wiki/Q6133514
+LIBSRC-LIB36-ENT-WRD-0023851,descriptive_identity,"""fictional human""",https://www.wikidata.org/wiki/Q6133514
+LIBSRC-LIB36-ENT-WRD-0023909,descriptive_identity,"""commune of France""",https://www.wikidata.org/wiki/Q738123
+LIBSRC-LIB36-ENT-WRD-0023910,descriptive_identity,"""commune of France""",https://www.wikidata.org/wiki/Q738123
+LIBSRC-LIB36-ENT-WRD-0023934,descriptive_identity,"""single""",https://www.wikidata.org/wiki/Q107439752
+LIBSRC-LIB36-ENT-WRD-0023939,descriptive_identity,"""aircraft""",https://www.wikidata.org/wiki/Q753283
+LIBSRC-LIB36-ENT-WRD-0023939,descriptive_identity,"""aircraft type""",https://www.wikidata.org/wiki/Q753283
+LIBSRC-LIB36-ENT-WRD-0024003,descriptive_identity,"""musical group""",https://www.wikidata.org/wiki/Q17089014
+LIBSRC-LIB36-ENT-WRD-0024031,descriptive_identity,"""trading venue""",https://www.wikidata.org/wiki/Q11691
+LIBSRC-LIB36-ENT-WRD-0024031,descriptive_identity,"""capital market""",https://www.wikidata.org/wiki/Q11691
+LIBSRC-LIB36-ENT-WRD-0024057,descriptive_identity,"""type of chemical entity""",https://www.wikidata.org/wiki/Q173043
+LIBSRC-LIB36-ENT-WRD-0024057,descriptive_identity,"""chemical compound""",https://www.wikidata.org/wiki/Q173043
+LIBSRC-LIB36-ENT-WRD-0024058,descriptive_identity,"""plumbing""",https://www.wikidata.org/wiki/Q6063171
+LIBSRC-LIB36-ENT-WRD-0024058,descriptive_identity,"""ball valve""",https://www.wikidata.org/wiki/Q6063171
+LIBSRC-LIB36-ENT-WRD-0024058,descriptive_identity,"""construction product""",https://www.wikidata.org/wiki/Q6063171
+LIBSRC-LIB36-ENT-WRD-0024064,descriptive_identity,"""synchrotron""",https://www.wikidata.org/wiki/Q919917
+LIBSRC-LIB36-ENT-WRD-0024065,descriptive_identity,"""space""",https://www.wikidata.org/wiki/Q21551014
+LIBSRC-LIB36-ENT-WRD-0024072,descriptive_identity,"""drinking vessel""",https://www.wikidata.org/wiki/Q99596481
+LIBSRC-LIB36-ENT-WRD-0024072,material_identity,"""pewter""",https://www.wikidata.org/wiki/Q99596481
+LIBSRC-LIB36-ENT-WRD-0024084,descriptive_identity,"""jewelry""",https://www.wikidata.org/wiki/Q60757079
+LIBSRC-LIB36-ENT-WRD-0024089,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q16883899
+LIBSRC-LIB36-ENT-WRD-0024117,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37484380
+LIBSRC-LIB36-ENT-WRD-0024142,descriptive_identity,"""agricultural holding""",https://www.wikidata.org/wiki/Q18663765
+LIBSRC-LIB36-ENT-WRD-0024142,descriptive_identity,"""built structure""",https://www.wikidata.org/wiki/Q18663765
+LIBSRC-LIB36-ENT-WRD-0024142,descriptive_identity,"""farm building""",https://www.wikidata.org/wiki/Q18663765
+LIBSRC-LIB36-ENT-WRD-0024172,descriptive_identity,"""type of chemical entity""",https://www.wikidata.org/wiki/Q133364976
+LIBSRC-LIB36-ENT-WRD-0024172,descriptive_identity,"""chemical compound""",https://www.wikidata.org/wiki/Q133364976
+LIBSRC-LIB36-ENT-WRD-0024211,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q17026245
+LIBSRC-LIB36-ENT-WRD-0024232,descriptive_identity,"""computer""",https://www.wikidata.org/wiki/Q121117
+LIBSRC-LIB36-ENT-WRD-0024232,descriptive_identity,"""class of computers""",https://www.wikidata.org/wiki/Q121117
+LIBSRC-LIB36-ENT-WRD-0024314,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q1938426
+LIBSRC-LIB36-ENT-WRD-0024334,descriptive_identity,"""cyclic particle accelerator""",https://www.wikidata.org/wiki/Q689863
+LIBSRC-LIB36-ENT-WRD-0024348,descriptive_identity,"""computer key""",https://www.wikidata.org/wiki/Q378910
+LIBSRC-LIB36-ENT-WRD-0024423,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37486904
+LIBSRC-LIB36-ENT-WRD-0024448,descriptive_identity,"""covering""",https://www.wikidata.org/wiki/Q5347026
+LIBSRC-LIB36-ENT-WRD-0024448,descriptive_identity,"""suiting""",https://www.wikidata.org/wiki/Q5347026
+LIBSRC-LIB36-ENT-WRD-0024448,component_relationship,"""grommet""",https://www.wikidata.org/wiki/Q5347026
+LIBSRC-LIB36-ENT-WRD-0024452,descriptive_identity,"""lacemaking""",https://www.wikidata.org/wiki/Q498133
+LIBSRC-LIB36-ENT-WRD-0024474,descriptive_identity,"""scene""",https://www.wikidata.org/wiki/Q2422553
+LIBSRC-LIB36-ENT-WRD-0024474,descriptive_identity,"""narrative technique""",https://www.wikidata.org/wiki/Q2422553
+LIBSRC-LIB36-ENT-WRD-0024484,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37505608
+LIBSRC-LIB36-ENT-WRD-0024490,descriptive_identity,"""telegraph""",https://www.wikidata.org/wiki/Q1156388
+LIBSRC-LIB36-ENT-WRD-0024492,descriptive_identity,"""single""",https://www.wikidata.org/wiki/Q188770
+LIBSRC-LIB36-ENT-WRD-0024497,descriptive_identity,"""telecommunication circuit""",https://www.wikidata.org/wiki/Q1373572
+LIBSRC-LIB36-ENT-WRD-0024497,descriptive_identity,"""wired communication""",https://www.wikidata.org/wiki/Q1373572
+LIBSRC-LIB36-ENT-WRD-0024504,descriptive_identity,"""display device""",https://www.wikidata.org/wiki/Q770692
+LIBSRC-LIB36-ENT-WRD-0024504,component_relationship,"""one-way mirror""",https://www.wikidata.org/wiki/Q770692
+LIBSRC-LIB36-ENT-WRD-0024509,descriptive_identity,"""broadcasting""",https://www.wikidata.org/wiki/Q289
+LIBSRC-LIB36-ENT-WRD-0024509,descriptive_identity,"""mass media""",https://www.wikidata.org/wiki/Q289
+LIBSRC-LIB36-ENT-WRD-0024509,descriptive_identity,"""economic activity""",https://www.wikidata.org/wiki/Q289
+LIBSRC-LIB36-ENT-WRD-0024509,descriptive_identity,"""type of mass media""",https://www.wikidata.org/wiki/Q289
+LIBSRC-LIB36-ENT-WRD-0024509,component_relationship,"""television station""",https://www.wikidata.org/wiki/Q289
+LIBSRC-LIB36-ENT-WRD-0024509,component_relationship,"""television channel""",https://www.wikidata.org/wiki/Q289
+LIBSRC-LIB36-ENT-WRD-0024509,component_relationship,"""television network""",https://www.wikidata.org/wiki/Q289
+LIBSRC-LIB36-ENT-WRD-0024509,component_relationship,"""television set""",https://www.wikidata.org/wiki/Q289
+LIBSRC-LIB36-ENT-WRD-0024509,component_relationship,"""television watcher""",https://www.wikidata.org/wiki/Q289
+LIBSRC-LIB36-ENT-WRD-0024509,component_relationship,"""people-meter""",https://www.wikidata.org/wiki/Q289
+LIBSRC-LIB36-ENT-WRD-0024509,component_relationship,"""TV industry""",https://www.wikidata.org/wiki/Q289
+LIBSRC-LIB36-ENT-WRD-0024516,descriptive_identity,"""broadcaster""",https://www.wikidata.org/wiki/Q1616075
+LIBSRC-LIB36-ENT-WRD-0024517,descriptive_identity,"""radio transmitter""",https://www.wikidata.org/wiki/Q1285993
+LIBSRC-LIB36-ENT-WRD-0024524,descriptive_identity,"""temple""",https://www.wikidata.org/wiki/Q2699249
+LIBSRC-LIB36-ENT-WRD-0024524,descriptive_identity,"""archaeological site""",https://www.wikidata.org/wiki/Q2699249
+LIBSRC-LIB36-ENT-WRD-0024524,descriptive_identity,"""ruins""",https://www.wikidata.org/wiki/Q2699249
+LIBSRC-LIB36-ENT-WRD-0024524,descriptive_identity,"""Roman temple""",https://www.wikidata.org/wiki/Q2699249
+LIBSRC-LIB36-ENT-WRD-0024535,descriptive_identity,"""sculpture""",https://www.wikidata.org/wiki/Q14468858
+LIBSRC-LIB36-ENT-WRD-0024544,descriptive_identity,"""manometer""",https://www.wikidata.org/wiki/Q519545
+LIBSRC-LIB36-ENT-WRD-0024544,descriptive_identity,"""measuring instrument""",https://www.wikidata.org/wiki/Q519545
+LIBSRC-LIB36-ENT-WRD-0024557,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q109714022
+LIBSRC-LIB36-ENT-WRD-0024564,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q2405539
+LIBSRC-LIB36-ENT-WRD-0024593,descriptive_identity,"""electronic musical instrument""",https://www.wikidata.org/wiki/Q207691
+LIBSRC-LIB36-ENT-WRD-0024593,descriptive_identity,"""analogue synthesizer or other electronic instrument with thermionic valve (vacuum-tube) based devices generating and/or processing electric sound signals""",https://www.wikidata.org/wiki/Q207691
+LIBSRC-LIB36-ENT-WRD-0024593,component_relationship,"""antenna""",https://www.wikidata.org/wiki/Q207691
+LIBSRC-LIB36-ENT-WRD-0024593,descriptive_identity,"""type of musical instrument""",https://www.wikidata.org/wiki/Q207691
+LIBSRC-LIB36-ENT-WRD-0024616,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37483654
+LIBSRC-LIB36-ENT-WRD-0024667,descriptive_identity,"""film""",https://www.wikidata.org/wiki/Q611364
+LIBSRC-LIB36-ENT-WRD-0024673,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37519184
+LIBSRC-LIB36-ENT-WRD-0024683,descriptive_identity,"""film""",https://www.wikidata.org/wiki/Q1125083
+LIBSRC-LIB36-ENT-WRD-0024706,descriptive_identity,"""kampung of Papua""",https://www.wikidata.org/wiki/Q26000020
+LIBSRC-LIB36-ENT-WRD-0024740,descriptive_identity,"""Q61433548""",https://www.wikidata.org/wiki/Q2438162
+LIBSRC-LIB36-ENT-WRD-0024755,descriptive_identity,"""graphical widget""",https://www.wikidata.org/wiki/Q104834487
+LIBSRC-LIB36-ENT-WRD-0024767,descriptive_identity,"""television series episode""",https://www.wikidata.org/wiki/Q125928417
+LIBSRC-LIB36-ENT-WRD-0024772,descriptive_identity,"""type of chemical entity""",https://www.wikidata.org/wiki/Q414275
+LIBSRC-LIB36-ENT-WRD-0024772,mass,270.104,https://www.wikidata.org/wiki/Q414275
+LIBSRC-LIB36-ENT-WRD-0024772,descriptive_identity,"""sulfonylurea""",https://www.wikidata.org/wiki/Q414275
+LIBSRC-LIB36-ENT-WRD-0024783,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q7820876
+LIBSRC-LIB36-ENT-WRD-0024810,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q24211122
+LIBSRC-LIB36-ENT-WRD-0024829,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q3532714
+LIBSRC-LIB36-ENT-WRD-0024849,descriptive_identity,"""human""",https://www.wikidata.org/wiki/Q105755384
+LIBSRC-LIB36-ENT-WRD-0024866,descriptive_identity,"""pointing device""",https://www.wikidata.org/wiki/Q20140
+LIBSRC-LIB36-ENT-WRD-0024890,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37328288
+LIBSRC-LIB36-ENT-WRD-0024897,descriptive_identity,"""transformation""",https://www.wikidata.org/wiki/Q207714
+LIBSRC-LIB36-ENT-WRD-0024897,descriptive_identity,"""writing""",https://www.wikidata.org/wiki/Q207714
+LIBSRC-LIB36-ENT-WRD-0024897,descriptive_identity,"""process""",https://www.wikidata.org/wiki/Q207714
+LIBSRC-LIB36-ENT-WRD-0024900,descriptive_identity,"""British Filk Convention""",https://www.wikidata.org/wiki/Q111684930
+LIBSRC-LIB36-ENT-WRD-0024902,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q13417084
+LIBSRC-LIB36-ENT-WRD-0024908,descriptive_identity,"""architectural element""",https://www.wikidata.org/wiki/Q1943259
+LIBSRC-LIB36-ENT-WRD-0024919,descriptive_identity,"""film""",https://www.wikidata.org/wiki/Q124077893
+LIBSRC-LIB36-ENT-WRD-0024944,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q135059704
+LIBSRC-LIB36-ENT-WRD-0024962,descriptive_identity,"""bicentric polygon""",https://www.wikidata.org/wiki/Q19821
+LIBSRC-LIB36-ENT-WRD-0024962,descriptive_identity,"""simplex""",https://www.wikidata.org/wiki/Q19821
+LIBSRC-LIB36-ENT-WRD-0024962,descriptive_identity,"""tritope""",https://www.wikidata.org/wiki/Q19821
+LIBSRC-LIB36-ENT-WRD-0024962,descriptive_identity,"""polygon""",https://www.wikidata.org/wiki/Q19821
+LIBSRC-LIB36-ENT-WRD-0024962,descriptive_identity,"""planar generalized triangle""",https://www.wikidata.org/wiki/Q19821
+LIBSRC-LIB36-ENT-WRD-0024962,descriptive_identity,"""geometric shape""",https://www.wikidata.org/wiki/Q19821
+LIBSRC-LIB36-ENT-WRD-0024980,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q16810331
+LIBSRC-LIB36-ENT-WRD-0025006,descriptive_identity,"""auxiliary vessel""",https://www.wikidata.org/wiki/Q671079
+LIBSRC-LIB36-ENT-WRD-0025006,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q671079
+LIBSRC-LIB36-ENT-WRD-0025006,descriptive_identity,"""ship type""",https://www.wikidata.org/wiki/Q671079
+LIBSRC-LIB36-ENT-WRD-0025008,descriptive_identity,"""television series episode""",https://www.wikidata.org/wiki/Q99486326
+LIBSRC-LIB36-ENT-WRD-0025040,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q105108106
+LIBSRC-LIB36-ENT-WRD-0025072,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q16980297
+LIBSRC-LIB36-ENT-WRD-0025073,descriptive_identity,"""screw""",https://www.wikidata.org/wiki/Q376793
+LIBSRC-LIB36-ENT-WRD-0025106,descriptive_identity,"""single""",https://www.wikidata.org/wiki/Q17215057
+LIBSRC-LIB36-ENT-WRD-0025125,descriptive_identity,"""chassis""",https://www.wikidata.org/wiki/Q263421
+LIBSRC-LIB36-ENT-WRD-0025125,descriptive_identity,"""aircraft component""",https://www.wikidata.org/wiki/Q263421
+LIBSRC-LIB36-ENT-WRD-0025149,descriptive_identity,"""private university""",https://www.wikidata.org/wiki/Q49117
+LIBSRC-LIB36-ENT-WRD-0025149,descriptive_identity,"""research university""",https://www.wikidata.org/wiki/Q49117
+LIBSRC-LIB36-ENT-WRD-0025149,descriptive_identity,"""colonial colleges""",https://www.wikidata.org/wiki/Q49117
+LIBSRC-LIB36-ENT-WRD-0025149,descriptive_identity,"""private not-for-profit educational institution""",https://www.wikidata.org/wiki/Q49117
+LIBSRC-LIB36-ENT-WRD-0025275,descriptive_identity,"""technique""",https://www.wikidata.org/wiki/Q34508
+LIBSRC-LIB36-ENT-WRD-0025275,descriptive_identity,"""imaging method""",https://www.wikidata.org/wiki/Q34508
+LIBSRC-LIB36-ENT-WRD-0025275,component_relationship,"""analog video recording""",https://www.wikidata.org/wiki/Q34508
+LIBSRC-LIB36-ENT-WRD-0025275,component_relationship,"""digital video recording""",https://www.wikidata.org/wiki/Q34508
+LIBSRC-LIB36-ENT-WRD-0025285,descriptive_identity,"""taxon""",https://www.wikidata.org/wiki/Q3472469
+LIBSRC-LIB36-ENT-WRD-0025288,descriptive_identity,"""plantation""",https://www.wikidata.org/wiki/Q22715
+LIBSRC-LIB36-ENT-WRD-0025299,descriptive_identity,"""recording medium""",https://www.wikidata.org/wiki/Q189401
+LIBSRC-LIB36-ENT-WRD-0025299,descriptive_identity,"""type of computer memory or storage""",https://www.wikidata.org/wiki/Q189401
+LIBSRC-LIB36-ENT-WRD-0025318,descriptive_identity,"""battery""",https://www.wikidata.org/wiki/Q663273
+LIBSRC-LIB36-ENT-WRD-0025370,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q2549042
+LIBSRC-LIB36-ENT-WRD-0025451,descriptive_identity,"""painting""",https://www.wikidata.org/wiki/Q20880172
+LIBSRC-LIB36-ENT-WRD-0025457,descriptive_identity,"""electrical measuring instrument""",https://www.wikidata.org/wiki/Q944562
+LIBSRC-LIB36-ENT-WRD-0025467,descriptive_identity,"""weather vane""",https://www.wikidata.org/wiki/Q2157687
+LIBSRC-LIB36-ENT-WRD-0025467,descriptive_identity,"""creative work""",https://www.wikidata.org/wiki/Q2157687
+LIBSRC-LIB36-ENT-WRD-0025471,descriptive_identity,"""radar""",https://www.wikidata.org/wiki/Q863343
+LIBSRC-LIB36-ENT-WRD-0025471,descriptive_identity,"""meteorological instrument""",https://www.wikidata.org/wiki/Q863343
+LIBSRC-LIB36-ENT-WRD-0025472,descriptive_identity,"""Earth observation satellite""",https://www.wikidata.org/wiki/Q209363
+LIBSRC-LIB36-ENT-WRD-0025472,descriptive_identity,"""research satellite""",https://www.wikidata.org/wiki/Q209363
+LIBSRC-LIB36-ENT-WRD-0025472,descriptive_identity,"""spacecraft type""",https://www.wikidata.org/wiki/Q209363
+LIBSRC-LIB36-ENT-WRD-0025473,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q1969469
+LIBSRC-LIB36-ENT-WRD-0025473,descriptive_identity,"""ship type""",https://www.wikidata.org/wiki/Q1969469
+LIBSRC-LIB36-ENT-WRD-0025474,descriptive_identity,"""United States patent""",https://www.wikidata.org/wiki/Q125542264
+LIBSRC-LIB36-ENT-WRD-0025540,descriptive_identity,"""kitchen utensil""",https://www.wikidata.org/wiki/Q263057
+LIBSRC-LIB36-ENT-WRD-0025540,material_identity,"""stainless steel""",https://www.wikidata.org/wiki/Q263057
+LIBSRC-LIB36-ENT-WRD-0025540,material_identity,"""wood""",https://www.wikidata.org/wiki/Q263057
+LIBSRC-LIB36-ENT-WRD-0025582,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q21492234
+LIBSRC-LIB36-ENT-WRD-0025596,descriptive_identity,"""graphical widget""",https://www.wikidata.org/wiki/Q835016
+LIBSRC-LIB36-ENT-WRD-0025596,descriptive_identity,"""computer science term""",https://www.wikidata.org/wiki/Q835016
+LIBSRC-LIB36-ENT-WRD-0025601,descriptive_identity,"""building component""",https://www.wikidata.org/wiki/Q2290654
+LIBSRC-LIB36-ENT-WRD-0025601,descriptive_identity,"""chambranle""",https://www.wikidata.org/wiki/Q2290654
+LIBSRC-LIB36-ENT-WRD-0025601,descriptive_identity,"""window frames and window frame components""",https://www.wikidata.org/wiki/Q2290654
+LIBSRC-LIB36-ENT-WRD-0025601,component_relationship,"""water slot cap""",https://www.wikidata.org/wiki/Q2290654
+LIBSRC-LIB36-ENT-WRD-0025601,component_relationship,"""jamb""",https://www.wikidata.org/wiki/Q2290654
+LIBSRC-LIB36-ENT-WRD-0025601,component_relationship,"""window sill""",https://www.wikidata.org/wiki/Q2290654
+LIBSRC-LIB36-ENT-WRD-0025601,component_relationship,"""lintel""",https://www.wikidata.org/wiki/Q2290654
+LIBSRC-LIB36-ENT-WRD-0025601,material_identity,"""wood""",https://www.wikidata.org/wiki/Q2290654
+LIBSRC-LIB36-ENT-WRD-0025601,material_identity,"""aluminium""",https://www.wikidata.org/wiki/Q2290654
+LIBSRC-LIB36-ENT-WRD-0025601,material_identity,"""polyvinyl chloride""",https://www.wikidata.org/wiki/Q2290654
+LIBSRC-LIB36-ENT-WRD-0025603,descriptive_identity,"""insect protection""",https://www.wikidata.org/wiki/Q910768
+LIBSRC-LIB36-ENT-WRD-0025603,descriptive_identity,"""net""",https://www.wikidata.org/wiki/Q910768
+LIBSRC-LIB36-ENT-WRD-0025603,descriptive_identity,"""mosquito net""",https://www.wikidata.org/wiki/Q910768
+LIBSRC-LIB36-ENT-WRD-0025603,descriptive_identity,"""windows and window components""",https://www.wikidata.org/wiki/Q910768
+LIBSRC-LIB36-ENT-WRD-0025608,descriptive_identity,"""sheet glass""",https://www.wikidata.org/wiki/Q13693
+LIBSRC-LIB36-ENT-WRD-0025608,descriptive_identity,"""car glass""",https://www.wikidata.org/wiki/Q13693
+LIBSRC-LIB36-ENT-WRD-0025608,descriptive_identity,"""automotive part""",https://www.wikidata.org/wiki/Q13693
+LIBSRC-LIB36-ENT-WRD-0025608,descriptive_identity,"""vehicle component""",https://www.wikidata.org/wiki/Q13693
+LIBSRC-LIB36-ENT-WRD-0025631,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37487058
+LIBSRC-LIB36-ENT-WRD-0025662,descriptive_identity,"""shed""",https://www.wikidata.org/wiki/Q9210785
+LIBSRC-LIB36-ENT-WRD-0025698,descriptive_identity,"""yarn""",https://www.wikidata.org/wiki/Q572813
+LIBSRC-LIB36-ENT-WRD-0025698,descriptive_identity,"""textile""",https://www.wikidata.org/wiki/Q572813
+LIBSRC-LIB36-ENT-WRD-0025698,material_identity,"""wool""",https://www.wikidata.org/wiki/Q572813
+LIBSRC-LIB36-ENT-WRD-0025698,material_identity,"""synthetic fiber""",https://www.wikidata.org/wiki/Q572813
+LIBSRC-LIB36-ENT-WRD-0025757,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q16282884
+LIBSRC-LIB36-ENT-WRD-0025758,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q20874454
+LIBSRC-LIB36-ENT-WRD-0025783,descriptive_identity,"""fictional entity""",https://www.wikidata.org/wiki/Q95074
+LIBSRC-LIB36-ENT-WRD-0025783,descriptive_identity,"""imaginary character""",https://www.wikidata.org/wiki/Q95074
+LIBSRC-LIB36-ENT-WRD-0025783,descriptive_identity,"""agent""",https://www.wikidata.org/wiki/Q95074
+LIBSRC-LIB36-ENT-WRD-0025783,descriptive_identity,"""literary element""",https://www.wikidata.org/wiki/Q95074
+LIBSRC-LIB36-ENT-WRD-0025821,descriptive_identity,"""music track with vocals""",https://www.wikidata.org/wiki/Q2735758
+LIBSRC-LIB36-ENT-WRD-0025830,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q839255
+LIBSRC-LIB36-ENT-WRD-0025930,descriptive_identity,"""personality trait""",https://www.wikidata.org/wiki/Q19357492
+LIBSRC-LIB36-ENT-WRD-0025948,descriptive_identity,"""positive emotion""",https://www.wikidata.org/wiki/Q16519308
+LIBSRC-LIB36-ENT-WRD-0025966,descriptive_identity,"""negative emotion""",https://www.wikidata.org/wiki/Q2729863
+LIBSRC-LIB36-ENT-WRD-0025966,descriptive_identity,"""aggression""",https://www.wikidata.org/wiki/Q2729863
+LIBSRC-LIB36-ENT-WRD-0025966,descriptive_identity,"""behavior""",https://www.wikidata.org/wiki/Q2729863
+LIBSRC-LIB36-ENT-WRD-0025966,descriptive_identity,"""symptom""",https://www.wikidata.org/wiki/Q2729863
+LIBSRC-LIB36-ENT-WRD-0025967,descriptive_identity,"""action""",https://www.wikidata.org/wiki/Q191797
+LIBSRC-LIB36-ENT-WRD-0025998,descriptive_identity,"""single""",https://www.wikidata.org/wiki/Q96374570
+LIBSRC-LIB36-ENT-WRD-0026026,descriptive_identity,"""responsibility""",https://www.wikidata.org/wiki/Q2798912
+LIBSRC-LIB36-ENT-WRD-0026026,descriptive_identity,"""ethics""",https://www.wikidata.org/wiki/Q2798912
+LIBSRC-LIB36-ENT-WRD-0026026,descriptive_identity,"""Concepts related to procedural justice""",https://www.wikidata.org/wiki/Q2798912
+LIBSRC-LIB36-ENT-WRD-0026049,descriptive_identity,"""visual artwork""",https://www.wikidata.org/wiki/Q29527347
+LIBSRC-LIB36-ENT-WRD-0026049,descriptive_identity,"""representation""",https://www.wikidata.org/wiki/Q29527347
+LIBSRC-LIB36-ENT-WRD-0026049,descriptive_identity,"""art genre""",https://www.wikidata.org/wiki/Q29527347
+LIBSRC-LIB36-ENT-WRD-0026052,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q3900551
+LIBSRC-LIB36-ENT-WRD-0026073,descriptive_identity,"""television network""",https://www.wikidata.org/wiki/Q2713068
+LIBSRC-LIB36-ENT-WRD-0026079,descriptive_identity,"""natural body marking""",https://www.wikidata.org/wiki/Q760306
+LIBSRC-LIB36-ENT-WRD-0026117,descriptive_identity,"""molecular function""",https://www.wikidata.org/wiki/Q15725999
+LIBSRC-LIB36-ENT-WRD-0026117,descriptive_identity,"""molecular interaction""",https://www.wikidata.org/wiki/Q15725999
+LIBSRC-LIB36-ENT-WRD-0026142,descriptive_identity,"""built structure""",https://www.wikidata.org/wiki/Q811902
+LIBSRC-LIB36-ENT-WRD-0026143,descriptive_identity,"""nevus""",https://www.wikidata.org/wiki/Q1371405
+LIBSRC-LIB36-ENT-WRD-0026143,descriptive_identity,"""type of disease""",https://www.wikidata.org/wiki/Q1371405
+LIBSRC-LIB36-ENT-WRD-0026151,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37213445
+LIBSRC-LIB36-ENT-WRD-0026152,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q114837220
+LIBSRC-LIB36-ENT-WRD-0026156,descriptive_identity,"""stain""",https://www.wikidata.org/wiki/Q111393412
+LIBSRC-LIB36-ENT-WRD-0026156,material_identity,"""oil""",https://www.wikidata.org/wiki/Q111393412
+LIBSRC-LIB36-ENT-WRD-0026180,descriptive_identity,"""personality trait""",https://www.wikidata.org/wiki/Q107285158
+LIBSRC-LIB36-ENT-WRD-0026246,descriptive_identity,"""adaptation""",https://www.wikidata.org/wiki/Q221284
+LIBSRC-LIB36-ENT-WRD-0026246,descriptive_identity,"""organizational behavior studies""",https://www.wikidata.org/wiki/Q221284
+LIBSRC-LIB36-ENT-WRD-0026260,descriptive_identity,"""payment system""",https://www.wikidata.org/wiki/Q551800
+LIBSRC-LIB36-ENT-WRD-0026260,descriptive_identity,"""medium of exchange""",https://www.wikidata.org/wiki/Q551800
+LIBSRC-LIB36-ENT-WRD-0026260,descriptive_identity,"""manifestation""",https://www.wikidata.org/wiki/Q551800
+LIBSRC-LIB36-ENT-WRD-0026260,descriptive_identity,"""document""",https://www.wikidata.org/wiki/Q551800
+LIBSRC-LIB36-ENT-WRD-0026283,descriptive_identity,"""ethical concept""",https://www.wikidata.org/wiki/Q23749400
+LIBSRC-LIB36-ENT-WRD-0026289,descriptive_identity,"""quality""",https://www.wikidata.org/wiki/Q73019188
+LIBSRC-LIB36-ENT-WRD-0026289,descriptive_identity,"""absence""",https://www.wikidata.org/wiki/Q73019188
+LIBSRC-LIB36-ENT-WRD-0026298,descriptive_identity,"""female given name""",https://www.wikidata.org/wiki/Q133884244
+LIBSRC-LIB36-ENT-WRD-0026305,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q10851214
+LIBSRC-LIB36-ENT-WRD-0026339,descriptive_identity,"""scientific journal""",https://www.wikidata.org/wiki/Q27722602
+LIBSRC-LIB36-ENT-WRD-0026339,descriptive_identity,"""academic journal""",https://www.wikidata.org/wiki/Q27722602
+LIBSRC-LIB36-ENT-WRD-0026339,descriptive_identity,"""open-access journal""",https://www.wikidata.org/wiki/Q27722602
+LIBSRC-LIB36-ENT-WRD-0026421,descriptive_identity,"""binary relation""",https://www.wikidata.org/wiki/Q28113351
+LIBSRC-LIB36-ENT-WRD-0026421,descriptive_identity,"""mathematical concept""",https://www.wikidata.org/wiki/Q28113351
+LIBSRC-LIB36-ENT-WRD-0026421,component_relationship,"""not equal to""",https://www.wikidata.org/wiki/Q28113351
+LIBSRC-LIB36-ENT-WRD-0026426,descriptive_identity,"""bay""",https://www.wikidata.org/wiki/Q1322134
+LIBSRC-LIB36-ENT-WRD-0026446,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37529041
+LIBSRC-LIB36-ENT-WRD-0026494,descriptive_identity,"""organizedness""",https://www.wikidata.org/wiki/Q107273991
+LIBSRC-LIB36-ENT-WRD-0026494,descriptive_identity,"""cleanliness""",https://www.wikidata.org/wiki/Q107273991
+LIBSRC-LIB36-ENT-WRD-0026494,descriptive_identity,"""personality trait""",https://www.wikidata.org/wiki/Q107273991
+LIBSRC-LIB36-ENT-WRD-0026510,descriptive_identity,"""muscular disease""",https://www.wikidata.org/wiki/Q117060
+LIBSRC-LIB36-ENT-WRD-0026510,descriptive_identity,"""hypertonia""",https://www.wikidata.org/wiki/Q117060
+LIBSRC-LIB36-ENT-WRD-0026510,descriptive_identity,"""neurological symptom""",https://www.wikidata.org/wiki/Q117060
+LIBSRC-LIB36-ENT-WRD-0026510,descriptive_identity,"""type of disease""",https://www.wikidata.org/wiki/Q117060
+LIBSRC-LIB36-ENT-WRD-0026510,descriptive_identity,"""symptom or sign""",https://www.wikidata.org/wiki/Q117060
+LIBSRC-LIB36-ENT-WRD-0026546,descriptive_identity,"""robustness""",https://www.wikidata.org/wiki/Q2325497
+LIBSRC-LIB36-ENT-WRD-0026546,descriptive_identity,"""structural quality""",https://www.wikidata.org/wiki/Q2325497
+LIBSRC-LIB36-ENT-WRD-0026546,descriptive_identity,"""type of property""",https://www.wikidata.org/wiki/Q2325497
+LIBSRC-LIB36-ENT-WRD-0026546,descriptive_identity,"""system characteristic""",https://www.wikidata.org/wiki/Q2325497
+LIBSRC-LIB36-ENT-WRD-0026596,descriptive_identity,"""displaying""",https://www.wikidata.org/wiki/Q24383561
+LIBSRC-LIB36-ENT-WRD-0026648,descriptive_identity,"""trend""",https://www.wikidata.org/wiki/Q368949
+LIBSRC-LIB36-ENT-WRD-0026658,descriptive_identity,"""religion""",https://www.wikidata.org/wiki/Q383258
+LIBSRC-LIB36-ENT-WRD-0026658,descriptive_identity,"""thought""",https://www.wikidata.org/wiki/Q383258
+LIBSRC-LIB36-ENT-WRD-0026661,descriptive_identity,"""political ideology""",https://www.wikidata.org/wiki/Q27958682
+LIBSRC-LIB36-ENT-WRD-0026661,descriptive_identity,"""monarchism""",https://www.wikidata.org/wiki/Q27958682
+LIBSRC-LIB36-ENT-WRD-0026661,descriptive_identity,"""conservatism""",https://www.wikidata.org/wiki/Q27958682
+LIBSRC-LIB36-ENT-WRD-0026661,descriptive_identity,"""political Catholicism""",https://www.wikidata.org/wiki/Q27958682
+LIBSRC-LIB36-ENT-WRD-0026661,descriptive_identity,"""traditionalist conservatism""",https://www.wikidata.org/wiki/Q27958682
+LIBSRC-LIB36-ENT-WRD-0026661,descriptive_identity,"""Ultramontanism""",https://www.wikidata.org/wiki/Q27958682
+LIBSRC-LIB36-ENT-WRD-0026661,descriptive_identity,"""Political Traditionalism""",https://www.wikidata.org/wiki/Q27958682
+LIBSRC-LIB36-ENT-WRD-0026722,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37325244
+LIBSRC-LIB36-ENT-WRD-0026826,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q1758479
+LIBSRC-LIB36-ENT-WRD-0026889,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q1631308
+LIBSRC-LIB36-ENT-WRD-0026891,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q110788997
+LIBSRC-LIB36-ENT-WRD-0026895,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q5582425
+LIBSRC-LIB36-ENT-WRD-0026900,descriptive_identity,"""body-relative direction""",https://www.wikidata.org/wiki/Q14565199
+LIBSRC-LIB36-ENT-WRD-0026900,descriptive_identity,"""positional attribute""",https://www.wikidata.org/wiki/Q14565199
+LIBSRC-LIB36-ENT-WRD-0026900,descriptive_identity,"""transversal axis relation""",https://www.wikidata.org/wiki/Q14565199
+LIBSRC-LIB36-ENT-WRD-0026940,descriptive_identity,"""literary work""",https://www.wikidata.org/wiki/Q19151088
+LIBSRC-LIB36-ENT-WRD-0027061,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q920501
+LIBSRC-LIB36-ENT-WRD-0027062,descriptive_identity,"""self-control""",https://www.wikidata.org/wiki/Q1511382
+LIBSRC-LIB36-ENT-WRD-0027062,descriptive_identity,"""discipline""",https://www.wikidata.org/wiki/Q1511382
+LIBSRC-LIB36-ENT-WRD-0027064,descriptive_identity,"""religious behaviour""",https://www.wikidata.org/wiki/Q148836
+LIBSRC-LIB36-ENT-WRD-0027064,component_relationship,"""monk""",https://www.wikidata.org/wiki/Q148836
+LIBSRC-LIB36-ENT-WRD-0027064,component_relationship,"""monastic order""",https://www.wikidata.org/wiki/Q148836
+LIBSRC-LIB36-ENT-WRD-0027064,component_relationship,"""Idiorrhythmic monasticism""",https://www.wikidata.org/wiki/Q148836
+LIBSRC-LIB36-ENT-WRD-0027064,component_relationship,"""cenobitic monasticism""",https://www.wikidata.org/wiki/Q148836
+LIBSRC-LIB36-ENT-WRD-0027064,component_relationship,"""Buddhist monasticism""",https://www.wikidata.org/wiki/Q148836
+LIBSRC-LIB36-ENT-WRD-0027064,component_relationship,"""Christian monasticism""",https://www.wikidata.org/wiki/Q148836
+LIBSRC-LIB36-ENT-WRD-0027085,descriptive_identity,"""ska band""",https://www.wikidata.org/wiki/Q745741
+LIBSRC-LIB36-ENT-WRD-0027085,descriptive_identity,"""musical group""",https://www.wikidata.org/wiki/Q745741
+LIBSRC-LIB36-ENT-WRD-0027085,component_relationship,"""Suggs""",https://www.wikidata.org/wiki/Q745741
+LIBSRC-LIB36-ENT-WRD-0027093,descriptive_identity,"""written work""",https://www.wikidata.org/wiki/Q5158290
+LIBSRC-LIB36-ENT-WRD-0027120,descriptive_identity,"""quality""",https://www.wikidata.org/wiki/Q206330
+LIBSRC-LIB36-ENT-WRD-0027120,descriptive_identity,"""philosophical concept""",https://www.wikidata.org/wiki/Q206330
+LIBSRC-LIB36-ENT-WRD-0027132,descriptive_identity,"""personality trait""",https://www.wikidata.org/wiki/Q1385437
+LIBSRC-LIB36-ENT-WRD-0027132,descriptive_identity,"""behavior""",https://www.wikidata.org/wiki/Q1385437
+LIBSRC-LIB36-ENT-WRD-0027132,descriptive_identity,"""redundancy""",https://www.wikidata.org/wiki/Q1385437
+LIBSRC-LIB36-ENT-WRD-0027160,descriptive_identity,"""musical group""",https://www.wikidata.org/wiki/Q10587283
+LIBSRC-LIB36-ENT-WRD-0027201,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q48816331
+LIBSRC-LIB36-ENT-WRD-0027246,descriptive_identity,"""abstract entity""",https://www.wikidata.org/wiki/Q937228
+LIBSRC-LIB36-ENT-WRD-0027246,descriptive_identity,"""metaclass""",https://www.wikidata.org/wiki/Q937228
+LIBSRC-LIB36-ENT-WRD-0027246,descriptive_identity,"""category of being""",https://www.wikidata.org/wiki/Q937228
+LIBSRC-LIB36-ENT-WRD-0028345,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q16951258
+LIBSRC-LIB36-ENT-WRD-0028430,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q5582425
+LIBSRC-LIB36-ENT-WRD-0028504,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37170128
+LIBSRC-LIB36-ENT-WRD-0028599,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37192495
+LIBSRC-LIB36-ENT-WRD-0028620,descriptive_identity,"""architectural element""",https://www.wikidata.org/wiki/Q36794
+LIBSRC-LIB36-ENT-WRD-0028620,descriptive_identity,"""device""",https://www.wikidata.org/wiki/Q36794
+LIBSRC-LIB36-ENT-WRD-0028620,descriptive_identity,"""obstacle""",https://www.wikidata.org/wiki/Q36794
+LIBSRC-LIB36-ENT-WRD-0028620,descriptive_identity,"""geographical feature""",https://www.wikidata.org/wiki/Q36794
+LIBSRC-LIB36-ENT-WRD-0028620,component_relationship,"""door handle""",https://www.wikidata.org/wiki/Q36794
+LIBSRC-LIB36-ENT-WRD-0028620,component_relationship,"""peephole""",https://www.wikidata.org/wiki/Q36794
+LIBSRC-LIB36-ENT-WRD-0028620,component_relationship,"""window""",https://www.wikidata.org/wiki/Q36794
+LIBSRC-LIB36-ENT-WRD-0028620,component_relationship,"""door lock""",https://www.wikidata.org/wiki/Q36794
+LIBSRC-LIB36-ENT-WRD-0028620,descriptive_identity,"""geolocatable entity""",https://www.wikidata.org/wiki/Q36794
+LIBSRC-LIB36-ENT-WRD-0028622,descriptive_identity,"""phrase""",https://www.wikidata.org/wiki/Q216353
+LIBSRC-LIB36-ENT-WRD-0028622,descriptive_identity,"""sign""",https://www.wikidata.org/wiki/Q216353
+LIBSRC-LIB36-ENT-WRD-0028622,descriptive_identity,"""award""",https://www.wikidata.org/wiki/Q216353
+LIBSRC-LIB36-ENT-WRD-0028684,descriptive_identity,"""human""",https://www.wikidata.org/wiki/Q2372231
+LIBSRC-LIB36-ENT-WRD-0028691,descriptive_identity,"""monograph""",https://www.wikidata.org/wiki/Q140213218
+LIBSRC-LIB36-ENT-WRD-0028709,descriptive_identity,"""power""",https://www.wikidata.org/wiki/Q12047400
+LIBSRC-LIB36-ENT-WRD-0028736,descriptive_identity,"""extended play""",https://www.wikidata.org/wiki/Q1094883
+LIBSRC-LIB36-ENT-WRD-0028775,descriptive_identity,"""advanced emotion""",https://www.wikidata.org/wiki/Q485446
+LIBSRC-LIB36-ENT-WRD-0028775,descriptive_identity,"""joy prototype emotion""",https://www.wikidata.org/wiki/Q485446
+LIBSRC-LIB36-ENT-WRD-0028775,descriptive_identity,"""compound emotion""",https://www.wikidata.org/wiki/Q485446
+LIBSRC-LIB36-ENT-WRD-0028775,descriptive_identity,"""emotion lexical occurrence""",https://www.wikidata.org/wiki/Q485446
+LIBSRC-LIB36-ENT-WRD-0028775,component_relationship,"""anticipation""",https://www.wikidata.org/wiki/Q485446
+LIBSRC-LIB36-ENT-WRD-0028775,component_relationship,"""joy""",https://www.wikidata.org/wiki/Q485446
+LIBSRC-LIB36-ENT-WRD-0028801,descriptive_identity,"""literary work""",https://www.wikidata.org/wiki/Q3549525
+LIBSRC-LIB36-ENT-WRD-0028832,descriptive_identity,"""cerebral sulcus""",https://www.wikidata.org/wiki/Q1139567
+LIBSRC-LIB36-ENT-WRD-0028832,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q1139567
+LIBSRC-LIB36-ENT-WRD-0028835,descriptive_identity,"""sensory region""",https://www.wikidata.org/wiki/Q207850
+LIBSRC-LIB36-ENT-WRD-0028835,component_relationship,"""human breast""",https://www.wikidata.org/wiki/Q207850
+LIBSRC-LIB36-ENT-WRD-0028873,descriptive_identity,"""anatomical point of skull""",https://www.wikidata.org/wiki/Q248868
+LIBSRC-LIB36-ENT-WRD-0028990,descriptive_identity,"""taxon""",https://www.wikidata.org/wiki/Q14533713
+LIBSRC-LIB36-ENT-WRD-0028998,descriptive_identity,"""typeface""",https://www.wikidata.org/wiki/Q135228939
+LIBSRC-LIB36-ENT-WRD-0028998,manufacturer_or_creator,"""Ray Larabie""",https://www.wikidata.org/wiki/Q135228939
+LIBSRC-LIB36-ENT-WRD-0028998,manufacturer_or_creator,"""Typodermic Fonts Inc.""",https://www.wikidata.org/wiki/Q135228939
+LIBSRC-LIB36-ENT-WRD-0029003,descriptive_identity,"""hairstyle""",https://www.wikidata.org/wiki/Q2516953
+LIBSRC-LIB36-ENT-WRD-0029031,descriptive_identity,"""record label""",https://www.wikidata.org/wiki/Q1660305
+LIBSRC-LIB36-ENT-WRD-0029278,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q1056395
+LIBSRC-LIB36-ENT-WRD-0029278,descriptive_identity,"""organ subdivision cluster""",https://www.wikidata.org/wiki/Q1056395
+LIBSRC-LIB36-ENT-WRD-0029278,descriptive_identity,"""particular anatomical entity""",https://www.wikidata.org/wiki/Q1056395
+LIBSRC-LIB36-ENT-WRD-0029283,descriptive_identity,"""passive articulator""",https://www.wikidata.org/wiki/Q1142321
+LIBSRC-LIB36-ENT-WRD-0029283,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q1142321
+LIBSRC-LIB36-ENT-WRD-0029406,descriptive_identity,"""artery""",https://www.wikidata.org/wiki/Q615993
+LIBSRC-LIB36-ENT-WRD-0029406,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q615993
+LIBSRC-LIB36-ENT-WRD-0029406,descriptive_identity,"""segment of aorta""",https://www.wikidata.org/wiki/Q615993
+LIBSRC-LIB36-ENT-WRD-0029406,descriptive_identity,"""particular anatomical entity""",https://www.wikidata.org/wiki/Q615993
+LIBSRC-LIB36-ENT-WRD-0029410,descriptive_identity,"""microvessel""",https://www.wikidata.org/wiki/Q501908
+LIBSRC-LIB36-ENT-WRD-0029410,descriptive_identity,"""segment of arterial tree organ""",https://www.wikidata.org/wiki/Q501908
+LIBSRC-LIB36-ENT-WRD-0029410,descriptive_identity,"""particular anatomical entity""",https://www.wikidata.org/wiki/Q501908
+LIBSRC-LIB36-ENT-WRD-0029410,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q501908
+LIBSRC-LIB36-ENT-WRD-0029750,descriptive_identity,"""extracellular fluid""",https://www.wikidata.org/wiki/Q477946
+LIBSRC-LIB36-ENT-WRD-0029750,descriptive_identity,"""transudate""",https://www.wikidata.org/wiki/Q477946
+LIBSRC-LIB36-ENT-WRD-0029750,descriptive_identity,"""particular anatomical entity""",https://www.wikidata.org/wiki/Q477946
+LIBSRC-LIB36-ENT-WRD-0029750,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q477946
+LIBSRC-LIB36-ENT-WRD-0029789,descriptive_identity,"""excrement""",https://www.wikidata.org/wiki/Q3503092
+LIBSRC-LIB36-ENT-WRD-0029789,descriptive_identity,"""secretion""",https://www.wikidata.org/wiki/Q3503092
+LIBSRC-LIB36-ENT-WRD-0029789,descriptive_identity,"""excretion""",https://www.wikidata.org/wiki/Q3503092
+LIBSRC-LIB36-ENT-WRD-0029789,descriptive_identity,"""particular anatomical entity""",https://www.wikidata.org/wiki/Q3503092
+LIBSRC-LIB36-ENT-WRD-0029789,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q3503092
+LIBSRC-LIB36-ENT-WRD-0029846,descriptive_identity,"""congenital heart disease""",https://www.wikidata.org/wiki/Q2072063
+LIBSRC-LIB36-ENT-WRD-0029846,descriptive_identity,"""arterial duct anomaly""",https://www.wikidata.org/wiki/Q2072063
+LIBSRC-LIB36-ENT-WRD-0029846,descriptive_identity,"""developmental defect during embryogenesis""",https://www.wikidata.org/wiki/Q2072063
+LIBSRC-LIB36-ENT-WRD-0029846,descriptive_identity,"""type of disease""",https://www.wikidata.org/wiki/Q2072063
+LIBSRC-LIB36-ENT-WRD-0029892,descriptive_identity,"""organ""",https://www.wikidata.org/wiki/Q1135563
+LIBSRC-LIB36-ENT-WRD-0029892,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q1135563
+LIBSRC-LIB36-ENT-WRD-0029892,descriptive_identity,"""organ component""",https://www.wikidata.org/wiki/Q1135563
+LIBSRC-LIB36-ENT-WRD-0029892,descriptive_identity,"""particular anatomical entity""",https://www.wikidata.org/wiki/Q1135563
+LIBSRC-LIB36-ENT-WRD-0029916,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q135015355
+LIBSRC-LIB36-ENT-WRD-0030009,descriptive_identity,"""white blood cell""",https://www.wikidata.org/wiki/Q184204
+LIBSRC-LIB36-ENT-WRD-0030009,descriptive_identity,"""antigen-presenting cell""",https://www.wikidata.org/wiki/Q184204
+LIBSRC-LIB36-ENT-WRD-0030009,descriptive_identity,"""differentiated hemal cell""",https://www.wikidata.org/wiki/Q184204
+LIBSRC-LIB36-ENT-WRD-0030009,descriptive_identity,"""phagocyte""",https://www.wikidata.org/wiki/Q184204
+LIBSRC-LIB36-ENT-WRD-0030009,descriptive_identity,"""cell type""",https://www.wikidata.org/wiki/Q184204
+LIBSRC-LIB36-ENT-WRD-0030076,descriptive_identity,"""neural pathway""",https://www.wikidata.org/wiki/Q1063501
+LIBSRC-LIB36-ENT-WRD-0030169,descriptive_identity,"""meninges""",https://www.wikidata.org/wiki/Q1394389
+LIBSRC-LIB36-ENT-WRD-0030169,descriptive_identity,"""meninx""",https://www.wikidata.org/wiki/Q1394389
+LIBSRC-LIB36-ENT-WRD-0030169,descriptive_identity,"""particular anatomical entity""",https://www.wikidata.org/wiki/Q1394389
+LIBSRC-LIB36-ENT-WRD-0030169,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q1394389
+LIBSRC-LIB36-ENT-WRD-0030199,descriptive_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Q7698916
+LIBSRC-LIB36-ENT-WRD-0030207,descriptive_identity,"""region of cerebral cortex""",https://www.wikidata.org/wiki/Q824214
+LIBSRC-LIB36-ENT-WRD-0030249,descriptive_identity,"""nucleus of brain""",https://www.wikidata.org/wiki/Q753278
+LIBSRC-LIB36-ENT-WRD-0030249,descriptive_identity,"""particular anatomical entity""",https://www.wikidata.org/wiki/Q753278
+LIBSRC-LIB36-ENT-WRD-0030249,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q753278
+LIBSRC-LIB36-ENT-WRD-0030259,descriptive_identity,"""zone of neuraxis""",https://www.wikidata.org/wiki/Q750588
+LIBSRC-LIB36-ENT-WRD-0030259,descriptive_identity,"""particular anatomical entity""",https://www.wikidata.org/wiki/Q750588
+LIBSRC-LIB36-ENT-WRD-0030259,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q750588
+LIBSRC-LIB36-ENT-WRD-0030260,descriptive_identity,"""anatomical structure""",https://www.wikidata.org/wiki/Q382991
+LIBSRC-LIB36-ENT-WRD-0030285,descriptive_identity,"""Wikimedia disambiguation page""",https://www.wikidata.org/wiki/Q6821214
+LIBSRC-LIB36-ENT-WRD-0030295,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q73408408
+LIBSRC-LIB36-ENT-WRD-0030301,descriptive_identity,"""road""",https://www.wikidata.org/wiki/Q4461802
+LIBSRC-LIB36-ENT-WRD-0030349,descriptive_identity,"""television series episode""",https://www.wikidata.org/wiki/Q4690702
+LIBSRC-LIB36-ENT-WRD-0030350,descriptive_identity,"""organ type""",https://www.wikidata.org/wiki/Q5880
+LIBSRC-LIB36-ENT-WRD-0030350,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q5880
+LIBSRC-LIB36-ENT-WRD-0030350,descriptive_identity,"""sex organ""",https://www.wikidata.org/wiki/Q5880
+LIBSRC-LIB36-ENT-WRD-0030350,descriptive_identity,"""subdivision of oviduct""",https://www.wikidata.org/wiki/Q5880
+LIBSRC-LIB36-ENT-WRD-0030350,descriptive_identity,"""organ with organ cavity""",https://www.wikidata.org/wiki/Q5880
+LIBSRC-LIB36-ENT-WRD-0030350,descriptive_identity,"""particular anatomical entity""",https://www.wikidata.org/wiki/Q5880
+LIBSRC-LIB36-ENT-WRD-0030373,descriptive_identity,"""zone of continuity""",https://www.wikidata.org/wiki/Q2709123
+LIBSRC-LIB36-ENT-WRD-0030373,descriptive_identity,"""particular anatomical entity""",https://www.wikidata.org/wiki/Q2709123
+LIBSRC-LIB36-ENT-WRD-0030373,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q2709123
+LIBSRC-LIB36-ENT-WRD-0030391,descriptive_identity,"""anatomical cluster type""",https://www.wikidata.org/wiki/Q9628
+LIBSRC-LIB36-ENT-WRD-0030391,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q9628
+LIBSRC-LIB36-ENT-WRD-0030391,descriptive_identity,"""subdivision of pharynx""",https://www.wikidata.org/wiki/Q9628
+LIBSRC-LIB36-ENT-WRD-0030393,descriptive_identity,"""anatomical cluster type""",https://www.wikidata.org/wiki/Q9637
+LIBSRC-LIB36-ENT-WRD-0030393,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q9637
+LIBSRC-LIB36-ENT-WRD-0030393,descriptive_identity,"""organ type""",https://www.wikidata.org/wiki/Q9637
+LIBSRC-LIB36-ENT-WRD-0030393,descriptive_identity,"""heterogeneous anatomical cluster""",https://www.wikidata.org/wiki/Q9637
+LIBSRC-LIB36-ENT-WRD-0030393,descriptive_identity,"""particular anatomical entity""",https://www.wikidata.org/wiki/Q9637
+LIBSRC-LIB36-ENT-WRD-0030393,descriptive_identity,"""dysphonia""",https://www.wikidata.org/wiki/Q9637
+LIBSRC-LIB36-ENT-WRD-0030393,descriptive_identity,"""aphonia""",https://www.wikidata.org/wiki/Q9637
+LIBSRC-LIB36-ENT-WRD-0030430,descriptive_identity,"""organ type""",https://www.wikidata.org/wiki/Q9656
+LIBSRC-LIB36-ENT-WRD-0030430,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q9656
+LIBSRC-LIB36-ENT-WRD-0030430,descriptive_identity,"""organ with organ cavity""",https://www.wikidata.org/wiki/Q9656
+LIBSRC-LIB36-ENT-WRD-0030430,descriptive_identity,"""particular anatomical entity""",https://www.wikidata.org/wiki/Q9656
+LIBSRC-LIB36-ENT-WRD-0030440,descriptive_identity,"""record label""",https://www.wikidata.org/wiki/Q4818321
+LIBSRC-LIB36-ENT-WRD-0030442,descriptive_identity,"""hairstyle""",https://www.wikidata.org/wiki/Q273761
+LIBSRC-LIB36-ENT-WRD-0030442,descriptive_identity,"""shaved hair design""",https://www.wikidata.org/wiki/Q273761
+LIBSRC-LIB36-ENT-WRD-0030471,descriptive_identity,"""comune of Italy""",https://www.wikidata.org/wiki/Q46832
+LIBSRC-LIB36-ENT-WRD-0030493,descriptive_identity,"""subdivision of pectoral girdle""",https://www.wikidata.org/wiki/Q499
+LIBSRC-LIB36-ENT-WRD-0030493,descriptive_identity,"""particular anatomical entity""",https://www.wikidata.org/wiki/Q499
+LIBSRC-LIB36-ENT-WRD-0030493,descriptive_identity,"""surface proper of axilla""",https://www.wikidata.org/wiki/Q499
+LIBSRC-LIB36-ENT-WRD-0030493,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q499
+LIBSRC-LIB36-ENT-WRD-0030493,descriptive_identity,"""organism subdivision type""",https://www.wikidata.org/wiki/Q499
+LIBSRC-LIB36-ENT-WRD-0030493,component_relationship,"""skin""",https://www.wikidata.org/wiki/Q499
+LIBSRC-LIB36-ENT-WRD-0030493,component_relationship,"""hair""",https://www.wikidata.org/wiki/Q499
+LIBSRC-LIB36-ENT-WRD-0030519,descriptive_identity,"""region of breast""",https://www.wikidata.org/wiki/Q843533
+LIBSRC-LIB36-ENT-WRD-0030519,descriptive_identity,"""particular anatomical entity""",https://www.wikidata.org/wiki/Q843533
+LIBSRC-LIB36-ENT-WRD-0030519,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q843533
+LIBSRC-LIB36-ENT-WRD-0030575,descriptive_identity,"""single""",https://www.wikidata.org/wiki/Q39073711
+LIBSRC-LIB36-ENT-WRD-0030610,descriptive_identity,"""multilinear map""",https://www.wikidata.org/wiki/Q188524
+LIBSRC-LIB36-ENT-WRD-0030610,descriptive_identity,"""mathematical object""",https://www.wikidata.org/wiki/Q188524
+LIBSRC-LIB36-ENT-WRD-0030610,descriptive_identity,"""geometric concept""",https://www.wikidata.org/wiki/Q188524
+LIBSRC-LIB36-ENT-WRD-0030610,descriptive_identity,"""general quantity""",https://www.wikidata.org/wiki/Q188524
+LIBSRC-LIB36-ENT-WRD-0030699,descriptive_identity,"""vertebra""",https://www.wikidata.org/wiki/Q2253183
+LIBSRC-LIB36-ENT-WRD-0030699,descriptive_identity,"""class of anatomical entity""",https://www.wikidata.org/wiki/Q2253183
+LIBSRC-LIB36-ENT-WRD-0030725,descriptive_identity,"""taxon""",https://www.wikidata.org/wiki/Q7800437
+LIBSRC-LIB36-ENT-WRD-0030736,descriptive_identity,"""functional joint""",https://www.wikidata.org/wiki/Q1474177
+LIBSRC-LIB36-ENT-WRD-0030748,descriptive_identity,"""human""",https://www.wikidata.org/wiki/Q104530804
+LIBSRC-LIB36-ENT-WRD-0030839,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q8027410
+LIBSRC-LIB36-ENT-WRD-0030877,descriptive_identity,"""television series episode""",https://www.wikidata.org/wiki/Q114537886
+LIBSRC-LIB36-ENT-WRD-0030881,descriptive_identity,"""online lyrics database""",https://www.wikidata.org/wiki/Q3419343
+LIBSRC-LIB36-ENT-WRD-0030881,descriptive_identity,"""business""",https://www.wikidata.org/wiki/Q3419343
+LIBSRC-LIB36-ENT-WRD-0030882,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q16847572
+LIBSRC-LIB36-ENT-WRD-0030895,descriptive_identity,"""saison""",https://www.wikidata.org/wiki/Q140205148
+LIBSRC-LIB36-ENT-WRD-0030895,manufacturer_or_creator,"""Q140204677""",https://www.wikidata.org/wiki/Q140205148
+LIBSRC-LIB36-ENT-WRD-0030902,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q16870676
+LIBSRC-LIB36-ENT-WRD-0030940,descriptive_identity,"""art genre""",https://www.wikidata.org/wiki/Q3333194
+LIBSRC-LIB36-ENT-WRD-0030950,descriptive_identity,"""music genre""",https://www.wikidata.org/wiki/Q4958465
+LIBSRC-LIB36-ENT-WRD-0030955,descriptive_identity,"""skill""",https://www.wikidata.org/wiki/Q8236
+LIBSRC-LIB36-ENT-WRD-0030955,descriptive_identity,"""basic study subject""",https://www.wikidata.org/wiki/Q8236
+LIBSRC-LIB36-ENT-WRD-0030955,descriptive_identity,"""concept""",https://www.wikidata.org/wiki/Q8236
+LIBSRC-LIB36-ENT-WRD-0030955,descriptive_identity,"""academic discipline""",https://www.wikidata.org/wiki/Q8236
+LIBSRC-LIB36-ENT-WRD-0030982,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q5268471
+LIBSRC-LIB36-ENT-WRD-0030984,descriptive_identity,"""short film""",https://www.wikidata.org/wiki/Q104879945
+LIBSRC-LIB36-ENT-WRD-0031030,descriptive_identity,"""monotypic taxon""",https://www.wikidata.org/wiki/Q13624084
+LIBSRC-LIB36-ENT-WRD-0031049,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q3279830
+LIBSRC-LIB36-ENT-WRD-0031051,descriptive_identity,"""concept""",https://www.wikidata.org/wiki/Q141993146
+LIBSRC-LIB36-ENT-WRD-0031055,descriptive_identity,"""organization""",https://www.wikidata.org/wiki/Q132110533
+LIBSRC-LIB36-ENT-WRD-0031072,descriptive_identity,"""proprioception""",https://www.wikidata.org/wiki/Q59280788
+LIBSRC-LIB36-ENT-WRD-0031084,descriptive_identity,"""literary work""",https://www.wikidata.org/wiki/Q4298797
+LIBSRC-LIB36-ENT-WRD-0031090,descriptive_identity,"""conceptual system""",https://www.wikidata.org/wiki/Q184876
+LIBSRC-LIB36-ENT-WRD-0031090,descriptive_identity,"""point of view""",https://www.wikidata.org/wiki/Q184876
+LIBSRC-LIB36-ENT-WRD-0031090,descriptive_identity,"""conceptual model""",https://www.wikidata.org/wiki/Q184876
+LIBSRC-LIB36-ENT-WRD-0031090,descriptive_identity,"""concept in physics""",https://www.wikidata.org/wiki/Q184876
+LIBSRC-LIB36-ENT-WRD-0031090,descriptive_identity,"""notional endurant""",https://www.wikidata.org/wiki/Q184876
+LIBSRC-LIB36-ENT-WRD-0031090,descriptive_identity,"""descriptive content entity""",https://www.wikidata.org/wiki/Q184876
+LIBSRC-LIB36-ENT-WRD-0031090,component_relationship,"""reference point""",https://www.wikidata.org/wiki/Q184876
+LIBSRC-LIB36-ENT-WRD-0031090,component_relationship,"""basis""",https://www.wikidata.org/wiki/Q184876
+LIBSRC-LIB36-ENT-WRD-0031090,descriptive_identity,"""physics term""",https://www.wikidata.org/wiki/Q184876
+LIBSRC-LIB36-ENT-WRD-0031112,descriptive_identity,"""convention""",https://www.wikidata.org/wiki/Q251777
+LIBSRC-LIB36-ENT-WRD-0031119,descriptive_identity,"""amendment""",https://www.wikidata.org/wiki/Q3847997
+LIBSRC-LIB36-ENT-WRD-0031119,descriptive_identity,"""treaty""",https://www.wikidata.org/wiki/Q3847997
+LIBSRC-LIB36-ENT-WRD-0031139,descriptive_identity,"""cognitive disorder""",https://www.wikidata.org/wiki/Q11072
+LIBSRC-LIB36-ENT-WRD-0031139,descriptive_identity,"""memory disorder""",https://www.wikidata.org/wiki/Q11072
+LIBSRC-LIB36-ENT-WRD-0031139,descriptive_identity,"""psychopathological syndrome""",https://www.wikidata.org/wiki/Q11072
+LIBSRC-LIB36-ENT-WRD-0031139,descriptive_identity,"""type of disease""",https://www.wikidata.org/wiki/Q11072
+LIBSRC-LIB36-ENT-WRD-0031139,descriptive_identity,"""symptom or sign""",https://www.wikidata.org/wiki/Q11072
+LIBSRC-LIB36-ENT-WRD-0031141,descriptive_identity,"""amnesia""",https://www.wikidata.org/wiki/Q572111
+LIBSRC-LIB36-ENT-WRD-0031141,descriptive_identity,"""type of disease""",https://www.wikidata.org/wiki/Q572111
+LIBSRC-LIB36-ENT-WRD-0031142,descriptive_identity,"""amnesia""",https://www.wikidata.org/wiki/Q1193891
+LIBSRC-LIB36-ENT-WRD-0031142,descriptive_identity,"""type of disease""",https://www.wikidata.org/wiki/Q1193891
+LIBSRC-LIB36-ENT-WRD-0031143,descriptive_identity,"""literary work""",https://www.wikidata.org/wiki/Q19031788
+LIBSRC-LIB36-ENT-WRD-0031144,descriptive_identity,"""television series episode""",https://www.wikidata.org/wiki/Q114473990
+LIBSRC-LIB36-ENT-WRD-0031150,descriptive_identity,"""male given name""",https://www.wikidata.org/wiki/Q10666489
+LIBSRC-LIB36-ENT-WRD-0031151,descriptive_identity,"""song""",https://www.wikidata.org/wiki/Q3804941
+LIBSRC-LIB36-ENT-WRD-0031151,descriptive_identity,"""single""",https://www.wikidata.org/wiki/Q3804941
+LIBSRC-LIB36-ENT-WRD-0031155,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37316107
+LIBSRC-LIB36-ENT-WRD-0031172,descriptive_identity,"""condition""",https://www.wikidata.org/wiki/Q12829165
+LIBSRC-LIB36-ENT-WRD-0031172,descriptive_identity,"""neurological and physiological symptom""",https://www.wikidata.org/wiki/Q12829165
+LIBSRC-LIB36-ENT-WRD-0031172,descriptive_identity,"""alteration of consciousness""",https://www.wikidata.org/wiki/Q12829165
+LIBSRC-LIB36-ENT-WRD-0031172,descriptive_identity,"""symptom or sign""",https://www.wikidata.org/wiki/Q12829165
+LIBSRC-LIB36-ENT-WRD-0031175,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q192755
+LIBSRC-LIB36-ENT-WRD-0031203,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q132201036
+LIBSRC-LIB36-ENT-WRD-0031227,descriptive_identity,"""literary work""",https://www.wikidata.org/wiki/Q54807189
+LIBSRC-LIB36-ENT-WRD-0031233,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q37302987
+LIBSRC-LIB36-ENT-WRD-0031286,descriptive_identity,"""occurrent""",https://www.wikidata.org/wiki/Q3249551
+LIBSRC-LIB36-ENT-WRD-0031286,descriptive_identity,"""occurrence""",https://www.wikidata.org/wiki/Q3249551
+LIBSRC-LIB36-ENT-WRD-0031286,descriptive_identity,"""temporalized entity""",https://www.wikidata.org/wiki/Q3249551
+LIBSRC-LIB36-ENT-WRD-0031286,descriptive_identity,"""perdurant""",https://www.wikidata.org/wiki/Q3249551
+LIBSRC-LIB36-ENT-WRD-0031286,component_relationship,"""occurrence""",https://www.wikidata.org/wiki/Q3249551
+LIBSRC-LIB36-ENT-WRD-0031286,component_relationship,"""beginning""",https://www.wikidata.org/wiki/Q3249551
+LIBSRC-LIB36-ENT-WRD-0031286,component_relationship,"""central part""",https://www.wikidata.org/wiki/Q3249551
+LIBSRC-LIB36-ENT-WRD-0031286,component_relationship,"""end""",https://www.wikidata.org/wiki/Q3249551
+LIBSRC-LIB36-ENT-WRD-0031286,descriptive_identity,"""BFO class""",https://www.wikidata.org/wiki/Q3249551
+LIBSRC-LIB36-ENT-WRD-0031311,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q17112737
+LIBSRC-LIB36-ENT-WRD-0031324,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q122341605
+LIBSRC-LIB36-ENT-WRD-0031337,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q16951258
+LIBSRC-LIB36-ENT-WRD-0031367,descriptive_identity,"""family name""",https://www.wikidata.org/wiki/Q16860038
+LIBSRC-LIB36-ENT-WRD-0031397,descriptive_identity,"""scholarly article""",https://www.wikidata.org/wiki/Q80990875
+LIBSRC-LIB36-ENT-WRD-0031432,descriptive_identity,"""branch of mathematics""",https://www.wikidata.org/wiki/Q42989
+LIBSRC-LIB36-ENT-WRD-0031432,descriptive_identity,"""mathematical theory""",https://www.wikidata.org/wiki/Q42989
+LIBSRC-LIB36-ENT-WRD-0031432,descriptive_identity,"""mathematics""",https://www.wikidata.org/wiki/Q42989
+LIBSRC-LIB36-ENT-WRD-0031447,descriptive_identity,"""evaluation""",https://www.wikidata.org/wiki/Q28873665
+LIBSRC-LIB36-ENT-WRD-0031447,descriptive_identity,"""measurement""",https://www.wikidata.org/wiki/Q28873665
+LIBSRC-LIB36-ENT-WRD-0031447,descriptive_identity,"""classification scheme""",https://www.wikidata.org/wiki/Q28873665
+LIBSRC-LIB36-ENT-WRD-0031453,descriptive_identity,"""town""",https://www.wikidata.org/wiki/Q858133
+LIBSRC-LIB36-ENT-WRD-0031457,descriptive_identity,"""symbolism""",https://www.wikidata.org/wiki/Q220304
+LIBSRC-LIB36-ENT-WRD-0031457,descriptive_identity,"""art genre""",https://www.wikidata.org/wiki/Q220304
+LIBSRC-LIB36-ENT-WRD-0031513,descriptive_identity,"""medical test""",https://www.wikidata.org/wiki/Q7808073
+LIBSRC-LIB36-ENT-WRD-0031523,descriptive_identity,"""behavior""",https://www.wikidata.org/wiki/Q169207
+LIBSRC-LIB36-ENT-WRD-0031523,descriptive_identity,"""social issue""",https://www.wikidata.org/wiki/Q169207
+LIBSRC-LIB36-ENT-WRD-0031523,descriptive_identity,"""discrimination""",https://www.wikidata.org/wiki/Q169207
+LIBSRC-LIB36-ENT-WRD-0031523,descriptive_identity,"""hate crime""",https://www.wikidata.org/wiki/Q169207
+LIBSRC-LIB36-ENT-WRD-0031523,component_relationship,"""racism""",https://www.wikidata.org/wiki/Q169207
+LIBSRC-LIB36-ENT-WRD-0031523,component_relationship,"""sexism""",https://www.wikidata.org/wiki/Q169207
+LIBSRC-LIB36-ENT-WRD-0031523,component_relationship,"""ableism""",https://www.wikidata.org/wiki/Q169207
+LIBSRC-LIB36-ENT-WRD-0031523,component_relationship,"""lookism""",https://www.wikidata.org/wiki/Q169207
+LIBSRC-LIB36-ENT-WRD-0031523,component_relationship,"""class discrimination""",https://www.wikidata.org/wiki/Q169207
+LIBSRC-LIB36-ENT-WRD-0031523,component_relationship,"""homophobia""",https://www.wikidata.org/wiki/Q169207
+LIBSRC-LIB36-ENT-WRD-0031523,component_relationship,"""transphobia""",https://www.wikidata.org/wiki/Q169207
+LIBSRC-LIB36-ENT-WRD-0031527,descriptive_identity,"""Star Trek episode""",https://www.wikidata.org/wiki/Q111031106
+LIBSRC-LIB36-ENT-WRD-0031527,manufacturer_or_creator,"""Gene Roddenberry""",https://www.wikidata.org/wiki/Q111031106
+LIBSRC-LIB36-ENT-WRD-0031527,manufacturer_or_creator,"""Bryan Fuller""",https://www.wikidata.org/wiki/Q111031106
+LIBSRC-LIB36-ENT-WRD-0031527,manufacturer_or_creator,"""Alex Kurtzman""",https://www.wikidata.org/wiki/Q111031106
+LIBSRC-LIB36-ENT-WRD-0031534,descriptive_identity,"""culture""",https://www.wikidata.org/wiki/Q12684
+LIBSRC-LIB36-ENT-WRD-0031534,descriptive_identity,"""economic activity""",https://www.wikidata.org/wiki/Q12684
+LIBSRC-LIB36-ENT-WRD-0031534,descriptive_identity,"""fad""",https://www.wikidata.org/wiki/Q12684
+LIBSRC-LIB36-ENT-WRD-0031583,descriptive_identity,"""memory""",https://www.wikidata.org/wiki/Q18599
+LIBSRC-LIB36-ENT-WRD-0031583,descriptive_identity,"""biological process""",https://www.wikidata.org/wiki/Q18599
+LIBSRC-LIB36-ENT-WRD-0031583,descriptive_identity,"""memory type""",https://www.wikidata.org/wiki/Q18599
+LIBSRC-LIB36-ENT-WRD-0031584,descriptive_identity,"""memory""",https://www.wikidata.org/wiki/Q11337567
+LIBSRC-LIB36-ENT-WRD-0031584,descriptive_identity,"""memory type""",https://www.wikidata.org/wiki/Q11337567
+LIBSRC-LIB36-ENT-WRD-0031585,descriptive_identity,"""memory""",https://www.wikidata.org/wiki/Q18601
+LIBSRC-LIB36-ENT-WRD-0031585,descriptive_identity,"""biological process""",https://www.wikidata.org/wiki/Q18601
+LIBSRC-LIB36-ENT-WRD-0031585,descriptive_identity,"""memory type""",https://www.wikidata.org/wiki/Q18601
+LIBSRC-LIB36-ENT-WRD-0031586,descriptive_identity,"""memory""",https://www.wikidata.org/wiki/Q18646
+LIBSRC-LIB36-ENT-WRD-0031586,descriptive_identity,"""memory type""",https://www.wikidata.org/wiki/Q18646
+LIBSRC-LIB36-ENT-WRD-0031589,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q129534751
+LIBSRC-LIB36-ENT-WRD-0031600,descriptive_identity,"""nonprofit organization""",https://www.wikidata.org/wiki/Q15911314
+LIBSRC-LIB36-ENT-WRD-0031600,descriptive_identity,"""group of humans""",https://www.wikidata.org/wiki/Q15911314
+LIBSRC-LIB36-ENT-WRD-0031600,descriptive_identity,"""group""",https://www.wikidata.org/wiki/Q15911314
+LIBSRC-LIB36-ENT-WRD-0031600,descriptive_identity,"""agent""",https://www.wikidata.org/wiki/Q15911314
+LIBSRC-LIB36-ENT-WRD-0031600,descriptive_identity,"""legal form""",https://www.wikidata.org/wiki/Q15911314
+LIBSRC-LIB36-ENT-WRD-0031600,component_relationship,"""legal person""",https://www.wikidata.org/wiki/Q15911314
+LIBSRC-LIB36-ENT-WRD-0031605,descriptive_identity,"""painting""",https://www.wikidata.org/wiki/Q49183112
+LIBSRC-LIB36-ENT-WRD-0031605,manufacturer_or_creator,"""Thomas Eakins""",https://www.wikidata.org/wiki/Q49183112
+LIBSRC-LIB36-ENT-WRD-0031605,material_identity,"""oil paint""",https://www.wikidata.org/wiki/Q49183112
+LIBSRC-LIB36-ENT-WRD-0031605,material_identity,"""panel""",https://www.wikidata.org/wiki/Q49183112
+LIBSRC-LIB36-ENT-WRD-0031616,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q16847572
+LIBSRC-LIB36-ENT-WRD-0031618,descriptive_identity,"""enterprise""",https://www.wikidata.org/wiki/Q9368919
+LIBSRC-LIB36-ENT-WRD-0031618,descriptive_identity,"""film production company""",https://www.wikidata.org/wiki/Q9368919
+LIBSRC-LIB36-ENT-WRD-0031618,descriptive_identity,"""film distributor""",https://www.wikidata.org/wiki/Q9368919
+LIBSRC-LIB36-ENT-WRD-0031639,descriptive_identity,"""abstract entity""",https://www.wikidata.org/wiki/Q1156402
+LIBSRC-LIB36-ENT-WRD-0031639,descriptive_identity,"""thought""",https://www.wikidata.org/wiki/Q1156402
+LIBSRC-LIB36-ENT-WRD-0031639,descriptive_identity,"""method""",https://www.wikidata.org/wiki/Q1156402
+LIBSRC-LIB36-ENT-WRD-0031639,descriptive_identity,"""creation""",https://www.wikidata.org/wiki/Q1156402
+LIBSRC-LIB36-ENT-WRD-0031682,descriptive_identity,"""general principles of French law""",https://www.wikidata.org/wiki/Q132382
+LIBSRC-LIB36-ENT-WRD-0031682,descriptive_identity,"""legal term or legal concept""",https://www.wikidata.org/wiki/Q132382
+LIBSRC-LIB36-ENT-WRD-0031704,descriptive_identity,"""communication""",https://www.wikidata.org/wiki/Q358652
+LIBSRC-LIB36-ENT-WRD-0031704,descriptive_identity,"""legal act""",https://www.wikidata.org/wiki/Q358652
+LIBSRC-LIB36-ENT-WRD-0031708,descriptive_identity,"""concept""",https://www.wikidata.org/wiki/Q108458
+LIBSRC-LIB36-ENT-WRD-0031708,descriptive_identity,"""hobby""",https://www.wikidata.org/wiki/Q108458
+LIBSRC-LIB36-ENT-WRD-0031708,descriptive_identity,"""relaxation technique""",https://www.wikidata.org/wiki/Q108458
+LIBSRC-LIB36-ENT-WRD-0031708,descriptive_identity,"""religious concept""",https://www.wikidata.org/wiki/Q108458
+LIBSRC-LIB36-ENT-WRD-0031727,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q7204268
+LIBSRC-LIB36-ENT-WRD-0031751,descriptive_identity,"""creation""",https://www.wikidata.org/wiki/Q309100
+LIBSRC-LIB36-ENT-WRD-0031751,descriptive_identity,"""activity""",https://www.wikidata.org/wiki/Q309100
+LIBSRC-LIB36-ENT-WRD-0031751,descriptive_identity,"""skill""",https://www.wikidata.org/wiki/Q309100
+LIBSRC-LIB36-ENT-WRD-0031751,descriptive_identity,"""type of process""",https://www.wikidata.org/wiki/Q309100
+LIBSRC-LIB36-ENT-WRD-0031751,component_relationship,"""corporate planning""",https://www.wikidata.org/wiki/Q309100
+LIBSRC-LIB36-ENT-WRD-0031758,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q135061583
+LIBSRC-LIB36-ENT-WRD-0031776,descriptive_identity,"""large publisher""",https://www.wikidata.org/wiki/Q19749319
+LIBSRC-LIB36-ENT-WRD-0031776,descriptive_identity,"""publishing house""",https://www.wikidata.org/wiki/Q19749319
+LIBSRC-LIB36-ENT-WRD-0031776,descriptive_identity,"""enterprise""",https://www.wikidata.org/wiki/Q19749319
+LIBSRC-LIB36-ENT-WRD-0031812,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q106513288
+LIBSRC-LIB36-ENT-WRD-0031820,descriptive_identity,"""county town""",https://www.wikidata.org/wiki/Q161491
+LIBSRC-LIB36-ENT-WRD-0031820,descriptive_identity,"""town of the United Kingdom""",https://www.wikidata.org/wiki/Q161491
+LIBSRC-LIB36-ENT-WRD-0031849,descriptive_identity,"""universe""",https://www.wikidata.org/wiki/Q1
+LIBSRC-LIB36-ENT-WRD-0031849,descriptive_identity,"""occurrent""",https://www.wikidata.org/wiki/Q1
+LIBSRC-LIB36-ENT-WRD-0031849,descriptive_identity,"""causal system""",https://www.wikidata.org/wiki/Q1
+LIBSRC-LIB36-ENT-WRD-0031849,component_relationship,"""spacetime""",https://www.wikidata.org/wiki/Q1
+LIBSRC-LIB36-ENT-WRD-0031849,component_relationship,"""observable universe""",https://www.wikidata.org/wiki/Q1
+LIBSRC-LIB36-ENT-WRD-0031849,component_relationship,"""galaxy filament""",https://www.wikidata.org/wiki/Q1
+LIBSRC-LIB36-ENT-WRD-0031849,component_relationship,"""outer space""",https://www.wikidata.org/wiki/Q1
+LIBSRC-LIB36-ENT-WRD-0031849,mass,1e+56,https://www.wikidata.org/wiki/Q1
+LIBSRC-LIB36-ENT-WRD-0031857,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q134968500
+LIBSRC-LIB36-ENT-WRD-0031870,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q62604270
+LIBSRC-LIB36-ENT-WRD-0031873,descriptive_identity,"""measure""",https://www.wikidata.org/wiki/Q522344
+LIBSRC-LIB36-ENT-WRD-0031873,descriptive_identity,"""calculation""",https://www.wikidata.org/wiki/Q522344
+LIBSRC-LIB36-ENT-WRD-0031873,descriptive_identity,"""result""",https://www.wikidata.org/wiki/Q522344
+LIBSRC-LIB36-ENT-WRD-0031902,descriptive_identity,"""evidence""",https://www.wikidata.org/wiki/Q2624821
+LIBSRC-LIB36-ENT-WRD-0031902,descriptive_identity,"""standard of proof""",https://www.wikidata.org/wiki/Q2624821
+LIBSRC-LIB36-ENT-WRD-0031909,descriptive_identity,"""data""",https://www.wikidata.org/wiki/Q218341
+LIBSRC-LIB36-ENT-WRD-0031930,descriptive_identity,"""negative emotion""",https://www.wikidata.org/wiki/Q256401
+LIBSRC-LIB36-ENT-WRD-0031930,descriptive_identity,"""emotion lexical occurrence""",https://www.wikidata.org/wiki/Q256401
+LIBSRC-LIB36-ENT-WRD-0031930,descriptive_identity,"""basic feeling""",https://www.wikidata.org/wiki/Q256401
+LIBSRC-LIB36-ENT-WRD-0031930,descriptive_identity,"""anger prototype emotion""",https://www.wikidata.org/wiki/Q256401
+LIBSRC-LIB36-ENT-WRD-0031964,descriptive_identity,"""film""",https://www.wikidata.org/wiki/Q1809411
+LIBSRC-LIB36-ENT-WRD-0032017,descriptive_identity,"""procedure""",https://www.wikidata.org/wiki/Q8366
+LIBSRC-LIB36-ENT-WRD-0032017,descriptive_identity,"""work""",https://www.wikidata.org/wiki/Q8366
+LIBSRC-LIB36-ENT-WRD-0032017,descriptive_identity,"""mathematical concept""",https://www.wikidata.org/wiki/Q8366
+LIBSRC-LIB36-ENT-WRD-0032017,descriptive_identity,"""directive information content entity""",https://www.wikidata.org/wiki/Q8366
+LIBSRC-LIB36-ENT-WRD-0032022,descriptive_identity,"""self-similarity""",https://www.wikidata.org/wiki/Q179976
+LIBSRC-LIB36-ENT-WRD-0032026,descriptive_identity,"""abstract entity""",https://www.wikidata.org/wiki/Q937228
+LIBSRC-LIB36-ENT-WRD-0032026,descriptive_identity,"""metaclass""",https://www.wikidata.org/wiki/Q937228
+LIBSRC-LIB36-ENT-WRD-0032026,descriptive_identity,"""category of being""",https://www.wikidata.org/wiki/Q937228
+LIBSRC-LIB36-ENT-WRD-0032046,descriptive_identity,"""organizational subdivision""",https://www.wikidata.org/wiki/Q2366457
+LIBSRC-LIB36-ENT-WRD-0032046,descriptive_identity,"""part""",https://www.wikidata.org/wiki/Q2366457
+LIBSRC-LIB36-ENT-WRD-0032049,descriptive_identity,"""point of interest""",https://www.wikidata.org/wiki/Q570116
+LIBSRC-LIB36-ENT-WRD-0032049,descriptive_identity,"""amenity""",https://www.wikidata.org/wiki/Q570116
+LIBSRC-LIB36-ENT-WRD-0032049,component_relationship,"""natural attraction""",https://www.wikidata.org/wiki/Q570116
+LIBSRC-LIB36-ENT-WRD-0032049,descriptive_identity,"""type of place""",https://www.wikidata.org/wiki/Q570116
+LIBSRC-LIB36-ENT-WRD-0032055,descriptive_identity,"""property""",https://www.wikidata.org/wiki/Q309314
+LIBSRC-LIB36-ENT-WRD-0032055,descriptive_identity,"""value""",https://www.wikidata.org/wiki/Q309314
+LIBSRC-LIB36-ENT-WRD-0032055,descriptive_identity,"""region""",https://www.wikidata.org/wiki/Q309314
+LIBSRC-LIB36-ENT-WRD-0032055,descriptive_identity,"""type of property""",https://www.wikidata.org/wiki/Q309314
+LIBSRC-LIB36-ENT-WRD-0032069,descriptive_identity,"""number of entities""",https://www.wikidata.org/wiki/Q1315869
+LIBSRC-LIB36-ENT-WRD-0032069,descriptive_identity,"""mathematical property""",https://www.wikidata.org/wiki/Q1315869
+LIBSRC-LIB36-ENT-WRD-0032095,descriptive_identity,"""polynomial""",https://www.wikidata.org/wiki/Q1474074
+LIBSRC-LIB36-ENT-WRD-0032110,descriptive_identity,"""multilinear map""",https://www.wikidata.org/wiki/Q188524
+LIBSRC-LIB36-ENT-WRD-0032110,descriptive_identity,"""mathematical object""",https://www.wikidata.org/wiki/Q188524
+LIBSRC-LIB36-ENT-WRD-0032110,descriptive_identity,"""geometric concept""",https://www.wikidata.org/wiki/Q188524
+LIBSRC-LIB36-ENT-WRD-0032110,descriptive_identity,"""general quantity""",https://www.wikidata.org/wiki/Q188524
+LIBSRC-LIB36-ENT-WRD-0032135,descriptive_identity,"""television station""",https://www.wikidata.org/wiki/Q316322
+LIBSRC-LIB36-ENT-WRD-0032189,descriptive_identity,"""principle""",https://www.wikidata.org/wiki/Q192690
+LIBSRC-LIB36-ENT-WRD-0032190,descriptive_identity,"""principle""",https://www.wikidata.org/wiki/Q648404
+LIBSRC-LIB36-ENT-WRD-0032190,descriptive_identity,"""economic concept""",https://www.wikidata.org/wiki/Q648404
+LIBSRC-LIB36-ENT-WRD-0032190,descriptive_identity,"""epigrammatic law""",https://www.wikidata.org/wiki/Q648404
+LIBSRC-LIB36-ENT-WRD-0032195,descriptive_identity,"""rule of thumb""",https://www.wikidata.org/wiki/Q138868
+LIBSRC-LIB36-ENT-WRD-0032201,descriptive_identity,"""physical law""",https://www.wikidata.org/wiki/Q190760
+LIBSRC-LIB36-ENT-WRD-0032211,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q1943198
+LIBSRC-LIB36-ENT-WRD-0032219,descriptive_identity,"""book series""",https://www.wikidata.org/wiki/Q55230132
+LIBSRC-LIB36-ENT-WRD-0032235,descriptive_identity,"""stylistic device""",https://www.wikidata.org/wiki/Q591227
+LIBSRC-LIB36-ENT-WRD-0032241,descriptive_identity,"""reasoning""",https://www.wikidata.org/wiki/Q648470
+LIBSRC-LIB36-ENT-WRD-0032241,descriptive_identity,"""philosophy""",https://www.wikidata.org/wiki/Q648470
+LIBSRC-LIB36-ENT-WRD-0032241,descriptive_identity,"""branch of science""",https://www.wikidata.org/wiki/Q648470
+LIBSRC-LIB36-ENT-WRD-0032252,descriptive_identity,"""video game""",https://www.wikidata.org/wiki/Q124063094
+LIBSRC-LIB36-ENT-WRD-0032271,descriptive_identity,"""social engagement""",https://www.wikidata.org/wiki/Q203764
+LIBSRC-LIB36-ENT-WRD-0032271,descriptive_identity,"""advocacy""",https://www.wikidata.org/wiki/Q203764
+LIBSRC-LIB36-ENT-WRD-0032271,descriptive_identity,"""concept""",https://www.wikidata.org/wiki/Q203764
+LIBSRC-LIB36-ENT-WRD-0032271,descriptive_identity,"""occupation""",https://www.wikidata.org/wiki/Q203764
+LIBSRC-LIB36-ENT-WRD-0032274,descriptive_identity,"""album""",https://www.wikidata.org/wiki/Q7200926
+LIBSRC-LIB36-ENT-WRD-0032494,descriptive_identity,"""belief system""",https://www.wikidata.org/wiki/Q9174
+LIBSRC-LIB36-ENT-WRD-0032494,descriptive_identity,"""worldview""",https://www.wikidata.org/wiki/Q9174
+LIBSRC-LIB36-ENT-WRD-0032494,descriptive_identity,"""non-rational belief system""",https://www.wikidata.org/wiki/Q9174
+LIBSRC-LIB36-ENT-WRD-0032494,descriptive_identity,"""information content entity""",https://www.wikidata.org/wiki/Q9174
+LIBSRC-LIB36-ENT-WRD-0032494,descriptive_identity,"""type of worldview""",https://www.wikidata.org/wiki/Q9174
+LIBSRC-LIB36-ENT-WRD-0032494,descriptive_identity,"""activity""",https://www.wikidata.org/wiki/Q9174
+LIBSRC-LIB36-ENT-WRD-0032494,descriptive_identity,"""academic discipline""",https://www.wikidata.org/wiki/Q9174
+LIBSRC-LIB36-ENT-WRD-0032494,descriptive_identity,"""field of study""",https://www.wikidata.org/wiki/Q9174
+LIBSRC-LIB36-ENT-WRD-0032494,descriptive_identity,"""culture""",https://www.wikidata.org/wiki/Q9174
+LIBSRC-LIB36-ENT-WRD-0032494,descriptive_identity,"""tradition""",https://www.wikidata.org/wiki/Q9174
+LIBSRC-LIB36-ENT-WRD-0032494,component_relationship,"""list of saints""",https://www.wikidata.org/wiki/Q9174
+LIBSRC-LIB36-ENT-WRD-0032652,descriptive_identity,"""political ideology""",https://www.wikidata.org/wiki/Q27958682
+LIBSRC-LIB36-ENT-WRD-0032652,descriptive_identity,"""monarchism""",https://www.wikidata.org/wiki/Q27958682
+LIBSRC-LIB36-ENT-WRD-0032652,descriptive_identity,"""conservatism""",https://www.wikidata.org/wiki/Q27958682
+LIBSRC-LIB36-ENT-WRD-0032652,descriptive_identity,"""political Catholicism""",https://www.wikidata.org/wiki/Q27958682
+LIBSRC-LIB36-ENT-WRD-0032652,descriptive_identity,"""traditionalist conservatism""",https://www.wikidata.org/wiki/Q27958682
+LIBSRC-LIB36-ENT-WRD-0032652,descriptive_identity,"""Ultramontanism""",https://www.wikidata.org/wiki/Q27958682
+LIBSRC-LIB36-ENT-WRD-0032652,descriptive_identity,"""Political Traditionalism""",https://www.wikidata.org/wiki/Q27958682
+LIBSRC-LIB36-ENT-WRD-0033207,descriptive_identity,"""branch of mathematics""",https://www.wikidata.org/wiki/Q42989
+LIBSRC-LIB36-ENT-WRD-0033207,descriptive_identity,"""mathematical theory""",https://www.wikidata.org/wiki/Q42989
+LIBSRC-LIB36-ENT-WRD-0033207,descriptive_identity,"""mathematics""",https://www.wikidata.org/wiki/Q42989
+LIBSRC-LIB36-ENT-WRD-0033258,descriptive_identity,"""branch of psychology""",https://www.wikidata.org/wiki/Q500096
+LIBSRC-LIB36-ENT-WRD-0033258,descriptive_identity,"""experimental psychology""",https://www.wikidata.org/wiki/Q500096
+LIBSRC-LIB36-ENT-WRD-0033295,descriptive_identity,"""cultural anthropology""",https://www.wikidata.org/wiki/Q43455
+LIBSRC-LIB36-ENT-WRD-0033295,descriptive_identity,"""cultural studies""",https://www.wikidata.org/wiki/Q43455
+LIBSRC-LIB36-ENT-WRD-0033295,descriptive_identity,"""branch of anthropology""",https://www.wikidata.org/wiki/Q43455
+LIBSRC-LIB36-ENT-WRD-0033295,descriptive_identity,"""academic discipline""",https://www.wikidata.org/wiki/Q43455
+LIBSRC-LIB36-ENT-WRD-0033295,descriptive_identity,"""field of study""",https://www.wikidata.org/wiki/Q43455
+LIBSRC-LIB36-ENT-WRD-0033295,descriptive_identity,"""field of work""",https://www.wikidata.org/wiki/Q43455
+LIBSRC-LIB36-ENT-WRD-0033295,component_relationship,"""ethnopolitics""",https://www.wikidata.org/wiki/Q43455
+LIBSRC-LIB36-ENT-WRD-0033295,component_relationship,"""etnomusicology""",https://www.wikidata.org/wiki/Q43455
+LIBSRC-LIB36-ENT-WRD-0033891,descriptive_identity,"""single""",https://www.wikidata.org/wiki/Q188770
