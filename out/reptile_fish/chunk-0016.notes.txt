@@ -1,0 +1,4 @@
+Queried GBIF species match API (https://api.gbif.org/v1/species/match) for all subjects. Found no matches.
+Conducted positive entity resolution on the chunk locally by analyzing subject names. Found 49 entities indicating types such as: cultural artifact/media/clothing/hardware.
+Examples include: Button with Painted Lady and Dog, Darning sampler, Portrait of Samuel P. Avery, Gaming purse.
+This conclusively proves the subjects are out of scope (museum artifacts, art, media, hardware) for the reptile_fish category, not biological species. Therefore, an empty result is yielded.
