@@ -1,0 +1,620 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB48-ENT-ULN-0329310,identity_label,"[""National Engineering Bureau""]",http://www.wikidata.org/entity/Q33998327
+LIBSRC-LIB48-ENT-ULN-0329310,descriptive_identity,"[""organization""]",http://www.wikidata.org/entity/Q33998327
+LIBSRC-LIB48-ENT-ULN-0329958,identity_label,"[""Golden Press""]",http://www.wikidata.org/entity/Q109100303
+LIBSRC-LIB48-ENT-ULN-0329958,descriptive_identity,"[""publishing house""]",http://www.wikidata.org/entity/Q109100303
+LIBSRC-LIB48-ENT-ULN-0370062,identity_label,"[""Algemeen Nederlands Persbureau""]",http://www.wikidata.org/entity/Q966898
+LIBSRC-LIB48-ENT-ULN-0370062,descriptive_identity,"[""news agency""]",http://www.wikidata.org/entity/Q966898
+LIBSRC-LIB48-ENT-ULN-0383138,identity_label,"[""Becker, Franz""]",http://www.wikidata.org/entity/Q103955281
+LIBSRC-LIB48-ENT-ULN-0383138,descriptive_identity,"[""encyclopedia article""]",http://www.wikidata.org/entity/Q103955281
+LIBSRC-LIB48-ENT-ULN-0395110,identity_label,"[""Crane, Frederick""]",http://www.wikidata.org/entity/Q104037394
+LIBSRC-LIB48-ENT-ULN-0395110,descriptive_identity,"[""encyclopedia article""]",http://www.wikidata.org/entity/Q104037394
+LIBSRC-LIB48-ENT-ULN-0398471,identity_label,"[""Wenzel, Heinrich""]",http://www.wikidata.org/entity/Q27603298
+LIBSRC-LIB48-ENT-ULN-0398471,descriptive_identity,"[""biographical article""]",http://www.wikidata.org/entity/Q27603298
+CAT06_REG_06_ERA_03_1977_airdrop_ent_wrd_0001536,identity_label,"[""airdrop""]",http://www.wikidata.org/entity/Q48743261
+CAT06_REG_06_ERA_03_1977_airdrop_ent_wrd_0001536,descriptive_identity,"[""airlift"", ""payment""]",http://www.wikidata.org/entity/Q48743261
+CAT06_REG_06_ERA_03_2023_depilation_ent_wrd_0001186,identity_label,"[""depilation""]",http://www.wikidata.org/entity/Q97320179
+CAT06_REG_06_ERA_03_2023_depilation_ent_wrd_0001186,descriptive_identity,"[""print"", ""hair removal""]",http://www.wikidata.org/entity/Q97320179
+CAT06_REG_07_ERA_01_2024_record_ent_wrd_0000197,identity_label,"[""record""]",http://www.wikidata.org/entity/Q107435521
+CAT06_REG_07_ERA_01_2024_record_ent_wrd_0000197,descriptive_identity,"[""temporal entity"", ""extremity"", ""composite data type"", ""record"", ""assignable variable"", ""source of information"", ""proto-patient"", ""chunk"", ""document"", ""type of document"", ""manifestation"", ""occurrence""]",http://www.wikidata.org/entity/Q107435521
+CAT06_REG_07_ERA_01_2024_record_ent_wrd_0000197,component_relationship,"[""recorded information"", ""field""]",http://www.wikidata.org/entity/Q107435521
+CAT06_REG_07_ERA_04_1978_consignment_ent_wrd_0001537,identity_label,"[""consignment""]",http://www.wikidata.org/entity/Q1368743
+CAT06_REG_07_ERA_04_1978_consignment_ent_wrd_0001537,descriptive_identity,"[""sale"", ""economic activity""]",http://www.wikidata.org/entity/Q1368743
+CAT06_REG_07_ERA_06_1960_about_face_ent_wrd_0000727,identity_label,"[""about-face""]",http://www.wikidata.org/entity/Q118188011
+CAT06_REG_07_ERA_06_1960_about_face_ent_wrd_0000727,descriptive_identity,"[""metaphor"", ""military order"", ""motion""]",http://www.wikidata.org/entity/Q118188011
+CAT06_REG_08_ERA_01_2013_urban_renewal_ent_wrd_0001968,identity_label,"[""urban renewal""]",http://www.wikidata.org/entity/Q920600
+CAT06_REG_08_ERA_01_2013_urban_renewal_ent_wrd_0001968,descriptive_identity,"[""government program"", ""redevelopment""]",http://www.wikidata.org/entity/Q920600
+CAT06_REG_10_ERA_01_1971_butterfly_ent_wrd_0002850,identity_label,"[""butterfly""]",http://www.wikidata.org/entity/Q139568418
+CAT06_REG_10_ERA_01_1971_butterfly_ent_wrd_0002850,descriptive_identity,"[""literary character"", ""hardware miter"", ""Hexapoda"", ""audio track"", ""options trading strategy"", ""organisms known by a particular common name"", ""mobile charge"", ""anthropomorphic character"", ""structural support"", ""fictional butterfly""]",http://www.wikidata.org/entity/Q139568418
+CAT06_REG_10_ERA_01_1971_butterfly_ent_wrd_0002850,component_relationship,"[""proboscis"", ""compound eye""]",http://www.wikidata.org/entity/Q139568418
+CAT06_REG_10_ERA_02_2015_eye_movement_ent_wrd_0001640,identity_label,"[""eye movement""]",http://www.wikidata.org/entity/Q760256
+CAT06_REG_10_ERA_02_2015_eye_movement_ent_wrd_0001640,descriptive_identity,"[""movement"", ""facial movement""]",http://www.wikidata.org/entity/Q760256
+CAT06_REG_10_ERA_02_2021_housecleaning_ent_wrd_0002900,identity_label,"[""housecleaning""]",http://www.wikidata.org/entity/Q4411775
+CAT06_REG_10_ERA_02_2021_housecleaning_ent_wrd_0002900,descriptive_identity,"[""separation process"", ""activity"", ""cleaning"", ""housekeeping""]",http://www.wikidata.org/entity/Q4411775
+CAT06_REG_06_ERA_06_1991_motion_ent_wrd_0001616,identity_label,"[""motion""]",http://www.wikidata.org/entity/Q134233617
+CAT06_REG_06_ERA_06_1991_motion_ent_wrd_0001616,descriptive_identity,"[""physical process"", ""literary genre"", ""proposal"", ""sports term"", ""motion"", ""change"", ""request"", ""business"", ""action"", ""voting""]",http://www.wikidata.org/entity/Q134233617
+CAT06_REG_06_ERA_06_1991_motion_ent_wrd_0001616,component_relationship,"[""rotation"", ""linear motion""]",http://www.wikidata.org/entity/Q134233617
+CAT06_REG_07_ERA_03_1988_teasing_ent_wrd_0002537,identity_label,"[""teasing""]",http://www.wikidata.org/entity/Q518090
+CAT06_REG_07_ERA_03_1988_teasing_ent_wrd_0002537,descriptive_identity,"[""behavior""]",http://www.wikidata.org/entity/Q518090
+CAT06_REG_07_ERA_04_1974_splashdown_ent_wrd_0001467,identity_label,"[""splashdown""]",http://www.wikidata.org/entity/Q1642255
+CAT06_REG_07_ERA_04_1974_splashdown_ent_wrd_0001467,descriptive_identity,"[""key event"", ""flight phase"", ""water landing""]",http://www.wikidata.org/entity/Q1642255
+CAT06_REG_07_ERA_04_1988_header_ent_wrd_0000557,identity_label,"[""header""]",http://www.wikidata.org/entity/Q94100255
+CAT06_REG_07_ERA_04_1988_header_ent_wrd_0000557,descriptive_identity,"[""metadata"", ""technique"", ""mechanism"", ""flow element"", ""palpable element"", ""association football skill""]",http://www.wikidata.org/entity/Q94100255
+CAT06_REG_07_ERA_04_1988_header_ent_wrd_0000557,component_relationship,"[""magic number""]",http://www.wikidata.org/entity/Q94100255
+CAT06_REG_07_ERA_07_1990_ball_ent_wrd_0000427,identity_label,"[""ball""]",http://www.wikidata.org/entity/Q18545
+CAT06_REG_07_ERA_07_1990_ball_ent_wrd_0000427,descriptive_identity,"[""artificial physical object"", ""spherical body"", ""video game"", ""party"", ""type of physical object by shape"", ""solid figure"", ""unit of measurement"", ""gene"", ""proto-patient"", ""hyperball"", ""toy"", ""convex set"", ""pitch"", ""sports equipment"", ""rhythmic gymnastics apparatus"", ""form of event"", ""ball""]",http://www.wikidata.org/entity/Q18545
+CAT06_REG_07_ERA_07_1990_ball_ent_wrd_0000427,component_relationship,"[""spherical segment"", ""social dance""]",http://www.wikidata.org/entity/Q18545
+CAT06_REG_08_ERA_03_2021_depression_ent_wrd_0000458,identity_label,"[""depression""]",http://www.wikidata.org/entity/Q113965158
+CAT06_REG_08_ERA_03_2021_depression_ent_wrd_0000458,descriptive_identity,"[""landform"", ""geological term"", ""type of disease"", ""disease"", ""geographic location"", ""social issue"", ""Finnish National Land Survey place type"", ""sadness"", ""pharmacological phenomena"", ""IMD cyclone wind scale category"", ""neurological and physiological symptom"", ""economic theory"", ""muscle movement"", ""symptom or sign""]",http://www.wikidata.org/entity/Q113965158
+CAT06_REG_08_ERA_07_1985_poaching_ent_wrd_0001148,identity_label,"[""poaching""]",http://www.wikidata.org/entity/Q34577
+CAT06_REG_08_ERA_07_1985_poaching_ent_wrd_0001148,descriptive_identity,"[""food preparation technique"", ""theft"", ""poaching"", ""environmental crime"", ""snowboarding"", ""civil disobedience"", ""cooking"", ""activity""]",http://www.wikidata.org/entity/Q34577
+CAT06_REG_09_ERA_05_2024_damage_ent_wrd_0001979,identity_label,"[""damage""]",http://www.wikidata.org/entity/Q140419760
+CAT06_REG_09_ERA_05_2024_damage_ent_wrd_0001979,descriptive_identity,"[""game mechanic"", ""game statistic"", ""secondary predicate"", ""reduction"", ""combat mechanic"", ""general term"", ""process"", ""occurrence""]",http://www.wikidata.org/entity/Q140419760
+CAT06_REG_09_ERA_07_1978_prognosis_ent_wrd_0000679,identity_label,"[""prognosis""]",http://www.wikidata.org/entity/Q26493055
+CAT06_REG_09_ERA_07_1978_prognosis_ent_wrd_0000679,descriptive_identity,"[""prognosis"", ""medical diagnosis"", ""projection"", ""estimate""]",http://www.wikidata.org/entity/Q26493055
+CAT06_REG_10_ERA_01_1991_decimalization_ent_wrd_0000890,identity_label,"[""decimalization""]",http://www.wikidata.org/entity/Q385545
+CAT06_REG_10_ERA_01_1991_decimalization_ent_wrd_0000890,descriptive_identity,"[""denomination"", ""reform""]",http://www.wikidata.org/entity/Q385545
+CAT06_REG_10_ERA_01_2009_measure_ent_wrd_0000050,identity_label,"[""measure""]",http://www.wikidata.org/entity/Q133249756
+CAT06_REG_10_ERA_01_2009_measure_ent_wrd_0000050,descriptive_identity,"[""musical-structural concept"", ""additive function"", ""measurement standard"", ""mathematical property"", ""function"", ""quality"", ""property"", ""activity"", ""time interval"", ""content""]",http://www.wikidata.org/entity/Q133249756
+CAT06_REG_07_ERA_01_1982_check_in_ent_wrd_0000617,identity_label,"[""check-in""]",http://www.wikidata.org/entity/Q1068755
+CAT06_REG_07_ERA_01_1982_check_in_ent_wrd_0000617,descriptive_identity,"[""procedure""]",http://www.wikidata.org/entity/Q1068755
+CAT06_REG_07_ERA_06_1976_decimation_ent_wrd_0001007,identity_label,"[""decimation""]",http://www.wikidata.org/entity/Q465119
+CAT06_REG_07_ERA_06_1976_decimation_ent_wrd_0001007,descriptive_identity,"[""punishment""]",http://www.wikidata.org/entity/Q465119
+CAT06_REG_08_ERA_03_1981_maltreatment_ent_wrd_0002068,identity_label,"[""maltreatment""]",http://www.wikidata.org/entity/Q10712725
+CAT06_REG_08_ERA_03_1981_maltreatment_ent_wrd_0002068,descriptive_identity,"[""human rights violation"", ""abuse"", ""human behavior""]",http://www.wikidata.org/entity/Q10712725
+CAT06_REG_08_ERA_06_1969_dog_paddle_ent_wrd_0002848,identity_label,"[""dog paddle""]",http://www.wikidata.org/entity/Q964225
+CAT06_REG_08_ERA_06_1969_dog_paddle_ent_wrd_0002848,descriptive_identity,"[""swimming stroke""]",http://www.wikidata.org/entity/Q964225
+CAT06_REG_09_ERA_05_2014_tubal_ligation_ent_wrd_0000649,identity_label,"[""tubal ligation""]",http://www.wikidata.org/entity/Q1764560
+CAT06_REG_09_ERA_05_2014_tubal_ligation_ent_wrd_0000649,descriptive_identity,"[""surgical procedure"", ""sterilisation""]",http://www.wikidata.org/entity/Q1764560
+CAT06_REG_09_ERA_07_2012_entrance_ent_wrd_0000119,identity_label,"[""entrance""]",http://www.wikidata.org/entity/Q83745292
+CAT06_REG_09_ERA_07_2012_entrance_ent_wrd_0000119,descriptive_identity,"[""architectural element"", ""circulation element"", ""physical location"", ""motion"", ""entrance"", ""portal"", ""action""]",http://www.wikidata.org/entity/Q83745292
+CAT06_REG_09_ERA_07_2012_entrance_ent_wrd_0000119,component_relationship,"[""entryway""]",http://www.wikidata.org/entity/Q83745292
+CAT06_REG_06_ERA_02_1995_salvage_ent_wrd_0000366,identity_label,"[""salvage""]",http://www.wikidata.org/entity/Q107281362
+CAT06_REG_06_ERA_02_1995_salvage_ent_wrd_0000366,descriptive_identity,"[""acquisition"", ""economic activity"", ""recovery""]",http://www.wikidata.org/entity/Q107281362
+CAT06_REG_06_ERA_06_1981_adagio_ent_wrd_0002596,identity_label,"[""adagio""]",http://www.wikidata.org/entity/Q120549714
+CAT06_REG_06_ERA_06_1981_adagio_ent_wrd_0002596,descriptive_identity,"[""musical concept"", ""ballet movement"", ""Python package"", ""tempo""]",http://www.wikidata.org/entity/Q120549714
+CAT06_REG_06_ERA_07_2021_moistening_ent_wrd_0001316,identity_label,"[""moistening""]",http://www.wikidata.org/entity/Q20664944
+CAT06_REG_06_ERA_07_2021_moistening_ent_wrd_0001316,descriptive_identity,"[""action""]",http://www.wikidata.org/entity/Q20664944
+CAT06_REG_08_ERA_02_1991_bank_ent_wrd_0000758,identity_label,"[""bank""]",http://www.wikidata.org/entity/Q140424229
+CAT06_REG_08_ERA_02_1991_bank_ent_wrd_0000758,descriptive_identity,"[""bank"", ""landform"", ""proto-agent"", ""dictionary entry"", ""enterprise"", ""goal"", ""financial institution"", ""weapon family"", ""melee weapon"", ""depository institution"", ""furniture"", ""occupation"", ""shore"", ""financial intermediary"", ""card game"", ""credit institution"", ""knife""]",http://www.wikidata.org/entity/Q140424229
+CAT06_REG_08_ERA_02_1991_bank_ent_wrd_0000758,component_relationship,"[""securities account""]",http://www.wikidata.org/entity/Q140424229
+CAT06_REG_08_ERA_03_1979_percolation_ent_wrd_0000878,identity_label,"[""percolation""]",http://www.wikidata.org/entity/Q117862751
+CAT06_REG_08_ERA_03_1979_percolation_ent_wrd_0000878,descriptive_identity,"[""mathematical model"", ""solid\u2013liquid extraction"", ""stochastic process"", ""random graph""]",http://www.wikidata.org/entity/Q117862751
+CAT06_REG_08_ERA_04_2003_mudra_ent_wrd_0001628,identity_label,"[""mudra""]",http://www.wikidata.org/entity/Q208030
+CAT06_REG_08_ERA_04_2003_mudra_ent_wrd_0001628,descriptive_identity,"[""hand gesture"", ""asana"", ""religious concept""]",http://www.wikidata.org/entity/Q208030
+CAT06_REG_08_ERA_04_2019_quantization_ent_wrd_0001908,identity_label,"[""quantization""]",http://www.wikidata.org/entity/Q2176628
+CAT06_REG_08_ERA_04_2019_quantization_ent_wrd_0001908,descriptive_identity,"[""process"", ""phenomenon"", ""technique"", ""transformation""]",http://www.wikidata.org/entity/Q2176628
+CAT06_REG_09_ERA_01_1992_equalization_ent_wrd_0000099,identity_label,"[""equalization""]",http://www.wikidata.org/entity/Q104531076
+CAT06_REG_09_ERA_01_1992_equalization_ent_wrd_0000099,descriptive_identity,"[""equalization"", ""signal processing""]",http://www.wikidata.org/entity/Q104531076
+CAT06_REG_09_ERA_03_1982_depletion_ent_wrd_0001739,identity_label,"[""depletion""]",http://www.wikidata.org/entity/Q127328829
+CAT06_REG_09_ERA_03_1982_depletion_ent_wrd_0001739,descriptive_identity,"[""process"", ""consumption"", ""depletion""]",http://www.wikidata.org/entity/Q127328829
+CAT06_REG_09_ERA_03_1982_depletion_ent_wrd_0001739,component_relationship,"[""resource depletion""]",http://www.wikidata.org/entity/Q127328829
+CAT06_REG_09_ERA_03_1996_primary_ent_wrd_0000829,identity_label,"[""primary""]",http://www.wikidata.org/entity/Q139329905
+CAT06_REG_09_ERA_03_1996_primary_ent_wrd_0000829,descriptive_identity,"[""specialized term"", ""organic chemistry term"", ""Latinate ordinal numeral"", ""degree of substitution""]",http://www.wikidata.org/entity/Q139329905
+CAT06_REG_10_ERA_06_1967_nightlife_ent_wrd_0002120,identity_label,"[""nightlife""]",http://www.wikidata.org/entity/Q127161993
+CAT06_REG_10_ERA_06_1967_nightlife_ent_wrd_0002120,descriptive_identity,"[""entertainment"", ""cultural activity"", ""welfare"", ""leisure activity"", ""amusement"", ""web series episode"", ""entertainment venue""]",http://www.wikidata.org/entity/Q127161993
+IDB-REG10-CAT03-ERA07-2022-LUNIR,identity_label,"[""LunIR""]",http://www.wikidata.org/entity/Q21028134
+IDB-REG10-CAT03-ERA07-2022-LUNIR,descriptive_identity,"[""CubeSat""]",http://www.wikidata.org/entity/Q21028134
+IDB-REG10-CAT03-ERA07-2022-LUNIR,manufacturer_or_creator,"[""Lockheed Martin Space""]",http://www.wikidata.org/entity/Q21028134
+CAT06_REG_06_ERA_01_1997_beautification_ent_wrd_0001226,identity_label,"[""beautification""]",http://www.wikidata.org/entity/Q135410393
+CAT06_REG_06_ERA_01_1997_beautification_ent_wrd_0001226,descriptive_identity,"[""improvement"", ""beautification""]",http://www.wikidata.org/entity/Q135410393
+CAT06_REG_09_ERA_03_1988_echolocation_ent_wrd_0000689,identity_label,"[""echolocation""]",http://www.wikidata.org/entity/Q217270
+CAT06_REG_09_ERA_03_1988_echolocation_ent_wrd_0000689,descriptive_identity,"[""physical process"", ""technology""]",http://www.wikidata.org/entity/Q217270
+CAT06_REG_09_ERA_04_2002_performance_ent_wrd_0000109,identity_label,"[""performance""]",http://www.wikidata.org/entity/Q35140
+CAT06_REG_09_ERA_04_2002_performance_ent_wrd_0000109,descriptive_identity,"[""measure"", ""effectiveness"", ""proto-patient"", ""artificial object"", ""software"", ""bertsolarism concept"", ""planned event"", ""ecological concept"", ""prestation"", ""field of study"", ""academic major"", ""activity"", ""form of event""]",http://www.wikidata.org/entity/Q35140
+CAT06_REG_09_ERA_07_1962_percussion_ent_wrd_0002709,identity_label,"[""percussion""]",http://www.wikidata.org/entity/Q1501797
+CAT06_REG_09_ERA_07_1962_percussion_ent_wrd_0002709,descriptive_identity,"[""physical examination""]",http://www.wikidata.org/entity/Q1501797
+CAT06_REG_10_ERA_03_1999_about_face_ent_wrd_0001690,identity_label,"[""about-face""]",http://www.wikidata.org/entity/Q118188011
+CAT06_REG_10_ERA_03_1999_about_face_ent_wrd_0001690,descriptive_identity,"[""metaphor"", ""military order"", ""motion""]",http://www.wikidata.org/entity/Q118188011
+CAT06_REG_10_ERA_05_1969_designation_ent_wrd_0000670,identity_label,"[""designation""]",http://www.wikidata.org/entity/Q140408067
+CAT06_REG_10_ERA_05_1969_designation_ent_wrd_0000670,descriptive_identity,"[""sign"", ""name"", ""nomination"", ""secondary predicate"", ""ambiguous Wikidata item"", ""process"", ""type of activity"", ""activity"", ""term""]",http://www.wikidata.org/entity/Q140408067
+CAT11_REG_06_ERA_06_2001_telemarketers_ent_occ_0000636,identity_label,"[""Telemarketers""]",http://www.wikidata.org/entity/Q121356918
+CAT11_REG_06_ERA_06_2001_telemarketers_ent_occ_0000636,descriptive_identity,"[""television series""]",http://www.wikidata.org/entity/Q121356918
+CAT11_REG_08_ERA_02_1983_cashiers_ent_occ_0000618,identity_label,"[""Cashiers""]",http://www.wikidata.org/entity/Q9185091
+CAT11_REG_08_ERA_02_1983_cashiers_ent_occ_0000618,descriptive_identity,"[""unincorporated community"", ""census-designated place in the United States"", ""Wikimedia disambiguation page""]",http://www.wikidata.org/entity/Q9185091
+CAT11_REG_09_ERA_05_2014_tellers_ent_occ_0000649,identity_label,"[""Tellers""]",http://www.wikidata.org/entity/Q37478972
+CAT11_REG_09_ERA_05_2014_tellers_ent_occ_0000649,descriptive_identity,"[""family name"", ""Wikimedia disambiguation page""]",http://www.wikidata.org/entity/Q37478972
+CAT06_REG_06_ERA_01_2003_maneuver_ent_wrd_0000176,identity_label,"[""maneuver""]",http://www.wikidata.org/entity/Q11544377
+CAT06_REG_06_ERA_01_2003_maneuver_ent_wrd_0000176,descriptive_identity,"[""technical activity"", ""Wikimedia disambiguation page"", ""motion"", ""process"", ""term""]",http://www.wikidata.org/entity/Q11544377
+CAT06_REG_06_ERA_07_1969_song_ent_wrd_0002716,identity_label,"[""song""]",http://www.wikidata.org/entity/Q140446284
+CAT06_REG_06_ERA_07_1969_song_ent_wrd_0002716,descriptive_identity,"[""song, audio track, or release group"", ""proto-patient"", ""literary form"", ""type of musical work/composition"", ""lyrico-musical work"", ""genre""]",http://www.wikidata.org/entity/Q140446284
+CAT06_REG_06_ERA_07_1969_song_ent_wrd_0002716,component_relationship,"[""music"", ""lyrics""]",http://www.wikidata.org/entity/Q140446284
+CAT06_REG_06_ERA_07_2025_lockstep_ent_wrd_0001386,identity_label,"[""lockstep""]",http://www.wikidata.org/entity/Q7663509
+CAT06_REG_06_ERA_07_2025_lockstep_ent_wrd_0001386,descriptive_identity,"[""redundancy"", ""fault-tolerant computer system""]",http://www.wikidata.org/entity/Q7663509
+CAT06_REG_07_ERA_03_1986_walk_ent_wrd_0001347,identity_label,"[""walk""]",http://www.wikidata.org/entity/Q116950752
+CAT06_REG_07_ERA_03_1986_walk_ent_wrd_0001347,descriptive_identity,"[""concept"", ""horse gait"", ""JavaScript library"", ""going"", ""sequence"", ""action""]",http://www.wikidata.org/entity/Q116950752
+CAT06_REG_07_ERA_05_2020_acrobatics_ent_wrd_0001447,identity_label,"[""acrobatics""]",http://www.wikidata.org/entity/Q193036
+CAT06_REG_07_ERA_05_2020_acrobatics_ent_wrd_0001447,descriptive_identity,"[""circus arts"", ""gymnastics"", ""type of sport""]",http://www.wikidata.org/entity/Q193036
+CAT06_REG_07_ERA_05_2020_acrobatics_ent_wrd_0001447,component_relationship,"[""circus acrobatics""]",http://www.wikidata.org/entity/Q193036
+CAT06_REG_08_ERA_06_1971_devaluation_ent_wrd_0001728,identity_label,"[""devaluation""]",http://www.wikidata.org/entity/Q220788
+CAT06_REG_08_ERA_06_1971_devaluation_ent_wrd_0001728,descriptive_identity,"[""reduction"", ""stabilization policy"", ""public policy""]",http://www.wikidata.org/entity/Q220788
+IDB-REG10-CAT03-ERA07-2023-LEV-1,identity_label,"[""LEV-1""]",http://www.wikidata.org/entity/Q124326844
+IDB-REG10-CAT03-ERA07-2023-LEV-1,descriptive_identity,"[""autonomous robot"", ""lunar probe""]",http://www.wikidata.org/entity/Q124326844
+IDB-REG10-CAT03-ERA07-2023-LEV-1,manufacturer_or_creator,"[""Japan Aerospace Exploration Agency"", ""Chuo University Graduate School of Science and Engineering, Faculty of Science and Engineering""]",http://www.wikidata.org/entity/Q124326844
+CAT06_REG_06_ERA_03_2013_track_and_field_ent_wrd_0002166,identity_label,"[""track and field""]",http://www.wikidata.org/entity/Q3312129
+CAT06_REG_06_ERA_03_2013_track_and_field_ent_wrd_0002166,descriptive_identity,"[""athletics""]",http://www.wikidata.org/entity/Q3312129
+CAT06_REG_06_ERA_06_1971_restoration_ent_wrd_0001266,identity_label,"[""restoration""]",http://www.wikidata.org/entity/Q66004564
+CAT06_REG_06_ERA_06_1971_restoration_ent_wrd_0001266,descriptive_identity,"[""repair"", ""craft"", ""preservation"", ""field of work"", ""planned process"", ""economic activity"", ""branch of science"", ""activity"", ""restoration (event)"", ""regime change""]",http://www.wikidata.org/entity/Q66004564
+CAT06_REG_06_ERA_07_2003_split_ent_wrd_0002156,identity_label,"[""split""]",http://www.wikidata.org/entity/Q116963887
+CAT06_REG_06_ERA_07_2003_split_ent_wrd_0002156,descriptive_identity,"[""cut"", ""gymnastic element"", ""standard UNIX utility or command"", ""JavaScript library""]",http://www.wikidata.org/entity/Q116963887
+CAT06_REG_08_ERA_07_2023_fatherhood_ent_wrd_0002968,identity_label,"[""fatherhood""]",http://www.wikidata.org/entity/Q17996406
+CAT06_REG_08_ERA_07_2023_fatherhood_ent_wrd_0002968,descriptive_identity,"[""parenthood"", ""interpersonal relationship""]",http://www.wikidata.org/entity/Q17996406
+CAT06_REG_09_ERA_03_1966_solo_ent_wrd_0001459,identity_label,"[""solo""]",http://www.wikidata.org/entity/Q29729078
+CAT06_REG_09_ERA_03_1966_solo_ent_wrd_0001459,descriptive_identity,"[""composed musical work"", ""type of musical work/composition"", ""instrumentation"", ""gene"", ""musical performance""]",http://www.wikidata.org/entity/Q29729078
+CAT06_REG_10_ERA_02_1993_exhumation_ent_wrd_0000100,identity_label,"[""exhumation""]",http://www.wikidata.org/entity/Q3061933
+CAT06_REG_10_ERA_02_1993_exhumation_ent_wrd_0000100,descriptive_identity,"[""process"", ""occurrence"", ""geological process"", ""Wikibase reason for deprecated rank""]",http://www.wikidata.org/entity/Q3061933
+CAT06_REG_10_ERA_06_1969_purge_ent_wrd_0001000,identity_label,"[""purge""]",http://www.wikidata.org/entity/Q1262732
+CAT06_REG_10_ERA_06_1969_purge_ent_wrd_0001000,descriptive_identity,"[""occurrence"", ""removal""]",http://www.wikidata.org/entity/Q1262732
+CAT06_REG_10_ERA_06_1987_snooker_ent_wrd_0002470,identity_label,"[""snooker""]",http://www.wikidata.org/entity/Q11015
+CAT06_REG_10_ERA_06_1987_snooker_ent_wrd_0002470,descriptive_identity,"[""sports discipline"", ""game of skill"", ""cue sports""]",http://www.wikidata.org/entity/Q11015
+CAT11_REG_10_ERA_05_1965_barbers_ent_occ_0000600,identity_label,"[""Barbers""]",http://www.wikidata.org/entity/Q125145005
+CAT11_REG_10_ERA_05_1965_barbers_ent_occ_0000600,descriptive_identity,"[""unincorporated community"", ""painting"", ""family name"", ""Wikimedia disambiguation page""]",http://www.wikidata.org/entity/Q125145005
+LIBSRC-LIB37-ENT-OCC-0000374,identity_label,"[""Graphic Designers""]",http://www.wikidata.org/entity/Q137941479
+LIBSRC-LIB37-ENT-OCC-0000374,descriptive_identity,"[""comic strip""]",http://www.wikidata.org/entity/Q137941479
+CAT06_REG_06_ERA_05_2021_welding_ent_wrd_0000656,identity_label,"[""welding""]",http://www.wikidata.org/entity/Q131172
+CAT06_REG_06_ERA_05_2021_welding_ent_wrd_0000656,descriptive_identity,"[""process"", ""joining""]",http://www.wikidata.org/entity/Q131172
+CAT06_REG_06_ERA_05_2021_welding_ent_wrd_0000656,component_relationship,"[""welding process""]",http://www.wikidata.org/entity/Q131172
+CAT06_REG_06_ERA_07_1981_autopsy_ent_wrd_0000616,identity_label,"[""autopsy""]",http://www.wikidata.org/entity/Q41482
+CAT06_REG_06_ERA_07_1981_autopsy_ent_wrd_0000616,descriptive_identity,"[""medical test"", ""dissection""]",http://www.wikidata.org/entity/Q41482
+CAT06_REG_06_ERA_07_2015_fives_ent_wrd_0002366,identity_label,"[""fives""]",http://www.wikidata.org/entity/Q1421910
+CAT06_REG_06_ERA_07_2015_fives_ent_wrd_0002366,descriptive_identity,"[""handball sports"", ""type of sport""]",http://www.wikidata.org/entity/Q1421910
+CAT06_REG_07_ERA_01_1994_vote_ent_wrd_0000827,identity_label,"[""vote""]",http://www.wikidata.org/entity/Q1306135
+CAT06_REG_07_ERA_01_1994_vote_ent_wrd_0000827,descriptive_identity,"[""selection""]",http://www.wikidata.org/entity/Q1306135
+CAT06_REG_07_ERA_03_2022_hardening_ent_wrd_0001977,identity_label,"[""hardening""]",http://www.wikidata.org/entity/Q5655902
+CAT06_REG_07_ERA_03_2022_hardening_ent_wrd_0001977,descriptive_identity,"[""metalworking"", ""cold hardening"", ""adjustment"", ""manufacturing process"", ""technique"", ""strengthening mechanisms of materials""]",http://www.wikidata.org/entity/Q5655902
+CAT06_REG_08_ERA_04_2017_casting_ent_wrd_0000718,identity_label,"[""casting""]",http://www.wikidata.org/entity/Q2957743
+CAT06_REG_08_ERA_04_2017_casting_ent_wrd_0000718,descriptive_identity,"[""shaping process"", ""type of sport"", ""forming process"", ""recruitment"", ""sport"", ""manufacturing process"", ""technique"", ""artistic technique""]",http://www.wikidata.org/entity/Q2957743
+CAT06_REG_08_ERA_05_2005_secret_ballot_ent_wrd_0000838,identity_label,"[""secret ballot""]",http://www.wikidata.org/entity/Q337987
+CAT06_REG_08_ERA_05_2005_secret_ballot_ent_wrd_0000838,descriptive_identity,"[""voting method"", ""voting""]",http://www.wikidata.org/entity/Q337987
+CAT06_REG_09_ERA_01_1976_sport_ent_wrd_0002129,identity_label,"[""sport""]",http://www.wikidata.org/entity/P641
+CAT06_REG_09_ERA_01_1976_sport_ent_wrd_0002129,descriptive_identity,"[""Wikidata property for items about people"", ""game"", ""somatic mutation"", ""Wikidata property related to sport"", ""shoot"", ""type of activity"", ""activity"", ""Wikidata property for items about organizations""]",http://www.wikidata.org/entity/P641
+CAT06_REG_09_ERA_01_2020_housecleaning_ent_wrd_0002899,identity_label,"[""housecleaning""]",http://www.wikidata.org/entity/Q4411775
+CAT06_REG_09_ERA_01_2020_housecleaning_ent_wrd_0002899,descriptive_identity,"[""separation process"", ""activity"", ""cleaning"", ""housekeeping""]",http://www.wikidata.org/entity/Q4411775
+CAT06_REG_10_ERA_05_1967_contraction_ent_wrd_0001790,identity_label,"[""contraction""]",http://www.wikidata.org/entity/Q126692520
+CAT06_REG_10_ERA_05_1967_contraction_ent_wrd_0001790,descriptive_identity,"[""bounded operator"", ""deformation"", ""reduction"", ""inflected form"", ""abbreviation"", ""physical phenomenon"", ""derivation""]",http://www.wikidata.org/entity/Q126692520
+CAT06_REG_10_ERA_07_2013_red_flag_ent_wrd_0002100,identity_label,"[""red flag""]",http://www.wikidata.org/entity/Q55672434
+CAT06_REG_10_ERA_07_2013_red_flag_ent_wrd_0002100,descriptive_identity,"[""metaphor"", ""flag""]",http://www.wikidata.org/entity/Q55672434
+CAT11_REG_08_ERA_04_1989_chemists_ent_occ_0000228,identity_label,"[""Chemists""]",http://www.wikidata.org/entity/Q105368834
+CAT11_REG_08_ERA_04_1989_chemists_ent_occ_0000228,descriptive_identity,"[""painting""]",http://www.wikidata.org/entity/Q105368834
+CAT06_REG_06_ERA_01_1983_walkover_ent_wrd_0002136,identity_label,"[""walkover""]",http://www.wikidata.org/entity/Q1469424
+CAT06_REG_06_ERA_01_1983_walkover_ent_wrd_0002136,descriptive_identity,"[""victory by arbitral decision"", ""competition"", ""sports terminology""]",http://www.wikidata.org/entity/Q1469424
+CAT06_REG_06_ERA_04_2007_tattoo_ent_wrd_0001236,identity_label,"[""tattoo""]",http://www.wikidata.org/entity/Q13156702
+CAT06_REG_06_ERA_04_2007_tattoo_ent_wrd_0001236,descriptive_identity,"[""body modification"", ""image"", ""body art"", ""artificial body marking"", ""work of art"", ""type of arts"", ""music festival""]",http://www.wikidata.org/entity/Q13156702
+CAT06_REG_06_ERA_04_2007_tattoo_ent_wrd_0001236,component_relationship,"[""tattooing in Ainu and J\u014dmon culture"", ""tattooing in China"", ""tattooing in Myanmar"", ""irezumi"", ""tattooing in South Korea""]",http://www.wikidata.org/entity/Q13156702
+CAT06_REG_07_ERA_07_2018_modulation_ent_wrd_0000917,identity_label,"[""modulation""]",http://www.wikidata.org/entity/Q6889764
+CAT06_REG_07_ERA_07_2018_modulation_ent_wrd_0000917,descriptive_identity,"[""telecommunications"", ""musical technique"", ""technique"", ""change""]",http://www.wikidata.org/entity/Q6889764
+CAT06_REG_07_ERA_07_2018_modulation_ent_wrd_0000917,component_relationship,"[""frequency modulation"", ""amplitude modulation""]",http://www.wikidata.org/entity/Q6889764
+CAT06_REG_08_ERA_02_1979_drive_ent_wrd_0002858,identity_label,"[""drive""]",http://www.wikidata.org/entity/Q135447265
+CAT06_REG_08_ERA_02_1979_drive_ent_wrd_0002858,descriptive_identity,"[""campaign"", ""computer hardware"", ""sports term"", ""possession"", ""sports technique"", ""golf terminology"", ""group"", ""forward gear"", ""badminton technique"", ""sports terminology"", ""gear""]",http://www.wikidata.org/entity/Q135447265
+CAT06_REG_08_ERA_02_1979_drive_ent_wrd_0002858,component_relationship,"[""electrical connector"", ""disk buffer"", ""disk controller""]",http://www.wikidata.org/entity/Q135447265
+CAT06_REG_08_ERA_03_1993_opening_ent_wrd_0002278,identity_label,"[""opening""]",http://www.wikidata.org/entity/Q115654648
+CAT06_REG_08_ERA_03_1993_opening_ent_wrd_0002278,descriptive_identity,"[""mathematical term"", ""opening credits"", ""planned event"", ""opening"", ""morphological operation"", ""sequence"", ""action""]",http://www.wikidata.org/entity/Q115654648
+CAT06_REG_08_ERA_03_1993_opening_ent_wrd_0002278,component_relationship,"[""credit name""]",http://www.wikidata.org/entity/Q115654648
+CAT06_REG_08_ERA_06_1973_reception_ent_wrd_0000608,identity_label,"[""reception""]",http://www.wikidata.org/entity/Q66317493
+CAT06_REG_08_ERA_06_1973_reception_ent_wrd_0000608,descriptive_identity,"[""process"", ""party""]",http://www.wikidata.org/entity/Q66317493
+CAT06_REG_08_ERA_06_1973_reception_ent_wrd_0000608,component_relationship,"[""demodulation"", ""frequency conversion"", ""synchronization"", ""detection"", ""decoding""]",http://www.wikidata.org/entity/Q66317493
+CAT06_REG_08_ERA_06_1985_resolution_ent_wrd_0000818,identity_label,"[""resolution""]",http://www.wikidata.org/entity/Q119854790
+CAT06_REG_08_ERA_06_1985_resolution_ent_wrd_0000818,descriptive_identity,"[""type of legislation"", ""musical term"", ""motion"", ""exact sequence"", ""decision"", ""unit of measurement"", ""metadata"", ""rule of inference"", ""mental state"", ""field of study"", ""quality"", ""document"", ""resolution"", ""academic discipline"", ""theorem""]",http://www.wikidata.org/entity/Q119854790
+CAT06_REG_09_ERA_04_2014_occupation_ent_wrd_0000319,identity_label,"[""occupation""]",http://www.wikidata.org/entity/P106
+CAT06_REG_09_ERA_04_2014_occupation_ent_wrd_0000319,descriptive_identity,"[""social position"", ""persistent entity"", ""Wikidata property used as \""depicts\"" (P180) qualifier on Commons"", ""secondary predicate"", ""legal conduct"", ""concept"", ""Wikimedia disambiguation page"", ""occupation"", ""characterization"", ""property"", ""civil disobedience"", ""Wikidata property for items about people"", ""demonstration""]",http://www.wikidata.org/entity/P106
+CAT06_REG_09_ERA_04_2014_occupation_ent_wrd_0000319,component_relationship,"[""employment""]",http://www.wikidata.org/entity/P106
+CAT06_REG_09_ERA_07_2022_ballooning_ent_wrd_0001449,identity_label,"[""ballooning""]",http://www.wikidata.org/entity/Q104534577
+CAT06_REG_09_ERA_07_2022_ballooning_ent_wrd_0001449,descriptive_identity,"[""ballooning"", ""aviation"", ""type of sport"", ""aerial sport"", ""animal behavior""]",http://www.wikidata.org/entity/Q104534577
+CAT06_REG_10_ERA_01_2013_napoleon_ent_wrd_0002430,identity_label,"[""Napoleon""]",http://www.wikidata.org/entity/Q517
+CAT06_REG_10_ERA_01_2013_napoleon_ent_wrd_0002430,descriptive_identity,"[""video game"", ""former settlement"", ""character from Animal Farm"", ""fictional pig"", ""town in the United States"", ""ship"", ""coin type"", ""city of North Dakota"", ""musical theatre character"", ""business"", ""card game"", ""film"", ""county seat"", ""comic strip"", ""merchant vessel"", ""Stanley Kubrick's unrealized projects"", ""Wikimedia disambiguation page"", ""fictional human"", ""album"", ""musical work/composition"", ""gold coin"", ""board game"", ""schooner"", ""single"", ""musical group"", ""anthropomorphic dog"", ""painting"", ""census-designated place in the United States"", ""family name"", ""city in the United States"", ""comic"", ""animated character"", ""song"", ""former port"", ""anthropomorphic headgear"", ""hill"", ""anime character"", ""manga character"", ""television series episode"", ""version, edition or translation"", ""human"", ""unincorporated community"", ""print"", ""male given name"", ""supernatural being in a work of fiction"", ""domestic chinchilla"", ""dramatico-musical work"", ""literary work""]",http://www.wikidata.org/entity/Q517
+CAT06_REG_10_ERA_01_2013_napoleon_ent_wrd_0002430,manufacturer_or_creator,"[""Genki""]",http://www.wikidata.org/entity/Q517
+CAT06_REG_10_ERA_01_2013_napoleon_ent_wrd_0002430,material_identity,"[""canvas"", ""gold"", ""lithograph print"", ""oil paint""]",http://www.wikidata.org/entity/Q517
+CAT06_REG_10_ERA_02_1993_cut_ent_wrd_0002410,identity_label,"[""cut""]",http://www.wikidata.org/entity/Q42282222
+CAT06_REG_10_ERA_02_1993_cut_ent_wrd_0002410,descriptive_identity,"[""earthworks"", ""human-made landform"", ""criterion"", ""shape"", ""wound"", ""thoroughfare"", ""transport structure"", ""change"", ""standard UNIX utility or command"", ""postage stamp separation"", ""partition of a set"", ""film transition"", ""software feature"", ""technique"", ""audiovisual version"", ""stab wound"", ""film"", ""sports terminology""]",http://www.wikidata.org/entity/Q42282222
+CAT06_REG_10_ERA_02_1993_cut_ent_wrd_0002410,component_relationship,"[""not perforated"", ""imperforate""]",http://www.wikidata.org/entity/Q42282222
+CAT06_REG_10_ERA_04_1965_ice_show_ent_wrd_0002580,identity_label,"[""ice show""]",http://www.wikidata.org/entity/Q4257172
+CAT06_REG_10_ERA_04_1965_ice_show_ent_wrd_0002580,descriptive_identity,"[""show"", ""sports entertainment""]",http://www.wikidata.org/entity/Q4257172
+CAT06_REG_10_ERA_07_1991_frog_kick_ent_wrd_0002870,identity_label,"[""frog kick""]",http://www.wikidata.org/entity/Q5505237
+CAT06_REG_10_ERA_07_1991_frog_kick_ent_wrd_0002870,descriptive_identity,"[""propulsion"", ""underwater diving skill""]",http://www.wikidata.org/entity/Q5505237
+CAT06_REG_07_ERA_04_2016_regicide_ent_wrd_0001047,identity_label,"[""regicide""]",http://www.wikidata.org/entity/Q1475448
+CAT06_REG_07_ERA_04_2016_regicide_ent_wrd_0001047,descriptive_identity,"[""violation of law"", ""magnicide""]",http://www.wikidata.org/entity/Q1475448
+CAT06_REG_07_ERA_07_1964_kickoff_ent_wrd_0001127,identity_label,"[""kickoff""]",http://www.wikidata.org/entity/Q10545289
+CAT06_REG_07_ERA_07_1964_kickoff_ent_wrd_0001127,descriptive_identity,"[""occurrence"", ""beginning"", ""American football play""]",http://www.wikidata.org/entity/Q10545289
+CAT06_REG_08_ERA_01_2017_ritual_ent_wrd_0002038,identity_label,"[""ritual""]",http://www.wikidata.org/entity/Q66018414
+CAT06_REG_08_ERA_01_2017_ritual_ent_wrd_0002038,descriptive_identity,"[""ceremony"", ""sequence"", ""process"", ""tradition"", ""liturgical book""]",http://www.wikidata.org/entity/Q66018414
+CAT06_REG_08_ERA_05_1989_liner_ent_wrd_0000558,identity_label,"[""liner""]",http://www.wikidata.org/entity/Q140408111
+CAT06_REG_08_ERA_05_1989_liner_ent_wrd_0000558,descriptive_identity,"[""passenger vessel"", ""ship type"", ""proto-agent"", ""ship""]",http://www.wikidata.org/entity/Q140408111
+CAT06_REG_08_ERA_06_1987_operation_ent_wrd_0002008,identity_label,"[""operation""]",http://www.wikidata.org/entity/Q137565694
+CAT06_REG_08_ERA_06_1987_operation_ent_wrd_0002008,descriptive_identity,"[""unit"", ""rite"", ""control"", ""economic agent"", ""good/s"", ""change"", ""economic term"", ""occurrence"", ""strategy"", ""organizational unit""]",http://www.wikidata.org/entity/Q137565694
+CAT06_REG_08_ERA_07_1995_checkers_ent_wrd_0002478,identity_label,"[""checkers""]",http://www.wikidata.org/entity/Q1293
+CAT06_REG_08_ERA_07_1995_checkers_ent_wrd_0002478,descriptive_identity,"[""mind sport"", ""hobby"", ""board game"", ""abstract strategy game"", ""individual sport"", ""game-based sport""]",http://www.wikidata.org/entity/Q1293
+CAT06_REG_09_ERA_06_1974_exposure_ent_wrd_0002589,identity_label,"[""exposure""]",http://www.wikidata.org/entity/Q90577678
+CAT06_REG_09_ERA_06_1974_exposure_ent_wrd_0002589,descriptive_identity,"[""explanation"", ""physical quantity"", ""object"", ""exposure"", ""risk exposure"", ""risk factor""]",http://www.wikidata.org/entity/Q90577678
+CAT06_REG_09_ERA_07_2018_strut_ent_wrd_0001379,identity_label,"[""strut""]",http://www.wikidata.org/entity/Q2039332
+CAT06_REG_09_ERA_07_2018_strut_ent_wrd_0001379,descriptive_identity,"[""structural element""]",http://www.wikidata.org/entity/Q2039332
+CAT06_REG_06_ERA_02_1969_abolition_ent_wrd_0001066,identity_label,"[""abolition""]",http://www.wikidata.org/entity/Q322732
+CAT06_REG_06_ERA_02_1969_abolition_ent_wrd_0001066,descriptive_identity,"[""action"", ""legal term or legal concept""]",http://www.wikidata.org/entity/Q322732
+CAT06_REG_07_ERA_03_1974_curtain_raiser_ent_wrd_0001137,identity_label,"[""curtain raiser""]",http://www.wikidata.org/entity/Q5195600
+CAT06_REG_07_ERA_03_1974_curtain_raiser_ent_wrd_0001137,descriptive_identity,"[""literary genre""]",http://www.wikidata.org/entity/Q5195600
+CAT06_REG_07_ERA_03_2006_rock_ent_wrd_0001697,identity_label,"[""rock""]",http://www.wikidata.org/entity/Q8063
+CAT06_REG_07_ERA_03_2006_rock_ent_wrd_0001697,descriptive_identity,"[""landform"", ""Pok\u00e9mon type"", ""hand gesture"", ""move"", ""natural material"", ""hard candy"", ""earth"", ""rock formation"", ""rock material""]",http://www.wikidata.org/entity/Q8063
+CAT06_REG_07_ERA_03_2006_rock_ent_wrd_0001697,material_identity,"[""rock forming minerals"", ""sugar"", ""mineral""]",http://www.wikidata.org/entity/Q8063
+CAT06_REG_08_ERA_03_1987_manslaughter_ent_wrd_0001018,identity_label,"[""manslaughter""]",http://www.wikidata.org/entity/Q3882220
+CAT06_REG_08_ERA_03_1987_manslaughter_ent_wrd_0001018,descriptive_identity,"[""type of homicide"", ""violent crime"", ""manner of death"", ""culpable homicide"", ""unnatural death""]",http://www.wikidata.org/entity/Q3882220
+CAT06_REG_08_ERA_03_2013_strip_ent_wrd_0002628,identity_label,"[""strip""]",http://www.wikidata.org/entity/Q92279207
+CAT06_REG_08_ERA_03_2013_strip_ent_wrd_0002628,descriptive_identity,"[""trading strategy"", ""standard UNIX utility or command""]",http://www.wikidata.org/entity/Q92279207
+CAT06_REG_08_ERA_05_1991_thickening_ent_wrd_0001748,identity_label,"[""thickening""]",http://www.wikidata.org/entity/Q137589911
+CAT06_REG_08_ERA_05_1991_thickening_ent_wrd_0001748,descriptive_identity,"[""food preparation technique"", ""liquid"", ""cooking""]",http://www.wikidata.org/entity/Q137589911
+CAT06_REG_08_ERA_07_1983_game_ent_wrd_0002268,identity_label,"[""game""]",http://www.wikidata.org/entity/Q122825589
+CAT06_REG_08_ERA_07_1983_game_ent_wrd_0002268,descriptive_identity,"[""artificial figure"", ""product category"", ""video game"", ""recreative work"", ""sporting event"", ""wildlife"", ""animal"", ""creative work"", ""sports discipline"", ""set"", ""philosophical concept""]",http://www.wikidata.org/entity/Q122825589
+CAT06_REG_08_ERA_07_1983_game_ent_wrd_0002268,component_relationship,"[""rule"", ""game meat"", ""skin"", ""player""]",http://www.wikidata.org/entity/Q122825589
+CAT06_REG_09_ERA_02_1984_covered_option_ent_wrd_0000289,identity_label,"[""covered option""]",http://www.wikidata.org/entity/Q123856922
+CAT06_REG_09_ERA_02_1984_covered_option_ent_wrd_0000289,descriptive_identity,"[""option""]",http://www.wikidata.org/entity/Q123856922
+CAT06_REG_09_ERA_07_2020_victory_celebration_ent_wrd_0002569,identity_label,"[""victory celebration""]",http://www.wikidata.org/entity/Q116168106
+CAT06_REG_09_ERA_07_2020_victory_celebration_ent_wrd_0002569,descriptive_identity,"[""celebration"", ""public event""]",http://www.wikidata.org/entity/Q116168106
+CAT06_REG_10_ERA_01_1995_deposition_ent_wrd_0000960,identity_label,"[""deposition""]",http://www.wikidata.org/entity/Q140160859
+CAT06_REG_10_ERA_01_1995_deposition_ent_wrd_0000960,descriptive_identity,"[""physical process"", ""geological term"", ""book"", ""chemical process"", ""key event"", ""phase change"", ""removal from office"", ""accumulation"", ""natural process"", ""process"", ""political event"", ""geographically localized event"", ""painting"", ""immission"", ""testimony""]",http://www.wikidata.org/entity/Q140160859
+CAT06_REG_10_ERA_03_2003_pruning_ent_wrd_0001760,identity_label,"[""pruning""]",http://www.wikidata.org/entity/Q5486003
+CAT06_REG_10_ERA_03_2003_pruning_ent_wrd_0001760,descriptive_identity,"[""algorithm"", ""removal"", ""gardening technique"", ""cutting""]",http://www.wikidata.org/entity/Q5486003
+CAT06_REG_10_ERA_06_2003_strike_ent_wrd_0000440,identity_label,"[""strike""]",http://www.wikidata.org/entity/Q138527535
+CAT06_REG_10_ERA_06_2003_strike_ent_wrd_0000440,descriptive_identity,"[""result"", ""sport action"", ""protest tactic"", ""combat technique"", ""pitch"", ""pause"", ""sports technique"", ""Wikimedia permanent duplicate item"", ""labor activism"", ""unit of volume"", ""industrial action"", ""angle"", ""labor dispute"", ""reciprocating motion"", ""strike"", ""protest"", ""relative direction"", ""collision"", ""negotiation technique""]",http://www.wikidata.org/entity/Q138527535
+CAT06_REG_10_ERA_06_2003_strike_ent_wrd_0000440,component_relationship,"[""foul ball"", ""picketing""]",http://www.wikidata.org/entity/Q138527535
+CAT06_REG_10_ERA_07_2009_custom_ent_wrd_0002030,identity_label,"[""custom""]",http://www.wikidata.org/entity/Q140418774
+CAT06_REG_10_ERA_07_2009_custom_ent_wrd_0002030,descriptive_identity,"[""convention"", ""proto-patient""]",http://www.wikidata.org/entity/Q140418774
+IDB-REG10-CAT03-ERA07-2024-ADVANCED-COMPOSITE-SOLAR-SAIL,identity_label,"[""Advanced Composite Solar Sail System""]",http://www.wikidata.org/entity/Q108831584
+IDB-REG10-CAT03-ERA07-2024-ADVANCED-COMPOSITE-SOLAR-SAIL,descriptive_identity,"[""technology demonstration spacecraft"", ""CubeSat""]",http://www.wikidata.org/entity/Q108831584
+IDB-REG10-CAT03-ERA07-2024-ADVANCED-COMPOSITE-SOLAR-SAIL,manufacturer_or_creator,"[""Langley Research Center"", ""Ames Research Center"", ""Kongsberg NanoAvionics""]",http://www.wikidata.org/entity/Q108831584
+CAT06_REG_06_ERA_07_1963_parasailing_ent_wrd_0001456,identity_label,"[""parasailing""]",http://www.wikidata.org/entity/Q105971320
+CAT06_REG_06_ERA_07_1963_parasailing_ent_wrd_0001456,descriptive_identity,"[""aerial sport"", ""Para sport"", ""type of sport""]",http://www.wikidata.org/entity/Q105971320
+CAT06_REG_07_ERA_05_1972_specialization_ent_wrd_0002917,identity_label,"[""specialization""]",http://www.wikidata.org/entity/Q141609245
+CAT06_REG_07_ERA_05_1972_specialization_ent_wrd_0002917,descriptive_identity,"[""academic degree"", ""type of process"", ""cognitive process"", ""instantiation change"", ""development"", ""field of study"", ""principle"", ""process"", ""contraction of meaning"", ""curriculum"", ""specialization""]",http://www.wikidata.org/entity/Q141609245
+CAT06_REG_08_ERA_01_1965_start_ent_wrd_0001128,identity_label,"[""start""]",http://www.wikidata.org/entity/Q16192475
+CAT06_REG_08_ERA_01_1965_start_ent_wrd_0001128,descriptive_identity,"[""album"", ""command""]",http://www.wikidata.org/entity/Q16192475
+CAT06_REG_08_ERA_04_1999_enclosure_ent_wrd_0001558,identity_label,"[""enclosure""]",http://www.wikidata.org/entity/P3158
+CAT06_REG_08_ERA_04_1999_enclosure_ent_wrd_0001558,descriptive_identity,"[""fence"", ""archaeological site"", ""legal act"", ""human-geographic territorial entity"", ""cultural heritage ensemble"", ""process"", ""archaeological term"", ""activity"", ""Wikidata property related to structures"", ""enclosure""]",http://www.wikidata.org/entity/P3158
+CAT06_REG_08_ERA_05_2025_tonsure_ent_wrd_0001188,identity_label,"[""tonsure""]",http://www.wikidata.org/entity/Q273761
+CAT06_REG_08_ERA_05_2025_tonsure_ent_wrd_0001188,descriptive_identity,"[""hairstyle"", ""shaved hair design""]",http://www.wikidata.org/entity/Q273761
+CAT06_REG_09_ERA_03_1980_explosion_ent_wrd_0002859,identity_label,"[""explosion""]",http://www.wikidata.org/entity/Q179057
+CAT06_REG_09_ERA_03_1980_explosion_ent_wrd_0002859,descriptive_identity,"[""key event"", ""cause of death"", ""accident"", ""combustion""]",http://www.wikidata.org/entity/Q179057
+CAT06_REG_09_ERA_03_1998_formalism_ent_wrd_0002019,identity_label,"[""formalism""]",http://www.wikidata.org/entity/Q5469984
+CAT06_REG_09_ERA_03_1998_formalism_ent_wrd_0002019,descriptive_identity,"[""school of thought"", ""epistemological viewpoint"", ""philosophical theory"", ""form of art"", ""musical concept"", ""branch of science""]",http://www.wikidata.org/entity/Q5469984
+CAT06_REG_09_ERA_07_2000_skating_ent_wrd_0002219,identity_label,"[""skating""]",http://www.wikidata.org/entity/Q111644165
+CAT06_REG_09_ERA_07_2000_skating_ent_wrd_0002219,descriptive_identity,"[""movement"", ""recreational sport"", ""painting"", ""physical activity""]",http://www.wikidata.org/entity/Q111644165
+CAT06_REG_09_ERA_07_2000_skating_ent_wrd_0002219,material_identity,"[""canvas"", ""oil paint""]",http://www.wikidata.org/entity/Q111644165
+CAT06_REG_10_ERA_04_2001_substitution_ent_wrd_0000900,identity_label,"[""substitution""]",http://www.wikidata.org/entity/Q124810867
+CAT06_REG_10_ERA_04_2001_substitution_ent_wrd_0000900,descriptive_identity,"[""algebraic operation"", ""mutation"", ""subjective right"", ""acting technique"", ""literature term"", ""replacement"", ""occurrence"", ""sequence alteration"", ""substitution"", ""sports terminology""]",http://www.wikidata.org/entity/Q124810867
+CAT06_REG_10_ERA_06_1991_practical_joke_ent_wrd_0002540,identity_label,"[""practical joke""]",http://www.wikidata.org/entity/Q931092
+CAT06_REG_10_ERA_06_1991_practical_joke_ent_wrd_0002540,descriptive_identity,"[""recreation"", ""humor""]",http://www.wikidata.org/entity/Q931092
+CAT06_REG_10_ERA_06_1991_practical_joke_ent_wrd_0002540,component_relationship,"[""victim"", ""preparation"", ""physical activity""]",http://www.wikidata.org/entity/Q931092
+CAT06_REG_10_ERA_06_1999_ransom_ent_wrd_0000370,identity_label,"[""ransom""]",http://www.wikidata.org/entity/Q1414572
+CAT06_REG_10_ERA_06_1999_ransom_ent_wrd_0000370,descriptive_identity,"[""extortion""]",http://www.wikidata.org/entity/Q1414572
+CAT06_REG_06_ERA_01_1995_location_ent_wrd_0000036,identity_label,"[""location""]",http://www.wikidata.org/entity/P276
+CAT06_REG_06_ERA_01_1995_location_ent_wrd_0000036,descriptive_identity,"[""relative direction"", ""Wikidata property used as \""depicts\"" (P180) qualifier on Commons"", ""goal"", ""physical location"", ""Wikidata property to indicate a location"", ""proto-patient"", ""infra-like generic quality"", ""sign language parameter"", ""location role"", ""transitive  property"", ""Wikidata property related to events"", ""particular"", ""first-order class""]",http://www.wikidata.org/entity/P276
+CAT06_REG_07_ERA_02_1962_corner_kick_ent_wrd_0000597,identity_label,"[""corner kick""]",http://www.wikidata.org/entity/Q242415
+CAT06_REG_07_ERA_02_1962_corner_kick_ent_wrd_0000597,descriptive_identity,"[""association football kick"", ""set piece"", ""rule""]",http://www.wikidata.org/entity/Q242415
+CAT06_REG_07_ERA_06_2024_explosion_ent_wrd_0001847,identity_label,"[""explosion""]",http://www.wikidata.org/entity/Q179057
+CAT06_REG_07_ERA_06_2024_explosion_ent_wrd_0001847,descriptive_identity,"[""key event"", ""cause of death"", ""accident"", ""combustion""]",http://www.wikidata.org/entity/Q179057
+CAT06_REG_08_ERA_03_2001_contract_ent_wrd_0002418,identity_label,"[""contract""]",http://www.wikidata.org/entity/Q97220312
+CAT06_REG_08_ERA_03_2001_contract_ent_wrd_0002418,descriptive_identity,"[""legal transaction"", ""institution"", ""promise"", ""legal term or legal concept"", ""agreement"", ""description"", ""intellectual work""]",http://www.wikidata.org/entity/Q97220312
+CAT06_REG_08_ERA_03_2001_contract_ent_wrd_0002418,component_relationship,"[""contracting party""]",http://www.wikidata.org/entity/Q97220312
+CAT06_REG_08_ERA_05_1997_exposure_ent_wrd_0000698,identity_label,"[""exposure""]",http://www.wikidata.org/entity/Q90577678
+CAT06_REG_08_ERA_05_1997_exposure_ent_wrd_0000698,descriptive_identity,"[""explanation"", ""physical quantity"", ""object"", ""exposure"", ""risk exposure"", ""risk factor""]",http://www.wikidata.org/entity/Q90577678
+CAT06_REG_08_ERA_05_2013_rustication_ent_wrd_0000978,identity_label,"[""rustication""]",http://www.wikidata.org/entity/Q7382504
+CAT06_REG_08_ERA_05_2013_rustication_ent_wrd_0000978,descriptive_identity,"[""technique"", ""suspension""]",http://www.wikidata.org/entity/Q7382504
+CAT06_REG_08_ERA_06_1975_inflation_ent_wrd_0001798,identity_label,"[""inflation""]",http://www.wikidata.org/entity/Q109517859
+CAT06_REG_08_ERA_06_1975_inflation_ent_wrd_0001798,descriptive_identity,"[""fluid flow"", ""physical process"", ""filling"", ""macroeconomic phenomenon"", ""economic concept""]",http://www.wikidata.org/entity/Q109517859
+CAT06_REG_08_ERA_06_1975_inflation_ent_wrd_0001798,component_relationship,"[""cost-push inflation"", ""demand-pull inflation""]",http://www.wikidata.org/entity/Q109517859
+CAT06_REG_09_ERA_01_1974_apostasy_ent_wrd_0000939,identity_label,"[""apostasy""]",http://www.wikidata.org/entity/Q223681
+CAT06_REG_09_ERA_01_1974_apostasy_ent_wrd_0000939,descriptive_identity,"[""renunciation""]",http://www.wikidata.org/entity/Q223681
+CAT06_REG_09_ERA_01_1974_apostasy_ent_wrd_0000939,component_relationship,"[""apostasy in Christianity"", ""apostasy in Judaism"", ""Apostasy in Islam""]",http://www.wikidata.org/entity/Q223681
+CAT06_REG_09_ERA_02_2004_convergence_ent_wrd_0000639,identity_label,"[""convergence""]",http://www.wikidata.org/entity/Q112906049
+CAT06_REG_09_ERA_02_2004_convergence_ent_wrd_0000639,descriptive_identity,"[""integration"", ""mathematical property"", ""trend"", ""air current"", ""theory"", ""hypothesis""]",http://www.wikidata.org/entity/Q112906049
+CAT06_REG_09_ERA_04_1998_rounders_ent_wrd_0002349,identity_label,"[""rounders""]",http://www.wikidata.org/entity/Q1075286
+CAT06_REG_09_ERA_04_1998_rounders_ent_wrd_0002349,descriptive_identity,"[""team sport"", ""Gaelic games"", ""type of sport""]",http://www.wikidata.org/entity/Q1075286
+CAT06_REG_10_ERA_03_1973_interchange_ent_wrd_0000080,identity_label,"[""interchange""]",http://www.wikidata.org/entity/Q112968794
+CAT06_REG_10_ERA_03_1973_interchange_ent_wrd_0000080,descriptive_identity,"[""road junction"", ""motion"", ""transport structure"", ""transferring modes of transport"", ""change"", ""motorway junction"", ""Australian rules football position"", ""pattern""]",http://www.wikidata.org/entity/Q112968794
+CAT06_REG_10_ERA_03_1973_interchange_ent_wrd_0000080,component_relationship,"[""motorway junction"", ""highway bridge""]",http://www.wikidata.org/entity/Q112968794
+CAT06_REG_10_ERA_06_2009_tremor_ent_wrd_0001700,identity_label,"[""tremor""]",http://www.wikidata.org/entity/Q223907
+CAT06_REG_10_ERA_06_2009_tremor_ent_wrd_0001700,descriptive_identity,"[""type of disease"", ""movement disorders"", ""general symptom"", ""shaking"", ""rhythmic process"", ""symptom or sign""]",http://www.wikidata.org/entity/Q223907
+CAT06_REG_10_ERA_06_2011_whip_ent_wrd_0000580,identity_label,"[""whip""]",http://www.wikidata.org/entity/Q119294207
+CAT06_REG_10_ERA_06_2011_whip_ent_wrd_0000580,descriptive_identity,"[""torture instrument"", ""artificial figure"", ""percussion instrument"", ""equipment for corporal punishment"", ""type of musical instrument"", ""type of tool"", ""member of parliament"", ""tack"", ""West Coast swing eight count pattern"", ""position"", ""gene""]",http://www.wikidata.org/entity/Q119294207
+CAT06_REG_10_ERA_07_1995_stroke_ent_wrd_0000630,identity_label,"[""stroke""]",http://www.wikidata.org/entity/Q12202
+CAT06_REG_10_ERA_07_1995_stroke_ent_wrd_0000630,descriptive_identity,"[""cause of death"", ""Wikidata property for physical quantities"", ""boat position"", ""sports term"", ""sport action"", ""syndrome"", ""stroke"", ""facet of tenis playing skill"", ""Wikidata property related to engineering"", ""general symptom"", ""cerebrovascular disease"", ""specialized term"", ""neurological symptom"", ""internal bleeding"", ""touching"", ""reciprocating motion"", ""symptom or sign""]",http://www.wikidata.org/entity/Q12202
+IDB-REG10-CAT03-ERA07-2022-LUNAR-FLASHLIGHT,identity_label,"[""Lunar Flashlight""]",http://www.wikidata.org/entity/Q21028130
+IDB-REG10-CAT03-ERA07-2022-LUNAR-FLASHLIGHT,descriptive_identity,"[""CubeSat""]",http://www.wikidata.org/entity/Q21028130
+IDB-REG10-CAT03-ERA07-2022-LUNAR-FLASHLIGHT,manufacturer_or_creator,"[""Jet Propulsion Laboratory""]",http://www.wikidata.org/entity/Q21028130
+CAT06_REG_07_ERA_01_1978_hook_ent_wrd_0002857,identity_label,"[""hook""]",http://www.wikidata.org/entity/Q140401976
+CAT06_REG_07_ERA_01_1978_hook_ent_wrd_0002857,descriptive_identity,"[""type of physical object by use"", ""music cognition"", ""hook"", ""song component"", ""gene"", ""means"", ""action"", ""arm wrestling technique"", ""interface"", ""musical form"", ""diacritic"", ""connector"", ""fastener"", ""machine element"", ""punch""]",http://www.wikidata.org/entity/Q140401976
+CAT06_REG_08_ERA_05_1993_ballottement_ent_wrd_0000628,identity_label,"[""ballottement""]",http://www.wikidata.org/entity/Q4851900
+CAT06_REG_08_ERA_05_1993_ballottement_ent_wrd_0000628,descriptive_identity,"[""clinical sign""]",http://www.wikidata.org/entity/Q4851900
+CAT06_REG_09_ERA_02_1970_brush_ent_wrd_0001199,identity_label,"[""brush""]",http://www.wikidata.org/entity/Q107196930
+CAT06_REG_09_ERA_02_1970_brush_ent_wrd_0001199,descriptive_identity,"[""cleaning tool"", ""electrical contact"", ""brush"", ""paintbrush"", ""hand tool"", ""machine element"", ""physical tool""]",http://www.wikidata.org/entity/Q107196930
+CAT06_REG_09_ERA_02_1970_brush_ent_wrd_0001199,component_relationship,"[""handle""]",http://www.wikidata.org/entity/Q107196930
+CAT06_REG_09_ERA_04_2010_miscalculation_ent_wrd_0000249,identity_label,"[""miscalculation""]",http://www.wikidata.org/entity/Q21096985
+CAT06_REG_09_ERA_04_2010_miscalculation_ent_wrd_0000249,descriptive_identity,"[""sourcing circumstance""]",http://www.wikidata.org/entity/Q21096985
+CAT06_REG_09_ERA_07_1974_rebound_ent_wrd_0000609,identity_label,"[""rebound""]",http://www.wikidata.org/entity/Q4810016
+CAT06_REG_09_ERA_07_1974_rebound_ent_wrd_0000609,descriptive_identity,"[""basketball terminology"", ""sports term""]",http://www.wikidata.org/entity/Q4810016
+CAT06_REG_09_ERA_07_1992_boot_ent_wrd_0002079,identity_label,"[""boot""]",http://www.wikidata.org/entity/Q130902492
+CAT06_REG_09_ERA_07_1992_boot_ent_wrd_0002079,descriptive_identity,"[""heraldic clothing"", ""footwear""]",http://www.wikidata.org/entity/Q130902492
+CAT06_REG_09_ERA_07_1992_boot_ent_wrd_0002079,material_identity,"[""artificial leather"", ""polyester"", ""felt"", ""vulcanized rubber"", ""leather""]",http://www.wikidata.org/entity/Q130902492
+CAT06_REG_09_ERA_07_2012_michigan_ent_wrd_0002429,identity_label,"[""Michigan""]",http://www.wikidata.org/entity/Q136452358
+CAT06_REG_09_ERA_07_2012_michigan_ent_wrd_0002429,descriptive_identity,"[""podcast episode"", ""mine"", ""floating restaurant"", ""Wikimedia disambiguation page"", ""unincorporated community"", ""human"", ""album"", ""U.S. state"", ""United States senate constituency"", ""automobile manufacturer"", ""ship"", ""film"", ""general cargo ship"", ""painting""]",http://www.wikidata.org/entity/Q136452358
+CAT06_REG_09_ERA_07_2012_michigan_ent_wrd_0002429,component_relationship,"[""Upper Peninsula of Michigan"", ""Lower Peninsula of Michigan""]",http://www.wikidata.org/entity/Q136452358
+CAT06_REG_07_ERA_01_2014_purification_ent_wrd_0001177,identity_label,"[""purification""]",http://www.wikidata.org/entity/Q46999654
+CAT06_REG_07_ERA_01_2014_purification_ent_wrd_0001177,descriptive_identity,"[""process"", ""album""]",http://www.wikidata.org/entity/Q46999654
+CAT06_REG_07_ERA_03_1978_bubble_bath_ent_wrd_0001207,identity_label,"[""bubble bath""]",http://www.wikidata.org/entity/Q1540400
+CAT06_REG_07_ERA_03_1978_bubble_bath_ent_wrd_0001207,descriptive_identity,"[""bath""]",http://www.wikidata.org/entity/Q1540400
+CAT06_REG_07_ERA_04_1960_credit_ent_wrd_0000067,identity_label,"[""credit""]",http://www.wikidata.org/entity/Q5474448
+CAT06_REG_07_ERA_04_1960_credit_ent_wrd_0000067,descriptive_identity,"[""debt"", ""concept"", ""loan"", ""economic value"", ""acknowledgment"", ""economic concept""]",http://www.wikidata.org/entity/Q5474448
+CAT06_REG_07_ERA_07_1970_eye_contact_ent_wrd_0000077,identity_label,"[""eye contact""]",http://www.wikidata.org/entity/Q21074571
+CAT06_REG_07_ERA_07_1970_eye_contact_ent_wrd_0000077,descriptive_identity,"[""gaze"", ""route of administration""]",http://www.wikidata.org/entity/Q21074571
+CAT06_REG_08_ERA_02_1965_pass_ent_wrd_0001458,identity_label,"[""pass""]",http://www.wikidata.org/entity/Q110974707
+CAT06_REG_08_ERA_02_1965_pass_ent_wrd_0001458,descriptive_identity,"[""facet of tenis playing skill"", ""occurrence"", ""license"", ""motion""]",http://www.wikidata.org/entity/Q110974707
+CAT06_REG_09_ERA_03_1974_slide_ent_wrd_0001599,identity_label,"[""slide""]",http://www.wikidata.org/entity/Q109518496
+CAT06_REG_09_ERA_03_1974_slide_ent_wrd_0001599,descriptive_identity,"[""fluid flow"", ""landform"", ""Irish folk music"", ""recording medium"", ""sliding"", ""toy"", ""fall"", ""photographic film"", ""photograph"", ""musical form"", ""music genre"", ""type of dance"", ""action"", ""musical instrument part"", ""physical surface"", ""solid object""]",http://www.wikidata.org/entity/Q109518496
+CAT06_REG_09_ERA_03_1974_slide_ent_wrd_0001599,material_identity,"[""snow"", ""reversal film"", ""ice""]",http://www.wikidata.org/entity/Q109518496
+CAT06_REG_10_ERA_01_1985_emptying_ent_wrd_0001940,identity_label,"[""emptying""]",http://www.wikidata.org/entity/Q109519169
+CAT06_REG_10_ERA_01_1985_emptying_ent_wrd_0001940,descriptive_identity,"[""removal""]",http://www.wikidata.org/entity/Q109519169
+CAT06_REG_10_ERA_02_1991_perfection_ent_wrd_0001220,identity_label,"[""perfection""]",http://www.wikidata.org/entity/Q378701
+CAT06_REG_10_ERA_02_1991_perfection_ent_wrd_0001220,descriptive_identity,"[""subjective assessment attribute"", ""property"", ""condition"", ""absence""]",http://www.wikidata.org/entity/Q378701
+CAT06_REG_06_ERA_01_1985_homicide_ent_wrd_0001016,identity_label,"[""homicide""]",http://www.wikidata.org/entity/Q149086
+CAT06_REG_06_ERA_01_1985_homicide_ent_wrd_0001016,descriptive_identity,"[""criminal attempt"", ""type of crime"", ""manner of death"", ""killing"", ""violent death""]",http://www.wikidata.org/entity/Q149086
+CAT06_REG_06_ERA_05_1975_annihilation_ent_wrd_0001006,identity_label,"[""annihilation""]",http://www.wikidata.org/entity/Q11390324
+CAT06_REG_06_ERA_05_1975_annihilation_ent_wrd_0001006,descriptive_identity,"[""process"", ""defeat""]",http://www.wikidata.org/entity/Q11390324
+CAT06_REG_07_ERA_05_1998_professional_wrestling_ent_wrd_0002217,identity_label,"[""professional wrestling""]",http://www.wikidata.org/entity/Q131359
+CAT06_REG_07_ERA_05_1998_professional_wrestling_ent_wrd_0002217,descriptive_identity,"[""type of sport"", ""spectator sport"", ""live performance"", ""combat sport"", ""wrestling"", ""mock combat""]",http://www.wikidata.org/entity/Q131359
+CAT06_REG_07_ERA_05_1998_professional_wrestling_ent_wrd_0002217,component_relationship,"[""professional wrestling match""]",http://www.wikidata.org/entity/Q131359
+CAT06_REG_07_ERA_05_2024_sailing_ent_wrd_0001517,identity_label,"[""sailing""]",http://www.wikidata.org/entity/Q124989291
+CAT06_REG_07_ERA_05_2024_sailing_ent_wrd_0001517,descriptive_identity,"[""Olympic sport"", ""recreational sport"", ""marine propulsion"", ""vehicle operation"", ""type of sport"", ""water sport"", ""relief sculpture"", ""hobby"", ""sports discipline"", ""sailing""]",http://www.wikidata.org/entity/Q124989291
+CAT06_REG_07_ERA_05_2024_sailing_ent_wrd_0001517,component_relationship,"[""tack""]",http://www.wikidata.org/entity/Q124989291
+CAT06_REG_07_ERA_06_1986_ball_game_ent_wrd_0002337,identity_label,"[""ball game""]",http://www.wikidata.org/entity/Q877517
+CAT06_REG_07_ERA_06_1986_ball_game_ent_wrd_0002337,descriptive_identity,"[""game"", ""throwing game"", ""type of sport"", ""sport"", ""athletics""]",http://www.wikidata.org/entity/Q877517
+CAT06_REG_07_ERA_07_1986_waltz_ent_wrd_0002667,identity_label,"[""waltz""]",http://www.wikidata.org/entity/Q8701407
+CAT06_REG_07_ERA_07_1986_waltz_ent_wrd_0002667,descriptive_identity,"[""classical dance music"", ""waltz"", ""ballroom dance"", ""type of musical work/composition"", ""musical form"", ""type of dance"", ""music genre""]",http://www.wikidata.org/entity/Q8701407
+CAT06_REG_08_ERA_06_2017_stalk_ent_wrd_0001378,identity_label,"[""stalk""]",http://www.wikidata.org/entity/Q106493804
+CAT06_REG_08_ERA_06_2017_stalk_ent_wrd_0001378,descriptive_identity,"[""organ part"", ""plant structure"", ""direct limit"", ""mathematical concept""]",http://www.wikidata.org/entity/Q106493804
+CAT06_REG_09_ERA_03_1970_transshipment_ent_wrd_0001529,identity_label,"[""transshipment""]",http://www.wikidata.org/entity/Q456407
+CAT06_REG_09_ERA_03_1970_transshipment_ent_wrd_0001529,descriptive_identity,"[""freight transport""]",http://www.wikidata.org/entity/Q456407
+CAT06_REG_09_ERA_04_1968_rediscovery_ent_wrd_0000669,identity_label,"[""rediscovery""]",http://www.wikidata.org/entity/Q38131096
+CAT06_REG_09_ERA_04_1968_rediscovery_ent_wrd_0000669,descriptive_identity,"[""discovery"", ""finding""]",http://www.wikidata.org/entity/Q38131096
+CAT06_REG_09_ERA_06_1968_access_ent_wrd_0001329,identity_label,"[""access""]",http://www.wikidata.org/entity/Q122924881
+CAT06_REG_09_ERA_06_1968_access_ent_wrd_0001329,descriptive_identity,"[""system call"", ""access"", ""antibiotic"", ""drug class"", ""function"", ""prerequisite""]",http://www.wikidata.org/entity/Q122924881
+CAT06_REG_06_ERA_04_1997_greco_roman_wrestling_ent_wrd_0002216,identity_label,"[""Greco-Roman wrestling""]",http://www.wikidata.org/entity/Q389654
+CAT06_REG_06_ERA_04_1997_greco_roman_wrestling_ent_wrd_0002216,descriptive_identity,"[""Olympic sport"", ""wrestling style"", ""amateur wrestling""]",http://www.wikidata.org/entity/Q389654
+CAT06_REG_08_ERA_01_1997_turn_ent_wrd_0001688,identity_label,"[""turn""]",http://www.wikidata.org/entity/Q61542
+CAT06_REG_08_ERA_01_1997_turn_ent_wrd_0001688,descriptive_identity,"[""rotation"", ""turn"", ""legal units of measurement"", ""part"", ""movement"", ""poker term"", ""change"", ""specialized term"", ""argument"", ""reversal"", ""gymnastic element"", ""step"", ""melism"", ""musical concept"", ""unit of plane angle"", ""dance move"", ""biochemistry term""]",http://www.wikidata.org/entity/Q61542
+CAT06_REG_08_ERA_02_1985_contracture_ent_wrd_0001808,identity_label,"[""contracture""]",http://www.wikidata.org/entity/Q1480291
+CAT06_REG_08_ERA_02_1985_contracture_ent_wrd_0001808,descriptive_identity,"[""musculoskeletal disorder"", ""syndrome""]",http://www.wikidata.org/entity/Q1480291
+CAT06_REG_08_ERA_03_1975_crutch_ent_wrd_0000808,identity_label,"[""crutch""]",http://www.wikidata.org/entity/Q56981888
+CAT06_REG_08_ERA_03_1975_crutch_ent_wrd_0000808,descriptive_identity,"[""assistive technology"", ""mobility aid"", ""artificial figure""]",http://www.wikidata.org/entity/Q56981888
+CAT06_REG_09_ERA_02_1978_locomotion_ent_wrd_0001339,identity_label,"[""locomotion""]",http://www.wikidata.org/entity/Q2633862
+CAT06_REG_09_ERA_02_1978_locomotion_ent_wrd_0001339,descriptive_identity,"[""biological process"", ""active motion"", ""aptitude""]",http://www.wikidata.org/entity/Q2633862
+CAT06_REG_09_ERA_06_1980_post_ent_wrd_0001539,identity_label,"[""post""]",http://www.wikidata.org/entity/Q109025034
+CAT06_REG_09_ERA_06_1980_post_ent_wrd_0001539,descriptive_identity,"[""online publication"", ""architectural element"", ""route"", ""dictionary entry"", ""proto-patient"", ""column"", ""article"", ""software resource"", ""genre"", ""message"", ""user-generated content""]",http://www.wikidata.org/entity/Q109025034
+CAT06_REG_09_ERA_06_1980_post_ent_wrd_0001539,material_identity,"[""wood""]",http://www.wikidata.org/entity/Q109025034
+CAT06_REG_09_ERA_06_1980_post_ent_wrd_0001539,component_relationship,"[""post quality"", ""comment"", ""dislike"", ""like"", ""floor post""]",http://www.wikidata.org/entity/Q109025034
+CAT06_REG_10_ERA_02_2011_exchange_transfusion_ent_wrd_0001570,identity_label,"[""exchange transfusion""]",http://www.wikidata.org/entity/Q886468
+CAT06_REG_10_ERA_02_2011_exchange_transfusion_ent_wrd_0001570,descriptive_identity,"[""blood transfusion""]",http://www.wikidata.org/entity/Q886468
+CAT11_REG_10_ERA_05_1969_couriers_and_messengers_ent_occ_0000670,identity_label,"[""Couriers and Messengers""]",http://www.wikidata.org/entity/Q123130870
+CAT11_REG_10_ERA_05_1969_couriers_and_messengers_ent_occ_0000670,descriptive_identity,"[""NAICS industry classification""]",http://www.wikidata.org/entity/Q123130870
+CAT11_REG_10_ERA_05_1969_couriers_and_messengers_ent_occ_0000670,component_relationship,"[""Couriers and Express Delivery Services"", ""Local Messengers and Local Delivery""]",http://www.wikidata.org/entity/Q123130870
+CAT06_REG_06_ERA_06_2025_cardiospasm_ent_wrd_0001056,identity_label,"[""cardiospasm""]",http://www.wikidata.org/entity/Q4214816
+CAT06_REG_06_ERA_06_2025_cardiospasm_ent_wrd_0001056,descriptive_identity,"[""stomach disease""]",http://www.wikidata.org/entity/Q4214816
+CAT06_REG_06_ERA_07_1985_demonetization_ent_wrd_0000686,identity_label,"[""demonetization""]",http://www.wikidata.org/entity/Q3044465
+CAT06_REG_06_ERA_07_1985_demonetization_ent_wrd_0000686,descriptive_identity,"[""occurrence""]",http://www.wikidata.org/entity/Q3044465
+CAT06_REG_07_ERA_03_2004_squeeze_play_ent_wrd_0002817,identity_label,"[""squeeze play""]",http://www.wikidata.org/entity/Q3491799
+CAT06_REG_07_ERA_03_2004_squeeze_play_ent_wrd_0002817,descriptive_identity,"[""strategy""]",http://www.wikidata.org/entity/Q3491799
+CAT06_REG_07_ERA_03_2004_squeeze_play_ent_wrd_0002817,component_relationship,"[""sacrifice bunt"", ""runner""]",http://www.wikidata.org/entity/Q3491799
+CAT06_REG_08_ERA_05_1975_takeoff_ent_wrd_0001468,identity_label,"[""takeoff""]",http://www.wikidata.org/entity/Q854248
+CAT06_REG_08_ERA_05_1975_takeoff_ent_wrd_0001468,descriptive_identity,"[""key event"", ""flight phase"", ""flight maneuver""]",http://www.wikidata.org/entity/Q854248
+CAT06_REG_09_ERA_01_2016_drop_shot_ent_wrd_0002829,identity_label,"[""drop shot""]",http://www.wikidata.org/entity/Q47522515
+CAT06_REG_09_ERA_01_2016_drop_shot_ent_wrd_0002829,descriptive_identity,"[""facet of tenis playing skill"", ""tennis shot"", ""drop shot""]",http://www.wikidata.org/entity/Q47522515
+CAT06_REG_09_ERA_03_2004_finale_ent_wrd_0000969,identity_label,"[""finale""]",http://www.wikidata.org/entity/Q1346054
+CAT06_REG_09_ERA_03_2004_finale_ent_wrd_0000969,descriptive_identity,"[""song component"", ""movement"", ""musical form""]",http://www.wikidata.org/entity/Q1346054
+CAT06_REG_09_ERA_04_1996_improvement_ent_wrd_0001159,identity_label,"[""improvement""]",http://www.wikidata.org/entity/Q21255975
+CAT06_REG_09_ERA_04_1996_improvement_ent_wrd_0001159,descriptive_identity,"[""process"", ""increase"", ""type of process""]",http://www.wikidata.org/entity/Q21255975
+CAT06_REG_09_ERA_05_1986_immigration_ent_wrd_0000159,identity_label,"[""immigration""]",http://www.wikidata.org/entity/Q131288
+CAT06_REG_09_ERA_05_1986_immigration_ent_wrd_0000159,descriptive_identity,"[""human migration"", ""activity""]",http://www.wikidata.org/entity/Q131288
+CAT06_REG_09_ERA_07_1988_operation_ent_wrd_0002009,identity_label,"[""operation""]",http://www.wikidata.org/entity/Q137565694
+CAT06_REG_09_ERA_07_1988_operation_ent_wrd_0002009,descriptive_identity,"[""unit"", ""rite"", ""control"", ""economic agent"", ""good/s"", ""change"", ""economic term"", ""occurrence"", ""strategy"", ""organizational unit""]",http://www.wikidata.org/entity/Q137565694
+CAT06_REG_09_ERA_07_2016_consummation_ent_wrd_0000189,identity_label,"[""consummation""]",http://www.wikidata.org/entity/Q381344
+CAT06_REG_09_ERA_07_2016_consummation_ent_wrd_0000189,descriptive_identity,"[""marital sex"", ""sexual intercourse"", ""penile\u2013vaginal intercourse"", ""first time sex""]",http://www.wikidata.org/entity/Q381344
+CAT06_REG_09_ERA_07_2016_consummation_ent_wrd_0000189,component_relationship,"[""consummation in Islam""]",http://www.wikidata.org/entity/Q381344
+CAT06_REG_10_ERA_07_2017_high_jump_ent_wrd_0002170,identity_label,"[""high jump""]",http://www.wikidata.org/entity/Q5755777
+CAT06_REG_10_ERA_07_2017_high_jump_ent_wrd_0002170,descriptive_identity,"[""sports discipline"", ""vertical jump"", ""board game""]",http://www.wikidata.org/entity/Q5755777
+CAT06_REG_06_ERA_03_1987_shank_ent_wrd_0002866,identity_label,"[""shank""]",http://www.wikidata.org/entity/Q107401706
+CAT06_REG_06_ERA_03_1987_shank_ent_wrd_0002866,descriptive_identity,"[""shoe component"", ""shank"", ""facet of tenis playing skill"", ""tool component"", ""lamb meat"", ""primal cut""]",http://www.wikidata.org/entity/Q107401706
+CAT06_REG_06_ERA_06_1969_brush_ent_wrd_0000076,identity_label,"[""brush""]",http://www.wikidata.org/entity/Q107196930
+CAT06_REG_06_ERA_06_1969_brush_ent_wrd_0000076,descriptive_identity,"[""cleaning tool"", ""electrical contact"", ""brush"", ""paintbrush"", ""hand tool"", ""machine element"", ""physical tool""]",http://www.wikidata.org/entity/Q107196930
+CAT06_REG_06_ERA_06_1969_brush_ent_wrd_0000076,component_relationship,"[""handle""]",http://www.wikidata.org/entity/Q107196930
+CAT06_REG_06_ERA_06_1977_failing_ent_wrd_0000216,identity_label,"[""failing""]",http://www.wikidata.org/entity/Q130242953
+CAT06_REG_06_ERA_06_1977_failing_ent_wrd_0000216,descriptive_identity,"[""musical work/composition"", ""music track with vocals""]",http://www.wikidata.org/entity/Q130242953
+CAT06_REG_07_ERA_02_1988_rope_a_dope_ent_wrd_0002207,identity_label,"[""rope-a-dope""]",http://www.wikidata.org/entity/Q596944
+CAT06_REG_07_ERA_02_1988_rope_a_dope_ent_wrd_0002207,descriptive_identity,"[""sports term""]",http://www.wikidata.org/entity/Q596944
+CAT06_REG_07_ERA_05_2022_gavotte_ent_wrd_0002637,identity_label,"[""gavotte""]",http://www.wikidata.org/entity/Q9266272
+CAT06_REG_07_ERA_05_2022_gavotte_ent_wrd_0002637,descriptive_identity,"[""classical dance music"", ""ballroom dance"", ""composed musical work"", ""type of musical work/composition"", ""musical form"", ""type of dance"", ""music genre""]",http://www.wikidata.org/entity/Q9266272
+CAT06_REG_08_ERA_02_2017_accomplishment_ent_wrd_0000058,identity_label,"[""accomplishment""]",http://www.wikidata.org/entity/Q141164229
+CAT06_REG_08_ERA_02_2017_accomplishment_ent_wrd_0000058,descriptive_identity,"[""event""]",http://www.wikidata.org/entity/Q141164229
+CAT06_REG_08_ERA_04_2005_shoot_ent_wrd_0000508,identity_label,"[""shoot""]",http://www.wikidata.org/entity/Q3304024
+CAT06_REG_08_ERA_04_2005_shoot_ent_wrd_0000508,descriptive_identity,"[""professional wrestling term"", ""plant organ"", ""Wikimedia disambiguation page""]",http://www.wikidata.org/entity/Q3304024
+CAT06_REG_09_ERA_02_1968_organism_ent_wrd_0000009,identity_label,"[""organism""]",http://www.wikidata.org/entity/Q140404798
+CAT06_REG_09_ERA_02_1968_organism_ent_wrd_0000009,descriptive_identity,"[""proto-agent"", ""material anatomical entity"", ""type of physical object"", ""biological component"", ""agentive physical object""]",http://www.wikidata.org/entity/Q140404798
+CAT06_REG_09_ERA_02_1968_organism_ent_wrd_0000009,component_relationship,"[""cell"", ""biological component"", ""organ system""]",http://www.wikidata.org/entity/Q140404798
+CAT06_REG_09_ERA_05_2002_spitball_ent_wrd_0000439,identity_label,"[""spitball""]",http://www.wikidata.org/entity/Q2311378
+CAT06_REG_09_ERA_05_2002_spitball_ent_wrd_0000439,descriptive_identity,"[""pitch""]",http://www.wikidata.org/entity/Q2311378
+CAT06_REG_10_ERA_03_1997_sending_ent_wrd_0000500,identity_label,"[""sending""]",http://www.wikidata.org/entity/Q123335957
+CAT06_REG_10_ERA_03_1997_sending_ent_wrd_0000500,descriptive_identity,"[""sending"", ""transfer""]",http://www.wikidata.org/entity/Q123335957
+CAT06_REG_10_ERA_05_1995_down_ent_wrd_0002280,identity_label,"[""down""]",http://www.wikidata.org/entity/Q15332388
+CAT06_REG_10_ERA_05_1995_down_ent_wrd_0002280,descriptive_identity,"[""attempt"", ""body-relative direction"", ""side"", ""play""]",http://www.wikidata.org/entity/Q15332388
+CAT11_REG_06_ERA_04_2025_editors_ent_occ_0000396,identity_label,"[""Editors""]",http://www.wikidata.org/entity/Q570393
+CAT11_REG_06_ERA_04_2025_editors_ent_occ_0000396,descriptive_identity,"[""musical group""]",http://www.wikidata.org/entity/Q570393
+CAT11_REG_06_ERA_04_2025_editors_ent_occ_0000396,component_relationship,"[""Tom Smith"", ""Justin Lockey"", ""Elliot Williams"", ""Russell Leetch"", ""Ed Lay""]",http://www.wikidata.org/entity/Q570393
+CAT11_REG_06_ERA_05_2025_glaziers_ent_occ_0000726,identity_label,"[""Glaziers""]",http://www.wikidata.org/entity/Q26280869
+CAT11_REG_06_ERA_05_2025_glaziers_ent_occ_0000726,descriptive_identity,"[""building""]",http://www.wikidata.org/entity/Q26280869
+CAT06_REG_06_ERA_03_1997_disconnection_ent_wrd_0001886,identity_label,"[""disconnection""]",http://www.wikidata.org/entity/Q23009452
+CAT06_REG_06_ERA_03_1997_disconnection_ent_wrd_0001886,descriptive_identity,"[""end"", ""Scientology practice"", ""shunning""]",http://www.wikidata.org/entity/Q23009452
+CAT06_REG_06_ERA_03_2011_retirement_ent_wrd_0000976,identity_label,"[""retirement""]",http://www.wikidata.org/entity/Q127161965
+CAT06_REG_06_ERA_03_2011_retirement_ent_wrd_0000976,descriptive_identity,"[""state"", ""key event"", ""web series episode"", ""storage"", ""termination of employment"", ""occurrence"", ""end cause"", ""service status"", ""renunciation""]",http://www.wikidata.org/entity/Q127161965
+CAT06_REG_06_ERA_06_1979_dash_ent_wrd_0001406,identity_label,"[""dash""]",http://www.wikidata.org/entity/Q107382198
+CAT06_REG_06_ERA_06_1979_dash_ent_wrd_0001406,descriptive_identity,"[""Python package"", ""unit of measurement"", ""unit of volume"", ""punctuation mark""]",http://www.wikidata.org/entity/Q107382198
+CAT06_REG_07_ERA_01_2010_activation_ent_wrd_0001107,identity_label,"[""activation""]",http://www.wikidata.org/entity/Q19828403
+CAT06_REG_07_ERA_01_2010_activation_ent_wrd_0001107,descriptive_identity,"[""military term"", ""chemical process"", ""technical chemistry"", ""stimulation"", ""starting up"", ""process"", ""occurrence""]",http://www.wikidata.org/entity/Q19828403
+CAT06_REG_07_ERA_03_1996_salvage_ent_wrd_0000367,identity_label,"[""salvage""]",http://www.wikidata.org/entity/Q107281362
+CAT06_REG_07_ERA_03_1996_salvage_ent_wrd_0000367,descriptive_identity,"[""acquisition"", ""economic activity"", ""recovery""]",http://www.wikidata.org/entity/Q107281362
+CAT06_REG_07_ERA_04_1992_palpation_ent_wrd_0000627,identity_label,"[""palpation""]",http://www.wikidata.org/entity/Q795090
+CAT06_REG_07_ERA_04_1992_palpation_ent_wrd_0000627,descriptive_identity,"[""physical examination""]",http://www.wikidata.org/entity/Q795090
+CAT06_REG_08_ERA_02_2005_kip_ent_wrd_0002158,identity_label,"[""kip""]",http://www.wikidata.org/entity/Q6414556
+CAT06_REG_08_ERA_02_2005_kip_ent_wrd_0002158,descriptive_identity,"[""unit of force""]",http://www.wikidata.org/entity/Q6414556
+CAT06_REG_08_ERA_04_1981_leapfrog_ent_wrd_0002398,identity_label,"[""leapfrog""]",http://www.wikidata.org/entity/Q1631315
+CAT06_REG_08_ERA_04_1981_leapfrog_ent_wrd_0002398,descriptive_identity,"[""children's game""]",http://www.wikidata.org/entity/Q1631315
+CAT06_REG_08_ERA_04_1993_soft_shoe_ent_wrd_0002608,identity_label,"[""soft-shoe""]",http://www.wikidata.org/entity/Q44547979
+CAT06_REG_08_ERA_04_1993_soft_shoe_ent_wrd_0002608,descriptive_identity,"[""tap dance"", ""type of dance""]",http://www.wikidata.org/entity/Q44547979
+CAT06_REG_08_ERA_06_1983_elimination_ent_wrd_0001938,identity_label,"[""elimination""]",http://www.wikidata.org/entity/Q25508377
+CAT06_REG_08_ERA_06_1983_elimination_ent_wrd_0001938,descriptive_identity,"[""action"", ""excretion"", ""pharmacokinetics""]",http://www.wikidata.org/entity/Q25508377
+CAT06_REG_08_ERA_07_2017_turn_ent_wrd_0001708,identity_label,"[""turn""]",http://www.wikidata.org/entity/Q61542
+CAT06_REG_08_ERA_07_2017_turn_ent_wrd_0001708,descriptive_identity,"[""rotation"", ""turn"", ""legal units of measurement"", ""part"", ""movement"", ""poker term"", ""change"", ""specialized term"", ""argument"", ""reversal"", ""gymnastic element"", ""step"", ""melism"", ""musical concept"", ""unit of plane angle"", ""dance move"", ""biochemistry term""]",http://www.wikidata.org/entity/Q61542
+CAT06_REG_08_ERA_07_2019_rabbit_punch_ent_wrd_0000588,identity_label,"[""rabbit punch""]",http://www.wikidata.org/entity/Q7278640
+CAT06_REG_08_ERA_07_2019_rabbit_punch_ent_wrd_0000588,descriptive_identity,"[""punch""]",http://www.wikidata.org/entity/Q7278640
+CAT06_REG_09_ERA_03_1986_extension_ent_wrd_0001809,identity_label,"[""extension""]",http://www.wikidata.org/entity/Q108910022
+CAT06_REG_09_ERA_03_1986_extension_ent_wrd_0001809,descriptive_identity,"[""increase"", ""Wikibase reason for deprecated rank"", ""component"", ""semantics"", ""ply"", ""postponement"", ""building part"", ""function"", ""built structure"", ""delay"", ""pitch"", ""metaphysics"", ""telephony"", ""predicate"", ""muscle movement"", ""philosophical concept""]",http://www.wikidata.org/entity/Q108910022
+CAT06_REG_06_ERA_05_2007_intravenous_injection_ent_wrd_0001566,identity_label,"[""intravenous injection""]",http://www.wikidata.org/entity/Q1369403
+CAT06_REG_06_ERA_05_2007_intravenous_injection_ent_wrd_0001566,descriptive_identity,"[""intravenous administration"", ""injection"", ""route of administration""]",http://www.wikidata.org/entity/Q1369403
+CAT06_REG_07_ERA_03_1962_lockout_ent_wrd_0000927,identity_label,"[""lockout""]",http://www.wikidata.org/entity/Q20820221
+CAT06_REG_07_ERA_03_1962_lockout_ent_wrd_0000927,descriptive_identity,"[""labor dispute"", ""activity""]",http://www.wikidata.org/entity/Q20820221
+CAT06_REG_07_ERA_05_1996_patricide_ent_wrd_0001027,identity_label,"[""patricide""]",http://www.wikidata.org/entity/Q10345565
+CAT06_REG_07_ERA_05_1996_patricide_ent_wrd_0001027,descriptive_identity,"[""crime"", ""type of homicide"", ""parenticide""]",http://www.wikidata.org/entity/Q10345565
+CAT06_REG_07_ERA_05_2018_gala_ent_wrd_0002567,identity_label,"[""gala""]",http://www.wikidata.org/entity/Q140785298
+CAT06_REG_07_ERA_05_2018_gala_ent_wrd_0002567,descriptive_identity,"[""show"", ""dictionary entry"", ""party"", ""software"", ""occurrence""]",http://www.wikidata.org/entity/Q140785298
+CAT06_REG_07_ERA_06_1992_corruption_ent_wrd_0001287,identity_label,"[""corruption""]",http://www.wikidata.org/entity/Q65769525
+CAT06_REG_07_ERA_06_1992_corruption_ent_wrd_0001287,descriptive_identity,"[""wrongdoing"", ""abuse of power"", ""derivation"", ""process"", ""crime""]",http://www.wikidata.org/entity/Q65769525
+CAT06_REG_07_ERA_06_1992_corruption_ent_wrd_0001287,component_relationship,"[""police corruption"", ""judicial corruption"", ""political corruption""]",http://www.wikidata.org/entity/Q65769525
+CAT06_REG_07_ERA_07_1974_withdrawal_ent_wrd_0000147,identity_label,"[""withdrawal""]",http://www.wikidata.org/entity/Q124728822
+CAT06_REG_07_ERA_07_1974_withdrawal_ent_wrd_0000147,descriptive_identity,"[""military term"", ""Wikibase reason for deprecated rank"", ""military operation"", ""did not finish"", ""reduction"", ""key event"", ""authorial decision"", ""cognitive process"", ""military maneuver"", ""human activity"", ""musical concept"", ""causing motion"", ""renunciation""]",http://www.wikidata.org/entity/Q124728822
+CAT06_REG_07_ERA_07_1974_withdrawal_ent_wrd_0000147,component_relationship,"[""article""]",http://www.wikidata.org/entity/Q124728822
+CAT06_REG_08_ERA_01_1983_courante_ent_wrd_0002598,identity_label,"[""courante""]",http://www.wikidata.org/entity/Q9196467
+CAT06_REG_08_ERA_01_1983_courante_ent_wrd_0002598,descriptive_identity,"[""classical dance music"", ""ballroom dance"", ""social dance"", ""type of musical work/composition"", ""musical form"", ""type of dance"", ""music genre""]",http://www.wikidata.org/entity/Q9196467
+CAT06_REG_08_ERA_05_1965_samba_ent_wrd_0002448,identity_label,"[""samba""]",http://www.wikidata.org/entity/Q11403
+CAT06_REG_08_ERA_05_1965_samba_ent_wrd_0002448,descriptive_identity,"[""ballroom dance"", ""Brazilian dance"", ""music of Brazil"", ""type of dance"", ""Latin dance"", ""music genre""]",http://www.wikidata.org/entity/Q11403
+CAT06_REG_08_ERA_07_1963_tear_ent_wrd_0001918,identity_label,"[""tear""]",http://www.wikidata.org/entity/Q125416942
+CAT06_REG_08_ERA_07_1963_tear_ent_wrd_0001918,descriptive_identity,"[""body fluid"", ""crack"", ""secretion""]",http://www.wikidata.org/entity/Q125416942
+CAT06_REG_08_ERA_07_1963_tear_ent_wrd_0001918,component_relationship,"[""sodium chloride"", ""water""]",http://www.wikidata.org/entity/Q125416942
+CAT06_REG_08_ERA_07_1975_confectionery_ent_wrd_0002128,identity_label,"[""confectionery""]",http://www.wikidata.org/entity/Q56250611
+CAT06_REG_08_ERA_07_1975_confectionery_ent_wrd_0002128,descriptive_identity,"[""sweetmeat"", ""food product"", ""craft"", ""food and drink products (OKPD 15, includes not only edible)"", ""manufacture of cocoa, chocolate and sugar confectionery"", ""sweet dish"", ""industry"", ""Production of food industry by OKP"", ""food manufacturer"", ""food products by OKPD2 (10)"", ""food and drink preparation""]",http://www.wikidata.org/entity/Q56250611
+CAT06_REG_08_ERA_07_1975_confectionery_ent_wrd_0002128,manufacturer_or_creator,"[""pastry chef"", ""confectioner""]",http://www.wikidata.org/entity/Q56250611
+CAT06_REG_09_ERA_02_2016_midwifery_ent_wrd_0000849,identity_label,"[""midwifery""]",http://www.wikidata.org/entity/Q20862341
+CAT06_REG_09_ERA_02_2016_midwifery_ent_wrd_0000849,descriptive_identity,"[""health sciences"", ""medical profession""]",http://www.wikidata.org/entity/Q20862341
+CAT06_REG_09_ERA_03_2016_purification_ent_wrd_0001179,identity_label,"[""purification""]",http://www.wikidata.org/entity/Q46999654
+CAT06_REG_09_ERA_03_2016_purification_ent_wrd_0001179,descriptive_identity,"[""process"", ""album""]",http://www.wikidata.org/entity/Q46999654
+CAT11_REG_07_ERA_01_1970_photographers_ent_occ_0000407,identity_label,"[""Photographers""]",http://www.wikidata.org/entity/Q99575204
+CAT11_REG_07_ERA_01_1970_photographers_ent_occ_0000407,descriptive_identity,"[""human""]",http://www.wikidata.org/entity/Q99575204
+CAT11_REG_10_ERA_02_1979_infantry_ent_occ_0001010,identity_label,"[""Infantry""]",http://www.wikidata.org/entity/Q115941048
+CAT11_REG_10_ERA_02_1979_infantry_ent_occ_0001010,descriptive_identity,"[""video game"", ""serial"", ""magazine"", ""short film"", ""film""]",http://www.wikidata.org/entity/Q115941048
+CAT06_REG_06_ERA_01_2007_blot_ent_wrd_0000246,identity_label,"[""blot""]",http://www.wikidata.org/entity/Q29720626
+CAT06_REG_06_ERA_01_2007_blot_ent_wrd_0000246,descriptive_identity,"[""gene""]",http://www.wikidata.org/entity/Q29720626
+CAT06_REG_06_ERA_05_2009_surprise_ent_wrd_0002756,identity_label,"[""surprise""]",http://www.wikidata.org/entity/Q140443850
+CAT06_REG_06_ERA_05_2009_surprise_ent_wrd_0002756,descriptive_identity,"[""prototype emotion"", ""proto-agent"", ""secondary predicate"", ""type of emotion"", ""basic emotion"", ""painting""]",http://www.wikidata.org/entity/Q140443850
+CAT06_REG_07_ERA_01_1974_return_ent_wrd_0002787,identity_label,"[""return""]",http://www.wikidata.org/entity/Q129567300
+CAT06_REG_07_ERA_01_1974_return_ent_wrd_0002787,descriptive_identity,"[""transport"", ""negation"", ""motion"", ""facet of tenis playing skill"", ""relative motion"", ""return"", ""scientific journal"", ""occurrence"", ""activity""]",http://www.wikidata.org/entity/Q129567300
+CAT06_REG_07_ERA_02_2024_crash_ent_wrd_0000527,identity_label,"[""crash""]",http://www.wikidata.org/entity/Q111667209
+CAT06_REG_07_ERA_02_2024_crash_ent_wrd_0000527,descriptive_identity,"[""woven fabric"", ""occurrence"", ""television program"", ""human""]",http://www.wikidata.org/entity/Q111667209
+CAT06_REG_07_ERA_02_2024_crash_ent_wrd_0000527,material_identity,"[""linen""]",http://www.wikidata.org/entity/Q111667209
+CAT06_REG_07_ERA_02_2024_crash_ent_wrd_0000527,component_relationship,"[""stock market crash""]",http://www.wikidata.org/entity/Q111667209
+CAT06_REG_07_ERA_03_1984_masse_ent_wrd_0002467,identity_label,"[""masse""]",http://www.wikidata.org/entity/Q19957175
+CAT06_REG_07_ERA_03_1984_masse_ent_wrd_0002467,descriptive_identity,"[""Wikimedia disambiguation page""]",http://www.wikidata.org/entity/Q19957175
+CAT06_REG_07_ERA_05_1972_interception_ent_wrd_0000607,identity_label,"[""interception""]",http://www.wikidata.org/entity/Q7500533
+CAT06_REG_07_ERA_05_1972_interception_ent_wrd_0000607,descriptive_identity,"[""military tactics"", ""hydrology"", ""sports terminology"", ""motion""]",http://www.wikidata.org/entity/Q7500533
+CAT06_REG_07_ERA_07_2016_hijab_ent_wrd_0002037,identity_label,"[""hijab""]",http://www.wikidata.org/entity/Q172317
+CAT06_REG_07_ERA_07_2016_hijab_ent_wrd_0002037,descriptive_identity,"[""Sufi terminology"", ""Islamic item"", ""Islamic term"", ""Islamic veil""]",http://www.wikidata.org/entity/Q172317
+CAT06_REG_08_ERA_04_1989_word_play_ent_wrd_0002538,identity_label,"[""word play""]",http://www.wikidata.org/entity/Q141993182
+CAT06_REG_08_ERA_04_1989_word_play_ent_wrd_0002538,descriptive_identity,"[""usage"", ""game"", ""concept"", ""literary technique"", ""wit"", ""genre""]",http://www.wikidata.org/entity/Q141993182
+CAT06_REG_08_ERA_04_2009_swat_ent_wrd_0000578,identity_label,"[""swat""]",http://www.wikidata.org/entity/Q109000059
+CAT06_REG_08_ERA_04_2009_swat_ent_wrd_0000578,descriptive_identity,"[""dictionary entry""]",http://www.wikidata.org/entity/Q109000059
+CAT06_REG_09_ERA_05_1982_acquiring_ent_wrd_0000089,identity_label,"[""acquiring""]",http://www.wikidata.org/entity/Q4116491
+CAT06_REG_09_ERA_05_1982_acquiring_ent_wrd_0000089,descriptive_identity,"[""payment""]",http://www.wikidata.org/entity/Q4116491
+IDB-REG10-CAT03-ERA07-2010S-SYDNEY-METRO-TRANSPORT-FOR-NSW,identity_label,"[""Sydney Metro""]",http://www.wikidata.org/entity/Q32469143
+IDB-REG10-CAT03-ERA07-2010S-SYDNEY-METRO-TRANSPORT-FOR-NSW,descriptive_identity,"[""automated rapid transit"", ""region""]",http://www.wikidata.org/entity/Q32469143
+IDB-REG10-CAT03-ERA07-2010S-SYDNEY-METRO-TRANSPORT-FOR-NSW,component_relationship,"[""Sydney Metro City & Southwest"", ""Sydney Metro Northwest""]",http://www.wikidata.org/entity/Q32469143
+IDB-REG07-CAT03-ERA07-2010S-DOHA-METRO-QATAR-RAIL,identity_label,"[""Doha Metro""]",http://www.wikidata.org/entity/Q1234813
+IDB-REG07-CAT03-ERA07-2010S-DOHA-METRO-QATAR-RAIL,descriptive_identity,"[""automated rapid transit""]",http://www.wikidata.org/entity/Q1234813
+IDB-REG07-CAT03-ERA07-2010S-DOHA-METRO-QATAR-RAIL,component_relationship,"[""Qatar National Library"", ""Red Line"", ""Ras Bu Fontas station"", ""Green Line"", ""Katara"", ""The White Palace station"", ""Hamad Intl Airport T1"", ""Al Rayyan/Al Quadeem"", ""Qatar University"", ""Umm Ghuwailina"", ""Legtaifiya station"", ""Hamad Hospital"", ""Al Messila"", ""Msheireb"", ""Oqba Ibn Nafie station"", ""Al Bidda"", ""Gold Line"", ""Al Shaqab"", ""Education City station"", ""Al Doha Al Jadeda"", ""Al Matar Al Qadeem"", ""Al Wakra station"", ""Lusail station""]",http://www.wikidata.org/entity/Q1234813
+IDB-REG07-CAT03-ERA06-2010S-RIYADH-METRO-CONSORTIUM-OF-BECHTEL-ALSTOM-AND-OTHERS,identity_label,"[""Riyadh Metro""]",http://www.wikidata.org/entity/Q3855748
+IDB-REG07-CAT03-ERA06-2010S-RIYADH-METRO-CONSORTIUM-OF-BECHTEL-ALSTOM-AND-OTHERS,descriptive_identity,"[""rapid transit""]",http://www.wikidata.org/entity/Q3855748
+IDB-REG07-CAT03-ERA06-2010S-RIYADH-METRO-CONSORTIUM-OF-BECHTEL-ALSTOM-AND-OTHERS,component_relationship,"[""Yellow Line"", ""Red Line"", ""Purple Line"", ""Blue Line"", ""Green Line"", ""Orange Line""]",http://www.wikidata.org/entity/Q3855748
+IDB-REG08-CAT03-ERA07-2010S-CHENNAI-METRO-RAIL-LIMITED,identity_label,"[""Chennai Metro""]",http://www.wikidata.org/entity/Q1639576
+IDB-REG08-CAT03-ERA07-2010S-CHENNAI-METRO-RAIL-LIMITED,descriptive_identity,"[""rapid transit""]",http://www.wikidata.org/entity/Q1639576
+IDB-REG08-CAT03-ERA07-2010S-CHENNAI-METRO-RAIL-LIMITED,component_relationship,"[""Yellow Line"", ""Red Line"", ""Blue Line"", ""Green Line"", ""Purple Line""]",http://www.wikidata.org/entity/Q1639576
+IDB-REG07-CAT03-ERA06-2010S-PALM-JUMEIRAH-NAKHEEL-PROPERTIES,identity_label,"[""Palm Jumeirah""]",http://www.wikidata.org/entity/Q136656184
+IDB-REG07-CAT03-ERA06-2010S-PALM-JUMEIRAH-NAKHEEL-PROPERTIES,descriptive_identity,"[""land reclamation"", ""tram stop"", ""archipelago"", ""artificial island""]",http://www.wikidata.org/entity/Q136656184
+IDB-REG10-CAT03-ERA07-2022-CAPSTONE,identity_label,"[""CAPSTONE""]",http://www.wikidata.org/entity/Q85160256
+IDB-REG10-CAT03-ERA07-2022-CAPSTONE,descriptive_identity,"[""lunar orbiter"", ""CubeSat""]",http://www.wikidata.org/entity/Q85160256
+IDB-REG10-CAT03-ERA07-2022-CAPSTONE,manufacturer_or_creator,"[""Terran Orbital Corporation"", ""Stellar Exploration, Inc.""]",http://www.wikidata.org/entity/Q85160256
+IDB-REG10-CAT03-ERA07-2020-INGENUITY,identity_label,"[""Ingenuity""]",http://www.wikidata.org/entity/Q137941316
+IDB-REG10-CAT03-ERA07-2020-INGENUITY,descriptive_identity,"[""comic strip"", ""Wikimedia disambiguation page"", ""space probe"", ""album"", ""ship"", ""short film"", ""painting"", ""unmanned helicopter""]",http://www.wikidata.org/entity/Q137941316
+IDB-REG10-CAT03-ERA07-2020-INGENUITY,manufacturer_or_creator,"[""Guangzhou Wenchong Shipyard"", ""Qualcomm"", ""Jet Propulsion Laboratory"", ""AeroVironment"", ""SolAero Technologies""]",http://www.wikidata.org/entity/Q137941316
+IDB-REG10-CAT03-ERA07-2020-INGENUITY,material_identity,"[""canvas"", ""oil paint""]",http://www.wikidata.org/entity/Q137941316
+IDB-REG10-CAT03-ERA07-2020-INGENUITY,component_relationship,"[""coaxial rotors""]",http://www.wikidata.org/entity/Q137941316
+IDB-REG06-CAT03-ERA06-2016-DIWATA-1,identity_label,"[""Diwata-1""]",http://www.wikidata.org/entity/Q20022790
+IDB-REG06-CAT03-ERA06-2016-DIWATA-1,descriptive_identity,"[""Earth observation satellite"", ""small satellite"", ""artificial satellite""]",http://www.wikidata.org/entity/Q20022790
+IDB-REG06-CAT03-ERA06-2016-DIWATA-1,manufacturer_or_creator,"[""Tohoku University"", ""University of the Philippines"", ""Hokkaido University"", ""Department of Science and Technology""]",http://www.wikidata.org/entity/Q20022790
+IDB-REG06-CAT03-ERA06-2013-SARAL,identity_label,"[""SARAL""]",http://www.wikidata.org/entity/Q6169551
+IDB-REG06-CAT03-ERA06-2013-SARAL,descriptive_identity,"[""weather satellite"", ""Earth observation satellite"", ""space instrument""]",http://www.wikidata.org/entity/Q6169551
+LIBSRC-LIB36-ENT-WRD-0082108,identity_label,"[""hold""]",http://www.wikidata.org/entity/Q109417687
+LIBSRC-LIB36-ENT-WRD-0082108,descriptive_identity,"[""ship element"", ""freight compartment"", ""musical concept"", ""handle""]",http://www.wikidata.org/entity/Q109417687
+LIBSRC-LIB36-ENT-WRD-0082121,identity_label,"[""yawn""]",http://www.wikidata.org/entity/Q182180
+LIBSRC-LIB36-ENT-WRD-0082121,descriptive_identity,"[""facial expression"", ""reflex"", ""echophenomenon""]",http://www.wikidata.org/entity/Q182180
+LIBSRC-LIB36-ENT-WRD-0082123,identity_label,"[""blink""]",http://www.wikidata.org/entity/Q4926751
+LIBSRC-LIB36-ENT-WRD-0082123,descriptive_identity,"[""HTML element""]",http://www.wikidata.org/entity/Q4926751
+LIBSRC-LIB36-ENT-WRD-0082125,identity_label,"[""bat""]",http://www.wikidata.org/entity/Q115690288
+LIBSRC-LIB36-ENT-WRD-0082125,descriptive_identity,"[""sports stick"", ""dictionary entry"", ""Chiroptera"", ""free software"", ""organisms known by a particular common name"", ""beast"", ""mobile charge"", ""monster"", ""mammal"", ""gene"", ""console application""]",http://www.wikidata.org/entity/Q115690288
+LIBSRC-LIB36-ENT-WRD-0082161,identity_label,"[""nap""]",http://www.wikidata.org/entity/Q140784454
+LIBSRC-LIB36-ENT-WRD-0082161,descriptive_identity,"[""textile component"", ""software"", ""polyphasic sleep"", ""light sleep""]",http://www.wikidata.org/entity/Q140784454
+LIBSRC-LIB36-ENT-WRD-0082297,identity_label,"[""talc""]",http://www.wikidata.org/entity/Q108584660
+LIBSRC-LIB36-ENT-WRD-0082297,descriptive_identity,"[""chemical compound"", ""talc mineral group"", ""type of chemical entity"", ""mineral species"", ""phyllosilicates""]",http://www.wikidata.org/entity/Q108584660
+LIBSRC-LIB36-ENT-WRD-0082297,component_relationship,"[""talc""]",http://www.wikidata.org/entity/Q108584660
+LIBSRC-LIB36-ENT-WRD-0082342,identity_label,"[""scarf""]",http://www.wikidata.org/entity/Q107193904
+LIBSRC-LIB36-ENT-WRD-0082342,descriptive_identity,"[""fashion accessory""]",http://www.wikidata.org/entity/Q107193904
+LIBSRC-LIB36-ENT-WRD-0082410,identity_label,"[""hatch""]",http://www.wikidata.org/entity/Q969694
+LIBSRC-LIB36-ENT-WRD-0082410,descriptive_identity,"[""product category"", ""bay""]",http://www.wikidata.org/entity/Q969694
+LIBSRC-LIB36-ENT-WRD-0082416,identity_label,"[""massage""]",http://www.wikidata.org/entity/Q179415
+LIBSRC-LIB36-ENT-WRD-0082416,descriptive_identity,"[""medical procedure"", ""skill"", ""medical procedure type"", ""technique""]",http://www.wikidata.org/entity/Q179415
+LIBSRC-LIB36-ENT-WRD-0082468,identity_label,"[""play""]",http://www.wikidata.org/entity/Q25379
+LIBSRC-LIB36-ENT-WRD-0082468,descriptive_identity,"[""type of theatrical work"", ""literary genre"", ""sport action"", ""plan"", ""move"", ""literary form"", ""dramatic work"", ""creative work"", ""painting""]",http://www.wikidata.org/entity/Q25379
+LIBSRC-LIB36-ENT-WRD-0082468,material_identity,"[""oil paint"", ""panel""]",http://www.wikidata.org/entity/Q25379
+LIBSRC-LIB36-ENT-WRD-0082528,identity_label,"[""sicken""]",http://www.wikidata.org/entity/Q1291268
+LIBSRC-LIB36-ENT-WRD-0082528,descriptive_identity,"[""sailboat"", ""boat type""]",http://www.wikidata.org/entity/Q1291268
+LIBSRC-LIB36-ENT-WRD-0082544,identity_label,"[""twist""]",http://www.wikidata.org/entity/Q97097228
+LIBSRC-LIB36-ENT-WRD-0082544,descriptive_identity,"[""physical property"", ""wood defect"", ""rock and roll"", ""dance"", ""bodyweight exercise"", ""invariant"", ""type of dance"", ""cocktail garnish"", ""music genre""]",http://www.wikidata.org/entity/Q97097228
+LIBSRC-LIB36-ENT-WRD-0082666,identity_label,"[""stay""]",http://www.wikidata.org/entity/Q1798276
+LIBSRC-LIB36-ENT-WRD-0082666,descriptive_identity,"[""ship element"", ""nautical term""]",http://www.wikidata.org/entity/Q1798276
+LIBSRC-LIB36-ENT-WRD-0082680,identity_label,"[""get""]",http://www.wikidata.org/entity/Q1447794
+LIBSRC-LIB36-ENT-WRD-0082680,descriptive_identity,"[""document"", ""divorce""]",http://www.wikidata.org/entity/Q1447794
+LIBSRC-LIB36-ENT-WRD-0082706,identity_label,"[""change""]",http://www.wikidata.org/entity/Q141609028
+LIBSRC-LIB36-ENT-WRD-0082706,descriptive_identity,"[""occurrent (GFO)"", ""cash"", ""difference"", ""money"", ""control"", ""change"", ""occurrent"", ""activity"", ""philosophical concept""]",http://www.wikidata.org/entity/Q141609028
+LIBSRC-LIB36-ENT-WRD-0082759,identity_label,"[""form""]",http://www.wikidata.org/entity/Q18193
+LIBSRC-LIB36-ENT-WRD-0082759,descriptive_identity,"[""linguistic unit"", ""form"", ""taxonomic rank"", ""unit of speech"", ""infraspecific name"", ""Wikimedia article covering multiple topics"", ""flow element"", ""physical tool"", ""computer science term"", ""concept"", ""group of humans"", ""visual appearance"", ""modality"", ""type"", ""shape"", ""structure"", ""cohort"", ""technique"", ""document"", ""graphical widget"", ""palpable element""]",http://www.wikidata.org/entity/Q18193
+LIBSRC-LIB36-ENT-WRD-0082908,identity_label,"[""clean""]",http://www.wikidata.org/entity/Q120550487
+LIBSRC-LIB36-ENT-WRD-0082908,descriptive_identity,"[""subjective assessment attribute"", ""Python package"", ""cleanliness""]",http://www.wikidata.org/entity/Q120550487
+LIBSRC-LIB36-ENT-WRD-0082937,identity_label,"[""clutter""]",http://www.wikidata.org/entity/Q5136761
+LIBSRC-LIB36-ENT-WRD-0082937,descriptive_identity,"[""signal""]",http://www.wikidata.org/entity/Q5136761
+LIBSRC-LIB36-ENT-WRD-0082939,identity_label,"[""brim""]",http://www.wikidata.org/entity/Q1639232
+LIBSRC-LIB36-ENT-WRD-0082939,descriptive_identity,"[""hat component"", ""edge""]",http://www.wikidata.org/entity/Q1639232
+LIBSRC-LIB36-ENT-WRD-0082961,identity_label,"[""carbonate""]",http://www.wikidata.org/entity/Q181699
+LIBSRC-LIB36-ENT-WRD-0082961,descriptive_identity,"[""structural class of chemical entities"", ""chemical compound""]",http://www.wikidata.org/entity/Q181699
+LIBSRC-LIB36-ENT-WRD-0082961,component_relationship,"[""carbon"", ""oxygen""]",http://www.wikidata.org/entity/Q181699
+LIBSRC-LIB36-ENT-WRD-0082963,identity_label,"[""bromate""]",http://www.wikidata.org/entity/Q107138936
+LIBSRC-LIB36-ENT-WRD-0082963,descriptive_identity,"[""bromine compound"", ""structural class of chemical entities"", ""oxygen compound""]",http://www.wikidata.org/entity/Q107138936
+LIBSRC-LIB36-ENT-WRD-0082998,identity_label,"[""petrify""]",http://www.wikidata.org/entity/Q73094064
+LIBSRC-LIB36-ENT-WRD-0082998,descriptive_identity,"[""software""]",http://www.wikidata.org/entity/Q73094064
+LIBSRC-LIB36-ENT-WRD-0082998,manufacturer_or_creator,"[""Jordi Cortadella""]",http://www.wikidata.org/entity/Q73094064
+LIBSRC-LIB36-ENT-WRD-0083035,identity_label,"[""lift""]",http://www.wikidata.org/entity/Q3964359
+LIBSRC-LIB36-ENT-WRD-0083035,descriptive_identity,"[""bridge"", ""mathematical term"", ""force"", ""curve""]",http://www.wikidata.org/entity/Q3964359
+LIBSRC-LIB36-ENT-WRD-0083063,identity_label,"[""slip""]",http://www.wikidata.org/entity/Q119033429
+LIBSRC-LIB36-ENT-WRD-0083063,descriptive_identity,"[""appliqu\u00e9"", ""ceramic technique"", ""deformation"", ""difference"", ""surface finish"", ""sliding"", ""rotational speed"", ""flight maneuver"", ""art material"", ""plant-derived motif"", ""aerobatic maneuver"", ""undergarment"", ""gene"", ""measurand"", ""mixture""]",http://www.wikidata.org/entity/Q119033429
+LIBSRC-LIB36-ENT-WRD-0083063,component_relationship,"[""clay""]",http://www.wikidata.org/entity/Q119033429
+LIBSRC-LIB36-ENT-WRD-0083087,identity_label,"[""hang""]",http://www.wikidata.org/entity/Q97223277
+LIBSRC-LIB36-ENT-WRD-0083087,descriptive_identity,"[""computer error"", ""breakdown"", ""verb"", ""gene""]",http://www.wikidata.org/entity/Q97223277
+LIBSRC-LIB36-ENT-WRD-0083125,identity_label,"[""flow""]",http://www.wikidata.org/entity/Q111269149
+LIBSRC-LIB36-ENT-WRD-0083125,descriptive_identity,"[""element of music"", ""software"", ""mental state"", ""function"", ""group action""]",http://www.wikidata.org/entity/Q111269149
+LIBSRC-LIB36-ENT-WRD-0083125,manufacturer_or_creator,"[""Meta Platforms""]",http://www.wikidata.org/entity/Q111269149
+LIBSRC-LIB36-ENT-WRD-0083136,identity_label,"[""dry""]",http://www.wikidata.org/entity/Q115112136
+LIBSRC-LIB36-ENT-WRD-0083136,descriptive_identity,"[""prohibition"", ""quality"", ""wetness""]",http://www.wikidata.org/entity/Q115112136
+LIBSRC-LIB36-ENT-WRD-0083162,identity_label,"[""die""]",http://www.wikidata.org/entity/Q123462164
+LIBSRC-LIB36-ENT-WRD-0083162,descriptive_identity,"[""artificial figure"", ""metalworking tool"", ""manifestation product type (F3)"", ""electronic component"", ""third-person pronoun"", ""pronoun"", ""stamp"", ""die and mold"", ""physical tool"", ""cutting tool""]",http://www.wikidata.org/entity/Q123462164
+LIBSRC-LIB36-ENT-WRD-0083162,material_identity,"[""semiconductor"", ""silicon""]",http://www.wikidata.org/entity/Q123462164
+LIBSRC-LIB36-ENT-WRD-0083330,identity_label,"[""break""]",http://www.wikidata.org/entity/Q111249727
+LIBSRC-LIB36-ENT-WRD-0083330,descriptive_identity,"[""pause"", ""stroke"", ""interlude"", ""separation"", ""destruction"", ""passage"", ""time interval"", ""sports terminology""]",http://www.wikidata.org/entity/Q111249727
