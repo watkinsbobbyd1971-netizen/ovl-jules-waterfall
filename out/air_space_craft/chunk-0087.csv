@@ -1,0 +1,49 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG05-CAT09-ERA06-2018-YUTU-2,mass,140000.0,https://www.wikidata.org/wiki/Q60407805
+IDB-REG05-CAT09-ERA06-2018-YUTU-2,dimension_length,1500.0,https://www.wikidata.org/wiki/Q60407805
+IDB-REG05-CAT09-ERA07-2020S-KAI-KUH-1-SURION,mass,8709000.0,https://www.wikidata.org/wiki/Q201116
+IDB-REG05-CAT09-ERA07-2020S-KAI-KUH-1-SURION,dimension_length,19000.0,https://www.wikidata.org/wiki/Q201116
+IDB-REG05-CAT09-ERA07-2020S-KAI-KUH-1-SURION,manufacturer_or_creator,"""Korea Aerospace Industries""",https://www.wikidata.org/wiki/Q201116
+IDB-REG06-CAT09-ERA06-1990S-DENEL-ROOIVALK-AVIATION,manufacturer_or_creator,"""Denel""",https://www.wikidata.org/wiki/Q770618
+IDB-REG06-CAT09-ERA06-2014-MEASAT-3B,mass,5897000.0,https://www.wikidata.org/wiki/Q18041382
+IDB-REG06-CAT09-ERA06-2014-MEASAT-3B,manufacturer_or_creator,"""Space Systems""",https://www.wikidata.org/wiki/Q18041382
+IDB-REG05-CAT09-ERA07-2021-TIANZHOU-3,manufacturer_or_creator,"""China Aerospace Science and Technology Corporation""",https://www.wikidata.org/wiki/Q107348304
+IDB-REG05-CAT09-ERA07-2022-TIANZHOU-4,manufacturer_or_creator,"""China Aerospace Science and Technology Corporation""",https://www.wikidata.org/wiki/Q108809373
+IDB-REG06-CAT09-ERA07-2024-GAGANYAAN,mass,7800000.0,https://www.wikidata.org/wiki/Q580809
+IDB-REG05-CAT09-ERA07-2010S-FORMOSAT-5,mass,475000.0,https://www.wikidata.org/wiki/Q15915007
+IDB-REG05-CAT09-ERA07-2010S-FORMOSAT-5,manufacturer_or_creator,"""Taiwan Space Agency""",https://www.wikidata.org/wiki/Q15915007
+IDB-REG05-CAT09-ERA07-2010S-S-SERIES-ROCKET-FAMILY-JAPAN-AEROSPACE-EXPLORATION-AGENCY,manufacturer_or_creator,"""IHI Corporation""",https://www.wikidata.org/wiki/Q73676
+IDB-REG05-CAT09-ERA07-2020S-CALT-LONG-MARCH-5,manufacturer_or_creator,"""China Academy of Launch Vehicle Technology""",https://www.wikidata.org/wiki/Q787531
+IDB-REG05-CAT09-ERA07-2020S-KAWASAKI-C-2,dimension_length,43900.0,https://www.wikidata.org/wiki/Q1352202
+IDB-REG05-CAT09-ERA07-2020S-KAWASAKI-C-2,manufacturer_or_creator,"""Kawasaki Aerospace Systems Company""",https://www.wikidata.org/wiki/Q1352202
+IDB-REG06-CAT09-ERA07-2020S-ETHIOPIAN-AIRBUS-A350-1000,dimension_length,73790.0,https://www.wikidata.org/wiki/Q65280198
+IDB-REG06-CAT09-ERA07-2020S-ETHIOPIAN-AIRBUS-A350-1000,manufacturer_or_creator,"""Airbus Commercial Aircraft""",https://www.wikidata.org/wiki/Q65280198
+IDB-REG06-CAT09-ERA07-2020S-ETHIOPIAN-AIRLINES-BOEING-737-MAX-8,manufacturer_or_creator,"""Boeing""",https://www.wikidata.org/wiki/Q106340166
+IDB-REG06-CAT09-ERA07-2020S-TAAG-BOEING-787-9-DREAMLINER,dimension_length,62800.0,https://www.wikidata.org/wiki/Q15111575
+IDB-REG05-CAT09-ERA06-2016-MITSUBISHI-X-2-SHINSHIN,manufacturer_or_creator,"""Mitsubishi Heavy Industries""",https://www.wikidata.org/wiki/Q1330768
+IDB-REG05-CAT09-ERA07-2022-TIANZHOU-5,manufacturer_or_creator,"""China Aerospace Science and Technology Corporation""",https://www.wikidata.org/wiki/Q112119394
+IDB-REG05-CAT09-ERA07-2021-TIANZHOU-2,manufacturer_or_creator,"""China Aerospace Science and Technology Corporation""",https://www.wikidata.org/wiki/Q106823153
+IDB-REG05-CAT09-ERA06-2015-COMAC-ARJ21,manufacturer_or_creator,"""Comac""",https://www.wikidata.org/wiki/Q44654
+IDB-REG05-CAT09-ERA06-2012-SHENYANG-FC-31,manufacturer_or_creator,"""Shenyang Aircraft Corporation""",https://www.wikidata.org/wiki/Q131176348
+IDB-REG05-CAT09-ERA06-2017-COMAC-C919,manufacturer_or_creator,"""Comac""",https://www.wikidata.org/wiki/Q429894
+IDB-REG05-CAT09-ERA07-2010S-JCSAT-2B,manufacturer_or_creator,"""Lanteris Space Systems""",https://www.wikidata.org/wiki/Q18466406
+IDB-REG05-CAT09-ERA07-2010S-HONDA-HA-420-HONDAJET-AIRCRAFT-COMPANY,dimension_length,13000.0,https://www.wikidata.org/wiki/Q1519686
+IDB-REG05-CAT09-ERA07-2010S-HONDA-HA-420-HONDAJET-AIRCRAFT-COMPANY,manufacturer_or_creator,"""Honda Aircraft Company""",https://www.wikidata.org/wiki/Q1519686
+IDB-REG05-CAT09-ERA07-2010S-TIANGONG-2,dimension_length,10400.0,https://www.wikidata.org/wiki/Q3122598
+IDB-REG05-CAT09-ERA06-2017-AVIC-AG600,dimension_length,36900.0,https://www.wikidata.org/wiki/Q11225860
+IDB-REG05-CAT09-ERA06-2015-LONG-MARCH-11,manufacturer_or_creator,"""China Academy of Launch Vehicle Technology""",https://www.wikidata.org/wiki/Q6672962
+IDB-REG05-CAT09-ERA06-2015-LONG-MARCH-6,manufacturer_or_creator,"""Shanghai Academy of Spaceflight Technology""",https://www.wikidata.org/wiki/Q1090965
+IDB-REG05-CAT09-ERA07-2010S-CHENGDU-J-20-AIRCRAFT-INDUSTRY-GROUP,dimension_length,23000.0,https://www.wikidata.org/wiki/Q560319
+IDB-REG05-CAT09-ERA07-2010S-CHENGDU-J-20-AIRCRAFT-INDUSTRY-GROUP,manufacturer_or_creator,"""Chengdu Aircraft Industry Group""",https://www.wikidata.org/wiki/Q560319
+IDB-REG06-CAT09-ERA07-2022-SSLV,manufacturer_or_creator,"""Indian Space Research Organisation""",https://www.wikidata.org/wiki/Q56292638
+IDB-REG06-CAT09-ERA07-2020S-RWANDAIR-AIRBUS-A330-200,manufacturer_or_creator,"""Airbus Commercial Aircraft""",https://www.wikidata.org/wiki/Q68189256
+IDB-REG05-CAT09-ERA06-2010-KAWASAKI-C-2,dimension_length,43900.0,https://www.wikidata.org/wiki/Q1352202
+IDB-REG05-CAT09-ERA06-2010-KAWASAKI-C-2,manufacturer_or_creator,"""Kawasaki Aerospace Systems Company""",https://www.wikidata.org/wiki/Q1352202
+IDB-REG06-CAT09-ERA07-2020S-ETHIOPIAN-CARGO-BOEING-777-FREIGHTER,manufacturer_or_creator,"""Boeing Commercial Airplanes""",https://www.wikidata.org/wiki/Q99691508
+IDB-REG06-CAT09-ERA07-2020S-ETHIOPIAN-AIRLINES-BOEING-777-200LR,manufacturer_or_creator,"""Boeing Commercial Airplanes""",https://www.wikidata.org/wiki/Q17997561
+IDB-REG05-CAT09-ERA06-2013-XI-AN-Y-20,dimension_length,47000.0,https://www.wikidata.org/wiki/Q1654128
+IDB-REG05-CAT09-ERA06-2013-XI-AN-Y-20,manufacturer_or_creator,"""Xi'an Aircraft Industrial Corporation""",https://www.wikidata.org/wiki/Q1654128
+IDB-REG06-CAT09-ERA07-2020S-ETHIOPIAN-AIRLINES-AIRBUS-A350-900,dimension_length,66800.0,https://www.wikidata.org/wiki/Q92162002
+IDB-REG06-CAT09-ERA07-2020S-ETHIOPIAN-AIRLINES-AIRBUS-A350-900,manufacturer_or_creator,"""Airbus Commercial Aircraft""",https://www.wikidata.org/wiki/Q92162002
+IDB-REG05-CAT09-ERA07-2020-LONG-MARCH-8,manufacturer_or_creator,"""China Academy of Launch Vehicle Technology""",https://www.wikidata.org/wiki/Q22099169
+IDB-REG05-CAT09-ERA07-2020-LONG-MARCH-7A,manufacturer_or_creator,"""China Academy of Launch Vehicle Technology""",https://www.wikidata.org/wiki/Q85884985
