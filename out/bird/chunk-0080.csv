@@ -1,0 +1,5 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_06-CAT_14-ERA_01-1200-ACC04-HOP15554-REC3110696,identity_label,"""bag""",https://www.wikidata.org/wiki/Q1323314
+IDB-REG_06-CAT_14-ERA_01-1200-ACC04-HOP15554-REC3110696,descriptive_identity,"""simple tool used to hold and carry things inside it, made of some flexible material such as paper, fabric, or leather; closed on all sides except the top and easy to handle""",https://www.wikidata.org/wiki/Q1323314
+IDB-REG_06-CAT_14-ERA_01-1200-ACC04-HOP16850-REC3369976,identity_label,"""spheroid""",https://www.wikidata.org/wiki/Q208395
+IDB-REG_06-CAT_14-ERA_01-1200-ACC04-HOP16850-REC3369976,descriptive_identity,"""volume formed by rotating an ellipse around one of its axes; special case of ellipsoid""",https://www.wikidata.org/wiki/Q208395
