@@ -1,0 +1,8 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-0393274,scientific_identity,"Edmontonia longiceps Sternberg",https://api.gbif.org/v1/species/match?name=Edmontonia%20longiceps
+IDB-REG_04-CAT_12-ERA_01-1200-ACC04-HOP17409-REC3481794,scientific_identity,"Manilla Bordoni",https://api.gbif.org/v1/species/match?name=Manilla
+IDB-REG_04-CAT_12-ERA_05-1965-ACC04-HOP16138-REC3227474,scientific_identity,"Parka Fleming ex H.Miller",https://api.gbif.org/v1/species/match?name=Parka
+IDB-REG_04-CAT_12-ERA_07-2025-ACC04-HOP15446-REC3089114,scientific_identity,"Parka Fleming ex H.Miller",https://api.gbif.org/v1/species/match?name=Parka
+LIBSRC-LIB51-ENT-SMI-0005723,scientific_identity,"Panel Adans.",https://api.gbif.org/v1/species/match?name=Panel
+LIBSRC-LIB51-ENT-SMI-0169243,scientific_identity,"Ricinus communis L.",https://api.gbif.org/v1/species/match?name=Ricinus%20communis
+LIBSRC-LIB51-ENT-SMI-0194127,scientific_identity,"Pterocarpus santalinus L.f.",https://api.gbif.org/v1/species/match?name=Pterocarpus%20santalinus
