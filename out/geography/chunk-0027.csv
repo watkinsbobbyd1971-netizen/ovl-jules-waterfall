@@ -1,0 +1,538 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1418-REC283431,elevation,514000.0,http://www.wikidata.org/entity/Q21751462
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1418-REC283431,identity_label,"""Mīrābād""",http://www.wikidata.org/entity/Q21751462
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1418-REC283431,place_identity,"""1133310""",http://www.wikidata.org/entity/Q21751462
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1419-REC283641,identity_label,"""Kūh-e ‘Eyn ol Baghar""",http://www.wikidata.org/entity/Q26875272
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1419-REC283641,place_identity,"""68488""",http://www.wikidata.org/entity/Q26875272
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1420-REC283851,identity_label,"""Khānīān""",http://www.wikidata.org/entity/Q26863918
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1420-REC283851,place_identity,"""17904""",http://www.wikidata.org/entity/Q26863918
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1440-REC287841,identity_label,"""Kūh-e Modabeh""",http://www.wikidata.org/entity/Q26880368
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1440-REC287841,place_identity,"""120893""",http://www.wikidata.org/entity/Q26880368
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1457-REC291201,identity_label,"""Kūh-e Dūtqolleh""",http://www.wikidata.org/entity/Q26884412
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1457-REC291201,place_identity,"""129172""",http://www.wikidata.org/entity/Q26884412
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1462-REC292251,identity_label,"""Harzanaq""",http://www.wikidata.org/entity/Q5730277
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1462-REC292251,place_identity,"""131937""",http://www.wikidata.org/entity/Q5730277
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1468-REC293511,identity_label,"""Kūh-e Estīn""",http://www.wikidata.org/entity/Q26885657
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1468-REC293511,place_identity,"""135061""",http://www.wikidata.org/entity/Q26885657
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1481-REC296031,identity_label,"""Kūh-e Band-e Barg""",http://www.wikidata.org/entity/Q26898430
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1481-REC296031,place_identity,"""141306""",http://www.wikidata.org/entity/Q26898430
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1492-REC298341,identity_label,"""Kūh-e Lātjaneh""",http://www.wikidata.org/entity/Q26900413
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1492-REC298341,place_identity,"""404184""",http://www.wikidata.org/entity/Q26900413
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1501-REC300021,identity_label,"""Rūdkhāneh-ye Bīsh Mant""",http://www.wikidata.org/entity/Q35469784
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1501-REC300021,place_identity,"""1160023""",http://www.wikidata.org/entity/Q35469784
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1508-REC301491,identity_label,"""Sar-e Ākhāchakān""",http://www.wikidata.org/entity/Q26907144
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1508-REC301491,place_identity,"""6672300""",http://www.wikidata.org/entity/Q26907144
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1517-REC303381,identity_label,"""Qezel Kūh""",http://www.wikidata.org/entity/Q26927462
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1517-REC303381,place_identity,"""7352265""",http://www.wikidata.org/entity/Q26927462
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1522-REC304221,identity_label,"""Kūh-e Khāneh Kaftārī""",http://www.wikidata.org/entity/Q26919705
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1522-REC304221,place_identity,"""6926487""",http://www.wikidata.org/entity/Q26919705
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1524-REC304641,identity_label,"""Kūh-e Sarkhehnār""",http://www.wikidata.org/entity/Q26921259
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1524-REC304641,place_identity,"""6984111""",http://www.wikidata.org/entity/Q26921259
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1532-REC306321,identity_label,"""Kūh-e Qal‘eh Dozd""",http://www.wikidata.org/entity/Q26915477
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1532-REC306321,place_identity,"""6746614""",http://www.wikidata.org/entity/Q26915477
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1543-REC308421,identity_label,"""Rūdkhāneh-ye Faşlī-ye Gozdān""",http://www.wikidata.org/entity/Q35476622
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1543-REC308421,place_identity,"""8182312""",http://www.wikidata.org/entity/Q35476622
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1550-REC309891,identity_label,"""Sīlīn Chāy""",http://www.wikidata.org/entity/Q34896303
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1550-REC309891,place_identity,"""10308799""",http://www.wikidata.org/entity/Q34896303
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1552-REC310311,identity_label,"""Kūh-e Qolleh-ye Pāchīnū""",http://www.wikidata.org/entity/Q31599210
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1552-REC310311,place_identity,"""11105145""",http://www.wikidata.org/entity/Q31599210
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1572-REC314301,identity_label,"""Loggia dei Militi""",http://www.wikidata.org/entity/Q3257902
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1573-REC314511,identity_label,"""Fontana del Trianon""",http://www.wikidata.org/entity/Q21208521
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1574-REC314721,identity_label,"""Palazzo della Penna""",http://www.wikidata.org/entity/Q16586448
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1575-REC314931,identity_label,"""Stadio Pino Zaccheria""",http://www.wikidata.org/entity/Q1281897
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1590-REC317871,identity_label,"""Labirinto della Masone""",http://www.wikidata.org/entity/Q20009218
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1594-REC318711,identity_label,"""Palazzo Scavuzzo""",http://www.wikidata.org/entity/Q3890867
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1596-REC319131,identity_label,"""Faro di Punta Stilo""",http://www.wikidata.org/entity/Q3739804
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1601-REC320181,identity_label,"""Judita""",http://www.wikidata.org/entity/Q12205073
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1601-REC320181,place_identity,"""248803""",http://www.wikidata.org/entity/Q12205073
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1602-REC320391,identity_label,"""At Tall al Aşfar""",http://www.wikidata.org/entity/Q23955194
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1602-REC320391,place_identity,"""360065""",http://www.wikidata.org/entity/Q23955194
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1614-REC322701,identity_label,"""Sokei""",http://www.wikidata.org/entity/Q11588122
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1620-REC323961,identity_label,"""Kamihama""",http://www.wikidata.org/entity/Q11359550
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1648-REC329421,identity_label,"""Nap-to""",http://www.wikidata.org/entity/Q27275836
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1648-REC329421,place_identity,"""1840337""",http://www.wikidata.org/entity/Q27275836
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1665-REC332991,identity_label,"""Yaksu-dong""",http://www.wikidata.org/entity/Q15335523
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1689-REC337611,identity_label,"""Daeseongsa""",http://www.wikidata.org/entity/Q5208276
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1715-REC342861,identity_label,"""Karashyganak""",http://www.wikidata.org/entity/Q13651815
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1717-REC343281,elevation,4000.0,http://www.wikidata.org/entity/Q19831396
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1717-REC343281,identity_label,"""Topolyovka""",http://www.wikidata.org/entity/Q19831396
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1753-REC350421,elevation,769000.0,http://www.wikidata.org/entity/Q1968465
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1753-REC350421,identity_label,"""Sanniquellie""",http://www.wikidata.org/entity/Q1968465
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1753-REC350421,place_identity,"""2274129""",http://www.wikidata.org/entity/Q1968465
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1755-REC350841,elevation,110000.0,http://www.wikidata.org/entity/Q2037259
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1755-REC350841,identity_label,"""Nemakščiai""",http://www.wikidata.org/entity/Q2037259
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1755-REC350841,place_identity,"""596669""",http://www.wikidata.org/entity/Q2037259
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1756-REC351051,elevation,45000.0,http://www.wikidata.org/entity/Q2277462
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1756-REC351051,identity_label,"""Eržvilkas""",http://www.wikidata.org/entity/Q2277462
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1756-REC351051,place_identity,"""599585""",http://www.wikidata.org/entity/Q2277462
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1775-REC354831,identity_label,"""Sidi Messaoud""",http://www.wikidata.org/entity/Q118595840
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1794-REC358611,identity_label,"""Đurđevića Tara Bridge""",http://www.wikidata.org/entity/Q342168
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1794-REC358611,place_identity,"""7284153""",http://www.wikidata.org/entity/Q342168
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1795-REC358821,identity_label,"""Illeginni""",http://www.wikidata.org/entity/Q27577090
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1795-REC358821,place_identity,"""2080440""",http://www.wikidata.org/entity/Q27577090
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1809-REC361761,elevation,1204000.0,http://www.wikidata.org/entity/Q27783638
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1809-REC361761,identity_label,"""Cañón del Licenciado""",http://www.wikidata.org/entity/Q27783638
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1809-REC361761,place_identity,"""3998606""",http://www.wikidata.org/entity/Q27783638
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1818-REC363441,elevation,1416000.0,http://www.wikidata.org/entity/Q27843558
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1818-REC363441,identity_label,"""Cañón Santa Eulalia""",http://www.wikidata.org/entity/Q27843558
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1818-REC363441,place_identity,"""9078705""",http://www.wikidata.org/entity/Q27843558
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1827-REC365331,identity_label,"""Istana Pantai""",http://www.wikidata.org/entity/Q113011715
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1831-REC366171,identity_label,"""Wijnaldum""",http://www.wikidata.org/entity/Q1871629
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1831-REC366171,place_identity,"""2744472""",http://www.wikidata.org/entity/Q1871629
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1835-REC366801,identity_label,"""Ronduit""",http://www.wikidata.org/entity/Q2029565
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1842-REC368271,identity_label,"""Ibestad""",http://www.wikidata.org/entity/Q33447496
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1842-REC368271,place_identity,"""3151231""",http://www.wikidata.org/entity/Q33447496
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1851-REC370161,identity_label,"""Stakkalifossen""",http://www.wikidata.org/entity/Q34758945
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1851-REC370161,place_identity,"""9060504""",http://www.wikidata.org/entity/Q34758945
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1852-REC370371,identity_label,"""Gjerståfossen""",http://www.wikidata.org/entity/Q34837755
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1852-REC370371,place_identity,"""9060714""",http://www.wikidata.org/entity/Q34837755
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1856-REC371001,elevation,145000.0,http://www.wikidata.org/entity/Q34680037
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1856-REC371001,identity_label,"""Smalfoss""",http://www.wikidata.org/entity/Q34680037
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1856-REC371001,place_identity,"""9061347""",http://www.wikidata.org/entity/Q34680037
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1861-REC372051,identity_label,"""Austfjellfonna""",http://www.wikidata.org/entity/Q34831862
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1861-REC372051,place_identity,"""9151797""",http://www.wikidata.org/entity/Q34831862
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1866-REC373101,elevation,450000.0,http://www.wikidata.org/entity/Q32249916
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1866-REC373101,identity_label,"""Mac Falls""",http://www.wikidata.org/entity/Q32249916
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1866-REC373101,place_identity,"""6203639""",http://www.wikidata.org/entity/Q32249916
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1867-REC373311,identity_label,"""Ranfurly Glacier""",http://www.wikidata.org/entity/Q34843791
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1867-REC373311,place_identity,"""6209058""",http://www.wikidata.org/entity/Q34843791
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1878-REC375411,elevation,5000.0,http://www.wikidata.org/entity/Q1017763
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1878-REC375411,identity_label,"""Wewak""",http://www.wikidata.org/entity/Q1017763
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1878-REC375411,place_identity,"""2083537""",http://www.wikidata.org/entity/Q1017763
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1881-REC376041,identity_label,"""Shahdadpur""",http://www.wikidata.org/entity/Q3248111
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1881-REC376041,place_identity,"""1165635""",http://www.wikidata.org/entity/Q3248111
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1882-REC376251,identity_label,"""Kamalia""",http://www.wikidata.org/entity/Q2573596
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1882-REC376251,place_identity,"""1175156""",http://www.wikidata.org/entity/Q2573596
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1892-REC378351,identity_label,"""Łątczyn""",http://www.wikidata.org/entity/Q9395141
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1892-REC378351,place_identity,"""766678""",http://www.wikidata.org/entity/Q9395141
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1893-REC378561,identity_label,"""Kłodzko""",http://www.wikidata.org/entity/Q284604
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1893-REC378561,place_identity,"""3096053""",http://www.wikidata.org/entity/Q284604
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1907-REC381291,identity_label,"""Castelo de Lagos""",http://www.wikidata.org/entity/Q98458464
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1944-REC388641,identity_label,"""Vodopad Sakhanin""",http://www.wikidata.org/entity/Q34761531
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1944-REC388641,place_identity,"""857992""",http://www.wikidata.org/entity/Q34761531
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1946-REC389061,identity_label,"""Promyshlennovskiy""",http://www.wikidata.org/entity/Q28666402
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1946-REC389061,place_identity,"""1494090""",http://www.wikidata.org/entity/Q28666402
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1962-REC392211,elevation,35000.0,http://www.wikidata.org/entity/Q16123305
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1962-REC392211,identity_label,"""Zufāf""",http://www.wikidata.org/entity/Q16123305
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1962-REC392211,place_identity,"""100295""",http://www.wikidata.org/entity/Q16123305
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1966-REC393051,identity_label,"""Stora Huvön""",http://www.wikidata.org/entity/Q3534734
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1966-REC393051,place_identity,"""604038""",http://www.wikidata.org/entity/Q3534734
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1967-REC393261,identity_label,"""Rosersberg""",http://www.wikidata.org/entity/Q3146766
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1967-REC393261,place_identity,"""2681576""",http://www.wikidata.org/entity/Q3146766
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1973-REC394521,elevation,451500.0,http://www.wikidata.org/entity/Q988409
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1973-REC394521,identity_label,"""Ožbalt""",http://www.wikidata.org/entity/Q988409
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1973-REC394521,place_identity,"""3193751""",http://www.wikidata.org/entity/Q988409
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1974-REC394731,elevation,313200.0,http://www.wikidata.org/entity/Q554908
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1974-REC394731,identity_label,"""Dutovlje""",http://www.wikidata.org/entity/Q554908
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1974-REC394731,place_identity,"""3200933""",http://www.wikidata.org/entity/Q554908
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1977-REC395361,elevation,654000.0,http://www.wikidata.org/entity/Q31876426
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1977-REC395361,identity_label,"""Potpeschniggbreen""",http://www.wikidata.org/entity/Q31876426
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1977-REC395361,place_identity,"""2729249""",http://www.wikidata.org/entity/Q31876426
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1978-REC395571,identity_label,"""Jarlbreen""",http://www.wikidata.org/entity/Q31868665
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1978-REC395571,place_identity,"""2730451""",http://www.wikidata.org/entity/Q31868665
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1979-REC395781,elevation,421000.0,http://www.wikidata.org/entity/Q31860206
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1979-REC395781,identity_label,"""Burn Murdochbreen""",http://www.wikidata.org/entity/Q31860206
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1979-REC395781,place_identity,"""2731662""",http://www.wikidata.org/entity/Q31860206
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1983-REC396411,identity_label,"""Widhwidh""",http://www.wikidata.org/entity/Q4469960
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP1983-REC396411,place_identity,"""50385""",http://www.wikidata.org/entity/Q4469960
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP806-REC161001,elevation,1179000.0,http://www.wikidata.org/entity/Q21748404
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP806-REC161001,identity_label,"""Kōh-e Sang Kōtal""",http://www.wikidata.org/entity/Q21748404
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP806-REC161001,place_identity,"""1127526""",http://www.wikidata.org/entity/Q21748404
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP820-REC163941,identity_label,"""Kōh-e Mārkhānah""",http://www.wikidata.org/entity/Q21751320
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP820-REC163941,place_identity,"""1133799""",http://www.wikidata.org/entity/Q21751320
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP830-REC165831,identity_label,"""Kamān-e Kōh-e Now Kāfar""",http://www.wikidata.org/entity/Q21755336
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP830-REC165831,place_identity,"""1138441""",http://www.wikidata.org/entity/Q21755336
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP832-REC166251,elevation,2450000.0,http://www.wikidata.org/entity/Q21755006
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP832-REC166251,identity_label,"""Kōh-e Jangal-e Bāz""",http://www.wikidata.org/entity/Q21755006
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP832-REC166251,place_identity,"""1457586""",http://www.wikidata.org/entity/Q21755006
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP846-REC169191,elevation,2764000.0,http://www.wikidata.org/entity/Q21763844
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP846-REC169191,identity_label,"""Bukah Mazār""",http://www.wikidata.org/entity/Q21763844
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP846-REC169191,place_identity,"""1146195""",http://www.wikidata.org/entity/Q21763844
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP852-REC170241,elevation,1961000.0,http://www.wikidata.org/entity/Q21766677
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP852-REC170241,identity_label,"""Kōh-e Alatakah""",http://www.wikidata.org/entity/Q21766677
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP852-REC170241,place_identity,"""1149036""",http://www.wikidata.org/entity/Q21766677
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP860-REC171921,elevation,3486000.0,http://www.wikidata.org/entity/Q21771429
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP860-REC171921,identity_label,"""Showgal Ghar""",http://www.wikidata.org/entity/Q21771429
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP860-REC171921,place_identity,"""1423939""",http://www.wikidata.org/entity/Q21771429
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP861-REC172131,elevation,1954000.0,http://www.wikidata.org/entity/Q21773861
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP861-REC172131,identity_label,"""Kōh-e Zimistanah""",http://www.wikidata.org/entity/Q21773861
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP861-REC172131,place_identity,"""1424608""",http://www.wikidata.org/entity/Q21773861
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP872-REC174231,elevation,2120000.0,http://www.wikidata.org/entity/Q21779656
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP872-REC174231,identity_label,"""Dê Klakē Ghrūnah""",http://www.wikidata.org/entity/Q21779656
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP872-REC174231,place_identity,"""1437096""",http://www.wikidata.org/entity/Q21779656
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP883-REC176541,identity_label,"""Kōh-e Qāshnātī""",http://www.wikidata.org/entity/Q21793082
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP883-REC176541,place_identity,"""1450463""",http://www.wikidata.org/entity/Q21793082
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP887-REC177381,identity_label,"""Taygh-e Lūkah Surkh""",http://www.wikidata.org/entity/Q21799796
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP887-REC177381,place_identity,"""1455222""",http://www.wikidata.org/entity/Q21799796
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP898-REC179481,identity_label,"""Pushtah-ye Baydak-e Jalāl""",http://www.wikidata.org/entity/Q21810373
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP898-REC179481,place_identity,"""1459926""",http://www.wikidata.org/entity/Q21810373
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP902-REC180321,identity_label,"""Kōh-e Wūchī""",http://www.wikidata.org/entity/Q21812284
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP902-REC180321,place_identity,"""1462011""",http://www.wikidata.org/entity/Q21812284
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP906-REC181161,identity_label,"""Kōh-e Tondok""",http://www.wikidata.org/entity/Q21814068
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP906-REC181161,place_identity,"""1466831""",http://www.wikidata.org/entity/Q21814068
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP918-REC183471,identity_label,"""Shpālah""",http://www.wikidata.org/entity/Q21818998
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP918-REC183471,place_identity,"""1473394""",http://www.wikidata.org/entity/Q21818998
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP919-REC183681,identity_label,"""Showtalō Sar""",http://www.wikidata.org/entity/Q21818697
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP919-REC183681,place_identity,"""1474170""",http://www.wikidata.org/entity/Q21818697
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP920-REC183891,identity_label,"""Kōh-e Awshārah""",http://www.wikidata.org/entity/Q21819146
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP920-REC183891,place_identity,"""1474723""",http://www.wikidata.org/entity/Q21819146
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP928-REC185571,identity_label,"""Dragostunjë""",http://www.wikidata.org/entity/Q16353086
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP953-REC190401,identity_label,"""Andulo""",http://www.wikidata.org/entity/Q2571244
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP953-REC190401,place_identity,"""3348855""",http://www.wikidata.org/entity/Q2571244
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP954-REC190611,identity_label,"""Ochs Glacier""",http://www.wikidata.org/entity/Q7076422
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP954-REC190611,place_identity,"""6622537""",http://www.wikidata.org/entity/Q7076422
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP955-REC190821,identity_label,"""Schytt Glacier""",http://www.wikidata.org/entity/Q3372454
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP955-REC190821,place_identity,"""6624918""",http://www.wikidata.org/entity/Q3372454
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP962-REC192291,identity_label,"""Eris Glacier""",http://www.wikidata.org/entity/Q21489958
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP962-REC192291,place_identity,"""8521297""",http://www.wikidata.org/entity/Q21489958
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP963-REC192501,elevation,238000.0,http://www.wikidata.org/entity/Q21836848
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP963-REC192501,identity_label,"""Cañadón Otero""",http://www.wikidata.org/entity/Q21836848
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP963-REC192501,place_identity,"""3842528""",http://www.wikidata.org/entity/Q21836848
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP967-REC193341,elevation,1047000.0,http://www.wikidata.org/entity/Q21879736
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP967-REC193341,identity_label,"""Bad Sankt Leonhard im Lavanttal""",http://www.wikidata.org/entity/Q21879736
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP967-REC193341,place_identity,"""2782049""",http://www.wikidata.org/entity/Q21879736
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP971-REC194181,elevation,236000.0,http://www.wikidata.org/entity/Q7604908
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP971-REC194181,identity_label,"""Stawell Airport""",http://www.wikidata.org/entity/Q7604908
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP971-REC194181,place_identity,"""7668775""",http://www.wikidata.org/entity/Q7604908
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP978-REC195441,identity_label,"""Aşağı Mollu""",http://www.wikidata.org/entity/Q4833441
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP978-REC195441,place_identity,"""148467""",http://www.wikidata.org/entity/Q4833441
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP980-REC195861,identity_label,"""Sarıtala""",http://www.wikidata.org/entity/Q7424936
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP980-REC195861,place_identity,"""585115""",http://www.wikidata.org/entity/Q7424936
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP983-REC196491,elevation,104000.0,http://www.wikidata.org/entity/Q4122013
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP983-REC196491,identity_label,"""Digahoba""",http://www.wikidata.org/entity/Q4122013
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP983-REC196491,place_identity,"""586733""",http://www.wikidata.org/entity/Q4122013
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP997-REC199221,elevation,549000.0,http://www.wikidata.org/entity/Q1076568
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP997-REC199221,identity_label,"""Blaskovtsi""",http://www.wikidata.org/entity/Q1076568
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP998-REC199431,elevation,18000.0,http://www.wikidata.org/entity/Q4704125
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP998-REC199431,identity_label,"""Al Jasrah""",http://www.wikidata.org/entity/Q4704125
+IDB-REG_01-CAT_17-ERA_01-1200-ACC05-HOP998-REC199431,place_identity,"""411804""",http://www.wikidata.org/entity/Q4704125
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1006-REC201091,elevation,202000.0,http://www.wikidata.org/entity/Q22017157
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1006-REC201091,identity_label,"""Cachoeira do Pato""",http://www.wikidata.org/entity/Q22017157
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1006-REC201091,place_identity,"""3392895""",http://www.wikidata.org/entity/Q22017157
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1020-REC203821,elevation,164000.0,http://www.wikidata.org/entity/Q102217
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1020-REC203821,identity_label,"""Vitebsk""",http://www.wikidata.org/entity/Q102217
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1020-REC203821,place_identity,"""620127""",http://www.wikidata.org/entity/Q102217
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1026-REC205081,identity_label,"""Canopus Glacier""",http://www.wikidata.org/entity/Q22406622
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1026-REC205081,place_identity,"""5915096""",http://www.wikidata.org/entity/Q22406622
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1028-REC205501,identity_label,"""Hermit Glacier""",http://www.wikidata.org/entity/Q22618371
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1028-REC205501,place_identity,"""5974204""",http://www.wikidata.org/entity/Q22618371
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1032-REC206341,identity_label,"""Triangle Glacier""",http://www.wikidata.org/entity/Q22524489
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1032-REC206341,place_identity,"""6168830""",http://www.wikidata.org/entity/Q22524489
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1034-REC206761,elevation,532000.0,http://www.wikidata.org/entity/Q3913917
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1034-REC206761,identity_label,"""Pembroke Airport""",http://www.wikidata.org/entity/Q3913917
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1034-REC206761,place_identity,"""7668145""",http://www.wikidata.org/entity/Q3913917
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1071-REC214111,identity_label,"""Hulun Buir Shadi""",http://www.wikidata.org/entity/Q6841121
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1071-REC214111,place_identity,"""2036659""",http://www.wikidata.org/entity/Q6841121
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1075-REC214951,elevation,604000.0,http://www.wikidata.org/entity/Q168400
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1075-REC214951,identity_label,"""Canton Tower""",http://www.wikidata.org/entity/Q168400
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1075-REC214951,place_identity,"""8030259""",http://www.wikidata.org/entity/Q168400
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1095-REC218941,elevation,889000.0,http://www.wikidata.org/entity/Q494558
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1095-REC218941,identity_label,"""Biskupská kupa""",http://www.wikidata.org/entity/Q494558
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1095-REC218941,place_identity,"""3079306""",http://www.wikidata.org/entity/Q494558
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1096-REC219151,identity_label,"""Ruine Wielandstein""",http://www.wikidata.org/entity/Q2175490
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1097-REC219361,elevation,659000.0,http://www.wikidata.org/entity/Q61665
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1097-REC219361,identity_label,"""Todtnau""",http://www.wikidata.org/entity/Q61665
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1097-REC219361,place_identity,"""2821975""",http://www.wikidata.org/entity/Q61665
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1102-REC220201,identity_label,"""Schloß Lichtenegg""",http://www.wikidata.org/entity/Q33224396
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1102-REC220201,place_identity,"""2878077""",http://www.wikidata.org/entity/Q33224396
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1135-REC226921,identity_label,"""Kawm Tunaydah""",http://www.wikidata.org/entity/Q23934706
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1135-REC226921,place_identity,"""347204""",http://www.wikidata.org/entity/Q23934706
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1170-REC233851,identity_label,"""Museo Arqueológico de La Gomera""",http://www.wikidata.org/entity/Q63928616
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1179-REC235741,identity_label,"""Lilla Jussarö""",http://www.wikidata.org/entity/Q24324071
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1179-REC235741,place_identity,"""647960""",http://www.wikidata.org/entity/Q24324071
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1188-REC237421,elevation,167000.0,http://www.wikidata.org/entity/Q214135
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1188-REC237421,identity_label,"""Villiers-Saint-Benoît""",http://www.wikidata.org/entity/Q214135
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1188-REC237421,place_identity,"""6446088""",http://www.wikidata.org/entity/Q214135
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1191-REC238051,elevation,117000.0,http://www.wikidata.org/entity/Q192829
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1191-REC238051,identity_label,"""Saint-Vigor-des-Mézerets""",http://www.wikidata.org/entity/Q192829
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1191-REC238051,place_identity,"""6427498""",http://www.wikidata.org/entity/Q192829
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1192-REC238261,elevation,530000.0,http://www.wikidata.org/entity/Q837614
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1192-REC238261,identity_label,"""Saint-Maurice-sur-Moselle""",http://www.wikidata.org/entity/Q837614
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1192-REC238261,place_identity,"""6445731""",http://www.wikidata.org/entity/Q837614
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1194-REC238681,elevation,141000.0,http://www.wikidata.org/entity/Q637612
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1194-REC238681,identity_label,"""Saint-Céré""",http://www.wikidata.org/entity/Q637612
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1194-REC238681,place_identity,"""2981228""",http://www.wikidata.org/entity/Q637612
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1198-REC239521,identity_label,"""Glacier du Montet""",http://www.wikidata.org/entity/Q34835888
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1198-REC239521,place_identity,"""2992644""",http://www.wikidata.org/entity/Q34835888
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1207-REC241201,elevation,37000.0,http://www.wikidata.org/entity/Q874439
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1207-REC241201,identity_label,"""Estrée-Blanche""",http://www.wikidata.org/entity/Q874439
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1207-REC241201,place_identity,"""6439508""",http://www.wikidata.org/entity/Q874439
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1208-REC241411,elevation,240000.0,http://www.wikidata.org/entity/Q452464
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1208-REC241411,identity_label,"""Dietwiller""",http://www.wikidata.org/entity/Q452464
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1208-REC241411,place_identity,"""3021402""",http://www.wikidata.org/entity/Q452464
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1213-REC242461,elevation,560000.0,http://www.wikidata.org/entity/Q840474
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1213-REC242461,identity_label,"""Borce""",http://www.wikidata.org/entity/Q840474
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1213-REC242461,place_identity,"""6440380""",http://www.wikidata.org/entity/Q840474
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1216-REC243091,elevation,230000.0,http://www.wikidata.org/entity/Q859090
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1216-REC243091,identity_label,"""Arros-de-Nay""",http://www.wikidata.org/entity/Q859090
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1216-REC243091,place_identity,"""3036739""",http://www.wikidata.org/entity/Q859090
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1217-REC243301,elevation,249000.0,http://www.wikidata.org/entity/Q958487
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1217-REC243301,identity_label,"""Alvignac""",http://www.wikidata.org/entity/Q958487
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1217-REC243301,place_identity,"""6452338""",http://www.wikidata.org/entity/Q958487
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1223-REC244561,identity_label,"""Musée d'art et d'histoire""",http://www.wikidata.org/entity/Q3145426
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1232-REC246241,elevation,1309000.0,http://www.wikidata.org/entity/Q816560
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1232-REC246241,identity_label,"""Ben Macdui""",http://www.wikidata.org/entity/Q816560
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1232-REC246241,place_identity,"""2643264""",http://www.wikidata.org/entity/Q816560
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1236-REC247081,identity_label,"""Leigh Drummers; The Castle""",http://www.wikidata.org/entity/Q24659214
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1236-REC247081,place_identity,"""6286274""",http://www.wikidata.org/entity/Q24659214
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1238-REC247501,elevation,18700.0,http://www.wikidata.org/entity/Q319745
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1238-REC247501,identity_label,"""Aberystwyth Castle""",http://www.wikidata.org/entity/Q319745
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1238-REC247501,place_identity,"""6286696""",http://www.wikidata.org/entity/Q319745
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1241-REC248131,identity_label,"""Norwich Castle""",http://www.wikidata.org/entity/Q1672292
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1241-REC248131,place_identity,"""6287326""",http://www.wikidata.org/entity/Q1672292
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1246-REC249181,identity_label,"""Withdean Stadium""",http://www.wikidata.org/entity/Q732996
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1246-REC249181,place_identity,"""7645434""",http://www.wikidata.org/entity/Q732996
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1306-REC261151,identity_label,"""Rosses Point""",http://www.wikidata.org/entity/Q2487413
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1306-REC261151,place_identity,"""2961700""",http://www.wikidata.org/entity/Q2487413
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1307-REC261361,elevation,380000.0,http://www.wikidata.org/entity/Q2085856
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1307-REC261361,identity_label,"""Cloughjordan""",http://www.wikidata.org/entity/Q2085856
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1307-REC261361,place_identity,"""2965413""",http://www.wikidata.org/entity/Q2085856
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1314-REC262621,elevation,225000.0,http://www.wikidata.org/entity/Q13585951
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1314-REC262621,identity_label,"""Kafr Sabt""",http://www.wikidata.org/entity/Q13585951
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1314-REC262621,place_identity,"""294602""",http://www.wikidata.org/entity/Q13585951
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1315-REC262831,elevation,74000.0,http://www.wikidata.org/entity/Q2920123
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1315-REC262831,identity_label,"""Ganei Tikva""",http://www.wikidata.org/entity/Q2920123
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1315-REC262831,place_identity,"""295089""",http://www.wikidata.org/entity/Q2920123
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1316-REC263041,elevation,65000.0,http://www.wikidata.org/entity/Q2895304
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1316-REC263041,identity_label,"""Ben Shemen""",http://www.wikidata.org/entity/Q2895304
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1316-REC263041,place_identity,"""295508""",http://www.wikidata.org/entity/Q2895304
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1324-REC264721,elevation,61000.0,http://www.wikidata.org/entity/Q1122593
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1324-REC264721,identity_label,"""Mehnagar""",http://www.wikidata.org/entity/Q1122593
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1324-REC264721,place_identity,"""1263189""",http://www.wikidata.org/entity/Q1122593
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1329-REC265771,identity_label,"""Auroville""",http://www.wikidata.org/entity/Q590361
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1329-REC265771,place_identity,"""6620455""",http://www.wikidata.org/entity/Q590361
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1330-REC265981,elevation,223000.0,http://www.wikidata.org/entity/Q649404
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1330-REC265981,identity_label,"""Meerut Airport""",http://www.wikidata.org/entity/Q649404
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1330-REC265981,place_identity,"""8533128""",http://www.wikidata.org/entity/Q649404
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1351-REC270181,elevation,1260000.0,http://www.wikidata.org/entity/Q26840266
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1351-REC270181,identity_label,"""Jabal Haybat Sulţān""",http://www.wikidata.org/entity/Q26840266
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1351-REC270181,place_identity,"""96353""",http://www.wikidata.org/entity/Q26840266
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1373-REC274591,identity_label,"""Kūh-e Sang Korreh Sī""",http://www.wikidata.org/entity/Q26857315
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1373-REC274591,place_identity,"""3908""",http://www.wikidata.org/entity/Q26857315
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1394-REC278791,identity_label,"""Kūh-e Qal‘eh Chehreh""",http://www.wikidata.org/entity/Q26872953
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1394-REC278791,place_identity,"""27580""",http://www.wikidata.org/entity/Q26872953
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1398-REC279421,identity_label,"""Kūh-e Chūng Chūpān""",http://www.wikidata.org/entity/Q26872507
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1398-REC279421,place_identity,"""30146""",http://www.wikidata.org/entity/Q26872507
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1414-REC282781,identity_label,"""Kūh-e Bārīk""",http://www.wikidata.org/entity/Q26871148
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1414-REC282781,place_identity,"""38603""",http://www.wikidata.org/entity/Q26871148
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1417-REC283201,identity_label,"""Kūh-e Zīrkūh""",http://www.wikidata.org/entity/Q26874791
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1417-REC283201,place_identity,"""66273""",http://www.wikidata.org/entity/Q26874791
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1418-REC283411,identity_label,"""Mūrā Shāhīm""",http://www.wikidata.org/entity/Q26875197
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1418-REC283411,place_identity,"""67372""",http://www.wikidata.org/entity/Q26875197
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1431-REC286141,identity_label,"""Kūh-e Şafeh""",http://www.wikidata.org/entity/Q26879095
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1431-REC286141,place_identity,"""116606""",http://www.wikidata.org/entity/Q26879095
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1466-REC293071,identity_label,"""Gatī""",http://www.wikidata.org/entity/Q35455315
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1466-REC293071,place_identity,"""1158496""",http://www.wikidata.org/entity/Q35455315
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1499-REC299791,identity_label,"""Eskand Kūh""",http://www.wikidata.org/entity/Q26904000
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1499-REC299791,place_identity,"""1159096""",http://www.wikidata.org/entity/Q26904000
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1508-REC301471,identity_label,"""Kūh-e Pīr Morād""",http://www.wikidata.org/entity/Q26948006
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1508-REC301471,place_identity,"""8203082""",http://www.wikidata.org/entity/Q26948006
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1527-REC305251,identity_label,"""Kūh-e Shekasteh-ye Sālekābād""",http://www.wikidata.org/entity/Q26922967
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1527-REC305251,place_identity,"""7069167""",http://www.wikidata.org/entity/Q26922967
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1531-REC306091,identity_label,"""Kūh-e Par Sīāh""",http://www.wikidata.org/entity/Q26990756
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1531-REC306091,place_identity,"""10409088""",http://www.wikidata.org/entity/Q26990756
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1538-REC307561,identity_label,"""Kūh-e Tall-e Ţāq""",http://www.wikidata.org/entity/Q26936549
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1538-REC307561,place_identity,"""7617264""",http://www.wikidata.org/entity/Q26936549
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1541-REC308191,identity_label,"""Kūh-e Salamgūn""",http://www.wikidata.org/entity/Q26939951
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1541-REC308191,place_identity,"""7794130""",http://www.wikidata.org/entity/Q26939951
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1547-REC309241,identity_label,"""Kūh-e Pūdeh Neh Ow""",http://www.wikidata.org/entity/Q26970639
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1547-REC309241,place_identity,"""9111900""",http://www.wikidata.org/entity/Q26970639
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1568-REC313441,identity_label,"""Palazzo Carignano""",http://www.wikidata.org/entity/Q19829
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1568-REC313441,place_identity,"""6697884""",http://www.wikidata.org/entity/Q19829
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1569-REC313651,identity_label,"""Museo Diocesano Tridentino""",http://www.wikidata.org/entity/Q4012187
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1574-REC314701,identity_label,"""Museo delle Tavolette di Biccherna""",http://www.wikidata.org/entity/Q55674399
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1587-REC317221,identity_label,"""Museo di Storia della Fisica""",http://www.wikidata.org/entity/Q28047517
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1614-REC322681,identity_label,"""Sosu""",http://www.wikidata.org/entity/Q11605576
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1618-REC323521,identity_label,"""Hirara""",http://www.wikidata.org/entity/Q714329
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1618-REC323521,place_identity,"""1862505""",http://www.wikidata.org/entity/Q714329
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1636-REC327091,identity_label,"""Lednik Kandzhailau""",http://www.wikidata.org/entity/Q27205314
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1636-REC327091,place_identity,"""1528195""",http://www.wikidata.org/entity/Q27205314
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1675-REC334861,identity_label,"""Kidae-bong""",http://www.wikidata.org/entity/Q27290934
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1675-REC334861,place_identity,"""1894863""",http://www.wikidata.org/entity/Q27290934
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1699-REC339691,identity_label,"""Songnimsa""",http://www.wikidata.org/entity/Q16178204
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1715-REC342841,elevation,-24000.0,http://www.wikidata.org/entity/Q4235803
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1715-REC342841,identity_label,"""Koschagyl""",http://www.wikidata.org/entity/Q4235803
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1753-REC350401,identity_label,"""Mahinda Rajapaksa International Cricket Stadium""",http://www.wikidata.org/entity/Q1684285
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1758-REC351451,elevation,101000.0,http://www.wikidata.org/entity/Q15219057
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1758-REC351451,identity_label,"""Jūdaži""",http://www.wikidata.org/entity/Q15219057
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1768-REC353551,identity_label,"""Khawr al Muraydīmah""",http://www.wikidata.org/entity/Q27494518
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1768-REC353551,place_identity,"""2214625""",http://www.wikidata.org/entity/Q27494518
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1791-REC358171,elevation,124000.0,http://www.wikidata.org/entity/Q2439862
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1791-REC358171,identity_label,"""Bădragii Vechi""",http://www.wikidata.org/entity/Q2439862
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1791-REC358171,place_identity,"""617346""",http://www.wikidata.org/entity/Q2439862
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1799-REC359641,elevation,9000.0,http://www.wikidata.org/entity/Q6467699
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1799-REC359641,identity_label,"""Labutta""",http://www.wikidata.org/entity/Q6467699
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1799-REC359641,place_identity,"""1315244""",http://www.wikidata.org/entity/Q6467699
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1810-REC361951,elevation,57000.0,http://www.wikidata.org/entity/Q211760
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1810-REC361951,identity_label,"""Culiacán""",http://www.wikidata.org/entity/Q211760
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1810-REC361951,place_identity,"""4012176""",http://www.wikidata.org/entity/Q211760
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1812-REC362371,elevation,367000.0,http://www.wikidata.org/entity/Q27800473
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1812-REC362371,identity_label,"""Cañón Santa Anita""",http://www.wikidata.org/entity/Q27800473
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1812-REC362371,place_identity,"""8599068""",http://www.wikidata.org/entity/Q27800473
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1818-REC363421,identity_label,"""Salto los Yaquis""",http://www.wikidata.org/entity/Q35276587
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1818-REC363421,place_identity,"""8757507""",http://www.wikidata.org/entity/Q35276587
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1830-REC365941,elevation,986000.0,http://www.wikidata.org/entity/Q587085
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1830-REC365941,identity_label,"""Ilorin""",http://www.wikidata.org/entity/Q587085
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1830-REC365941,place_identity,"""2337639""",http://www.wikidata.org/entity/Q587085
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1831-REC366151,identity_label,"""Fort Zandberg""",http://www.wikidata.org/entity/Q2481757
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1837-REC367201,identity_label,"""Erasmusbrug""",http://www.wikidata.org/entity/Q1348188
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1837-REC367201,place_identity,"""7911163""",http://www.wikidata.org/entity/Q1348188
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1842-REC368251,elevation,132000.0,http://www.wikidata.org/entity/Q3736226
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1842-REC368251,identity_label,"""Karmøy""",http://www.wikidata.org/entity/Q3736226
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1842-REC368251,place_identity,"""3150424""",http://www.wikidata.org/entity/Q3736226
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1846-REC369091,identity_label,"""Brekke foss""",http://www.wikidata.org/entity/Q34834851
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1846-REC369091,place_identity,"""9059431""",http://www.wikidata.org/entity/Q34834851
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1847-REC369301,identity_label,"""Mangladforsen""",http://www.wikidata.org/entity/Q34843547
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1847-REC369301,place_identity,"""9059642""",http://www.wikidata.org/entity/Q34843547
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1848-REC369511,identity_label,"""Gifstadfossen""",http://www.wikidata.org/entity/Q34837509
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1848-REC369511,place_identity,"""9059853""",http://www.wikidata.org/entity/Q34837509
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1850-REC369931,elevation,168000.0,http://www.wikidata.org/entity/Q34753979
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1850-REC369931,identity_label,"""Kravlefossen""",http://www.wikidata.org/entity/Q34753979
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1850-REC369931,place_identity,"""9060274""",http://www.wikidata.org/entity/Q34753979
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1853-REC370561,elevation,581000.0,http://www.wikidata.org/entity/Q34760805
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1853-REC370561,identity_label,"""Tjønnstøylfossen""",http://www.wikidata.org/entity/Q34760805
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1853-REC370561,place_identity,"""9060907""",http://www.wikidata.org/entity/Q34760805
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1854-REC370771,identity_label,"""Skutvikfossen""",http://www.wikidata.org/entity/Q34679800
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1854-REC370771,place_identity,"""9061117""",http://www.wikidata.org/entity/Q34679800
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1858-REC371401,identity_label,"""Laksjordforsen""",http://www.wikidata.org/entity/Q34755086
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1858-REC371401,place_identity,"""9061747""",http://www.wikidata.org/entity/Q34755086
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1859-REC371611,identity_label,"""Luovsvargårŋi""",http://www.wikidata.org/entity/Q34843186
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1859-REC371611,place_identity,"""9061968""",http://www.wikidata.org/entity/Q34843186
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1866-REC373081,identity_label,"""Cleve Garth Falls""",http://www.wikidata.org/entity/Q32161669
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1866-REC373081,place_identity,"""6202294""",http://www.wikidata.org/entity/Q32161669
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1868-REC373501,identity_label,"""Gold Smith Rapids""",http://www.wikidata.org/entity/Q32209218
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1868-REC373501,place_identity,"""6216831""",http://www.wikidata.org/entity/Q32209218
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1879-REC375601,elevation,2286000.0,http://www.wikidata.org/entity/Q1910848
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1879-REC375601,identity_label,"""Mount Matutum""",http://www.wikidata.org/entity/Q1910848
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1879-REC375601,place_identity,"""1700193""",http://www.wikidata.org/entity/Q1910848
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1892-REC378331,elevation,450000.0,http://www.wikidata.org/entity/Q1642884
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1892-REC378331,identity_label,"""Muszyna""",http://www.wikidata.org/entity/Q1642884
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1892-REC378331,place_identity,"""764241""",http://www.wikidata.org/entity/Q1642884
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1922-REC384211,identity_label,"""Cândrelu""",http://www.wikidata.org/entity/Q34867405
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1922-REC384211,place_identity,"""681802""",http://www.wikidata.org/entity/Q34867405
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1926-REC385051,elevation,235000.0,http://www.wikidata.org/entity/Q943271
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1926-REC385051,identity_label,"""Gornji Račnik""",http://www.wikidata.org/entity/Q943271
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1926-REC385051,place_identity,"""790360""",http://www.wikidata.org/entity/Q943271
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1927-REC385261,elevation,396000.0,http://www.wikidata.org/entity/Q2722890
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1927-REC385261,identity_label,"""Sejace""",http://www.wikidata.org/entity/Q2722890
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1927-REC385261,place_identity,"""859172""",http://www.wikidata.org/entity/Q2722890
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1947-REC389251,identity_label,"""Lyutayevo""",http://www.wikidata.org/entity/Q16016980
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1949-REC389671,identity_label,"""Yengorga""",http://www.wikidata.org/entity/Q20243844
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1951-REC390091,identity_label,"""Lednik Gastello""",http://www.wikidata.org/entity/Q34839545
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1951-REC390091,place_identity,"""2024148""",http://www.wikidata.org/entity/Q34839545
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1957-REC391351,elevation,28000.0,http://www.wikidata.org/entity/Q2071461
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1957-REC391351,identity_label,"""Komsomolsk-on-Amur Airport""",http://www.wikidata.org/entity/Q2071461
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1957-REC391351,place_identity,"""7668504""",http://www.wikidata.org/entity/Q2071461
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1959-REC391771,identity_label,"""Ust-Nera Airport""",http://www.wikidata.org/entity/Q16897534
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1959-REC391771,place_identity,"""8593886""",http://www.wikidata.org/entity/Q16897534
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1964-REC392611,identity_label,"""Jadam""",http://www.wikidata.org/entity/Q134554596
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1964-REC392611,place_identity,"""2300263""",http://www.wikidata.org/entity/Q134554596
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1971-REC394081,identity_label,"""Gutavallen""",http://www.wikidata.org/entity/Q10511214
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1973-REC394501,elevation,416800.0,http://www.wikidata.org/entity/Q556661
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1973-REC394501,identity_label,"""Poljane pri Podgradu""",http://www.wikidata.org/entity/Q556661
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1973-REC394501,place_identity,"""3192816""",http://www.wikidata.org/entity/Q556661
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1976-REC395131,elevation,416000.0,http://www.wikidata.org/entity/Q28086691
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1976-REC395131,identity_label,"""Langjøkulen""",http://www.wikidata.org/entity/Q28086691
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1976-REC395131,place_identity,"""826939""",http://www.wikidata.org/entity/Q28086691
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1985-REC396811,elevation,4000.0,http://www.wikidata.org/entity/Q31934764
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1985-REC396811,identity_label,"""Estero del Mapachín""",http://www.wikidata.org/entity/Q31934764
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP1985-REC396811,place_identity,"""3584435""",http://www.wikidata.org/entity/Q31934764
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP801-REC160141,elevation,4391000.0,http://www.wikidata.org/entity/Q21746890
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP801-REC160141,identity_label,"""Kōh-e Shamīānah""",http://www.wikidata.org/entity/Q21746890
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP801-REC160141,place_identity,"""1125617""",http://www.wikidata.org/entity/Q21746890
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP817-REC163291,elevation,2795000.0,http://www.wikidata.org/entity/Q21750704
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP817-REC163291,identity_label,"""Nasar-e Takhtōrmah""",http://www.wikidata.org/entity/Q21750704
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP817-REC163291,place_identity,"""1132266""",http://www.wikidata.org/entity/Q21750704
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP824-REC164761,elevation,3238000.0,http://www.wikidata.org/entity/Q21751704
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP824-REC164761,identity_label,"""Khōsh Qōl""",http://www.wikidata.org/entity/Q21751704
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP824-REC164761,place_identity,"""1135939""",http://www.wikidata.org/entity/Q21751704
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP831-REC166021,elevation,941000.0,http://www.wikidata.org/entity/Q21750711
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP831-REC166021,identity_label,"""Jōy-e Now""",http://www.wikidata.org/entity/Q21750711
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP831-REC166021,place_identity,"""1132211""",http://www.wikidata.org/entity/Q21750711
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP852-REC170221,elevation,1420000.0,http://www.wikidata.org/entity/Q21766706
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP852-REC170221,identity_label,"""Kōh-e ‘Alī Chak""",http://www.wikidata.org/entity/Q21766706
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP852-REC170221,place_identity,"""1148969""",http://www.wikidata.org/entity/Q21766706
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP853-REC170431,elevation,3578000.0,http://www.wikidata.org/entity/Q21766556
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP853-REC170431,identity_label,"""Kōh-e Āwqōl""",http://www.wikidata.org/entity/Q21766556
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP853-REC170431,place_identity,"""1149479""",http://www.wikidata.org/entity/Q21766556
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP857-REC171271,elevation,2653000.0,http://www.wikidata.org/entity/Q21769530
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP857-REC171271,identity_label,"""Paitha Zom""",http://www.wikidata.org/entity/Q21769530
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP857-REC171271,place_identity,"""1417264""",http://www.wikidata.org/entity/Q21769530
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP858-REC171481,elevation,3574000.0,http://www.wikidata.org/entity/Q21770833
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP858-REC171481,identity_label,"""Kōh-e Kudahzār""",http://www.wikidata.org/entity/Q21770833
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP858-REC171481,place_identity,"""1422991""",http://www.wikidata.org/entity/Q21770833
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP866-REC173161,elevation,3851000.0,http://www.wikidata.org/entity/Q21777143
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP866-REC173161,identity_label,"""Tangiskil""",http://www.wikidata.org/entity/Q21777143
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP866-REC173161,place_identity,"""1429540""",http://www.wikidata.org/entity/Q21777143
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP872-REC174211,elevation,1301000.0,http://www.wikidata.org/entity/Q21779680
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP872-REC174211,identity_label,"""Tsakiyān""",http://www.wikidata.org/entity/Q21779680
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP872-REC174211,place_identity,"""1437042""",http://www.wikidata.org/entity/Q21779680
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP880-REC175891,identity_label,"""Kōh-e Tāgh Jī""",http://www.wikidata.org/entity/Q21789228
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP880-REC175891,place_identity,"""1448354""",http://www.wikidata.org/entity/Q21789228
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP885-REC176941,identity_label,"""Dê Tsatsaṟē Tangāṟay""",http://www.wikidata.org/entity/Q21797407
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP885-REC176941,place_identity,"""1453159""",http://www.wikidata.org/entity/Q21797407
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP896-REC179041,identity_label,"""Ghow Gardān""",http://www.wikidata.org/entity/Q21807899
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP896-REC179041,place_identity,"""1458774""",http://www.wikidata.org/entity/Q21807899
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP899-REC179671,identity_label,"""Kōh-e Nēlū""",http://www.wikidata.org/entity/Q21811278
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP899-REC179671,place_identity,"""1460361""",http://www.wikidata.org/entity/Q21811278
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP901-REC180091,identity_label,"""Kōh-e Iskowchah""",http://www.wikidata.org/entity/Q21811614
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP901-REC180091,place_identity,"""1461496""",http://www.wikidata.org/entity/Q21811614
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP914-REC182611,identity_label,"""Kōh-e Bandarak""",http://www.wikidata.org/entity/Q21816399
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP914-REC182611,place_identity,"""1471008""",http://www.wikidata.org/entity/Q21816399
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP916-REC183031,identity_label,"""Kōh-e Mayū""",http://www.wikidata.org/entity/Q21818362
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP916-REC183031,place_identity,"""1472360""",http://www.wikidata.org/entity/Q21818362
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP920-REC183871,identity_label,"""Mār Khūlah""",http://www.wikidata.org/entity/Q21819182
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP920-REC183871,place_identity,"""1474659""",http://www.wikidata.org/entity/Q21819182
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP924-REC184711,identity_label,"""Īrgī Ghunḏêy""",http://www.wikidata.org/entity/Q21821824
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP924-REC184711,place_identity,"""1481367""",http://www.wikidata.org/entity/Q21821824
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP925-REC184921,identity_label,"""Wutsilī Ghar""",http://www.wikidata.org/entity/Q21823940
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP925-REC184921,place_identity,"""7528246""",http://www.wikidata.org/entity/Q21823940
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP928-REC185551,identity_label,"""Gështenjë""",http://www.wikidata.org/entity/Q54987012
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP929-REC185761,identity_label,"""Trush""",http://www.wikidata.org/entity/Q7848059
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP945-REC188911,identity_label,"""Satani""",http://www.wikidata.org/entity/Q18355405
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP945-REC188911,place_identity,"""2295525""",http://www.wikidata.org/entity/Q18355405
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP956-REC191011,identity_label,"""Topside Glacier""",http://www.wikidata.org/entity/Q7825159
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP956-REC191011,place_identity,"""6626853""",http://www.wikidata.org/entity/Q7825159
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP957-REC191221,identity_label,"""Ice Gate Glacier""",http://www.wikidata.org/entity/Q5985275
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP957-REC191221,place_identity,"""6628990""",http://www.wikidata.org/entity/Q5985275
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP959-REC191641,identity_label,"""Fitch Glacier""",http://www.wikidata.org/entity/Q5455417
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP959-REC191641,place_identity,"""6633143""",http://www.wikidata.org/entity/Q5455417
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP965-REC192901,identity_label,"""Kleineiserkees""",http://www.wikidata.org/entity/Q21859182
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP965-REC192901,place_identity,"""2603601""",http://www.wikidata.org/entity/Q21859182
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP967-REC193321,elevation,447000.0,http://www.wikidata.org/entity/Q2242130
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP967-REC193321,identity_label,"""Schloss Eberwein""",http://www.wikidata.org/entity/Q2242130
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP967-REC193321,place_identity,"""2780510""",http://www.wikidata.org/entity/Q2242130
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP982-REC196261,elevation,117000.0,http://www.wikidata.org/entity/Q4908097
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP982-REC196261,identity_label,"""Qaratoba""",http://www.wikidata.org/entity/Q4908097
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP982-REC196261,place_identity,"""586144""",http://www.wikidata.org/entity/Q4908097
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP993-REC198571,elevation,708000.0,http://www.wikidata.org/entity/Q2654801
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP993-REC198571,identity_label,"""Povalirazh""",http://www.wikidata.org/entity/Q2654801
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP994-REC198781,elevation,113000.0,http://www.wikidata.org/entity/Q2990016
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP994-REC198781,identity_label,"""Karnalovo""",http://www.wikidata.org/entity/Q2990016
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP994-REC198781,place_identity,"""6459611""",http://www.wikidata.org/entity/Q2990016
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP997-REC199201,elevation,247000.0,http://www.wikidata.org/entity/Q1082279
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP997-REC199201,identity_label,"""Branishte""",http://www.wikidata.org/entity/Q1082279
+IDB-REG_01-CAT_15-ERA_02-1650-ACC05-HOP997-REC199201,place_identity,"""732936""",http://www.wikidata.org/entity/Q1082279
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1006-REC201161,elevation,146000.0,http://www.wikidata.org/entity/Q22018304
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1006-REC201161,identity_label,"""Cachoeira Montanha""",http://www.wikidata.org/entity/Q22018304
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1006-REC201161,place_identity,"""3394615""",http://www.wikidata.org/entity/Q22018304
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1026-REC205151,identity_label,"""Choquette Glacier""",http://www.wikidata.org/entity/Q22496990
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1026-REC205151,place_identity,"""5921736""",http://www.wikidata.org/entity/Q22496990
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1030-REC205991,identity_label,"""Prince Charles Island""",http://www.wikidata.org/entity/Q837267
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1030-REC205991,place_identity,"""6113351""",http://www.wikidata.org/entity/Q837267
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1032-REC206201,identity_label,"""Southwest Lyell Glaciers""",http://www.wikidata.org/entity/Q22588931
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1032-REC206201,place_identity,"""6152919""",http://www.wikidata.org/entity/Q22588931
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1035-REC206831,elevation,16000.0,http://www.wikidata.org/entity/Q598617
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1035-REC206831,identity_label,"""Black Tickle Airport""",http://www.wikidata.org/entity/Q598617
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1035-REC206831,place_identity,"""7910284""",http://www.wikidata.org/entity/Q598617
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1036-REC207041,identity_label,"""Numa Falls""",http://www.wikidata.org/entity/Q7069027
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1039-REC207671,elevation,292000.0,http://www.wikidata.org/entity/Q64679
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1039-REC207671,identity_label,"""Pratteln""",http://www.wikidata.org/entity/Q64679
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1039-REC207671,place_identity,"""7286828""",http://www.wikidata.org/entity/Q64679
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1040-REC207881,elevation,947000.0,http://www.wikidata.org/entity/Q806976
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1040-REC207881,identity_label,"""Bantiger""",http://www.wikidata.org/entity/Q806976
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1040-REC207881,place_identity,"""2661619""",http://www.wikidata.org/entity/Q806976
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1042-REC208301,identity_label,"""Wallenburfirn""",http://www.wikidata.org/entity/Q108089180
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1051-REC210191,identity_label,"""Yengisar""",http://www.wikidata.org/entity/Q14103265
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1071-REC214181,elevation,19000.0,http://www.wikidata.org/entity/Q1362450
+IDB-REG_01-CAT_16-ERA_02-1650-ACC05-HOP1071-REC214181,identity_label,"""Linghai""",http://www.wikidata.org/entity/Q1362450
