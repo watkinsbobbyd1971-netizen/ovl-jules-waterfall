@@ -1,0 +1,1385 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-0919544,scientific_identity,Thiomonas islandica,https://api.gbif.org/v1/species/7780779
+LIBSRC-LIB50-ENT-BIO-0919544,taxon_authority,"Vésteinsdóttir et al., 2011",https://api.gbif.org/v1/species/7780779
+LIBSRC-LIB50-ENT-BIO-0917254,scientific_identity,Cupriavidus malaysiensis,https://api.gbif.org/v1/species/11185336
+LIBSRC-LIB50-ENT-BIO-0912864,scientific_identity,Massilia alkalitolerans,https://api.gbif.org/v1/species/8364075
+LIBSRC-LIB50-ENT-BIO-0912864,taxon_authority,"(Xu et al., 2005) Kämpfer et al., 2011",https://api.gbif.org/v1/species/8364075
+LIBSRC-LIB50-ENT-BIO-0939514,scientific_identity,Tremella rubromaculata,https://api.gbif.org/v1/species/5468142
+LIBSRC-LIB50-ENT-BIO-0939514,taxon_authority,Lowy,https://api.gbif.org/v1/species/5468142
+LIBSRC-LIB50-ENT-BIO-0939554,scientific_identity,Tremella cerebrina,https://api.gbif.org/v1/species/7239035
+LIBSRC-LIB50-ENT-BIO-0939554,taxon_authority,Bull.,https://api.gbif.org/v1/species/7239035
+LIBSRC-LIB50-ENT-BIO-0939594,scientific_identity,Tremella aptrootii,https://api.gbif.org/v1/species/12235207
+LIBSRC-LIB50-ENT-BIO-0939594,taxon_authority,Diederich & Common,https://api.gbif.org/v1/species/12235207
+LIBSRC-LIB50-ENT-BIO-0939814,scientific_identity,Ophiocordyceps hydrangea,https://api.gbif.org/v1/species/11796926
+LIBSRC-LIB50-ENT-BIO-0939814,taxon_authority,"H.Yu, W.Q.Zou & D.X.Tang",https://api.gbif.org/v1/species/11796926
+LIBSRC-LIB50-ENT-BIO-0945044,scientific_identity,Hymenostilbe aurantiaca,https://api.gbif.org/v1/species/3450823
+LIBSRC-LIB50-ENT-BIO-0945044,taxon_authority,Hywel-Jones,https://api.gbif.org/v1/species/3450823
+LIBSRC-LIB50-ENT-BIO-0939984,scientific_identity,Ophiocordyceps aurantia,https://api.gbif.org/v1/species/3450979
+LIBSRC-LIB50-ENT-BIO-0939984,taxon_authority,"(Kobayasi & Shimizu) G.H.Sung, J.M.Sung, Hywel-Jones & Spatafora",https://api.gbif.org/v1/species/3450979
+LIBSRC-LIB50-ENT-BIO-0935854,scientific_identity,Hirsutella changbeisanensis,https://api.gbif.org/v1/species/7876141
+LIBSRC-LIB50-ENT-BIO-0935854,taxon_authority,Z.Q.Liang,https://api.gbif.org/v1/species/7876141
+LIBSRC-LIB50-ENT-BIO-0939834,scientific_identity,Ophiocordyceps volkiana,https://api.gbif.org/v1/species/3450934
+LIBSRC-LIB50-ENT-BIO-0939834,taxon_authority,"(Möller) G.H.Sung, J.M.Sung, Hywel-Jones & Spatafora",https://api.gbif.org/v1/species/3450934
+LIBSRC-LIB50-ENT-BIO-0940044,scientific_identity,Ophiocordyceps dayiensis,https://api.gbif.org/v1/species/3450926
+LIBSRC-LIB50-ENT-BIO-0940044,taxon_authority,"(Z.Q.Liang) G.H.Sung, J.M.Sung, Hywel-Jones & Spatafora",https://api.gbif.org/v1/species/3450926
+LIBSRC-LIB50-ENT-BIO-0935874,scientific_identity,Hirsutella minnesotensis,https://api.gbif.org/v1/species/5483655
+LIBSRC-LIB50-ENT-BIO-0935874,taxon_authority,"Sen Y.Chen, Xing Z.Liu & F.J.Chen",https://api.gbif.org/v1/species/5483655
+LIBSRC-LIB50-ENT-BIO-0952694,scientific_identity,Thalassiosira coronata,https://api.gbif.org/v1/species/3193568
+LIBSRC-LIB50-ENT-BIO-0952694,taxon_authority,"Gaarder, 1951",https://api.gbif.org/v1/species/3193568
+LIBSRC-LIB50-ENT-BIO-0952714,scientific_identity,Thalassiosira saturni,https://api.gbif.org/v1/species/9631932
+LIBSRC-LIB50-ENT-BIO-0952714,taxon_authority,"Lohmann, 1908",https://api.gbif.org/v1/species/9631932
+LIBSRC-LIB50-ENT-BIO-0952584,scientific_identity,Thalassiosira solitaria,https://api.gbif.org/v1/species/3193407
+LIBSRC-LIB50-ENT-BIO-0952584,taxon_authority,"Gayoso, 1985",https://api.gbif.org/v1/species/3193407
+LIBSRC-LIB50-ENT-BIO-0952684,scientific_identity,Thalassiosira cryophila,https://api.gbif.org/v1/species/9284925
+LIBSRC-LIB50-ENT-BIO-0952684,taxon_authority,"Kisselev, 1931",https://api.gbif.org/v1/species/9284925
+LIBSRC-LIB50-ENT-BIO-0948034,scientific_identity,Spicaticribra rudis,https://api.gbif.org/v1/species/8401870
+LIBSRC-LIB50-ENT-BIO-0948034,taxon_authority,"(P.Tremarin, T.Ludwig, V.Becker & L.Torgan) A.Tuji, P.Leelahakriengkrai & Y.Peerapornpisal, 2012",https://api.gbif.org/v1/species/8401870
+LIBSRC-LIB50-ENT-BIO-0952654,scientific_identity,Thalassiosira aurivillii,https://api.gbif.org/v1/species/9453617
+LIBSRC-LIB50-ENT-BIO-0952654,taxon_authority,"Cleve, 1901",https://api.gbif.org/v1/species/9453617
+LIBSRC-LIB50-ENT-BIO-0952564,scientific_identity,Thalassiosira multipora,https://api.gbif.org/v1/species/3193398
+LIBSRC-LIB50-ENT-BIO-0952564,taxon_authority,"Whiting & Schrader, 1985",https://api.gbif.org/v1/species/3193398
+LIBSRC-LIB50-ENT-BIO-0952784,scientific_identity,Thalassiosira binata,https://api.gbif.org/v1/species/4275325
+LIBSRC-LIB50-ENT-BIO-0952784,taxon_authority,"Fryxell, 1977",https://api.gbif.org/v1/species/4275325
+LIBSRC-LIB50-ENT-BIO-0952644,scientific_identity,Thalassiosira umaoiensis,https://api.gbif.org/v1/species/3193571
+LIBSRC-LIB50-ENT-BIO-0952644,taxon_authority,"Akiba, 1985",https://api.gbif.org/v1/species/3193571
+LIBSRC-LIB50-ENT-BIO-0952574,scientific_identity,Thalassiosira inura,https://api.gbif.org/v1/species/3193577
+LIBSRC-LIB50-ENT-BIO-0952574,taxon_authority,"Gersonde, 1991",https://api.gbif.org/v1/species/3193577
+LIBSRC-LIB50-ENT-BIO-0952704,scientific_identity,Thalassiosira tetraoestrupii,https://api.gbif.org/v1/species/3193489
+LIBSRC-LIB50-ENT-BIO-0952704,taxon_authority,"Bodén, 1993",https://api.gbif.org/v1/species/3193489
+LIBSRC-LIB50-ENT-BIO-0952674,scientific_identity,Thalassiosira subtilis,https://api.gbif.org/v1/species/3193557
+LIBSRC-LIB50-ENT-BIO-0952674,taxon_authority,"(Ostenfeld) Gran, 1900",https://api.gbif.org/v1/species/3193557
+LIBSRC-LIB50-ENT-BIO-0952614,scientific_identity,Thalassiosira adamsi,https://api.gbif.org/v1/species/9373317
+LIBSRC-LIB50-ENT-BIO-0952614,taxon_authority,"Mertz, 1966",https://api.gbif.org/v1/species/9373317
+LIBSRC-LIB50-ENT-BIO-0946254,scientific_identity,Coscinosira floridana,https://api.gbif.org/v1/species/3193509
+LIBSRC-LIB50-ENT-BIO-0946254,taxon_authority,"I.C.G.Cooper, 1958",https://api.gbif.org/v1/species/3193509
+LIBSRC-LIB50-ENT-BIO-0933484,scientific_identity,Farysia magdalenana,https://api.gbif.org/v1/species/11509500
+LIBSRC-LIB50-ENT-BIO-0933484,taxon_authority,"Albu, Rush, Kijporn. & Aime",https://api.gbif.org/v1/species/11509500
+LIBSRC-LIB50-ENT-BIO-0933644,scientific_identity,Farysia taiwaniana,https://api.gbif.org/v1/species/11746443
+LIBSRC-LIB50-ENT-BIO-0933644,taxon_authority,"P.H.Wang, Yen T.Wang & S.H.Yang ex Denchev & T.Denchev",https://api.gbif.org/v1/species/11746443
+LIBSRC-LIB50-ENT-BIO-0933654,scientific_identity,Farysia acheniorum,https://api.gbif.org/v1/species/9711247
+LIBSRC-LIB50-ENT-BIO-0933654,taxon_authority,"(Buhagiar & J.A.Barnett) Begerow, Q.M.Wang, F.Y.Bai & Boekhout",https://api.gbif.org/v1/species/9711247
+LIBSRC-LIB50-ENT-BIO-0935634,scientific_identity,Purpureocillium sodanum,https://api.gbif.org/v1/species/9686108
+LIBSRC-LIB50-ENT-BIO-0935634,taxon_authority,"Papizadeh, Soudi, Wijayaw., Shahz.Faz. & K.D.Hyde",https://api.gbif.org/v1/species/9686108
+LIBSRC-LIB50-ENT-BIO-0935414,scientific_identity,Camarosporium incrustans,https://api.gbif.org/v1/species/3513787
+LIBSRC-LIB50-ENT-BIO-0935414,taxon_authority,Sacc.,https://api.gbif.org/v1/species/3513787
+LIBSRC-LIB50-ENT-BIO-0928304,scientific_identity,Apiospora qinlingensis,https://api.gbif.org/v1/species/11627649
+LIBSRC-LIB50-ENT-BIO-0928304,taxon_authority,(C.M.Tian & N.Jiang) Pintos & P.Alvarado,https://api.gbif.org/v1/species/11627649
+LIBSRC-LIB50-ENT-BIO-0952664,scientific_identity,Thalassiosira aculeata,https://api.gbif.org/v1/species/8681552
+LIBSRC-LIB50-ENT-BIO-0952664,taxon_authority,"Proshkina-Lavrenko, 1956",https://api.gbif.org/v1/species/8681552
+LIBSRC-LIB50-ENT-BIO-0925314,scientific_identity,Absconditella delutula,https://api.gbif.org/v1/species/2603180
+LIBSRC-LIB50-ENT-BIO-0925314,taxon_authority,(Nyl.) Coppins & H.Kilias,https://api.gbif.org/v1/species/2603180
+LIBSRC-LIB50-ENT-BIO-0953104,scientific_identity,Peyritschiella geminata,https://api.gbif.org/v1/species/3441645
+LIBSRC-LIB50-ENT-BIO-0953104,taxon_authority,Thaxt.,https://api.gbif.org/v1/species/3441645
+LIBSRC-LIB50-ENT-BIO-0948184,scientific_identity,Rickia euzerconalis,https://api.gbif.org/v1/species/3440938
+LIBSRC-LIB50-ENT-BIO-0948184,taxon_authority,Thaxt.,https://api.gbif.org/v1/species/3440938
+LIBSRC-LIB50-ENT-BIO-0939924,scientific_identity,Ophiocordyceps formosana,https://api.gbif.org/v1/species/11207621
+LIBSRC-LIB50-ENT-BIO-0939774,scientific_identity,Tremella parmogardneri,https://api.gbif.org/v1/species/12254968
+LIBSRC-LIB50-ENT-BIO-0939774,taxon_authority,"Diederich, Etayo & Millanes",https://api.gbif.org/v1/species/12254968
+LIBSRC-LIB50-ENT-BIO-0937114,scientific_identity,Williamsonia sahnii,https://api.gbif.org/v1/species/11457984
+LIBSRC-LIB50-ENT-BIO-0937114,taxon_authority,"Gupta, 1943",https://api.gbif.org/v1/species/11457984
+LIBSRC-LIB50-ENT-BIO-0948104,scientific_identity,Rickia uropodae,https://api.gbif.org/v1/species/3440875
+LIBSRC-LIB50-ENT-BIO-0948104,taxon_authority,Thaxt.,https://api.gbif.org/v1/species/3440875
+LIBSRC-LIB50-ENT-BIO-0939714,scientific_identity,Tremella laciniata,https://api.gbif.org/v1/species/11180056
+LIBSRC-LIB50-ENT-BIO-0939714,taxon_authority,With.,https://api.gbif.org/v1/species/11180056
+LIBSRC-LIB50-ENT-BIO-0950484,scientific_identity,Laboulbenia pachydermica,https://api.gbif.org/v1/species/5480137
+LIBSRC-LIB50-ENT-BIO-0950484,taxon_authority,Speg.,https://api.gbif.org/v1/species/5480137
+LIBSRC-LIB50-ENT-BIO-0940064,scientific_identity,Ophiocordyceps minutissima,https://api.gbif.org/v1/species/3450848
+LIBSRC-LIB50-ENT-BIO-0940064,taxon_authority,"(Kobayasi & Shimizu) G.H.Sung, J.M.Sung, Hywel-Jones & Spatafora",https://api.gbif.org/v1/species/3450848
+LIBSRC-LIB50-ENT-BIO-0949244,scientific_identity,Sphaleromyces obtusus,https://api.gbif.org/v1/species/3441376
+LIBSRC-LIB50-ENT-BIO-0949244,taxon_authority,Thaxt.,https://api.gbif.org/v1/species/3441376
+LIBSRC-LIB50-ENT-BIO-0950164,scientific_identity,Laboulbenia microsoma,https://api.gbif.org/v1/species/5479965
+LIBSRC-LIB50-ENT-BIO-0950164,taxon_authority,Thaxt.,https://api.gbif.org/v1/species/5479965
+LIBSRC-LIB50-ENT-BIO-0939654,scientific_identity,Tremella leprariae,https://api.gbif.org/v1/species/12232820
+LIBSRC-LIB50-ENT-BIO-0939654,taxon_authority,Diederich,https://api.gbif.org/v1/species/12232820
+LIBSRC-LIB50-ENT-BIO-0952594,scientific_identity,Thalassiosira castanea,https://api.gbif.org/v1/species/9331244
+LIBSRC-LIB50-ENT-BIO-0952594,taxon_authority,"Akiba & Yanagisawa, 1998",https://api.gbif.org/v1/species/9331244
+LIBSRC-LIB50-ENT-BIO-0950504,scientific_identity,Laboulbenia brachymetrae,https://api.gbif.org/v1/species/12241998
+LIBSRC-LIB50-ENT-BIO-0950504,taxon_authority,"A.Weir, W.Rossi & Kaishian",https://api.gbif.org/v1/species/12241998
+LIBSRC-LIB50-ENT-BIO-0939624,scientific_identity,Pterophyllum exhibens,https://api.gbif.org/v1/species/11216590
+LIBSRC-LIB50-ENT-BIO-0939624,taxon_authority,"Lee, 1964",https://api.gbif.org/v1/species/11216590
+LIBSRC-LIB50-ENT-BIO-0940034,scientific_identity,Ophiocordyceps elateridicola,https://api.gbif.org/v1/species/3450855
+LIBSRC-LIB50-ENT-BIO-0940034,taxon_authority,"(Kobayasi & Shimizu) G.H.Sung, J.M.Sung, Hywel-Jones & Spatafora",https://api.gbif.org/v1/species/3450855
+LIBSRC-LIB50-ENT-BIO-0940434,scientific_identity,Otozamites parallelus,https://api.gbif.org/v1/species/11895202
+LIBSRC-LIB50-ENT-BIO-0940434,taxon_authority,"Feistmantel, 1879",https://api.gbif.org/v1/species/11895202
+LIBSRC-LIB50-ENT-BIO-0943334,scientific_identity,Zamites corderi,https://api.gbif.org/v1/species/4940721
+LIBSRC-LIB50-ENT-BIO-0943334,taxon_authority,"Watson & Sincock, 1992",https://api.gbif.org/v1/species/4940721
+LIBSRC-LIB50-ENT-BIO-0924324,scientific_identity,Nanostictis nephromatis,https://api.gbif.org/v1/species/10697240
+LIBSRC-LIB50-ENT-BIO-0924324,taxon_authority,Etayo,https://api.gbif.org/v1/species/10697240
+LIBSRC-LIB50-ENT-BIO-0932174,scientific_identity,Moreaua scirpi,https://api.gbif.org/v1/species/7364966
+LIBSRC-LIB50-ENT-BIO-0932174,taxon_authority,"Vánky, C.Vánky, R.G.Shivas & McTaggart",https://api.gbif.org/v1/species/7364966
+LIBSRC-LIB50-ENT-BIO-0951194,scientific_identity,Stigmatomyces brevicollis,https://api.gbif.org/v1/species/3440669
+LIBSRC-LIB50-ENT-BIO-0951194,taxon_authority,Thaxt.,https://api.gbif.org/v1/species/3440669
+LIBSRC-LIB50-ENT-BIO-0950384,scientific_identity,Laboulbenia colpodis,https://api.gbif.org/v1/species/5480031
+LIBSRC-LIB50-ENT-BIO-0950384,taxon_authority,Thaxt.,https://api.gbif.org/v1/species/5480031
+LIBSRC-LIB50-ENT-BIO-0950914,scientific_identity,Laboulbenia coiffaitii,https://api.gbif.org/v1/species/5479842
+LIBSRC-LIB50-ENT-BIO-0950914,taxon_authority,Balazuc,https://api.gbif.org/v1/species/5479842
+LIBSRC-LIB50-ENT-BIO-0950644,scientific_identity,Laboulbenia inflexa,https://api.gbif.org/v1/species/5479788
+LIBSRC-LIB50-ENT-BIO-0950644,taxon_authority,Thaxt.,https://api.gbif.org/v1/species/5479788
+LIBSRC-LIB50-ENT-BIO-0953144,scientific_identity,Mimeomyces macropus,https://api.gbif.org/v1/species/3441222
+LIBSRC-LIB50-ENT-BIO-0953144,taxon_authority,(Thaxt.) I.I.Tav.,https://api.gbif.org/v1/species/3441222
+LIBSRC-LIB50-ENT-BIO-0940024,scientific_identity,Ophiocordyceps hirsutellae,https://api.gbif.org/v1/species/3450858
+LIBSRC-LIB50-ENT-BIO-0940024,taxon_authority,"(Petch) D.Johnson, G.H.Sung, Hywel-Jones & Spatafora",https://api.gbif.org/v1/species/3450858
+LIBSRC-LIB50-ENT-BIO-0953124,scientific_identity,Mimeomyces rostratus,https://api.gbif.org/v1/species/3441231
+LIBSRC-LIB50-ENT-BIO-0953124,taxon_authority,(Thaxt.) I.I.Tav.,https://api.gbif.org/v1/species/3441231
+LIBSRC-LIB50-ENT-BIO-0928914,scientific_identity,Biostictis puertoricensis,https://api.gbif.org/v1/species/3420719
+LIBSRC-LIB50-ENT-BIO-0928914,taxon_authority,Sherwood,https://api.gbif.org/v1/species/3420719
+LIBSRC-LIB50-ENT-BIO-0939724,scientific_identity,Tremella fuscosuccinea,https://api.gbif.org/v1/species/5468214
+LIBSRC-LIB50-ENT-BIO-0939724,taxon_authority,Chee J.Chen,https://api.gbif.org/v1/species/5468214
+LIBSRC-LIB50-ENT-BIO-0939614,scientific_identity,Tremella puncteliotegens,https://api.gbif.org/v1/species/12233825
+LIBSRC-LIB50-ENT-BIO-0939614,taxon_authority,"Diederich, Etayo & Millanes",https://api.gbif.org/v1/species/12233825
+LIBSRC-LIB50-ENT-BIO-0950834,scientific_identity,Laboulbenia sphiracephalae,https://api.gbif.org/v1/species/5479872
+LIBSRC-LIB50-ENT-BIO-0950834,taxon_authority,W.Rossi,https://api.gbif.org/v1/species/5479872
+LIBSRC-LIB50-ENT-BIO-0939784,scientific_identity,Tremella caloplacae,https://api.gbif.org/v1/species/5237389
+LIBSRC-LIB50-ENT-BIO-0939784,taxon_authority,(Zahlbr.) Diederich,https://api.gbif.org/v1/species/5237389
+LIBSRC-LIB50-ENT-BIO-0952544,scientific_identity,Thalassiosira decorata,https://api.gbif.org/v1/species/9474258
+LIBSRC-LIB50-ENT-BIO-0952544,taxon_authority,"Cleve-Euler, 1941",https://api.gbif.org/v1/species/9474258
+LIBSRC-LIB50-ENT-BIO-0946834,scientific_identity,Bordea thaxteri,https://api.gbif.org/v1/species/6346243
+LIBSRC-LIB50-ENT-BIO-0946834,taxon_authority,R.K.Benj.,https://api.gbif.org/v1/species/6346243
+LIBSRC-LIB50-ENT-BIO-0950344,scientific_identity,Laboulbenia platensis,https://api.gbif.org/v1/species/5479815
+LIBSRC-LIB50-ENT-BIO-0950344,taxon_authority,Speg.,https://api.gbif.org/v1/species/5479815
+LIBSRC-LIB50-ENT-BIO-0945194,scientific_identity,Epidochium xylariae,https://api.gbif.org/v1/species/2518414
+LIBSRC-LIB50-ENT-BIO-0945194,taxon_authority,Höhn.,https://api.gbif.org/v1/species/2518414
+LIBSRC-LIB50-ENT-BIO-0939504,scientific_identity,Tremella sulcariae,https://api.gbif.org/v1/species/5468082
+LIBSRC-LIB50-ENT-BIO-0939504,taxon_authority,Diederich & M.S.Christ.,https://api.gbif.org/v1/species/5468082
+LIBSRC-LIB50-ENT-BIO-0952724,scientific_identity,Thalassiosira distans,https://api.gbif.org/v1/species/9522613
+LIBSRC-LIB50-ENT-BIO-0952724,taxon_authority,"Pouchet, 1891",https://api.gbif.org/v1/species/9522613
+LIBSRC-LIB50-ENT-BIO-0945204,scientific_identity,Epidochium nigricans,https://api.gbif.org/v1/species/7239059
+LIBSRC-LIB50-ENT-BIO-0945204,taxon_authority,"Fr., 1849",https://api.gbif.org/v1/species/7239059
+LIBSRC-LIB50-ENT-BIO-0951084,scientific_identity,Stigmatomyces limosinae,https://api.gbif.org/v1/species/2610872
+LIBSRC-LIB50-ENT-BIO-0951084,taxon_authority,Thaxt.,https://api.gbif.org/v1/species/2610872
+LIBSRC-LIB50-ENT-BIO-0948024,scientific_identity,Synandromyces tomari,https://api.gbif.org/v1/species/2610823
+LIBSRC-LIB50-ENT-BIO-0948024,taxon_authority,Thaxt.,https://api.gbif.org/v1/species/2610823
+LIBSRC-LIB50-ENT-BIO-0946974,scientific_identity,Chitonomyces floridanus,https://api.gbif.org/v1/species/3441852
+LIBSRC-LIB50-ENT-BIO-0946974,taxon_authority,Thaxt.,https://api.gbif.org/v1/species/3441852
+LIBSRC-LIB50-ENT-BIO-0951064,scientific_identity,Stigmatomyces virescens,https://api.gbif.org/v1/species/3440744
+LIBSRC-LIB50-ENT-BIO-0951064,taxon_authority,Thaxt.,https://api.gbif.org/v1/species/3440744
+LIBSRC-LIB50-ENT-BIO-0935444,scientific_identity,Camarosporium helichrysi,https://api.gbif.org/v1/species/3514194
+LIBSRC-LIB50-ENT-BIO-0935444,taxon_authority,"Pass., 1887",https://api.gbif.org/v1/species/3514194
+LIBSRC-LIB50-ENT-BIO-0935454,scientific_identity,Camarosporium camphorosmae,https://api.gbif.org/v1/species/3514058
+LIBSRC-LIB50-ENT-BIO-0935454,taxon_authority,"(Castagne) Sacc., 1884",https://api.gbif.org/v1/species/3514058
+LIBSRC-LIB50-ENT-BIO-0928274,scientific_identity,Apiospora muroiana,https://api.gbif.org/v1/species/3464728
+LIBSRC-LIB50-ENT-BIO-0928274,taxon_authority,I.Hino & Katum.,https://api.gbif.org/v1/species/3464728
+LIBSRC-LIB50-ENT-BIO-0928334,scientific_identity,Apiospora jiangxiensis,https://api.gbif.org/v1/species/12193085
+LIBSRC-LIB50-ENT-BIO-0928334,taxon_authority,(M.Wang & L.Cai) Pintos & P.Alvarado,https://api.gbif.org/v1/species/12193085
+LIBSRC-LIB50-ENT-BIO-0927274,scientific_identity,Cordella fasciculata,https://api.gbif.org/v1/species/3464701
+LIBSRC-LIB50-ENT-BIO-0927274,taxon_authority,(S.Hughes) Subram.,https://api.gbif.org/v1/species/3464701
+LIBSRC-LIB50-ENT-BIO-0928394,scientific_identity,Apiospora balearica,https://api.gbif.org/v1/species/11961312
+LIBSRC-LIB50-ENT-BIO-0928394,taxon_authority,(Pintos & P.Alvarado) Pintos & P.Alvarado,https://api.gbif.org/v1/species/11961312
+LIBSRC-LIB50-ENT-BIO-0928374,scientific_identity,Apiospora rottboelliae,https://api.gbif.org/v1/species/3464741
+LIBSRC-LIB50-ENT-BIO-0928374,taxon_authority,(Rehm) Höhn.,https://api.gbif.org/v1/species/3464741
+LIBSRC-LIB50-ENT-BIO-0928354,scientific_identity,Apiospora setostroma,https://api.gbif.org/v1/species/12191147
+LIBSRC-LIB50-ENT-BIO-0928354,taxon_authority,"(H.B.Jiang, K.D.Hyde & Phookamsak) Pintos & P.Alvarado",https://api.gbif.org/v1/species/12191147
+LIBSRC-LIB50-ENT-BIO-0930984,scientific_identity,Neoarthrinium trachycarpi,https://api.gbif.org/v1/species/11795201
+LIBSRC-LIB50-ENT-BIO-0930984,taxon_authority,(C.M.Tian & H.Yan) Ning Jiang,https://api.gbif.org/v1/species/11795201
+LIBSRC-LIB50-ENT-BIO-0928384,scientific_identity,Apiospora shiraiana,https://api.gbif.org/v1/species/8582662
+LIBSRC-LIB50-ENT-BIO-0928384,taxon_authority,(P.Syd.) Hara,https://api.gbif.org/v1/species/8582662
+LIBSRC-LIB50-ENT-BIO-0928934,scientific_identity,Biostictis tjibodensis,https://api.gbif.org/v1/species/3420721
+LIBSRC-LIB50-ENT-BIO-0928934,taxon_authority,(Racib.) Sherwood,https://api.gbif.org/v1/species/3420721
+LIBSRC-LIB50-ENT-BIO-0938114,scientific_identity,Serenomyces phoenicis,https://api.gbif.org/v1/species/2569777
+LIBSRC-LIB50-ENT-BIO-0938114,taxon_authority,(Rolland) E.Müll. & S.Ahmad,https://api.gbif.org/v1/species/2569777
+LIBSRC-LIB50-ENT-BIO-0944324,scientific_identity,Cocoicola piperata,https://api.gbif.org/v1/species/2569810
+LIBSRC-LIB50-ENT-BIO-0944324,taxon_authority,K.D.Hyde & P.F.Cannon,https://api.gbif.org/v1/species/2569810
+LIBSRC-LIB50-ENT-BIO-0959504,scientific_identity,Hantzschia robusta,https://api.gbif.org/v1/species/9114179
+LIBSRC-LIB50-ENT-BIO-0959504,taxon_authority,"Hustedt, 1922",https://api.gbif.org/v1/species/9114179
+LIBSRC-LIB50-ENT-BIO-0978534,scientific_identity,Navicula blasii,https://api.gbif.org/v1/species/7552194
+LIBSRC-LIB50-ENT-BIO-0978534,taxon_authority,Frenguelli,https://api.gbif.org/v1/species/7552194
+LIBSRC-LIB50-ENT-BIO-0963824,scientific_identity,Nitzschia acicularis,https://api.gbif.org/v1/species/8033579
+LIBSRC-LIB50-ENT-BIO-0963824,taxon_authority,"Frenguelli, 1923",https://api.gbif.org/v1/species/8033579
+LIBSRC-LIB50-ENT-BIO-0972664,scientific_identity,Slavia welesi,https://api.gbif.org/v1/species/9328123
+LIBSRC-LIB50-ENT-BIO-0972664,taxon_authority,"G.V.Pomazkina & L.N.Bukhtiyarova, 2013",https://api.gbif.org/v1/species/9328123
+LIBSRC-LIB50-ENT-BIO-0975504,scientific_identity,Navicula porta-aurata,https://api.gbif.org/v1/species/8012515
+LIBSRC-LIB50-ENT-BIO-0975504,taxon_authority,"A.Witkowski, H.Lange-Bertalot & M.Bak, 2009",https://api.gbif.org/v1/species/8012515
+LIBSRC-LIB50-ENT-BIO-0977844,scientific_identity,Kobayasia neocaledonica,https://api.gbif.org/v1/species/8417846
+LIBSRC-LIB50-ENT-BIO-0977844,taxon_authority,"G.Moser, H.Lange-Bertalot & D.Metzeltin, 1998",https://api.gbif.org/v1/species/8417846
+LIBSRC-LIB50-ENT-BIO-0964534,scientific_identity,Nitzschia wuellerstorffii,https://api.gbif.org/v1/species/8271364
+LIBSRC-LIB50-ENT-BIO-0964534,taxon_authority,"Lange-Bertalot, 1987",https://api.gbif.org/v1/species/8271364
+LIBSRC-LIB50-ENT-BIO-0974564,scientific_identity,Navicula infossa,https://api.gbif.org/v1/species/9646452
+LIBSRC-LIB50-ENT-BIO-0974564,taxon_authority,"Laslandes & Kociolek, 2014",https://api.gbif.org/v1/species/9646452
+LIBSRC-LIB50-ENT-BIO-0969194,scientific_identity,Stauropsis acuta,https://api.gbif.org/v1/species/9238313
+LIBSRC-LIB50-ENT-BIO-0969194,taxon_authority,"Meunier, 1910",https://api.gbif.org/v1/species/9238313
+LIBSRC-LIB50-ENT-BIO-0965044,scientific_identity,Nitzschia biloba,https://api.gbif.org/v1/species/9551813
+LIBSRC-LIB50-ENT-BIO-0965044,taxon_authority,"Meyer, 1938",https://api.gbif.org/v1/species/9551813
+LIBSRC-LIB50-ENT-BIO-0964364,scientific_identity,Nitzschia volvendirostrata,https://api.gbif.org/v1/species/9778230
+LIBSRC-LIB50-ENT-BIO-0964364,taxon_authority,"Ashworth, Dᶏbek & Witkowski, 2016",https://api.gbif.org/v1/species/9778230
+LIBSRC-LIB50-ENT-BIO-0978464,scientific_identity,Navicula retusa,https://api.gbif.org/v1/species/9635149
+LIBSRC-LIB50-ENT-BIO-0978464,taxon_authority,Donkin,https://api.gbif.org/v1/species/9635149
+LIBSRC-LIB50-ENT-BIO-0974344,scientific_identity,Navicula debilitata,https://api.gbif.org/v1/species/8414489
+LIBSRC-LIB50-ENT-BIO-0974344,taxon_authority,"M.Peragallo, 1920",https://api.gbif.org/v1/species/8414489
+LIBSRC-LIB50-ENT-BIO-0963794,scientific_identity,Nitzschia composita,https://api.gbif.org/v1/species/9277613
+LIBSRC-LIB50-ENT-BIO-0963794,taxon_authority,"Giffen, 1971",https://api.gbif.org/v1/species/9277613
+LIBSRC-LIB50-ENT-BIO-0975164,scientific_identity,Navicula cunoniae,https://api.gbif.org/v1/species/7615433
+LIBSRC-LIB50-ENT-BIO-0975164,taxon_authority,"Cholnoky, 1963",https://api.gbif.org/v1/species/7615433
+LIBSRC-LIB50-ENT-BIO-0978544,scientific_identity,Navicula rhodana,https://api.gbif.org/v1/species/7938359
+LIBSRC-LIB50-ENT-BIO-0978544,taxon_authority,Hohn & Hellerman,https://api.gbif.org/v1/species/7938359
+LIBSRC-LIB50-ENT-BIO-0974244,scientific_identity,Navicula rupestris,https://api.gbif.org/v1/species/7744204
+LIBSRC-LIB50-ENT-BIO-0974244,taxon_authority,"O'Meara, 1876",https://api.gbif.org/v1/species/7744204
+LIBSRC-LIB50-ENT-BIO-0963934,scientific_identity,Nitzschia spathulata,https://api.gbif.org/v1/species/8131675
+LIBSRC-LIB50-ENT-BIO-0963934,taxon_authority,"W.Smith, 1853",https://api.gbif.org/v1/species/8131675
+LIBSRC-LIB50-ENT-BIO-0978424,scientific_identity,Navicula capitatoradiata,https://api.gbif.org/v1/species/5270310
+LIBSRC-LIB50-ENT-BIO-0978424,taxon_authority,Germain,https://api.gbif.org/v1/species/5270310
+LIBSRC-LIB50-ENT-BIO-0964804,scientific_identity,Nitzschia sentiformis,https://api.gbif.org/v1/species/9743228
+LIBSRC-LIB50-ENT-BIO-0964804,taxon_authority,"Hohn & Hellerman, 1963",https://api.gbif.org/v1/species/9743228
+LIBSRC-LIB50-ENT-BIO-0964454,scientific_identity,Nitzschia majuscula,https://api.gbif.org/v1/species/7782729
+LIBSRC-LIB50-ENT-BIO-0964454,taxon_authority,Grunow,https://api.gbif.org/v1/species/7782729
+LIBSRC-LIB50-ENT-BIO-0964234,scientific_identity,Nitzschia striatula,https://api.gbif.org/v1/species/7672118
+LIBSRC-LIB50-ENT-BIO-0965114,scientific_identity,Nitzschia pungens,https://api.gbif.org/v1/species/8244649
+LIBSRC-LIB50-ENT-BIO-0965114,taxon_authority,"Grunow ex Cleve, 1897",https://api.gbif.org/v1/species/8244649
+LIBSRC-LIB50-ENT-BIO-0978344,scientific_identity,Navicula skiftei,https://api.gbif.org/v1/species/8191881
+LIBSRC-LIB50-ENT-BIO-0978344,taxon_authority,Foged,https://api.gbif.org/v1/species/8191881
+LIBSRC-LIB50-ENT-BIO-0965754,scientific_identity,Kobayasiella venezuelensis,https://api.gbif.org/v1/species/7809516
+LIBSRC-LIB50-ENT-BIO-0965754,taxon_authority,"Lange-Bertalot, 2007",https://api.gbif.org/v1/species/7809516
+LIBSRC-LIB50-ENT-BIO-0963894,scientific_identity,Nitzschia vasnaii,https://api.gbif.org/v1/species/9321242
+LIBSRC-LIB50-ENT-BIO-0963894,taxon_authority,"H.P.Gandhi, 1960",https://api.gbif.org/v1/species/9321242
+LIBSRC-LIB50-ENT-BIO-0975244,scientific_identity,Navicula maleposita,https://api.gbif.org/v1/species/9606498
+LIBSRC-LIB50-ENT-BIO-0975244,taxon_authority,"Simonsen, 1992",https://api.gbif.org/v1/species/9606498
+LIBSRC-LIB50-ENT-BIO-0975254,scientific_identity,Navicula trigramma,https://api.gbif.org/v1/species/7913531
+LIBSRC-LIB50-ENT-BIO-0975254,taxon_authority,"Fresenius, 1862",https://api.gbif.org/v1/species/7913531
+LIBSRC-LIB50-ENT-BIO-0977794,scientific_identity,Chamaepinnularia brasiliana,https://api.gbif.org/v1/species/8051965
+LIBSRC-LIB50-ENT-BIO-0977794,taxon_authority,"Metzeltin & Lange-Bertalot, 1998",https://api.gbif.org/v1/species/8051965
+LIBSRC-LIB50-ENT-BIO-0976114,scientific_identity,Navicula oestrupi,https://api.gbif.org/v1/species/7525761
+LIBSRC-LIB50-ENT-BIO-0976114,taxon_authority,"Heiden, 1905",https://api.gbif.org/v1/species/7525761
+LIBSRC-LIB50-ENT-BIO-0974774,scientific_identity,Navicula natchikae,https://api.gbif.org/v1/species/7979252
+LIBSRC-LIB50-ENT-BIO-0974774,taxon_authority,"Boye Petersen, 1946",https://api.gbif.org/v1/species/7979252
+LIBSRC-LIB50-ENT-BIO-0974834,scientific_identity,Navicula parabilis,https://api.gbif.org/v1/species/7555191
+LIBSRC-LIB50-ENT-BIO-0974834,taxon_authority,"Hohn & Hellerman, 1963",https://api.gbif.org/v1/species/7555191
+LIBSRC-LIB50-ENT-BIO-0964184,scientific_identity,Nitzschia procera,https://api.gbif.org/v1/species/7945029
+LIBSRC-LIB50-ENT-BIO-0964184,taxon_authority,"Hustedt, 1955",https://api.gbif.org/v1/species/7945029
+LIBSRC-LIB50-ENT-BIO-0976804,scientific_identity,Navicula habitata,https://api.gbif.org/v1/species/9288904
+LIBSRC-LIB50-ENT-BIO-0976804,taxon_authority,"W.Smith, 1859",https://api.gbif.org/v1/species/9288904
+LIBSRC-LIB50-ENT-BIO-0965774,scientific_identity,Kobayasiella hodgsonii,https://api.gbif.org/v1/species/8039625
+LIBSRC-LIB50-ENT-BIO-0965774,taxon_authority,"Verleyen, 2004",https://api.gbif.org/v1/species/8039625
+LIBSRC-LIB50-ENT-BIO-0964044,scientific_identity,Nitzschia mediastalsis,https://api.gbif.org/v1/species/9419466
+LIBSRC-LIB50-ENT-BIO-0964044,taxon_authority,"Hohn & Hellerman, 1963",https://api.gbif.org/v1/species/9419466
+LIBSRC-LIB50-ENT-BIO-0975424,scientific_identity,Navicula amicii,https://api.gbif.org/v1/species/9584614
+LIBSRC-LIB50-ENT-BIO-0975424,taxon_authority,"J.W.Bailey, 1851",https://api.gbif.org/v1/species/9584614
+LIBSRC-LIB50-ENT-BIO-0964754,scientific_identity,Nitzschia punae,https://api.gbif.org/v1/species/9561122
+LIBSRC-LIB50-ENT-BIO-0964754,taxon_authority,"Frenguelli, 1936",https://api.gbif.org/v1/species/9561122
+LIBSRC-LIB50-ENT-BIO-0976874,scientific_identity,Navicula cocquytae,https://api.gbif.org/v1/species/9310802
+LIBSRC-LIB50-ENT-BIO-0976874,taxon_authority,"Z.Levkov & T.Nakov, 2007",https://api.gbif.org/v1/species/9310802
+LIBSRC-LIB50-ENT-BIO-0964224,scientific_identity,Nitzschia tungtingiana,https://api.gbif.org/v1/species/10125862
+LIBSRC-LIB50-ENT-BIO-0964224,taxon_authority,"Skvortzov, 2012",https://api.gbif.org/v1/species/10125862
+LIBSRC-LIB50-ENT-BIO-0978474,scientific_identity,Navicula avonensis,https://api.gbif.org/v1/species/5270034
+LIBSRC-LIB50-ENT-BIO-0978474,taxon_authority,Round,https://api.gbif.org/v1/species/5270034
+LIBSRC-LIB50-ENT-BIO-0978324,scientific_identity,Navicula abducta,https://api.gbif.org/v1/species/7808541
+LIBSRC-LIB50-ENT-BIO-0978324,taxon_authority,Manguin,https://api.gbif.org/v1/species/7808541
+LIBSRC-LIB50-ENT-BIO-0963924,scientific_identity,Nitzschia zahlbrucknerrii,https://api.gbif.org/v1/species/9306779
+LIBSRC-LIB50-ENT-BIO-0963924,taxon_authority,"Pantocsek, 1912",https://api.gbif.org/v1/species/9306779
+LIBSRC-LIB50-ENT-BIO-0964254,scientific_identity,Nitzschia petulla,https://api.gbif.org/v1/species/9445012
+LIBSRC-LIB50-ENT-BIO-0964254,taxon_authority,"Carter, 1966",https://api.gbif.org/v1/species/9445012
+LIBSRC-LIB50-ENT-BIO-0974664,scientific_identity,Navicula schuettii,https://api.gbif.org/v1/species/8086161
+LIBSRC-LIB50-ENT-BIO-0974664,taxon_authority,Van Heurck,https://api.gbif.org/v1/species/8086161
+LIBSRC-LIB50-ENT-BIO-0979424,scientific_identity,Cocconema fossile,https://api.gbif.org/v1/species/7953436
+LIBSRC-LIB50-ENT-BIO-0979424,taxon_authority,"Ehrenberg, 1854",https://api.gbif.org/v1/species/7953436
+LIBSRC-LIB50-ENT-BIO-0975434,scientific_identity,Navicula anhuiensis,https://api.gbif.org/v1/species/8072263
+LIBSRC-LIB50-ENT-BIO-0975434,taxon_authority,"Yang, 1994",https://api.gbif.org/v1/species/8072263
+LIBSRC-LIB50-ENT-BIO-0976684,scientific_identity,Navicula zsivnyana,https://api.gbif.org/v1/species/7711174
+LIBSRC-LIB50-ENT-BIO-0976684,taxon_authority,"Krenner, 1926",https://api.gbif.org/v1/species/7711174
+LIBSRC-LIB50-ENT-BIO-0976934,scientific_identity,Navicula hochstetteriana,https://api.gbif.org/v1/species/7526329
+LIBSRC-LIB50-ENT-BIO-0976934,taxon_authority,"Grunow, 1867",https://api.gbif.org/v1/species/7526329
+LIBSRC-LIB50-ENT-BIO-0975524,scientific_identity,Navicula praeflua,https://api.gbif.org/v1/species/7999280
+LIBSRC-LIB50-ENT-BIO-0975524,taxon_authority,"Pantocsek, 1892",https://api.gbif.org/v1/species/7999280
+LIBSRC-LIB50-ENT-BIO-0973974,scientific_identity,Geissleria gollerbakhii,https://api.gbif.org/v1/species/10448556
+LIBSRC-LIB50-ENT-BIO-0973974,taxon_authority,"Genkal & Yarushina, 2018",https://api.gbif.org/v1/species/10448556
+LIBSRC-LIB50-ENT-BIO-0976544,scientific_identity,Navicula japonica,https://api.gbif.org/v1/species/7701610
+LIBSRC-LIB50-ENT-BIO-0976544,taxon_authority,"Heiden, 1903",https://api.gbif.org/v1/species/7701610
+LIBSRC-LIB50-ENT-BIO-0974504,scientific_identity,Navicula pseudobrasiliana,https://api.gbif.org/v1/species/7575450
+LIBSRC-LIB50-ENT-BIO-0974504,taxon_authority,"A.Tuji, 2003",https://api.gbif.org/v1/species/7575450
+LIBSRC-LIB50-ENT-BIO-0974784,scientific_identity,Navicula oviformis,https://api.gbif.org/v1/species/8300306
+LIBSRC-LIB50-ENT-BIO-0974784,taxon_authority,"Cleve, 1895",https://api.gbif.org/v1/species/8300306
+LIBSRC-LIB50-ENT-BIO-0976384,scientific_identity,Navicula thoroddseni,https://api.gbif.org/v1/species/8418741
+LIBSRC-LIB50-ENT-BIO-0976384,taxon_authority,"Foged, 1974",https://api.gbif.org/v1/species/8418741
+LIBSRC-LIB50-ENT-BIO-0975864,scientific_identity,Navicula thienemannioides,https://api.gbif.org/v1/species/7545283
+LIBSRC-LIB50-ENT-BIO-0975864,taxon_authority,"Gandhi, 1970",https://api.gbif.org/v1/species/7545283
+LIBSRC-LIB50-ENT-BIO-0965794,scientific_identity,Kobayasiella neocaledonica,https://api.gbif.org/v1/species/7582861
+LIBSRC-LIB50-ENT-BIO-0965794,taxon_authority,"(Gerd Moser, Lange-Bertalot & D.Metzeltin) Lange-Bertalot, 1999",https://api.gbif.org/v1/species/7582861
+LIBSRC-LIB50-ENT-BIO-0976314,scientific_identity,Navicula insignificans,https://api.gbif.org/v1/species/8273467
+LIBSRC-LIB50-ENT-BIO-0976314,taxon_authority,"Mann, 1925",https://api.gbif.org/v1/species/8273467
+LIBSRC-LIB50-ENT-BIO-0961594,scientific_identity,Denticula robusta,https://api.gbif.org/v1/species/7577207
+LIBSRC-LIB50-ENT-BIO-0961594,taxon_authority,"Hustedt, 1935",https://api.gbif.org/v1/species/7577207
+LIBSRC-LIB50-ENT-BIO-0979434,scientific_identity,Cocconema subtile,https://api.gbif.org/v1/species/8228081
+LIBSRC-LIB50-ENT-BIO-0979434,taxon_authority,"Ehrenberg, 1854",https://api.gbif.org/v1/species/8228081
+LIBSRC-LIB50-ENT-BIO-0977164,scientific_identity,Navicula filarszkyi,https://api.gbif.org/v1/species/7393082
+LIBSRC-LIB50-ENT-BIO-0977164,taxon_authority,"Pantocsek, 1903",https://api.gbif.org/v1/species/7393082
+LIBSRC-LIB50-ENT-BIO-0964914,scientific_identity,Nitzschia definita,https://api.gbif.org/v1/species/9335807
+LIBSRC-LIB50-ENT-BIO-0964914,taxon_authority,"Grove & Sturt, 1887",https://api.gbif.org/v1/species/9335807
+LIBSRC-LIB50-ENT-BIO-0975484,scientific_identity,Navicula decrescens,https://api.gbif.org/v1/species/7457584
+LIBSRC-LIB50-ENT-BIO-0975484,taxon_authority,"Héribaud-Joseph, 1903",https://api.gbif.org/v1/species/7457584
+LIBSRC-LIB50-ENT-BIO-0975394,scientific_identity,Navicula kurzii,https://api.gbif.org/v1/species/7665634
+LIBSRC-LIB50-ENT-BIO-0975394,taxon_authority,"Grunow, 1878",https://api.gbif.org/v1/species/7665634
+LIBSRC-LIB50-ENT-BIO-0978764,scientific_identity,Navicula singularis,https://api.gbif.org/v1/species/8265546
+LIBSRC-LIB50-ENT-BIO-0978764,taxon_authority,Schmidt,https://api.gbif.org/v1/species/8265546
+LIBSRC-LIB50-ENT-BIO-0974514,scientific_identity,Navicula correpta,https://api.gbif.org/v1/species/8242453
+LIBSRC-LIB50-ENT-BIO-0974514,taxon_authority,"Schmidt, 1890",https://api.gbif.org/v1/species/8242453
+LIBSRC-LIB50-ENT-BIO-0975264,scientific_identity,Navicula koenigi,https://api.gbif.org/v1/species/8020308
+LIBSRC-LIB50-ENT-BIO-0975264,taxon_authority,"Brockmann, 1950",https://api.gbif.org/v1/species/8020308
+LIBSRC-LIB50-ENT-BIO-0978624,scientific_identity,Navicula amphiceropsis,https://api.gbif.org/v1/species/5269653
+LIBSRC-LIB50-ENT-BIO-0978624,taxon_authority,Lange-Bertalot & U.Rumrich,https://api.gbif.org/v1/species/5269653
+LIBSRC-LIB50-ENT-BIO-0979404,scientific_identity,Cocconema tumidum,https://api.gbif.org/v1/species/9764798
+LIBSRC-LIB50-ENT-BIO-0976664,scientific_identity,Navicula mendotia,https://api.gbif.org/v1/species/7684466
+LIBSRC-LIB50-ENT-BIO-0976664,taxon_authority,"VanLandingham, 1975",https://api.gbif.org/v1/species/7684466
+LIBSRC-LIB50-ENT-BIO-0975414,scientific_identity,Navicula praerupta,https://api.gbif.org/v1/species/8180281
+LIBSRC-LIB50-ENT-BIO-0975414,taxon_authority,"Hustedt, 1944",https://api.gbif.org/v1/species/8180281
+LIBSRC-LIB50-ENT-BIO-0974174,scientific_identity,Navicula glabra,https://api.gbif.org/v1/species/9436096
+LIBSRC-LIB50-ENT-BIO-0974174,taxon_authority,"Østrup, 1918",https://api.gbif.org/v1/species/9436096
+LIBSRC-LIB50-ENT-BIO-0978574,scientific_identity,Navicula oblongum,https://api.gbif.org/v1/species/5270100
+LIBSRC-LIB50-ENT-BIO-0978574,taxon_authority,(Kützing) Kützing,https://api.gbif.org/v1/species/5270100
+LIBSRC-LIB50-ENT-BIO-0964474,scientific_identity,Nitzschia abludens,https://api.gbif.org/v1/species/9386637
+LIBSRC-LIB50-ENT-BIO-0964474,taxon_authority,"Grunow, 1878",https://api.gbif.org/v1/species/9386637
+LIBSRC-LIB50-ENT-BIO-0975464,scientific_identity,Navicula hancockii,https://api.gbif.org/v1/species/9311004
+LIBSRC-LIB50-ENT-BIO-0975464,taxon_authority,"Schoeman, 1982",https://api.gbif.org/v1/species/9311004
+LIBSRC-LIB50-ENT-BIO-0969384,scientific_identity,Plocamium violaceum,https://api.gbif.org/v1/species/5278563
+LIBSRC-LIB50-ENT-BIO-0969384,taxon_authority,"Farlow, 1877",https://api.gbif.org/v1/species/5278563
+LIBSRC-LIB50-ENT-BIO-0960874,scientific_identity,Helvella tinta,https://api.gbif.org/v1/species/9656436
+LIBSRC-LIB50-ENT-BIO-0960874,taxon_authority,Q.Zhao & K.D.Hyde,https://api.gbif.org/v1/species/9656436
+LIBSRC-LIB50-ENT-BIO-0982144,scientific_identity,Anthostomella sorghi,https://api.gbif.org/v1/species/3461441
+LIBSRC-LIB50-ENT-BIO-0982144,taxon_authority,Saccas,https://api.gbif.org/v1/species/3461441
+LIBSRC-LIB50-ENT-BIO-0966404,scientific_identity,Cytospora coenobitica,https://api.gbif.org/v1/species/3446666
+LIBSRC-LIB50-ENT-BIO-0966404,taxon_authority,Sacc.,https://api.gbif.org/v1/species/3446666
+LIBSRC-LIB50-ENT-BIO-0981054,scientific_identity,Sclerotium neglectum,https://api.gbif.org/v1/species/2539158
+LIBSRC-LIB50-ENT-BIO-0981054,taxon_authority,Berk.,https://api.gbif.org/v1/species/2539158
+LIBSRC-LIB50-ENT-BIO-0973284,scientific_identity,Lasiostictella bambusae,https://api.gbif.org/v1/species/2580143
+LIBSRC-LIB50-ENT-BIO-0973284,taxon_authority,Sherwood,https://api.gbif.org/v1/species/2580143
+LIBSRC-LIB50-ENT-BIO-0961294,scientific_identity,Armatella apolloniadis,https://api.gbif.org/v1/species/3523677
+LIBSRC-LIB50-ENT-BIO-0961294,taxon_authority,"Hosag., C.K.Biju & T.K.Abraham",https://api.gbif.org/v1/species/3523677
+LIBSRC-LIB50-ENT-BIO-0954914,scientific_identity,Tuber liyuanum,https://api.gbif.org/v1/species/8376681
+LIBSRC-LIB50-ENT-BIO-0954914,taxon_authority,L.Fan & J.Z.Cao,https://api.gbif.org/v1/species/8376681
+LIBSRC-LIB50-ENT-BIO-0954854,scientific_identity,Tuber caroli,https://api.gbif.org/v1/species/5499486
+LIBSRC-LIB50-ENT-BIO-0954854,taxon_authority,"H.Bonnet, 1885",https://api.gbif.org/v1/species/5499486
+LIBSRC-LIB50-ENT-BIO-0973004,scientific_identity,Valsa leiphamioides,https://api.gbif.org/v1/species/10386808
+LIBSRC-LIB50-ENT-BIO-0973004,taxon_authority,Berk. & Curt,https://api.gbif.org/v1/species/10386808
+LIBSRC-LIB50-ENT-BIO-0966314,scientific_identity,Cytospora eurotiae,https://api.gbif.org/v1/species/3446507
+LIBSRC-LIB50-ENT-BIO-0966314,taxon_authority,Kravtzev,https://api.gbif.org/v1/species/3446507
+LIBSRC-LIB50-ENT-BIO-0969454,scientific_identity,Lophodermium coalescens,https://api.gbif.org/v1/species/3481603
+LIBSRC-LIB50-ENT-BIO-0969454,taxon_authority,Tobias,https://api.gbif.org/v1/species/3481603
+LIBSRC-LIB50-ENT-BIO-0960854,scientific_identity,Helvella pulla,https://api.gbif.org/v1/species/2594719
+LIBSRC-LIB50-ENT-BIO-0960854,taxon_authority,Holmsk.,https://api.gbif.org/v1/species/2594719
+LIBSRC-LIB50-ENT-BIO-0968924,scientific_identity,Coccomyces mussaendae,https://api.gbif.org/v1/species/3481451
+LIBSRC-LIB50-ENT-BIO-0968924,taxon_authority,Sawada,https://api.gbif.org/v1/species/3481451
+LIBSRC-LIB50-ENT-BIO-0980154,scientific_identity,Hypocopra brefeldii,https://api.gbif.org/v1/species/2576626
+LIBSRC-LIB50-ENT-BIO-0980154,taxon_authority,(Zopf) Zopf,https://api.gbif.org/v1/species/2576626
+LIBSRC-LIB50-ENT-BIO-0982314,scientific_identity,Anthostomella notabilis,https://api.gbif.org/v1/species/2577282
+LIBSRC-LIB50-ENT-BIO-0982314,taxon_authority,"Joanne E.Taylor, K.D.Hyde & E.B.G.Jones",https://api.gbif.org/v1/species/2577282
+LIBSRC-LIB50-ENT-BIO-0967374,scientific_identity,Terriera stevensii,https://api.gbif.org/v1/species/2579509
+LIBSRC-LIB50-ENT-BIO-0967374,taxon_authority,P.R.Johnst.,https://api.gbif.org/v1/species/2579509
+LIBSRC-LIB50-ENT-BIO-0960884,scientific_identity,Helvella grevillei,https://api.gbif.org/v1/species/9261554
+LIBSRC-LIB50-ENT-BIO-0960884,taxon_authority,Boud.,https://api.gbif.org/v1/species/9261554
+LIBSRC-LIB50-ENT-BIO-0981084,scientific_identity,Sclerotium nervale,https://api.gbif.org/v1/species/8583198
+LIBSRC-LIB50-ENT-BIO-0981084,taxon_authority,(Alb. & Schwein.) Fr.,https://api.gbif.org/v1/species/8583198
+LIBSRC-LIB50-ENT-BIO-0969004,scientific_identity,Coccomyces foliiose,https://api.gbif.org/v1/species/6124064
+LIBSRC-LIB50-ENT-BIO-0969004,taxon_authority,(Dennis & Spooner) Sherwood.,https://api.gbif.org/v1/species/6124064
+LIBSRC-LIB50-ENT-BIO-0966204,scientific_identity,Leptostroma caraganae,https://api.gbif.org/v1/species/3481993
+LIBSRC-LIB50-ENT-BIO-0966204,taxon_authority,Oudem.,https://api.gbif.org/v1/species/3481993
+LIBSRC-LIB50-ENT-BIO-0965334,scientific_identity,Rhytisma panamense,https://api.gbif.org/v1/species/7590664
+LIBSRC-LIB50-ENT-BIO-0965334,taxon_authority,"C.L.Hou, Trampe & M.Piepenbr.",https://api.gbif.org/v1/species/7590664
+LIBSRC-LIB50-ENT-BIO-0969474,scientific_identity,Lophodermium danthoniae,https://api.gbif.org/v1/species/2579693
+LIBSRC-LIB50-ENT-BIO-0969474,taxon_authority,Tehon,https://api.gbif.org/v1/species/2579693
+LIBSRC-LIB50-ENT-BIO-0974074,scientific_identity,Ploioderma lowei,https://api.gbif.org/v1/species/2579022
+LIBSRC-LIB50-ENT-BIO-0974074,taxon_authority,Czabator,https://api.gbif.org/v1/species/2579022
+LIBSRC-LIB50-ENT-BIO-0977964,scientific_identity,Crandallia acuminata,https://api.gbif.org/v1/species/9741762
+LIBSRC-LIB50-ENT-BIO-0977964,taxon_authority,(Ellis & Everh.) Rossman & W.C.Allen,https://api.gbif.org/v1/species/9741762
+LIBSRC-LIB50-ENT-BIO-0980414,scientific_identity,Nemania gwyneddii,https://api.gbif.org/v1/species/2576391
+LIBSRC-LIB50-ENT-BIO-0980414,taxon_authority,"(Whalley, R.L.Edwards & S.M.Francis) Pouzar",https://api.gbif.org/v1/species/2576391
+LIBSRC-LIB50-ENT-BIO-0972464,scientific_identity,Melasmia menziesiae,https://api.gbif.org/v1/species/7434227
+LIBSRC-LIB50-ENT-BIO-0972464,taxon_authority,Dearn. & Barthol.,https://api.gbif.org/v1/species/7434227
+LIBSRC-LIB50-ENT-BIO-0969524,scientific_identity,Lophodermium kumaunicum,https://api.gbif.org/v1/species/2579680
+LIBSRC-LIB50-ENT-BIO-0969524,taxon_authority,Minter & M.P.Sharma,https://api.gbif.org/v1/species/2579680
+LIBSRC-LIB50-ENT-BIO-0966574,scientific_identity,Cytospora szembelii,https://api.gbif.org/v1/species/3446712
+LIBSRC-LIB50-ENT-BIO-0966574,taxon_authority,Gutner,https://api.gbif.org/v1/species/3446712
+LIBSRC-LIB50-ENT-BIO-0982154,scientific_identity,Anthostomella podocarpi,https://api.gbif.org/v1/species/3461447
+LIBSRC-LIB50-ENT-BIO-0982154,taxon_authority,Syd.,https://api.gbif.org/v1/species/3461447
+LIBSRC-LIB50-ENT-BIO-0955024,scientific_identity,Tuber sinomonosporum,https://api.gbif.org/v1/species/7919051
+LIBSRC-LIB50-ENT-BIO-0955024,taxon_authority,J.Z.Cao & L.Fan,https://api.gbif.org/v1/species/7919051
+LIBSRC-LIB50-ENT-BIO-0960904,scientific_identity,Helvella orienticrispa,https://api.gbif.org/v1/species/9709683
+LIBSRC-LIB50-ENT-BIO-0960904,taxon_authority,"Q.Zhao, Zhu L.Yang & K.D.Hyde",https://api.gbif.org/v1/species/9709683
+LIBSRC-LIB50-ENT-BIO-0959864,scientific_identity,Midotis occidentalis,https://api.gbif.org/v1/species/3558218
+LIBSRC-LIB50-ENT-BIO-0959864,taxon_authority,E.J.Durand,https://api.gbif.org/v1/species/3558218
+LIBSRC-LIB50-ENT-BIO-0973024,scientific_identity,Valsa fabraeana,https://api.gbif.org/v1/species/10541412
+LIBSRC-LIB50-ENT-BIO-0973024,taxon_authority,Sacc.,https://api.gbif.org/v1/species/10541412
+LIBSRC-LIB50-ENT-BIO-0969584,scientific_identity,Lophodermium pinastri,https://api.gbif.org/v1/species/2579744
+LIBSRC-LIB50-ENT-BIO-0969584,taxon_authority,(Schrad.) Chevall.,https://api.gbif.org/v1/species/2579744
+LIBSRC-LIB50-ENT-BIO-0967794,scientific_identity,Terriera fuegiana,https://api.gbif.org/v1/species/2579500
+LIBSRC-LIB50-ENT-BIO-0967794,taxon_authority,(Speg.) P.R.Johnst.,https://api.gbif.org/v1/species/2579500
+LIBSRC-LIB50-ENT-BIO-0966584,scientific_identity,Cytospora palmoides,https://api.gbif.org/v1/species/10685363
+LIBSRC-LIB50-ENT-BIO-0966584,taxon_authority,Qing T.Zhang & X.Y.Zhang,https://api.gbif.org/v1/species/10685363
+LIBSRC-LIB50-ENT-BIO-0961064,scientific_identity,Helvella menzeliana,https://api.gbif.org/v1/species/3492787
+LIBSRC-LIB50-ENT-BIO-0961064,taxon_authority,(Timm) E.H.L.Krause,https://api.gbif.org/v1/species/3492787
+LIBSRC-LIB50-ENT-BIO-0972914,scientific_identity,Valsa viburni,https://api.gbif.org/v1/species/5481955
+LIBSRC-LIB50-ENT-BIO-0972914,taxon_authority,Fuckel,https://api.gbif.org/v1/species/5481955
+LIBSRC-LIB50-ENT-BIO-0970584,scientific_identity,Hypoderma sticheri,https://api.gbif.org/v1/species/5255754
+LIBSRC-LIB50-ENT-BIO-0970584,taxon_authority,P.R.Johnst.,https://api.gbif.org/v1/species/5255754
+LIBSRC-LIB50-ENT-BIO-0967534,scientific_identity,Terriera aequabilis,https://api.gbif.org/v1/species/9738911
+LIBSRC-LIB50-ENT-BIO-0967534,taxon_authority,Qing Li & Y.R.Lin,https://api.gbif.org/v1/species/9738911
+LIBSRC-LIB50-ENT-BIO-0982334,scientific_identity,Anthostomella dryadis,https://api.gbif.org/v1/species/3461420
+LIBSRC-LIB50-ENT-BIO-0982334,taxon_authority,Lar.N.Vassiljeva,https://api.gbif.org/v1/species/3461420
+LIBSRC-LIB50-ENT-BIO-0983694,scientific_identity,Sphaeria subambigua,https://api.gbif.org/v1/species/3309134
+LIBSRC-LIB50-ENT-BIO-0983694,taxon_authority,Cooke,https://api.gbif.org/v1/species/3309134
+LIBSRC-LIB50-ENT-BIO-0982294,scientific_identity,Anthostomella miscanthea,https://api.gbif.org/v1/species/2577376
+LIBSRC-LIB50-ENT-BIO-0982294,taxon_authority,Sacc.,https://api.gbif.org/v1/species/2577376
+LIBSRC-LIB50-ENT-BIO-0982254,scientific_identity,Anthostomella scopariae,https://api.gbif.org/v1/species/6019004
+LIBSRC-LIB50-ENT-BIO-0982254,taxon_authority,Fabre,https://api.gbif.org/v1/species/6019004
+LIBSRC-LIB50-ENT-BIO-0973124,scientific_identity,Griphosphaerioma kansensis,https://api.gbif.org/v1/species/2574636
+LIBSRC-LIB50-ENT-BIO-0973124,taxon_authority,(Ellis & Everh.) Shoemaker,https://api.gbif.org/v1/species/2574636
+LIBSRC-LIB50-ENT-BIO-0959714,scientific_identity,Paxina macropus,https://api.gbif.org/v1/species/3281410
+LIBSRC-LIB50-ENT-BIO-0959714,taxon_authority,(Clem.) Seaver,https://api.gbif.org/v1/species/3281410
+LIBSRC-LIB50-ENT-BIO-0972934,scientific_identity,Valsa rhodospora,https://api.gbif.org/v1/species/5481856
+LIBSRC-LIB50-ENT-BIO-0972934,taxon_authority,Sacc.,https://api.gbif.org/v1/species/5481856
+LIBSRC-LIB50-ENT-BIO-0966604,scientific_identity,Cytospora sacculus,https://api.gbif.org/v1/species/2566138
+LIBSRC-LIB50-ENT-BIO-0966604,taxon_authority,(Schwein.) Gvrit.,https://api.gbif.org/v1/species/2566138
+LIBSRC-LIB50-ENT-BIO-0966264,scientific_identity,Cytospora lumnitzericola,https://api.gbif.org/v1/species/10512756
+LIBSRC-LIB50-ENT-BIO-0966264,taxon_authority,"Norph., T.C.Wen & K.D.Hyde",https://api.gbif.org/v1/species/10512756
+LIBSRC-LIB50-ENT-BIO-0973364,scientific_identity,Valsaria complexa,https://api.gbif.org/v1/species/3447010
+LIBSRC-LIB50-ENT-BIO-0973364,taxon_authority,"(Mont.) Sacc., 1882",https://api.gbif.org/v1/species/3447010
+LIBSRC-LIB50-ENT-BIO-0966174,scientific_identity,Cytospora cupressina,https://api.gbif.org/v1/species/3446857
+LIBSRC-LIB50-ENT-BIO-0966174,taxon_authority,Sousa da Câmara,https://api.gbif.org/v1/species/3446857
+LIBSRC-LIB50-ENT-BIO-0966454,scientific_identity,Cytospora litchii,https://api.gbif.org/v1/species/3446859
+LIBSRC-LIB50-ENT-BIO-0966454,taxon_authority,N.D.Sharma,https://api.gbif.org/v1/species/3446859
+LIBSRC-LIB50-ENT-BIO-0966414,scientific_identity,Cytospora gigaspora,https://api.gbif.org/v1/species/7992885
+LIBSRC-LIB50-ENT-BIO-0966414,taxon_authority,"C.M.Tian, X.L.Fan & K.D.Hyde",https://api.gbif.org/v1/species/7992885
+LIBSRC-LIB50-ENT-BIO-0973314,scientific_identity,Valsaria monadelpha,https://api.gbif.org/v1/species/8528556
+LIBSRC-LIB50-ENT-BIO-0966464,scientific_identity,Cytospora euonymicola,https://api.gbif.org/v1/species/10818857
+LIBSRC-LIB50-ENT-BIO-0966464,taxon_authority,X.L.Fan & C.M.Tian,https://api.gbif.org/v1/species/10818857
+LIBSRC-LIB50-ENT-BIO-0966534,scientific_identity,Cytospora salicacearum,https://api.gbif.org/v1/species/9816826
+LIBSRC-LIB50-ENT-BIO-0966534,taxon_authority,"Norph., Bulgakov, T.C.Wen & K.D.Hyde",https://api.gbif.org/v1/species/9816826
+LIBSRC-LIB50-ENT-BIO-0966324,scientific_identity,Cytospora notastroma,https://api.gbif.org/v1/species/9669747
+LIBSRC-LIB50-ENT-BIO-0966324,taxon_authority,Kepley & F.B.Reeves,https://api.gbif.org/v1/species/9669747
+LIBSRC-LIB50-ENT-BIO-0966804,scientific_identity,Valsella jasminicola,https://api.gbif.org/v1/species/5482197
+LIBSRC-LIB50-ENT-BIO-0966804,taxon_authority,A.Pande & V.G.Rao,https://api.gbif.org/v1/species/5482197
+LIBSRC-LIB50-ENT-BIO-0960864,scientific_identity,Helvella tianshanensis,https://api.gbif.org/v1/species/10830515
+LIBSRC-LIB50-ENT-BIO-0960864,taxon_authority,X.C.Wang & W.Y.Zhuang,https://api.gbif.org/v1/species/10830515
+LIBSRC-LIB50-ENT-BIO-0958314,scientific_identity,Dissingia crassitunicata,https://api.gbif.org/v1/species/10885260
+LIBSRC-LIB50-ENT-BIO-0958314,taxon_authority,(N.S.Weber) T.Schumach. & Skrede,https://api.gbif.org/v1/species/10885260
+LIBSRC-LIB50-ENT-BIO-0962744,scientific_identity,Balsamia trappei,https://api.gbif.org/v1/species/10742792
+LIBSRC-LIB50-ENT-BIO-0962744,taxon_authority,"D.Southw., J.L.Frank & Castellano",https://api.gbif.org/v1/species/10742792
+LIBSRC-LIB50-ENT-BIO-0960944,scientific_identity,Helvella poculiformis,https://api.gbif.org/v1/species/12216846
+LIBSRC-LIB50-ENT-BIO-0960944,taxon_authority,Skrede & T.Schumach.,https://api.gbif.org/v1/species/12216846
+LIBSRC-LIB50-ENT-BIO-0982244,scientific_identity,Anthostomella livistonae,https://api.gbif.org/v1/species/3461371
+LIBSRC-LIB50-ENT-BIO-0982244,taxon_authority,Girz.,https://api.gbif.org/v1/species/3461371
+LIBSRC-LIB50-ENT-BIO-0981264,scientific_identity,Ascotricha novae-caledoniae,https://api.gbif.org/v1/species/2576260
+LIBSRC-LIB50-ENT-BIO-0981264,taxon_authority,"Udagawa, Uchiy. & Kamiya",https://api.gbif.org/v1/species/2576260
+LIBSRC-LIB50-ENT-BIO-0982134,scientific_identity,Anthostomella lophirae,https://api.gbif.org/v1/species/3461391
+LIBSRC-LIB50-ENT-BIO-0982134,taxon_authority,C.Ciccar.,https://api.gbif.org/v1/species/3461391
+LIBSRC-LIB50-ENT-BIO-0982974,scientific_identity,Astrocystis concavispora,https://api.gbif.org/v1/species/8059739
+LIBSRC-LIB50-ENT-BIO-0982974,taxon_authority,"Daranag., Camporesi & K.D.Hyde",https://api.gbif.org/v1/species/8059739
+LIBSRC-LIB50-ENT-BIO-0982324,scientific_identity,Anthostomella eucalypti,https://api.gbif.org/v1/species/3461265
+LIBSRC-LIB50-ENT-BIO-0982324,taxon_authority,H.Y.Yip,https://api.gbif.org/v1/species/3461265
+LIBSRC-LIB50-ENT-BIO-0980444,scientific_identity,Nemania kellermanii,https://api.gbif.org/v1/species/2576354
+LIBSRC-LIB50-ENT-BIO-0980444,taxon_authority,(Rehm) Y.M.Ju & J.D.Rogers,https://api.gbif.org/v1/species/2576354
+LIBSRC-LIB50-ENT-BIO-0983014,scientific_identity,Astrocystis pseudomirabilis,https://api.gbif.org/v1/species/12173369
+LIBSRC-LIB50-ENT-BIO-0983014,taxon_authority,Y.P.Wu & Q.R.Li,https://api.gbif.org/v1/species/12173369
+LIBSRC-LIB50-ENT-BIO-0981284,scientific_identity,Ascotricha xylina,https://api.gbif.org/v1/species/2576262
+LIBSRC-LIB50-ENT-BIO-0981284,taxon_authority,L.M.Ames,https://api.gbif.org/v1/species/2576262
+LIBSRC-LIB50-ENT-BIO-0982394,scientific_identity,Anthostomella punctulata,https://api.gbif.org/v1/species/2577338
+LIBSRC-LIB50-ENT-BIO-0982394,taxon_authority,(Roberge ex Desm.) Sacc.,https://api.gbif.org/v1/species/2577338
+LIBSRC-LIB50-ENT-BIO-0980144,scientific_identity,Hypocopra parvula,https://api.gbif.org/v1/species/2576618
+LIBSRC-LIB50-ENT-BIO-0980144,taxon_authority,Griffiths,https://api.gbif.org/v1/species/2576618
+LIBSRC-LIB50-ENT-BIO-0982234,scientific_identity,Anthostomella monthadoi,https://api.gbif.org/v1/species/3461247
+LIBSRC-LIB50-ENT-BIO-0982234,taxon_authority,Promp.,https://api.gbif.org/v1/species/3461247
+LIBSRC-LIB50-ENT-BIO-0981294,scientific_identity,Ascotricha erinacea,https://api.gbif.org/v1/species/2576256
+LIBSRC-LIB50-ENT-BIO-0981294,taxon_authority,Zambett.,https://api.gbif.org/v1/species/2576256
+LIBSRC-LIB50-ENT-BIO-0981324,scientific_identity,Ascotricha ellisiana,https://api.gbif.org/v1/species/3459834
+LIBSRC-LIB50-ENT-BIO-0981324,taxon_authority,(Sacc. & P.Syd.) D.Hawksw.,https://api.gbif.org/v1/species/3459834
+LIBSRC-LIB50-ENT-BIO-0983614,scientific_identity,Sphaeria nebularis,https://api.gbif.org/v1/species/6096464
+LIBSRC-LIB50-ENT-BIO-0983614,taxon_authority,Sphaerella,https://api.gbif.org/v1/species/6096464
+LIBSRC-LIB50-ENT-BIO-0982414,scientific_identity,Anthostomella nannorrhopis,https://api.gbif.org/v1/species/2577330
+LIBSRC-LIB50-ENT-BIO-0982414,taxon_authority,(S.Ahmad) K.D.Hyde,https://api.gbif.org/v1/species/2577330
+LIBSRC-LIB50-ENT-BIO-0982114,scientific_identity,Anthostomella infernale,https://api.gbif.org/v1/species/10240839
+LIBSRC-LIB50-ENT-BIO-0982114,taxon_authority,Fabre,https://api.gbif.org/v1/species/10240839
+LIBSRC-LIB50-ENT-BIO-0982344,scientific_identity,Anthostomella hinoana,https://api.gbif.org/v1/species/3461401
+LIBSRC-LIB50-ENT-BIO-0982344,taxon_authority,Katum.,https://api.gbif.org/v1/species/3461401
+LIBSRC-LIB50-ENT-BIO-0961354,scientific_identity,Armatella cinnamomi,https://api.gbif.org/v1/species/3523678
+LIBSRC-LIB50-ENT-BIO-0961354,taxon_authority,Hansf. & Thirum.,https://api.gbif.org/v1/species/3523678
+LIBSRC-LIB50-ENT-BIO-0981034,scientific_identity,Sclerotium uvae,https://api.gbif.org/v1/species/3313883
+LIBSRC-LIB50-ENT-BIO-0981034,taxon_authority,Desm.,https://api.gbif.org/v1/species/3313883
+LIBSRC-LIB50-ENT-BIO-0981024,scientific_identity,Sclerotium quercigenum,https://api.gbif.org/v1/species/3313873
+LIBSRC-LIB50-ENT-BIO-0981024,taxon_authority,Berk.,https://api.gbif.org/v1/species/3313873
+LIBSRC-LIB50-ENT-BIO-0981014,scientific_identity,Sclerotium maculare,https://api.gbif.org/v1/species/7238710
+LIBSRC-LIB50-ENT-BIO-0981014,taxon_authority,Fr.,https://api.gbif.org/v1/species/7238710
+LIBSRC-LIB50-ENT-BIO-0981004,scientific_identity,Sclerotium compactum,https://api.gbif.org/v1/species/6014293
+LIBSRC-LIB50-ENT-BIO-0981004,taxon_authority,"DC., 1815",https://api.gbif.org/v1/species/6014293
+LIBSRC-LIB50-ENT-BIO-0969394,scientific_identity,Lophodermium irregulare,https://api.gbif.org/v1/species/2579601
+LIBSRC-LIB50-ENT-BIO-0969394,taxon_authority,P.R.Johnst.,https://api.gbif.org/v1/species/2579601
+LIBSRC-LIB50-ENT-BIO-0964624,scientific_identity,Nitzschia laevissima,https://api.gbif.org/v1/species/7556938
+LIBSRC-LIB50-ENT-BIO-0964624,taxon_authority,"Grunow, 1883",https://api.gbif.org/v1/species/7556938
+LIBSRC-LIB50-ENT-BIO-0966634,scientific_identity,Adlafia lamdongiensis,https://api.gbif.org/v1/species/10728347
+LIBSRC-LIB50-ENT-BIO-0966634,taxon_authority,"Glushch., Kulik. & Kociolek, 2020",https://api.gbif.org/v1/species/10728347
+LIBSRC-LIB50-ENT-BIO-0970644,scientific_identity,Placogeia ovatocapitata,https://api.gbif.org/v1/species/9377335
+LIBSRC-LIB50-ENT-BIO-0970644,taxon_authority,"G.V.Pomazkina & L.N.Bukhtiyarova, 2013",https://api.gbif.org/v1/species/9377335
+LIBSRC-LIB50-ENT-BIO-0972334,scientific_identity,Muelleria terrestris,https://api.gbif.org/v1/species/7651505
+LIBSRC-LIB50-ENT-BIO-0972334,taxon_authority,"(J.B.Petersen) S.A.Spaulding & E.F.Stoermer, 1997",https://api.gbif.org/v1/species/7651505
+LIBSRC-LIB50-ENT-BIO-0969814,scientific_identity,Caloneis allorgei,https://api.gbif.org/v1/species/8425020
+LIBSRC-LIB50-ENT-BIO-0969814,taxon_authority,"Manguin, 1941",https://api.gbif.org/v1/species/8425020
+LIBSRC-LIB50-ENT-BIO-0959534,scientific_identity,Hantzschia borivliana,https://api.gbif.org/v1/species/9502190
+LIBSRC-LIB50-ENT-BIO-0959534,taxon_authority,"Gandhi, 1961",https://api.gbif.org/v1/species/9502190
+LIBSRC-LIB50-ENT-BIO-0975874,scientific_identity,Navicula pseudodispersa,https://api.gbif.org/v1/species/7528667
+LIBSRC-LIB50-ENT-BIO-0975874,taxon_authority,"Schrader, 1969",https://api.gbif.org/v1/species/7528667
+LIBSRC-LIB50-ENT-BIO-0969654,scientific_identity,Pulchella sergejii,https://api.gbif.org/v1/species/8026998
+LIBSRC-LIB50-ENT-BIO-0969654,taxon_authority,"M.S.Kulikovskiy, H.Lange-Bertalot & D.Metzeltin, 2012",https://api.gbif.org/v1/species/8026998
+LIBSRC-LIB50-ENT-BIO-0978144,scientific_identity,Navicula freesei,https://api.gbif.org/v1/species/8007280
+LIBSRC-LIB50-ENT-BIO-0978144,taxon_authority,Patrick & Freese,https://api.gbif.org/v1/species/8007280
+LIBSRC-LIB50-ENT-BIO-0969414,scientific_identity,Lophodermium rubicola,https://api.gbif.org/v1/species/3305154
+LIBSRC-LIB50-ENT-BIO-0969414,taxon_authority,Earle,https://api.gbif.org/v1/species/3305154
+LIBSRC-LIB50-ENT-BIO-0977064,scientific_identity,Navicula jordani,https://api.gbif.org/v1/species/7858688
+LIBSRC-LIB50-ENT-BIO-0977064,taxon_authority,"Ehrenberg, 1854",https://api.gbif.org/v1/species/7858688
+LIBSRC-LIB50-ENT-BIO-0982274,scientific_identity,Anthostomella myricae,https://api.gbif.org/v1/species/2577343
+LIBSRC-LIB50-ENT-BIO-0982274,taxon_authority,Grove,https://api.gbif.org/v1/species/2577343
+LIBSRC-LIB50-ENT-BIO-0954874,scientific_identity,Tuber lijiangense,https://api.gbif.org/v1/species/7437927
+LIBSRC-LIB50-ENT-BIO-0954874,taxon_authority,L.Fan & J.Z.Cao,https://api.gbif.org/v1/species/7437927
+LIBSRC-LIB50-ENT-BIO-0976184,scientific_identity,Navicula senonquei,https://api.gbif.org/v1/species/7964080
+LIBSRC-LIB50-ENT-BIO-0976184,taxon_authority,"M.Peragallo, 1921",https://api.gbif.org/v1/species/7964080
+LIBSRC-LIB50-ENT-BIO-0969504,scientific_identity,Lophodermium resinosum,https://api.gbif.org/v1/species/10821759
+LIBSRC-LIB50-ENT-BIO-0969504,taxon_authority,Tanney & Seifert,https://api.gbif.org/v1/species/10821759
+LIBSRC-LIB50-ENT-BIO-0961034,scientific_identity,Helvella neopallescens,https://api.gbif.org/v1/species/12220000
+LIBSRC-LIB50-ENT-BIO-0961034,taxon_authority,Skrede & T.Schumach.,https://api.gbif.org/v1/species/12220000
+LIBSRC-LIB50-ENT-BIO-0955044,scientific_identity,Tuber moravicum,https://api.gbif.org/v1/species/5499463
+LIBSRC-LIB50-ENT-BIO-0955044,taxon_authority,Velen.,https://api.gbif.org/v1/species/5499463
+LIBSRC-LIB50-ENT-BIO-0963754,scientific_identity,Nitzschia princeps,https://api.gbif.org/v1/species/7974694
+LIBSRC-LIB50-ENT-BIO-0963754,taxon_authority,"Hanna & Grant, 1926",https://api.gbif.org/v1/species/7974694
+LIBSRC-LIB50-ENT-BIO-0983024,scientific_identity,Astrocystis rachidis,https://api.gbif.org/v1/species/2576856
+LIBSRC-LIB50-ENT-BIO-0983024,taxon_authority,(Pat.) K.D.Hyde & J.Fröhl.,https://api.gbif.org/v1/species/2576856
+LIBSRC-LIB50-ENT-BIO-0970774,scientific_identity,Therrya piceae,https://api.gbif.org/v1/species/2579464
+LIBSRC-LIB50-ENT-BIO-0970774,taxon_authority,A.Funk,https://api.gbif.org/v1/species/2579464
+LIBSRC-LIB50-ENT-BIO-0975764,scientific_identity,Navicula robertsoniana,https://api.gbif.org/v1/species/9274982
+LIBSRC-LIB50-ENT-BIO-0975294,scientific_identity,Navicula trigibba,https://api.gbif.org/v1/species/7587217
+LIBSRC-LIB50-ENT-BIO-0975294,taxon_authority,"Lacsny, 1916",https://api.gbif.org/v1/species/7587217
+LIBSRC-LIB50-ENT-BIO-0978944,scientific_identity,Navicula streckerae,https://api.gbif.org/v1/species/5270322
+LIBSRC-LIB50-ENT-BIO-0978944,taxon_authority,Lange-Bertalot & Witkowski,https://api.gbif.org/v1/species/5270322
+LIBSRC-LIB50-ENT-BIO-0959544,scientific_identity,Hantzschia pseudobardii,https://api.gbif.org/v1/species/9612797
+LIBSRC-LIB50-ENT-BIO-0959544,taxon_authority,"You & Kociolek, 2015",https://api.gbif.org/v1/species/9612797
+LIBSRC-LIB50-ENT-BIO-0979604,scientific_identity,Naviculadicta tomesii,https://api.gbif.org/v1/species/7572714
+LIBSRC-LIB50-ENT-BIO-0979604,taxon_authority,"Gerd Moser, 1998",https://api.gbif.org/v1/species/7572714
+LIBSRC-LIB50-ENT-BIO-0975474,scientific_identity,Navicula delecta,https://api.gbif.org/v1/species/7348874
+LIBSRC-LIB50-ENT-BIO-0975474,taxon_authority,"Meister, 1937",https://api.gbif.org/v1/species/7348874
+LIBSRC-LIB50-ENT-BIO-0980714,scientific_identity,Paranthostomella microspora,https://api.gbif.org/v1/species/3555433
+LIBSRC-LIB50-ENT-BIO-0980714,taxon_authority,E.K.Cash & A.M.J.Watson,https://api.gbif.org/v1/species/3555433
+LIBSRC-LIB50-ENT-BIO-0974654,scientific_identity,Navicula frigidicola,https://api.gbif.org/v1/species/8983230
+LIBSRC-LIB50-ENT-BIO-0974654,taxon_authority,"D.Metzeltin, H.Lange-Bertalot & S.Nergui, 2009",https://api.gbif.org/v1/species/8983230
+LIBSRC-LIB50-ENT-BIO-0974944,scientific_identity,Navicula baddensis,https://api.gbif.org/v1/species/9634333
+LIBSRC-LIB50-ENT-BIO-0974944,taxon_authority,"Gasse, 1978",https://api.gbif.org/v1/species/9634333
+LIBSRC-LIB50-ENT-BIO-0974254,scientific_identity,Navicula cocquytiae,https://api.gbif.org/v1/species/7544626
+LIBSRC-LIB50-ENT-BIO-0974254,taxon_authority,"Z.Levkov & T.Nakov, 2007",https://api.gbif.org/v1/species/7544626
+LIBSRC-LIB50-ENT-BIO-0975794,scientific_identity,Navicula ortolanae,https://api.gbif.org/v1/species/7613787
+LIBSRC-LIB50-ENT-BIO-0975794,taxon_authority,"Hanna & Grant, 1926",https://api.gbif.org/v1/species/7613787
+LIBSRC-LIB50-ENT-BIO-0979854,scientific_identity,Pseudogomphonema kamschaticum,https://api.gbif.org/v1/species/11148585
+LIBSRC-LIB50-ENT-BIO-0979854,taxon_authority,"(Grunow) Medlin, 1986",https://api.gbif.org/v1/species/11148585
+LIBSRC-LIB50-ENT-BIO-0970554,scientific_identity,Placogeia feroundii,https://api.gbif.org/v1/species/9583462
+LIBSRC-LIB50-ENT-BIO-0970554,taxon_authority,"L.N.Bukhtiyarova & G.V.Pomazkina C, 2013",https://api.gbif.org/v1/species/9583462
+LIBSRC-LIB50-ENT-BIO-0974574,scientific_identity,Navicula confecta,https://api.gbif.org/v1/species/8069691
+LIBSRC-LIB50-ENT-BIO-0974574,taxon_authority,"A.Schmidt, 1875",https://api.gbif.org/v1/species/8069691
+LIBSRC-LIB50-ENT-BIO-0983524,scientific_identity,Hindakochloris planktonica,https://api.gbif.org/v1/species/2640598
+LIBSRC-LIB50-ENT-BIO-0983524,taxon_authority,(Fott) Comas,https://api.gbif.org/v1/species/2640598
+LIBSRC-LIB50-ENT-BIO-0965234,scientific_identity,Ophidocampa quindenaria,https://api.gbif.org/v1/species/9238924
+LIBSRC-LIB50-ENT-BIO-0965234,taxon_authority,"Ehrenberg, 1870",https://api.gbif.org/v1/species/9238924
+LIBSRC-LIB50-ENT-BIO-0969884,scientific_identity,Caloneis schumanniana,https://api.gbif.org/v1/species/8105003
+LIBSRC-LIB50-ENT-BIO-0969884,taxon_authority,"(Grunow) Cleve, 1894",https://api.gbif.org/v1/species/8105003
+LIBSRC-LIB50-ENT-BIO-0964014,scientific_identity,Nitzschia pseudoamphioxoides,https://api.gbif.org/v1/species/7802666
+LIBSRC-LIB50-ENT-BIO-0964014,taxon_authority,"Gandhi, 1964",https://api.gbif.org/v1/species/7802666
+LIBSRC-LIB50-ENT-BIO-0975564,scientific_identity,Navicula speibonae,https://api.gbif.org/v1/species/8376320
+LIBSRC-LIB50-ENT-BIO-0975564,taxon_authority,"Giffen, 1970",https://api.gbif.org/v1/species/8376320
+LIBSRC-LIB50-ENT-BIO-0975584,scientific_identity,Navicula lunula,https://api.gbif.org/v1/species/7610182
+LIBSRC-LIB50-ENT-BIO-0975584,taxon_authority,"Cleve, 1894",https://api.gbif.org/v1/species/7610182
+LIBSRC-LIB50-ENT-BIO-0966504,scientific_identity,Cytospora sassafrasicola,https://api.gbif.org/v1/species/3446443
+LIBSRC-LIB50-ENT-BIO-0966504,taxon_authority,Tehon & E.Y.Daniels,https://api.gbif.org/v1/species/3446443
+LIBSRC-LIB50-ENT-BIO-0976524,scientific_identity,Navicula navigans,https://api.gbif.org/v1/species/9495381
+LIBSRC-LIB50-ENT-BIO-0976524,taxon_authority,"Brun, 1892",https://api.gbif.org/v1/species/9495381
+LIBSRC-LIB50-ENT-BIO-0964744,scientific_identity,Nitzschia mediocris,https://api.gbif.org/v1/species/7589123
+LIBSRC-LIB50-ENT-BIO-0964744,taxon_authority,"Hustedt, 1949",https://api.gbif.org/v1/species/7589123
+LIBSRC-LIB50-ENT-BIO-0976704,scientific_identity,Navicula izsopallagae,https://api.gbif.org/v1/species/8202361
+LIBSRC-LIB50-ENT-BIO-0976704,taxon_authority,"Heiden, 1905",https://api.gbif.org/v1/species/8202361
+LIBSRC-LIB50-ENT-BIO-0976904,scientific_identity,Navicula guetharyana,https://api.gbif.org/v1/species/8153592
+LIBSRC-LIB50-ENT-BIO-0976904,taxon_authority,"Fusey, 1953",https://api.gbif.org/v1/species/8153592
+LIBSRC-LIB50-ENT-BIO-0976424,scientific_identity,Navicula subcingulata,https://api.gbif.org/v1/species/8056380
+LIBSRC-LIB50-ENT-BIO-0976424,taxon_authority,"Cholnoky, 1963",https://api.gbif.org/v1/species/8056380
+LIBSRC-LIB50-ENT-BIO-0959514,scientific_identity,Hantzschia voigtii,https://api.gbif.org/v1/species/9257882
+LIBSRC-LIB50-ENT-BIO-0959514,taxon_authority,"Gandhi, 1959",https://api.gbif.org/v1/species/9257882
+LIBSRC-LIB50-ENT-BIO-0974374,scientific_identity,Navicula ingustata,https://api.gbif.org/v1/species/7951473
+LIBSRC-LIB50-ENT-BIO-0974374,taxon_authority,"Cholnoky, 1962",https://api.gbif.org/v1/species/7951473
+LIBSRC-LIB50-ENT-BIO-0974704,scientific_identity,Navicula surirella,https://api.gbif.org/v1/species/9397895
+LIBSRC-LIB50-ENT-BIO-0974704,taxon_authority,"Ehrenberg, 1881",https://api.gbif.org/v1/species/9397895
+LIBSRC-LIB50-ENT-BIO-0959164,scientific_identity,Chrysochromulina brachycylindra,https://api.gbif.org/v1/species/6540127
+LIBSRC-LIB50-ENT-BIO-0959164,taxon_authority,S.Hällfors & Thomsen,https://api.gbif.org/v1/species/6540127
+LIBSRC-LIB50-ENT-BIO-0964114,scientific_identity,Nitzschia spirilliformis,https://api.gbif.org/v1/species/9279021
+LIBSRC-LIB50-ENT-BIO-0964114,taxon_authority,"Kufferath, 1956",https://api.gbif.org/v1/species/9279021
+LIBSRC-LIB50-ENT-BIO-0977784,scientific_identity,Chamaepinnularia taihangensis,https://api.gbif.org/v1/species/12180144
+LIBSRC-LIB50-ENT-BIO-0977784,taxon_authority,"N.N.Cui & Q.Liu, 2023",https://api.gbif.org/v1/species/12180144
+LIBSRC-LIB50-ENT-BIO-0974154,scientific_identity,Navicula planamembranacea,https://api.gbif.org/v1/species/8151354
+LIBSRC-LIB50-ENT-BIO-0974154,taxon_authority,"Hendey, 1964",https://api.gbif.org/v1/species/8151354
+LIBSRC-LIB50-ENT-BIO-0968944,scientific_identity,Coccomyces clementsiorum,https://api.gbif.org/v1/species/3481450
+LIBSRC-LIB50-ENT-BIO-0968944,taxon_authority,Magnes,https://api.gbif.org/v1/species/3481450
+LIBSRC-LIB50-ENT-BIO-0964374,scientific_identity,Nitzschia incolor,https://api.gbif.org/v1/species/9295168
+LIBSRC-LIB50-ENT-BIO-0964374,taxon_authority,"Mereschkowsky, 1902",https://api.gbif.org/v1/species/9295168
+LIBSRC-LIB50-ENT-BIO-0954864,scientific_identity,Tuber magnatum,https://api.gbif.org/v1/species/5258456
+LIBSRC-LIB50-ENT-BIO-0954864,taxon_authority,Picco,https://api.gbif.org/v1/species/5258456
+LIBSRC-LIB50-ENT-BIO-0958384,scientific_identity,Bacillaria conjugata,https://api.gbif.org/v1/species/8304199
+LIBSRC-LIB50-ENT-BIO-0958384,taxon_authority,"P.J.F.Turpin, 1828",https://api.gbif.org/v1/species/8304199
+LIBSRC-LIB50-ENT-BIO-0976044,scientific_identity,Navicula funiculata,https://api.gbif.org/v1/species/8413827
+LIBSRC-LIB50-ENT-BIO-0976044,taxon_authority,"Mann, 1925",https://api.gbif.org/v1/species/8413827
+LIBSRC-LIB50-ENT-BIO-0973984,scientific_identity,Geissleria pseudoshanaga,https://api.gbif.org/v1/species/7454815
+LIBSRC-LIB50-ENT-BIO-0973984,taxon_authority,"Kulikovskiy, Lange-Bertalot & Metzeltin, 2012",https://api.gbif.org/v1/species/7454815
+LIBSRC-LIB50-ENT-BIO-0958374,scientific_identity,Bacillaria militaris,https://api.gbif.org/v1/species/7981378
+LIBSRC-LIB50-ENT-BIO-0958374,taxon_authority,"Hobson, 1869",https://api.gbif.org/v1/species/7981378
+LIBSRC-LIB50-ENT-BIO-0956734,scientific_identity,Hydrophilomyces reflexus,https://api.gbif.org/v1/species/3440830
+LIBSRC-LIB50-ENT-BIO-0956734,taxon_authority,(Thaxt.) Thaxt.,https://api.gbif.org/v1/species/3440830
+LIBSRC-LIB50-ENT-BIO-0974474,scientific_identity,Navicula gutvinskii,https://api.gbif.org/v1/species/9241023
+LIBSRC-LIB50-ENT-BIO-0974474,taxon_authority,"Pantocsek, 1892",https://api.gbif.org/v1/species/9241023
+LIBSRC-LIB50-ENT-BIO-0977014,scientific_identity,Navicula plitvicensis,https://api.gbif.org/v1/species/7844005
+LIBSRC-LIB50-ENT-BIO-0977014,taxon_authority,"Hustedt, 1945",https://api.gbif.org/v1/species/7844005
+LIBSRC-LIB50-ENT-BIO-0963974,scientific_identity,Nitzschia multistriata,https://api.gbif.org/v1/species/7491111
+LIBSRC-LIB50-ENT-BIO-0963974,taxon_authority,"Takano, 1993",https://api.gbif.org/v1/species/7491111
+LIBSRC-LIB50-ENT-BIO-0968664,scientific_identity,Nupela praecipuoides,https://api.gbif.org/v1/species/9813230
+LIBSRC-LIB50-ENT-BIO-0968664,taxon_authority,"P.Tremarin & T.Ludwig, 2015",https://api.gbif.org/v1/species/9813230
+LIBSRC-LIB50-ENT-BIO-0982384,scientific_identity,Anthostomella argentinensis,https://api.gbif.org/v1/species/3461443
+LIBSRC-LIB50-ENT-BIO-0982384,taxon_authority,(Speg.) Petr. & Syd.,https://api.gbif.org/v1/species/3461443
+LIBSRC-LIB50-ENT-BIO-0968954,scientific_identity,Coccomyces arctostaphyli,https://api.gbif.org/v1/species/2579298
+LIBSRC-LIB50-ENT-BIO-0968954,taxon_authority,(Rehm) B.Erikss.,https://api.gbif.org/v1/species/2579298
+LIBSRC-LIB50-ENT-BIO-0978974,scientific_identity,Navicula normaloides,https://api.gbif.org/v1/species/8005013
+LIBSRC-LIB50-ENT-BIO-0978974,taxon_authority,Cholnoky,https://api.gbif.org/v1/species/8005013
+LIBSRC-LIB50-ENT-BIO-0968714,scientific_identity,Nupela marvanii,https://api.gbif.org/v1/species/8273895
+LIBSRC-LIB50-ENT-BIO-0968714,taxon_authority,"A.Wojtal, 2009",https://api.gbif.org/v1/species/8273895
+LIBSRC-LIB50-ENT-BIO-0975354,scientific_identity,Navicula maeandrinoides,https://api.gbif.org/v1/species/7750915
+LIBSRC-LIB50-ENT-BIO-0975354,taxon_authority,"Hustedt, 1930",https://api.gbif.org/v1/species/7750915
+LIBSRC-LIB50-ENT-BIO-0975974,scientific_identity,Navicula marginopunctata,https://api.gbif.org/v1/species/9305315
+LIBSRC-LIB50-ENT-BIO-0975974,taxon_authority,"Grove & Sturt, 1887",https://api.gbif.org/v1/species/9305315
+LIBSRC-LIB50-ENT-BIO-0973014,scientific_identity,Valsa tenella,https://api.gbif.org/v1/species/5482039
+LIBSRC-LIB50-ENT-BIO-0973014,taxon_authority,Fabre,https://api.gbif.org/v1/species/5482039
+LIBSRC-LIB50-ENT-BIO-0975494,scientific_identity,Navicula arcus,https://api.gbif.org/v1/species/8090127
+LIBSRC-LIB50-ENT-BIO-0975494,taxon_authority,"Ehrenberg, 1836",https://api.gbif.org/v1/species/8090127
+LIBSRC-LIB50-ENT-BIO-0972354,scientific_identity,Cymatoneis margarita,https://api.gbif.org/v1/species/7711554
+LIBSRC-LIB50-ENT-BIO-0972354,taxon_authority,"A.Witkowski, 2000",https://api.gbif.org/v1/species/7711554
+LIBSRC-LIB50-ENT-BIO-0970314,scientific_identity,Trachyneis antarctica,https://api.gbif.org/v1/species/9474761
+LIBSRC-LIB50-ENT-BIO-0970314,taxon_authority,"Heiden & Kolbe, 1928",https://api.gbif.org/v1/species/9474761
+LIBSRC-LIB50-ENT-BIO-0964064,scientific_identity,Nitzschia schauinslandi,https://api.gbif.org/v1/species/9173213
+LIBSRC-LIB50-ENT-BIO-0964064,taxon_authority,"Hustedt, 1922",https://api.gbif.org/v1/species/9173213
+LIBSRC-LIB50-ENT-BIO-0955884,scientific_identity,Labyrinthomyces steenisii,https://api.gbif.org/v1/species/3495227
+LIBSRC-LIB50-ENT-BIO-0955884,taxon_authority,Boedijn,https://api.gbif.org/v1/species/3495227
+LIBSRC-LIB50-ENT-BIO-0974184,scientific_identity,Navicula dehissa,https://api.gbif.org/v1/species/7845355
+LIBSRC-LIB50-ENT-BIO-0974184,taxon_authority,"Giffen, 1973",https://api.gbif.org/v1/species/7845355
+LIBSRC-LIB50-ENT-BIO-0978804,scientific_identity,Navicula gregaria,https://api.gbif.org/v1/species/5269292
+LIBSRC-LIB50-ENT-BIO-0978804,taxon_authority,Donkin,https://api.gbif.org/v1/species/5269292
+LIBSRC-LIB50-ENT-BIO-0976924,scientific_identity,Navicula fragilis,https://api.gbif.org/v1/species/8104951
+LIBSRC-LIB50-ENT-BIO-0976924,taxon_authority,"Skvortzow & Meyer, 1928",https://api.gbif.org/v1/species/8104951
+LIBSRC-LIB50-ENT-BIO-0972994,scientific_identity,Valsa rhizophila,https://api.gbif.org/v1/species/5481996
+LIBSRC-LIB50-ENT-BIO-0972994,taxon_authority,Nitschke,https://api.gbif.org/v1/species/5481996
+LIBSRC-LIB50-ENT-BIO-0964354,scientific_identity,Nitzschia vixnegligenda,https://api.gbif.org/v1/species/8051602
+LIBSRC-LIB50-ENT-BIO-0964354,taxon_authority,"H.Lange-Bertalot & G.Hoffmann, 2000",https://api.gbif.org/v1/species/8051602
+LIBSRC-LIB50-ENT-BIO-0969614,scientific_identity,Caloneis holarctica,https://api.gbif.org/v1/species/8037386
+LIBSRC-LIB50-ENT-BIO-0969614,taxon_authority,"M.S.Kulikovskiy, H.Lange-Bertalot & A.Witkowski, 2010",https://api.gbif.org/v1/species/8037386
+LIBSRC-LIB50-ENT-BIO-0972194,scientific_identity,Muelleria algida,https://api.gbif.org/v1/species/7455795
+LIBSRC-LIB50-ENT-BIO-0972194,taxon_authority,"S.A.Spaulding & J.P.Kociolek, 1999",https://api.gbif.org/v1/species/7455795
+LIBSRC-LIB50-ENT-BIO-0975454,scientific_identity,Navicula hugenottarum,https://api.gbif.org/v1/species/7943222
+LIBSRC-LIB50-ENT-BIO-0975454,taxon_authority,"Cholnoky, 1959",https://api.gbif.org/v1/species/7943222
+LIBSRC-LIB50-ENT-BIO-0977754,scientific_identity,Mayamaea josefelsteri,https://api.gbif.org/v1/species/7913979
+LIBSRC-LIB50-ENT-BIO-0977754,taxon_authority,"K.Kopalová, L.Nedbalová & B.van de Vijver, 2013",https://api.gbif.org/v1/species/7913979
+LIBSRC-LIB50-ENT-BIO-0959554,scientific_identity,Hantzschia anguis,https://api.gbif.org/v1/species/5265896
+LIBSRC-LIB50-ENT-BIO-0959554,taxon_authority,"Lange-Bertalot, 2003",https://api.gbif.org/v1/species/5265896
+LIBSRC-LIB50-ENT-BIO-0972904,scientific_identity,Valsa flacourtiae,https://api.gbif.org/v1/species/5482150
+LIBSRC-LIB50-ENT-BIO-0972904,taxon_authority,Pat.,https://api.gbif.org/v1/species/5482150
+LIBSRC-LIB50-ENT-BIO-0964294,scientific_identity,Nitzschia cylindrica,https://api.gbif.org/v1/species/9294213
+LIBSRC-LIB50-ENT-BIO-0964294,taxon_authority,"Burckle, 1972",https://api.gbif.org/v1/species/9294213
+LIBSRC-LIB50-ENT-BIO-0974304,scientific_identity,Navicula hummii,https://api.gbif.org/v1/species/7764437
+LIBSRC-LIB50-ENT-BIO-0974304,taxon_authority,"Hustedt, 1955",https://api.gbif.org/v1/species/7764437
+LIBSRC-LIB50-ENT-BIO-0964894,scientific_identity,Nitzschia levandensis,https://api.gbif.org/v1/species/9404370
+LIBSRC-LIB50-ENT-BIO-0975654,scientific_identity,Navicula minima,https://api.gbif.org/v1/species/8056686
+LIBSRC-LIB50-ENT-BIO-0975654,taxon_authority,"Grunow, 1880",https://api.gbif.org/v1/species/8056686
+LIBSRC-LIB50-ENT-BIO-0976504,scientific_identity,Navicula truncatula,https://api.gbif.org/v1/species/7882672
+LIBSRC-LIB50-ENT-BIO-0976504,taxon_authority,"Hustedt, 1966",https://api.gbif.org/v1/species/7882672
+LIBSRC-LIB50-ENT-BIO-0979544,scientific_identity,Stauroptera platycephala,https://api.gbif.org/v1/species/7847191
+LIBSRC-LIB50-ENT-BIO-0979544,taxon_authority,"Ehrenberg, 1854",https://api.gbif.org/v1/species/7847191
+LIBSRC-LIB50-ENT-BIO-0978414,scientific_identity,Navicula terrestris,https://api.gbif.org/v1/species/8119776
+LIBSRC-LIB50-ENT-BIO-0976834,scientific_identity,Navicula aurangabadensis,https://api.gbif.org/v1/species/7991165
+LIBSRC-LIB50-ENT-BIO-0976834,taxon_authority,"Sarode & Kamat, 1984",https://api.gbif.org/v1/species/7991165
+LIBSRC-LIB50-ENT-BIO-0956604,scientific_identity,Corethromyces palumboi,https://api.gbif.org/v1/species/8341821
+LIBSRC-LIB50-ENT-BIO-0956604,taxon_authority,W.Rossi,https://api.gbif.org/v1/species/8341821
+LIBSRC-LIB50-ENT-BIO-0978524,scientific_identity,Navicula alaskana,https://api.gbif.org/v1/species/7415210
+LIBSRC-LIB50-ENT-BIO-0978524,taxon_authority,Patrick & Freese,https://api.gbif.org/v1/species/7415210
+LIBSRC-LIB50-ENT-BIO-0982424,scientific_identity,Anthostomella clypeata,https://api.gbif.org/v1/species/2577334
+LIBSRC-LIB50-ENT-BIO-0982424,taxon_authority,(De Not.) Sacc.,https://api.gbif.org/v1/species/2577334
+LIBSRC-LIB50-ENT-BIO-0969034,scientific_identity,Coccomyces fodingshanensis,https://api.gbif.org/v1/species/12233146
+LIBSRC-LIB50-ENT-BIO-0969034,taxon_authority,"S.C.Pu, M.J.Guo & C.L.Hou",https://api.gbif.org/v1/species/12233146
+LIBSRC-LIB50-ENT-BIO-0978604,scientific_identity,Navicula wardii,https://api.gbif.org/v1/species/7947666
+LIBSRC-LIB50-ENT-BIO-0978604,taxon_authority,Patrick,https://api.gbif.org/v1/species/7947666
+LIBSRC-LIB50-ENT-BIO-0978864,scientific_identity,Navicula magnifica,https://api.gbif.org/v1/species/8085904
+LIBSRC-LIB50-ENT-BIO-0978864,taxon_authority,Hustedt,https://api.gbif.org/v1/species/8085904
+LIBSRC-LIB50-ENT-BIO-0976434,scientific_identity,Navicula petilina,https://api.gbif.org/v1/species/7600059
+LIBSRC-LIB50-ENT-BIO-0976434,taxon_authority,"Carter & Denny, 1982",https://api.gbif.org/v1/species/7600059
+LIBSRC-LIB50-ENT-BIO-0970724,scientific_identity,Haslea feriarum,https://api.gbif.org/v1/species/10141324
+LIBSRC-LIB50-ENT-BIO-0970724,taxon_authority,"Tiffany & Sterrenburg, 2015",https://api.gbif.org/v1/species/10141324
+LIBSRC-LIB50-ENT-BIO-0976394,scientific_identity,Navicula defluens,https://api.gbif.org/v1/species/7677863
+LIBSRC-LIB50-ENT-BIO-0976394,taxon_authority,"Hustedt, 1944",https://api.gbif.org/v1/species/7677863
+LIBSRC-LIB50-ENT-BIO-0975194,scientific_identity,Navicula lacunolaciniata,https://api.gbif.org/v1/species/7924832
+LIBSRC-LIB50-ENT-BIO-0975194,taxon_authority,"Lange-Bertalot & Bonik, 1976",https://api.gbif.org/v1/species/7924832
+LIBSRC-LIB50-ENT-BIO-0964174,scientific_identity,Nitzschia gruendleri,https://api.gbif.org/v1/species/8098682
+LIBSRC-LIB50-ENT-BIO-0964174,taxon_authority,Grunow,https://api.gbif.org/v1/species/8098682
+LIBSRC-LIB50-ENT-BIO-0961054,scientific_identity,Helvella macropus,https://api.gbif.org/v1/species/2594776
+LIBSRC-LIB50-ENT-BIO-0961054,taxon_authority,(Pers.) P.Karst.,https://api.gbif.org/v1/species/2594776
+LIBSRC-LIB50-ENT-BIO-0975964,scientific_identity,Navicula fallax,https://api.gbif.org/v1/species/7878962
+LIBSRC-LIB50-ENT-BIO-0975964,taxon_authority,"Cleve, 1894",https://api.gbif.org/v1/species/7878962
+LIBSRC-LIB50-ENT-BIO-0975144,scientific_identity,Navicula wuestii,https://api.gbif.org/v1/species/7542906
+LIBSRC-LIB50-ENT-BIO-0975144,taxon_authority,"R.Simonsen, 1959",https://api.gbif.org/v1/species/7542906
+LIBSRC-LIB50-ENT-BIO-0964944,scientific_identity,Nitzschia groenlandica,https://api.gbif.org/v1/species/7678655
+LIBSRC-LIB50-ENT-BIO-0964944,taxon_authority,"Østrup, 1897",https://api.gbif.org/v1/species/7678655
+LIBSRC-LIB50-ENT-BIO-0975634,scientific_identity,Navicula schilberszkyi,https://api.gbif.org/v1/species/7454228
+LIBSRC-LIB50-ENT-BIO-0975634,taxon_authority,Pantocsek,https://api.gbif.org/v1/species/7454228
+LIBSRC-LIB50-ENT-BIO-0979034,scientific_identity,Navicula elaphros,https://api.gbif.org/v1/species/8222883
+LIBSRC-LIB50-ENT-BIO-0979034,taxon_authority,Hohn & Hellerman,https://api.gbif.org/v1/species/8222883
+LIBSRC-LIB50-ENT-BIO-0981314,scientific_identity,Ascotricha sinuosae,https://api.gbif.org/v1/species/10815312
+LIBSRC-LIB50-ENT-BIO-0981314,taxon_authority,(Wei Li ter & X.L.Cheng) X.L.Cheng & Wei Li ter,https://api.gbif.org/v1/species/10815312
+LIBSRC-LIB50-ENT-BIO-0964104,scientific_identity,Nitzschia oregona,https://api.gbif.org/v1/species/9367155
+LIBSRC-LIB50-ENT-BIO-0964104,taxon_authority,"Sovereign, 1963",https://api.gbif.org/v1/species/9367155
+LIBSRC-LIB50-ENT-BIO-0964664,scientific_identity,Nitzschia contorta,https://api.gbif.org/v1/species/9234376
+LIBSRC-LIB50-ENT-BIO-0964664,taxon_authority,"Mereschkowsky, 1901",https://api.gbif.org/v1/species/9234376
+LIBSRC-LIB50-ENT-BIO-0964674,scientific_identity,Nitzschia terricola,https://api.gbif.org/v1/species/7743450
+LIBSRC-LIB50-ENT-BIO-0964674,taxon_authority,"Lund, 1946",https://api.gbif.org/v1/species/7743450
+LIBSRC-LIB50-ENT-BIO-0966424,scientific_identity,Cytospora durella,https://api.gbif.org/v1/species/3446730
+LIBSRC-LIB50-ENT-BIO-0966424,taxon_authority,Sacc.,https://api.gbif.org/v1/species/3446730
+LIBSRC-LIB50-ENT-BIO-0960844,scientific_identity,Helvella spinosospora,https://api.gbif.org/v1/species/7466186
+LIBSRC-LIB50-ENT-BIO-0960844,taxon_authority,Lucchini & Pellandini,https://api.gbif.org/v1/species/7466186
+LIBSRC-LIB50-ENT-BIO-0977134,scientific_identity,Navicula opiei,https://api.gbif.org/v1/species/9370770
+LIBSRC-LIB50-ENT-BIO-0977134,taxon_authority,"Manguin ex Kociolek & Reviers, 1996",https://api.gbif.org/v1/species/9370770
+LIBSRC-LIB50-ENT-BIO-0976084,scientific_identity,Navicula anenuta,https://api.gbif.org/v1/species/8355075
+LIBSRC-LIB50-ENT-BIO-0976084,taxon_authority,"Fusey, 1953",https://api.gbif.org/v1/species/8355075
+LIBSRC-LIB50-ENT-BIO-0976994,scientific_identity,Navicula hahni,https://api.gbif.org/v1/species/7753472
+LIBSRC-LIB50-ENT-BIO-0976994,taxon_authority,Petit,https://api.gbif.org/v1/species/7753472
+LIBSRC-LIB50-ENT-BIO-0966214,scientific_identity,Cytospora sambuci,https://api.gbif.org/v1/species/2566082
+LIBSRC-LIB50-ENT-BIO-0966214,taxon_authority,Died.,https://api.gbif.org/v1/species/2566082
+LIBSRC-LIB50-ENT-BIO-0974974,scientific_identity,Navicula bannajensis,https://api.gbif.org/v1/species/8307124
+LIBSRC-LIB50-ENT-BIO-0974974,taxon_authority,"Boye Petersen, 1946",https://api.gbif.org/v1/species/8307124
+LIBSRC-LIB50-ENT-BIO-0978814,scientific_identity,Navicula chyzerii,https://api.gbif.org/v1/species/7771502
+LIBSRC-LIB50-ENT-BIO-0978814,taxon_authority,Pantocsek,https://api.gbif.org/v1/species/7771502
+LIBSRC-LIB50-ENT-BIO-0964854,scientific_identity,Nitzschia aequalis,https://api.gbif.org/v1/species/8209107
+LIBSRC-LIB50-ENT-BIO-0964854,taxon_authority,"Hustedt, 1949",https://api.gbif.org/v1/species/8209107
+LIBSRC-LIB50-ENT-BIO-0974194,scientific_identity,Navicula complanatoides,https://api.gbif.org/v1/species/7694554
+LIBSRC-LIB50-ENT-BIO-0974194,taxon_authority,"Hustedt, 1987",https://api.gbif.org/v1/species/7694554
+LIBSRC-LIB50-ENT-BIO-0968554,scientific_identity,Tryblidiopsis sinensis,https://api.gbif.org/v1/species/7499515
+LIBSRC-LIB50-ENT-BIO-0968554,taxon_authority,"Shuang Wang, P.F.Cannon & C.L.Hou",https://api.gbif.org/v1/species/7499515
+LIBSRC-LIB50-ENT-BIO-0974404,scientific_identity,Navicula samoensis,https://api.gbif.org/v1/species/7912542
+LIBSRC-LIB50-ENT-BIO-0974404,taxon_authority,"Grunow, 1877",https://api.gbif.org/v1/species/7912542
+LIBSRC-LIB50-ENT-BIO-0975324,scientific_identity,Navicula contigua,https://api.gbif.org/v1/species/7432029
+LIBSRC-LIB50-ENT-BIO-0975324,taxon_authority,A.W.F.Schmidt,https://api.gbif.org/v1/species/7432029
+LIBSRC-LIB50-ENT-BIO-0975544,scientific_identity,Navicula pseudoglacialis,https://api.gbif.org/v1/species/8097376
+LIBSRC-LIB50-ENT-BIO-0955894,scientific_identity,Nanomyces perpendicularis,https://api.gbif.org/v1/species/2610625
+LIBSRC-LIB50-ENT-BIO-0955894,taxon_authority,Thaxt.,https://api.gbif.org/v1/species/2610625
+LIBSRC-LIB50-ENT-BIO-0977204,scientific_identity,Navicula garkeana,https://api.gbif.org/v1/species/8350719
+LIBSRC-LIB50-ENT-BIO-0977204,taxon_authority,"(Grunow) Cleve, 1894",https://api.gbif.org/v1/species/8350719
+LIBSRC-LIB50-ENT-BIO-0975664,scientific_identity,Navicula daczii,https://api.gbif.org/v1/species/9566509
+LIBSRC-LIB50-ENT-BIO-0975664,taxon_authority,"Gaponov, 1915",https://api.gbif.org/v1/species/9566509
+LIBSRC-LIB50-ENT-BIO-0978584,scientific_identity,Navicula swaniana,https://api.gbif.org/v1/species/7973134
+LIBSRC-LIB50-ENT-BIO-0978584,taxon_authority,Moghadam,https://api.gbif.org/v1/species/7973134
+LIBSRC-LIB50-ENT-BIO-0969714,scientific_identity,Caloneis gandhii,https://api.gbif.org/v1/species/9372712
+LIBSRC-LIB50-ENT-BIO-0969714,taxon_authority,"Singh, Nautiyal & Vimal, 1978",https://api.gbif.org/v1/species/9372712
+LIBSRC-LIB50-ENT-BIO-0976344,scientific_identity,Navicula caddoensis,https://api.gbif.org/v1/species/8058585
+LIBSRC-LIB50-ENT-BIO-0976344,taxon_authority,"Bond, 1968",https://api.gbif.org/v1/species/8058585
+LIBSRC-LIB50-ENT-BIO-0964434,scientific_identity,Nitzschia hassiaca,https://api.gbif.org/v1/species/7963707
+LIBSRC-LIB50-ENT-BIO-0964434,taxon_authority,"Krasske, 1932",https://api.gbif.org/v1/species/7963707
+LIBSRC-LIB50-ENT-BIO-0967104,scientific_identity,Terriera simplex,https://api.gbif.org/v1/species/7610454
+LIBSRC-LIB50-ENT-BIO-0967104,taxon_authority,"Y.R.Lin, X.M.Gao & C.T.Zheng",https://api.gbif.org/v1/species/7610454
+LIBSRC-LIB50-ENT-BIO-0962774,scientific_identity,Pseudo-nitzschia circumpora,https://api.gbif.org/v1/species/8060462
+LIBSRC-LIB50-ENT-BIO-0962774,taxon_authority,"H.C.Lim, C.P.Leaw & P.T.Lim, 2012",https://api.gbif.org/v1/species/8060462
+LIBSRC-LIB50-ENT-BIO-0961664,scientific_identity,Fragilariopsis humboldtianorum,https://api.gbif.org/v1/species/7549476
+LIBSRC-LIB50-ENT-BIO-0961664,taxon_authority,"Witkowski, Metzeltin & Lange-Bertalot, 1996",https://api.gbif.org/v1/species/7549476
+LIBSRC-LIB50-ENT-BIO-0969904,scientific_identity,Caloneis silicula,https://api.gbif.org/v1/species/8055335
+LIBSRC-LIB50-ENT-BIO-0969904,taxon_authority,"(Ehrenberg) Cleve, 1894",https://api.gbif.org/v1/species/8055335
+LIBSRC-LIB50-ENT-BIO-0969014,scientific_identity,Coccomyces lijiangensis,https://api.gbif.org/v1/species/3481436
+LIBSRC-LIB50-ENT-BIO-0969014,taxon_authority,C.L.Hou & M.Piepenbr.,https://api.gbif.org/v1/species/3481436
+LIBSRC-LIB50-ENT-BIO-0977104,scientific_identity,Navicula schubartii,https://api.gbif.org/v1/species/8021946
+LIBSRC-LIB50-ENT-BIO-0977104,taxon_authority,"Hustedt, 1952",https://api.gbif.org/v1/species/8021946
+LIBSRC-LIB50-ENT-BIO-0976304,scientific_identity,Navicula voigtioides,https://api.gbif.org/v1/species/7368436
+LIBSRC-LIB50-ENT-BIO-0976304,taxon_authority,"Amossé, 1969",https://api.gbif.org/v1/species/7368436
+LIBSRC-LIB50-ENT-BIO-0955704,scientific_identity,Dimeromyces decumbens,https://api.gbif.org/v1/species/5480506
+LIBSRC-LIB50-ENT-BIO-0955704,taxon_authority,Thaxt.,https://api.gbif.org/v1/species/5480506
+LIBSRC-LIB50-ENT-BIO-0978934,scientific_identity,Navicula lancettula,https://api.gbif.org/v1/species/7831990
+LIBSRC-LIB50-ENT-BIO-0978934,taxon_authority,Schumann,https://api.gbif.org/v1/species/7831990
+LIBSRC-LIB50-ENT-BIO-0955764,scientific_identity,Dimeromyces balazucii,https://api.gbif.org/v1/species/5261575
+LIBSRC-LIB50-ENT-BIO-0955764,taxon_authority,W.Rossi & Cesari,https://api.gbif.org/v1/species/5261575
+LIBSRC-LIB50-ENT-BIO-0969804,scientific_identity,Caloneis fusus,https://api.gbif.org/v1/species/7726926
+LIBSRC-LIB50-ENT-BIO-0969804,taxon_authority,"P.B.Hamilton & D.Antoniades, 2009",https://api.gbif.org/v1/species/7726926
+LIBSRC-LIB50-ENT-BIO-0964314,scientific_identity,Nitzschia tenerifa,https://api.gbif.org/v1/species/7366543
+LIBSRC-LIB50-ENT-BIO-0964314,taxon_authority,"Lange-Bertalot, 1987",https://api.gbif.org/v1/species/7366543
+LIBSRC-LIB50-ENT-BIO-0974694,scientific_identity,Navicula schweinfurthi,https://api.gbif.org/v1/species/7367599
+LIBSRC-LIB50-ENT-BIO-0974694,taxon_authority,"A.W.F.Schmidt, 1876",https://api.gbif.org/v1/species/7367599
+LIBSRC-LIB50-ENT-BIO-0971004,scientific_identity,Propolis cylindrocarpa,https://api.gbif.org/v1/species/3481858
+LIBSRC-LIB50-ENT-BIO-0971004,taxon_authority,(Peck) Sacc.,https://api.gbif.org/v1/species/3481858
+LIBSRC-LIB50-ENT-BIO-0978994,scientific_identity,Navicula fauta,https://api.gbif.org/v1/species/8006749
+LIBSRC-LIB50-ENT-BIO-0978994,taxon_authority,Hustedt,https://api.gbif.org/v1/species/8006749
+LIBSRC-LIB50-ENT-BIO-0978194,scientific_identity,Navicula arctotenelloides,https://api.gbif.org/v1/species/5269321
+LIBSRC-LIB50-ENT-BIO-0978194,taxon_authority,Lange-Bertalot & Metzeltin,https://api.gbif.org/v1/species/5269321
+LIBSRC-LIB50-ENT-BIO-0980964,scientific_identity,Pidoplitchkoviella terricola,https://api.gbif.org/v1/species/2574416
+LIBSRC-LIB50-ENT-BIO-0980964,taxon_authority,Kiril.,https://api.gbif.org/v1/species/2574416
+LIBSRC-LIB50-ENT-BIO-0969594,scientific_identity,Lophodermium oxycocci,https://api.gbif.org/v1/species/2579730
+LIBSRC-LIB50-ENT-BIO-0969594,taxon_authority,(Fr.) P.Karst.,https://api.gbif.org/v1/species/2579730
+LIBSRC-LIB50-ENT-BIO-0974424,scientific_identity,Navicula gemmatula,https://api.gbif.org/v1/species/8002415
+LIBSRC-LIB50-ENT-BIO-0974424,taxon_authority,Grunow,https://api.gbif.org/v1/species/8002415
+LIBSRC-LIB50-ENT-BIO-0964554,scientific_identity,Nitzschia curvulum,https://api.gbif.org/v1/species/9605123
+LIBSRC-LIB50-ENT-BIO-0964554,taxon_authority,"Gaud, 1974",https://api.gbif.org/v1/species/9605123
+LIBSRC-LIB50-ENT-BIO-0966824,scientific_identity,Isthmiella abietis,https://api.gbif.org/v1/species/5255579
+LIBSRC-LIB50-ENT-BIO-0966824,taxon_authority,(Dearn.) Darker,https://api.gbif.org/v1/species/5255579
+LIBSRC-LIB50-ENT-BIO-0964634,scientific_identity,Nitzschia gotlandica,https://api.gbif.org/v1/species/7636055
+LIBSRC-LIB50-ENT-BIO-0964634,taxon_authority,"A.Cleve, 1952",https://api.gbif.org/v1/species/7636055
+LIBSRC-LIB50-ENT-BIO-0975854,scientific_identity,Navicula denizotii,https://api.gbif.org/v1/species/7537870
+LIBSRC-LIB50-ENT-BIO-0975854,taxon_authority,"Manguin, 1964",https://api.gbif.org/v1/species/7537870
+LIBSRC-LIB50-ENT-BIO-0975994,scientific_identity,Navicula pupuloides,https://api.gbif.org/v1/species/7764204
+LIBSRC-LIB50-ENT-BIO-0975994,taxon_authority,"Guermeur, 1954",https://api.gbif.org/v1/species/7764204
+LIBSRC-LIB50-ENT-BIO-0968264,scientific_identity,Eolimna comperei,https://api.gbif.org/v1/species/7571130
+LIBSRC-LIB50-ENT-BIO-0968264,taxon_authority,"L.Ector, M.Coste & R.Iserentant, 2000",https://api.gbif.org/v1/species/7571130
+LIBSRC-LIB50-ENT-BIO-0956874,scientific_identity,Kyphomyces ansatus,https://api.gbif.org/v1/species/3440813
+LIBSRC-LIB50-ENT-BIO-0956874,taxon_authority,(Thaxt.) I.I.Tav.,https://api.gbif.org/v1/species/3440813
+LIBSRC-LIB50-ENT-BIO-0966614,scientific_identity,Cytospora chrysosperma,https://api.gbif.org/v1/species/2566263
+LIBSRC-LIB50-ENT-BIO-0966614,taxon_authority,(Pers.) Fr.,https://api.gbif.org/v1/species/2566263
+LIBSRC-LIB50-ENT-BIO-0983634,scientific_identity,Sphaeria pianstri,https://api.gbif.org/v1/species/8541473
+LIBSRC-LIB50-ENT-BIO-0983634,taxon_authority,Grev.,https://api.gbif.org/v1/species/8541473
+LIBSRC-LIB50-ENT-BIO-0976064,scientific_identity,Navicula joursacensis,https://api.gbif.org/v1/species/8399025
+LIBSRC-LIB50-ENT-BIO-0976064,taxon_authority,"Héribaud, 1903",https://api.gbif.org/v1/species/8399025
+LIBSRC-LIB50-ENT-BIO-0974464,scientific_identity,Navicula monodon,https://api.gbif.org/v1/species/8247506
+LIBSRC-LIB50-ENT-BIO-0974464,taxon_authority,"Brun, 1891",https://api.gbif.org/v1/species/8247506
+LIBSRC-LIB50-ENT-BIO-0975094,scientific_identity,Navicula liburnica,https://api.gbif.org/v1/species/8000543
+LIBSRC-LIB50-ENT-BIO-0975094,taxon_authority,"Grunow, 1860",https://api.gbif.org/v1/species/8000543
+LIBSRC-LIB50-ENT-BIO-0970444,scientific_identity,Bivallum pilgerodendri,https://api.gbif.org/v1/species/2579943
+LIBSRC-LIB50-ENT-BIO-0970444,taxon_authority,(Butin) P.R.Johnst.,https://api.gbif.org/v1/species/2579943
+LIBSRC-LIB50-ENT-BIO-0964204,scientific_identity,Nitzschia interrupta,https://api.gbif.org/v1/species/7475816
+LIBSRC-LIB50-ENT-BIO-0964204,taxon_authority,"Heiden & Kolbe, 1928",https://api.gbif.org/v1/species/7475816
+LIBSRC-LIB50-ENT-BIO-0968914,scientific_identity,Coccomyces pampeanus,https://api.gbif.org/v1/species/2579357
+LIBSRC-LIB50-ENT-BIO-0968914,taxon_authority,Speg.,https://api.gbif.org/v1/species/2579357
+LIBSRC-LIB50-ENT-BIO-0964654,scientific_identity,Nitzschia tongatensis,https://api.gbif.org/v1/species/9299616
+LIBSRC-LIB50-ENT-BIO-0964654,taxon_authority,"Grunow, 1880",https://api.gbif.org/v1/species/9299616
+LIBSRC-LIB50-ENT-BIO-0973324,scientific_identity,Leucostoma kuduerense,https://api.gbif.org/v1/species/5482182
+LIBSRC-LIB50-ENT-BIO-0973324,taxon_authority,J.Y.Yuan,https://api.gbif.org/v1/species/5482182
+LIBSRC-LIB50-ENT-BIO-0972254,scientific_identity,Muelleria lotoskayae,https://api.gbif.org/v1/species/7893571
+LIBSRC-LIB50-ENT-BIO-0972254,taxon_authority,"Van de Vijver, 2010",https://api.gbif.org/v1/species/7893571
+LIBSRC-LIB50-ENT-BIO-0964684,scientific_identity,Nitzschia producta,https://api.gbif.org/v1/species/9302843
+LIBSRC-LIB50-ENT-BIO-0964684,taxon_authority,"Comber, 1903",https://api.gbif.org/v1/species/9302843
+LIBSRC-LIB50-ENT-BIO-0976134,scientific_identity,Navicula agellus,https://api.gbif.org/v1/species/8046866
+LIBSRC-LIB50-ENT-BIO-0976134,taxon_authority,"Ehrenberg, 1840",https://api.gbif.org/v1/species/8046866
+LIBSRC-LIB50-ENT-BIO-0977174,scientific_identity,Navicula takoradiensis,https://api.gbif.org/v1/species/8376033
+LIBSRC-LIB50-ENT-BIO-0977174,taxon_authority,"Hendey, 1958",https://api.gbif.org/v1/species/8376033
+LIBSRC-LIB50-ENT-BIO-0978834,scientific_identity,Navicula ingrata,https://api.gbif.org/v1/species/5270114
+LIBSRC-LIB50-ENT-BIO-0978834,taxon_authority,Krasske,https://api.gbif.org/v1/species/5270114
+LIBSRC-LIB50-ENT-BIO-0974524,scientific_identity,Navicula mutabilis,https://api.gbif.org/v1/species/8283745
+LIBSRC-LIB50-ENT-BIO-0974524,taxon_authority,"Gregory, 1855",https://api.gbif.org/v1/species/8283745
+LIBSRC-LIB50-ENT-BIO-0975084,scientific_identity,Navicula fernandae,https://api.gbif.org/v1/species/7732305
+LIBSRC-LIB50-ENT-BIO-0975084,taxon_authority,"D.Metzeltin, H.Lange-Bertalot & F.García-Rodríguez, 2005",https://api.gbif.org/v1/species/7732305
+LIBSRC-LIB50-ENT-BIO-0961534,scientific_identity,Denticula linearis,https://api.gbif.org/v1/species/7849343
+LIBSRC-LIB50-ENT-BIO-0961534,taxon_authority,"Hustedt, 1942",https://api.gbif.org/v1/species/7849343
+LIBSRC-LIB50-ENT-BIO-0981394,scientific_identity,Palmodictyon varium,https://api.gbif.org/v1/species/2641129
+LIBSRC-LIB50-ENT-BIO-0981394,taxon_authority,(Nägeli) Lemmerm.,https://api.gbif.org/v1/species/2641129
+LIBSRC-LIB50-ENT-BIO-0976104,scientific_identity,Navicula huei,https://api.gbif.org/v1/species/8356963
+LIBSRC-LIB50-ENT-BIO-0966274,scientific_identity,Cytospora unilocularis,https://api.gbif.org/v1/species/9800773
+LIBSRC-LIB50-ENT-BIO-0966274,taxon_authority,"Thambug., Camporesi & K.D.Hyde",https://api.gbif.org/v1/species/9800773
+LIBSRC-LIB50-ENT-BIO-0977114,scientific_identity,Navicula pleurostauroides,https://api.gbif.org/v1/species/7935391
+LIBSRC-LIB50-ENT-BIO-0977114,taxon_authority,"Frenguelli, 1945",https://api.gbif.org/v1/species/7935391
+LIBSRC-LIB50-ENT-BIO-0965304,scientific_identity,Rhytisma rhododendri,https://api.gbif.org/v1/species/5494606
+LIBSRC-LIB50-ENT-BIO-0965304,taxon_authority,Fr.,https://api.gbif.org/v1/species/5494606
+LIBSRC-LIB50-ENT-BIO-0982404,scientific_identity,Anthostomella phoenicis,https://api.gbif.org/v1/species/2577308
+LIBSRC-LIB50-ENT-BIO-0982404,taxon_authority,"(Dhaware) K.D.Hyde, J.Fröhl. & Joanne E.Taylor",https://api.gbif.org/v1/species/2577308
+LIBSRC-LIB50-ENT-BIO-0966364,scientific_identity,Cytospora grossulariae,https://api.gbif.org/v1/species/3446657
+LIBSRC-LIB50-ENT-BIO-0966364,taxon_authority,Laubert,https://api.gbif.org/v1/species/3446657
+LIBSRC-LIB50-ENT-BIO-0966554,scientific_identity,Leptostroma fructigenum,https://api.gbif.org/v1/species/3481984
+LIBSRC-LIB50-ENT-BIO-0966554,taxon_authority,Schwein.,https://api.gbif.org/v1/species/3481984
+LIBSRC-LIB50-ENT-BIO-0968284,scientific_identity,Neophacidium macrocarpum,https://api.gbif.org/v1/species/2580158
+LIBSRC-LIB50-ENT-BIO-0968284,taxon_authority,(Pat.) Petr.,https://api.gbif.org/v1/species/2580158
+LIBSRC-LIB50-ENT-BIO-0954924,scientific_identity,Tuber excelsireticulatum,https://api.gbif.org/v1/species/12224373
+LIBSRC-LIB50-ENT-BIO-0954924,taxon_authority,L.Fan & Ting Li,https://api.gbif.org/v1/species/12224373
+LIBSRC-LIB50-ENT-BIO-0970564,scientific_identity,Hypoderma eucalypti,https://api.gbif.org/v1/species/5255741
+LIBSRC-LIB50-ENT-BIO-0970564,taxon_authority,Cooke & Harkn.,https://api.gbif.org/v1/species/5255741
+LIBSRC-LIB50-ENT-BIO-0964774,scientific_identity,Nitzschia nanodissipata,https://api.gbif.org/v1/species/9724989
+LIBSRC-LIB50-ENT-BIO-0964774,taxon_authority,"Ch.Li & Witkowski, 2016",https://api.gbif.org/v1/species/9724989
+LIBSRC-LIB50-ENT-BIO-0972424,scientific_identity,Orthoneis naviculoides,https://api.gbif.org/v1/species/9575143
+LIBSRC-LIB50-ENT-BIO-0976144,scientific_identity,Navicula groenlandica,https://api.gbif.org/v1/species/8386378
+LIBSRC-LIB50-ENT-BIO-0976144,taxon_authority,"Cleve, 1881",https://api.gbif.org/v1/species/8386378
+LIBSRC-LIB50-ENT-BIO-0962754,scientific_identity,Pseudo-nitzschia qiana,https://api.gbif.org/v1/species/11146070
+LIBSRC-LIB50-ENT-BIO-0962754,taxon_authority,"C.X.Huang & Yang Li, 2019",https://api.gbif.org/v1/species/11146070
+LIBSRC-LIB50-ENT-BIO-0969634,scientific_identity,Caloneis hitoyosiensis,https://api.gbif.org/v1/species/8222433
+LIBSRC-LIB50-ENT-BIO-0969634,taxon_authority,"Okuno, 1955",https://api.gbif.org/v1/species/8222433
+LIBSRC-LIB50-ENT-BIO-0956344,scientific_identity,Acompsomyces stenichni,https://api.gbif.org/v1/species/2610814
+LIBSRC-LIB50-ENT-BIO-0956344,taxon_authority,(Scheloske) I.I.Tav.,https://api.gbif.org/v1/species/2610814
+LIBSRC-LIB50-ENT-BIO-0974334,scientific_identity,Navicula subrecta,https://api.gbif.org/v1/species/9256724
+LIBSRC-LIB50-ENT-BIO-0974334,taxon_authority,Brébisson,https://api.gbif.org/v1/species/9256724
+LIBSRC-LIB50-ENT-BIO-0974954,scientific_identity,Navicula crebra,https://api.gbif.org/v1/species/7484075
+LIBSRC-LIB50-ENT-BIO-0974954,taxon_authority,"Hustedt, 1964",https://api.gbif.org/v1/species/7484075
+LIBSRC-LIB50-ENT-BIO-0978224,scientific_identity,Navicula martyi,https://api.gbif.org/v1/species/7506308
+LIBSRC-LIB50-ENT-BIO-0978224,taxon_authority,Lauby,https://api.gbif.org/v1/species/7506308
+LIBSRC-LIB50-ENT-BIO-0963814,scientific_identity,Nitzschia balcanica,https://api.gbif.org/v1/species/7611505
+LIBSRC-LIB50-ENT-BIO-0963814,taxon_authority,"Hustedt, 1945",https://api.gbif.org/v1/species/7611505
+LIBSRC-LIB50-ENT-BIO-0979454,scientific_identity,Stauroptera phoenicenteron,https://api.gbif.org/v1/species/8044833
+LIBSRC-LIB50-ENT-BIO-0979454,taxon_authority,"Ehrenberg, 1848",https://api.gbif.org/v1/species/8044833
+LIBSRC-LIB50-ENT-BIO-0978334,scientific_identity,Navicula bioculata,https://api.gbif.org/v1/species/8620192
+LIBSRC-LIB50-ENT-BIO-0978334,taxon_authority,Grunow,https://api.gbif.org/v1/species/8620192
+LIBSRC-LIB50-ENT-BIO-0955204,scientific_identity,Tavaresiella polhemi,https://api.gbif.org/v1/species/5261571
+LIBSRC-LIB50-ENT-BIO-0955204,taxon_authority,R.K.Benj.,https://api.gbif.org/v1/species/5261571
+LIBSRC-LIB50-ENT-BIO-0964194,scientific_identity,Nitzschia sublica,https://api.gbif.org/v1/species/11185376
+LIBSRC-LIB50-ENT-BIO-0964194,taxon_authority,"H.P.Gandhi ex Karthick, 2020",https://api.gbif.org/v1/species/11185376
+LIBSRC-LIB50-ENT-BIO-0976724,scientific_identity,Navicula perangustissima,https://api.gbif.org/v1/species/10712264
+LIBSRC-LIB50-ENT-BIO-0976724,taxon_authority,"Li et al., 2020",https://api.gbif.org/v1/species/10712264
+LIBSRC-LIB50-ENT-BIO-0976754,scientific_identity,Navicula subatomoides,https://api.gbif.org/v1/species/8254595
+LIBSRC-LIB50-ENT-BIO-0976754,taxon_authority,"Hustedt, 1936",https://api.gbif.org/v1/species/8254595
+LIBSRC-LIB50-ENT-BIO-0964694,scientific_identity,Nitzschia bituminosa,https://api.gbif.org/v1/species/9268265
+LIBSRC-LIB50-ENT-BIO-0976864,scientific_identity,Navicula dugaensis,https://api.gbif.org/v1/species/7408701
+LIBSRC-LIB50-ENT-BIO-0976864,taxon_authority,"Foged, 1966",https://api.gbif.org/v1/species/7408701
+LIBSRC-LIB50-ENT-BIO-0973044,scientific_identity,Valsa melastoma,https://api.gbif.org/v1/species/5252736
+LIBSRC-LIB50-ENT-BIO-0973044,taxon_authority,(Fr.) Fr.,https://api.gbif.org/v1/species/5252736
+LIBSRC-LIB50-ENT-BIO-0969604,scientific_identity,Lophodermium foliicola,https://api.gbif.org/v1/species/2579607
+LIBSRC-LIB50-ENT-BIO-0969604,taxon_authority,(Fr.) P.F.Cannon & Minter,https://api.gbif.org/v1/species/2579607
+LIBSRC-LIB50-ENT-BIO-0975344,scientific_identity,Navicula trunculus,https://api.gbif.org/v1/species/7617219
+LIBSRC-LIB50-ENT-BIO-0975344,taxon_authority,"Schumann, 1867",https://api.gbif.org/v1/species/7617219
+LIBSRC-LIB50-ENT-BIO-0975404,scientific_identity,Navicula horchestetteri,https://api.gbif.org/v1/species/6124631
+LIBSRC-LIB50-ENT-BIO-0975404,taxon_authority,Grunow,https://api.gbif.org/v1/species/6124631
+LIBSRC-LIB50-ENT-BIO-0976244,scientific_identity,Navicula leonis,https://api.gbif.org/v1/species/7437527
+LIBSRC-LIB50-ENT-BIO-0976244,taxon_authority,"Pantocsek, 1905",https://api.gbif.org/v1/species/7437527
+LIBSRC-LIB50-ENT-BIO-0974904,scientific_identity,Navicula papula,https://api.gbif.org/v1/species/7660385
+LIBSRC-LIB50-ENT-BIO-0974904,taxon_authority,"A.W.F.Schmidt, 1875",https://api.gbif.org/v1/species/7660385
+LIBSRC-LIB50-ENT-BIO-0964264,scientific_identity,Nitzschia faba,https://api.gbif.org/v1/species/9793390
+LIBSRC-LIB50-ENT-BIO-0964264,taxon_authority,"Frenguelli, 1926",https://api.gbif.org/v1/species/9793390
+LIBSRC-LIB50-ENT-BIO-0955934,scientific_identity,Autophagomyces tiwaiensis,https://api.gbif.org/v1/species/3441151
+LIBSRC-LIB50-ENT-BIO-0955934,taxon_authority,W.Rossi,https://api.gbif.org/v1/species/3441151
+LIBSRC-LIB50-ENT-BIO-0975744,scientific_identity,Navicula gorjanovicii,https://api.gbif.org/v1/species/7479997
+LIBSRC-LIB50-ENT-BIO-0975744,taxon_authority,"Pantocsek, 1886",https://api.gbif.org/v1/species/7479997
+LIBSRC-LIB50-ENT-BIO-0975694,scientific_identity,Navicula stauroneiformis,https://api.gbif.org/v1/species/7927477
+LIBSRC-LIB50-ENT-BIO-0975694,taxon_authority,"Leuduger-Fortmorel, 1892",https://api.gbif.org/v1/species/7927477
+LIBSRC-LIB50-ENT-BIO-0964444,scientific_identity,Nitzschia rotula,https://api.gbif.org/v1/species/9488036
+LIBSRC-LIB50-ENT-BIO-0964444,taxon_authority,"Carter, 1966",https://api.gbif.org/v1/species/9488036
+LIBSRC-LIB50-ENT-BIO-0978704,scientific_identity,Navicula cryptocephaloides,https://api.gbif.org/v1/species/7386544
+LIBSRC-LIB50-ENT-BIO-0978704,taxon_authority,Hustedt,https://api.gbif.org/v1/species/7386544
+LIBSRC-LIB50-ENT-BIO-0978874,scientific_identity,Navicula bella,https://api.gbif.org/v1/species/7563698
+LIBSRC-LIB50-ENT-BIO-0978874,taxon_authority,Hustedt,https://api.gbif.org/v1/species/7563698
+LIBSRC-LIB50-ENT-BIO-0974264,scientific_identity,Navicula substauroneis,https://api.gbif.org/v1/species/9467994
+LIBSRC-LIB50-ENT-BIO-0974264,taxon_authority,"Mann, 1925",https://api.gbif.org/v1/species/9467994
+LIBSRC-LIB50-ENT-BIO-0973934,scientific_identity,Geissleria scaniae,https://api.gbif.org/v1/species/7487284
+LIBSRC-LIB50-ENT-BIO-0973934,taxon_authority,"Van de Vijver, Ector & Jarlman, 2012",https://api.gbif.org/v1/species/7487284
+LIBSRC-LIB50-ENT-BIO-0980134,scientific_identity,Hypocopra winteri,https://api.gbif.org/v1/species/3459771
+LIBSRC-LIB50-ENT-BIO-0980134,taxon_authority,Oudem.,https://api.gbif.org/v1/species/3459771
+LIBSRC-LIB50-ENT-BIO-0965324,scientific_identity,Rhytisma pedicularis,https://api.gbif.org/v1/species/5494674
+LIBSRC-LIB50-ENT-BIO-0965324,taxon_authority,(DC.) Rehm,https://api.gbif.org/v1/species/5494674
+LIBSRC-LIB50-ENT-BIO-0975154,scientific_identity,Navicula allista,https://api.gbif.org/v1/species/8336439
+LIBSRC-LIB50-ENT-BIO-0975154,taxon_authority,"Hohn & Hellerman, 1966",https://api.gbif.org/v1/species/8336439
+LIBSRC-LIB50-ENT-BIO-0974874,scientific_identity,Navicula casertana,https://api.gbif.org/v1/species/7391769
+LIBSRC-LIB50-ENT-BIO-0974874,taxon_authority,"De Notaris, 1872",https://api.gbif.org/v1/species/7391769
+LIBSRC-LIB50-ENT-BIO-0956694,scientific_identity,Corethromyces cryptobii,https://api.gbif.org/v1/species/3441349
+LIBSRC-LIB50-ENT-BIO-0956694,taxon_authority,Thaxt.,https://api.gbif.org/v1/species/3441349
+LIBSRC-LIB50-ENT-BIO-0982874,scientific_identity,Neocystis ovalis,https://api.gbif.org/v1/species/5271568
+LIBSRC-LIB50-ENT-BIO-0982874,taxon_authority,(Korshikov) Hindák,https://api.gbif.org/v1/species/5271568
+LIBSRC-LIB50-ENT-BIO-0956814,scientific_identity,Kyphomyces grenadinus,https://api.gbif.org/v1/species/3440815
+LIBSRC-LIB50-ENT-BIO-0956814,taxon_authority,(Thaxt.) I.I.Tav.,https://api.gbif.org/v1/species/3440815
+LIBSRC-LIB50-ENT-BIO-0963224,scientific_identity,Tryblionella rustica,https://api.gbif.org/v1/species/7587667
+LIBSRC-LIB50-ENT-BIO-0963224,taxon_authority,"Frenguelli, 1953",https://api.gbif.org/v1/species/7587667
+LIBSRC-LIB50-ENT-BIO-0955084,scientific_identity,Tuber mesenterium,https://api.gbif.org/v1/species/8594348
+LIBSRC-LIB50-ENT-BIO-0955084,taxon_authority,"Vittad., 1831",https://api.gbif.org/v1/species/8594348
+LIBSRC-LIB50-ENT-BIO-0972054,scientific_identity,Hippodonta angustata,https://api.gbif.org/v1/species/8382729
+LIBSRC-LIB50-ENT-BIO-0972054,taxon_authority,"A.Pavlov, Z.Levkov, D.M.Williams & M.Edlund, 2013",https://api.gbif.org/v1/species/8382729
+LIBSRC-LIB50-ENT-BIO-0977084,scientific_identity,Navicula dubitanda,https://api.gbif.org/v1/species/7773391
+LIBSRC-LIB50-ENT-BIO-0977084,taxon_authority,"Hustedt & Kolbe, 1987",https://api.gbif.org/v1/species/7773391
+LIBSRC-LIB50-ENT-BIO-0964954,scientific_identity,Nitzschia vidarbhensis,https://api.gbif.org/v1/species/9620446
+LIBSRC-LIB50-ENT-BIO-0964954,taxon_authority,"Sarode & Kamat, 1984",https://api.gbif.org/v1/species/9620446
+LIBSRC-LIB50-ENT-BIO-0979594,scientific_identity,Naviculadicta lepida,https://api.gbif.org/v1/species/2636852
+LIBSRC-LIB50-ENT-BIO-0979594,taxon_authority,"Gerd Moser, 1998",https://api.gbif.org/v1/species/2636852
+LIBSRC-LIB50-ENT-BIO-0969484,scientific_identity,Plocamium pacificum,https://api.gbif.org/v1/species/5278604
+LIBSRC-LIB50-ENT-BIO-0969424,scientific_identity,Plocamium suhrii,https://api.gbif.org/v1/species/5278572
+LIBSRC-LIB50-ENT-BIO-0969424,taxon_authority,"Kütz., 1849",https://api.gbif.org/v1/species/5278572
+LIBSRC-LIB50-ENT-BIO-0979024,scientific_identity,Navicula pachyptera,https://api.gbif.org/v1/species/7363791
+LIBSRC-LIB50-ENT-BIO-0979024,taxon_authority,Ehrenberg,https://api.gbif.org/v1/species/7363791
+LIBSRC-LIB50-ENT-BIO-0977124,scientific_identity,Navicula multipunctata,https://api.gbif.org/v1/species/9402828
+LIBSRC-LIB50-ENT-BIO-0977124,taxon_authority,J.Y.Chen & H.Z.Zhu,https://api.gbif.org/v1/species/9402828
+LIBSRC-LIB50-ENT-BIO-0979574,scientific_identity,Naviculadicta parabryophila,https://api.gbif.org/v1/species/7786787
+LIBSRC-LIB50-ENT-BIO-0979574,taxon_authority,"Lange-Bertalot, 1996",https://api.gbif.org/v1/species/7786787
+LIBSRC-LIB50-ENT-BIO-0976354,scientific_identity,Navicula quadrangulis,https://api.gbif.org/v1/species/7599707
+LIBSRC-LIB50-ENT-BIO-0976354,taxon_authority,"H.Kobayasi, 1964",https://api.gbif.org/v1/species/7599707
+LIBSRC-LIB50-ENT-BIO-0979514,scientific_identity,Cocconema eurypterum,https://api.gbif.org/v1/species/7593537
+LIBSRC-LIB50-ENT-BIO-0979514,taxon_authority,"Ehrenberg, 1854",https://api.gbif.org/v1/species/7593537
+LIBSRC-LIB50-ENT-BIO-0976404,scientific_identity,Navicula bicapitata,https://api.gbif.org/v1/species/9505205
+LIBSRC-LIB50-ENT-BIO-0976404,taxon_authority,"Heiden & Kolbe, 1928",https://api.gbif.org/v1/species/9505205
+LIBSRC-LIB50-ENT-BIO-0978614,scientific_identity,Navicula rusticensis,https://api.gbif.org/v1/species/8231721
+LIBSRC-LIB50-ENT-BIO-0978614,taxon_authority,Lobban,https://api.gbif.org/v1/species/8231721
+LIBSRC-LIB50-ENT-BIO-0975304,scientific_identity,Navicula hastaeformis,https://api.gbif.org/v1/species/8257916
+LIBSRC-LIB50-ENT-BIO-0975304,taxon_authority,"Cholnoky, 1960",https://api.gbif.org/v1/species/8257916
+LIBSRC-LIB50-ENT-BIO-0974824,scientific_identity,Navicula trigomirae,https://api.gbif.org/v1/species/8171777
+LIBSRC-LIB50-ENT-BIO-0974824,taxon_authority,"Moura, 1963",https://api.gbif.org/v1/species/8171777
+LIBSRC-LIB50-ENT-BIO-0978854,scientific_identity,Navicula irmengardis,https://api.gbif.org/v1/species/5270291
+LIBSRC-LIB50-ENT-BIO-0978854,taxon_authority,Lange-Bertalot,https://api.gbif.org/v1/species/5270291
+LIBSRC-LIB50-ENT-BIO-0979414,scientific_identity,Stauroptera capitata,https://api.gbif.org/v1/species/8364297
+LIBSRC-LIB50-ENT-BIO-0979414,taxon_authority,"Ehrenberg, 1844",https://api.gbif.org/v1/species/8364297
+LIBSRC-LIB50-ENT-BIO-0979464,scientific_identity,Cocconema lindheimeri,https://api.gbif.org/v1/species/9817401
+LIBSRC-LIB50-ENT-BIO-0979464,taxon_authority,Grunow,https://api.gbif.org/v1/species/9817401
+LIBSRC-LIB50-ENT-BIO-0978654,scientific_identity,Navicula flebilis,https://api.gbif.org/v1/species/8211225
+LIBSRC-LIB50-ENT-BIO-0978654,taxon_authority,Cholnoky,https://api.gbif.org/v1/species/8211225
+LIBSRC-LIB50-ENT-BIO-0975944,scientific_identity,Navicula cotschii,https://api.gbif.org/v1/species/9557160
+LIBSRC-LIB50-ENT-BIO-0975944,taxon_authority,"Christjuk, 1930",https://api.gbif.org/v1/species/9557160
+LIBSRC-LIB50-ENT-BIO-0974444,scientific_identity,Navicula egregia,https://api.gbif.org/v1/species/5267965
+LIBSRC-LIB50-ENT-BIO-0978174,scientific_identity,Navicula distinctastriata,https://api.gbif.org/v1/species/7899693
+LIBSRC-LIB50-ENT-BIO-0978174,taxon_authority,Hohn & Hellerman,https://api.gbif.org/v1/species/7899693
+LIBSRC-LIB50-ENT-BIO-0978354,scientific_identity,Navicula seminularia,https://api.gbif.org/v1/species/7987988
+LIBSRC-LIB50-ENT-BIO-0978354,taxon_authority,Cholnoky,https://api.gbif.org/v1/species/7987988
+LIBSRC-LIB50-ENT-BIO-0978124,scientific_identity,Navicula densilineolata,https://api.gbif.org/v1/species/5269758
+LIBSRC-LIB50-ENT-BIO-0978124,taxon_authority,Lange-Bertalot,https://api.gbif.org/v1/species/5269758
+LIBSRC-LIB50-ENT-BIO-0979054,scientific_identity,Navicula obtusangula,https://api.gbif.org/v1/species/9267277
+LIBSRC-LIB50-ENT-BIO-0979054,taxon_authority,(Hustedt) Simonsen,https://api.gbif.org/v1/species/9267277
+LIBSRC-LIB50-ENT-BIO-0974764,scientific_identity,Navicula robertsiana,https://api.gbif.org/v1/species/7515297
+LIBSRC-LIB50-ENT-BIO-0975674,scientific_identity,Navicula comperei,https://api.gbif.org/v1/species/7413664
+LIBSRC-LIB50-ENT-BIO-0975674,taxon_authority,"Coste & Ricard, 1982",https://api.gbif.org/v1/species/7413664
+LIBSRC-LIB50-ENT-BIO-0978304,scientific_identity,Navicula vaneei,https://api.gbif.org/v1/species/7844314
+LIBSRC-LIB50-ENT-BIO-0978304,taxon_authority,Lange-Bertalot,https://api.gbif.org/v1/species/7844314
+LIBSRC-LIB50-ENT-BIO-0975044,scientific_identity,Navicula imbecilla,https://api.gbif.org/v1/species/7377325
+LIBSRC-LIB50-ENT-BIO-0975044,taxon_authority,"Cholnoky, 1959",https://api.gbif.org/v1/species/7377325
+LIBSRC-LIB50-ENT-BIO-0976494,scientific_identity,Navicula verecundaeformis,https://api.gbif.org/v1/species/7930231
+LIBSRC-LIB50-ENT-BIO-0976494,taxon_authority,"Manguin ex Kociolek & Reviers, 1996",https://api.gbif.org/v1/species/7930231
+LIBSRC-LIB50-ENT-BIO-0977194,scientific_identity,Navicula lacus-chandolensis,https://api.gbif.org/v1/species/10761666
+LIBSRC-LIB50-ENT-BIO-0977194,taxon_authority,"Guiry & Karthick, 2020",https://api.gbif.org/v1/species/10761666
+LIBSRC-LIB50-ENT-BIO-0978754,scientific_identity,Navicula ingenua,https://api.gbif.org/v1/species/5270263
+LIBSRC-LIB50-ENT-BIO-0978754,taxon_authority,Hustedt,https://api.gbif.org/v1/species/5270263
+LIBSRC-LIB50-ENT-BIO-0971974,scientific_identity,Hippodonta pseudorostrata,https://api.gbif.org/v1/species/9289137
+LIBSRC-LIB50-ENT-BIO-0971974,taxon_authority,"Metzeltin, M.S.Kulikovskiy & Lange-Bert., 2012",https://api.gbif.org/v1/species/9289137
+LIBSRC-LIB50-ENT-BIO-0974204,scientific_identity,Navicula saxophila,https://api.gbif.org/v1/species/7590700
+LIBSRC-LIB50-ENT-BIO-0974204,taxon_authority,"W.Bock ex Hustedt, 1966",https://api.gbif.org/v1/species/7590700
+LIBSRC-LIB50-ENT-BIO-0974364,scientific_identity,Navicula stuxbergii,https://api.gbif.org/v1/species/7977043
+LIBSRC-LIB50-ENT-BIO-0974364,taxon_authority,Cleve,https://api.gbif.org/v1/species/7977043
+LIBSRC-LIB50-ENT-BIO-0976974,scientific_identity,Navicula balcanica,https://api.gbif.org/v1/species/5270294
+LIBSRC-LIB50-ENT-BIO-0976974,taxon_authority,"Hustedt, 1934",https://api.gbif.org/v1/species/5270294
+LIBSRC-LIB50-ENT-BIO-0978644,scientific_identity,Navicula parinacota,https://api.gbif.org/v1/species/5269114
+LIBSRC-LIB50-ENT-BIO-0978644,taxon_authority,U.Rumrich & Lange-Bertalot,https://api.gbif.org/v1/species/5269114
+LIBSRC-LIB50-ENT-BIO-0965784,scientific_identity,Kobayasiella mirabilis,https://api.gbif.org/v1/species/7433920
+LIBSRC-LIB50-ENT-BIO-0965784,taxon_authority,"M.G.M.de Souza & Compère, 1999",https://api.gbif.org/v1/species/7433920
+LIBSRC-LIB50-ENT-BIO-0969764,scientific_identity,Caloneis minuscula,https://api.gbif.org/v1/species/9598690
+LIBSRC-LIB50-ENT-BIO-0969764,taxon_authority,"Van de Vijver, Ector & Jarlman, 2012",https://api.gbif.org/v1/species/9598690
+LIBSRC-LIB50-ENT-BIO-0974804,scientific_identity,Navicula hevesensis,https://api.gbif.org/v1/species/7740536
+LIBSRC-LIB50-ENT-BIO-0974804,taxon_authority,"Pantocsek, 1889",https://api.gbif.org/v1/species/7740536
+LIBSRC-LIB50-ENT-BIO-0978884,scientific_identity,Navicula ingapirca,https://api.gbif.org/v1/species/5269039
+LIBSRC-LIB50-ENT-BIO-0978884,taxon_authority,Lange-Bertalot & U.Rumrich,https://api.gbif.org/v1/species/5269039
+LIBSRC-LIB50-ENT-BIO-0977154,scientific_identity,Navicula macdonaghi,https://api.gbif.org/v1/species/8423760
+LIBSRC-LIB50-ENT-BIO-0977154,taxon_authority,"Frenguelli, 1929",https://api.gbif.org/v1/species/8423760
+LIBSRC-LIB50-ENT-BIO-0974124,scientific_identity,Navicula oris,https://api.gbif.org/v1/species/9594254
+LIBSRC-LIB50-ENT-BIO-0974124,taxon_authority,"Zanon, 1949",https://api.gbif.org/v1/species/9594254
+LIBSRC-LIB50-ENT-BIO-0975034,scientific_identity,Navicula campbellii,https://api.gbif.org/v1/species/7568270
+LIBSRC-LIB50-ENT-BIO-0975034,taxon_authority,"Petit, 1877",https://api.gbif.org/v1/species/7568270
+LIBSRC-LIB50-ENT-BIO-0978384,scientific_identity,Navicula trilatera,https://api.gbif.org/v1/species/8155884
+LIBSRC-LIB50-ENT-BIO-0978384,taxon_authority,Bahls,https://api.gbif.org/v1/species/8155884
+LIBSRC-LIB50-ENT-BIO-0976634,scientific_identity,Navicula agrestiformis,https://api.gbif.org/v1/species/10777478
+LIBSRC-LIB50-ENT-BIO-0976634,taxon_authority,"H.P.Gandhi ex Karthick, 2020",https://api.gbif.org/v1/species/10777478
+LIBSRC-LIB50-ENT-BIO-0976614,scientific_identity,Navicula stehlei,https://api.gbif.org/v1/species/7436735
+LIBSRC-LIB50-ENT-BIO-0976614,taxon_authority,"Manguin, 1952",https://api.gbif.org/v1/species/7436735
+LIBSRC-LIB50-ENT-BIO-0969784,scientific_identity,Caloneis procera,https://api.gbif.org/v1/species/9214831
+LIBSRC-LIB50-ENT-BIO-0975684,scientific_identity,Navicula incongruens,https://api.gbif.org/v1/species/7419522
+LIBSRC-LIB50-ENT-BIO-0975684,taxon_authority,"Hendey, 1977",https://api.gbif.org/v1/species/7419522
+LIBSRC-LIB50-ENT-BIO-0975104,scientific_identity,Navicula pulverentula,https://api.gbif.org/v1/species/7592202
+LIBSRC-LIB50-ENT-BIO-0975104,taxon_authority,"Woodhead & Tweed, 1960",https://api.gbif.org/v1/species/7592202
+LIBSRC-LIB50-ENT-BIO-0978774,scientific_identity,Navicula crocodill,https://api.gbif.org/v1/species/9357688
+LIBSRC-LIB50-ENT-BIO-0978774,taxon_authority,Cholnoky,https://api.gbif.org/v1/species/9357688
+LIBSRC-LIB50-ENT-BIO-0978444,scientific_identity,Navicula subinflatoides,https://api.gbif.org/v1/species/5269502
+LIBSRC-LIB50-ENT-BIO-0978444,taxon_authority,Hustedt,https://api.gbif.org/v1/species/5269502
+LIBSRC-LIB50-ENT-BIO-0975554,scientific_identity,Navicula kalganica,https://api.gbif.org/v1/species/9380475
+LIBSRC-LIB50-ENT-BIO-0975554,taxon_authority,"Skvortzow, 1935",https://api.gbif.org/v1/species/9380475
+LIBSRC-LIB50-ENT-BIO-0977734,scientific_identity,Navigiolum uruguayense,https://api.gbif.org/v1/species/8281275
+LIBSRC-LIB50-ENT-BIO-0977734,taxon_authority,"D.Metzeltin, H.Lange-Bertalot & F.García-Rodríguez, 2005",https://api.gbif.org/v1/species/8281275
+LIBSRC-LIB50-ENT-BIO-0976334,scientific_identity,Navicula approximatoides,https://api.gbif.org/v1/species/8290173
+LIBSRC-LIB50-ENT-BIO-0976334,taxon_authority,"Hustedt, 1987",https://api.gbif.org/v1/species/8290173
+LIBSRC-LIB50-ENT-BIO-0966974,scientific_identity,Seminavis norae,https://api.gbif.org/v1/species/9775919
+LIBSRC-LIB50-ENT-BIO-0966974,taxon_authority,"(Metzeltin, Lange-Bertalot & García-Rodriguez) D.M.Talgatti & L.C.Torgan, 2017",https://api.gbif.org/v1/species/9775919
+LIBSRC-LIB50-ENT-BIO-0976474,scientific_identity,Navicula sinuiraphe,https://api.gbif.org/v1/species/8226871
+LIBSRC-LIB50-ENT-BIO-0976474,taxon_authority,"Patrick & Freese, 1961",https://api.gbif.org/v1/species/8226871
+LIBSRC-LIB50-ENT-BIO-0975014,scientific_identity,Navicula esox,https://api.gbif.org/v1/species/9685573
+LIBSRC-LIB50-ENT-BIO-0974684,scientific_identity,Navicula aberrans,https://api.gbif.org/v1/species/7416484
+LIBSRC-LIB50-ENT-BIO-0974684,taxon_authority,"Cleve-Euler, 1953",https://api.gbif.org/v1/species/7416484
+LIBSRC-LIB50-ENT-BIO-0972184,scientific_identity,Muelleria cryoconicola,https://api.gbif.org/v1/species/7968596
+LIBSRC-LIB50-ENT-BIO-0972184,taxon_authority,"Stanish & S.A.Spauld., 2010",https://api.gbif.org/v1/species/7968596
+LIBSRC-LIB50-ENT-BIO-0978924,scientific_identity,Navicula columbiana,https://api.gbif.org/v1/species/8284474
+LIBSRC-LIB50-ENT-BIO-0978924,taxon_authority,Hustedt,https://api.gbif.org/v1/species/8284474
+LIBSRC-LIB50-ENT-BIO-0974604,scientific_identity,Navicula residua,https://api.gbif.org/v1/species/8323003
+LIBSRC-LIB50-ENT-BIO-0974604,taxon_authority,"Schmidt, 1876",https://api.gbif.org/v1/species/8323003
+LIBSRC-LIB50-ENT-BIO-0975284,scientific_identity,Navicula depressa,https://api.gbif.org/v1/species/7897769
+LIBSRC-LIB50-ENT-BIO-0975284,taxon_authority,"Cleve, 1891",https://api.gbif.org/v1/species/7897769
+LIBSRC-LIB50-ENT-BIO-0975174,scientific_identity,Navicula jurgensii,https://api.gbif.org/v1/species/7621782
+LIBSRC-LIB50-ENT-BIO-0975174,taxon_authority,"Kützing, 1844",https://api.gbif.org/v1/species/7621782
+LIBSRC-LIB50-ENT-BIO-0976074,scientific_identity,Navicula promota,https://api.gbif.org/v1/species/8090993
+LIBSRC-LIB50-ENT-BIO-0976074,taxon_authority,"Archibald, 1971",https://api.gbif.org/v1/species/8090993
+LIBSRC-LIB50-ENT-BIO-0975734,scientific_identity,Navicula pseudoschumanniana,https://api.gbif.org/v1/species/7971969
+LIBSRC-LIB50-ENT-BIO-0975734,taxon_authority,"Hustedt, 1914",https://api.gbif.org/v1/species/7971969
+LIBSRC-LIB50-ENT-BIO-0976644,scientific_identity,Navicula pulchra,https://api.gbif.org/v1/species/7908550
+LIBSRC-LIB50-ENT-BIO-0976644,taxon_authority,"Gregory, 1856",https://api.gbif.org/v1/species/7908550
+LIBSRC-LIB50-ENT-BIO-0978154,scientific_identity,Navicula menaiana,https://api.gbif.org/v1/species/5269639
+LIBSRC-LIB50-ENT-BIO-0978154,taxon_authority,Hendey,https://api.gbif.org/v1/species/5269639
+LIBSRC-LIB50-ENT-BIO-0976574,scientific_identity,Navicula subarvensoides,https://api.gbif.org/v1/species/8227675
+LIBSRC-LIB50-ENT-BIO-0976574,taxon_authority,"Archibald, 1966",https://api.gbif.org/v1/species/8227675
+LIBSRC-LIB50-ENT-BIO-0977074,scientific_identity,Navicula pseudodemerarae,https://api.gbif.org/v1/species/8057214
+LIBSRC-LIB50-ENT-BIO-0977074,taxon_authority,Hustedt,https://api.gbif.org/v1/species/8057214
+LIBSRC-LIB50-ENT-BIO-0975444,scientific_identity,Navicula dicephaloides,https://api.gbif.org/v1/species/8236029
+LIBSRC-LIB50-ENT-BIO-0975444,taxon_authority,"Fusey, 1948",https://api.gbif.org/v1/species/8236029
+LIBSRC-LIB50-ENT-BIO-0975954,scientific_identity,Navicula madrae,https://api.gbif.org/v1/species/8044205
+LIBSRC-LIB50-ENT-BIO-0975954,taxon_authority,"Hanna & Grant, 1926",https://api.gbif.org/v1/species/8044205
+LIBSRC-LIB50-ENT-BIO-0976654,scientific_identity,Navicula sulcata,https://api.gbif.org/v1/species/8273841
+LIBSRC-LIB50-ENT-BIO-0976654,taxon_authority,"Greville, 1865",https://api.gbif.org/v1/species/8273841
+LIBSRC-LIB50-ENT-BIO-0978264,scientific_identity,Navicula viridulacalcis,https://api.gbif.org/v1/species/5269306
+LIBSRC-LIB50-ENT-BIO-0978264,taxon_authority,Lange-Bertalot,https://api.gbif.org/v1/species/5269306
+LIBSRC-LIB50-ENT-BIO-0975784,scientific_identity,Navicula jamalinensis,https://api.gbif.org/v1/species/8343746
+LIBSRC-LIB50-ENT-BIO-0976794,scientific_identity,Navicula contracta,https://api.gbif.org/v1/species/7932007
+LIBSRC-LIB50-ENT-BIO-0976794,taxon_authority,"Grunow, 1890",https://api.gbif.org/v1/species/7932007
+LIBSRC-LIB50-ENT-BIO-0978914,scientific_identity,Navicula contortula,https://api.gbif.org/v1/species/8199720
+LIBSRC-LIB50-ENT-BIO-0978914,taxon_authority,Sovereign,https://api.gbif.org/v1/species/8199720
+LIBSRC-LIB50-ENT-BIO-0976894,scientific_identity,Navicula ostrobottnica,https://api.gbif.org/v1/species/8356314
+LIBSRC-LIB50-ENT-BIO-0976894,taxon_authority,"Cleve-Euler, 1939",https://api.gbif.org/v1/species/8356314
+LIBSRC-LIB50-ENT-BIO-0978714,scientific_identity,Navicula starmachioides,https://api.gbif.org/v1/species/8250998
+LIBSRC-LIB50-ENT-BIO-0978714,taxon_authority,(Witkowski & Lange-Bertalot) Witkowski & Lange-Bertalot,https://api.gbif.org/v1/species/8250998
+LIBSRC-LIB50-ENT-BIO-0976204,scientific_identity,Navicula luisii,https://api.gbif.org/v1/species/7395517
+LIBSRC-LIB50-ENT-BIO-0976204,taxon_authority,"Patrick, 1961",https://api.gbif.org/v1/species/7395517
+LIBSRC-LIB50-ENT-BIO-0976484,scientific_identity,Navicula lobeliae,https://api.gbif.org/v1/species/8295375
+LIBSRC-LIB50-ENT-BIO-0976484,taxon_authority,"Jørgensen, 1948",https://api.gbif.org/v1/species/8295375
+LIBSRC-LIB50-ENT-BIO-0975364,scientific_identity,Navicula gemina,https://api.gbif.org/v1/species/9598609
+LIBSRC-LIB50-ENT-BIO-0975364,taxon_authority,"Ehrenberg, 1840",https://api.gbif.org/v1/species/9598609
+LIBSRC-LIB50-ENT-BIO-0979004,scientific_identity,Navicula caduca,https://api.gbif.org/v1/species/5270271
+LIBSRC-LIB50-ENT-BIO-0979004,taxon_authority,Hustedt,https://api.gbif.org/v1/species/5270271
+LIBSRC-LIB50-ENT-BIO-0974314,scientific_identity,Navicula bombus,https://api.gbif.org/v1/species/5267850
+LIBSRC-LIB50-ENT-BIO-0974314,taxon_authority,"Donkin, 1872",https://api.gbif.org/v1/species/5267850
+LIBSRC-LIB50-ENT-BIO-0976824,scientific_identity,Navicula jarnefelti,https://api.gbif.org/v1/species/9626954
+LIBSRC-LIB50-ENT-BIO-0975594,scientific_identity,Navicula pseudostauropteroides,https://api.gbif.org/v1/species/8346026
+LIBSRC-LIB50-ENT-BIO-0975594,taxon_authority,"Fritsch & Rich, 1929",https://api.gbif.org/v1/species/8346026
+LIBSRC-LIB50-ENT-BIO-0978434,scientific_identity,Navicula geitleri,https://api.gbif.org/v1/species/5269716
+LIBSRC-LIB50-ENT-BIO-0978434,taxon_authority,Hustedt,https://api.gbif.org/v1/species/5269716
+LIBSRC-LIB50-ENT-BIO-0978284,scientific_identity,Navicula bourrellyi,https://api.gbif.org/v1/species/7721613
+LIBSRC-LIB50-ENT-BIO-0978284,taxon_authority,Manguin,https://api.gbif.org/v1/species/7721613
+LIBSRC-LIB50-ENT-BIO-0979874,scientific_identity,Genkalia baicalensis,https://api.gbif.org/v1/species/7664353
+LIBSRC-LIB50-ENT-BIO-0979874,taxon_authority,"M.S.Kulikovskiy, H.Lange-Bertalot & D.Metzeltin, 2012",https://api.gbif.org/v1/species/7664353
+LIBSRC-LIB50-ENT-BIO-0974964,scientific_identity,Navicula gloriosa,https://api.gbif.org/v1/species/9314500
+LIBSRC-LIB50-ENT-BIO-0974964,taxon_authority,"Cleve-Euler, 1953",https://api.gbif.org/v1/species/9314500
+LIBSRC-LIB50-ENT-BIO-0969734,scientific_identity,Caloneis relicta,https://api.gbif.org/v1/species/9247405
+LIBSRC-LIB50-ENT-BIO-0969734,taxon_authority,"Skvortzow, 1937",https://api.gbif.org/v1/species/9247405
+LIBSRC-LIB50-ENT-BIO-0977004,scientific_identity,Navicula eugeniae,https://api.gbif.org/v1/species/7692247
+LIBSRC-LIB50-ENT-BIO-0977004,taxon_authority,"Cleve, 1881",https://api.gbif.org/v1/species/7692247
+LIBSRC-LIB50-ENT-BIO-0976254,scientific_identity,Navicula trinotata,https://api.gbif.org/v1/species/8158843
+LIBSRC-LIB50-ENT-BIO-0976254,taxon_authority,"Pantocsek, 1892",https://api.gbif.org/v1/species/8158843
+LIBSRC-LIB50-ENT-BIO-0969774,scientific_identity,Caloneis sinuata,https://api.gbif.org/v1/species/9438906
+LIBSRC-LIB50-ENT-BIO-0969774,taxon_authority,"Jouse & Seczkina, 1960",https://api.gbif.org/v1/species/9438906
+LIBSRC-LIB50-ENT-BIO-0974234,scientific_identity,Navicula insignita,https://api.gbif.org/v1/species/7699912
+LIBSRC-LIB50-ENT-BIO-0974234,taxon_authority,"Hustedt, 1942",https://api.gbif.org/v1/species/7699912
+LIBSRC-LIB50-ENT-BIO-0974854,scientific_identity,Navicula latissima,https://api.gbif.org/v1/species/9239375
+LIBSRC-LIB50-ENT-BIO-0974854,taxon_authority,"J.W.Bailey, 1854",https://api.gbif.org/v1/species/9239375
+LIBSRC-LIB50-ENT-BIO-0969754,scientific_identity,Caloneis aspera,https://api.gbif.org/v1/species/9537150
+LIBSRC-LIB50-ENT-BIO-0969754,taxon_authority,"Jouse & Seczkina, 1960",https://api.gbif.org/v1/species/9537150
+LIBSRC-LIB50-ENT-BIO-0968754,scientific_identity,Nupela tenuistriata,https://api.gbif.org/v1/species/8091619
+LIBSRC-LIB50-ENT-BIO-0968754,taxon_authority,"(Hustedt) Metzeltin & Lange-Bertalot, 1998",https://api.gbif.org/v1/species/8091619
+LIBSRC-LIB50-ENT-BIO-0974984,scientific_identity,Navicula limatoides,https://api.gbif.org/v1/species/8103370
+LIBSRC-LIB50-ENT-BIO-0974984,taxon_authority,"Hustedt, 1950",https://api.gbif.org/v1/species/8103370
+LIBSRC-LIB50-ENT-BIO-0975914,scientific_identity,Navicula pitoti,https://api.gbif.org/v1/species/9404016
+LIBSRC-LIB50-ENT-BIO-0975914,taxon_authority,"Guermeur, 1954",https://api.gbif.org/v1/species/9404016
+LIBSRC-LIB50-ENT-BIO-0975374,scientific_identity,Navicula poretzkiae,https://api.gbif.org/v1/species/8167364
+LIBSRC-LIB50-ENT-BIO-0975374,taxon_authority,"Korotkevich, 1960",https://api.gbif.org/v1/species/8167364
+LIBSRC-LIB50-ENT-BIO-0975004,scientific_identity,Navicula hennedyoides,https://api.gbif.org/v1/species/8193720
+LIBSRC-LIB50-ENT-BIO-0975004,taxon_authority,"Hustedt, 1964",https://api.gbif.org/v1/species/8193720
+LIBSRC-LIB50-ENT-BIO-0975804,scientific_identity,Navicula subpolaris,https://api.gbif.org/v1/species/7899137
+LIBSRC-LIB50-ENT-BIO-0975804,taxon_authority,"Hendey, 1937",https://api.gbif.org/v1/species/7899137
+LIBSRC-LIB50-ENT-BIO-0977214,scientific_identity,Navicula cardinalis,https://api.gbif.org/v1/species/7995376
+LIBSRC-LIB50-ENT-BIO-0977214,taxon_authority,"Ehrenberg, 1841",https://api.gbif.org/v1/species/7995376
+LIBSRC-LIB50-ENT-BIO-0975024,scientific_identity,Navicula alterofasciata,https://api.gbif.org/v1/species/7591596
+LIBSRC-LIB50-ENT-BIO-0975024,taxon_authority,"Kooijman, 1982",https://api.gbif.org/v1/species/7591596
+LIBSRC-LIB50-ENT-BIO-0976694,scientific_identity,Navicula densa,https://api.gbif.org/v1/species/7569838
+LIBSRC-LIB50-ENT-BIO-0976694,taxon_authority,Hustedt,https://api.gbif.org/v1/species/7569838
+LIBSRC-LIB50-ENT-BIO-0975574,scientific_identity,Navicula obtusata,https://api.gbif.org/v1/species/7985427
+LIBSRC-LIB50-ENT-BIO-0975574,taxon_authority,"Karajeva, 1964",https://api.gbif.org/v1/species/7985427
+LIBSRC-LIB50-ENT-BIO-0974994,scientific_identity,Navicula fuenzalidae,https://api.gbif.org/v1/species/8428547
+LIBSRC-LIB50-ENT-BIO-0974994,taxon_authority,"Frenguelli, 1938",https://api.gbif.org/v1/species/8428547
+LIBSRC-LIB50-ENT-BIO-0978694,scientific_identity,Navicula barbarica,https://api.gbif.org/v1/species/8294068
+LIBSRC-LIB50-ENT-BIO-0978694,taxon_authority,Hustedt,https://api.gbif.org/v1/species/8294068
+LIBSRC-LIB50-ENT-BIO-0976984,scientific_identity,Navicula destricta,https://api.gbif.org/v1/species/7898719
+LIBSRC-LIB50-ENT-BIO-0976984,taxon_authority,"Hustedt, 1942",https://api.gbif.org/v1/species/7898719
+LIBSRC-LIB50-ENT-BIO-0978164,scientific_identity,Navicula runtuensis,https://api.gbif.org/v1/species/7792495
+LIBSRC-LIB50-ENT-BIO-0978164,taxon_authority,Cholnoky,https://api.gbif.org/v1/species/7792495
+LIBSRC-LIB50-ENT-BIO-0968694,scientific_identity,Nupela rumrichorum,https://api.gbif.org/v1/species/7951889
+LIBSRC-LIB50-ENT-BIO-0968694,taxon_authority,"Lange-Bertalot, 1994",https://api.gbif.org/v1/species/7951889
+LIBSRC-LIB50-ENT-BIO-0976284,scientific_identity,Navicula tairuaensis,https://api.gbif.org/v1/species/8259915
+LIBSRC-LIB50-ENT-BIO-0976284,taxon_authority,"Foged, 1979",https://api.gbif.org/v1/species/8259915
+LIBSRC-LIB50-ENT-BIO-0979864,scientific_identity,Rhoikoneis decussata,https://api.gbif.org/v1/species/9502901
+LIBSRC-LIB50-ENT-BIO-0979864,taxon_authority,"Karsten, 1905",https://api.gbif.org/v1/species/9502901
+LIBSRC-LIB50-ENT-BIO-0975224,scientific_identity,Navicula inaequalis,https://api.gbif.org/v1/species/9595621
+LIBSRC-LIB50-ENT-BIO-0975224,taxon_authority,", 1866",https://api.gbif.org/v1/species/9595621
+LIBSRC-LIB50-ENT-BIO-0976964,scientific_identity,Navicula lapidosa,https://api.gbif.org/v1/species/5269733
+LIBSRC-LIB50-ENT-BIO-0978634,scientific_identity,Navicula minthe,https://api.gbif.org/v1/species/8026101
+LIBSRC-LIB50-ENT-BIO-0978634,taxon_authority,Hohn & Hellerman,https://api.gbif.org/v1/species/8026101
+LIBSRC-LIB50-ENT-BIO-0978744,scientific_identity,Navicula vara,https://api.gbif.org/v1/species/7586131
+LIBSRC-LIB50-ENT-BIO-0978744,taxon_authority,Hustedt,https://api.gbif.org/v1/species/7586131
+LIBSRC-LIB50-ENT-BIO-0974624,scientific_identity,Navicula commutabilis,https://api.gbif.org/v1/species/8235663
+LIBSRC-LIB50-ENT-BIO-0974624,taxon_authority,Hustedt,https://api.gbif.org/v1/species/8235663
+LIBSRC-LIB50-ENT-BIO-0976944,scientific_identity,Navicula cyclophora,https://api.gbif.org/v1/species/7969254
+LIBSRC-LIB50-ENT-BIO-0976944,taxon_authority,"Castracane, 1886",https://api.gbif.org/v1/species/7969254
+LIBSRC-LIB50-ENT-BIO-0978554,scientific_identity,Navicula perpusilla,https://api.gbif.org/v1/species/8335535
+LIBSRC-LIB50-ENT-BIO-0974494,scientific_identity,Navicula venustissima,https://api.gbif.org/v1/species/8417421
+LIBSRC-LIB50-ENT-BIO-0974494,taxon_authority,"Kitton, 1892",https://api.gbif.org/v1/species/8417421
+LIBSRC-LIB50-ENT-BIO-0974324,scientific_identity,Navicula cosmaria,https://api.gbif.org/v1/species/9279824
+LIBSRC-LIB50-ENT-BIO-0974324,taxon_authority,"Brebisson ex Kutzing, 1849",https://api.gbif.org/v1/species/9279824
+LIBSRC-LIB50-ENT-BIO-0975624,scientific_identity,Navicula rhombus,https://api.gbif.org/v1/species/9370258
+LIBSRC-LIB50-ENT-BIO-0975624,taxon_authority,"Petit, 1877",https://api.gbif.org/v1/species/9370258
+LIBSRC-LIB50-ENT-BIO-0976744,scientific_identity,Navicula maillardii,https://api.gbif.org/v1/species/7863451
+LIBSRC-LIB50-ENT-BIO-0976744,taxon_authority,"Germain, 1982",https://api.gbif.org/v1/species/7863451
+LIBSRC-LIB50-ENT-BIO-0969824,scientific_identity,Caloneis advena,https://api.gbif.org/v1/species/9312706
+LIBSRC-LIB50-ENT-BIO-0969824,taxon_authority,"VanLandingham, 1968",https://api.gbif.org/v1/species/9312706
+LIBSRC-LIB50-ENT-BIO-0975514,scientific_identity,Navicula pseudofusca,https://api.gbif.org/v1/species/8233404
+LIBSRC-LIB50-ENT-BIO-0975514,taxon_authority,"Pantocsek, 1886",https://api.gbif.org/v1/species/8233404
+LIBSRC-LIB50-ENT-BIO-0969894,scientific_identity,Caloneis consimilis,https://api.gbif.org/v1/species/8403149
+LIBSRC-LIB50-ENT-BIO-0969894,taxon_authority,"(A.Schmidt) Cleve, 1894",https://api.gbif.org/v1/species/8403149
+LIBSRC-LIB50-ENT-BIO-0976884,scientific_identity,Navicula occulta,https://api.gbif.org/v1/species/7444952
+LIBSRC-LIB50-ENT-BIO-0976884,taxon_authority,"Krasske, 1929",https://api.gbif.org/v1/species/7444952
+LIBSRC-LIB50-ENT-BIO-0975114,scientific_identity,Navicula brachysira,https://api.gbif.org/v1/species/7484525
+LIBSRC-LIB50-ENT-BIO-0975114,taxon_authority,"Brébisson ex Rabenhorst, 1853",https://api.gbif.org/v1/species/7484525
+LIBSRC-LIB50-ENT-BIO-0974584,scientific_identity,Navicula gouwsii,https://api.gbif.org/v1/species/8416361
+LIBSRC-LIB50-ENT-BIO-0974584,taxon_authority,"Cholnoky, 1953",https://api.gbif.org/v1/species/8416361
+LIBSRC-LIB50-ENT-BIO-0969834,scientific_identity,Caloneis zachariasi,https://api.gbif.org/v1/species/9317688
+LIBSRC-LIB50-ENT-BIO-0969834,taxon_authority,"Skvortzow, 1937",https://api.gbif.org/v1/species/9317688
+LIBSRC-LIB50-ENT-BIO-0975064,scientific_identity,Navicula smithii,https://api.gbif.org/v1/species/7909054
+LIBSRC-LIB50-ENT-BIO-0975064,taxon_authority,"(Grunow) Hustedt, 1909",https://api.gbif.org/v1/species/7909054
+LIBSRC-LIB50-ENT-BIO-0975824,scientific_identity,Navicula praesecta,https://api.gbif.org/v1/species/8009886
+LIBSRC-LIB50-ENT-BIO-0975824,taxon_authority,"Schmidt, 1874",https://api.gbif.org/v1/species/8009886
+LIBSRC-LIB50-ENT-BIO-0978724,scientific_identity,Navicula breitenbuchii,https://api.gbif.org/v1/species/5269380
+LIBSRC-LIB50-ENT-BIO-0978724,taxon_authority,Lange-Bertalot,https://api.gbif.org/v1/species/5269380
+LIBSRC-LIB50-ENT-BIO-0978824,scientific_identity,Navicula ireneae,https://api.gbif.org/v1/species/8346969
+LIBSRC-LIB50-ENT-BIO-0978824,taxon_authority,"Van de Vijver, Jarlman & Lange-Bertalot",https://api.gbif.org/v1/species/8346969
+LIBSRC-LIB50-ENT-BIO-0976274,scientific_identity,Navicula dubitata,https://api.gbif.org/v1/species/8230326
+LIBSRC-LIB50-ENT-BIO-0976274,taxon_authority,"Héribaud, 1903",https://api.gbif.org/v1/species/8230326
+LIBSRC-LIB50-ENT-BIO-0975384,scientific_identity,Navicula orientata,https://api.gbif.org/v1/species/9397060
+LIBSRC-LIB50-ENT-BIO-0975384,taxon_authority,"Karajeva, 1964",https://api.gbif.org/v1/species/9397060
+LIBSRC-LIB50-ENT-BIO-0968274,scientific_identity,Eolimna zalokariae,https://api.gbif.org/v1/species/8186407
+LIBSRC-LIB50-ENT-BIO-0968274,taxon_authority,"D.Metzeltin & H.Lange-Bertalot, 1998",https://api.gbif.org/v1/species/8186407
+LIBSRC-LIB50-ENT-BIO-0976734,scientific_identity,Navicula crabro,https://api.gbif.org/v1/species/7854944
+LIBSRC-LIB50-ENT-BIO-0978244,scientific_identity,Navicula chasmigera,https://api.gbif.org/v1/species/8118548
+LIBSRC-LIB50-ENT-BIO-0978244,taxon_authority,Cholnoky,https://api.gbif.org/v1/species/8118548
+LIBSRC-LIB50-ENT-BIO-0976784,scientific_identity,Navicula subnuda,https://api.gbif.org/v1/species/7354947
+LIBSRC-LIB50-ENT-BIO-0976784,taxon_authority,A.W.F.Schmidt,https://api.gbif.org/v1/species/7354947
+LIBSRC-LIB50-ENT-BIO-0975184,scientific_identity,Navicula pseudodahurica,https://api.gbif.org/v1/species/9333622
+LIBSRC-LIB50-ENT-BIO-0975184,taxon_authority,"H.Kobayasi, 1977",https://api.gbif.org/v1/species/9333622
+LIBSRC-LIB50-ENT-BIO-0978904,scientific_identity,Navicula chiarae,https://api.gbif.org/v1/species/8176323
+LIBSRC-LIB50-ENT-BIO-0978904,taxon_authority,Lange-Bertalot & Genkal,https://api.gbif.org/v1/species/8176323
+LIBSRC-LIB50-ENT-BIO-0978374,scientific_identity,Navicula potzgeri,https://api.gbif.org/v1/species/8319114
+LIBSRC-LIB50-ENT-BIO-0978374,taxon_authority,Reimer,https://api.gbif.org/v1/species/8319114
+LIBSRC-LIB50-ENT-BIO-0976604,scientific_identity,Navicula englertiae,https://api.gbif.org/v1/species/8719645
+LIBSRC-LIB50-ENT-BIO-0976604,taxon_authority,"A.Witkowski, Lange-Bertalot & J.P.Kociolek, 2009",https://api.gbif.org/v1/species/8719645
+LIBSRC-LIB50-ENT-BIO-0974894,scientific_identity,Navicula fuegiana,https://api.gbif.org/v1/species/8331104
+LIBSRC-LIB50-ENT-BIO-0974894,taxon_authority,"Frenguelli, 1924",https://api.gbif.org/v1/species/8331104
+LIBSRC-LIB50-ENT-BIO-0978984,scientific_identity,Navicula hastatula,https://api.gbif.org/v1/species/5269652
+LIBSRC-LIB50-ENT-BIO-0978984,taxon_authority,Lange-Bertalot & Miho,https://api.gbif.org/v1/species/5269652
+LIBSRC-LIB50-ENT-BIO-0969744,scientific_identity,Caloneis frasnensis,https://api.gbif.org/v1/species/7650287
+LIBSRC-LIB50-ENT-BIO-0969744,taxon_authority,"Fusey, 1948",https://api.gbif.org/v1/species/7650287
+LIBSRC-LIB50-ENT-BIO-0974224,scientific_identity,Navicula accommoda,https://api.gbif.org/v1/species/8327226
+LIBSRC-LIB50-ENT-BIO-0974224,taxon_authority,"Hustedt, 1950",https://api.gbif.org/v1/species/8327226
+LIBSRC-LIB50-ENT-BIO-0978684,scientific_identity,Navicula biaculeata,https://api.gbif.org/v1/species/7743253
+LIBSRC-LIB50-ENT-BIO-0978684,taxon_authority,Cleve-Euler,https://api.gbif.org/v1/species/7743253
+LIBSRC-LIB50-ENT-BIO-0974814,scientific_identity,Navicula cholonokyana,https://api.gbif.org/v1/species/9386537
+LIBSRC-LIB50-ENT-BIO-0974814,taxon_authority,"Foged, 1975",https://api.gbif.org/v1/species/9386537
+LIBSRC-LIB50-ENT-BIO-0975884,scientific_identity,Navicula gemmata,https://api.gbif.org/v1/species/7806879
+LIBSRC-LIB50-ENT-BIO-0975884,taxon_authority,"Greville, 1859",https://api.gbif.org/v1/species/7806879
+LIBSRC-LIB50-ENT-BIO-0978964,scientific_identity,Navicula cymbelliformis,https://api.gbif.org/v1/species/8206568
+LIBSRC-LIB50-ENT-BIO-0978964,taxon_authority,Cholnoky,https://api.gbif.org/v1/species/8206568
+LIBSRC-LIB50-ENT-BIO-0973954,scientific_identity,Geissleria jianghanensis,https://api.gbif.org/v1/species/9534913
+LIBSRC-LIB50-ENT-BIO-0973954,taxon_authority,"Li, 2005",https://api.gbif.org/v1/species/9534913
+LIBSRC-LIB50-ENT-BIO-0978734,scientific_identity,Navicula turris,https://api.gbif.org/v1/species/7606598
+LIBSRC-LIB50-ENT-BIO-0978734,taxon_authority,Hustedt,https://api.gbif.org/v1/species/7606598
+LIBSRC-LIB50-ENT-BIO-0978564,scientific_identity,Navicula amnicola,https://api.gbif.org/v1/species/8184990
+LIBSRC-LIB50-ENT-BIO-0978564,taxon_authority,Hohn & Hellerman,https://api.gbif.org/v1/species/8184990
+LIBSRC-LIB50-ENT-BIO-0974594,scientific_identity,Navicula gastroides,https://api.gbif.org/v1/species/9004488
+LIBSRC-LIB50-ENT-BIO-0974594,taxon_authority,"Gregory, 1855",https://api.gbif.org/v1/species/9004488
+LIBSRC-LIB50-ENT-BIO-0966734,scientific_identity,Germainiella enigmatica,https://api.gbif.org/v1/species/7792270
+LIBSRC-LIB50-ENT-BIO-0966734,taxon_authority,(Germain) Lange-Bertalot & Metzeltin,https://api.gbif.org/v1/species/7792270
+LIBSRC-LIB50-ENT-BIO-0978794,scientific_identity,Navicula parunculus,https://api.gbif.org/v1/species/8394050
+LIBSRC-LIB50-ENT-BIO-0978794,taxon_authority,Hustedt,https://api.gbif.org/v1/species/8394050
+LIBSRC-LIB50-ENT-BIO-0976624,scientific_identity,Navicula venus,https://api.gbif.org/v1/species/7351771
+LIBSRC-LIB50-ENT-BIO-0976624,taxon_authority,"Pantocsek, 1892",https://api.gbif.org/v1/species/7351771
+LIBSRC-LIB50-ENT-BIO-0973924,scientific_identity,Geissleria craticuloides,https://api.gbif.org/v1/species/7821830
+LIBSRC-LIB50-ENT-BIO-0973924,taxon_authority,"Metzeltin, Kulikovskiy & Lange-Bertalot, 2012",https://api.gbif.org/v1/species/7821830
+LIBSRC-LIB50-ENT-BIO-0976514,scientific_identity,Navicula uncinata,https://api.gbif.org/v1/species/8391969
+LIBSRC-LIB50-ENT-BIO-0976514,taxon_authority,"Ehrenberg, 1830",https://api.gbif.org/v1/species/8391969
+LIBSRC-LIB50-ENT-BIO-0979844,scientific_identity,Rhoikoneis interrupta,https://api.gbif.org/v1/species/9268688
+LIBSRC-LIB50-ENT-BIO-0979844,taxon_authority,"M.Peragallo, 1921",https://api.gbif.org/v1/species/9268688
+LIBSRC-LIB50-ENT-BIO-0978454,scientific_identity,Navicula heufleri,https://api.gbif.org/v1/species/5709721
+LIBSRC-LIB50-ENT-BIO-0978454,taxon_authority,Grunow,https://api.gbif.org/v1/species/5709721
+LIBSRC-LIB50-ENT-BIO-0969724,scientific_identity,Caloneis biconfusa,https://api.gbif.org/v1/species/7781202
+LIBSRC-LIB50-ENT-BIO-0969724,taxon_authority,"(Bourrelly & Manguin) Van Landingham, 1968",https://api.gbif.org/v1/species/7781202
+LIBSRC-LIB50-ENT-BIO-0975234,scientific_identity,Navicula ny,https://api.gbif.org/v1/species/7959525
+LIBSRC-LIB50-ENT-BIO-0975234,taxon_authority,"Cleve, 1894",https://api.gbif.org/v1/species/7959525
+LIBSRC-LIB50-ENT-BIO-0976914,scientific_identity,Navicula tristitiae,https://api.gbif.org/v1/species/7354211
+LIBSRC-LIB50-ENT-BIO-0976914,taxon_authority,"Schoeman, 1973",https://api.gbif.org/v1/species/7354211
+LIBSRC-LIB50-ENT-BIO-0976214,scientific_identity,Navicula grundtvigii,https://api.gbif.org/v1/species/8146387
+LIBSRC-LIB50-ENT-BIO-0976214,taxon_authority,"Foged, 1966",https://api.gbif.org/v1/species/8146387
+LIBSRC-LIB50-ENT-BIO-0976024,scientific_identity,Navicula discreta,https://api.gbif.org/v1/species/8241135
+LIBSRC-LIB50-ENT-BIO-0976024,taxon_authority,"Hustedt, 1964",https://api.gbif.org/v1/species/8241135
+LIBSRC-LIB50-ENT-BIO-0975704,scientific_identity,Navicula dvorachekii,https://api.gbif.org/v1/species/8426840
+LIBSRC-LIB50-ENT-BIO-0975704,taxon_authority,"Ehrlich, 1978",https://api.gbif.org/v1/species/8426840
+LIBSRC-LIB50-ENT-BIO-0978664,scientific_identity,Navicula kohlmaieri,https://api.gbif.org/v1/species/7497721
+LIBSRC-LIB50-ENT-BIO-0978664,taxon_authority,Lange-Bertalot,https://api.gbif.org/v1/species/7497721
+LIBSRC-LIB50-ENT-BIO-0976234,scientific_identity,Navicula nubicola,https://api.gbif.org/v1/species/8007642
+LIBSRC-LIB50-ENT-BIO-0976234,taxon_authority,"Grunow, 1880",https://api.gbif.org/v1/species/8007642
+LIBSRC-LIB50-ENT-BIO-0975714,scientific_identity,Navicula conveyi,https://api.gbif.org/v1/species/8146440
+LIBSRC-LIB50-ENT-BIO-0975714,taxon_authority,"Van de Vijver, 2011",https://api.gbif.org/v1/species/8146440
+LIBSRC-LIB50-ENT-BIO-0979064,scientific_identity,Navicula nodulosa,https://api.gbif.org/v1/species/8427727
+LIBSRC-LIB50-ENT-BIO-0979064,taxon_authority,(Bréb.) Kützing,https://api.gbif.org/v1/species/8427727
+LIBSRC-LIB50-ENT-BIO-0976154,scientific_identity,Navicula sub-kawamurae,https://api.gbif.org/v1/species/9322533
+LIBSRC-LIB50-ENT-BIO-0976154,taxon_authority,"Skvortzow, 1971",https://api.gbif.org/v1/species/9322533
+LIBSRC-LIB50-ENT-BIO-0975724,scientific_identity,Navicula sansegana,https://api.gbif.org/v1/species/7664621
+LIBSRC-LIB50-ENT-BIO-0975724,taxon_authority,"Grunow, 1875",https://api.gbif.org/v1/species/7664621
+LIBSRC-LIB50-ENT-BIO-0974454,scientific_identity,Navicula crepitacula,https://api.gbif.org/v1/species/7765572
+LIBSRC-LIB50-ENT-BIO-0974454,taxon_authority,"Carter & Denny, 1982",https://api.gbif.org/v1/species/7765572
+LIBSRC-LIB50-ENT-BIO-0969794,scientific_identity,Caloneis undulatiformis,https://api.gbif.org/v1/species/7855431
+LIBSRC-LIB50-ENT-BIO-0969794,taxon_authority,"H.Lange-Bertalot & Reichadt, 2000",https://api.gbif.org/v1/species/7855431
+LIBSRC-LIB50-ENT-BIO-0974274,scientific_identity,Navicula stabilis,https://api.gbif.org/v1/species/9584385
+LIBSRC-LIB50-ENT-BIO-0974274,taxon_authority,", 1934",https://api.gbif.org/v1/species/9584385
+LIBSRC-LIB50-ENT-BIO-0974614,scientific_identity,Navicula guihotii,https://api.gbif.org/v1/species/7861476
+LIBSRC-LIB50-ENT-BIO-0974614,taxon_authority,"Amossé, 1969",https://api.gbif.org/v1/species/7861476
+LIBSRC-LIB50-ENT-BIO-0978674,scientific_identity,Navicula kohlenbachii,https://api.gbif.org/v1/species/5269976
+LIBSRC-LIB50-ENT-BIO-0978674,taxon_authority,Lange-Bertalot & U.Rumrich,https://api.gbif.org/v1/species/5269976
+LIBSRC-LIB50-ENT-BIO-0968254,scientific_identity,Eolimna buryatica,https://api.gbif.org/v1/species/9321357
+LIBSRC-LIB50-ENT-BIO-0968254,taxon_authority,"Kulikovskiy & Lange-Bertalot, 2015",https://api.gbif.org/v1/species/9321357
+LIBSRC-LIB50-ENT-BIO-0975844,scientific_identity,Navicula pseudolucidula,https://api.gbif.org/v1/species/7615358
+LIBSRC-LIB50-ENT-BIO-0975844,taxon_authority,"Guermeur, 1954",https://api.gbif.org/v1/species/7615358
+LIBSRC-LIB50-ENT-BIO-0976054,scientific_identity,Navicula zanzibarica,https://api.gbif.org/v1/species/7492010
+LIBSRC-LIB50-ENT-BIO-0978514,scientific_identity,Navicula hippodontaformis,https://api.gbif.org/v1/species/9512248
+LIBSRC-LIB50-ENT-BIO-0978514,taxon_authority,"Witkowski, Riaux-Gobin & Daniszewska-Kowalczyk",https://api.gbif.org/v1/species/9512248
+LIBSRC-LIB50-ENT-BIO-0976444,scientific_identity,Navicula lundstroemii,https://api.gbif.org/v1/species/5267856
+LIBSRC-LIB50-ENT-BIO-0979014,scientific_identity,Navicula litos,https://api.gbif.org/v1/species/8183228
+LIBSRC-LIB50-ENT-BIO-0979014,taxon_authority,Hohn & Hellerman,https://api.gbif.org/v1/species/8183228
+LIBSRC-LIB50-ENT-BIO-0976034,scientific_identity,Navicula cornubiensis,https://api.gbif.org/v1/species/8286086
+LIBSRC-LIB50-ENT-BIO-0976034,taxon_authority,"Hendey, 1973",https://api.gbif.org/v1/species/8286086
+LIBSRC-LIB50-ENT-BIO-0974754,scientific_identity,Navicula helminae,https://api.gbif.org/v1/species/7936387
+LIBSRC-LIB50-ENT-BIO-0974754,taxon_authority,"Heiden, 1928",https://api.gbif.org/v1/species/7936387
+LIBSRC-LIB50-ENT-BIO-0978504,scientific_identity,Navicula convergens,https://api.gbif.org/v1/species/8232422
+LIBSRC-LIB50-ENT-BIO-0978504,taxon_authority,Patrick,https://api.gbif.org/v1/species/8232422
+LIBSRC-LIB50-ENT-BIO-0974914,scientific_identity,Navicula granumavenae,https://api.gbif.org/v1/species/8305703
+LIBSRC-LIB50-ENT-BIO-0974914,taxon_authority,"Schumann, 1867",https://api.gbif.org/v1/species/8305703
+LIBSRC-LIB50-ENT-BIO-0974644,scientific_identity,Navicula bryophiloides,https://api.gbif.org/v1/species/7405001
+LIBSRC-LIB50-ENT-BIO-0974644,taxon_authority,"Manguin, 1962",https://api.gbif.org/v1/species/7405001
+LIBSRC-LIB50-ENT-BIO-0978404,scientific_identity,Navicula cyclops,https://api.gbif.org/v1/species/7608852
+LIBSRC-LIB50-ENT-BIO-0978404,taxon_authority,A.Mann,https://api.gbif.org/v1/species/7608852
+LIBSRC-LIB50-ENT-BIO-0974934,scientific_identity,Navicula digrediens,https://api.gbif.org/v1/species/7698900
+LIBSRC-LIB50-ENT-BIO-0974934,taxon_authority,"Schmidt, 1881",https://api.gbif.org/v1/species/7698900
+LIBSRC-LIB50-ENT-BIO-0978294,scientific_identity,Navicula hodgeana,https://api.gbif.org/v1/species/8274461
+LIBSRC-LIB50-ENT-BIO-0978294,taxon_authority,Patrick & Freese,https://api.gbif.org/v1/species/8274461
+LIBSRC-LIB50-ENT-BIO-0976774,scientific_identity,Navicula rivularis,https://api.gbif.org/v1/species/8050156
+LIBSRC-LIB50-ENT-BIO-0976774,taxon_authority,"Hustedt, 1942",https://api.gbif.org/v1/species/8050156
+LIBSRC-LIB50-ENT-BIO-0978314,scientific_identity,Navicula persica,https://api.gbif.org/v1/species/8205220
+LIBSRC-LIB50-ENT-BIO-0978314,taxon_authority,Rabenhorst,https://api.gbif.org/v1/species/8205220
+LIBSRC-LIB50-ENT-BIO-0978394,scientific_identity,Navicula agnita,https://api.gbif.org/v1/species/5269137
+LIBSRC-LIB50-ENT-BIO-0978394,taxon_authority,Hustedt,https://api.gbif.org/v1/species/5269137
+LIBSRC-LIB50-ENT-BIO-0976164,scientific_identity,Navicula anderssonii,https://api.gbif.org/v1/species/8148380
+LIBSRC-LIB50-ENT-BIO-0976164,taxon_authority,"Cleve, 1881",https://api.gbif.org/v1/species/8148380
+LIBSRC-LIB50-ENT-BIO-0974484,scientific_identity,Navicula sphagnophila,https://api.gbif.org/v1/species/8347632
+LIBSRC-LIB50-ENT-BIO-0974484,taxon_authority,"Krasske, 1948",https://api.gbif.org/v1/species/8347632
+LIBSRC-LIB50-ENT-BIO-0974384,scientific_identity,Navicula asymmetrica,https://api.gbif.org/v1/species/8339475
+LIBSRC-LIB50-ENT-BIO-0974384,taxon_authority,"Cleve, 1883",https://api.gbif.org/v1/species/8339475
+LIBSRC-LIB50-ENT-BIO-0976554,scientific_identity,Navicula involuta,https://api.gbif.org/v1/species/8322394
+LIBSRC-LIB50-ENT-BIO-0976554,taxon_authority,"Mayer, 1919",https://api.gbif.org/v1/species/8322394
+LIBSRC-LIB50-ENT-BIO-0979584,scientific_identity,Naviculadicta schneckenburgeri,https://api.gbif.org/v1/species/7382810
+LIBSRC-LIB50-ENT-BIO-0979584,taxon_authority,"Gerd Moser, 1998",https://api.gbif.org/v1/species/7382810
+LIBSRC-LIB50-ENT-BIO-0969624,scientific_identity,Caloneis rostrata,https://api.gbif.org/v1/species/9274703
+LIBSRC-LIB50-ENT-BIO-0969624,taxon_authority,"K.E.Lohman, 1957",https://api.gbif.org/v1/species/9274703
+LIBSRC-LIB50-ENT-BIO-0976584,scientific_identity,Navicula pseudorthoneoides,https://api.gbif.org/v1/species/7959642
+LIBSRC-LIB50-ENT-BIO-0976584,taxon_authority,"Foged, 1975",https://api.gbif.org/v1/species/7959642
+LIBSRC-LIB50-ENT-BIO-0974354,scientific_identity,Navicula szontaghii,https://api.gbif.org/v1/species/8296774
+LIBSRC-LIB50-ENT-BIO-0974354,taxon_authority,"Pantocsek, 1886",https://api.gbif.org/v1/species/8296774
+LIBSRC-LIB50-ENT-BIO-0975214,scientific_identity,Navicula mugadensis,https://api.gbif.org/v1/species/7386785
+LIBSRC-LIB50-ENT-BIO-0975214,taxon_authority,"Gandhi, 1959",https://api.gbif.org/v1/species/7386785
+LIBSRC-LIB50-ENT-BIO-0974724,scientific_identity,Navicula stundlii,https://api.gbif.org/v1/species/7580259
+LIBSRC-LIB50-ENT-BIO-0974724,taxon_authority,"Hustedt, 1959",https://api.gbif.org/v1/species/7580259
+LIBSRC-LIB50-ENT-BIO-0974924,scientific_identity,Navicula groveoides,https://api.gbif.org/v1/species/8393166
+LIBSRC-LIB50-ENT-BIO-0974924,taxon_authority,"Hustedt, 1966",https://api.gbif.org/v1/species/8393166
+LIBSRC-LIB50-ENT-BIO-0976534,scientific_identity,Navicula lacunicola,https://api.gbif.org/v1/species/8068111
+LIBSRC-LIB50-ENT-BIO-0976534,taxon_authority,"Patrick & Freese, 1961",https://api.gbif.org/v1/species/8068111
+LIBSRC-LIB50-ENT-BIO-0969874,scientific_identity,Caloneis aequatoralis,https://api.gbif.org/v1/species/9463444
+LIBSRC-LIB50-ENT-BIO-0966664,scientific_identity,Adlafia muscora,https://api.gbif.org/v1/species/8226402
+LIBSRC-LIB50-ENT-BIO-0966664,taxon_authority,"(J.P.Kociolek & B.Reviers) Gerd Moser, Lange-Bertalot & D.Metzeltin, 1998",https://api.gbif.org/v1/species/8226402
+LIBSRC-LIB50-ENT-BIO-0976174,scientific_identity,Navicula resecta,https://api.gbif.org/v1/species/7614700
+LIBSRC-LIB50-ENT-BIO-0976174,taxon_authority,"J.R.Carter, 1981",https://api.gbif.org/v1/species/7614700
+LIBSRC-LIB50-ENT-BIO-0975054,scientific_identity,Navicula centrafricana,https://api.gbif.org/v1/species/9240862
+LIBSRC-LIB50-ENT-BIO-0975054,taxon_authority,"Fusey, 1964",https://api.gbif.org/v1/species/9240862
+LIBSRC-LIB50-ENT-BIO-0974394,scientific_identity,Navicula lacusbaicali,https://api.gbif.org/v1/species/7986421
+LIBSRC-LIB50-ENT-BIO-0976414,scientific_identity,Navicula pseudocarminata,https://api.gbif.org/v1/species/7810476
+LIBSRC-LIB50-ENT-BIO-0976414,taxon_authority,"Manguin, 1952",https://api.gbif.org/v1/species/7810476
+LIBSRC-LIB50-ENT-BIO-0974634,scientific_identity,Navicula temniskovae,https://api.gbif.org/v1/species/8900488
+LIBSRC-LIB50-ENT-BIO-0974634,taxon_authority,"H.Lange-Bertalot & D.Metzeltin, 2006",https://api.gbif.org/v1/species/8900488
