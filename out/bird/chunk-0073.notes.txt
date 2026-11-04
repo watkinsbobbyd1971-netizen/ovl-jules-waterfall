@@ -1,0 +1,8 @@
+I consulted Wikipedia for the subjects in this chunk (e.g. Blade, Earring, Potsherd, Basketry, Indian Peace Medal). All of these subjects are human-made artifacts. They clearly do not belong in the "bird" category, which expects data_type features such as anatomical_length, body_mass, life_stage, and wingspan. I have therefore submitted an empty output file for this chunk.
+
+Sources consulted:
+- https://en.wikipedia.org/wiki/Blade
+- https://en.wikipedia.org/wiki/Earring
+- https://en.wikipedia.org/wiki/Glossary_of_archaeology#potsherd
+- https://en.wikipedia.org/wiki/Basket_weaving
+- https://en.wikipedia.org/wiki/Indian_peace_medal
