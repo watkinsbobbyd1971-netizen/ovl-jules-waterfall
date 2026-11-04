@@ -1,0 +1,1 @@
+Attempted to search Wikidata API (wbsearchentities) and other structured sources for exact subject name matches. The unambiguous exact matches were either not found, ambiguous, or lacked the required specific properties for built_environment (like exact material_identity JSON, or dimension_length in mm). Wrote an empty result output file as permitted by rules.
