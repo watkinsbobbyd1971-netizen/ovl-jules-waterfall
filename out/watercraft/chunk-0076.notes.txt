@@ -1,0 +1,1 @@
+Tried Wikidata (SPARQL and WB API) and Wikipedia, but Wikidata returns HTTP 429 Too Many Requests, and Wikipedia search also returns HTTP 429. Without access to Wikipedia/Wikidata or other open ship databases (no APIs available for MarineTraffic/VesselFinder without keys), we cannot source properties. Returning empty result.
