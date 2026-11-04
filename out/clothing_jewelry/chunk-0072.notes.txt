@@ -1,0 +1,1 @@
+Attempted to look up Smithsonian objects in standard APIs (WikiData /si.edu). Smithsonian APIs and Wikipedia API returned HTTP 429 Too Many Requests. No other structured APIs or source links to extract specific values. Therefore, output is empty.
