@@ -1,0 +1,5 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP18678-REC3735532,scientific_identity,Camelidae,https://api.gbif.org/v1/species/match?name=Camelidae&strict=true
+IDB-REG_02-CAT_12-ERA_03-1780-ACC04-HOP16408-REC3281442,scientific_identity,Ovis aries,https://api.gbif.org/v1/species/334497250
+IDB-REG_02-CAT_12-ERA_03-1780-ACC04-HOP18359-REC3671762,scientific_identity,Ovis aries,https://api.gbif.org/v1/species/334497250
+IDB-REG_03-CAT_11-ERA_03-1780-ACC04-HOP18816-REC3763133,scientific_identity,"Ovis aries Linnaeus, 1758",https://api.gbif.org/v1/species/match?name=Ovis%20aries&strict=true
