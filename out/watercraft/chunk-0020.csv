@@ -1,0 +1,43 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB44-ENT-VEH-0088076,descriptive_identity,"""river cruise ship""",https://www.wikidata.org/wiki/Q131535272
+LIBSRC-LIB44-ENT-VEH-0088076,dimension_length,83300.0,https://www.wikidata.org/wiki/Q131535272
+LIBSRC-LIB44-ENT-VEH-0088076,draft,1700.0,https://www.wikidata.org/wiki/Q131535272
+LIBSRC-LIB44-ENT-VEH-0095039,descriptive_identity,"""ferry""",https://www.wikidata.org/wiki/Q26265836
+LIBSRC-LIB44-ENT-VEH-0095039,dimension_length,31220.0,https://www.wikidata.org/wiki/Q26265836
+LIBSRC-LIB44-ENT-VEH-0094012,descriptive_identity,"""ship""",https://www.wikidata.org/wiki/Q23042441
+LIBSRC-LIB44-ENT-VEH-0094012,dimension_length,54820.0,https://www.wikidata.org/wiki/Q23042441
+LIBSRC-LIB44-ENT-VEH-0092575,dimension_length,141170.0,https://www.wikidata.org/wiki/Q19962442
+LIBSRC-LIB44-ENT-VEH-0092575,draft,5570.0,https://www.wikidata.org/wiki/Q19962442
+LIBSRC-LIB44-ENT-VEH-0101093,dimension_length,140320.0,https://www.wikidata.org/wiki/Q52295766
+LIBSRC-LIB44-ENT-VEH-0099693,dimension_length,156200.0,https://www.wikidata.org/wiki/Q48995686
+LIBSRC-LIB44-ENT-VEH-0089351,descriptive_identity,"""inland waterway vessel""",https://www.wikidata.org/wiki/Q140172607
+LIBSRC-LIB44-ENT-VEH-0041423,dimension_length,85300.0,https://www.wikidata.org/wiki/Q18644906
+LIBSRC-LIB44-ENT-VEH-0041423,draft,3730.0,https://www.wikidata.org/wiki/Q18644906
+LIBSRC-LIB44-ENT-VEH-0128142,dimension_length,186000.0,https://www.wikidata.org/wiki/Q83645620
+LIBSRC-LIB44-ENT-VEH-0125119,manufacturer_or_creator,"""Petrozavod""",https://www.wikidata.org/wiki/Q83638696
+LIBSRC-LIB44-ENT-VEH-0125119,dimension_length,29300.0,https://www.wikidata.org/wiki/Q83638696
+LIBSRC-LIB44-ENT-VEH-0101238,manufacturer_or_creator,"""Trosvik Verksted""",https://www.wikidata.org/wiki/Q52508664
+LIBSRC-LIB44-ENT-VEH-0101238,dimension_length,100000.0,https://www.wikidata.org/wiki/Q52508664
+LIBSRC-LIB44-ENT-VEH-0069667,dimension_length,53000.0,https://www.wikidata.org/wiki/Q122709554
+LIBSRC-LIB44-ENT-VEH-0066550,dimension_length,52000.0,https://www.wikidata.org/wiki/Q122687248
+LIBSRC-LIB44-ENT-VEH-0066063,manufacturer_or_creator,"""Rosenberg Mekaniske Verksted""",https://www.wikidata.org/wiki/Q11987642
+LIBSRC-LIB44-ENT-VEH-0066063,dimension_length,291410.0,https://www.wikidata.org/wiki/Q11987642
+LIBSRC-LIB44-ENT-VEH-0056698,descriptive_identity,"""LPG carrier""",https://www.wikidata.org/wiki/Q117070202
+LIBSRC-LIB44-ENT-VEH-0056698,dimension_length,53000.0,https://www.wikidata.org/wiki/Q117070202
+LIBSRC-LIB44-ENT-VEH-0065430,descriptive_identity,"""survey vessel""",https://www.wikidata.org/wiki/Q117824046
+LIBSRC-LIB44-ENT-VEH-0065430,manufacturer_or_creator,"""Remontowa Shipbuilding""",https://www.wikidata.org/wiki/Q117824046
+LIBSRC-LIB44-ENT-VEH-0067625,dimension_length,50000.0,https://www.wikidata.org/wiki/Q122698436
+LIBSRC-LIB44-ENT-VEH-0066912,dimension_length,46000.0,https://www.wikidata.org/wiki/Q122697391
+LIBSRC-LIB44-ENT-VEH-0122399,manufacturer_or_creator,"""Richard Dunston""",https://www.wikidata.org/wiki/Q83628024
+LIBSRC-LIB44-ENT-VEH-0122399,dimension_length,34290.0,https://www.wikidata.org/wiki/Q83628024
+LIBSRC-LIB44-ENT-VEH-0122432,dimension_length,120000.0,https://www.wikidata.org/wiki/Q83628090
+LIBSRC-LIB44-ENT-VEH-0104385,dimension_length,25630.0,https://www.wikidata.org/wiki/Q52505724
+LIBSRC-LIB44-ENT-VEH-0108757,dimension_length,48620.0,https://www.wikidata.org/wiki/Q57315268
+LIBSRC-LIB44-ENT-VEH-0111480,dimension_length,201230.0,https://www.wikidata.org/wiki/Q7072724
+LIBSRC-LIB44-ENT-VEH-0111117,dimension_length,125000.0,https://www.wikidata.org/wiki/Q6719960
+LIBSRC-LIB44-ENT-VEH-0111117,draft,5240.0,https://www.wikidata.org/wiki/Q6719960
+LIBSRC-LIB44-ENT-VEH-0104381,descriptive_identity,"""roll-on/roll-off ship""",https://www.wikidata.org/wiki/Q52505612
+LIBSRC-LIB44-ENT-VEH-0104381,dimension_length,54000.0,https://www.wikidata.org/wiki/Q52505612
+LIBSRC-LIB44-ENT-VEH-0066871,dimension_length,65000.0,https://www.wikidata.org/wiki/Q122697342
+LIBSRC-LIB44-ENT-VEH-0066918,dimension_length,56000.0,https://www.wikidata.org/wiki/Q122697398
+LIBSRC-LIB44-ENT-VEH-0066933,dimension_length,169000.0,https://www.wikidata.org/wiki/Q122697427
