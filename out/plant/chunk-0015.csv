@@ -1,0 +1,726 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-1177655,scientific_identity,Orchis × spuria Rchb.f.,https://www.gbif.org/species/2849361
+LIBSRC-LIB50-ENT-BIO-1187105,scientific_identity,Dendrobium fulgescens J.J.Sm.,https://www.gbif.org/species/5315409
+LIBSRC-LIB50-ENT-BIO-1179015,scientific_identity,Gongora aceras Dressler,https://www.gbif.org/species/2839097
+LIBSRC-LIB50-ENT-BIO-1190285,scientific_identity,Oncidium isthmi Schltr.,https://www.gbif.org/species/5322303
+LIBSRC-LIB50-ENT-BIO-1192835,scientific_identity,Bulbophyllum jacintense Campacci,https://www.gbif.org/species/10894518
+LIBSRC-LIB50-ENT-BIO-1184425,scientific_identity,"Pinalia carnosula (J.J.Sm.) Schuit., Y.P.Ng & H.A.Pedersen",https://www.gbif.org/species/10932615
+LIBSRC-LIB50-ENT-BIO-1170825,scientific_identity,Scaphosepalum swertiifolium (Rchb.f.) Rolfe,https://www.gbif.org/species/2849200
+LIBSRC-LIB50-ENT-BIO-1185615,scientific_identity,Ophrys × notabilis Renz & Taubenheim,https://www.gbif.org/species/2793819
+LIBSRC-LIB50-ENT-BIO-1187405,scientific_identity,Otoglossum chiriquense (Rchb.f.) Garay & Dunst.,https://www.gbif.org/species/2832590
+LIBSRC-LIB50-ENT-BIO-1179835,scientific_identity,Comparettia chiribogae (Dodson) M.W.Chase & N.H.Williams,https://www.gbif.org/species/5951915
+LIBSRC-LIB50-ENT-BIO-1192245,scientific_identity,Bulbophyllum macphersonii Rupp,https://www.gbif.org/species/2844118
+LIBSRC-LIB50-ENT-BIO-1189555,scientific_identity,Microcoelia smithii (Rolfe) Summerh.,https://www.gbif.org/species/5311165
+LIBSRC-LIB50-ENT-BIO-1176845,scientific_identity,Maxillaria albata Lindl.,https://www.gbif.org/species/5317913
+LIBSRC-LIB50-ENT-BIO-1190155,scientific_identity,Holcoglossum lingulatum (Aver.) Aver.,https://www.gbif.org/species/2827989
+LIBSRC-LIB50-ENT-BIO-1191135,scientific_identity,Peristylus spathulatus J.J.Sm.,https://www.gbif.org/species/2817420
+LIBSRC-LIB50-ENT-BIO-1169415,scientific_identity,Catasetum fernandezii D.E.Benn. & Christenson,https://www.gbif.org/species/2804065
+LIBSRC-LIB50-ENT-BIO-1181485,scientific_identity,Stelis guerrerensis Soto Arenas & Solano,https://www.gbif.org/species/9415768
+LIBSRC-LIB50-ENT-BIO-1192545,scientific_identity,Bulbophyllum afzelii Schltr.,https://www.gbif.org/species/2845194
+LIBSRC-LIB50-ENT-BIO-1191615,scientific_identity,Dinklageella minor Summerh.,https://www.gbif.org/species/2783563
+LIBSRC-LIB50-ENT-BIO-1180595,scientific_identity,Stelis opimipetala Luer & Hirtz,https://www.gbif.org/species/5309447
+LIBSRC-LIB50-ENT-BIO-1175055,scientific_identity,Neottia papilligera Schltr.,https://www.gbif.org/species/2816381
+LIBSRC-LIB50-ENT-BIO-1178545,scientific_identity,Thrixspermum samarindae Schltr.,https://www.gbif.org/species/2846787
+LIBSRC-LIB50-ENT-BIO-1189455,scientific_identity,"Porpax compacta (P.J.Cribb) Schuit., Y.P.Ng & H.A.Pedersen",https://www.gbif.org/species/10963460
+LIBSRC-LIB50-ENT-BIO-1192895,scientific_identity,Bulbophyllum quadrichaete Schltr.,https://www.gbif.org/species/2844189
+LIBSRC-LIB50-ENT-BIO-1185825,scientific_identity,"Ophrys × parenzani Medagli, D'Emerico & Ruggiero",https://www.gbif.org/species/3655330
+LIBSRC-LIB50-ENT-BIO-1169285,scientific_identity,Catasetum finetianum L.Linden & Cogn.,https://www.gbif.org/species/2803834
+LIBSRC-LIB50-ENT-BIO-1174695,scientific_identity,Platystele johnstonii (Ames) Garay,https://www.gbif.org/species/2790670
+LIBSRC-LIB50-ENT-BIO-1193555,scientific_identity,Bulbophyllum ngoclinhensis Aver.,https://www.gbif.org/species/2843132
+LIBSRC-LIB50-ENT-BIO-1178615,scientific_identity,Thrixspermum integrum L.O.Williams,https://www.gbif.org/species/2846833
+LIBSRC-LIB50-ENT-BIO-1166435,scientific_identity,Crossoglossa dalstroemii (Dodson) Dodson,https://www.gbif.org/species/5306479
+LIBSRC-LIB50-ENT-BIO-1175745,scientific_identity,Dactylorhiza × venusta (T.Stephenson & T.A.Stephenson) Soó,https://www.gbif.org/species/12106443
+LIBSRC-LIB50-ENT-BIO-1191905,scientific_identity,"Bulbophyllum xylinopus J.J.Verm., P.O'Byrne & A.Lamb",https://www.gbif.org/species/9290819
+LIBSRC-LIB50-ENT-BIO-1191365,scientific_identity,Stanhopea marizaiana Jenny,https://www.gbif.org/species/3657251
+LIBSRC-LIB50-ENT-BIO-1183605,scientific_identity,"Calanthe averyanoviana M.W.Chase, Christenh. & Schuit.",https://www.gbif.org/species/12234677
+LIBSRC-LIB50-ENT-BIO-1182025,scientific_identity,Taeniophyllum bracteatum L.O.Williams,https://www.gbif.org/species/5323448
+LIBSRC-LIB50-ENT-BIO-1178735,scientific_identity,Thrixspermum tsii W.H.Chen & Y.M.Shui,https://www.gbif.org/species/2846921
+LIBSRC-LIB50-ENT-BIO-1170125,scientific_identity,Dressleria morenoi H.G.Hills & M.H.Weber,https://www.gbif.org/species/9618237
+LIBSRC-LIB50-ENT-BIO-1180165,scientific_identity,Trichosalpinx membraniflora (C.Schweinf.) Luer,https://www.gbif.org/species/2791611
+LIBSRC-LIB50-ENT-BIO-1178485,scientific_identity,"Thrixspermum hystrix Kuntze, 1891",https://www.gbif.org/species/8391201
+LIBSRC-LIB50-ENT-BIO-1167795,scientific_identity,Habenaria megapotamensis Hoehne,https://www.gbif.org/species/2828837
+LIBSRC-LIB50-ENT-BIO-1168675,scientific_identity,Coelogyne articulata (Lindl.) Rchb.f.,https://www.gbif.org/species/2838675
+LIBSRC-LIB50-ENT-BIO-1167415,scientific_identity,Habenaria zamudioana R.González,https://www.gbif.org/species/2828797
+LIBSRC-LIB50-ENT-BIO-1174325,scientific_identity,Pterostylis gibbosa R.Br.,https://www.gbif.org/species/2847606
+LIBSRC-LIB50-ENT-BIO-1178215,scientific_identity,Specklinia acutiflora (Ruiz & Pav.) Pupulin,https://www.gbif.org/species/9332487
+LIBSRC-LIB50-ENT-BIO-1194595,scientific_identity,Cynorkis saxicola Schltr.,https://www.gbif.org/species/2781432
+LIBSRC-LIB50-ENT-BIO-1184055,scientific_identity,Chiloglottis trullata D.L.Jones,https://www.gbif.org/species/2847248
+LIBSRC-LIB50-ENT-BIO-1183115,scientific_identity,Goodyera hispaniolae Dod,https://www.gbif.org/species/2840666
+LIBSRC-LIB50-ENT-BIO-1168235,scientific_identity,Schiedeella saltensis Schltr.,https://www.gbif.org/species/2849721
+LIBSRC-LIB50-ENT-BIO-1193725,scientific_identity,Bulbophyllum gnomoniferum Ames,https://www.gbif.org/species/2843444
+LIBSRC-LIB50-ENT-BIO-1176765,scientific_identity,Maxillaria bradei Schltr. ex Hoehne,https://www.gbif.org/species/5318243
+LIBSRC-LIB50-ENT-BIO-1189585,scientific_identity,Gomphichis koehleri Schltr.,https://www.gbif.org/species/2816891
+LIBSRC-LIB50-ENT-BIO-1178835,scientific_identity,Microthelys minutiflora (A.Rich. & Galeotti) Garay,https://www.gbif.org/species/2838883
+LIBSRC-LIB50-ENT-BIO-1180585,scientific_identity,Stelis maloi Luer,https://www.gbif.org/species/5309151
+LIBSRC-LIB50-ENT-BIO-1179335,scientific_identity,Anathallis abbreviata (Schltr.) Pridgeon & M.W.Chase,https://www.gbif.org/species/2782954
+LIBSRC-LIB50-ENT-BIO-1169145,scientific_identity,Galeandra hysterantha Barb.Rodr.,https://www.gbif.org/species/2820985
+LIBSRC-LIB50-ENT-BIO-1170455,scientific_identity,"Draconanthes trachysepala (Schltr.) Kolan., S.Nowak & Szlach.",https://www.gbif.org/species/12176180
+LIBSRC-LIB50-ENT-BIO-1190305,scientific_identity,Oncidium tenuoides M.W.Chase & N.H.Williams,https://www.gbif.org/species/5826346
+LIBSRC-LIB50-ENT-BIO-1171635,taxon_authority,Hágsater & Dodson,https://www.gbif.org/species/296134478
+LIBSRC-LIB50-ENT-BIO-1171635,scientific_identity,Epidendrum boscoense Hágsater & Dodson,https://www.gbif.org/species/296134478
+LIBSRC-LIB50-ENT-BIO-1166325,scientific_identity,Satyrium yunnanense Rolfe,https://www.gbif.org/species/5307457
+LIBSRC-LIB50-ENT-BIO-1185625,scientific_identity,Masdevallia thienii Dodson,https://www.gbif.org/species/2848517
+LIBSRC-LIB50-ENT-BIO-1179365,scientific_identity,Anathallis simpliciglossa (Loefgr.) Pridgeon & M.W.Chase,https://www.gbif.org/species/2782712
+LIBSRC-LIB50-ENT-BIO-1170765,scientific_identity,Scaphosepalum grande Kraenzl.,https://www.gbif.org/species/2849218
+LIBSRC-LIB50-ENT-BIO-1186665,scientific_identity,"Dendrobium cyrusianum P.O'Byrne, Gokusing & J.J.Wood",https://www.gbif.org/species/9285311
+LIBSRC-LIB50-ENT-BIO-1170555,scientific_identity,"Cephalanthera alba Fritsch, 1888",https://www.gbif.org/species/7671177
+LIBSRC-LIB50-ENT-BIO-1166595,scientific_identity,Oberonia balakrishnanii R.Ansari,https://www.gbif.org/species/5312938
+LIBSRC-LIB50-ENT-BIO-1187385,scientific_identity,Dendrobium petrophilum (Kraenzl.) Garay ex N.Hallé,https://www.gbif.org/species/5317517
+LIBSRC-LIB50-ENT-BIO-1187315,scientific_identity,Dendrobium mutabile (Blume) Lindl.,https://www.gbif.org/species/5316101
+LIBSRC-LIB50-ENT-BIO-1191895,scientific_identity,"Bulbophyllum sondangii Vuong & Aver.A.Flattened, 2023",https://www.gbif.org/species/12233581
+LIBSRC-LIB50-ENT-BIO-1176395,scientific_identity,"Liparis cuneilabris F.Muell., 1864",https://www.gbif.org/species/7706347
+LIBSRC-LIB50-ENT-BIO-1179125,taxon_authority,"Senghas, 1993",https://www.gbif.org/species/3653288
+LIBSRC-LIB50-ENT-BIO-1179125,scientific_identity,"Batemania leferenzii Senghas, 1993",https://www.gbif.org/species/3653288
+LIBSRC-LIB50-ENT-BIO-1194715,scientific_identity,Pennilabium acuminatum (Ridl.) Holttum,https://www.gbif.org/species/2796889
+LIBSRC-LIB50-ENT-BIO-1167835,scientific_identity,Habenaria holothrix Schltr.,https://www.gbif.org/species/2829805
+LIBSRC-LIB50-ENT-BIO-1183915,scientific_identity,Arachnis maggie-oei,https://www.gbif.org/species/8037325
+LIBSRC-LIB50-ENT-BIO-1175095,scientific_identity,Aulosepalum riodelayense (Burns-Bal.) Salazar,https://www.gbif.org/species/8414850
+LIBSRC-LIB50-ENT-BIO-1180545,scientific_identity,Stelis discolor Rchb.f.,https://www.gbif.org/species/5309468
+LIBSRC-LIB50-ENT-BIO-1194565,scientific_identity,Cynorkis ochroglossa Schltr.,https://www.gbif.org/species/2781668
+LIBSRC-LIB50-ENT-BIO-1175115,scientific_identity,Neottia nankomontana (Fukuy.) Szlach.,https://www.gbif.org/species/2816345
+LIBSRC-LIB50-ENT-BIO-1190005,scientific_identity,Ceratostylis malintangensis J.J.Sm.,https://www.gbif.org/species/2835948
+LIBSRC-LIB50-ENT-BIO-1174065,scientific_identity,Gastrodia solomonensis T.C.Hsu,https://www.gbif.org/species/9575551
+LIBSRC-LIB50-ENT-BIO-1190205,taxon_authority,Schltr.,https://www.gbif.org/species/296113727
+LIBSRC-LIB50-ENT-BIO-1190205,scientific_identity,Kefersteinia wercklei Schltr.,https://www.gbif.org/species/296113727
+LIBSRC-LIB50-ENT-BIO-1184705,scientific_identity,Ophrys lunulata Parl.,https://www.gbif.org/species/2793844
+LIBSRC-LIB50-ENT-BIO-1172115,scientific_identity,Epidendrum swartzii (Rchb.f. ex Griseb.) Hágsater,https://www.gbif.org/species/5951991
+LIBSRC-LIB50-ENT-BIO-1181335,scientific_identity,Nervilia taiwaniana S.S.Ying,https://www.gbif.org/species/2836782
+LIBSRC-LIB50-ENT-BIO-1176475,scientific_identity,Liparis androchilus Garay,https://www.gbif.org/species/7399875
+LIBSRC-LIB50-ENT-BIO-1179485,scientific_identity,Jumellea linearipetala H.Perrier,https://www.gbif.org/species/2811274
+LIBSRC-LIB50-ENT-BIO-1193485,scientific_identity,Bulbophyllum saltatorium Lindl.,https://www.gbif.org/species/2845379
+LIBSRC-LIB50-ENT-BIO-1186715,scientific_identity,Dendrobium kerstingianum Schltr.,https://www.gbif.org/species/5316282
+LIBSRC-LIB50-ENT-BIO-1170225,scientific_identity,Gastrochilus sutepensis (Rolfe ex Downie) Seidenf. & Smitinand,https://www.gbif.org/species/5310680
+LIBSRC-LIB50-ENT-BIO-1194995,scientific_identity,Schoenorchis jerdoniana (Wight) Garay,https://www.gbif.org/species/2791403
+LIBSRC-LIB50-ENT-BIO-1191845,scientific_identity,"Bulbophyllum migueldavidii Cootes, Cabactulan & Pimentel",https://www.gbif.org/species/10830433
+LIBSRC-LIB50-ENT-BIO-1180115,scientific_identity,Rhynchogyna luisifolia (Ridl.) Seidenf. & Garay,https://www.gbif.org/species/2813292
+LIBSRC-LIB50-ENT-BIO-1170665,scientific_identity,"Microstylis nigrescens J.J.Sm. ex Koord., 1898",https://www.gbif.org/species/7946317
+LIBSRC-LIB50-ENT-BIO-1171175,scientific_identity,Epidendrum stanhopeanum Kraenzl.,https://www.gbif.org/species/5319992
+LIBSRC-LIB50-ENT-BIO-1194745,scientific_identity,Cynorkis graminea (Thouars) Schltr.,https://www.gbif.org/species/2781510
+LIBSRC-LIB50-ENT-BIO-1180075,scientific_identity,Trichosalpinx reticulata Thoerle & C.Soto,https://www.gbif.org/species/9245326
+LIBSRC-LIB50-ENT-BIO-1189385,scientific_identity,Thelasis borneensis Schltr.,https://www.gbif.org/species/2815897
+LIBSRC-LIB50-ENT-BIO-1170475,scientific_identity,Cyrtochilum dipterum (Lindl.) Kraenzl.,https://www.gbif.org/species/2832803
+LIBSRC-LIB50-ENT-BIO-1166245,scientific_identity,Crossoglossa guariniae Szlach. & Kolan.,https://www.gbif.org/species/9387123
+LIBSRC-LIB50-ENT-BIO-1184455,scientific_identity,Pinalia floribunda (Lindl.) Kuntze,https://www.gbif.org/species/5314129
+LIBSRC-LIB50-ENT-BIO-1188505,scientific_identity,Dracula vespertilio (Rchb.f.) Luer,https://www.gbif.org/species/2818848
+LIBSRC-LIB50-ENT-BIO-1169375,scientific_identity,Catasetum kleberianum Braga,https://www.gbif.org/species/2804034
+LIBSRC-LIB50-ENT-BIO-1186385,scientific_identity,Dendrobium subansiriense D.Verma & Barbhuiya,https://www.gbif.org/species/9515751
+LIBSRC-LIB50-ENT-BIO-1189355,scientific_identity,Cyrtopodium dusenii Schltr.,https://www.gbif.org/species/5319605
+LIBSRC-LIB50-ENT-BIO-1186435,scientific_identity,Dendrobium buffumiae A.D.Hawkes,https://www.gbif.org/species/10822643
+LIBSRC-LIB50-ENT-BIO-1192365,scientific_identity,Bulbophyllum masoalanum Schltr.,https://www.gbif.org/species/2845578
+LIBSRC-LIB50-ENT-BIO-1190675,scientific_identity,Oncidium naevium (Lindl.) Beer,https://www.gbif.org/species/5315260
+LIBSRC-LIB50-ENT-BIO-1177985,scientific_identity,Pseudolaelia vellozicola (Hoehne) Porto & Brade,https://www.gbif.org/species/2816757
+LIBSRC-LIB50-ENT-BIO-1167125,scientific_identity,Habenaria binghamii G.Will.,https://www.gbif.org/species/2828629
+LIBSRC-LIB50-ENT-BIO-1177945,scientific_identity,Pseudolaelia medinensis Campacci & Rosim,https://www.gbif.org/species/10725017
+LIBSRC-LIB50-ENT-BIO-1179455,scientific_identity,Macodes angustilabris J.J.Sm.,https://www.gbif.org/species/2804653
+LIBSRC-LIB50-ENT-BIO-1186395,scientific_identity,Dendrobium tipula J.J.Sm.,https://www.gbif.org/species/5323419
+LIBSRC-LIB50-ENT-BIO-1179915,scientific_identity,Trichosalpinx fruticosa Luer,https://www.gbif.org/species/2791593
+LIBSRC-LIB50-ENT-BIO-1192505,scientific_identity,Bulbophyllum ngoyense Schltr.,https://www.gbif.org/species/2842934
+LIBSRC-LIB50-ENT-BIO-1187155,scientific_identity,Dendrobium sororium Schltr.,https://www.gbif.org/species/5315387
+LIBSRC-LIB50-ENT-BIO-1180065,scientific_identity,Schizochilus crenulatus H.P.Linder,https://www.gbif.org/species/5307954
+LIBSRC-LIB50-ENT-BIO-1179285,scientific_identity,Anathallis involuta (L.O.Williams) Solano & Soto Arenas,https://www.gbif.org/species/2782950
+LIBSRC-LIB50-ENT-BIO-1176945,taxon_authority,C.Schweinf.,https://www.gbif.org/species/5318319
+LIBSRC-LIB50-ENT-BIO-1176945,scientific_identity,Maxillaria appendiculoides C.Schweinf.,https://www.gbif.org/species/5318319
+LIBSRC-LIB50-ENT-BIO-1180285,scientific_identity,Stelis triapiculata Dod,https://www.gbif.org/species/5309074
+LIBSRC-LIB50-ENT-BIO-1185065,taxon_authority,Schltr.,https://www.gbif.org/species/101394911
+LIBSRC-LIB50-ENT-BIO-1185065,scientific_identity,Dendrobium mischobulbum Schltr.,https://www.gbif.org/species/101394911
+LIBSRC-LIB50-ENT-BIO-1194005,taxon_authority,J.J.Sm.,https://www.gbif.org/species/105261077
+LIBSRC-LIB50-ENT-BIO-1194005,scientific_identity,Erythrodes amboinensis J.J.Sm.,https://www.gbif.org/species/105261077
+LIBSRC-LIB50-ENT-BIO-1177445,scientific_identity,Maxillaria compacta (Schltr.) P.Ortiz,https://www.gbif.org/species/5318576
+LIBSRC-LIB50-ENT-BIO-1181895,scientific_identity,Phalaenopsis appendiculata Carr,https://www.gbif.org/species/5311037
+LIBSRC-LIB50-ENT-BIO-1171625,scientific_identity,Epidendrum portokalium Hágsater & Dodson,https://www.gbif.org/species/5952064
+LIBSRC-LIB50-ENT-BIO-1168685,scientific_identity,"Coelogyne javieriana (Magrath, Bulmer & I.Shafer) M.W.Chase & Schuit.",https://www.gbif.org/species/12229040
+LIBSRC-LIB50-ENT-BIO-1187045,scientific_identity,Masdevallia microsiphon Luer,https://www.gbif.org/species/2848144
+LIBSRC-LIB50-ENT-BIO-1190665,scientific_identity,Oncidium leucomelas (Rchb.f.) Dressler & N.H.Williams,https://www.gbif.org/species/5322059
+LIBSRC-LIB50-ENT-BIO-1185905,scientific_identity,Dendrobium williamsianum Rchb.f.,https://www.gbif.org/species/5316721
+LIBSRC-LIB50-ENT-BIO-1172865,scientific_identity,Epidendrum sympodiale Schltr.,https://www.gbif.org/species/5320529
+LIBSRC-LIB50-ENT-BIO-1185375,scientific_identity,Dendrobium meliodorum Schltr.,https://www.gbif.org/species/5316564
+LIBSRC-LIB50-ENT-BIO-1166465,scientific_identity,Appendicula malindangensis (Ames) Schltr.,https://www.gbif.org/species/5325036
+LIBSRC-LIB50-ENT-BIO-1169315,scientific_identity,Catasetum tenebrosum Kraenzl.,https://www.gbif.org/species/2803857
+LIBSRC-LIB50-ENT-BIO-1188615,scientific_identity,Restrepia chameleon Luer & R.Escobar,https://www.gbif.org/species/2817270
+LIBSRC-LIB50-ENT-BIO-1191885,scientific_identity,Bulbophyllum mischobulbon Schltr.,https://www.gbif.org/species/2843634
+LIBSRC-LIB50-ENT-BIO-1183545,scientific_identity,Brassia aurantiaca (Lindl.) M.W.Chase,https://www.gbif.org/species/7349068
+LIBSRC-LIB50-ENT-BIO-1175415,scientific_identity,Rodriguezia bracteata (Vell.) Hoehne,https://www.gbif.org/species/5313614
+LIBSRC-LIB50-ENT-BIO-1189825,scientific_identity,Disperis woodii Bolus,https://www.gbif.org/species/2805130
+LIBSRC-LIB50-ENT-BIO-1168965,scientific_identity,Coelogyne mindanaensis (Ames) M.W.Chase & Schuit.,https://www.gbif.org/species/12231790
+LIBSRC-LIB50-ENT-BIO-1172225,scientific_identity,Epidendrum fortunae Hágsater & Dressler,https://www.gbif.org/species/5320325
+LIBSRC-LIB50-ENT-BIO-1169595,taxon_authority,Schltr.,https://www.gbif.org/species/166233777
+LIBSRC-LIB50-ENT-BIO-1169595,scientific_identity,Sobralia antioquiensis Schltr.,https://www.gbif.org/species/166233777
+LIBSRC-LIB50-ENT-BIO-1169365,taxon_authority,Marçal & Chiron,https://www.gbif.org/species/158511121
+LIBSRC-LIB50-ENT-BIO-1169365,scientific_identity,Catasetum caatingense Marçal & Chiron,https://www.gbif.org/species/158511121
+LIBSRC-LIB50-ENT-BIO-1188685,taxon_authority,(Ridl.) Garay,https://www.gbif.org/species/118946612
+LIBSRC-LIB50-ENT-BIO-1188685,scientific_identity,Cleisostoma capricorne (Ridl.) Garay,https://www.gbif.org/species/118946612
+LIBSRC-LIB50-ENT-BIO-1169095,scientific_identity,Galeandra baueri Lindl.,https://www.gbif.org/species/2820975
+LIBSRC-LIB50-ENT-BIO-1193185,scientific_identity,Bulbophyllum ovatolanceatum J.J.Sm.,https://www.gbif.org/species/2843875
+LIBSRC-LIB50-ENT-BIO-1171375,scientific_identity,"Epidendrum heterothonaeum (Rchb.f. & Warsz.) P.Ortiz, 1995",https://www.gbif.org/species/5542121
+LIBSRC-LIB50-ENT-BIO-1169175,scientific_identity,Rhipidoglossum orientalis (Mansf.) Szlach. & Olszewski,https://www.gbif.org/species/2838109
+LIBSRC-LIB50-ENT-BIO-1170705,scientific_identity,"Psychilis macconnellidae Sauleda, 1988",https://www.gbif.org/species/3653893
+LIBSRC-LIB50-ENT-BIO-1186915,scientific_identity,Masdevallia nigricans Königer & Sijm,https://www.gbif.org/species/2848596
+LIBSRC-LIB50-ENT-BIO-1195005,scientific_identity,Trachoma rumphii (J.J.Sm.) Kocyan & Schuit.,https://www.gbif.org/species/9519174
+LIBSRC-LIB50-ENT-BIO-1186405,scientific_identity,Dendrobium spinuliferum Ormerod,https://www.gbif.org/species/5315634
+LIBSRC-LIB50-ENT-BIO-1186795,scientific_identity,Dendrobium piestocaulon Schltr.,https://www.gbif.org/species/5316916
+LIBSRC-LIB50-ENT-BIO-1185565,scientific_identity,Dendrobium croceocentrum J.J.Sm.,https://www.gbif.org/species/5316816
+LIBSRC-LIB50-ENT-BIO-1175875,taxon_authority,(Lindl.) Lindl.,https://www.gbif.org/species/8524853
+LIBSRC-LIB50-ENT-BIO-1175875,scientific_identity,Cleisomeria lanata (Lindl.) Lindl.,https://www.gbif.org/species/8524853
+LIBSRC-LIB50-ENT-BIO-1182225,scientific_identity,Brassocattleya rubyi Braga,https://www.gbif.org/species/2820313
+LIBSRC-LIB50-ENT-BIO-1173025,scientific_identity,Epidendrum clarkii Hágsater & E.Santiago,https://www.gbif.org/species/7601606
+LIBSRC-LIB50-ENT-BIO-1189605,scientific_identity,Gomphichis cladotricha Renz,https://www.gbif.org/species/2816915
+LIBSRC-LIB50-ENT-BIO-1187265,scientific_identity,Dendrobium restrepioides (W.Suarez & M.A.Clem.) J.M.H.Shaw,https://www.gbif.org/species/9364400
+LIBSRC-LIB50-ENT-BIO-1184945,scientific_identity,Masdevallia pinocchio Luer & Andreetta,https://www.gbif.org/species/2848610
+LIBSRC-LIB50-ENT-BIO-1186005,scientific_identity,Ophrys cattaniae Kranjcev,https://www.gbif.org/species/3656073
+LIBSRC-LIB50-ENT-BIO-1178295,scientific_identity,Zeuxine viridiflora (J.J.Sm.) J.J.Sm.,https://www.gbif.org/species/11049424
+LIBSRC-LIB50-ENT-BIO-1187345,scientific_identity,"Cylindrolobus gloensis (Ormerod & Agrawala) Schuit., Y.P.Ng & H.A.Pedersen",https://www.gbif.org/species/10947702
+LIBSRC-LIB50-ENT-BIO-1180945,scientific_identity,Stelis capitata Luer & Hirtz,https://www.gbif.org/species/5309067
+LIBSRC-LIB50-ENT-BIO-1180785,scientific_identity,Stelis ellipsophylla Luer & R.Escobar,https://www.gbif.org/species/10734912
+LIBSRC-LIB50-ENT-BIO-1177365,scientific_identity,Chamelophyton kegelii (Rchb.f.) Garay,https://www.gbif.org/species/2836280
+LIBSRC-LIB50-ENT-BIO-1189895,scientific_identity,Ceratostylis sima J.J.Sm.,https://www.gbif.org/species/2835974
+LIBSRC-LIB50-ENT-BIO-1187445,scientific_identity,Cylindrolobus aporoides (Lindl.) Rauschert,https://www.gbif.org/species/2815465
+LIBSRC-LIB50-ENT-BIO-1169295,scientific_identity,Catasetum reichenbachianum Mansf.,https://www.gbif.org/species/2803943
+LIBSRC-LIB50-ENT-BIO-1174705,scientific_identity,Pterostylis alata (Labill.) Rchb.f.,https://www.gbif.org/species/2847510
+LIBSRC-LIB50-ENT-BIO-1195205,scientific_identity,Octomeria tricolor Rchb.f.,https://www.gbif.org/species/2817141
+LIBSRC-LIB50-ENT-BIO-1177255,scientific_identity,Maxillaria patens Schltr.,https://www.gbif.org/species/5318292
+LIBSRC-LIB50-ENT-BIO-1173445,scientific_identity,Angraecum rutenbergianum Kraenzl.,https://www.gbif.org/species/2833794
+LIBSRC-LIB50-ENT-BIO-1174025,scientific_identity,Gastrodia umbrosa B.Gray,https://www.gbif.org/species/10703686
+LIBSRC-LIB50-ENT-BIO-1185955,scientific_identity,Masdevallia dimorphotricha Luer & Hirtz,https://www.gbif.org/species/2848550
+LIBSRC-LIB50-ENT-BIO-1179785,scientific_identity,Warrea hookeriana (Rchb.f.) Rolfe,https://www.gbif.org/species/2842604
+LIBSRC-LIB50-ENT-BIO-1168725,scientific_identity,Coelogyne mediocris (de Vogel) R.Rice,https://www.gbif.org/species/10910131
+LIBSRC-LIB50-ENT-BIO-1168775,scientific_identity,Spiranthes triloba (Small) K.Schum.,https://www.gbif.org/species/2805367
+LIBSRC-LIB50-ENT-BIO-1173395,scientific_identity,Diuris monticola D.L.Jones,https://www.gbif.org/species/5321708
+LIBSRC-LIB50-ENT-BIO-1180895,taxon_authority,Luer,https://www.gbif.org/species/296058752
+LIBSRC-LIB50-ENT-BIO-1180895,scientific_identity,Stelis pudens Luer,https://www.gbif.org/species/296058752
+LIBSRC-LIB50-ENT-BIO-1186685,scientific_identity,Dendrobium erythraeum Schuit. & de Vogel,https://www.gbif.org/species/5316450
+LIBSRC-LIB50-ENT-BIO-1170805,taxon_authority,(Bello) Sauleda,https://www.gbif.org/species/102227391
+LIBSRC-LIB50-ENT-BIO-1170805,scientific_identity,Psychilis kraenzlinii (Bello) Sauleda,https://www.gbif.org/species/102227391
+LIBSRC-LIB50-ENT-BIO-1167685,taxon_authority,"Mytnik, Szlach. & Rutk.",https://www.gbif.org/species/2807564
+LIBSRC-LIB50-ENT-BIO-1167685,scientific_identity,"Cyclopogon gardneri Mytnik, Szlach. & Rutk.",https://www.gbif.org/species/2807564
+LIBSRC-LIB50-ENT-BIO-1194465,taxon_authority,"(L.C.Menezes) Van den Berg, 2010",https://www.gbif.org/species/160266208
+LIBSRC-LIB50-ENT-BIO-1194465,scientific_identity,"×Laeliocattleya calimaniana (L.C.Menezes) Van den Berg, 2010",https://www.gbif.org/species/160266208
+LIBSRC-LIB50-ENT-BIO-1178695,scientific_identity,Thrixspermum cootesii W.Suarez,https://www.gbif.org/species/5950319
+LIBSRC-LIB50-ENT-BIO-1178875,taxon_authority,(Rchb.f.) Kuntze,https://www.gbif.org/species/2808039
+LIBSRC-LIB50-ENT-BIO-1178875,scientific_identity,Malaxis ventilabrum (Rchb.f.) Kuntze,https://www.gbif.org/species/2808039
+LIBSRC-LIB50-ENT-BIO-1177535,scientific_identity,Trichocentrum lowii (Rolfe) M.W.Chase & N.H.Williams,https://www.gbif.org/species/2846546
+LIBSRC-LIB50-ENT-BIO-1188635,scientific_identity,Cleisostoma rolfeanum (King & Pantl.) Garay,https://www.gbif.org/species/2785563
+LIBSRC-LIB50-ENT-BIO-1186185,scientific_identity,Dendrobium lohokii J.J.Wood & A.Lamb,https://www.gbif.org/species/5317069
+LIBSRC-LIB50-ENT-BIO-1175275,scientific_identity,"Cymbidium brevifolium Zhuang Zhou, S.R.Lan & Z.J.Liu",https://www.gbif.org/species/12221745
+LIBSRC-LIB50-ENT-BIO-1180315,scientific_identity,Stelis humboldtina Luer & Hirtz,https://www.gbif.org/species/5309793
+LIBSRC-LIB50-ENT-BIO-1191875,scientific_identity,Bulbophyllum sulfureum Schltr.,https://www.gbif.org/species/2843362
+LIBSRC-LIB50-ENT-BIO-1170855,scientific_identity,Epidendrum isthmoides Hágsater & E.Santiago,https://www.gbif.org/species/5952008
+LIBSRC-LIB50-ENT-BIO-1166395,scientific_identity,Appendicula uncata Ridl.,https://www.gbif.org/species/5325045
+LIBSRC-LIB50-ENT-BIO-1190035,scientific_identity,Ceratostylis brevibrachiata J.J.Sm.,https://www.gbif.org/species/2836025
+LIBSRC-LIB50-ENT-BIO-1181705,scientific_identity,Genoplesium sagittiferum (Rupp) D.L.Jones & M.A.Clem.,https://www.gbif.org/species/2796575
+LIBSRC-LIB50-ENT-BIO-1195025,scientific_identity,Octomeria truncicola Barb.Rodr.,https://www.gbif.org/species/2817092
+LIBSRC-LIB50-ENT-BIO-1172495,scientific_identity,"Epidendrum ophrydis Raeusch., 1797",https://www.gbif.org/species/8222121
+LIBSRC-LIB50-ENT-BIO-1179545,scientific_identity,Pterichis macbridei Kolan.,https://www.gbif.org/species/9349070
+LIBSRC-LIB50-ENT-BIO-1184205,taxon_authority,(Schltr.) Brieger,https://www.gbif.org/species/296044293
+LIBSRC-LIB50-ENT-BIO-1184205,scientific_identity,Aeridostachya feddeana (Schltr.) Brieger,https://www.gbif.org/species/296044293
+LIBSRC-LIB50-ENT-BIO-1192275,scientific_identity,Bulbophyllum pyroglossum Schuit. & de Vogel,https://www.gbif.org/species/2846198
+LIBSRC-LIB50-ENT-BIO-1194215,scientific_identity,Epipactis royleana Lindl.,https://www.gbif.org/species/5319255
+LIBSRC-LIB50-ENT-BIO-1169925,scientific_identity,Mediocalcar pygmaeum Schltr.,https://www.gbif.org/species/2813070
+LIBSRC-LIB50-ENT-BIO-1174745,scientific_identity,Tainia cordifolia Hook.f.,https://www.gbif.org/species/2781305
+LIBSRC-LIB50-ENT-BIO-1179605,scientific_identity,"Platanthera × reznicekii Catling, Brownell & G.Allen",https://www.gbif.org/species/2798086
+LIBSRC-LIB50-ENT-BIO-1176865,taxon_authority,Poepp. & Endl.,https://www.gbif.org/species/221783824
+LIBSRC-LIB50-ENT-BIO-1176865,scientific_identity,Maxillaria splendens Poepp. & Endl.,https://www.gbif.org/species/221783824
+LIBSRC-LIB50-ENT-BIO-1180455,scientific_identity,Stelis gracilis Ames,https://www.gbif.org/species/5309132
+LIBSRC-LIB50-ENT-BIO-1173095,scientific_identity,Eulophia antsingyensis (G.Gerlach) M.W.Chase & Schuit.,https://www.gbif.org/species/12182827
+LIBSRC-LIB50-ENT-BIO-1172785,scientific_identity,Epidendrum octomerioides Schltr.,https://www.gbif.org/species/5321049
+LIBSRC-LIB50-ENT-BIO-1168595,scientific_identity,Spiranthes igniorchis M.C.Pace,https://www.gbif.org/species/10714879
+LIBSRC-LIB50-ENT-BIO-1185395,scientific_identity,Dendrobium daenikerianum Kraenzl.,https://www.gbif.org/species/5317706
+LIBSRC-LIB50-ENT-BIO-1188315,scientific_identity,Dracula adrianae Luer,https://www.gbif.org/species/2818723
+LIBSRC-LIB50-ENT-BIO-1192955,scientific_identity,Bulbophyllum pauzii P.O'Byrne & P.T.Ong,https://www.gbif.org/species/9261908
+LIBSRC-LIB50-ENT-BIO-1172925,scientific_identity,Epidendrum caroli Schltr.,https://www.gbif.org/species/5542315
+LIBSRC-LIB50-ENT-BIO-1180875,scientific_identity,Stelis aquinoana Schltr.,https://www.gbif.org/species/5309162
+LIBSRC-LIB50-ENT-BIO-1173885,scientific_identity,Pteroceras muluense Schuit. & de Vogel,https://www.gbif.org/species/5325211
+LIBSRC-LIB50-ENT-BIO-1177145,scientific_identity,Maxillaria geckophora D.E.Benn. & Christenson,https://www.gbif.org/species/5317915
+LIBSRC-LIB50-ENT-BIO-1174075,scientific_identity,Dipodium purpureum J.J.Sm.,https://www.gbif.org/species/5314578
+LIBSRC-LIB50-ENT-BIO-1176175,scientific_identity,Liparis pedicellaris Schltr.,https://www.gbif.org/species/5323221
+LIBSRC-LIB50-ENT-BIO-1173065,scientific_identity,Eulophia ericophila (Bosser) M.W.Chase & Schuit.,https://www.gbif.org/species/12223101
+LIBSRC-LIB50-ENT-BIO-1171995,scientific_identity,Epidendrum cornanthera F.Lehm. & Kraenzl.,https://www.gbif.org/species/5321082
+LIBSRC-LIB50-ENT-BIO-1171885,scientific_identity,Lepanthopsis micheliae Dod,https://www.gbif.org/species/2852268
+LIBSRC-LIB50-ENT-BIO-1182955,scientific_identity,Agrostophyllum mindanense Ames,https://www.gbif.org/species/2802838
+LIBSRC-LIB50-ENT-BIO-1168875,scientific_identity,Coelogyne kopfii (Lückel) M.W.Chase & Schuit.,https://www.gbif.org/species/12216243
+LIBSRC-LIB50-ENT-BIO-1166835,scientific_identity,Mobilabium hamatum Rupp,https://www.gbif.org/species/2816124
+LIBSRC-LIB50-ENT-BIO-1190355,scientific_identity,Oncidium polyadenium Lindl.,https://www.gbif.org/species/5322438
+LIBSRC-LIB50-ENT-BIO-1173865,scientific_identity,Cycnoches warszewiczii Rchb.f.,https://www.gbif.org/species/2783344
+LIBSRC-LIB50-ENT-BIO-1186235,scientific_identity,Dendrobium rutriferum Rchb.f.,https://www.gbif.org/species/5316618
+LIBSRC-LIB50-ENT-BIO-1175315,scientific_identity,Cymbidium × baoshanense F.Y.Liu & Perner,https://www.gbif.org/species/5305572
+LIBSRC-LIB50-ENT-BIO-1189755,scientific_identity,"Disperis oricotalis Fukuy., 1936",https://www.gbif.org/species/3654901
+LIBSRC-LIB50-ENT-BIO-1170875,scientific_identity,Epidendrum lacustre Lindl.,https://www.gbif.org/species/5320598
+LIBSRC-LIB50-ENT-BIO-1190915,scientific_identity,Elleanthus decipiens Dressler,https://www.gbif.org/species/2839273
+LIBSRC-LIB50-ENT-BIO-1186415,scientific_identity,Dendrobium usterii Schltr.,https://www.gbif.org/species/5324382
+LIBSRC-LIB50-ENT-BIO-1186955,scientific_identity,Masdevallia planadensis Luer & R.Escobar,https://www.gbif.org/species/2848574
+LIBSRC-LIB50-ENT-BIO-1173835,scientific_identity,Chamaegastrodia inverta (W.W.Sm.) Seidenf.,https://www.gbif.org/species/2820757
+LIBSRC-LIB50-ENT-BIO-1190315,taxon_authority,Rchb.f.,https://www.gbif.org/species/118945920
+LIBSRC-LIB50-ENT-BIO-1190315,scientific_identity,Kefersteinia taurina Rchb.f.,https://www.gbif.org/species/118945920
+LIBSRC-LIB50-ENT-BIO-1178565,taxon_authority,Ames,https://www.gbif.org/species/296103546
+LIBSRC-LIB50-ENT-BIO-1178565,scientific_identity,Malaxis tepicana Ames,https://www.gbif.org/species/296103546
+LIBSRC-LIB50-ENT-BIO-1192995,taxon_authority,D.L.Jones & M.A.Clem.,https://www.gbif.org/species/10730183
+LIBSRC-LIB50-ENT-BIO-1192995,scientific_identity,Danhatchia copelandii D.L.Jones & M.A.Clem.,https://www.gbif.org/species/10730183
+LIBSRC-LIB50-ENT-BIO-1168215,scientific_identity,× Isadendrum orpetii (Rolfe & Hurst) Molinari & Sánchez Och.,https://www.gbif.org/species/9396282
+LIBSRC-LIB50-ENT-BIO-1185015,scientific_identity,Ophrys × feldwegiana B.Baumann & H.Baumann,https://www.gbif.org/species/2793856
+LIBSRC-LIB50-ENT-BIO-1181225,scientific_identity,Stelis digitifera Luer & R.Escobar,https://www.gbif.org/species/9238087
+LIBSRC-LIB50-ENT-BIO-1177115,taxon_authority,Molinari,https://www.gbif.org/species/9347100
+LIBSRC-LIB50-ENT-BIO-1177115,scientific_identity,Maxillaria sciabolata Molinari,https://www.gbif.org/species/9347100
+LIBSRC-LIB50-ENT-BIO-1193705,scientific_identity,"Bulbophyllum xanthochloron J.J.Verm., Schuit. & de Vogel",https://www.gbif.org/species/9473394
+LIBSRC-LIB50-ENT-BIO-1178045,scientific_identity,Stenia luerorum D.E.Benn. & Christenson,https://www.gbif.org/species/5307815
+LIBSRC-LIB50-ENT-BIO-1172745,scientific_identity,Epidendrum filicaule Lindl.,https://www.gbif.org/species/5320141
+LIBSRC-LIB50-ENT-BIO-1166885,scientific_identity,Bletia villae Soto Arenas,https://www.gbif.org/species/5950627
+LIBSRC-LIB50-ENT-BIO-1173525,scientific_identity,Angraecum × veitchii Mast.,https://www.gbif.org/species/12217694
+LIBSRC-LIB50-ENT-BIO-1179945,scientific_identity,Microsytlis monophyllos,https://www.gbif.org/species/9197060
+LIBSRC-LIB50-ENT-BIO-1186555,scientific_identity,Masdevallia deceptrix Luer & Würstle,https://www.gbif.org/species/2848960
+LIBSRC-LIB50-ENT-BIO-1193055,scientific_identity,"Bulbophyllum leucoglossum Schuit., Juswara & Droissart",https://www.gbif.org/species/9356237
+LIBSRC-LIB50-ENT-BIO-1194705,scientific_identity,Cynorkis castillonii (P.Bernet) Hermans & P.J.Cribb,https://www.gbif.org/species/10913641
+LIBSRC-LIB50-ENT-BIO-1190225,taxon_authority,Königer,https://www.gbif.org/species/5322356
+LIBSRC-LIB50-ENT-BIO-1190225,scientific_identity,Oncidium rodrigoi Königer,https://www.gbif.org/species/5322356
+LIBSRC-LIB50-ENT-BIO-1177245,scientific_identity,Maxillaria moutinhoi Pabst,https://www.gbif.org/species/5317978
+LIBSRC-LIB50-ENT-BIO-1186995,scientific_identity,Dendrobium tobaense J.J.Wood & J.B.Comber,https://www.gbif.org/species/5317605
+LIBSRC-LIB50-ENT-BIO-1177215,scientific_identity,Maxillaria pachyneura F.Lehm. & Kraenzl.,https://www.gbif.org/species/5317975
+LIBSRC-LIB50-ENT-BIO-1181985,scientific_identity,Phalaenopsis equestris (Schauer) Rchb.f.,https://www.gbif.org/species/5310951
+LIBSRC-LIB50-ENT-BIO-1192405,scientific_identity,Bulbophyllum chloranthum Schltr.,https://www.gbif.org/species/2842927
+LIBSRC-LIB50-ENT-BIO-1177285,scientific_identity,Maxillaria infausta Rchb.f.,https://www.gbif.org/species/5318065
+LIBSRC-LIB50-ENT-BIO-1181565,scientific_identity,Stelis dimidia (Luer) Karremans,https://www.gbif.org/species/9382812
+LIBSRC-LIB50-ENT-BIO-1173055,scientific_identity,Epidendrum ciliipetalum (Garay) Hágsater & E.Santiago,https://www.gbif.org/species/5951993
+LIBSRC-LIB50-ENT-BIO-1168765,scientific_identity,Spiranthes lutea-alba A.Rich. & Galeotti,https://www.gbif.org/species/3657678
+LIBSRC-LIB50-ENT-BIO-1182895,scientific_identity,Ornithocephalus cryptanthus (C.Schweinf. & P.H.Allen) Toscano & Dressler,https://www.gbif.org/species/5321614
+LIBSRC-LIB50-ENT-BIO-1178005,scientific_identity,Zeuxine montana Schltr.,https://www.gbif.org/species/2803089
+LIBSRC-LIB50-ENT-BIO-1181585,scientific_identity,Stelis lagarophyta (Luer) Karremans,https://www.gbif.org/species/9605203
+LIBSRC-LIB50-ENT-BIO-1187225,scientific_identity,"Cylindrolobus pauciflorus (Wight) Schuit., Y.P.Ng & H.A.Pedersen",https://www.gbif.org/species/10822429
+LIBSRC-LIB50-ENT-BIO-1191675,scientific_identity,× Gymnotraunsteinera vallesiaca (Spiess) Cif. & Giacom.,https://www.gbif.org/species/9288729
+LIBSRC-LIB50-ENT-BIO-1173015,scientific_identity,Epidendrum pachytepalum Hágsater & E.Santiago,https://www.gbif.org/species/5320152
+LIBSRC-LIB50-ENT-BIO-1171665,scientific_identity,"Epidendrum jaramilloi Hágsater & Dodson, 1993",https://www.gbif.org/species/5542093
+LIBSRC-LIB50-ENT-BIO-1176185,scientific_identity,Liparis lacus J.J.Sm.,https://www.gbif.org/species/5323314
+LIBSRC-LIB50-ENT-BIO-1195245,scientific_identity,Octomeria lithophila (Barb.Rodr.) Barb.Rodr.,https://www.gbif.org/species/2817064
+LIBSRC-LIB50-ENT-BIO-1191985,scientific_identity,Bulbophyllum aphanopetalum Schltr.,https://www.gbif.org/species/2846157
+LIBSRC-LIB50-ENT-BIO-1190525,scientific_identity,Oncidium stelligerum Rchb.f.,https://www.gbif.org/species/5322118
+LIBSRC-LIB50-ENT-BIO-1166365,scientific_identity,Appendicula peyeriana Kraenzl.,https://www.gbif.org/species/5325119
+LIBSRC-LIB50-ENT-BIO-1189095,scientific_identity,Polystachya haroldiana Rolfe,https://www.gbif.org/species/2792451
+LIBSRC-LIB50-ENT-BIO-1181655,scientific_identity,Stelis killipii (Kolan. & Szlach.) Karremans,https://www.gbif.org/species/12204126
+LIBSRC-LIB50-ENT-BIO-1167745,scientific_identity,"Habenaria jerdoniana Wight, 1851",https://www.gbif.org/species/3653970
+LIBSRC-LIB50-ENT-BIO-1168105,scientific_identity,"Orthoceras subellipticum d'Orbigny, 1849",https://www.gbif.org/species/11712392
+LIBSRC-LIB50-ENT-BIO-1188875,scientific_identity,Madisonia ianthina (E.M.Pessoa & F.Barros) Toscano & E.C.Smidt,https://www.gbif.org/species/12191815
+LIBSRC-LIB50-ENT-BIO-1180685,scientific_identity,Stelis tenuilabris Lindl.,https://www.gbif.org/species/5309353
+LIBSRC-LIB50-ENT-BIO-1175715,scientific_identity,Dactylorhiza romana (Sebast.) Soó,https://www.gbif.org/species/2810479
+LIBSRC-LIB50-ENT-BIO-1180305,scientific_identity,Stelis standleyi Ames,https://www.gbif.org/species/5309555
+LIBSRC-LIB50-ENT-BIO-1167325,scientific_identity,Habenaria medusa Kraenzl.,https://www.gbif.org/species/2828888
+LIBSRC-LIB50-ENT-BIO-1189765,scientific_identity,Disperis dicerochila Summerh.,https://www.gbif.org/species/2805095
+LIBSRC-LIB50-ENT-BIO-1178135,scientific_identity,Zeuxine arisanensis Hayata,https://www.gbif.org/species/2803152
+LIBSRC-LIB50-ENT-BIO-1183505,scientific_identity,Pleione kaatiae P.H.Peeters,https://www.gbif.org/species/5321398
+LIBSRC-LIB50-ENT-BIO-1187365,taxon_authority,J.J.Sm.,https://www.gbif.org/species/105250678
+LIBSRC-LIB50-ENT-BIO-1187365,scientific_identity,Dendrobium takadui J.J.Sm.,https://www.gbif.org/species/105250678
+LIBSRC-LIB50-ENT-BIO-1166385,scientific_identity,Satyrium riparium Rchb.f.,https://www.gbif.org/species/5307272
+LIBSRC-LIB50-ENT-BIO-1179825,scientific_identity,Comparettia schaeferi (Senghas) M.W.Chase & N.H.Williams,https://www.gbif.org/species/5826407
+LIBSRC-LIB50-ENT-BIO-1175945,scientific_identity,Echinosepala stonei (Luer) Pridgeon & M.W.Chase,https://www.gbif.org/species/2802561
+LIBSRC-LIB50-ENT-BIO-1179745,scientific_identity,Platanthera borneensis (Ridl.) J.J.Wood,https://www.gbif.org/species/2798455
+LIBSRC-LIB50-ENT-BIO-1172725,scientific_identity,Epidendrum parviflorum Ruiz & Pav.,https://www.gbif.org/species/5308059
+LIBSRC-LIB50-ENT-BIO-1192215,scientific_identity,Bulbophyllum decurvulum Schltr.,https://www.gbif.org/species/2844334
+LIBSRC-LIB50-ENT-BIO-1178415,scientific_identity,Mycaranthes meliganensis J.J.Wood,https://www.gbif.org/species/8073269
+LIBSRC-LIB50-ENT-BIO-1168495,scientific_identity,Coelogyne kaliana P.J.Cribb,https://www.gbif.org/species/2811400
+LIBSRC-LIB50-ENT-BIO-1192585,scientific_identity,Bulbophyllum rhomboglossum Schltr.,https://www.gbif.org/species/2842999
+LIBSRC-LIB50-ENT-BIO-1192495,scientific_identity,Bulbophyllum flavidiflorum Carr,https://www.gbif.org/species/2845461
+LIBSRC-LIB50-ENT-BIO-1185595,scientific_identity,Dendrobium sancristobalense P.J.Cribb,https://www.gbif.org/species/5316237
+LIBSRC-LIB50-ENT-BIO-1193645,scientific_identity,Bulbophyllum hymenochilum Kraenzl.,https://www.gbif.org/species/2845076
+LIBSRC-LIB50-ENT-BIO-1183835,scientific_identity,"Calanthe grata (Blume) M.W.Chase, Christenh. & Schuit.",https://www.gbif.org/species/12226240
+LIBSRC-LIB50-ENT-BIO-1184645,scientific_identity,Diodonopsis pterygiophora (Luer & R.Escobar) Pridgeon & M.W.Chase,https://www.gbif.org/species/2783396
+LIBSRC-LIB50-ENT-BIO-1172675,taxon_authority,Hágsater & Dodson,https://www.gbif.org/species/296134665
+LIBSRC-LIB50-ENT-BIO-1172675,scientific_identity,Epidendrum sangayense Hágsater & Dodson,https://www.gbif.org/species/296134665
+LIBSRC-LIB50-ENT-BIO-1173965,scientific_identity,Gastrodia fontinalis T.P.Lin,https://www.gbif.org/species/2813349
+LIBSRC-LIB50-ENT-BIO-1166825,scientific_identity,Bletia adenocarpa Rchb.f.,https://www.gbif.org/species/2794637
+LIBSRC-LIB50-ENT-BIO-1188655,scientific_identity,Cleisostoma montanum (J.J.Sm.) Garay,https://www.gbif.org/species/2785475
+LIBSRC-LIB50-ENT-BIO-1194035,scientific_identity,× Dactylocamptis arbostii (E.G.Camus) B.Bock,https://www.gbif.org/species/7441869
+LIBSRC-LIB50-ENT-BIO-1166845,scientific_identity,Bletia gracilis G.Lodd.,https://www.gbif.org/species/2794583
+LIBSRC-LIB50-ENT-BIO-1189885,scientific_identity,Ceratostylis obscure-violacea Gilli,https://www.gbif.org/species/3655307
+LIBSRC-LIB50-ENT-BIO-1193935,scientific_identity,"Bulbophyllum neoebudicum (Garay, Hamer & Siegerist) Sieder & Kiehn",https://www.gbif.org/species/6315849
+LIBSRC-LIB50-ENT-BIO-1194195,scientific_identity,Epipactis kartliana Kreutz & Van Domm.,https://www.gbif.org/species/10680584
+LIBSRC-LIB50-ENT-BIO-1180855,scientific_identity,Stelis acuifera Lindl.,https://www.gbif.org/species/5309512
+LIBSRC-LIB50-ENT-BIO-1181265,scientific_identity,Stelis abdita Luer,https://www.gbif.org/species/5950347
+LIBSRC-LIB50-ENT-BIO-1169245,scientific_identity,Rhipidoglossum curvatum (Rolfe) Garay,https://www.gbif.org/species/2838162
+LIBSRC-LIB50-ENT-BIO-1176715,scientific_identity,Liparis pallida (Blume) Lindl.,https://www.gbif.org/species/5306183
+LIBSRC-LIB50-ENT-BIO-1169765,scientific_identity,Thelymitra sanscilia H.S.Irwin ex Hatch,https://www.gbif.org/species/2814049
+LIBSRC-LIB50-ENT-BIO-1182855,scientific_identity,"Benthamia longecalceata H.Perrier, 1951",https://www.gbif.org/species/5542501
+LIBSRC-LIB50-ENT-BIO-1195275,scientific_identity,Octarrhena filiformis (L.O.Williams) P.Royen,https://www.gbif.org/species/2812653
+LIBSRC-LIB50-ENT-BIO-1177715,scientific_identity,Orchis × kretzschmariorum B.Baumann & H.Baumann,https://www.gbif.org/species/2849655
+LIBSRC-LIB50-ENT-BIO-1177375,scientific_identity,Maxillaria strumata (Endrés & Rchb.f.) Ames & Correll,https://www.gbif.org/species/5318305
+LIBSRC-LIB50-ENT-BIO-1194295,scientific_identity,× Laeliocattleya porphyritis hort. ex Guillaumin,https://www.gbif.org/species/2782180
+LIBSRC-LIB50-ENT-BIO-1177105,scientific_identity,Maxillaria kolanowskana Molinari,https://www.gbif.org/species/9300467
+LIBSRC-LIB50-ENT-BIO-1185785,scientific_identity,Dendrobium umbonatum Seidenf.,https://www.gbif.org/species/5315467
+LIBSRC-LIB50-ENT-BIO-1194355,scientific_identity,Microsaccus dempoensis J.J.Sm.,https://www.gbif.org/species/2813237
+LIBSRC-LIB50-ENT-BIO-1179535,scientific_identity,Pterichis galeata Lindl.,https://www.gbif.org/species/2850748
+LIBSRC-LIB50-ENT-BIO-1190455,scientific_identity,Oncidium manningianum Königer,https://www.gbif.org/species/5321974
+LIBSRC-LIB50-ENT-BIO-1166955,scientific_identity,Habenaria caucana Schltr.,https://www.gbif.org/species/2829317
+LIBSRC-LIB50-ENT-BIO-1175085,scientific_identity,Aulosepalum pulchrum (Schltr.) Catling,https://www.gbif.org/species/2807024
+LIBSRC-LIB50-ENT-BIO-1194245,scientific_identity,Myoxanthus melittanthus (Schltr.) Luer,https://www.gbif.org/species/2801841
+LIBSRC-LIB50-ENT-BIO-1191235,scientific_identity,Elleanthus peruvianus (Szlach. & Kolan.) J.M.H.Shaw,https://www.gbif.org/species/10711292
+LIBSRC-LIB50-ENT-BIO-1189515,scientific_identity,Phragmipedium × roethianum O.Gruss & Kalina,https://www.gbif.org/species/2814295
+LIBSRC-LIB50-ENT-BIO-1174375,scientific_identity,Pterostylis obtusa R.Br.,https://www.gbif.org/species/2847354
+LIBSRC-LIB50-ENT-BIO-1183515,scientific_identity,Brassia caudata (L.) Lindl.,https://www.gbif.org/species/5323839
+LIBSRC-LIB50-ENT-BIO-1173895,scientific_identity,Cycnoches cooperi Rolfe,https://www.gbif.org/species/2783310
+LIBSRC-LIB50-ENT-BIO-1166715,scientific_identity,Oberonia caulescens Lindl.,https://www.gbif.org/species/5312607
+LIBSRC-LIB50-ENT-BIO-1182095,scientific_identity,Taeniophyllum macrorhynchum Schltr.,https://www.gbif.org/species/5313781
+LIBSRC-LIB50-ENT-BIO-1189425,scientific_identity,Thelasis celebica Schltr.,https://www.gbif.org/species/2815873
+LIBSRC-LIB50-ENT-BIO-1188645,scientific_identity,Cleisostoma rostellatum (Ridl.) Garay,https://www.gbif.org/species/2785748
+LIBSRC-LIB50-ENT-BIO-1180495,scientific_identity,Stelis colorata O.Duque,https://www.gbif.org/species/8393613
+LIBSRC-LIB50-ENT-BIO-1184665,scientific_identity,Zootrophion beloglottis (Schltr.) Luer,https://www.gbif.org/species/2837118
+LIBSRC-LIB50-ENT-BIO-1166275,scientific_identity,Satyrium chlorocorys Rchb.f. ex Rolfe,https://www.gbif.org/species/5307413
+LIBSRC-LIB50-ENT-BIO-1170395,scientific_identity,Cyrtochilum leucopterum (Rchb.f.) Dalström,https://www.gbif.org/species/2832706
+LIBSRC-LIB50-ENT-BIO-1172975,scientific_identity,Epidendrum lueri Dodson & Hágsater,https://www.gbif.org/species/5320269
+LIBSRC-LIB50-ENT-BIO-1167905,scientific_identity,Habenaria carnea Weathers,https://www.gbif.org/species/2828520
+LIBSRC-LIB50-ENT-BIO-1185725,scientific_identity,Dendrobium stricticalcarum W.Suarez & Cootes,https://www.gbif.org/species/5317597
+LIBSRC-LIB50-ENT-BIO-1174205,scientific_identity,Holothrix secunda (Thunb.) Rchb.f.,https://www.gbif.org/species/2782042
+LIBSRC-LIB50-ENT-BIO-1180745,scientific_identity,Stelis leprina Luer & R.Escobar,https://www.gbif.org/species/10899054
+LIBSRC-LIB50-ENT-BIO-1170685,scientific_identity,Dimorphorchis tenomensis (A.Lamb) P.J.Cribb,https://www.gbif.org/species/2815977
+LIBSRC-LIB50-ENT-BIO-1169475,scientific_identity,Selenipedium olgae Szlach. & Kolan.,https://www.gbif.org/species/9276028
+LIBSRC-LIB50-ENT-BIO-1173995,scientific_identity,Cleistes ayangannensis Szlach. & Baranow,https://www.gbif.org/species/9258969
+LIBSRC-LIB50-ENT-BIO-1166175,scientific_identity,Chiloschista guangdongensis Z.H.Tsi,https://www.gbif.org/species/2847802
+LIBSRC-LIB50-ENT-BIO-1191475,scientific_identity,Stanhopea wardii Lodd. ex Lindl.,https://www.gbif.org/species/2801554
+LIBSRC-LIB50-ENT-BIO-1174425,scientific_identity,Platystele cedriensis Baquero & G.Verkovitch,https://www.gbif.org/species/10784498
+LIBSRC-LIB50-ENT-BIO-1172455,scientific_identity,Epidendrum ramonianum Schltr.,https://www.gbif.org/species/5320494
+LIBSRC-LIB50-ENT-BIO-1166255,scientific_identity,Crossoglossa dapaensis Reina-Rodr. & Ormerod,https://www.gbif.org/species/12252663
+LIBSRC-LIB50-ENT-BIO-1180015,scientific_identity,Chloraea longebracteata Lindl.,https://www.gbif.org/species/5542706
+LIBSRC-LIB50-ENT-BIO-1170015,scientific_identity,Nephelaphyllum beccarii Schltr.,https://www.gbif.org/species/2833344
+LIBSRC-LIB50-ENT-BIO-1177625,scientific_identity,Orchis × schebestae Griebl,https://www.gbif.org/species/7432959
+LIBSRC-LIB50-ENT-BIO-1185385,scientific_identity,Dendrobium wollastonii Ridl. ex R.H.Pearson,https://www.gbif.org/species/10840448
+LIBSRC-LIB50-ENT-BIO-1179275,scientific_identity,Anathallis angulosa (Luer & Hirtz) Luer,https://www.gbif.org/species/5951250
+LIBSRC-LIB50-ENT-BIO-1168605,scientific_identity,Coelogyne flaccida Lindl.,https://www.gbif.org/species/2811433
+LIBSRC-LIB50-ENT-BIO-1169895,scientific_identity,Thelymitra flexuosa Endl.,https://www.gbif.org/species/2814136
+LIBSRC-LIB50-ENT-BIO-1178425,scientific_identity,Barkeria uniflora (Lex.) Dressler & Halb.,https://www.gbif.org/species/5313991
+LIBSRC-LIB50-ENT-BIO-1170415,scientific_identity,Cyrtochilum auropurpureum (Rchb.f.) Dalström,https://www.gbif.org/species/2832719
+LIBSRC-LIB50-ENT-BIO-1177455,scientific_identity,Maxillaria pereziana (Rodr.-Mart. & M.A.Blanco) Schuit. & M.W.Chase,https://www.gbif.org/species/9256815
+LIBSRC-LIB50-ENT-BIO-1170645,scientific_identity,Trichoglottis valida Ridl.,https://www.gbif.org/species/2802150
+LIBSRC-LIB50-ENT-BIO-1179555,scientific_identity,Pterichis pauciflora Schltr.,https://www.gbif.org/species/2850758
+LIBSRC-LIB50-ENT-BIO-1191555,scientific_identity,Stanhopea panamensis N.H.Williams & W.M.Whitten,https://www.gbif.org/species/2801605
+LIBSRC-LIB50-ENT-BIO-1189245,scientific_identity,Trichopilia undulatissima D.E.Benn. & Christenson,https://www.gbif.org/species/2790570
+LIBSRC-LIB50-ENT-BIO-1171985,scientific_identity,Epidendrum ramiro-medinae Hágsater & L.Sánchez,https://www.gbif.org/species/9491602
+LIBSRC-LIB50-ENT-BIO-1189745,taxon_authority,Rchb.f.,https://www.gbif.org/species/2805148
+LIBSRC-LIB50-ENT-BIO-1189745,scientific_identity,Disperis hildebrandtii Rchb.f.,https://www.gbif.org/species/2805148
+LIBSRC-LIB50-ENT-BIO-1185335,scientific_identity,Dendrobium nafisae Cavestro,https://www.gbif.org/species/12234255
+LIBSRC-LIB50-ENT-BIO-1176165,scientific_identity,Liparis sasakii Hayata,https://www.gbif.org/species/5322927
+LIBSRC-LIB50-ENT-BIO-1170625,scientific_identity,"Trichoglottis cypriana P.O'Byrne, Gokusing & J.J.Wood",https://www.gbif.org/species/9600169
+LIBSRC-LIB50-ENT-BIO-1186585,scientific_identity,Masdevallia aphanes Königer,https://www.gbif.org/species/2848613
+LIBSRC-LIB50-ENT-BIO-1193435,scientific_identity,Bulbophyllum peninsulare Seidenf.,https://www.gbif.org/species/2844375
+LIBSRC-LIB50-ENT-BIO-1178165,taxon_authority,Kraenzl. & Schltr.,https://www.gbif.org/species/2803084
+LIBSRC-LIB50-ENT-BIO-1178165,scientific_identity,Zeuxine gilgiana Kraenzl. & Schltr.,https://www.gbif.org/species/2803084
+LIBSRC-LIB50-ENT-BIO-1184745,scientific_identity,Dendrobium aridum J.J.Sm.,https://www.gbif.org/species/5315916
+LIBSRC-LIB50-ENT-BIO-1169845,scientific_identity,Thelymitra canaliculata R.Br.,https://www.gbif.org/species/2814116
+LIBSRC-LIB50-ENT-BIO-1174775,scientific_identity,Tainia maingayi Hook.f.,https://www.gbif.org/species/2781235
+LIBSRC-LIB50-ENT-BIO-1169495,scientific_identity,Catasetum atratum Lindl.,https://www.gbif.org/species/2803869
+LIBSRC-LIB50-ENT-BIO-1186725,scientific_identity,Dendrobium strongylanthum Rchb.f.,https://www.gbif.org/species/5316149
+LIBSRC-LIB50-ENT-BIO-1169755,scientific_identity,Platylepis goudotii (Ormerod & Cavestro) M.C.Pace,https://www.gbif.org/species/12175181
+LIBSRC-LIB50-ENT-BIO-1186505,scientific_identity,Dendrobium verruciflorum Schltr.,https://www.gbif.org/species/5316007
+LIBSRC-LIB50-ENT-BIO-1168915,scientific_identity,Coelogyne mirabilis (J.J.Wood) M.W.Chase & Schuit.,https://www.gbif.org/species/12261762
+LIBSRC-LIB50-ENT-BIO-1170295,scientific_identity,Cyrtochilum simulans Schltr.,https://www.gbif.org/species/2832836
+LIBSRC-LIB50-ENT-BIO-1190235,scientific_identity,Oncidium saxicola Schltr.,https://www.gbif.org/species/5322061
+LIBSRC-LIB50-ENT-BIO-1175845,scientific_identity,Zygosepalum tatei (Ames & C.Schweinf.) Garay & Dunst.,https://www.gbif.org/species/2809008
+LIBSRC-LIB50-ENT-BIO-1169605,scientific_identity,Sobralia leucoxantha Rchb.f.,https://www.gbif.org/species/2797453
+LIBSRC-LIB50-ENT-BIO-1168015,scientific_identity,"Cyclopogon lindleyanus (Link, Klotzsch & Otto) Schltr.",https://www.gbif.org/species/2807543
+LIBSRC-LIB50-ENT-BIO-1193905,scientific_identity,"Bulbophyllum crabro (C.S.P.Parish & Rchb.f.) J.J.Verm., Schuit. & de Vogel",https://www.gbif.org/species/9495742
+LIBSRC-LIB50-ENT-BIO-1182705,scientific_identity,Aerangis modesta (Hook.f.) Schltr.,https://www.gbif.org/species/2836946
+LIBSRC-LIB50-ENT-BIO-1177165,scientific_identity,Maxillaria sanguinea Rolfe,https://www.gbif.org/species/5317939
+LIBSRC-LIB50-ENT-BIO-1171975,scientific_identity,Epidendrum buenaventurae F.Lehm. & Kraenzl.,https://www.gbif.org/species/5320025
+LIBSRC-LIB50-ENT-BIO-1174945,scientific_identity,Brachionidium syme-morrisii Luer,https://www.gbif.org/species/2816638
+LIBSRC-LIB50-ENT-BIO-1192595,scientific_identity,Bulbophyllum lupulinum Lindl.,https://www.gbif.org/species/2843288
+LIBSRC-LIB50-ENT-BIO-1174605,scientific_identity,Pterostylis conferta (D.L.Jones) G.N.Backh.,https://www.gbif.org/species/6316260
+LIBSRC-LIB50-ENT-BIO-1191385,scientific_identity,"Stanhopea macrocornata Archila, Pérez-García, Chiron & Szlach.",https://www.gbif.org/species/9368014
+LIBSRC-LIB50-ENT-BIO-1177975,scientific_identity,Pseudolaelia canaanensis (Ruschi) F.Barros,https://www.gbif.org/species/2816749
+LIBSRC-LIB50-ENT-BIO-1185885,scientific_identity,Masdevallia calcarata Luer & V.N.M.Rao,https://www.gbif.org/species/2848898
+LIBSRC-LIB50-ENT-BIO-1174675,scientific_identity,Pterostylis ventricosa (D.L.Jones) G.N.Backh.,https://www.gbif.org/species/6316248
+LIBSRC-LIB50-ENT-BIO-1169935,scientific_identity,Microtis arenaria Lindl.,https://www.gbif.org/species/5312202
+LIBSRC-LIB50-ENT-BIO-1195155,scientific_identity,Octarrhena wariana Schltr.,https://www.gbif.org/species/2812664
+LIBSRC-LIB50-ENT-BIO-1190045,scientific_identity,Ceratostylis longipes Schltr.,https://www.gbif.org/species/2836024
+LIBSRC-LIB50-ENT-BIO-1195195,scientific_identity,Octomeria caldensis Hoehne,https://www.gbif.org/species/2817135
+LIBSRC-LIB50-ENT-BIO-1166635,scientific_identity,Oberonia verticillata Wight,https://www.gbif.org/species/5312683
+LIBSRC-LIB50-ENT-BIO-1180655,scientific_identity,Stelis juncea Luer & Hirtz,https://www.gbif.org/species/5309379
+LIBSRC-LIB50-ENT-BIO-1179155,scientific_identity,Houlletia brocklehurstiana Lindl.,https://www.gbif.org/species/2852432
+LIBSRC-LIB50-ENT-BIO-1181365,scientific_identity,Stelis langlassei Schltr.,https://www.gbif.org/species/5309107
+LIBSRC-LIB50-ENT-BIO-1190965,scientific_identity,"Oncidum fasciculatum Hágsater, 1981",https://www.gbif.org/species/3656415
+LIBSRC-LIB50-ENT-BIO-1169335,scientific_identity,"Catasetum hubneri Mansf., 1928",https://www.gbif.org/species/3656770
+LIBSRC-LIB50-ENT-BIO-1185325,scientific_identity,Dendrobium orientale J.J.Sm.,https://www.gbif.org/species/5315526
+LIBSRC-LIB50-ENT-BIO-1173535,scientific_identity,Diuris eburnea D.L.Jones,https://www.gbif.org/species/5321687
+LIBSRC-LIB50-ENT-BIO-1189875,scientific_identity,Ceratostylis evrardii Gagnep.,https://www.gbif.org/species/2835995
+LIBSRC-LIB50-ENT-BIO-1192745,scientific_identity,Bulbophyllum hirsutissimum Kraenzl.,https://www.gbif.org/species/2843527
+LIBSRC-LIB50-ENT-BIO-1187395,scientific_identity,Masdevallia obscurans (Luer) Luer,https://www.gbif.org/species/2848163
+LIBSRC-LIB50-ENT-BIO-1180955,scientific_identity,Stelis mirandae Beutelsp. & Mor.-Mol.,https://www.gbif.org/species/9586432
+LIBSRC-LIB50-ENT-BIO-1179135,scientific_identity,Kreodanthus sytsmae Ormerod,https://www.gbif.org/species/3650153
+LIBSRC-LIB50-ENT-BIO-1174305,scientific_identity,Platystele muscicola Luer & Hirtz,https://www.gbif.org/species/2790720
+LIBSRC-LIB50-ENT-BIO-1187465,scientific_identity,Trichotosia hispidissima (Ridl.) Kraenzl.,https://www.gbif.org/species/2789474
+LIBSRC-LIB50-ENT-BIO-1195305,scientific_identity,Scaphyglottis hirtzii Dodson,https://www.gbif.org/species/2847164
+LIBSRC-LIB50-ENT-BIO-1172265,scientific_identity,Epidendrum × doroteae P.H.Allen,https://www.gbif.org/species/5320399
+LIBSRC-LIB50-ENT-BIO-1192135,scientific_identity,Bulbophyllum liorhopalon J.J.Verm. & A.Lamb,https://www.gbif.org/species/9533257
+LIBSRC-LIB50-ENT-BIO-1191495,scientific_identity,Stanhopea schilleriana Rchb.f.,https://www.gbif.org/species/2801620
+LIBSRC-LIB50-ENT-BIO-1191195,scientific_identity,Pteroglossa luteola Garay,https://www.gbif.org/species/2850083
+LIBSRC-LIB50-ENT-BIO-1168095,scientific_identity,Eriochilus scaber Lindl.,https://www.gbif.org/species/2791966
+LIBSRC-LIB50-ENT-BIO-1177685,scientific_identity,× Orchiaceras helvetica Cif. & Giacom.,https://www.gbif.org/species/7433522
+LIBSRC-LIB50-ENT-BIO-1178655,scientific_identity,Thrixspermum merapohense P.O'Byrne & P.T.Ong,https://www.gbif.org/species/9431529
+LIBSRC-LIB50-ENT-BIO-1191245,scientific_identity,Elleanthus magnipetalus (Szlach. & Kolan.) J.M.H.Shaw,https://www.gbif.org/species/9432428
+LIBSRC-LIB50-ENT-BIO-1181025,scientific_identity,Stelis sobrina Luer & R.Escobar,https://www.gbif.org/species/10835311
+LIBSRC-LIB50-ENT-BIO-1168295,scientific_identity,Coelogyne datensis M.W.Chase & Schuit.,https://www.gbif.org/species/12214371
+LIBSRC-LIB50-ENT-BIO-1194735,scientific_identity,Cynorkis coccinelloides (Frapp. ex Cordem.) Schltr.,https://www.gbif.org/species/2781729
+LIBSRC-LIB50-ENT-BIO-1181975,scientific_identity,Phalaenopsis amabilis (L.) Blume,https://www.gbif.org/species/5311007
+LIBSRC-LIB50-ENT-BIO-1193345,scientific_identity,Bulbophyllum longivaginans H.Perrier,https://www.gbif.org/species/2843385
+LIBSRC-LIB50-ENT-BIO-1187975,scientific_identity,Fissidens porrectus Mitt.,https://www.gbif.org/species/5283301
+LIBSRC-LIB50-ENT-BIO-1188485,scientific_identity,Fissidens diaphanodontus (P.de la Varde) Bizot,https://www.gbif.org/species/5283114
+LIBSRC-LIB50-ENT-BIO-1188005,scientific_identity,Fissidens borgenii Hampe,https://www.gbif.org/species/5283253
+LIBSRC-LIB50-ENT-BIO-1188245,scientific_identity,Fissidens monguillonii Thér.,https://www.gbif.org/species/5283145
+LIBSRC-LIB50-ENT-BIO-1188395,scientific_identity,Fissidens submarginatus Bruch,https://www.gbif.org/species/5283349
+LIBSRC-LIB50-ENT-BIO-1188405,scientific_identity,Fissidens ceylonensis Dozy & Molk.,https://www.gbif.org/species/5283100
+LIBSRC-LIB50-ENT-BIO-1188285,scientific_identity,Fissidens steerei Grout,https://www.gbif.org/species/5282968
+LIBSRC-LIB50-ENT-BIO-1188295,scientific_identity,Fissidens obtusatulus (Müll.Hal.) Broth.,https://www.gbif.org/species/5283088
+LIBSRC-LIB50-ENT-BIO-1187965,scientific_identity,Fissidens capriviensis Magill,https://www.gbif.org/species/5282994
+LIBSRC-LIB50-ENT-BIO-1188145,scientific_identity,Fissidens microdictyon Dixon & P.de la Varde,https://www.gbif.org/species/5283182
+LIBSRC-LIB50-ENT-BIO-1187915,scientific_identity,Fissidens duttonii H.A.Mill.,https://www.gbif.org/species/5283102
+LIBSRC-LIB50-ENT-BIO-1188335,scientific_identity,Fissidens pauperculus M.Howe,https://www.gbif.org/species/5283077
+LIBSRC-LIB50-ENT-BIO-1184295,scientific_identity,Servicktia acuta Ignatov,https://www.gbif.org/species/8423248
+LIBSRC-LIB50-ENT-BIO-1187485,scientific_identity,Camellia maoniushanensis J.L.Liu & Q.Luo,https://www.gbif.org/species/3592119
+LIBSRC-LIB50-ENT-BIO-1187755,scientific_identity,Camellia thailandica Hung T.Chang & S.X.Ren,https://www.gbif.org/species/3590804
+LIBSRC-LIB50-ENT-BIO-1184345,scientific_identity,Gordonia spathulata (Kobuski) H.Keng,https://www.gbif.org/species/5528089
+LIBSRC-LIB50-ENT-BIO-1187665,scientific_identity,"Camellia puhoatensis N.S.Lý, V.D.Luong, T.H.Lê, D.H.Nguyễn & N.D.Do",https://www.gbif.org/species/10858769
+LIBSRC-LIB50-ENT-BIO-1187645,scientific_identity,"Camellia inusitata Orel, Curry & Luu",https://www.gbif.org/species/8236474
+LIBSRC-LIB50-ENT-BIO-1187775,scientific_identity,Camellia tonkinensis (Pit.) Cohen-Stuart,https://www.gbif.org/species/3590782
+LIBSRC-LIB50-ENT-BIO-1184335,scientific_identity,"Gordonia acuminata Zoll., 1854",https://www.gbif.org/species/7390707
+LIBSRC-LIB50-ENT-BIO-1177935,scientific_identity,Pyrenaria laotica Gagnep.,https://www.gbif.org/species/3592117
+LIBSRC-LIB50-ENT-BIO-1184365,scientific_identity,Gordonia portoricensis (Krug & Urb.) H.Keng,https://www.gbif.org/species/5528147
+LIBSRC-LIB50-ENT-BIO-0030735,scientific_identity,Entodontopsis angustiretis (Broth.) W.R.Buck & Ireland,https://www.gbif.org/species/2679557
+LIBSRC-LIB50-ENT-BIO-0037685,scientific_identity,Pilosium chlorophyllum (Hornsch.) Müll.Hal. ex Broth.,https://www.gbif.org/species/8844922
+LIBSRC-LIB50-ENT-BIO-0049475,scientific_identity,Cyathodium spruceanum Prosk.,https://www.gbif.org/species/7430207
+LIBSRC-LIB50-ENT-BIO-0042495,scientific_identity,Hiraea faginea (Sw.) Nied.,https://www.gbif.org/species/3191289
+LIBSRC-LIB50-ENT-BIO-0050555,scientific_identity,Microsteira glabrifolia Arènes,https://www.gbif.org/species/3986308
+LIBSRC-LIB50-ENT-BIO-0044165,scientific_identity,Malpighia melbensis F.K.Mey.,https://www.gbif.org/species/8359134
+LIBSRC-LIB50-ENT-BIO-0049735,scientific_identity,Byrsonima nana W.R.Anderson,https://www.gbif.org/species/11184751
+LIBSRC-LIB50-ENT-BIO-0042365,scientific_identity,Hiraea longipes W.R.Anderson,https://www.gbif.org/species/3984385
+LIBSRC-LIB50-ENT-BIO-0043465,scientific_identity,Styrax suberifolius Hook. & Arn.,https://www.gbif.org/species/5541322
+LIBSRC-LIB50-ENT-BIO-0049635,scientific_identity,Byrsonima psilandra Griseb.,https://www.gbif.org/species/3984850
+LIBSRC-LIB50-ENT-BIO-0036035,scientific_identity,Stereophyllum aptychopsis Müll.Hal.,https://www.gbif.org/species/8904874
+LIBSRC-LIB50-ENT-BIO-0051965,scientific_identity,Pterostyrax hispidus Siebold & Zucc.,https://www.gbif.org/species/3646556
+LIBSRC-LIB50-ENT-BIO-1180505,scientific_identity,Stelis tricula Luer & Hirtz,https://www.gbif.org/species/5309981
+LIBSRC-LIB50-ENT-BIO-0044205,scientific_identity,Malpighia acunana Borhidi & O.Muñiz,https://www.gbif.org/species/5634523
+LIBSRC-LIB50-ENT-BIO-0042905,scientific_identity,Hiptage candicans Hook.fil.,https://www.gbif.org/species/3985679
+LIBSRC-LIB50-ENT-BIO-0046515,scientific_identity,Acridocarpus congolensis Sprague,https://www.gbif.org/species/3986421
+LIBSRC-LIB50-ENT-BIO-0049545,scientific_identity,Heladena multiflora (Hook. & Arn.) Nied.,https://www.gbif.org/species/3984903
+LIBSRC-LIB50-ENT-BIO-0042385,scientific_identity,"Hiraea psilophylla Niederl., 1890",https://www.gbif.org/species/8359760
+LIBSRC-LIB50-ENT-BIO-0031955,scientific_identity,Sciuroleskea xanthophylla (Hampe & Lorentz) Broth.,https://www.gbif.org/species/2679546
+LIBSRC-LIB50-ENT-BIO-0040655,scientific_identity,"Sphedamnocarpus angolensis Planch., 1868",https://www.gbif.org/species/8459458
+LIBSRC-LIB50-ENT-BIO-0049595,scientific_identity,Byrsonima speciosa Peckolt,https://www.gbif.org/species/3984581
+LIBSRC-LIB50-ENT-BIO-0054075,scientific_identity,Stigmaphyllon papuanum C.E.Anderson,https://www.gbif.org/species/7482498
+LIBSRC-LIB50-ENT-BIO-0051105,scientific_identity,Heteropterys platyptera DC.,https://www.gbif.org/species/7284944
+LIBSRC-LIB50-ENT-BIO-0043595,scientific_identity,Styrax benzoides Craib,https://www.gbif.org/species/5371675
+LIBSRC-LIB50-ENT-BIO-0051145,scientific_identity,Heteropterys rhopalaefolia A.Juss.,https://www.gbif.org/species/3986373
+LIBSRC-LIB50-ENT-BIO-0050495,scientific_identity,Blepharandra fimbriata Mac Bryde,https://www.gbif.org/species/10423812
+LIBSRC-LIB50-ENT-BIO-0044145,scientific_identity,Malpighia dura F.K.Mey.,https://www.gbif.org/species/7607373
+LIBSRC-LIB50-ENT-BIO-0044085,scientific_identity,Glicophyllum selerianum (Nied.) R.F.Almeida,https://www.gbif.org/species/11142640
+LIBSRC-LIB50-ENT-BIO-0050175,scientific_identity,Bunchosia ternata Dobson,https://www.gbif.org/species/3982960
+LIBSRC-LIB50-ENT-BIO-0032625,scientific_identity,"Ernestia filiciformis (Schlotheim, 1927)",https://www.gbif.org/species/11213221
+LIBSRC-LIB50-ENT-BIO-0039925,scientific_identity,Gaudichaudia zygoptera S.L.Jessup,https://www.gbif.org/species/5634798
+LIBSRC-LIB50-ENT-BIO-0051205,scientific_identity,Heteropterys steyermarkii W.R.Anderson,https://www.gbif.org/species/3986113
+LIBSRC-LIB50-ENT-BIO-0039615,scientific_identity,Tetrapterys helianthemifolia Griseb.,https://www.gbif.org/species/3985133
+LIBSRC-LIB50-ENT-BIO-0050465,scientific_identity,Bunchosia tuberculata (Jacq.) DC.,https://www.gbif.org/species/3982951
+LIBSRC-LIB50-ENT-BIO-0051055,scientific_identity,Heteropterys marginata W.R.Anderson,https://www.gbif.org/species/3982961
+LIBSRC-LIB50-ENT-BIO-0043565,scientific_identity,Styrax peltatus P.W.Fritsch,https://www.gbif.org/species/8941907
+LIBSRC-LIB50-ENT-BIO-0049625,scientific_identity,Byrsonima stannardii W.R.Anderson,https://www.gbif.org/species/3984533
+LIBSRC-LIB50-ENT-BIO-0042815,scientific_identity,Alicia anisopetala (A.Juss.) W.R.Anderson,https://www.gbif.org/species/5635022
+LIBSRC-LIB50-ENT-BIO-1176415,taxon_authority,Schltr.,https://www.gbif.org/species/5323074
+LIBSRC-LIB50-ENT-BIO-1176415,scientific_identity,Liparis densa Schltr.,https://www.gbif.org/species/5323074
+LIBSRC-LIB50-ENT-BIO-0043475,taxon_authority,Lundell,https://www.gbif.org/species/118025248
+LIBSRC-LIB50-ENT-BIO-0043475,scientific_identity,Styrax magnus Lundell,https://www.gbif.org/species/118025248
+LIBSRC-LIB50-ENT-BIO-0051065,scientific_identity,Heteropterys megaptera A.Juss.,https://www.gbif.org/species/7285061
+LIBSRC-LIB50-ENT-BIO-0044245,scientific_identity,Malpighia lundellii C.V.Morton,https://www.gbif.org/species/5634972
+LIBSRC-LIB50-ENT-BIO-0053805,scientific_identity,Stigmaphyllon macedoanum C.E.Andersson,https://www.gbif.org/species/3983275
+LIBSRC-LIB50-ENT-BIO-0053785,scientific_identity,Stigmaphyllon macropodum A.Juss.,https://www.gbif.org/species/3983257
+LIBSRC-LIB50-ENT-BIO-0053435,scientific_identity,Galphimia radialis C.E.Anderson,https://www.gbif.org/species/3986153
+LIBSRC-LIB50-ENT-BIO-0052375,scientific_identity,Pterandra colombiana C.E.Andersson,https://www.gbif.org/species/3985464
+LIBSRC-LIB50-ENT-BIO-0039625,scientific_identity,"Tetrapterys villosa Poepp., 1906",https://www.gbif.org/species/3984547
+LIBSRC-LIB50-ENT-BIO-0053895,scientific_identity,Stigmaphyllon urenifolium A.Juss.,https://www.gbif.org/species/7366522
+LIBSRC-LIB50-ENT-BIO-0030775,scientific_identity,Entodontopsis pygmaea (Paris & Broth.) W.R.Buck & Ireland,https://www.gbif.org/species/2679562
+LIBSRC-LIB50-ENT-BIO-0049715,scientific_identity,Byrsonima karstenii W.R.Anderson,https://www.gbif.org/species/3985626
+LIBSRC-LIB50-ENT-BIO-0046495,scientific_identity,Christianella mesoamericana (W.R.Anderson) W.R.Anderson,https://www.gbif.org/species/5634590
+LIBSRC-LIB50-ENT-BIO-0053905,scientific_identity,Stigmaphyllon cuzcanum C.E.Anderson,https://www.gbif.org/species/3983790
+LIBSRC-LIB50-ENT-BIO-0049665,taxon_authority,Griseb.,https://www.gbif.org/species/7949004
+LIBSRC-LIB50-ENT-BIO-0049665,scientific_identity,Byrsonima perseifolia Griseb.,https://www.gbif.org/species/7949004
+LIBSRC-LIB50-ENT-BIO-0043155,taxon_authority,C.E.Anderson,https://www.gbif.org/species/295164446
+LIBSRC-LIB50-ENT-BIO-0043155,scientific_identity,Peixotoa megalantha C.E.Anderson,https://www.gbif.org/species/295164446
+LIBSRC-LIB50-ENT-BIO-0033165,scientific_identity,Lescuraea brachyclados (Schwägr.) Kindb.,https://www.gbif.org/species/7386392
+LIBSRC-LIB50-ENT-BIO-0054285,scientific_identity,Stigmaphyllon diversifolium (Kunth) A.Juss.,https://www.gbif.org/species/3191316
+LIBSRC-LIB50-ENT-BIO-0030765,scientific_identity,Entodontopsis nitens (Mitt.) W.R.Buck & Ireland,https://www.gbif.org/species/2679555
+LIBSRC-LIB50-ENT-BIO-0049645,scientific_identity,Byrsonima homeieri W.R.Anderson,https://www.gbif.org/species/3985772
+LIBSRC-LIB50-ENT-BIO-1725715,scientific_identity,Gonocarpus salsoloides Rchb. ex Spreng.,https://www.gbif.org/species/5555443
+LIBSRC-LIB50-ENT-BIO-1725725,scientific_identity,Gonocarpus montanus (Hook.fil.) Orchard,https://www.gbif.org/species/5555476
+LIBSRC-LIB50-ENT-BIO-0049605,scientific_identity,Byrsonima crispa,https://www.gbif.org/species/101384075
+LIBSRC-LIB50-ENT-BIO-1720665,scientific_identity,Myriophyllum wrightii A.Gray,https://www.gbif.org/species/5555329
+LIBSRC-LIB50-ENT-BIO-1730565,scientific_identity,Haloragis maierae Orchard,https://www.gbif.org/species/3709551
+LIBSRC-LIB50-ENT-BIO-1720655,scientific_identity,Myriophyllum tenellum Bigelow,https://www.gbif.org/species/5361775
+LIBSRC-LIB50-ENT-BIO-1725765,scientific_identity,Gonocarpus philippinensis (Merr.) Orchard,https://www.gbif.org/species/5555462
+LIBSRC-LIB50-ENT-BIO-0872205,scientific_identity,Salvia castanea Diels,https://www.gbif.org/species/3882150
+LIBSRC-LIB50-ENT-BIO-0046545,taxon_authority,R.Vig. & Humbert,https://www.gbif.org/species/8591356
+LIBSRC-LIB50-ENT-BIO-0046545,scientific_identity,Acridocarpus oppositifolius R.Vig. & Humbert,https://www.gbif.org/species/8591356
+LIBSRC-LIB50-ENT-BIO-0873115,scientific_identity,"Phlomoides leiocalyx (Pazij & Vved.) Adylov, Kamelin & Makhm.",https://www.gbif.org/species/3885355
+LIBSRC-LIB50-ENT-BIO-0876575,scientific_identity,Aegiphila pauciflora Standl.,https://www.gbif.org/species/3891151
+LIBSRC-LIB50-ENT-BIO-0871605,scientific_identity,Salvia pericona B.L.Turner,https://www.gbif.org/species/7695406
+LIBSRC-LIB50-ENT-BIO-0042475,taxon_authority,W.R.Anderson & C.Davis,https://www.gbif.org/species/295159780
+LIBSRC-LIB50-ENT-BIO-0042475,scientific_identity,Hiraea glabrata W.R.Anderson & C.Davis,https://www.gbif.org/species/295159780
+LIBSRC-LIB50-ENT-BIO-0878465,scientific_identity,Scutellaria ocmulgee Small,https://www.gbif.org/species/5341339
+LIBSRC-LIB50-ENT-BIO-0870665,scientific_identity,Pogostemon nilagiricus Gamble,https://www.gbif.org/species/3899746
+LIBSRC-LIB50-ENT-BIO-0871065,scientific_identity,Clerodendrum petasites (Lour.) S.Moore,https://www.gbif.org/species/8191194
+LIBSRC-LIB50-ENT-BIO-0880055,scientific_identity,Hemigenia biddulphiana F.Muell.,https://www.gbif.org/species/3886838
+LIBSRC-LIB50-ENT-BIO-0874545,scientific_identity,Hedeoma apiculata W.S.Stewart,https://www.gbif.org/species/2926703
+LIBSRC-LIB50-ENT-BIO-0058355,taxon_authority,P.I.Forst.,https://www.gbif.org/species/118464576
+LIBSRC-LIB50-ENT-BIO-0058355,scientific_identity,Dissiliaria tuckeri P.I.Forst.,https://www.gbif.org/species/118464576
+LIBSRC-LIB50-ENT-BIO-0878195,scientific_identity,Scutellaria pseudoserrata Epling,https://www.gbif.org/species/5341372
+LIBSRC-LIB50-ENT-BIO-0876635,scientific_identity,Pogogyne zizyphoroides Benth.,https://www.gbif.org/species/3900500
+LIBSRC-LIB50-ENT-BIO-0039985,taxon_authority,(Nied.) Chodat,https://www.gbif.org/species/295166215
+LIBSRC-LIB50-ENT-BIO-0039985,scientific_identity,Gaudichaudia diandra (Nied.) Chodat,https://www.gbif.org/species/295166215
+LIBSRC-LIB50-ENT-BIO-0033145,taxon_authority,Lindb.,https://www.gbif.org/species/117990054
+LIBSRC-LIB50-ENT-BIO-0033145,scientific_identity,Lescuraea patens Lindb.,https://www.gbif.org/species/117990054
+LIBSRC-LIB50-ENT-BIO-0877945,scientific_identity,Scutellaria andamanica Prain,https://www.gbif.org/species/5610047
+LIBSRC-LIB50-ENT-BIO-0873285,scientific_identity,Phlomoides badakshanica (Hedge) Salmaki,https://www.gbif.org/species/7884637
+LIBSRC-LIB50-ENT-BIO-0876775,scientific_identity,"Sideritis caesarea H.Duman, Aytaç & Baser",https://www.gbif.org/species/3892068
+LIBSRC-LIB50-ENT-BIO-0881605,scientific_identity,Eriope angustifolia Epling,https://www.gbif.org/species/3898087
+LIBSRC-LIB50-ENT-BIO-0043365,taxon_authority,C.E.Andersson,https://www.gbif.org/species/3985917
+LIBSRC-LIB50-ENT-BIO-0043365,scientific_identity,Peixotoa goiana C.E.Andersson,https://www.gbif.org/species/3985917
+LIBSRC-LIB50-ENT-BIO-0873705,scientific_identity,Oxera sulfurea Dubard,https://www.gbif.org/species/3890771
+LIBSRC-LIB50-ENT-BIO-0051195,taxon_authority,W.R.Anderson,https://www.gbif.org/species/295161667
+LIBSRC-LIB50-ENT-BIO-0051195,scientific_identity,Heteropterys velutina W.R.Anderson,https://www.gbif.org/species/295161667
+LIBSRC-LIB50-ENT-BIO-0878305,scientific_identity,Scutellaria tatianae Juz.,https://www.gbif.org/species/5608057
+LIBSRC-LIB50-ENT-BIO-0875715,scientific_identity,Origanum × majoricum Cambess.,https://www.gbif.org/species/3894423
+LIBSRC-LIB50-ENT-BIO-0881845,scientific_identity,"Mentha javanica Span., 1841",https://www.gbif.org/species/3899681
+LIBSRC-LIB50-ENT-BIO-0863775,scientific_identity,Trichilia schomburgkii C.DC.,https://www.gbif.org/species/7271374
+LIBSRC-LIB50-ENT-BIO-0882445,scientific_identity,Premna angolensis Gürke,https://www.gbif.org/species/3898368
+LIBSRC-LIB50-ENT-BIO-0873205,scientific_identity,Isodon latifolius (C.Y.Wu & H.W.Li) H.Hara,https://www.gbif.org/species/5608966
+LIBSRC-LIB50-ENT-BIO-0864055,taxon_authority,"Ball, 1885",https://www.gbif.org/species/4021545
+LIBSRC-LIB50-ENT-BIO-0864055,scientific_identity,"Loasa carduifolia Ball, 1885",https://www.gbif.org/species/4021545
+LIBSRC-LIB50-ENT-BIO-0872845,scientific_identity,Clinopodium caricum (P.H.Davis) Bräuchler & Heubl,https://www.gbif.org/species/3887905
+LIBSRC-LIB50-ENT-BIO-0870935,scientific_identity,"Clerodendrum pubescens Walp., 1843",https://www.gbif.org/species/7597280
+LIBSRC-LIB50-ENT-BIO-0881505,scientific_identity,"Platystoma buettnerianum Briq, 1894",https://www.gbif.org/species/7432087
+LIBSRC-LIB50-ENT-BIO-0879465,scientific_identity,Callicarpa leonis Moldenke,https://www.gbif.org/species/5609553
+LIBSRC-LIB50-ENT-BIO-0880785,scientific_identity,Meehania faberi (Hemsl.) C.Y.Wu,https://www.gbif.org/species/3905335
+LIBSRC-LIB50-ENT-BIO-0874305,taxon_authority,Boiss.,https://www.gbif.org/species/118530515
+LIBSRC-LIB50-ENT-BIO-0874305,scientific_identity,Stachys hydrophila Boiss.,https://www.gbif.org/species/118530515
+LIBSRC-LIB50-ENT-BIO-0881705,scientific_identity,Volkameria madaeera Roxb.,https://www.gbif.org/species/5610114
+LIBSRC-LIB50-ENT-BIO-0872605,scientific_identity,Salvia cana Wall. ex Benth.,https://www.gbif.org/species/7572290
+LIBSRC-LIB50-ENT-BIO-0872225,scientific_identity,Salvia hintonii Epling,https://www.gbif.org/species/3900210
+LIBSRC-LIB50-ENT-BIO-0872345,scientific_identity,Salvia sharpii Epling & Mathias,https://www.gbif.org/species/3887592
+LIBSRC-LIB50-ENT-BIO-0876945,scientific_identity,"Sideritis laxespicata (Degen & Debeaux) Socorro, I.Tarrega & Zafra",https://www.gbif.org/species/3890332
+LIBSRC-LIB50-ENT-BIO-0874175,scientific_identity,"Stachys floribunda Montbret & Aucher, 1836",https://www.gbif.org/species/3883239
+LIBSRC-LIB50-ENT-BIO-0873725,scientific_identity,Plectranthus guruensis A.J.Paton,https://www.gbif.org/species/9431905
+LIBSRC-LIB50-ENT-BIO-0871955,scientific_identity,Clinopodium adzharicum Melnikov,https://www.gbif.org/species/12183051
+LIBSRC-LIB50-ENT-BIO-0864995,scientific_identity,Entandrophragma tomentosa A.Chev.,https://www.gbif.org/species/3850746
+LIBSRC-LIB50-ENT-BIO-0871835,scientific_identity,Salvia gonzaleziae Fernald,https://www.gbif.org/species/11155449
+LIBSRC-LIB50-ENT-BIO-0876555,scientific_identity,Aegiphila aracaensis Aymard & Cuello,https://www.gbif.org/species/3893590
+LIBSRC-LIB50-ENT-BIO-0876585,scientific_identity,Leonotis nepetifolia,https://www.gbif.org/species/336690325
+LIBSRC-LIB50-ENT-BIO-0869345,taxon_authority,Moldenke,https://www.gbif.org/species/104799634
+LIBSRC-LIB50-ENT-BIO-0869345,scientific_identity,Vitex rubra Moldenke,https://www.gbif.org/species/104799634
+LIBSRC-LIB50-ENT-BIO-0875955,scientific_identity,Marsypianthes hassleri Briq.,https://www.gbif.org/species/3905538
+LIBSRC-LIB50-ENT-BIO-0871285,scientific_identity,Prostanthera carrickiana B.J.Conn,https://www.gbif.org/species/3895236
+LIBSRC-LIB50-ENT-BIO-0877755,scientific_identity,"Ballota forskahlei Benth., 1834",https://www.gbif.org/species/3883189
+LIBSRC-LIB50-ENT-BIO-0866085,scientific_identity,Caiophora contorta (Desr.) C.Presl,https://www.gbif.org/species/7439766
+LIBSRC-LIB50-ENT-BIO-0865835,scientific_identity,Turraea monticola Bosser,https://www.gbif.org/species/3852898
+LIBSRC-LIB50-ENT-BIO-0876715,scientific_identity,Sideritis incana L.,https://www.gbif.org/species/7307659
+LIBSRC-LIB50-ENT-BIO-0878125,scientific_identity,Scutellaria dependens Maxim.,https://www.gbif.org/species/5609602
+LIBSRC-LIB50-ENT-BIO-0874775,scientific_identity,"Ajuga crenata Hochst. ex Benth., 1848",https://www.gbif.org/species/8017394
+LIBSRC-LIB50-ENT-BIO-0882375,scientific_identity,Premna caridantha Y.H.Tan & Bo Li,https://www.gbif.org/species/12251005
+LIBSRC-LIB50-ENT-BIO-0870325,scientific_identity,"Cunila paniculata Benth. ex Steud., 1840",https://www.gbif.org/species/5610943
+LIBSRC-LIB50-ENT-BIO-0870895,scientific_identity,Clerodendrum schmidtii C.B.Clarke,https://www.gbif.org/species/7307567
+LIBSRC-LIB50-ENT-BIO-0873005,scientific_identity,Phlomoides pacifica Kamelin & Shlotg.,https://www.gbif.org/species/3885202
+LIBSRC-LIB50-ENT-BIO-0869735,scientific_identity,Ocimum forsskalii Benth.,https://www.gbif.org/species/11157992
+LIBSRC-LIB50-ENT-BIO-0878005,scientific_identity,Scutellaria jaliscana Epling,https://www.gbif.org/species/5609104
+LIBSRC-LIB50-ENT-BIO-0863835,scientific_identity,Trichilia pseudostipularis (A.Juss.) C.DC.,https://www.gbif.org/species/7271430
+LIBSRC-LIB50-ENT-BIO-0874125,scientific_identity,Stachys grandidentata Lindl.,https://www.gbif.org/species/3882780
+LIBSRC-LIB50-ENT-BIO-0883135,scientific_identity,Syncolostemon macrophyllus Gürke,https://www.gbif.org/species/3900228
+LIBSRC-LIB50-ENT-BIO-0882925,scientific_identity,Teucrium haradjanii Briq. ex Rech.f.,https://www.gbif.org/species/8079630
+LIBSRC-LIB50-ENT-BIO-0891275,scientific_identity,Spicantopsis niponica (Kunze) Nakai,https://www.gbif.org/species/4078653
+LIBSRC-LIB50-ENT-BIO-0875705,scientific_identity,Orthosiphon lanatus Doan ex Suddee & A.J.Paton,https://www.gbif.org/species/8369370
+LIBSRC-LIB50-ENT-BIO-0880675,scientific_identity,Coleus petraeus (Backer ex Adelb.) A.J.Paton,https://www.gbif.org/species/11008640
+LIBSRC-LIB50-ENT-BIO-0866495,scientific_identity,"Bartonia bracteata Custis, 1807",https://www.gbif.org/species/8458914
+LIBSRC-LIB50-ENT-BIO-0873085,scientific_identity,Isodon pharicus (Prain) Murata,https://www.gbif.org/species/5608893
+LIBSRC-LIB50-ENT-BIO-0877985,scientific_identity,Scutellaria daghestanica Grossh.,https://www.gbif.org/species/8149964
+LIBSRC-LIB50-ENT-BIO-0879005,scientific_identity,Phlomis × rechingeri Hub.-Mor.,https://www.gbif.org/species/3886618
+LIBSRC-LIB50-ENT-BIO-0878245,scientific_identity,Scutellaria woodii J.M.Mercado,https://www.gbif.org/species/5607877
+LIBSRC-LIB50-ENT-BIO-0874285,scientific_identity,Stachys riederi Cham.,https://www.gbif.org/species/7463009
+LIBSRC-LIB50-ENT-BIO-0876295,scientific_identity,Dracocephalum origanoides Stephan ex Willd.,https://www.gbif.org/species/7309166
+LIBSRC-LIB50-ENT-BIO-0875185,scientific_identity,Aeollanthus serpiculoides Baker,https://www.gbif.org/species/3889231
+LIBSRC-LIB50-ENT-BIO-0891715,scientific_identity,Woodwardia omeiensis Ching,https://www.gbif.org/species/8089913
+LIBSRC-LIB50-ENT-BIO-0880585,scientific_identity,Coleus congestus (R.Br.) A.J.Paton,https://www.gbif.org/species/11106695
+LIBSRC-LIB50-ENT-BIO-0878845,scientific_identity,Leucas flaccida Moritzi & Zoll.,https://www.gbif.org/species/7307204
+LIBSRC-LIB50-ENT-BIO-0878285,scientific_identity,Scutellaria robusta Benth.,https://www.gbif.org/species/5608378
+LIBSRC-LIB50-ENT-BIO-0878825,scientific_identity,Leucas pilosa Benth.,https://www.gbif.org/species/5606367
+LIBSRC-LIB50-ENT-BIO-0883105,scientific_identity,"Monardella beneolens Shevock, Ertter & Jokerst",https://www.gbif.org/species/2926536
+LIBSRC-LIB50-ENT-BIO-0881925,scientific_identity,"Mentha submissa Trautm. & Urum., 1935",https://www.gbif.org/species/3895095
+LIBSRC-LIB50-ENT-BIO-0875545,scientific_identity,Nepeta azadkouhensis Saberamoli,https://www.gbif.org/species/10824367
+LIBSRC-LIB50-ENT-BIO-0890495,scientific_identity,Blechnum socialis Sodiro,https://www.gbif.org/species/5792161
+LIBSRC-LIB50-ENT-BIO-0877935,scientific_identity,Scutellaria paulsenii Briq.,https://www.gbif.org/species/5608591
+LIBSRC-LIB50-ENT-BIO-0874055,scientific_identity,"Stachys laetevirens Kotschy & Boiss. ex Boiss., 1879",https://www.gbif.org/species/7623392
+LIBSRC-LIB50-ENT-BIO-0880065,scientific_identity,Hemigenia microphylla Benth.,https://www.gbif.org/species/3886397
+LIBSRC-LIB50-ENT-BIO-0870615,scientific_identity,Pogostemon purpurascens Dalzell,https://www.gbif.org/species/3899613
+LIBSRC-LIB50-ENT-BIO-0872535,scientific_identity,"Salvia taurina hort. ex Benth., 1833",https://www.gbif.org/species/3886100
+LIBSRC-LIB50-ENT-BIO-0876625,scientific_identity,Pogogyne clareana J.T.Howell,https://www.gbif.org/species/2926977
+LIBSRC-LIB50-ENT-BIO-0869565,scientific_identity,"Vitex pallida Wall., 1829",https://www.gbif.org/species/3903784
+LIBSRC-LIB50-ENT-BIO-0870015,scientific_identity,Hoslundia opposita Vahl,https://www.gbif.org/species/3884477
+LIBSRC-LIB50-ENT-BIO-0881975,scientific_identity,Mentha pahinensis Topitz,https://www.gbif.org/species/3897679
+LIBSRC-LIB50-ENT-BIO-0874855,scientific_identity,Kalaharia schaijesii Bamps,https://www.gbif.org/species/9074658
+LIBSRC-LIB50-ENT-BIO-0872865,scientific_identity,Clinopodium gilliesii (Benth.) Kuntze,https://www.gbif.org/species/3887220
+LIBSRC-LIB50-ENT-BIO-0880105,scientific_identity,Rotheca pilosa (H.Pearson) P.P.J.Herman & Retief,https://www.gbif.org/species/3887210
+LIBSRC-LIB50-ENT-BIO-0871565,scientific_identity,Salvia vasta H.W.Li,https://www.gbif.org/species/7306744
+LIBSRC-LIB50-ENT-BIO-0869445,scientific_identity,Vitex capitata Vahl,https://www.gbif.org/species/7307514
+LIBSRC-LIB50-ENT-BIO-0875505,scientific_identity,Nepeta polyodonta Rech.f.,https://www.gbif.org/species/5609903
+LIBSRC-LIB50-ENT-BIO-0866655,scientific_identity,Dysoxylum mollissimum Blume,https://www.gbif.org/species/7271531
+LIBSRC-LIB50-ENT-BIO-0874085,scientific_identity,Stachys pilosa Nutt.,https://www.gbif.org/species/2927278
+LIBSRC-LIB50-ENT-BIO-0872695,scientific_identity,Salvia cyanotropha Epling,https://www.gbif.org/species/3904410
+LIBSRC-LIB50-ENT-BIO-0865845,scientific_identity,Cedrela montana Moritz ex Turcz.,https://www.gbif.org/species/7271324
+LIBSRC-LIB50-ENT-BIO-0873685,scientific_identity,Plectranthus grallatus Briq.,https://www.gbif.org/species/3904483
+LIBSRC-LIB50-ENT-BIO-0876675,scientific_identity,Sideritis granatensis Pau ex Sennen,https://www.gbif.org/species/7801543
+LIBSRC-LIB50-ENT-BIO-0882325,scientific_identity,"Roylea elegans Wall., 1830",https://www.gbif.org/species/3887026
+LIBSRC-LIB50-ENT-BIO-0871225,scientific_identity,Lardizabala funaria (Molina) Looser,https://www.gbif.org/species/4191601
+LIBSRC-LIB50-ENT-BIO-0875465,scientific_identity,Nepeta × boissieri Willk.,https://www.gbif.org/species/5610708
+LIBSRC-LIB50-ENT-BIO-0869975,taxon_authority,Rozeira,https://www.gbif.org/species/118629152
+LIBSRC-LIB50-ENT-BIO-0869975,scientific_identity,Lavandula ×limae Rozeira,https://www.gbif.org/species/118629152
+LIBSRC-LIB50-ENT-BIO-0863755,scientific_identity,Trichilia stellatotomentosa Kuntze,https://www.gbif.org/species/3850911
+LIBSRC-LIB50-ENT-BIO-0878595,scientific_identity,Hyptis ramosa Pohl ex Benth.,https://www.gbif.org/species/3900929
+LIBSRC-LIB50-ENT-BIO-0871295,scientific_identity,Prostanthera semiteres B.J.Conn,https://www.gbif.org/species/7308134
+LIBSRC-LIB50-ENT-BIO-0875205,scientific_identity,Aeollanthus parvifolius Benth.,https://www.gbif.org/species/3889413
+LIBSRC-LIB50-ENT-BIO-0882135,scientific_identity,Micromeria madagascariensis Baker,https://www.gbif.org/species/5606310
+LIBSRC-LIB50-ENT-BIO-0881815,scientific_identity,Mentha langiana Topitz ex Heinr.Braun & Topitz,https://www.gbif.org/species/3899368
+LIBSRC-LIB50-ENT-BIO-0879425,taxon_authority,H. T. Chang,https://www.gbif.org/species/114554404
+LIBSRC-LIB50-ENT-BIO-0879425,scientific_identity,Callicarpa cathayana H.T.Chang,https://www.gbif.org/species/114554404
+LIBSRC-LIB50-ENT-BIO-0865605,scientific_identity,Khaya euryphylla Harms,https://www.gbif.org/species/3852055
+LIBSRC-LIB50-ENT-BIO-0871925,scientific_identity,Salvia repens Burch. ex Benth.,https://www.gbif.org/species/7307546
+LIBSRC-LIB50-ENT-BIO-0867265,scientific_identity,Mentzelia leucophylla Brandegee,https://www.gbif.org/species/5331506
+LIBSRC-LIB50-ENT-BIO-0869435,scientific_identity,Vitex elakelakensis Moldenke,https://www.gbif.org/species/3905758
+LIBSRC-LIB50-ENT-BIO-0881235,scientific_identity,Stenogyne macrantha Benth.,https://www.gbif.org/species/2927407
+LIBSRC-LIB50-ENT-BIO-0873905,scientific_identity,Leonurus tibeticus Krestovsk.,https://www.gbif.org/species/5607173
+LIBSRC-LIB50-ENT-BIO-0877175,scientific_identity,Thymus sergievskajae Karav.,https://www.gbif.org/species/5605430
+LIBSRC-LIB50-ENT-BIO-0870795,scientific_identity,Clerodendrum insolitum Moldenke,https://www.gbif.org/species/3892475
+LIBSRC-LIB50-ENT-BIO-0870855,scientific_identity,Clerodendrum poggei Gürke,https://www.gbif.org/species/3890436
+LIBSRC-LIB50-ENT-BIO-0868275,scientific_identity,Aglaia puberulanthera C.DC.,https://www.gbif.org/species/5597263
+LIBSRC-LIB50-ENT-BIO-0881955,scientific_identity,Mentha laxiflora Benth.,https://www.gbif.org/species/3899256
+LIBSRC-LIB50-ENT-BIO-0882505,scientific_identity,Oocephalus silvinae (Harley) Harley & J.F.B.Pastore,https://www.gbif.org/species/7685091
+LIBSRC-LIB50-ENT-BIO-0881335,scientific_identity,Satureja avromanica Maroofi,https://www.gbif.org/species/8072870
+LIBSRC-LIB50-ENT-BIO-0872515,scientific_identity,Salvia polystachia Cav.,https://www.gbif.org/species/4931086
+LIBSRC-LIB50-ENT-BIO-0870485,scientific_identity,Petraeovitex bambusetorum King & Gamble,https://www.gbif.org/species/3888831
+LIBSRC-LIB50-ENT-BIO-0881195,scientific_identity,Acrotome thorncroftii Skan,https://www.gbif.org/species/3893704
+LIBSRC-LIB50-ENT-BIO-0878655,scientific_identity,Hyptis cachimboensis Harley,https://www.gbif.org/species/12203243
+LIBSRC-LIB50-ENT-BIO-0871325,scientific_identity,Prostanthera tallowa B.J.Conn & T.C.Wilson,https://www.gbif.org/species/9365788
+LIBSRC-LIB50-ENT-BIO-0872585,scientific_identity,Salvia guaranitica A.St.-Hil. ex Benth.,https://www.gbif.org/species/7486599
+LIBSRC-LIB50-ENT-BIO-0874035,scientific_identity,Stachys scardica Griseb.,https://www.gbif.org/species/7309317
+LIBSRC-LIB50-ENT-BIO-0877515,taxon_authority,(Ronniger) Jalas,https://www.gbif.org/species/295559223
+LIBSRC-LIB50-ENT-BIO-0877515,scientific_identity,Thymus eriocalyx (Ronniger) Jalas,https://www.gbif.org/species/295559223
+LIBSRC-LIB50-ENT-BIO-0881065,scientific_identity,Platostoma cambodgense Suddee & A.J.Paton,https://www.gbif.org/species/7306477
+LIBSRC-LIB50-ENT-BIO-0882885,scientific_identity,Teucrium × sagarrae Font Quer,https://www.gbif.org/species/3893441
+LIBSRC-LIB50-ENT-BIO-0875325,scientific_identity,Nepeta agrestis Loisel.,https://www.gbif.org/species/5607587
+LIBSRC-LIB50-ENT-BIO-0863805,scientific_identity,Trichilia martiana C.DC.,https://www.gbif.org/species/3849592
+LIBSRC-LIB50-ENT-BIO-0876735,scientific_identity,Sideritis ibanyenzii Pau,https://www.gbif.org/species/3890639
+LIBSRC-LIB50-ENT-BIO-0870785,scientific_identity,Clerodendrum cochinchinense Dop,https://www.gbif.org/species/3894365
+LIBSRC-LIB50-ENT-BIO-0881445,scientific_identity,Satureja subspicata Bartl. ex Vis.,https://www.gbif.org/species/7309250
+LIBSRC-LIB50-ENT-BIO-0872265,scientific_identity,Salvia melissiflora Benth.,https://www.gbif.org/species/3896322
+LIBSRC-LIB50-ENT-BIO-0871655,scientific_identity,Salvia nanchuanensis Y.Z.Sun,https://www.gbif.org/species/8999563
+LIBSRC-LIB50-ENT-BIO-0883095,taxon_authority,Greene,https://www.gbif.org/species/3905881
+LIBSRC-LIB50-ENT-BIO-0883095,scientific_identity,Monardella subserrata Greene,https://www.gbif.org/species/3905881
+LIBSRC-LIB50-ENT-BIO-0871005,scientific_identity,Clerodendrum arenarium Baker,https://www.gbif.org/species/3895265
+LIBSRC-LIB50-ENT-BIO-0881345,taxon_authority,"Loes., 1905",https://www.gbif.org/species/8350654
+LIBSRC-LIB50-ENT-BIO-0881345,scientific_identity,"Satureja eugenioides Loes., 1905",https://www.gbif.org/species/8350654
+LIBSRC-LIB50-ENT-BIO-0882175,taxon_authority,K.Koch,https://www.gbif.org/species/118599168
+LIBSRC-LIB50-ENT-BIO-0882175,scientific_identity,Micromeria elliptica K.Koch,https://www.gbif.org/species/118599168
+LIBSRC-LIB50-ENT-BIO-0869815,scientific_identity,Endostemon ctenoneurus Harley,https://www.gbif.org/species/3899734
+LIBSRC-LIB50-ENT-BIO-0873775,scientific_identity,Plectranthus parviflorus,https://www.gbif.org/species/204890370
+LIBSRC-LIB50-ENT-BIO-0878805,scientific_identity,"Leucas polycephala Wall., 1829",https://www.gbif.org/species/5606356
+LIBSRC-LIB50-ENT-BIO-0882615,scientific_identity,Teucrium alpestre Sm.,https://www.gbif.org/species/7722399
+LIBSRC-LIB50-ENT-BIO-0863815,taxon_authority,C.DC.,https://www.gbif.org/species/295420681
+LIBSRC-LIB50-ENT-BIO-0863815,scientific_identity,Trichilia casarettoi C.DC.,https://www.gbif.org/species/295420681
+LIBSRC-LIB50-ENT-BIO-0869155,taxon_authority,"Reid & Chandler, 1933",https://www.gbif.org/species/184967012
+LIBSRC-LIB50-ENT-BIO-0869155,scientific_identity,"Melicarya variabilis Reid & Chandler, 1933",https://www.gbif.org/species/184967012
+LIBSRC-LIB50-ENT-BIO-0874815,scientific_identity,Ajuga lobata,https://www.gbif.org/species/213653189
+LIBSRC-LIB50-ENT-BIO-0878075,scientific_identity,Scutellaria nepetifolia Benth.,https://www.gbif.org/species/5608809
