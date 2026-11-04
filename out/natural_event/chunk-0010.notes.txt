@@ -1,0 +1,1 @@
+Used Wikipedia search and Wikidata Entity API to fetch properties for typhoons and natural events. Extracted start/end times for phenomenon_time, location, and lowest atmospheric pressure for magnitude.
