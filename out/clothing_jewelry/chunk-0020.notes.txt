@@ -1,0 +1,5 @@
+Subjects are Smithsonian (SMI) jewelry artifacts.
+Searched Wikidata (SPARQL and Action API) using P217 (inventory number) and exact labels. No matches found due to missing data or 429 Too Many Requests.
+Checked Europeana, Rijksmuseum, Met, Cleveland, Chicago Open APIs. No matching SMI inventory numbers.
+Cannot use Smithsonian API as it requires an API key.
+Result is empty.
