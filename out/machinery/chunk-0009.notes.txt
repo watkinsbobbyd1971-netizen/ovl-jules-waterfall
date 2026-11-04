@@ -1,0 +1,3 @@
+Attempted to query Wikidata SPARQL endpoint for machinery properties (P31, P279 mapped to descriptive_identity/identity_label).
+Queries timed out or returned no relevant results due to the abstract nature of concepts ('high horse', 'hard line', 'bent', 'sectionalism', 'fairness') in this chunk which have no standard machinery properties.
+No valid referenced machinery properties found for any of the subjects.
