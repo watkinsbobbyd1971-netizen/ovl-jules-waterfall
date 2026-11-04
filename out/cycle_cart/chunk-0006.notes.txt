@@ -1,0 +1,1 @@
+Attempted to query Wikidata SPARQL API and Wikidata entity API for subjects in tasks/cycle_cart/chunk-0006.csv.gz. Encountered severe rate limits (HTTP 429). Could not retrieve sourced values.
