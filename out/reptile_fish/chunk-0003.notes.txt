@@ -1,0 +1,3 @@
+Attempted sources:
+- GBIF Species Match API (https://api.gbif.org/v1/species/match) for biological taxonomy and scientific identity.
+- Wikidata Action API (wbsearchentities) for general identity labels.

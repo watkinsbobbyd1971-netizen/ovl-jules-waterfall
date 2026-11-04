@@ -1,0 +1,12 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_04-CAT_12-ERA_03-1780-ACC04-HOP16949-REC3389774,identity_label,"""Sherds""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Sherds&language=en&format=json
+IDB-REG_04-CAT_12-ERA_03-1780-ACC04-HOP17385-REC3476994,identity_label,"""bead""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Bead&language=en&format=json
+IDB-REG_04-CAT_12-ERA_03-1780-ACC04-HOP17297-REC3459214,identity_label,"""Sherds""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Sherds&language=en&format=json
+IDB-REG_04-CAT_12-ERA_04-1890-ACC04-HOP12799-REC2559694,identity_label,"""fragment""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Fragment&language=en&format=json
+IDB-REG_04-CAT_12-ERA_06-2015-ACC04-HOP18359-REC3671674,identity_label,"""rim sherd""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Rim%20Sherd&language=en&format=json
+IDB-REG_04-CAT_12-ERA_06-2015-ACC04-HOP18462-REC3692254,identity_label,"""rim sherd""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Rim%20Sherd&language=en&format=json
+IDB-REG_04-CAT_12-ERA_06-2015-ACC04-HOP18574-REC3714654,identity_label,"""Beaded Bag""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Beaded%20Bag&language=en&format=json
+IDB-REG_04-CAT_14-ERA_01-1200-ACC04-HOP14217-REC2843324,scientific_identity,"""Insignia Astrova, 1965""",https://api.gbif.org/v1/species/match?name=Insignia
+IDB-REG_04-CAT_14-ERA_03-1780-ACC04-HOP14599-REC2919724,identity_label,"""Pin""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=pin&language=en&format=json
+IDB-REG_04-CAT_14-ERA_02-1650-ACC04-HOP16157-REC3231244,identity_label,"""drawing""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Drawing&language=en&format=json
+IDB-REG_04-CAT_14-ERA_03-1780-ACC04-HOP12846-REC2569024,identity_label,"""fragment""",https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Fragment&language=en&format=json
