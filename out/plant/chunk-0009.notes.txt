@@ -1,0 +1,3 @@
+Attempted to query Wikidata and GBIF APIs.
+GBIF API may not have specific plant structure properties like plant_part_length or plant_structure in match responses.
+Wikidata API returned 429 Too Many Requests consistently.
