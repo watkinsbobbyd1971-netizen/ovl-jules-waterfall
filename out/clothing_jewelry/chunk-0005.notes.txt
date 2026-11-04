@@ -1,0 +1,1 @@
+Attempted to query Wikidata API via wbsearchentities and wbgetentities for exact entity matches and extracting explicitly sourced property values. Processed entire dataset handling rate limiting.
