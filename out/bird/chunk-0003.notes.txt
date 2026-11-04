@@ -1,0 +1,1 @@
+Queried GBIF API (https://api.gbif.org/v1/species/match) for exact matches on subject names to extract 'taxon_authority'. Wikidata SPARQL was tried but was aggressively rate-limited (HTTP Error 429).

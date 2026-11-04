@@ -1,0 +1,673 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-0085891,taxon_authority,"Stonor, 1939",https://api.gbif.org/v1/species/2494870
+LIBSRC-LIB50-ENT-BIO-0083481,taxon_authority,"Sharpe, 1882",https://api.gbif.org/v1/species/2494899
+LIBSRC-LIB50-ENT-BIO-0115591,taxon_authority,"Hu et al., 2015",https://api.gbif.org/v1/species/8667129
+LIBSRC-LIB50-ENT-BIO-1101631,taxon_authority,"Wijnker & Olson, 2009",https://api.gbif.org/v1/species/4966618
+LIBSRC-LIB50-ENT-BIO-0114861,taxon_authority,"Boles, 1993",https://api.gbif.org/v1/species/11148708
+LIBSRC-LIB50-ENT-BIO-1749401,taxon_authority,"Li et al., 2005",https://api.gbif.org/v1/species/4966391
+LIBSRC-LIB50-ENT-BIO-2491131,taxon_authority,"Gould, 1840",https://api.gbif.org/v1/species/7341076
+LIBSRC-LIB50-ENT-BIO-0201771,taxon_authority,"Wetmore, 1940",https://api.gbif.org/v1/species/4966465
+LIBSRC-LIB50-ENT-BIO-0816091,taxon_authority,"Harrison, 1984",https://api.gbif.org/v1/species/4966682
+LIBSRC-LIB50-ENT-BIO-1580271,taxon_authority,"Tordoff & Macdonald, 1957",https://api.gbif.org/v1/species/4966431
+LIBSRC-LIB50-ENT-BIO-0519441,taxon_authority,"(Vieillot, 1817) ",https://api.gbif.org/v1/species/5231319
+LIBSRC-LIB50-ENT-BIO-0115841,taxon_authority,"Keyserling & Blasius, 1840",https://api.gbif.org/v1/species/8010086
+LIBSRC-LIB50-ENT-BIO-0114491,taxon_authority,C.L.Brehm,https://api.gbif.org/v1/species/11220083
+LIBSRC-LIB50-ENT-BIO-1098551,taxon_authority,"Wijnker & Olson, 2009",https://api.gbif.org/v1/species/4966613
+LIBSRC-LIB50-ENT-BIO-0114911,taxon_authority,"Dalsatt et al., 2014",https://api.gbif.org/v1/species/8620883
+LIBSRC-LIB50-ENT-BIO-0085171,taxon_authority,"(Lesson & Garnot, 1826) ",https://api.gbif.org/v1/species/7341526
+LIBSRC-LIB50-ENT-BIO-0546141,taxon_authority,"Cretzschmar, 1829",https://api.gbif.org/v1/species/2480927
+LIBSRC-LIB50-ENT-BIO-0114501,taxon_authority,"Zhou et al., 2009",https://api.gbif.org/v1/species/8702595
+LIBSRC-LIB50-ENT-BIO-0115831,taxon_authority,"Agnolin & Martinelli, 2009",https://api.gbif.org/v1/species/8484836
+LIBSRC-LIB50-ENT-BIO-1444111,taxon_authority,"Linnaeus, 1766",https://api.gbif.org/v1/species/8869233
+LIBSRC-LIB50-ENT-BIO-1082791,taxon_authority,"Rautian, 1978",https://api.gbif.org/v1/species/11132217
+LIBSRC-LIB50-ENT-BIO-0114271,taxon_authority,"Vieillot, 1816",https://api.gbif.org/v1/species/10014950
+LIBSRC-LIB50-ENT-BIO-1300621,taxon_authority,"Owen, 1872",https://api.gbif.org/v1/species/8656287
+LIBSRC-LIB50-ENT-BIO-0113431,taxon_authority,"Clarke, 2004",https://api.gbif.org/v1/species/8569997
+LIBSRC-LIB50-ENT-BIO-0547311,taxon_authority,"Olson & Wingate, 2006",https://api.gbif.org/v1/species/7629696
+LIBSRC-LIB50-ENT-BIO-0546191,taxon_authority,"Sundevall, 1850",https://api.gbif.org/v1/species/11525700
+LIBSRC-LIB50-ENT-BIO-0841671,taxon_authority,"Shaw, 1798",https://api.gbif.org/v1/species/2475423
+LIBSRC-LIB50-ENT-BIO-0547021,taxon_authority,"(Scopoli, 1769) ",https://api.gbif.org/v1/species/2480906
+LIBSRC-LIB50-ENT-BIO-1444001,taxon_authority,"(Vigors, 1832) ",https://api.gbif.org/v1/species/2488953
+LIBSRC-LIB50-ENT-BIO-0113921,taxon_authority,"Hou & Zhang, 1993",https://api.gbif.org/v1/species/5935921
+LIBSRC-LIB50-ENT-BIO-0807461,taxon_authority,"(Schlegel, 1871) ",https://api.gbif.org/v1/species/6101075
+LIBSRC-LIB50-ENT-BIO-1901711,taxon_authority,"Wetmore, 1934",https://api.gbif.org/v1/species/11217415
+LIBSRC-LIB50-ENT-BIO-0512911,taxon_authority,"(Hartlaub, 1860) ",https://api.gbif.org/v1/species/2492930
+LIBSRC-LIB50-ENT-BIO-0841681,taxon_authority,"Vieillot, 1817",https://api.gbif.org/v1/species/2475426
+LIBSRC-LIB50-ENT-BIO-1640231,taxon_authority,"(J.R.Forster, 1785) ",https://api.gbif.org/v1/species/2481374
+LIBSRC-LIB50-ENT-BIO-0066851,taxon_authority,"O'Connor et al., 2012",https://api.gbif.org/v1/species/8454251
+LIBSRC-LIB50-ENT-BIO-1636171,taxon_authority,"(Audubon, 1839) ",https://api.gbif.org/v1/species/2481383
+LIBSRC-LIB50-ENT-BIO-0512071,taxon_authority,"(Strickland, 1837) ",https://api.gbif.org/v1/species/2493219
+LIBSRC-LIB50-ENT-BIO-0114621,taxon_authority,"Zheng et al., 2007",https://api.gbif.org/v1/species/4966924
+LIBSRC-LIB50-ENT-BIO-1624631,taxon_authority,"Acosta Hospitaleche & Gelfo, 2017",https://api.gbif.org/v1/species/9539641
+LIBSRC-LIB50-ENT-BIO-0519431,taxon_authority,"(Swinhoe, 1863) ",https://api.gbif.org/v1/species/5231326
+LIBSRC-LIB50-ENT-BIO-0514461,taxon_authority,"(Cabanis, 1850) ",https://api.gbif.org/v1/species/5739355
+LIBSRC-LIB50-ENT-BIO-1441041,taxon_authority,"(G.R.Gray, 1862) ",https://api.gbif.org/v1/species/7504594
+LIBSRC-LIB50-ENT-BIO-0067351,taxon_authority,"(Delattre & Bourcier, 1846) ",https://api.gbif.org/v1/species/2476681
+LIBSRC-LIB50-ENT-BIO-0201761,taxon_authority,"Svec, 1982",https://api.gbif.org/v1/species/4966468
+LIBSRC-LIB50-ENT-BIO-2321571,taxon_authority,"(Vieillot, 1817) ",https://api.gbif.org/v1/species/5230750
+LIBSRC-LIB50-ENT-BIO-2318791,taxon_authority,"(Lichtenstein, 1842) ",https://api.gbif.org/v1/species/7340285
+LIBSRC-LIB50-ENT-BIO-1446361,taxon_authority,"Boles, 1999",https://api.gbif.org/v1/species/11212369
+LIBSRC-LIB50-ENT-BIO-0544651,taxon_authority,"(Raffles, 1822) ",https://api.gbif.org/v1/species/2480841
+LIBSRC-LIB50-ENT-BIO-0546061,taxon_authority,"Audubon, 1835",https://api.gbif.org/v1/species/10682806
+LIBSRC-LIB50-ENT-BIO-0072351,taxon_authority,"Lawrence, 1864",https://api.gbif.org/v1/species/8165005
+LIBSRC-LIB50-ENT-BIO-0065061,taxon_authority,"G.R.Graves, 1980",https://api.gbif.org/v1/species/2476859
+LIBSRC-LIB50-ENT-BIO-0066221,taxon_authority,"Wetmore, Phelps & WH Jr, 1952",https://api.gbif.org/v1/species/10707191
+LIBSRC-LIB50-ENT-BIO-0076051,taxon_authority,"(Loddiges, 1832) ",https://api.gbif.org/v1/species/2476787
+LIBSRC-LIB50-ENT-BIO-0070551,taxon_authority,"(Vieillot, 1817) ",https://api.gbif.org/v1/species/2476193
+LIBSRC-LIB50-ENT-BIO-0073991,taxon_authority,"(Gould, 1851) ",https://api.gbif.org/v1/species/10962601
+LIBSRC-LIB50-ENT-BIO-0072171,taxon_authority,"Salvin, 1865",https://api.gbif.org/v1/species/2476847
+LIBSRC-LIB50-ENT-BIO-0071861,taxon_authority,"(de la Llave, 1833) ",https://api.gbif.org/v1/species/2476441
+LIBSRC-LIB50-ENT-BIO-0072771,taxon_authority,"(R.Lesson, 1832) ",https://api.gbif.org/v1/species/2476576
+LIBSRC-LIB50-ENT-BIO-0073471,taxon_authority,"(Gould, 1856) ",https://api.gbif.org/v1/species/2476953
+LIBSRC-LIB50-ENT-BIO-0076581,taxon_authority,"(Gould, 1846) ",https://api.gbif.org/v1/species/5228474
+LIBSRC-LIB50-ENT-BIO-2526516,taxon_authority,"Temminck, 1823",https://api.gbif.org/v1/species/5229411
+LIBSRC-LIB50-ENT-BIO-2526375,taxon_authority,"(Short, 1966) ",https://api.gbif.org/v1/species/9369011
+LIBSRC-LIB50-ENT-BIO-0296341,taxon_authority,"(Hartert, 1897) ",https://api.gbif.org/v1/species/5232353
+LIBSRC-LIB50-ENT-BIO-0066161,taxon_authority,"(Gould, 1851) ",https://api.gbif.org/v1/species/2476752
+LIBSRC-LIB50-ENT-BIO-2526378,taxon_authority,"(Raffles, 1822) ",https://api.gbif.org/v1/species/2481935
+LIBSRC-LIB50-ENT-BIO-0313241,taxon_authority,"(Scopoli, 1769) ",https://api.gbif.org/v1/species/2497266
+LIBSRC-LIB50-ENT-BIO-0311501,taxon_authority,"(Daudin, 1800) ",https://api.gbif.org/v1/species/2497337
+LIBSRC-LIB50-ENT-BIO-0312221,taxon_authority,"P.L.Sclater, 1877",https://api.gbif.org/v1/species/2497825
+LIBSRC-LIB50-ENT-BIO-0296291,taxon_authority,"Rando et al., 2012",https://api.gbif.org/v1/species/7546198
+LIBSRC-LIB50-ENT-BIO-0302081,taxon_authority,"(P.P.King, 1827) ",https://api.gbif.org/v1/species/5232138
+LIBSRC-LIB50-ENT-BIO-0295761,taxon_authority,"Linnaeus, 1776",https://api.gbif.org/v1/species/7901833
+LIBSRC-LIB50-ENT-BIO-0301981,taxon_authority,"Nelson, 1901",https://api.gbif.org/v1/species/5232090
+LIBSRC-LIB50-ENT-BIO-0311291,taxon_authority,"(J.F.Gmelin, 1788) ",https://api.gbif.org/v1/species/5959118
+LIBSRC-LIB50-ENT-BIO-0311271,taxon_authority,"(Sharpe & Ussher, 1872) ",https://api.gbif.org/v1/species/5959115
+LIBSRC-LIB50-ENT-BIO-0298321,taxon_authority,"Sharpe, 1875",https://api.gbif.org/v1/species/2497871
+LIBSRC-LIB50-ENT-BIO-0312341,taxon_authority,"(Latham, 1801) ",https://api.gbif.org/v1/species/2497828
+LIBSRC-LIB50-ENT-BIO-0312291,taxon_authority,"(Temminck & Schlegel, 1845) ",https://api.gbif.org/v1/species/7340187
+LIBSRC-LIB50-ENT-BIO-1011451,taxon_authority,"(Marsh, 1876) ",https://api.gbif.org/v1/species/4966848
+LIBSRC-LIB50-ENT-BIO-0312241,taxon_authority,"Olsen, Wink, Sauer-G\u00fcrth & Trost, 2002",https://api.gbif.org/v1/species/2497790
+LIBSRC-LIB50-ENT-BIO-1356501,taxon_authority,"(Mathews, 1914) ",https://api.gbif.org/v1/species/2487547
+LIBSRC-LIB50-ENT-BIO-2099281,taxon_authority,"(Hume, 1877) ",https://api.gbif.org/v1/species/6065768
+LIBSRC-LIB50-ENT-BIO-1449081,taxon_authority,"(Blyth, 1843) ",https://api.gbif.org/v1/species/2475906
+LIBSRC-LIB50-ENT-BIO-2097341,taxon_authority,"(G.R.Gray, 1845) ",https://api.gbif.org/v1/species/2481123
+LIBSRC-LIB50-ENT-BIO-2099431,taxon_authority,"Audubon, 1839",https://api.gbif.org/v1/species/9656686
+LIBSRC-LIB50-ENT-BIO-2099271,taxon_authority,"(J.F.Gmelin, 1789) ",https://api.gbif.org/v1/species/2481263
+LIBSRC-LIB50-ENT-BIO-2099421,taxon_authority,"(Bruch, 1855) ",https://api.gbif.org/v1/species/6065817
+LIBSRC-LIB50-ENT-BIO-2099741,taxon_authority,"(Tschudi, 1843) ",https://api.gbif.org/v1/species/6065847
+LIBSRC-LIB50-ENT-BIO-1102341,taxon_authority,"Liu et al., 2014",https://api.gbif.org/v1/species/11179840
+LIBSRC-LIB50-ENT-BIO-2099471,taxon_authority,"Latham, 1801",https://api.gbif.org/v1/species/2481147
+LIBSRC-LIB50-ENT-BIO-1759091,taxon_authority,"Lafresnaye, 1847",https://api.gbif.org/v1/species/2475147
+LIBSRC-LIB50-ENT-BIO-1759081,taxon_authority,"P.L.Sclater, 1854",https://api.gbif.org/v1/species/2475143
+LIBSRC-LIB50-ENT-BIO-1755441,taxon_authority,"(P.L.Sclater, 1854) ",https://api.gbif.org/v1/species/2475200
+LIBSRC-LIB50-ENT-BIO-0908501,taxon_authority,"Cowles, 1964",https://api.gbif.org/v1/species/2492268
+LIBSRC-LIB50-ENT-BIO-0017371,taxon_authority,"Schlegel, 1865",https://api.gbif.org/v1/species/2495117
+LIBSRC-LIB50-ENT-BIO-2239101,taxon_authority,"(S.Muller, 1840) ",https://api.gbif.org/v1/species/2496386
+LIBSRC-LIB50-ENT-BIO-2240421,taxon_authority,"(Latham, 1801) ",https://api.gbif.org/v1/species/4848207
+LIBSRC-LIB50-ENT-BIO-2242121,taxon_authority,"Linnaeus, 1758",https://api.gbif.org/v1/species/5231918
+LIBSRC-LIB50-ENT-BIO-2240441,taxon_authority,"(Salvadori, 1874) ",https://api.gbif.org/v1/species/10834983
+LIBSRC-LIB50-ENT-BIO-2242141,taxon_authority,"Linn\u00e6us, 1758",https://api.gbif.org/v1/species/8998749
+LIBSRC-LIB50-ENT-BIO-2241091,taxon_authority,"Hemprich & Ehrenberg, 1829",https://api.gbif.org/v1/species/5231960
+LIBSRC-LIB50-ENT-BIO-0501881,taxon_authority,"Vieillot, 1818",https://api.gbif.org/v1/species/10034967
+LIBSRC-LIB50-ENT-BIO-2240741,taxon_authority,"(Shaw, 1792) ",https://api.gbif.org/v1/species/2496324
+LIBSRC-LIB50-ENT-BIO-0502441,taxon_authority,"Hartlaub, 1849",https://api.gbif.org/v1/species/2493976
+LIBSRC-LIB50-ENT-BIO-2242961,taxon_authority,"(Deville, 1851) ",https://api.gbif.org/v1/species/5232016
+LIBSRC-LIB50-ENT-BIO-0502461,taxon_authority,"Vieillot, 1817",https://api.gbif.org/v1/species/2493971
+LIBSRC-LIB50-ENT-BIO-0502451,taxon_authority,"Oustalet, 1879",https://api.gbif.org/v1/species/10886130
+LIBSRC-LIB50-ENT-BIO-0141221,taxon_authority,"(G.R.Gray, 1861) ",https://api.gbif.org/v1/species/6101049
+LIBSRC-LIB50-ENT-BIO-0142971,taxon_authority,"(A.B.Meyer, 1874) ",https://api.gbif.org/v1/species/2486666
+LIBSRC-LIB50-ENT-BIO-0142781,taxon_authority,"(Ogilvie-Grant, 1907) ",https://api.gbif.org/v1/species/2486677
+LIBSRC-LIB50-ENT-BIO-0141391,taxon_authority,"(Quoy & Gaimard, 1830) ",https://api.gbif.org/v1/species/6095016
+LIBSRC-LIB50-ENT-BIO-0142801,taxon_authority,"(Thomson, 1842) ",https://api.gbif.org/v1/species/2486684
+LIBSRC-LIB50-ENT-BIO-1424481,taxon_authority,"(Cassin, 1859) ",https://api.gbif.org/v1/species/2492904
+LIBSRC-LIB50-ENT-BIO-1424411,taxon_authority,"Sharpe, 1887",https://api.gbif.org/v1/species/5231376
+LIBSRC-LIB50-ENT-BIO-1424541,taxon_authority,"(Walden, 1874) ",https://api.gbif.org/v1/species/8030310
+LIBSRC-LIB50-ENT-BIO-1423811,taxon_authority,"Blyth, 1859",https://api.gbif.org/v1/species/2493253
+LIBSRC-LIB50-ENT-BIO-1098001,taxon_authority,"Currie, 1981",https://api.gbif.org/v1/species/4966819
+LIBSRC-LIB50-ENT-BIO-0845651,taxon_authority,"(Kittlitz, 1830) ",https://api.gbif.org/v1/species/2490973
+LIBSRC-LIB50-ENT-BIO-0839901,taxon_authority,"Chapman, 1915",https://api.gbif.org/v1/species/2491005
+LIBSRC-LIB50-ENT-BIO-0839881,taxon_authority,"K.V.Rosenberg, T.J.Davis, G.H.Rosenberg, Hosner, Robbins, Valqui & Lane, 2020",https://api.gbif.org/v1/species/11217238
+LIBSRC-LIB50-ENT-BIO-0515661,taxon_authority,"(Reichenow, 1901) ",https://api.gbif.org/v1/species/8097857
+LIBSRC-LIB50-ENT-BIO-0514231,taxon_authority,"Neumann, 1907",https://api.gbif.org/v1/species/11801442
+LIBSRC-LIB50-ENT-BIO-1354361,taxon_authority,"(Chapman, 1923) ",https://api.gbif.org/v1/species/7988334
+LIBSRC-LIB50-ENT-BIO-1353031,taxon_authority,"L\u00f6nnberg, 1929",https://api.gbif.org/v1/species/8388453
+LIBSRC-LIB50-ENT-BIO-1356641,taxon_authority,"Campbell, 1979",https://api.gbif.org/v1/species/8531852
+LIBSRC-LIB50-ENT-BIO-1356621,taxon_authority,"Hume, 1873",https://api.gbif.org/v1/species/2496974
+LIBSRC-LIB50-ENT-BIO-1358061,taxon_authority,"(Bonaparte, 1850) ",https://api.gbif.org/v1/species/2497074
+LIBSRC-LIB50-ENT-BIO-1356611,taxon_authority,"Hartlaub, 1857",https://api.gbif.org/v1/species/2496905
+LIBSRC-LIB50-ENT-BIO-1356631,taxon_authority,"Temminck, 1820",https://api.gbif.org/v1/species/9411857
+LIBSRC-LIB50-ENT-BIO-1809151,taxon_authority,"Gmelin, 1789",https://api.gbif.org/v1/species/10074450
+LIBSRC-LIB50-ENT-BIO-0400851,taxon_authority,"(J.K.Townsend, 1837) ",https://api.gbif.org/v1/species/7341770
+LIBSRC-LIB50-ENT-BIO-0400881,taxon_authority,"(Kepler & Parkes, 1972) ",https://api.gbif.org/v1/species/6093389
+LIBSRC-LIB50-ENT-BIO-0400861,taxon_authority,"(J.F.Gmelin, 1789) ",https://api.gbif.org/v1/species/8378494
+LIBSRC-LIB50-ENT-BIO-0400841,taxon_authority,"(S.F.Baird, 1865) ",https://api.gbif.org/v1/species/6092723
+LIBSRC-LIB50-ENT-BIO-0403791,taxon_authority,"Linnaeus, 1776",https://api.gbif.org/v1/species/7670512
+LIBSRC-LIB50-ENT-BIO-0398231,taxon_authority,"(Boddaert, 1783) ",https://api.gbif.org/v1/species/2489871
+LIBSRC-LIB50-ENT-BIO-0397741,taxon_authority,"Taczanowski, 1880",https://api.gbif.org/v1/species/2489767
+LIBSRC-LIB50-ENT-BIO-1367571,taxon_authority,"(R\u00fcppell, 1840) ",https://api.gbif.org/v1/species/5231212
+LIBSRC-LIB50-ENT-BIO-0397761,taxon_authority,"(P.L.Sclater & Salvin, 1871) ",https://api.gbif.org/v1/species/2489836
+LIBSRC-LIB50-ENT-BIO-1367591,taxon_authority,"P.L.Sclater & Hartlaub, 1881",https://api.gbif.org/v1/species/5231202
+LIBSRC-LIB50-ENT-BIO-1369661,taxon_authority,C.L.Brehm,https://api.gbif.org/v1/species/11129318
+LIBSRC-LIB50-ENT-BIO-1365851,taxon_authority,"(Oustalet, 1892) ",https://api.gbif.org/v1/species/6090248
+LIBSRC-LIB50-ENT-BIO-0394361,taxon_authority,"Salvin, 1897",https://api.gbif.org/v1/species/2479046
+LIBSRC-LIB50-ENT-BIO-0073551,taxon_authority,"(Bourcier, 1847) ",https://api.gbif.org/v1/species/2476368
+LIBSRC-LIB50-ENT-BIO-1734011,taxon_authority,"Kinnear, 1935",https://api.gbif.org/v1/species/6093301
+LIBSRC-LIB50-ENT-BIO-1736541,taxon_authority,"Latham, 1790",https://api.gbif.org/v1/species/10440714
+LIBSRC-LIB50-ENT-BIO-1734441,taxon_authority,"(G.R.Gray, 1845) ",https://api.gbif.org/v1/species/6100916
+LIBSRC-LIB50-ENT-BIO-1733741,taxon_authority,"Sundevall, 1850",https://api.gbif.org/v1/species/11752556
+LIBSRC-LIB50-ENT-BIO-1739371,taxon_authority,"(Guerin-Meneville, 1843) ",https://api.gbif.org/v1/species/2492967
+LIBSRC-LIB50-ENT-BIO-1736571,taxon_authority,"(Reichenow, 1882) ",https://api.gbif.org/v1/species/5231305
+LIBSRC-LIB50-ENT-BIO-1736561,taxon_authority,"Temminck, 1820",https://api.gbif.org/v1/species/8381984
+LIBSRC-LIB50-ENT-BIO-1736581,taxon_authority,"(Pallas, 1764) ",https://api.gbif.org/v1/species/2492950
+LIBSRC-LIB50-ENT-BIO-0661121,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2493987
+LIBSRC-LIB50-ENT-BIO-0661831,taxon_authority,"(Linnaeus, 1766) ",https://api.gbif.org/v1/species/2494077
+LIBSRC-LIB50-ENT-BIO-0661691,taxon_authority,"(Bocage, 1880) ",https://api.gbif.org/v1/species/2494034
+LIBSRC-LIB50-ENT-BIO-0661631,taxon_authority,"Grant & Mackworth-Praed, 1947",https://api.gbif.org/v1/species/2494021
+LIBSRC-LIB50-ENT-BIO-0661651,taxon_authority,"W.L.Sclater, 1931",https://api.gbif.org/v1/species/2494011
+LIBSRC-LIB50-ENT-BIO-2323961,taxon_authority,"Salvadori, 1874",https://api.gbif.org/v1/species/2489347
+LIBSRC-LIB50-ENT-BIO-0659991,taxon_authority,"(Daudin, 1802) ",https://api.gbif.org/v1/species/2493996
+LIBSRC-LIB50-ENT-BIO-2329701,taxon_authority,"(Hartert, 1896) ",https://api.gbif.org/v1/species/2489332
+LIBSRC-LIB50-ENT-BIO-2324101,taxon_authority,"(J.R.Forster, 1781) ",https://api.gbif.org/v1/species/2489364
+LIBSRC-LIB50-ENT-BIO-2323891,taxon_authority,"Ridgway, 1894",https://api.gbif.org/v1/species/7904509
+LIBSRC-LIB50-ENT-BIO-2326551,taxon_authority,"Hartlaub, 1865",https://api.gbif.org/v1/species/2489417
+LIBSRC-LIB50-ENT-BIO-2323951,taxon_authority,"Guerin-Meneville, 1843",https://api.gbif.org/v1/species/9565230
+LIBSRC-LIB50-ENT-BIO-2323921,taxon_authority,"E.Newton, 1867",https://api.gbif.org/v1/species/2489406
+LIBSRC-LIB50-ENT-BIO-2323991,taxon_authority,"Hartert & Ejo, 1903",https://api.gbif.org/v1/species/10740277
+LIBSRC-LIB50-ENT-BIO-2323931,taxon_authority,"Hartlaub, 1866",https://api.gbif.org/v1/species/2489360
+LIBSRC-LIB50-ENT-BIO-2328741,taxon_authority,"Rothschild, 1926",https://api.gbif.org/v1/species/2493187
+LIBSRC-LIB50-ENT-BIO-2323911,taxon_authority,"Hartert, 1929",https://api.gbif.org/v1/species/2489405
+LIBSRC-LIB50-ENT-BIO-1323391,taxon_authority,"(Milne-Edwards, 1891) ",https://api.gbif.org/v1/species/11142381
+LIBSRC-LIB50-ENT-BIO-0486301,taxon_authority,"Todd, 1937",https://api.gbif.org/v1/species/6101143
+LIBSRC-LIB50-ENT-BIO-1941031,taxon_authority,"(Jin & Yan, 1994) ",https://api.gbif.org/v1/species/9378024
+LIBSRC-LIB50-ENT-BIO-1136211,taxon_authority,"Shelley, 1900",https://api.gbif.org/v1/species/2487939
+LIBSRC-LIB50-ENT-BIO-1136161,taxon_authority,"Fischer & Reichenow, 1884",https://api.gbif.org/v1/species/2487945
+LIBSRC-LIB50-ENT-BIO-0653601,taxon_authority,"(J.F.Gmelin, 1788) ",https://api.gbif.org/v1/species/5228941
+LIBSRC-LIB50-ENT-BIO-1141351,taxon_authority,"(Linnaeus, 1766) ",https://api.gbif.org/v1/species/2487887
+LIBSRC-LIB50-ENT-BIO-0655571,taxon_authority,"(Malherbe, 1862) ",https://api.gbif.org/v1/species/2478356
+LIBSRC-LIB50-ENT-BIO-0655281,taxon_authority,"(J.Verreaux & E.Verreaux, 1851) ",https://api.gbif.org/v1/species/2478392
+LIBSRC-LIB50-ENT-BIO-0655031,taxon_authority,"(Salvadori, 1871) ",https://api.gbif.org/v1/species/2478035
+LIBSRC-LIB50-ENT-BIO-0654581,taxon_authority,"Linnaeus, 1758",https://api.gbif.org/v1/species/10786767
+LIBSRC-LIB50-ENT-BIO-0655471,taxon_authority,"(Vieillot, 1818) ",https://api.gbif.org/v1/species/2478069
+LIBSRC-LIB50-ENT-BIO-0655501,taxon_authority,"(Wagler, 1829) ",https://api.gbif.org/v1/species/2478081
+LIBSRC-LIB50-ENT-BIO-0655741,taxon_authority,"Sundevall, 1866",https://api.gbif.org/v1/species/5228755
+LIBSRC-LIB50-ENT-BIO-0654601,taxon_authority,"(Temminck, 1836) ",https://api.gbif.org/v1/species/9178169
+LIBSRC-LIB50-ENT-BIO-0655201,taxon_authority,"(Temminck, 1826) ",https://api.gbif.org/v1/species/2478165
+LIBSRC-LIB50-ENT-BIO-0655271,taxon_authority,"(P.L.S.M\u00fcller, 1776) ",https://api.gbif.org/v1/species/2478424
+LIBSRC-LIB50-ENT-BIO-0655481,taxon_authority,"(Boddaert, 1783) ",https://api.gbif.org/v1/species/2478122
+LIBSRC-LIB50-ENT-BIO-0654571,taxon_authority,"J.F.Gmelin, 1788",https://api.gbif.org/v1/species/2478548
+LIBSRC-LIB50-ENT-BIO-0655491,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2478130
+LIBSRC-LIB50-ENT-BIO-0653931,taxon_authority,"(Swainson, 1820) ",https://api.gbif.org/v1/species/7340161
+LIBSRC-LIB50-ENT-BIO-0653911,taxon_authority,"(J.F.Gmelin, 1788) ",https://api.gbif.org/v1/species/2478272
+LIBSRC-LIB50-ENT-BIO-0320031,taxon_authority,"Boddaert, 1783",https://api.gbif.org/v1/species/10421747
+LIBSRC-LIB50-ENT-BIO-0653901,taxon_authority,"(Molina, 1782) ",https://api.gbif.org/v1/species/2478271
+LIBSRC-LIB50-ENT-BIO-0320001,taxon_authority,"Daudin, 1800",https://api.gbif.org/v1/species/9507464
+LIBSRC-LIB50-ENT-BIO-0319941,taxon_authority,"Adams & Woods, 2016",https://api.gbif.org/v1/species/11220686
+LIBSRC-LIB50-ENT-BIO-0056161,taxon_authority,"Shelley, 1894",https://api.gbif.org/v1/species/2479559
+LIBSRC-LIB50-ENT-BIO-0043081,taxon_authority,"(Kuhl, 1820) ",https://api.gbif.org/v1/species/2479323
+LIBSRC-LIB50-ENT-BIO-0042101,taxon_authority,"(Bonaparte, 1850) ",https://api.gbif.org/v1/species/2479672
+LIBSRC-LIB50-ENT-BIO-0041101,taxon_authority,"Arndt, 2008",https://api.gbif.org/v1/species/10773677
+LIBSRC-LIB50-ENT-BIO-0042611,taxon_authority,"(Kuhl, 1820) ",https://api.gbif.org/v1/species/2479513
+LIBSRC-LIB50-ENT-BIO-0054281,taxon_authority,"(E.P.Ramsay, 1881) ",https://api.gbif.org/v1/species/2479260
+LIBSRC-LIB50-ENT-BIO-0052301,taxon_authority,"(Ruppell, 1845) ",https://api.gbif.org/v1/species/2479975
+LIBSRC-LIB50-ENT-BIO-0047331,taxon_authority,"A.B.Meyer, 1884",https://api.gbif.org/v1/species/9049075
+LIBSRC-LIB50-ENT-BIO-0055111,taxon_authority,"(Wallace, 1862) ",https://api.gbif.org/v1/species/2479740
+LIBSRC-LIB50-ENT-BIO-0049141,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2479662
+LIBSRC-LIB50-ENT-BIO-0049521,taxon_authority,"(Gould, 1841) ",https://api.gbif.org/v1/species/2479795
+LIBSRC-LIB50-ENT-BIO-0041111,taxon_authority,"(P.L.Sclater, 1881) ",https://api.gbif.org/v1/species/2479856
+LIBSRC-LIB50-ENT-BIO-0054081,taxon_authority,"(P.L.Sclater, 1866) ",https://api.gbif.org/v1/species/2479246
+LIBSRC-LIB50-ENT-BIO-0054551,taxon_authority,"Linnaeus, 1758",https://api.gbif.org/v1/species/2480181
+LIBSRC-LIB50-ENT-BIO-0049201,taxon_authority,"(Statius Muller, 1776) ",https://api.gbif.org/v1/species/2479661
+LIBSRC-LIB50-ENT-BIO-0040671,taxon_authority,"(Vieillot, 1818) ",https://api.gbif.org/v1/species/2479089
+LIBSRC-LIB50-ENT-BIO-0047091,taxon_authority,"(Gmelin, 1788) ",https://api.gbif.org/v1/species/5229092
+LIBSRC-LIB50-ENT-BIO-0041921,taxon_authority,"(Cabanis, 1848) ",https://api.gbif.org/v1/species/2479060
+LIBSRC-LIB50-ENT-BIO-0052451,taxon_authority,"(Milne-Edwards, 1867) ",https://api.gbif.org/v1/species/9277137
+LIBSRC-LIB50-ENT-BIO-0054571,taxon_authority,"Linn\u00e6us, 1758",https://api.gbif.org/v1/species/8976744
+LIBSRC-LIB50-ENT-BIO-0056121,taxon_authority,"Reichenow, 1887",https://api.gbif.org/v1/species/2479544
+LIBSRC-LIB50-ENT-BIO-0049541,taxon_authority,"(Vigors, 1824) ",https://api.gbif.org/v1/species/2480015
+LIBSRC-LIB50-ENT-BIO-0043561,taxon_authority,"Wallace, 1862",https://api.gbif.org/v1/species/2479374
+LIBSRC-LIB50-ENT-BIO-0055601,taxon_authority,"(Shaw, 1805) ",https://api.gbif.org/v1/species/2479798
+LIBSRC-LIB50-ENT-BIO-0041061,taxon_authority,"Todd, 1917",https://api.gbif.org/v1/species/2479812
+LIBSRC-LIB50-ENT-BIO-0049181,taxon_authority,"(Linnaeus, 1766) ",https://api.gbif.org/v1/species/2479666
+LIBSRC-LIB50-ENT-BIO-0054621,taxon_authority,"Linn\u00e6us, 1758",https://api.gbif.org/v1/species/9071120
+LIBSRC-LIB50-ENT-BIO-0048241,taxon_authority,"(Temminck, 1807) ",https://api.gbif.org/v1/species/2480104
+LIBSRC-LIB50-ENT-BIO-0046051,taxon_authority,"(Vieillot, 1818) ",https://api.gbif.org/v1/species/2479529
+LIBSRC-LIB50-ENT-BIO-0054611,taxon_authority,"Linnaeus, 1758",https://api.gbif.org/v1/species/8976680
+LIBSRC-LIB50-ENT-BIO-0049111,taxon_authority,"Richmond, 1899",https://api.gbif.org/v1/species/2479610
+LIBSRC-LIB50-ENT-BIO-0045081,taxon_authority,"Kuhl, 1820",https://api.gbif.org/v1/species/9536853
+LIBSRC-LIB50-ENT-BIO-0048131,taxon_authority,"Wetmore, 1937",https://api.gbif.org/v1/species/11184132
+LIBSRC-LIB50-ENT-BIO-0048731,taxon_authority,"(Chapman, 1912) ",https://api.gbif.org/v1/species/2479477
+LIBSRC-LIB50-ENT-BIO-2547550,taxon_authority,"Simpson, 1979",https://api.gbif.org/v1/species/4966784
+LIBSRC-LIB50-ENT-BIO-2546890,taxon_authority,"Jadwiszczak, Reguero & M\u00f6rs, 2021",https://api.gbif.org/v1/species/11777310
+LIBSRC-LIB50-ENT-BIO-2548109,taxon_authority,"Myrcha, Jadwiszczak, Tambussi, Noriega, Ga\u017adzicki, Tatur & del Valle, 2002",https://api.gbif.org/v1/species/4966810
+LIBSRC-LIB50-ENT-BIO-2239981,taxon_authority,"G.R.Gray, 1846",https://api.gbif.org/v1/species/2496420
+LIBSRC-LIB50-ENT-BIO-2549315,taxon_authority,"Myrcha, Jadwiszczak, Tambussi, Noriega, Ga\u017adzicki, Tatur & del Valle, 2002",https://api.gbif.org/v1/species/4966757
+LIBSRC-LIB50-ENT-BIO-1467401,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/5231783
+LIBSRC-LIB50-ENT-BIO-2549405,taxon_authority,"Buller, 1888",https://api.gbif.org/v1/species/2481642
+LIBSRC-LIB50-ENT-BIO-2546225,taxon_authority,"Marples, 1952",https://api.gbif.org/v1/species/4844835
+LIBSRC-LIB50-ENT-BIO-2546300,taxon_authority,"Simpson, 1972",https://api.gbif.org/v1/species/4844786
+LIBSRC-LIB50-ENT-BIO-2546228,taxon_authority,"Marples, 1952",https://api.gbif.org/v1/species/4844834
+LIBSRC-LIB50-ENT-BIO-2546599,taxon_authority,"Wiman, 1905",https://api.gbif.org/v1/species/9570033
+LIBSRC-LIB50-ENT-BIO-2546877,taxon_authority,"(Moreno & Mercerat, 1891) ",https://api.gbif.org/v1/species/4966761
+LIBSRC-LIB50-ENT-BIO-2546499,taxon_authority,"(Ameghino, 1901) ",https://api.gbif.org/v1/species/4966795
+LIBSRC-LIB50-ENT-BIO-1551871,taxon_authority,"(Temminck, 1824) ",https://api.gbif.org/v1/species/2477440
+LIBSRC-LIB50-ENT-BIO-1551881,taxon_authority,"(Rafinesque, 1802) ",https://api.gbif.org/v1/species/2477451
+LIBSRC-LIB50-ENT-BIO-0641941,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2493052
+LIBSRC-LIB50-ENT-BIO-0641901,taxon_authority,"La Touche, 1922",https://api.gbif.org/v1/species/7807833
+LIBSRC-LIB50-ENT-BIO-0641881,taxon_authority,"(Dubois, 1900) ",https://api.gbif.org/v1/species/2493076
+LIBSRC-LIB50-ENT-BIO-1029081,taxon_authority,"(Wied-Neuwied, 1831) ",https://api.gbif.org/v1/species/2486447
+LIBSRC-LIB50-ENT-BIO-1032111,taxon_authority,"(Vieillot, 1817) ",https://api.gbif.org/v1/species/2486405
+LIBSRC-LIB50-ENT-BIO-1221421,taxon_authority,"Lichtenstein, 1793",https://api.gbif.org/v1/species/7902208
+LIBSRC-LIB50-ENT-BIO-1152371,taxon_authority,"(Hodgson, 1845) ",https://api.gbif.org/v1/species/2490243
+LIBSRC-LIB50-ENT-BIO-1027811,taxon_authority,"Salvin, 1865",https://api.gbif.org/v1/species/2486426
+LIBSRC-LIB50-ENT-BIO-1152781,taxon_authority,"Wilkes, 1817",https://api.gbif.org/v1/species/7687455
+LIBSRC-LIB50-ENT-BIO-1152381,taxon_authority,"Swinhoe, 1863",https://api.gbif.org/v1/species/2490281
+LIBSRC-LIB50-ENT-BIO-1220681,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2474904
+LIBSRC-LIB50-ENT-BIO-1152451,taxon_authority,"Stresemann, 1938",https://api.gbif.org/v1/species/2490282
+LIBSRC-LIB50-ENT-BIO-1152741,taxon_authority,"Linnaeus, 1758",https://api.gbif.org/v1/species/10779908
+LIBSRC-LIB50-ENT-BIO-1152401,taxon_authority,"Zimmer, 1952",https://api.gbif.org/v1/species/2490253
+LIBSRC-LIB50-ENT-BIO-1154931,taxon_authority,"Reichenow, 1900",https://api.gbif.org/v1/species/7342103
+LIBSRC-LIB50-ENT-BIO-1152751,taxon_authority,"Hartlaub, 1860",https://api.gbif.org/v1/species/2490309
+LIBSRC-LIB50-ENT-BIO-1656491,taxon_authority,"Moore, 1858",https://api.gbif.org/v1/species/2489008
+LIBSRC-LIB50-ENT-BIO-1663701,taxon_authority,"(Vigors, 1831) ",https://api.gbif.org/v1/species/2489063
+LIBSRC-LIB50-ENT-BIO-1656251,taxon_authority,"(Bocage, 1869) ",https://api.gbif.org/v1/species/2489082
+LIBSRC-LIB50-ENT-BIO-1657581,taxon_authority,"Latham, 1801",https://api.gbif.org/v1/species/8281103
+LIBSRC-LIB50-ENT-BIO-1662491,taxon_authority,"Hartlaub, 1849",https://api.gbif.org/v1/species/5230742
+LIBSRC-LIB50-ENT-BIO-1662501,taxon_authority,"(Linnaeus, 1766) ",https://api.gbif.org/v1/species/5230739
+LIBSRC-LIB50-ENT-BIO-1656331,taxon_authority,"Shelley, 1906",https://api.gbif.org/v1/species/10671166
+LIBSRC-LIB50-ENT-BIO-1662561,taxon_authority,"(Tristram, 1895) ",https://api.gbif.org/v1/species/2489033
+LIBSRC-LIB50-ENT-BIO-2094991,taxon_authority,"(Linnaeus, 1766) ",https://api.gbif.org/v1/species/2482321
+LIBSRC-LIB50-ENT-BIO-1645541,taxon_authority,"Campbell & Bochenski, 2021",https://api.gbif.org/v1/species/12188065
+LIBSRC-LIB50-ENT-BIO-1510961,taxon_authority,"(Vieillot, 1818) ",https://api.gbif.org/v1/species/2482575
+LIBSRC-LIB50-ENT-BIO-1320121,taxon_authority,"Ameghino, 1891",https://api.gbif.org/v1/species/9678898
+LIBSRC-LIB50-ENT-BIO-1528921,taxon_authority,"Wagler, 1827",https://api.gbif.org/v1/species/2482487
+LIBSRC-LIB50-ENT-BIO-1507441,taxon_authority,"Kaup, 1855",https://api.gbif.org/v1/species/9441907
+LIBSRC-LIB50-ENT-BIO-1510931,taxon_authority,"(Wied-Neuwied, 1821) ",https://api.gbif.org/v1/species/2482576
+LIBSRC-LIB50-ENT-BIO-1522781,taxon_authority,"Bonaparte, 1850",https://api.gbif.org/v1/species/5229494
+LIBSRC-LIB50-ENT-BIO-1528951,taxon_authority,"Sharpe, 1909",https://api.gbif.org/v1/species/11169342
+LIBSRC-LIB50-ENT-BIO-1514671,taxon_authority,Rothschild,https://api.gbif.org/v1/species/7454884
+LIBSRC-LIB50-ENT-BIO-1510891,taxon_authority,"(Vigors, 1829) ",https://api.gbif.org/v1/species/2482570
+LIBSRC-LIB50-ENT-BIO-1524771,taxon_authority,"Brodkorb, 1972",https://api.gbif.org/v1/species/4966667
+LIBSRC-LIB50-ENT-BIO-1507771,taxon_authority,"Segui, 2001",https://api.gbif.org/v1/species/5935913
+LIBSRC-LIB50-ENT-BIO-1445991,taxon_authority,"(Cabanis, 1868) ",https://api.gbif.org/v1/species/2483792
+LIBSRC-LIB50-ENT-BIO-0598941,taxon_authority,"(Linnaeus, 1766) ",https://api.gbif.org/v1/species/5228133
+LIBSRC-LIB50-ENT-BIO-1448081,taxon_authority,"Sharpe, 1888",https://api.gbif.org/v1/species/5229613
+LIBSRC-LIB50-ENT-BIO-1443751,taxon_authority,"(Bonaparte, 1825) ",https://api.gbif.org/v1/species/2483607
+LIBSRC-LIB50-ENT-BIO-1449601,taxon_authority,"(Orbigny & Lafresnaye, 1837) ",https://api.gbif.org/v1/species/5229760
+LIBSRC-LIB50-ENT-BIO-1437321,taxon_authority,"Taczanowski & Berlepsch, 1885",https://api.gbif.org/v1/species/2483814
+LIBSRC-LIB50-ENT-BIO-1451011,taxon_authority,"(Vieillot, 1817) ",https://api.gbif.org/v1/species/5229775
+LIBSRC-LIB50-ENT-BIO-1438491,taxon_authority,"(Gmelin, 1789) ",https://api.gbif.org/v1/species/2483645
+LIBSRC-LIB50-ENT-BIO-1446491,taxon_authority,"(Pelzeln, 1868) ",https://api.gbif.org/v1/species/2483664
+LIBSRC-LIB50-ENT-BIO-1441621,taxon_authority,"(Desmarest, 1806) ",https://api.gbif.org/v1/species/2483899
+LIBSRC-LIB50-ENT-BIO-1448791,taxon_authority,"(Chubb, 1914) ",https://api.gbif.org/v1/species/2482998
+LIBSRC-LIB50-ENT-BIO-1446431,taxon_authority,"(Lawrence, 1862) ",https://api.gbif.org/v1/species/5229772
+LIBSRC-LIB50-ENT-BIO-1437271,taxon_authority,"(P.L.Sclater & Salvin, 1873) ",https://api.gbif.org/v1/species/2483836
+LIBSRC-LIB50-ENT-BIO-1437281,taxon_authority,"(P.L.Sclater, 1859) ",https://api.gbif.org/v1/species/2483843
+LIBSRC-LIB50-ENT-BIO-1442931,taxon_authority,"(Statius Muller, 1776) ",https://api.gbif.org/v1/species/2483680
+LIBSRC-LIB50-ENT-BIO-1446781,taxon_authority,"(Kittlitz, 1830) ",https://api.gbif.org/v1/species/2482738
+LIBSRC-LIB50-ENT-BIO-1441611,taxon_authority,"(Hartlaub, 1853) ",https://api.gbif.org/v1/species/2483892
+LIBSRC-LIB50-ENT-BIO-1442741,taxon_authority,"Lawrence, 1865",https://api.gbif.org/v1/species/9544285
+LIBSRC-LIB50-ENT-BIO-1438371,taxon_authority,"Lafresnaye, 1848",https://api.gbif.org/v1/species/2483627
+LIBSRC-LIB50-ENT-BIO-1449591,taxon_authority,"Cabanis & Heine, 1859",https://api.gbif.org/v1/species/5229730
+LIBSRC-LIB50-ENT-BIO-1440221,taxon_authority,"(Thunberg, 1822) ",https://api.gbif.org/v1/species/2484057
+LIBSRC-LIB50-ENT-BIO-1448781,taxon_authority,"(Cabanis, 1873) ",https://api.gbif.org/v1/species/2483012
+LIBSRC-LIB50-ENT-BIO-1451491,taxon_authority,"(Swainson, 1835) ",https://api.gbif.org/v1/species/2482960
+LIBSRC-LIB50-ENT-BIO-0291981,taxon_authority,"Rothschild, 1896",https://api.gbif.org/v1/species/2492271
+LIBSRC-LIB50-ENT-BIO-0344371,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2480332
+LIBSRC-LIB50-ENT-BIO-0342101,taxon_authority,"Campbell, 1979",https://api.gbif.org/v1/species/8667822
+LIBSRC-LIB50-ENT-BIO-0346271,taxon_authority,"M.H.K.Lichtenstein, 1823",https://api.gbif.org/v1/species/2480318
+LIBSRC-LIB50-ENT-BIO-0325811,taxon_authority,"Panteleyev, 1998",https://api.gbif.org/v1/species/8606049
+LIBSRC-LIB50-ENT-BIO-0344121,taxon_authority,"(Cretzschmar, 1829) ",https://api.gbif.org/v1/species/5229140
+LIBSRC-LIB50-ENT-BIO-0346651,taxon_authority,"(Wagler, 1829) ",https://api.gbif.org/v1/species/2480254
+LIBSRC-LIB50-ENT-BIO-1708631,taxon_authority,"Ohashi & Hasegawa, 2020",https://api.gbif.org/v1/species/11189923
+LIBSRC-LIB50-ENT-BIO-1103711,taxon_authority,"Wetmore, 1931",https://api.gbif.org/v1/species/8686549
+LIBSRC-LIB50-ENT-BIO-1104221,taxon_authority,"(Bonnaterre, 1790) ",https://api.gbif.org/v1/species/2474045
+LIBSRC-LIB50-ENT-BIO-1104241,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2474156
+LIBSRC-LIB50-ENT-BIO-1103871,taxon_authority,"(Scopoli, 1786) ",https://api.gbif.org/v1/species/5227857
+LIBSRC-LIB50-ENT-BIO-1102021,taxon_authority,"Shufeldt, 1915",https://api.gbif.org/v1/species/8498558
+LIBSRC-LIB50-ENT-BIO-1104451,taxon_authority,"(Valenciennes, 1825) ",https://api.gbif.org/v1/species/2473700
+LIBSRC-LIB50-ENT-BIO-1103371,taxon_authority,"(Leadbeater, 1829) ",https://api.gbif.org/v1/species/5228033
+LIBSRC-LIB50-ENT-BIO-1104011,taxon_authority,"(Reichenow, 1908) ",https://api.gbif.org/v1/species/2473901
+LIBSRC-LIB50-ENT-BIO-1102191,taxon_authority,"(Say, 1822) ",https://api.gbif.org/v1/species/9428437
+LIBSRC-LIB50-ENT-BIO-1104211,taxon_authority,"Tchernov, 1980",https://api.gbif.org/v1/species/11172730
+LIBSRC-LIB50-ENT-BIO-1103391,taxon_authority,Guineae,https://api.gbif.org/v1/species/8083722
+LIBSRC-LIB50-ENT-BIO-1104291,taxon_authority,"D.G.Elliot, 1866",https://api.gbif.org/v1/species/2474078
+LIBSRC-LIB50-ENT-BIO-1102681,taxon_authority,"(J.F.Brandt, 1843) ",https://api.gbif.org/v1/species/2473732
+LIBSRC-LIB50-ENT-BIO-1103111,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2473958
+LIBSRC-LIB50-ENT-BIO-1104231,taxon_authority,Temminck,https://api.gbif.org/v1/species/9323269
+LIBSRC-LIB50-ENT-BIO-0843251,taxon_authority,"Cabanis & Heine, 1859",https://api.gbif.org/v1/species/2485706
+LIBSRC-LIB50-ENT-BIO-1103471,taxon_authority,"(Gould, 1857) ",https://api.gbif.org/v1/species/2473545
+LIBSRC-LIB50-ENT-BIO-1103861,taxon_authority,"(Styan, 1892) ",https://api.gbif.org/v1/species/2473628
+LIBSRC-LIB50-ENT-BIO-0840251,taxon_authority,"Swainson, 1827",https://api.gbif.org/v1/species/5230178
+LIBSRC-LIB50-ENT-BIO-0833471,taxon_authority,"(Bangs, 1907) ",https://api.gbif.org/v1/species/2485323
+LIBSRC-LIB50-ENT-BIO-0837191,taxon_authority,"Portes, Aleixo, Zimmer, Whittaker, Weckstein, Gonzaga, Ribas, Bates & Lees, 2013",https://api.gbif.org/v1/species/9173540
+LIBSRC-LIB50-ENT-BIO-0838231,taxon_authority,"Gyldenstolpe, 1930",https://api.gbif.org/v1/species/2484990
+LIBSRC-LIB50-ENT-BIO-0838201,taxon_authority,"Taczanowski, 1879",https://api.gbif.org/v1/species/2484981
+LIBSRC-LIB50-ENT-BIO-0838261,taxon_authority,"Temminck, 1823",https://api.gbif.org/v1/species/2484926
+LIBSRC-LIB50-ENT-BIO-0844581,taxon_authority,"(Menetries, 1835) ",https://api.gbif.org/v1/species/2485236
+LIBSRC-LIB50-ENT-BIO-0844771,taxon_authority,"Ridgway, 1890",https://api.gbif.org/v1/species/8969968
+LIBSRC-LIB50-ENT-BIO-2243371,taxon_authority,"(Boddaert, 1783) ",https://api.gbif.org/v1/species/2490545
+LIBSRC-LIB50-ENT-BIO-0628761,taxon_authority,"E.P.Ramsay, 1878",https://api.gbif.org/v1/species/2496144
+LIBSRC-LIB50-ENT-BIO-0632741,taxon_authority,"(Temminck, 1813) ",https://api.gbif.org/v1/species/2495335
+LIBSRC-LIB50-ENT-BIO-0625071,taxon_authority,"(Hombron & Jacquinot, 1841) ",https://api.gbif.org/v1/species/2495516
+LIBSRC-LIB50-ENT-BIO-1057081,taxon_authority,"(Lydekker, 1891) ",https://api.gbif.org/v1/species/11172899
+LIBSRC-LIB50-ENT-BIO-0835841,taxon_authority,"(Gmelin, 1789) ",https://api.gbif.org/v1/species/2485058
+LIBSRC-LIB50-ENT-BIO-1337911,taxon_authority,"M\u00e9n\u00e9tri\u00e9s, 1835",https://api.gbif.org/v1/species/2488938
+LIBSRC-LIB50-ENT-BIO-0837771,taxon_authority,"Taczanowski, 1875",https://api.gbif.org/v1/species/2485863
+LIBSRC-LIB50-ENT-BIO-0468831,taxon_authority,"Latham, 1790",https://api.gbif.org/v1/species/9891707
+LIBSRC-LIB50-ENT-BIO-0635091,taxon_authority,"Olson, 1975",https://api.gbif.org/v1/species/5788475
+LIBSRC-LIB50-ENT-BIO-0667111,taxon_authority,"Reichenow, 1898",https://api.gbif.org/v1/species/2478655
+LIBSRC-LIB50-ENT-BIO-0656801,taxon_authority,"(Quoy & Gaimard, 1824) ",https://api.gbif.org/v1/species/5229424
+LIBSRC-LIB50-ENT-BIO-1121191,taxon_authority,"Hartlaub & Finsch, 1870",https://api.gbif.org/v1/species/2486229
+LIBSRC-LIB50-ENT-BIO-0658081,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2482059
+LIBSRC-LIB50-ENT-BIO-0658011,taxon_authority,"Chandler, 1990",https://api.gbif.org/v1/species/4966471
+LIBSRC-LIB50-ENT-BIO-0369761,taxon_authority,"Miller, 1944",https://api.gbif.org/v1/species/4966509
+LIBSRC-LIB50-ENT-BIO-0644941,taxon_authority,"(Jardine, 1843) ",https://api.gbif.org/v1/species/6088419
+LIBSRC-LIB50-ENT-BIO-0645361,taxon_authority,"(Linnaeus, 1766) ",https://api.gbif.org/v1/species/7340578
+LIBSRC-LIB50-ENT-BIO-0645341,taxon_authority,"Benson, 1948",https://api.gbif.org/v1/species/7949268
+LIBSRC-LIB50-ENT-BIO-0646191,taxon_authority,"Kennedy, Gonzales & Miranda, 1997",https://api.gbif.org/v1/species/7986319
+LIBSRC-LIB50-ENT-BIO-0645371,taxon_authority,"(Shaw, 1812) ",https://api.gbif.org/v1/species/6087859
+LIBSRC-LIB50-ENT-BIO-0645181,taxon_authority,"Tweeddale, 1878",https://api.gbif.org/v1/species/6101102
+LIBSRC-LIB50-ENT-BIO-0645351,taxon_authority,"W.L.Sclater, 1933",https://api.gbif.org/v1/species/6087991
+LIBSRC-LIB50-ENT-BIO-0645661,taxon_authority,"(Reichenow, 1893) ",https://api.gbif.org/v1/species/6089603
+LIBSRC-LIB50-ENT-BIO-0645321,taxon_authority,"A.Smith, 1836",https://api.gbif.org/v1/species/6087680
+LIBSRC-LIB50-ENT-BIO-0647161,taxon_authority,"Sharpe, 1887",https://api.gbif.org/v1/species/2484657
+LIBSRC-LIB50-ENT-BIO-0643171,taxon_authority,"(Bocage, 1889) ",https://api.gbif.org/v1/species/5788727
+LIBSRC-LIB50-ENT-BIO-1101571,taxon_authority,"Hartert, 1903",https://api.gbif.org/v1/species/5231753
+LIBSRC-LIB50-ENT-BIO-1101581,taxon_authority,"Vigors, 1831",https://api.gbif.org/v1/species/7409387
+LIBSRC-LIB50-ENT-BIO-1268421,taxon_authority,"(Latham, 1802) ",https://api.gbif.org/v1/species/2482606
+LIBSRC-LIB50-ENT-BIO-1259101,taxon_authority,"Schlegel, 1871",https://api.gbif.org/v1/species/5959169
+LIBSRC-LIB50-ENT-BIO-1259121,taxon_authority,"Jardine, 1849",https://api.gbif.org/v1/species/5959165
+LIBSRC-LIB50-ENT-BIO-1259081,taxon_authority,"(Bonaparte, 1850) ",https://api.gbif.org/v1/species/6093608
+LIBSRC-LIB50-ENT-BIO-0486381,taxon_authority,"(Vigors, 1827) ",https://api.gbif.org/v1/species/2484475
+LIBSRC-LIB50-ENT-BIO-0488101,taxon_authority,"(Vigors, 1825) ",https://api.gbif.org/v1/species/5229816
+LIBSRC-LIB50-ENT-BIO-0484471,taxon_authority,"(Short, 1969) ",https://api.gbif.org/v1/species/2484210
+LIBSRC-LIB50-ENT-BIO-2467131,taxon_authority,"Linnaeus, 1758",https://api.gbif.org/v1/species/2482168
+LIBSRC-LIB50-ENT-BIO-1338091,taxon_authority,"(Lesson, 1831) ",https://api.gbif.org/v1/species/2484812
+LIBSRC-LIB50-ENT-BIO-2242131,taxon_authority,"(Walden, 1872) ",https://api.gbif.org/v1/species/5231925
+LIBSRC-LIB50-ENT-BIO-1178971,taxon_authority,"Lawrence, 1861",https://api.gbif.org/v1/species/5230505
+LIBSRC-LIB50-ENT-BIO-0822931,taxon_authority,"(Shaw, 1790) ",https://api.gbif.org/v1/species/8754747
+LIBSRC-LIB50-ENT-BIO-0488891,taxon_authority,Lawrence,https://api.gbif.org/v1/species/9079525
+LIBSRC-LIB50-ENT-BIO-2467121,taxon_authority,"Fraser, 1852",https://api.gbif.org/v1/species/2482178
+LIBSRC-LIB50-ENT-BIO-0321461,taxon_authority,"Lydekker, 1891",https://api.gbif.org/v1/species/9667734
+LIBSRC-LIB50-ENT-BIO-1337931,taxon_authority,"Des Murs, 1856",https://api.gbif.org/v1/species/2488932
+LIBSRC-LIB50-ENT-BIO-0191671,taxon_authority,"(G.R.Gray, 1861) ",https://api.gbif.org/v1/species/2482112
+LIBSRC-LIB50-ENT-BIO-2242951,taxon_authority,"Gould, 1855",https://api.gbif.org/v1/species/2490569
+LIBSRC-LIB50-ENT-BIO-0348341,taxon_authority,"(Linnaeus, 1766) ",https://api.gbif.org/v1/species/2497983
+LIBSRC-LIB50-ENT-BIO-0842581,taxon_authority,"(Orbigny & Lafresnaye, 1838) ",https://api.gbif.org/v1/species/2485123
+LIBSRC-LIB50-ENT-BIO-1067921,taxon_authority,"(Marsh, 1872) ",https://api.gbif.org/v1/species/8475664
+LIBSRC-LIB50-ENT-BIO-1444981,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2493367
+LIBSRC-LIB50-ENT-BIO-0835451,taxon_authority,"Taczanowski, 1875",https://api.gbif.org/v1/species/2485179
+LIBSRC-LIB50-ENT-BIO-1607941,taxon_authority,"Sparrman, 1789",https://api.gbif.org/v1/species/10113552
+LIBSRC-LIB50-ENT-BIO-2243331,taxon_authority,"Schulenberg & M.D.Williams, 1982",https://api.gbif.org/v1/species/2490544
+LIBSRC-LIB50-ENT-BIO-0628311,taxon_authority,"(Reichenbach, 1851) ",https://api.gbif.org/v1/species/2495224
+LIBSRC-LIB50-ENT-BIO-1614741,taxon_authority,"P.L.Sclater, 1859",https://api.gbif.org/v1/species/2490803
+LIBSRC-LIB50-ENT-BIO-2465711,taxon_authority,"Temminck, 1815",https://api.gbif.org/v1/species/2482212
+LIBSRC-LIB50-ENT-BIO-1614561,taxon_authority,"Vigors, 1832",https://api.gbif.org/v1/species/2490900
+LIBSRC-LIB50-ENT-BIO-1610541,taxon_authority,"P.L.Sclater, 1857",https://api.gbif.org/v1/species/2490852
+LIBSRC-LIB50-ENT-BIO-1607931,taxon_authority,"Linnaeus, 1766",https://api.gbif.org/v1/species/9090799
+LIBSRC-LIB50-ENT-BIO-1608041,taxon_authority,"(Lafresnaye, 1848) ",https://api.gbif.org/v1/species/2490787
+LIBSRC-LIB50-ENT-BIO-1608141,taxon_authority,"(Strickland, 1844) ",https://api.gbif.org/v1/species/2490833
+LIBSRC-LIB50-ENT-BIO-1607891,taxon_authority,"Gmelin, 1789",https://api.gbif.org/v1/species/2490728
+LIBSRC-LIB50-ENT-BIO-1608021,taxon_authority,"Coues, 1880",https://api.gbif.org/v1/species/2490736
+LIBSRC-LIB50-ENT-BIO-1607981,taxon_authority,"Lafresnaye, 1840",https://api.gbif.org/v1/species/2490741
+LIBSRC-LIB50-ENT-BIO-1607871,taxon_authority,(Anon.) ,https://api.gbif.org/v1/species/7582381
+LIBSRC-LIB50-ENT-BIO-1607911,taxon_authority,"Ogilvie-Grant, 1913",https://api.gbif.org/v1/species/2490749
+LIBSRC-LIB50-ENT-BIO-1614751,taxon_authority,"Cabanis, 1861",https://api.gbif.org/v1/species/2490819
+LIBSRC-LIB50-ENT-BIO-1615261,taxon_authority,"(Bechstein, 1798) ",https://api.gbif.org/v1/species/2490935
+LIBSRC-LIB50-ENT-BIO-1614581,taxon_authority,"(Rothschild & Hartert, 1926) ",https://api.gbif.org/v1/species/2490907
+LIBSRC-LIB50-ENT-BIO-1599941,taxon_authority,"Olson & Matsuoka, 2005",https://api.gbif.org/v1/species/7615830
+LIBSRC-LIB50-ENT-BIO-0478731,taxon_authority,"Wetmore, 1940",https://api.gbif.org/v1/species/11220828
+LIBSRC-LIB50-ENT-BIO-1031321,taxon_authority,"Henry, 1858",https://api.gbif.org/v1/species/5231693
+LIBSRC-LIB50-ENT-BIO-0125471,taxon_authority,"Mayr, 1998",https://api.gbif.org/v1/species/11169885
+LIBSRC-LIB50-ENT-BIO-0861151,taxon_authority,"(Cabanis, 1875) ",https://api.gbif.org/v1/species/6066497
+LIBSRC-LIB50-ENT-BIO-0856121,taxon_authority,"Pallas, 1811",https://api.gbif.org/v1/species/2481870
+LIBSRC-LIB50-ENT-BIO-1032041,taxon_authority,"(Ridgway, 1890) ",https://api.gbif.org/v1/species/5788814
+LIBSRC-LIB50-ENT-BIO-2536302,taxon_authority,"Shufeldt, 1916",https://api.gbif.org/v1/species/9055344
+LIBSRC-LIB50-ENT-BIO-2532413,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2481545
+LIBSRC-LIB50-ENT-BIO-2536927,taxon_authority,"(Gould, 1844) ",https://api.gbif.org/v1/species/2481472
+LIBSRC-LIB50-ENT-BIO-2532028,taxon_authority,"Olson, 1975",https://api.gbif.org/v1/species/5788466
+LIBSRC-LIB50-ENT-BIO-2536286,taxon_authority,"Howard, 1971",https://api.gbif.org/v1/species/8665631
+LIBSRC-LIB50-ENT-BIO-2536266,taxon_authority,"Coues, 1864",https://api.gbif.org/v1/species/5229356
+LIBSRC-LIB50-ENT-BIO-0856151,taxon_authority,"(Sparrman, 1786) ",https://api.gbif.org/v1/species/2481859
+LIBSRC-LIB50-ENT-BIO-2536284,taxon_authority,"Salvin, 1888",https://api.gbif.org/v1/species/5229379
+LIBSRC-LIB50-ENT-BIO-0856141,taxon_authority,"Forbes, 1891",https://api.gbif.org/v1/species/9657855
+LIBSRC-LIB50-ENT-BIO-2536949,taxon_authority,"Murphy, 1949",https://api.gbif.org/v1/species/2481466
+LIBSRC-LIB50-ENT-BIO-2532899,taxon_authority,"(Mathews, 1912) ",https://api.gbif.org/v1/species/5229320
+LIBSRC-LIB50-ENT-BIO-2536285,taxon_authority,"C.H.Townsend, 1890",https://api.gbif.org/v1/species/5229336
+LIBSRC-LIB50-ENT-BIO-0111111,taxon_authority,"Sharpe, 1895",https://api.gbif.org/v1/species/2490645
+LIBSRC-LIB50-ENT-BIO-0485501,taxon_authority,"(Spix, 1824) ",https://api.gbif.org/v1/species/2484222
+LIBSRC-LIB50-ENT-BIO-2536929,taxon_authority,"Mathews, 1934",https://api.gbif.org/v1/species/5788464
+LIBSRC-LIB50-ENT-BIO-0109381,taxon_authority,"Linnaeus, 1766",https://api.gbif.org/v1/species/12187048
+LIBSRC-LIB50-ENT-BIO-2469161,taxon_authority,"(Wagler, 1830) ",https://api.gbif.org/v1/species/5229451
+LIBSRC-LIB50-ENT-BIO-0111661,taxon_authority,"(Temminck, 1823) ",https://api.gbif.org/v1/species/5230984
+LIBSRC-LIB50-ENT-BIO-0108941,taxon_authority,"(Pallas, 1776) ",https://api.gbif.org/v1/species/2490610
+LIBSRC-LIB50-ENT-BIO-1792521,taxon_authority,"De Pietri & Mayr, 2012",https://api.gbif.org/v1/species/11197978
+LIBSRC-LIB50-ENT-BIO-0113141,taxon_authority,"(Gould, 1839) ",https://api.gbif.org/v1/species/7340809
+LIBSRC-LIB50-ENT-BIO-0113191,taxon_authority,"(Bonaparte, 1850) ",https://api.gbif.org/v1/species/2490651
+LIBSRC-LIB50-ENT-BIO-2536959,taxon_authority,"(Jouanin, 1964) ",https://api.gbif.org/v1/species/2481475
+LIBSRC-LIB50-ENT-BIO-1209991,taxon_authority,"Vieillot, 1818",https://api.gbif.org/v1/species/10123893
+LIBSRC-LIB50-ENT-BIO-0368161,taxon_authority,"Rovereto, 1914",https://api.gbif.org/v1/species/8506244
+LIBSRC-LIB50-ENT-BIO-1191121,taxon_authority,"Przevalski, 1887",https://api.gbif.org/v1/species/10749657
+LIBSRC-LIB50-ENT-BIO-1190881,taxon_authority,"Linnaeus, 1766",https://api.gbif.org/v1/species/8768319
+LIBSRC-LIB50-ENT-BIO-2448331,taxon_authority,"Swainson, 1837",https://api.gbif.org/v1/species/5231313
+LIBSRC-LIB50-ENT-BIO-1563891,taxon_authority,"(Gould, 1838) ",https://api.gbif.org/v1/species/6094093
+LIBSRC-LIB50-ENT-BIO-1563821,taxon_authority,"(Finsch, 1871) ",https://api.gbif.org/v1/species/2487339
+LIBSRC-LIB50-ENT-BIO-0856131,taxon_authority,"(Milne-Edwards, 1867) ",https://api.gbif.org/v1/species/9310129
+LIBSRC-LIB50-ENT-BIO-1564151,taxon_authority,"(Gould, 1837) ",https://api.gbif.org/v1/species/5230477
+LIBSRC-LIB50-ENT-BIO-1564221,taxon_authority,"(Gould, 1837) ",https://api.gbif.org/v1/species/2487057
+LIBSRC-LIB50-ENT-BIO-1565841,taxon_authority,"(E.P.Ramsay, 1879) ",https://api.gbif.org/v1/species/2487270
+LIBSRC-LIB50-ENT-BIO-1559641,taxon_authority,"(Gould, 1869) ",https://api.gbif.org/v1/species/2487198
+LIBSRC-LIB50-ENT-BIO-1559691,taxon_authority,"(Hombron & Jacquinot, 1841) ",https://api.gbif.org/v1/species/5230476
+LIBSRC-LIB50-ENT-BIO-1566001,taxon_authority,"(Jardine & Selby, 1828) ",https://api.gbif.org/v1/species/2487110
+LIBSRC-LIB50-ENT-BIO-2469111,taxon_authority,"Hellmayr, 1906",https://api.gbif.org/v1/species/5229460
+LIBSRC-LIB50-ENT-BIO-2465751,taxon_authority,"Bangs, 1911",https://api.gbif.org/v1/species/2482224
+LIBSRC-LIB50-ENT-BIO-1562061,taxon_authority,"(Latham, 1801) ",https://api.gbif.org/v1/species/2487161
+LIBSRC-LIB50-ENT-BIO-1561671,taxon_authority,"(Gould, 1841) ",https://api.gbif.org/v1/species/7951024
+LIBSRC-LIB50-ENT-BIO-1256701,taxon_authority,"(Vigors & Horsfield, 1827) ",https://api.gbif.org/v1/species/5229497
+LIBSRC-LIB50-ENT-BIO-0963671,taxon_authority,"(Vieillot, 1819) ",https://api.gbif.org/v1/species/2481756
+LIBSRC-LIB50-ENT-BIO-0963651,taxon_authority,"(Leisler, 1812) ",https://api.gbif.org/v1/species/2481749
+LIBSRC-LIB50-ENT-BIO-1563571,taxon_authority,"(G.R.Gray, 1870) ",https://api.gbif.org/v1/species/2486874
+LIBSRC-LIB50-ENT-BIO-0961401,taxon_authority,"A.Wilson, 1813",https://api.gbif.org/v1/species/2481710
+LIBSRC-LIB50-ENT-BIO-0957391,taxon_authority,"Schlegel, 1871",https://api.gbif.org/v1/species/5789295
+LIBSRC-LIB50-ENT-BIO-0958341,taxon_authority,"Shufeldt, 1915",https://api.gbif.org/v1/species/8607902
+LIBSRC-LIB50-ENT-BIO-0957401,taxon_authority,"R.S.Kennedy, T.H.Fisher, Harrap, Diesmos & Manamtam, 2001",https://api.gbif.org/v1/species/5789296
+LIBSRC-LIB50-ENT-BIO-1565751,taxon_authority,"G.R.Gray, 1846",https://api.gbif.org/v1/species/2487289
+LIBSRC-LIB50-ENT-BIO-0961451,taxon_authority,"(Milne-Edwards, 1868) ",https://api.gbif.org/v1/species/8761391
+LIBSRC-LIB50-ENT-BIO-0961141,taxon_authority,"Brodkorb, 1955",https://api.gbif.org/v1/species/8688060
+LIBSRC-LIB50-ENT-BIO-0963661,taxon_authority,"(Pontoppidan, 1763) ",https://api.gbif.org/v1/species/7537888
+LIBSRC-LIB50-ENT-BIO-0962991,taxon_authority,"Swinhoe, 1861",https://api.gbif.org/v1/species/2481815
+LIBSRC-LIB50-ENT-BIO-2531987,taxon_authority,"(A.Smith, 1840) ",https://api.gbif.org/v1/species/2481432
+LIBSRC-LIB50-ENT-BIO-1318401,taxon_authority,"Bannerman, 1913",https://api.gbif.org/v1/species/2480267
+LIBSRC-LIB50-ENT-BIO-2161331,taxon_authority,"(Delacour & Jabouille, 1930) ",https://api.gbif.org/v1/species/2484891
+LIBSRC-LIB50-ENT-BIO-2052891,taxon_authority,"(Gould, 1845) ",https://api.gbif.org/v1/species/5232358
+LIBSRC-LIB50-ENT-BIO-2536942,taxon_authority,"Falla, 1933",https://api.gbif.org/v1/species/2481464
+LIBSRC-LIB50-ENT-BIO-1295641,taxon_authority,"(Arredondo & Arredondo, 2002) ",https://api.gbif.org/v1/species/10752891
+LIBSRC-LIB50-ENT-BIO-0139171,taxon_authority,"Wang, Stidham & Zhou, 2018",https://api.gbif.org/v1/species/10613293
+LIBSRC-LIB50-ENT-BIO-2536954,taxon_authority,"(Gmelin, 1789) ",https://api.gbif.org/v1/species/2481469
+LIBSRC-LIB50-ENT-BIO-0314861,taxon_authority,"(Salvadori, 1888) ",https://api.gbif.org/v1/species/2491576
+LIBSRC-LIB50-ENT-BIO-0314811,taxon_authority,"Taczanowski, 1874",https://api.gbif.org/v1/species/2491510
+LIBSRC-LIB50-ENT-BIO-0314821,taxon_authority,"Pallas, 1776",https://api.gbif.org/v1/species/2491517
+LIBSRC-LIB50-ENT-BIO-2244341,taxon_authority,"J.Verreaux, 1871",https://api.gbif.org/v1/species/2494522
+LIBSRC-LIB50-ENT-BIO-2243211,taxon_authority,"Vigors, 1831",https://api.gbif.org/v1/species/10823562
+LIBSRC-LIB50-ENT-BIO-2244551,taxon_authority,"(Reichenow, 1904) ",https://api.gbif.org/v1/species/6100999
+LIBSRC-LIB50-ENT-BIO-1561691,taxon_authority,"(Gould, 1837) ",https://api.gbif.org/v1/species/7878644
+LIBSRC-LIB50-ENT-BIO-2245711,taxon_authority,"(Swinhoe, 1870) ",https://api.gbif.org/v1/species/4408954
+LIBSRC-LIB50-ENT-BIO-0110201,taxon_authority,"Heuglin, 1864",https://api.gbif.org/v1/species/2490670
+LIBSRC-LIB50-ENT-BIO-2245531,taxon_authority,"(Rothschild, 1893) ",https://api.gbif.org/v1/species/7550373
+LIBSRC-LIB50-ENT-BIO-2515626,taxon_authority,"Cracraft, 1968",https://api.gbif.org/v1/species/4966574
+LIBSRC-LIB50-ENT-BIO-2244531,taxon_authority,"(Reichenow, 1900) ",https://api.gbif.org/v1/species/6100993
+LIBSRC-LIB50-ENT-BIO-2245451,taxon_authority,"C.L.Brehm, 1831",https://api.gbif.org/v1/species/11213155
+LIBSRC-LIB50-ENT-BIO-2243081,taxon_authority,"Boev, 1999",https://api.gbif.org/v1/species/11181893
+LIBSRC-LIB50-ENT-BIO-2244351,taxon_authority,"(Temminck, 1825) ",https://api.gbif.org/v1/species/2494495
+LIBSRC-LIB50-ENT-BIO-2244371,taxon_authority,"(Pallas, 1776) ",https://api.gbif.org/v1/species/2494514
+LIBSRC-LIB50-ENT-BIO-2245701,taxon_authority,"Brodkorb, 1963",https://api.gbif.org/v1/species/8654114
+LIBSRC-LIB50-ENT-BIO-2244451,taxon_authority,"(J.F.Gmelin, 1789) ",https://api.gbif.org/v1/species/7804446
+LIBSRC-LIB50-ENT-BIO-2244441,taxon_authority,Gmelin,https://api.gbif.org/v1/species/7959446
+LIBSRC-LIB50-ENT-BIO-2244571,taxon_authority,"(Hartert, 1919) ",https://api.gbif.org/v1/species/6101009
+LIBSRC-LIB50-ENT-BIO-2244271,taxon_authority,McGregor,https://api.gbif.org/v1/species/11121282
+LIBSRC-LIB50-ENT-BIO-2245881,taxon_authority,"Bonaparte, 1838",https://api.gbif.org/v1/species/2487949
+LIBSRC-LIB50-ENT-BIO-2243121,taxon_authority,"Hartert, 1904",https://api.gbif.org/v1/species/2494177
+LIBSRC-LIB50-ENT-BIO-2288431,taxon_authority,"Hope, 1999",https://api.gbif.org/v1/species/4966641
+LIBSRC-LIB50-ENT-BIO-1985461,taxon_authority,"Vieillot, 1817",https://api.gbif.org/v1/species/5230399
+LIBSRC-LIB50-ENT-BIO-2161341,taxon_authority,"Rippon, 1904",https://api.gbif.org/v1/species/2484913
+LIBSRC-LIB50-ENT-BIO-2469841,taxon_authority,"Emslie, 1998",https://api.gbif.org/v1/species/8675942
+LIBSRC-LIB50-ENT-BIO-2469891,taxon_authority,"(Lambrect, 1916) ",https://api.gbif.org/v1/species/8543945
+LIBSRC-LIB50-ENT-BIO-0821041,taxon_authority,"(Hartert, 1930) ",https://api.gbif.org/v1/species/7341193
+LIBSRC-LIB50-ENT-BIO-0817781,taxon_authority,"(Salvadori, 1876) ",https://api.gbif.org/v1/species/2489284
+LIBSRC-LIB50-ENT-BIO-0820511,taxon_authority,"Sharpe, 1882",https://api.gbif.org/v1/species/2489286
+LIBSRC-LIB50-ENT-BIO-0818621,taxon_authority,"(Drapiez, 1819) ",https://api.gbif.org/v1/species/2489314
+LIBSRC-LIB50-ENT-BIO-0636271,taxon_authority,"Mikhailov & Zelenkov, 2020",https://api.gbif.org/v1/species/11197545
+LIBSRC-LIB50-ENT-BIO-0488901,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2484155
+LIBSRC-LIB50-ENT-BIO-0628871,taxon_authority,"Lowe, 1931",https://api.gbif.org/v1/species/9819205
+LIBSRC-LIB50-ENT-BIO-2532886,taxon_authority,"Olson, 1985",https://api.gbif.org/v1/species/8552925
+LIBSRC-LIB50-ENT-BIO-1408311,taxon_authority,"(Waterhouse, 1838) ",https://api.gbif.org/v1/species/5231010
+LIBSRC-LIB50-ENT-BIO-1406781,taxon_authority,"(Sharpe, 1883) ",https://api.gbif.org/v1/species/5788865
+LIBSRC-LIB50-ENT-BIO-1407431,taxon_authority,"(F.Moore, 1854) ",https://api.gbif.org/v1/species/7711044
+LIBSRC-LIB50-ENT-BIO-1408481,taxon_authority,"(Stoliczka, 1872) ",https://api.gbif.org/v1/species/5788855
+LIBSRC-LIB50-ENT-BIO-1408201,taxon_authority,"(Vigors, 1831) ",https://api.gbif.org/v1/species/6544559
+LIBSRC-LIB50-ENT-BIO-1408921,taxon_authority,"(Boddaert, 1783) ",https://api.gbif.org/v1/species/6092661
+LIBSRC-LIB50-ENT-BIO-1409081,taxon_authority,"Sparrman, 1788",https://api.gbif.org/v1/species/10084955
+LIBSRC-LIB50-ENT-BIO-1407851,taxon_authority,"(Finsch & Hartlaub, 1870) ",https://api.gbif.org/v1/species/2492451
+LIBSRC-LIB50-ENT-BIO-2244541,taxon_authority,"(Reichenow, 1882) ",https://api.gbif.org/v1/species/6100974
+LIBSRC-LIB50-ENT-BIO-1407201,taxon_authority,"Reichenow, 1902",https://api.gbif.org/v1/species/2492396
+LIBSRC-LIB50-ENT-BIO-1406401,taxon_authority,"(A.Smith, 1839) ",https://api.gbif.org/v1/species/2492640
+LIBSRC-LIB50-ENT-BIO-1407381,taxon_authority,"(Verreaux, 1870) ",https://api.gbif.org/v1/species/5231278
+LIBSRC-LIB50-ENT-BIO-1408471,taxon_authority,"J.E.Gray & G.R.Gray, 1847",https://api.gbif.org/v1/species/5788854
+LIBSRC-LIB50-ENT-BIO-1409021,taxon_authority,"Latham, 1801",https://api.gbif.org/v1/species/7616471
+LIBSRC-LIB50-ENT-BIO-1409091,taxon_authority,"Vieillot, 1818",https://api.gbif.org/v1/species/9877011
+LIBSRC-LIB50-ENT-BIO-1408361,taxon_authority,"Rand, 1955",https://api.gbif.org/v1/species/2492588
+LIBSRC-LIB50-ENT-BIO-1407231,taxon_authority,"(Blyth, 1851) ",https://api.gbif.org/v1/species/6100845
+LIBSRC-LIB50-ENT-BIO-1409151,taxon_authority,"(Hartlaub, 1858) ",https://api.gbif.org/v1/species/2492457
+LIBSRC-LIB50-ENT-BIO-1406921,taxon_authority,"(R\u00fcppell, 1840) ",https://api.gbif.org/v1/species/2492415
+LIBSRC-LIB50-ENT-BIO-1408421,taxon_authority,"(Strickland, 1844) ",https://api.gbif.org/v1/species/5231217
+LIBSRC-LIB50-ENT-BIO-0961411,taxon_authority,"(Vieillot, 1816) ",https://api.gbif.org/v1/species/2481722
+LIBSRC-LIB50-ENT-BIO-1409031,taxon_authority,"(Cassin, 1855) ",https://api.gbif.org/v1/species/2492563
+LIBSRC-LIB50-ENT-BIO-1406771,taxon_authority,"A.Smith, 1836",https://api.gbif.org/v1/species/5788857
+LIBSRC-LIB50-ENT-BIO-1408721,taxon_authority,"(Hodgson, 1845) ",https://api.gbif.org/v1/species/7341723
+LIBSRC-LIB50-ENT-BIO-1408671,taxon_authority,"(Temminck, 1823) ",https://api.gbif.org/v1/species/5789044
+LIBSRC-LIB50-ENT-BIO-1249021,taxon_authority,"(Gould, 1834) ",https://api.gbif.org/v1/species/5232031
+LIBSRC-LIB50-ENT-BIO-1249141,taxon_authority,"(Milne-Edwards, 1871) ",https://api.gbif.org/v1/species/8695435
+LIBSRC-LIB50-ENT-BIO-2322001,taxon_authority,"Linnaeus, 1758",https://api.gbif.org/v1/species/8214667
+LIBSRC-LIB50-ENT-BIO-2243261,taxon_authority,"Rothschild, 1893",https://api.gbif.org/v1/species/9190085
+LIBSRC-LIB50-ENT-BIO-2317341,taxon_authority,"(Swainson, 1832) ",https://api.gbif.org/v1/species/2498250
+LIBSRC-LIB50-ENT-BIO-2319721,taxon_authority,"(Eyton, 1838) ",https://api.gbif.org/v1/species/5232468
+LIBSRC-LIB50-ENT-BIO-2322061,taxon_authority,"Milne-Edwards, 1871",https://api.gbif.org/v1/species/9708893
+LIBSRC-LIB50-ENT-BIO-2319241,taxon_authority,"Worthy, Tennyson, Jones, McNamara & Douglas, 2007",https://api.gbif.org/v1/species/8567229
+LIBSRC-LIB50-ENT-BIO-2322011,taxon_authority,"Rothschild, 1892",https://api.gbif.org/v1/species/2498109
+LIBSRC-LIB50-ENT-BIO-2321561,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2498009
+LIBSRC-LIB50-ENT-BIO-2322041,taxon_authority,"Linnaeus, 1758",https://api.gbif.org/v1/species/9761484
+LIBSRC-LIB50-ENT-BIO-2322141,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2498273
+LIBSRC-LIB50-ENT-BIO-2315161,taxon_authority,"Owen, 1865",https://api.gbif.org/v1/species/4851002
+LIBSRC-LIB50-ENT-BIO-2315741,taxon_authority,"(Vigors, 1834) ",https://api.gbif.org/v1/species/5232445
+LIBSRC-LIB50-ENT-BIO-2321151,taxon_authority,"(Latham, 1790) ",https://api.gbif.org/v1/species/2498233
+LIBSRC-LIB50-ENT-BIO-2317741,taxon_authority,"Ameghino, 1899",https://api.gbif.org/v1/species/9679541
+LIBSRC-LIB50-ENT-BIO-2321581,taxon_authority,"Louchart, 2005",https://api.gbif.org/v1/species/9785454
+LIBSRC-LIB50-ENT-BIO-2318061,taxon_authority,"Harrison, 1979",https://api.gbif.org/v1/species/11171341
+LIBSRC-LIB50-ENT-BIO-2318211,taxon_authority,"(Wied-Neuwied, 1833) ",https://api.gbif.org/v1/species/2498177
+LIBSRC-LIB50-ENT-BIO-2317361,taxon_authority,"(Bonaparte, 1850) ",https://api.gbif.org/v1/species/2498243
+LIBSRC-LIB50-ENT-BIO-2321331,taxon_authority,"Zelenkov & Kurochkin, 2012",https://api.gbif.org/v1/species/9716250
+LIBSRC-LIB50-ENT-BIO-2319401,taxon_authority,"(Latham, 1801) ",https://api.gbif.org/v1/species/5232435
+LIBSRC-LIB50-ENT-BIO-1311891,taxon_authority,"(LeCroy & Barker, 2006) ",https://api.gbif.org/v1/species/7667495
+LIBSRC-LIB50-ENT-BIO-1311741,taxon_authority,"(Cassin, 1855) ",https://api.gbif.org/v1/species/2487402
+LIBSRC-LIB50-ENT-BIO-0071101,taxon_authority,"(McClelland, 1840) ",https://api.gbif.org/v1/species/2493471
+LIBSRC-LIB50-ENT-BIO-0071091,taxon_authority,"(Hodgson, 1836) ",https://api.gbif.org/v1/species/2493444
+LIBSRC-LIB50-ENT-BIO-0071741,taxon_authority,"(Finn, 1902) ",https://api.gbif.org/v1/species/10739382
+LIBSRC-LIB50-ENT-BIO-0074591,taxon_authority,"(Sharpe, 1900) ",https://api.gbif.org/v1/species/2493301
+LIBSRC-LIB50-ENT-BIO-0075921,taxon_authority,"(Hodgson, 1839) ",https://api.gbif.org/v1/species/2493391
+LIBSRC-LIB50-ENT-BIO-0524111,taxon_authority,"(A.Smith, 1842) ",https://api.gbif.org/v1/species/2492736
+LIBSRC-LIB50-ENT-BIO-0528461,taxon_authority,"Reichenow, 1895",https://api.gbif.org/v1/species/2492714
+LIBSRC-LIB50-ENT-BIO-1408901,taxon_authority,"Vigors, 1832",https://api.gbif.org/v1/species/5231229
+LIBSRC-LIB50-ENT-BIO-0526171,taxon_authority,"Someren, 1920",https://api.gbif.org/v1/species/2492975
+LIBSRC-LIB50-ENT-BIO-0528491,taxon_authority,"(Shelley, 1899) ",https://api.gbif.org/v1/species/2492722
+LIBSRC-LIB50-ENT-BIO-0045681,taxon_authority,"Hou, 1990",https://api.gbif.org/v1/species/4966564
+LIBSRC-LIB50-ENT-BIO-1416351,taxon_authority,"(M.H.K.Lichtenstein, 1823) ",https://api.gbif.org/v1/species/2478760
+LIBSRC-LIB50-ENT-BIO-1414621,taxon_authority,"M.H.K.Lichtenstein, 1823",https://api.gbif.org/v1/species/2478782
+LIBSRC-LIB50-ENT-BIO-1416701,taxon_authority,"(Swainson, 1820) ",https://api.gbif.org/v1/species/5229028
+LIBSRC-LIB50-ENT-BIO-2533102,taxon_authority,"(Chandler, 1990) ",https://api.gbif.org/v1/species/5935893
+LIBSRC-LIB50-ENT-BIO-1416681,taxon_authority,"(J.H.C.F.Sturm & J.W.Sturm, 1841) ",https://api.gbif.org/v1/species/5229032
+LIBSRC-LIB50-ENT-BIO-0195591,taxon_authority,"W.L.Sclater, 1922",https://api.gbif.org/v1/species/2480200
+LIBSRC-LIB50-ENT-BIO-2130681,taxon_authority,"(Linnaeus, 1766) ",https://api.gbif.org/v1/species/5228252
+LIBSRC-LIB50-ENT-BIO-0858721,taxon_authority,"Gould, 1847",https://api.gbif.org/v1/species/9090438
+LIBSRC-LIB50-ENT-BIO-0858941,taxon_authority,"Gould, 1843",https://api.gbif.org/v1/species/2486565
+LIBSRC-LIB50-ENT-BIO-0858951,taxon_authority,"(Gould, 1838) ",https://api.gbif.org/v1/species/2486563
+LIBSRC-LIB50-ENT-BIO-0858971,taxon_authority,"Salvadori, 1878",https://api.gbif.org/v1/species/6090894
+LIBSRC-LIB50-ENT-BIO-1063081,taxon_authority,"Mayr et al., 2011",https://api.gbif.org/v1/species/8464104
+LIBSRC-LIB50-ENT-BIO-0839501,taxon_authority,"(Gilliard, 1960) ",https://api.gbif.org/v1/species/2493363
+LIBSRC-LIB50-ENT-BIO-0655761,taxon_authority,"Chandler, 1990",https://api.gbif.org/v1/species/4966527
+LIBSRC-LIB50-ENT-BIO-0653801,taxon_authority,"Stucchi, Varas-Malca & Urbina-Schmitt, 2016",https://api.gbif.org/v1/species/9226506
+LIBSRC-LIB50-ENT-BIO-0838041,taxon_authority,"Wallace, 1864",https://api.gbif.org/v1/species/9787200
+LIBSRC-LIB50-ENT-BIO-1374401,taxon_authority,"Su\u00e1rez, 2020",https://api.gbif.org/v1/species/10788177
+LIBSRC-LIB50-ENT-BIO-1375731,taxon_authority,"Mayr, 1934",https://api.gbif.org/v1/species/2480584
+LIBSRC-LIB50-ENT-BIO-1374441,taxon_authority,"Salvadori, 1865",https://api.gbif.org/v1/species/2480568
+LIBSRC-LIB50-ENT-BIO-1375401,taxon_authority,"(Daudin, 1800) ",https://api.gbif.org/v1/species/2480576
+LIBSRC-LIB50-ENT-BIO-1375791,taxon_authority,"P.L.Sclater, 1859",https://api.gbif.org/v1/species/2480622
+LIBSRC-LIB50-ENT-BIO-1376341,taxon_authority,"(Howard, 1932) ",https://api.gbif.org/v1/species/11126645
+LIBSRC-LIB50-ENT-BIO-0833511,taxon_authority,"Reichenbach, 1853",https://api.gbif.org/v1/species/2485151
+LIBSRC-LIB50-ENT-BIO-0835681,taxon_authority,"(Berlepsch, 1901) ",https://api.gbif.org/v1/species/5230111
+LIBSRC-LIB50-ENT-BIO-1045601,taxon_authority,"Pallas, 1773",https://api.gbif.org/v1/species/2474961
+LIBSRC-LIB50-ENT-BIO-0468851,taxon_authority,"Latham, 1801",https://api.gbif.org/v1/species/10228491
+LIBSRC-LIB50-ENT-BIO-1068071,taxon_authority,"(Shufeldt, 1915) ",https://api.gbif.org/v1/species/8474418
+LIBSRC-LIB50-ENT-BIO-0840191,taxon_authority,"(Temminck, 1823) ",https://api.gbif.org/v1/species/2485689
+LIBSRC-LIB50-ENT-BIO-0844821,taxon_authority,"(Vieillot, 1816) ",https://api.gbif.org/v1/species/2485214
+LIBSRC-LIB50-ENT-BIO-0838341,taxon_authority,"(Gmelin, 1789) ",https://api.gbif.org/v1/species/2485007
+LIBSRC-LIB50-ENT-BIO-0835391,taxon_authority,"Pacheco, B.M.Whitney & Gonzaga, 1996",https://api.gbif.org/v1/species/2485084
+LIBSRC-LIB50-ENT-BIO-0833501,taxon_authority,"(Cabanis, 1873) ",https://api.gbif.org/v1/species/2485316
+LIBSRC-LIB50-ENT-BIO-0845641,taxon_authority,"Hilty, Ascanio & Whittaker, 2013",https://api.gbif.org/v1/species/8127857
+LIBSRC-LIB50-ENT-BIO-0196521,taxon_authority,"(van Tets, 1974) ",https://api.gbif.org/v1/species/11137610
+LIBSRC-LIB50-ENT-BIO-0013301,taxon_authority,"Olson & Feduccia, 1980",https://api.gbif.org/v1/species/8541211
+LIBSRC-LIB50-ENT-BIO-0843281,taxon_authority,"(Ribeiro, 1906) ",https://api.gbif.org/v1/species/2485998
+LIBSRC-LIB50-ENT-BIO-1375341,taxon_authority,"Su\u00e1rez, 2020",https://api.gbif.org/v1/species/10896563
+LIBSRC-LIB50-ENT-BIO-0111081,taxon_authority,"(Reichenow, 1879) ",https://api.gbif.org/v1/species/6089205
+LIBSRC-LIB50-ENT-BIO-1377831,taxon_authority,"(Boddaert, 1783) ",https://api.gbif.org/v1/species/2480437
+LIBSRC-LIB50-ENT-BIO-1374411,taxon_authority,"(J.R.Forster, 1798) ",https://api.gbif.org/v1/species/2480554
+LIBSRC-LIB50-ENT-BIO-1376041,taxon_authority,"Forbes, 1891",https://api.gbif.org/v1/species/9808086
+LIBSRC-LIB50-ENT-BIO-0625001,taxon_authority,"Peale, 1848",https://api.gbif.org/v1/species/7966484
+LIBSRC-LIB50-ENT-BIO-0628961,taxon_authority,"Godman, 1872",https://api.gbif.org/v1/species/2495427
+LIBSRC-LIB50-ENT-BIO-2243341,taxon_authority,"P.L.Sclater & Salvin, 1871",https://api.gbif.org/v1/species/2490538
+LIBSRC-LIB50-ENT-BIO-0625081,taxon_authority,"(R.Lesson, 1831) ",https://api.gbif.org/v1/species/2495545
+LIBSRC-LIB50-ENT-BIO-0626781,taxon_authority,"Rothschild, 1904",https://api.gbif.org/v1/species/2496195
+LIBSRC-LIB50-ENT-BIO-0632731,taxon_authority,"(Jacquin, 1784) ",https://api.gbif.org/v1/species/2495331
+LIBSRC-LIB50-ENT-BIO-0634731,taxon_authority,"Spix, 1825",https://api.gbif.org/v1/species/7770105
+LIBSRC-LIB50-ENT-BIO-0627671,taxon_authority,"(Schlegel, 1866) ",https://api.gbif.org/v1/species/6101219
+LIBSRC-LIB50-ENT-BIO-0627631,taxon_authority,"Worthy, 2001",https://api.gbif.org/v1/species/11113972
+LIBSRC-LIB50-ENT-BIO-0627651,taxon_authority,"(G.R.Gray, 1870) ",https://api.gbif.org/v1/species/2495982
+LIBSRC-LIB50-ENT-BIO-2245841,taxon_authority,"(Lawrence, 1861) ",https://api.gbif.org/v1/species/2490558
+LIBSRC-LIB50-ENT-BIO-0627611,taxon_authority,"(Latham, 1801) ",https://api.gbif.org/v1/species/2495494
+LIBSRC-LIB50-ENT-BIO-0628901,taxon_authority,"Blyth, 1842",https://api.gbif.org/v1/species/5231837
+LIBSRC-LIB50-ENT-BIO-0632621,taxon_authority,"Rando, Alcover, Pieper, Olson, Hern\u00e1ndez & L\u00f3pez-Jurado, 2020",https://api.gbif.org/v1/species/11319392
+LIBSRC-LIB50-ENT-BIO-1374941,taxon_authority,"Haast, 1872",https://api.gbif.org/v1/species/4850058
+LIBSRC-LIB50-ENT-BIO-0858731,taxon_authority,"Mathews, 1920",https://api.gbif.org/v1/species/2486598
+LIBSRC-LIB50-ENT-BIO-1377271,taxon_authority,"(Kaup, 1847) ",https://api.gbif.org/v1/species/5788529
+LIBSRC-LIB50-ENT-BIO-1375911,taxon_authority,"(Daudin, 1800) ",https://api.gbif.org/v1/species/2480635
+LIBSRC-LIB50-ENT-BIO-1376071,taxon_authority,"(S.G.Gmelin, 1770) ",https://api.gbif.org/v1/species/2480491
+LIBSRC-LIB50-ENT-BIO-1373831,taxon_authority,"(Temminck, 1828) ",https://api.gbif.org/v1/species/2480514
+LIBSRC-LIB50-ENT-BIO-1373081,taxon_authority,"Gould, 1842",https://api.gbif.org/v1/species/2480371
+LIBSRC-LIB50-ENT-BIO-1376331,taxon_authority,"(Cabanis, 1855) ",https://api.gbif.org/v1/species/5788521
+LIBSRC-LIB50-ENT-BIO-1373451,taxon_authority,"Mather, Lee, Camens & Worthy, 2021",https://api.gbif.org/v1/species/11379509
+LIBSRC-LIB50-ENT-BIO-0372071,taxon_authority,"Blyth, 1847",https://api.gbif.org/v1/species/10756235
+LIBSRC-LIB50-ENT-BIO-1370571,taxon_authority,"(Linnaeus, 1766) ",https://api.gbif.org/v1/species/2480391
+LIBSRC-LIB50-ENT-BIO-1373791,taxon_authority,"Wetmore, 1958",https://api.gbif.org/v1/species/4966722
+LIBSRC-LIB50-ENT-BIO-1374421,taxon_authority,"Campbell, 1976",https://api.gbif.org/v1/species/11160512
+LIBSRC-LIB50-ENT-BIO-1370231,taxon_authority,"Swainson, 1837",https://api.gbif.org/v1/species/2480705
+LIBSRC-LIB50-ENT-BIO-1376061,taxon_authority,"Peale, 1848",https://api.gbif.org/v1/species/5229172
+LIBSRC-LIB50-ENT-BIO-0370521,taxon_authority,"(Bingham, 1903) ",https://api.gbif.org/v1/species/5789023
+LIBSRC-LIB50-ENT-BIO-1375781,taxon_authority,"G.R.Gray, 1858",https://api.gbif.org/v1/species/2480607
+LIBSRC-LIB50-ENT-BIO-0372051,taxon_authority,"Cabanis, 1851",https://api.gbif.org/v1/species/7570753
+LIBSRC-LIB50-ENT-BIO-2499772,taxon_authority,"Boulton, 1931",https://api.gbif.org/v1/species/8065942
+LIBSRC-LIB50-ENT-BIO-2498219,taxon_authority,"(Cretzschmar, 1828) ",https://api.gbif.org/v1/species/2478890
+LIBSRC-LIB50-ENT-BIO-2501169,taxon_authority,"Boesman & Collar, 2019",https://api.gbif.org/v1/species/10790779
+LIBSRC-LIB50-ENT-BIO-1704841,taxon_authority,"Bourdon, Amaghzaz & Bouya, 2010",https://api.gbif.org/v1/species/8624466
+LIBSRC-LIB50-ENT-BIO-1712781,taxon_authority,"Mayr & Zvonok, 2012",https://api.gbif.org/v1/species/8562802
+LIBSRC-LIB50-ENT-BIO-0011631,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2493698
+LIBSRC-LIB50-ENT-BIO-0014341,taxon_authority,"(Gould, 1845) ",https://api.gbif.org/v1/species/2493630
+LIBSRC-LIB50-ENT-BIO-0014381,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/4845776
+LIBSRC-LIB50-ENT-BIO-2499768,taxon_authority,"(Lafresnaye, 1841) ",https://api.gbif.org/v1/species/2478750
+LIBSRC-LIB50-ENT-BIO-0526821,taxon_authority,"Reichenow, 1904",https://api.gbif.org/v1/species/7340308
+LIBSRC-LIB50-ENT-BIO-0314841,taxon_authority,"Swinhoe, 1870",https://api.gbif.org/v1/species/2491608
+LIBSRC-LIB50-ENT-BIO-0071071,taxon_authority,"Godwin-Austen, 1874",https://api.gbif.org/v1/species/2493478
+LIBSRC-LIB50-ENT-BIO-0011491,taxon_authority,"(Vieillot, 1807) ",https://api.gbif.org/v1/species/2493640
+LIBSRC-LIB50-ENT-BIO-0529831,taxon_authority,"(Elliot, 1897) ",https://api.gbif.org/v1/species/2492745
+LIBSRC-LIB50-ENT-BIO-1565141,taxon_authority,"(De Vis, 1890) ",https://api.gbif.org/v1/species/2486965
+LIBSRC-LIB50-ENT-BIO-2245871,taxon_authority,"(Mikan, 1825) ",https://api.gbif.org/v1/species/2487990
+LIBSRC-LIB50-ENT-BIO-0073601,taxon_authority,"(Blyth, 1855) ",https://api.gbif.org/v1/species/6101136
+LIBSRC-LIB50-ENT-BIO-1211081,taxon_authority,"(Hartert, 1901) ",https://api.gbif.org/v1/species/5788456
+LIBSRC-LIB50-ENT-BIO-0074621,taxon_authority,"(R\u00fcppell, 1845) ",https://api.gbif.org/v1/species/7340552
+DRV-CORPUS-L14-0113314,taxon_authority,"Leach, 1847",https://api.gbif.org/v1/species/10711026
+LIBSRC-LIB50-ENT-BIO-2322441,taxon_authority,"(Andrews, 1897) ",https://api.gbif.org/v1/species/9802627
+LIBSRC-LIB50-ENT-BIO-0961731,taxon_authority,"(Linnaeus, 1758) ",https://api.gbif.org/v1/species/2481681
+DRV-CORPUS-L14-0090415,taxon_authority,"Solowiow, 1924",https://api.gbif.org/v1/species/4800060
+LIBSRC-LIB50-ENT-BIO-2467151,taxon_authority,"Weske & Terborgh, 1971",https://api.gbif.org/v1/species/6101193
+LIBSRC-LIB50-ENT-BIO-2536969,taxon_authority,"(Gould, 1844) ",https://api.gbif.org/v1/species/2481452
+LIBSRC-LIB50-ENT-BIO-2535886,taxon_authority,"(Gmelin, 1789) ",https://api.gbif.org/v1/species/2481513
