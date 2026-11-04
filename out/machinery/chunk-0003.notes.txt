@@ -1,0 +1,8 @@
+Attempted to fetch data for the subjects from the following sources:
+- Wikidata API (wbsearchentities, wbgetentities) - Hit API rate limits, extremely low match rate for the provided subjects, no relevant properties.
+- Getty Vocabularies (AAT/ULAN) - Tried to query via SPARQL endpoint and API, but got 403 Forbidden. The dedup keys are from AAT and ULAN, but we could not resolve properties due to access restrictions.
+- GBIF (Global Biodiversity Information Facility) API - Very low exact match count for species, none of which had relevant machinery properties.
+- Met Museum API - No results found for subjects.
+- Art Institute of Chicago API - No results found for subjects.
+
+No valid, sourced data was found that matched the properties required for the `machinery` category (e.g. mass, rated_power, etc.).
