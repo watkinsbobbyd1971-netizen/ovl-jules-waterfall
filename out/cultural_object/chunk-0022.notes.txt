@@ -1,0 +1,2 @@
+Queried Met Open Access API for properties based on the MET ID in the canonical_dedup_key.
+Extracted collection_object_identifier, creator_or_attribution, cultural_context, date_or_interval, descriptive_identity, identity_label, and material_identity.
