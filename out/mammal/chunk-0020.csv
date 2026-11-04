@@ -1,0 +1,7 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP19084-REC3816663,taxon_authority,(Shaw 1800),https://www.gbif.org/species/231543760
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP16815-REC3362923,scientific_identity,Cervidae,https://www.gbif.org/species/5298
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP19084-REC3816663,scientific_identity,Macroscelides proboscideus (Shaw 1800),https://www.gbif.org/species/231543760
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP17867-REC3573322,taxon_authority,"(Ord, 1815)",https://www.gbif.org/species/2440902
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP17867-REC3573322,body_mass,3500.0,http://www.wikidata.org/entity/Q187943
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP17867-REC3573322,scientific_identity,"Antilocapra americana (Ord, 1815)",https://www.gbif.org/species/2440902
