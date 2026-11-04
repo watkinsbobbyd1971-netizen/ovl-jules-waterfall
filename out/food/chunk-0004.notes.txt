@@ -1,0 +1,6 @@
+The target dataset includes 996 subjects.
+Many entries starting with LIBSRC-LIB53-ENT-FDC- are FDC foods which have been mapped exactly to FoodData Central using the bulk download `FoodData_Central_csv_2024-04-18.zip`.
+We fetched properties like food_energy, portion_mass, and descriptive_identity from this bulk data by mapping the `subject_name` to the exact FDC description.
+
+The food tasks that start with CORPUS- represent various obscure, often regional types of food dishes. Attempts to map them using Wikidata queries yielded no reliable matching IDs based on exact matching of their names, after testing `wbsearchentities`.
+Therefore, we only output properties for the matched FDC subjects. The result file contains only sourced properties with real FDC values, and ignores missing fields as per the rules.
