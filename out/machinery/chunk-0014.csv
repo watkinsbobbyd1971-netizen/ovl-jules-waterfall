@@ -1,0 +1,240 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB36-ENT-WRD-0095896,descriptive_identity,"""change of state""",http://www.wikidata.org/entity/Q267505
+LIBSRC-LIB36-ENT-WRD-0095896,descriptive_identity,"""biological process""",http://www.wikidata.org/entity/Q267505
+LIBSRC-LIB36-ENT-WRD-0096154,descriptive_identity,"""sports team""",http://www.wikidata.org/entity/Q213075
+LIBSRC-LIB36-ENT-WRD-0095896,descriptive_identity,"""destruction""",http://www.wikidata.org/entity/Q267505
+LIBSRC-LIB36-ENT-WRD-0096127,descriptive_identity,"""drug user""",http://www.wikidata.org/entity/Q9148481
+LIBSRC-LIB36-ENT-WRD-0096127,descriptive_identity,"""person with substance use disorder""",http://www.wikidata.org/entity/Q9148481
+LIBSRC-LIB36-ENT-WRD-0096208,descriptive_identity,"""type of chemical entity""",http://www.wikidata.org/entity/Q4862743
+LIBSRC-LIB36-ENT-WRD-0096226,descriptive_identity,"""style""",http://www.wikidata.org/entity/Q118502194
+LIBSRC-LIB36-ENT-WRD-0096208,descriptive_identity,"""chemical compound""",http://www.wikidata.org/entity/Q4862743
+LIBSRC-LIB36-ENT-WRD-0096614,descriptive_identity,"""prayer""",http://www.wikidata.org/entity/Q1144201
+LIBSRC-LIB36-ENT-WRD-0096792,descriptive_identity,"""magazine""",http://www.wikidata.org/entity/Q1011114
+LIBSRC-LIB36-ENT-WRD-0096860,descriptive_identity,"""fungi""",http://www.wikidata.org/entity/Q5747160
+LIBSRC-LIB36-ENT-WRD-0096792,descriptive_identity,"""genre""",http://www.wikidata.org/entity/Q1011114
+LIBSRC-LIB36-ENT-WRD-0097243,descriptive_identity,"""planned event""",http://www.wikidata.org/entity/Q288514
+LIBSRC-LIB36-ENT-WRD-0097243,component_relationship,"""exhibition""",http://www.wikidata.org/entity/Q288514
+LIBSRC-LIB36-ENT-WRD-0097243,component_relationship,"""competition""",http://www.wikidata.org/entity/Q288514
+LIBSRC-LIB36-ENT-WRD-0097243,component_relationship,"""educational activity""",http://www.wikidata.org/entity/Q288514
+LIBSRC-LIB36-ENT-WRD-0097243,descriptive_identity,"""form of event""",http://www.wikidata.org/entity/Q288514
+LIBSRC-LIB36-ENT-WRD-0097162,descriptive_identity,"""assessment""",http://www.wikidata.org/entity/Q21255921
+LIBSRC-LIB36-ENT-WRD-0097162,descriptive_identity,"""Wikibase reason for deprecated rank""",http://www.wikidata.org/entity/Q21255921
+LIBSRC-LIB36-ENT-WRD-0097385,descriptive_identity,"""food preparation technique""",http://www.wikidata.org/entity/Q7546501
+LIBSRC-LIB36-ENT-WRD-0097548,descriptive_identity,"""technique""",http://www.wikidata.org/entity/Q11574209
+LIBSRC-LIB36-ENT-WRD-0097385,descriptive_identity,"""braising""",http://www.wikidata.org/entity/Q7546501
+LIBSRC-LIB36-ENT-WRD-0097548,descriptive_identity,"""food preservation""",http://www.wikidata.org/entity/Q11574209
+LIBSRC-LIB36-ENT-WRD-0097359,descriptive_identity,"""evaluative quality""",http://www.wikidata.org/entity/Q126287969
+LIBSRC-LIB36-ENT-WRD-0097289,descriptive_identity,"""proto-patient""",http://www.wikidata.org/entity/Q140412131
+LIBSRC-LIB36-ENT-WRD-0097900,descriptive_identity,"""heavy equipment""",http://www.wikidata.org/entity/Q116961505
+LIBSRC-LIB36-ENT-WRD-0097864,descriptive_identity,"""JavaScript library""",http://www.wikidata.org/entity/Q95963068
+LIBSRC-LIB36-ENT-WRD-0097900,descriptive_identity,"""product category""",http://www.wikidata.org/entity/Q116961505
+LIBSRC-LIB36-ENT-WRD-0097803,descriptive_identity,"""software""",http://www.wikidata.org/entity/Q140795116
+LIBSRC-LIB36-ENT-WRD-0098306,descriptive_identity,"""specialized term""",http://www.wikidata.org/entity/Q177823
+LIBSRC-LIB36-ENT-WRD-0098306,component_relationship,"""halal diet""",http://www.wikidata.org/entity/Q177823
+LIBSRC-LIB36-ENT-WRD-0098306,descriptive_identity,"""five decisions""",http://www.wikidata.org/entity/Q177823
+LIBSRC-LIB36-ENT-WRD-0098366,mass,240.12224,http://www.wikidata.org/entity/Q415335
+LIBSRC-LIB36-ENT-WRD-0098366,descriptive_identity,"""type of chemical entity""",http://www.wikidata.org/entity/Q415335
+LIBSRC-LIB36-ENT-WRD-0098366,component_relationship,"""hydrogen""",http://www.wikidata.org/entity/Q415335
+LIBSRC-LIB36-ENT-WRD-0098366,component_relationship,"""carbon""",http://www.wikidata.org/entity/Q415335
+LIBSRC-LIB36-ENT-WRD-0098366,component_relationship,"""nitrogen""",http://www.wikidata.org/entity/Q415335
+LIBSRC-LIB36-ENT-WRD-0098366,component_relationship,"""oxygen""",http://www.wikidata.org/entity/Q415335
+LIBSRC-LIB36-ENT-WRD-0098210,descriptive_identity,"""meteorological term""",http://www.wikidata.org/entity/Q453122
+LIBSRC-LIB36-ENT-WRD-0098018,descriptive_identity,"""color""",http://www.wikidata.org/entity/Q62058583
+LIBSRC-LIB36-ENT-WRD-0098062,descriptive_identity,"""color""",http://www.wikidata.org/entity/Q115413850
+LIBSRC-LIB36-ENT-WRD-0097958,descriptive_identity,"""fortification""",http://www.wikidata.org/entity/Q91818
+LIBSRC-LIB36-ENT-WRD-0098366,descriptive_identity,"""chemical compound""",http://www.wikidata.org/entity/Q415335
+LIBSRC-LIB36-ENT-WRD-0098210,descriptive_identity,"""fall wind""",http://www.wikidata.org/entity/Q453122
+LIBSRC-LIB36-ENT-WRD-0098210,descriptive_identity,"""north wind""",http://www.wikidata.org/entity/Q453122
+LIBSRC-LIB36-ENT-WRD-0098238,descriptive_identity,"""general qualifier""",http://www.wikidata.org/entity/Q29565532
+LIBSRC-LIB36-ENT-WRD-0098018,descriptive_identity,"""red""",http://www.wikidata.org/entity/Q62058583
+LIBSRC-LIB36-ENT-WRD-0098062,descriptive_identity,"""black""",http://www.wikidata.org/entity/Q115413850
+LIBSRC-LIB36-ENT-WRD-0098503,descriptive_identity,"""region""",http://www.wikidata.org/entity/Q5130355
+LIBSRC-LIB36-ENT-WRD-0098503,descriptive_identity,"""concept""",http://www.wikidata.org/entity/Q5130355
+LIBSRC-LIB36-ENT-WRD-0098391,descriptive_identity,"""relation""",http://www.wikidata.org/entity/Q5403187
+LIBSRC-LIB36-ENT-WRD-0098391,descriptive_identity,"""mathematical concept""",http://www.wikidata.org/entity/Q5403187
+LIBSRC-LIB36-ENT-WRD-0098391,descriptive_identity,"""philosophical concept""",http://www.wikidata.org/entity/Q5403187
+LIBSRC-LIB36-ENT-WRD-0098391,descriptive_identity,"""immediacy (philosophy)""",http://www.wikidata.org/entity/Q5403187
+LIBSRC-LIB36-ENT-WRD-0098391,descriptive_identity,"""proximity""",http://www.wikidata.org/entity/Q5403187
+LIBSRC-LIB36-ENT-WRD-0098438,descriptive_identity,"""clothing status""",http://www.wikidata.org/entity/Q111291995
+LIBSRC-LIB36-ENT-WRD-0098526,descriptive_identity,"""grammatical aspect""",http://www.wikidata.org/entity/Q111912239
+LIBSRC-LIB36-ENT-WRD-0098631,descriptive_identity,"""frequency quality""",http://www.wikidata.org/entity/Q140358213
+LIBSRC-LIB36-ENT-WRD-0098631,descriptive_identity,"""increased rate of occurrence""",http://www.wikidata.org/entity/Q140358213
+LIBSRC-LIB36-ENT-WRD-0098784,descriptive_identity,"""linear map""",http://www.wikidata.org/entity/Q80091
+LIBSRC-LIB36-ENT-WRD-0098784,descriptive_identity,"""unary operation""",http://www.wikidata.org/entity/Q80091
+LIBSRC-LIB36-ENT-WRD-0098784,descriptive_identity,"""mathematical expression""",http://www.wikidata.org/entity/Q80091
+LIBSRC-LIB36-ENT-WRD-0098735,descriptive_identity,"""positive emotion""",http://www.wikidata.org/entity/Q104776902
+LIBSRC-LIB36-ENT-WRD-0098735,descriptive_identity,"""emotion lexical occurrence""",http://www.wikidata.org/entity/Q104776902
+LIBSRC-LIB36-ENT-WRD-0098784,descriptive_identity,"""mathematical concept""",http://www.wikidata.org/entity/Q80091
+LIBSRC-LIB36-ENT-WRD-0098648,descriptive_identity,"""gene""",http://www.wikidata.org/entity/Q29733508
+LIBSRC-LIB36-ENT-WRD-0098735,descriptive_identity,"""love prototype emotion""",http://www.wikidata.org/entity/Q104776902
+LIBSRC-LIB36-ENT-WRD-0099211,descriptive_identity,"""out-of-commerce""",http://www.wikidata.org/entity/Q655681
+LIBSRC-LIB36-ENT-WRD-0098943,descriptive_identity,"""association football culture""",http://www.wikidata.org/entity/Q1145738
+LIBSRC-LIB36-ENT-WRD-0099306,descriptive_identity,"""physical object quality""",http://www.wikidata.org/entity/Q104439289
+LIBSRC-LIB36-ENT-WRD-0099162,descriptive_identity,"""satisfaction-rated""",http://www.wikidata.org/entity/Q141103465
+LIBSRC-LIB36-ENT-WRD-0099211,descriptive_identity,"""condition""",http://www.wikidata.org/entity/Q655681
+LIBSRC-LIB36-ENT-WRD-0099211,descriptive_identity,"""commercial status""",http://www.wikidata.org/entity/Q655681
+LIBSRC-LIB36-ENT-WRD-0098943,descriptive_identity,"""subculture""",http://www.wikidata.org/entity/Q1145738
+LIBSRC-LIB36-ENT-WRD-0098997,descriptive_identity,"""legal term or legal concept""",http://www.wikidata.org/entity/Q7884220
+LIBSRC-LIB36-ENT-WRD-0099041,descriptive_identity,"""grammeme""",http://www.wikidata.org/entity/Q26197344
+LIBSRC-LIB36-ENT-WRD-0099141,descriptive_identity,"""legal term or legal concept""",http://www.wikidata.org/entity/Q28130034
+LIBSRC-LIB36-ENT-WRD-0099201,descriptive_identity,"""quality""",http://www.wikidata.org/entity/Q140511860
+LIBSRC-LIB36-ENT-WRD-0099162,descriptive_identity,"""quality""",http://www.wikidata.org/entity/Q141103465
+LIBSRC-LIB36-ENT-WRD-0099495,descriptive_identity,"""food preparation technique""",http://www.wikidata.org/entity/Q1483514
+LIBSRC-LIB36-ENT-WRD-0099402,descriptive_identity,"""occupation""",http://www.wikidata.org/entity/Q1499034
+LIBSRC-LIB36-ENT-WRD-0099403,descriptive_identity,"""quality""",http://www.wikidata.org/entity/Q12945155
+LIBSRC-LIB36-ENT-WRD-0099490,descriptive_identity,"""FAO risk status""",http://www.wikidata.org/entity/Q21604267
+LIBSRC-LIB36-ENT-WRD-0099495,descriptive_identity,"""roasting""",http://www.wikidata.org/entity/Q1483514
+LIBSRC-LIB36-ENT-WRD-0099402,descriptive_identity,"""priest""",http://www.wikidata.org/entity/Q1499034
+LIBSRC-LIB36-ENT-WRD-0099453,descriptive_identity,"""temporal qualifier""",http://www.wikidata.org/entity/Q140047306
+LIBSRC-LIB36-ENT-WRD-0099752,descriptive_identity,"""quality""",http://www.wikidata.org/entity/Q712144
+LIBSRC-LIB36-ENT-WRD-0099752,descriptive_identity,"""Latin phrase""",http://www.wikidata.org/entity/Q712144
+LIBSRC-LIB36-ENT-WRD-0099752,descriptive_identity,"""Wikibase reason for deprecated rank""",http://www.wikidata.org/entity/Q712144
+LIBSRC-LIB36-ENT-WRD-0099752,descriptive_identity,"""Wikibase reason for preferred rank""",http://www.wikidata.org/entity/Q712144
+LIBSRC-LIB36-ENT-WRD-0099523,descriptive_identity,"""heraldic attribute""",http://www.wikidata.org/entity/Q4016638
+LIBSRC-LIB36-ENT-WRD-0099559,descriptive_identity,"""crystal habit""",http://www.wikidata.org/entity/Q13402984
+LIBSRC-LIB36-ENT-WRD-0099575,descriptive_identity,"""postage stamp separation""",http://www.wikidata.org/entity/Q113624838
+LIBSRC-LIB36-ENT-WRD-0099575,descriptive_identity,"""philatelic term""",http://www.wikidata.org/entity/Q113624838
+LIBSRC-LIB36-ENT-WRD-0099705,descriptive_identity,"""video game""",http://www.wikidata.org/entity/Q135018972
+LIBSRC-LIB36-ENT-WRD-0099642,descriptive_identity,"""property""",http://www.wikidata.org/entity/Q47487884
+LIBSRC-LIB36-ENT-WRD-0099745,descriptive_identity,"""primary anatomical coordinate""",http://www.wikidata.org/entity/Q66521167
+LIBSRC-LIB36-ENT-WRD-0099669,descriptive_identity,"""temporal qualifier""",http://www.wikidata.org/entity/Q140102063
+LIBSRC-LIB36-ENT-WRD-0099844,descriptive_identity,"""grammatical mood""",http://www.wikidata.org/entity/Q22716
+LIBSRC-LIB36-ENT-WRD-0099878,descriptive_identity,"""pro-form""",http://www.wikidata.org/entity/Q282301
+LIBSRC-LIB36-ENT-WRD-0099878,component_relationship,"""proximal""",http://www.wikidata.org/entity/Q282301
+LIBSRC-LIB36-ENT-WRD-0099878,component_relationship,"""distal""",http://www.wikidata.org/entity/Q282301
+LIBSRC-LIB36-ENT-WRD-0099878,component_relationship,"""medial""",http://www.wikidata.org/entity/Q282301
+LIBSRC-LIB36-ENT-WRD-0100011,descriptive_identity,"""motion""",http://www.wikidata.org/entity/Q3478543
+LIBSRC-LIB36-ENT-WRD-0100025,descriptive_identity,"""album""",http://www.wikidata.org/entity/Q11196749
+LIBSRC-LIB36-ENT-WRD-0099791,descriptive_identity,"""video game""",http://www.wikidata.org/entity/Q135018972
+LIBSRC-LIB36-ENT-WRD-0099844,descriptive_identity,"""grammatical category""",http://www.wikidata.org/entity/Q22716
+LIBSRC-LIB36-ENT-WRD-0099878,descriptive_identity,"""deixis""",http://www.wikidata.org/entity/Q282301
+LIBSRC-LIB36-ENT-WRD-0100011,descriptive_identity,"""left""",http://www.wikidata.org/entity/Q3478543
+LIBSRC-LIB36-ENT-WRD-0100196,descriptive_identity,"""cleavage""",http://www.wikidata.org/entity/Q16738028
+LIBSRC-LIB36-ENT-WRD-0100227,descriptive_identity,"""personality trait""",http://www.wikidata.org/entity/Q135441715
+LIBSRC-LIB36-ENT-WRD-0100234,descriptive_identity,"""social role""",http://www.wikidata.org/entity/Q2766899
+LIBSRC-LIB36-ENT-WRD-0100402,descriptive_identity,"""center""",http://www.wikidata.org/entity/Q66571838
+LIBSRC-LIB36-ENT-WRD-0100402,descriptive_identity,"""anatomical coordinate""",http://www.wikidata.org/entity/Q66571838
+LIBSRC-LIB36-ENT-WRD-0100541,descriptive_identity,"""proto-patient""",http://www.wikidata.org/entity/Q140439082
+LIBSRC-LIB36-ENT-WRD-0100543,descriptive_identity,"""quality""",http://www.wikidata.org/entity/Q59864995
+LIBSRC-LIB36-ENT-WRD-0100543,descriptive_identity,"""sourcing circumstance""",http://www.wikidata.org/entity/Q59864995
+LIBSRC-LIB36-ENT-WRD-0100467,descriptive_identity,"""property""",http://www.wikidata.org/entity/Q110651250
+LIBSRC-LIB36-ENT-WRD-0100430,descriptive_identity,"""cue dramatic category""",http://www.wikidata.org/entity/Q130547062
+LIBSRC-LIB36-ENT-WRD-0100709,descriptive_identity,"""inquiry""",http://www.wikidata.org/entity/Q1391699
+LIBSRC-LIB36-ENT-WRD-0100804,descriptive_identity,"""variable""",http://www.wikidata.org/entity/Q3150667
+LIBSRC-LIB36-ENT-WRD-0100871,descriptive_identity,"""proto-patient""",http://www.wikidata.org/entity/Q140412420
+LIBSRC-LIB36-ENT-WRD-0100691,descriptive_identity,"""quality""",http://www.wikidata.org/entity/Q141680069
+LIBSRC-LIB36-ENT-WRD-0100888,descriptive_identity,"""gene""",http://www.wikidata.org/entity/Q29733508
+LIBSRC-LIB36-ENT-WRD-0100836,descriptive_identity,"""Wikibase value""",http://www.wikidata.org/entity/Q112883215
+LIBSRC-LIB36-ENT-WRD-0101132,descriptive_identity,"""form of event""",http://www.wikidata.org/entity/Q288514
+LIBSRC-LIB36-ENT-WRD-0101132,component_relationship,"""exhibition""",http://www.wikidata.org/entity/Q288514
+LIBSRC-LIB36-ENT-WRD-0101132,component_relationship,"""competition""",http://www.wikidata.org/entity/Q288514
+LIBSRC-LIB36-ENT-WRD-0101132,component_relationship,"""educational activity""",http://www.wikidata.org/entity/Q288514
+LIBSRC-LIB36-ENT-WRD-0101138,descriptive_identity,"""anatomical location""",http://www.wikidata.org/entity/Q4884630
+LIBSRC-LIB36-ENT-WRD-0101018,descriptive_identity,"""relative quality""",http://www.wikidata.org/entity/Q12943371
+LIBSRC-LIB36-ENT-WRD-0100981,descriptive_identity,"""sourcing circumstance""",http://www.wikidata.org/entity/Q50376823
+LIBSRC-LIB36-ENT-WRD-0101096,descriptive_identity,"""relative direction""",http://www.wikidata.org/entity/Q109810863
+LIBSRC-LIB36-ENT-WRD-0101096,descriptive_identity,"""spatial concept""",http://www.wikidata.org/entity/Q109810863
+LIBSRC-LIB36-ENT-WRD-0101214,descriptive_identity,"""quality""",http://www.wikidata.org/entity/Q140046538
+LIBSRC-LIB36-ENT-WRD-0101132,descriptive_identity,"""planned event""",http://www.wikidata.org/entity/Q288514
+LIBSRC-LIB36-ENT-WRD-0101216,descriptive_identity,"""collectable""",http://www.wikidata.org/entity/Q472760
+LIBSRC-LIB36-ENT-WRD-0101216,descriptive_identity,"""product""",http://www.wikidata.org/entity/Q472760
+LIBSRC-LIB36-ENT-WRD-0101018,descriptive_identity,"""age""",http://www.wikidata.org/entity/Q12943371
+LIBSRC-LIB36-ENT-WRD-0101096,descriptive_identity,"""spatial qualifier""",http://www.wikidata.org/entity/Q109810863
+LIBSRC-LIB36-ENT-WRD-0101096,descriptive_identity,"""topological relation""",http://www.wikidata.org/entity/Q109810863
+LIBSRC-LIB36-ENT-WRD-0101260,descriptive_identity,"""musical concept""",http://www.wikidata.org/entity/Q1990166
+LIBSRC-LIB36-ENT-WRD-0101266,descriptive_identity,"""musical concept""",http://www.wikidata.org/entity/Q2499193
+LIBSRC-LIB36-ENT-WRD-0101483,descriptive_identity,"""gene""",http://www.wikidata.org/entity/Q29719288
+LIBSRC-LIB36-ENT-WRD-0101472,descriptive_identity,"""confidence value""",http://www.wikidata.org/entity/Q31833947
+LIBSRC-LIB36-ENT-WRD-0101376,descriptive_identity,"""word""",http://www.wikidata.org/entity/Q106836321
+LIBSRC-LIB36-ENT-WRD-0101260,descriptive_identity,"""tempo""",http://www.wikidata.org/entity/Q1990166
+LIBSRC-LIB36-ENT-WRD-0101266,descriptive_identity,"""tempo""",http://www.wikidata.org/entity/Q2499193
+LIBSRC-LIB36-ENT-WRD-0101297,descriptive_identity,"""thickness""",http://www.wikidata.org/entity/Q111975166
+LIBSRC-LIB36-ENT-WRD-0101297,descriptive_identity,"""reduced""",http://www.wikidata.org/entity/Q111975166
+LIBSRC-LIB36-ENT-WRD-0101297,descriptive_identity,"""thin or lean""",http://www.wikidata.org/entity/Q111975166
+LIBSRC-LIB36-ENT-WRD-0101338,descriptive_identity,"""general qualifier""",http://www.wikidata.org/entity/Q139845418
+LIBSRC-LIB36-ENT-WRD-0101565,descriptive_identity,"""software""",http://www.wikidata.org/entity/Q2187908
+LIBSRC-LIB36-ENT-WRD-0101759,descriptive_identity,"""decayed""",http://www.wikidata.org/entity/Q141070415
+LIBSRC-LIB36-ENT-WRD-0101894,descriptive_identity,"""scientific terminology""",http://www.wikidata.org/entity/Q7101794
+LIBSRC-LIB36-ENT-WRD-0101943,descriptive_identity,"""music mood""",http://www.wikidata.org/entity/Q134353566
+LIBSRC-LIB36-ENT-WRD-0101950,descriptive_identity,"""linguistic term""",http://www.wikidata.org/entity/Q141440583
+LIBSRC-LIB36-ENT-WRD-0101950,descriptive_identity,"""geography term""",http://www.wikidata.org/entity/Q141440583
+LIBSRC-LIB36-ENT-WRD-0101794,descriptive_identity,"""general qualifier""",http://www.wikidata.org/entity/Q345367
+LIBSRC-LIB36-ENT-WRD-0101976,descriptive_identity,"""quality""",http://www.wikidata.org/entity/Q110434744
+LIBSRC-LIB36-ENT-WRD-0102008,descriptive_identity,"""evaluative quality""",http://www.wikidata.org/entity/Q117800727
+LIBSRC-LIB36-ENT-WRD-0101943,descriptive_identity,"""emotion""",http://www.wikidata.org/entity/Q134353566
+LIBSRC-LIB36-ENT-WRD-0101943,descriptive_identity,"""mood""",http://www.wikidata.org/entity/Q134353566
+LIBSRC-LIB36-ENT-WRD-0101950,descriptive_identity,"""common noun""",http://www.wikidata.org/entity/Q141440583
+LIBSRC-LIB36-ENT-WRD-0101950,descriptive_identity,"""general term""",http://www.wikidata.org/entity/Q141440583
+LIBSRC-LIB36-ENT-WRD-0102143,descriptive_identity,"""chemical substance""",http://www.wikidata.org/entity/Q911807
+LIBSRC-LIB36-ENT-WRD-0102261,descriptive_identity,"""purgative""",http://www.wikidata.org/entity/Q3774852
+LIBSRC-LIB36-ENT-WRD-0102261,descriptive_identity,"""gastrointestinal agent""",http://www.wikidata.org/entity/Q3774852
+LIBSRC-LIB36-ENT-WRD-0102056,descriptive_identity,"""temperature""",http://www.wikidata.org/entity/Q28128222
+LIBSRC-LIB36-ENT-WRD-0102056,descriptive_identity,"""increased object quality""",http://www.wikidata.org/entity/Q28128222
+LIBSRC-LIB36-ENT-WRD-0102286,descriptive_identity,"""control""",http://www.wikidata.org/entity/Q66380847
+LIBSRC-LIB36-ENT-WRD-0102150,descriptive_identity,"""temporal qualifier""",http://www.wikidata.org/entity/Q140047306
+LIBSRC-LIB36-ENT-WRD-0102073,descriptive_identity,"""quality-rated""",http://www.wikidata.org/entity/Q141103526
+LIBSRC-LIB36-ENT-WRD-0102181,descriptive_identity,"""food preparation technique""",http://www.wikidata.org/entity/Q181570
+LIBSRC-LIB36-ENT-WRD-0102056,descriptive_identity,"""thermoception""",http://www.wikidata.org/entity/Q28128222
+LIBSRC-LIB36-ENT-WRD-0102056,descriptive_identity,"""subjective assessment attribute""",http://www.wikidata.org/entity/Q28128222
+LIBSRC-LIB36-ENT-WRD-0102286,descriptive_identity,"""skill""",http://www.wikidata.org/entity/Q66380847
+LIBSRC-LIB36-ENT-WRD-0102299,descriptive_identity,"""condition""",http://www.wikidata.org/entity/Q140437600
+LIBSRC-LIB36-ENT-WRD-0102299,descriptive_identity,"""medical state""",http://www.wikidata.org/entity/Q140437600
+LIBSRC-LIB36-ENT-WRD-0102299,descriptive_identity,"""physiological condition""",http://www.wikidata.org/entity/Q140437600
+LIBSRC-LIB36-ENT-WRD-0102299,descriptive_identity,"""undesirable characteristic""",http://www.wikidata.org/entity/Q140437600
+LIBSRC-LIB36-ENT-WRD-0102073,descriptive_identity,"""quality""",http://www.wikidata.org/entity/Q141103526
+LIBSRC-LIB36-ENT-WRD-0102474,descriptive_identity,"""cliff""",http://www.wikidata.org/entity/Q12164721
+LIBSRC-LIB36-ENT-WRD-0102754,descriptive_identity,"""thermoception""",http://www.wikidata.org/entity/Q28128222
+LIBSRC-LIB36-ENT-WRD-0102754,descriptive_identity,"""subjective assessment attribute""",http://www.wikidata.org/entity/Q28128222
+LIBSRC-LIB36-ENT-WRD-0102897,descriptive_identity,"""JavaScript library""",http://www.wikidata.org/entity/Q116950846
+LIBSRC-LIB36-ENT-WRD-0102918,descriptive_identity,"""quality""",http://www.wikidata.org/entity/Q120124865
+LIBSRC-LIB36-ENT-WRD-0102722,descriptive_identity,"""convection""",http://www.wikidata.org/entity/Q752823
+LIBSRC-LIB36-ENT-WRD-0102722,descriptive_identity,"""vertical draft""",http://www.wikidata.org/entity/Q752823
+LIBSRC-LIB36-ENT-WRD-0102754,descriptive_identity,"""temperature""",http://www.wikidata.org/entity/Q28128222
+LIBSRC-LIB36-ENT-WRD-0102754,descriptive_identity,"""increased object quality""",http://www.wikidata.org/entity/Q28128222
+LIBSRC-LIB36-ENT-WRD-0103032,descriptive_identity,"""conservation state""",http://www.wikidata.org/entity/Q63065035
+LIBSRC-LIB36-ENT-WRD-0103032,descriptive_identity,"""use status""",http://www.wikidata.org/entity/Q63065035
+LIBSRC-LIB36-ENT-WRD-0103315,descriptive_identity,"""pale ale""",http://www.wikidata.org/entity/Q27201
+LIBSRC-LIB36-ENT-WRD-0103315,descriptive_identity,"""beer style""",http://www.wikidata.org/entity/Q27201
+LIBSRC-LIB36-ENT-WRD-0103544,descriptive_identity,"""property""",http://www.wikidata.org/entity/Q107998873
+LIBSRC-LIB36-ENT-WRD-0103524,descriptive_identity,"""deontic attribute""",http://www.wikidata.org/entity/Q140165752
+LIBSRC-LIB36-ENT-WRD-0103803,descriptive_identity,"""category of endangered species in the Red List of Endangered Species of the Czech Republic""",http://www.wikidata.org/entity/Q56660249
+LIBSRC-LIB36-ENT-WRD-0103662,descriptive_identity,"""grammatical gender""",http://www.wikidata.org/entity/Q133307294
+LIBSRC-LIB36-ENT-WRD-0103655,descriptive_identity,"""quality""",http://www.wikidata.org/entity/Q139753259
+LIBSRC-LIB36-ENT-WRD-0103669,descriptive_identity,"""disease outbreak""",http://www.wikidata.org/entity/Q1126331
+LIBSRC-LIB36-ENT-WRD-0103834,descriptive_identity,"""hardness""",http://www.wikidata.org/entity/Q12447463
+LIBSRC-LIB36-ENT-WRD-0103834,descriptive_identity,"""decreased object quality""",http://www.wikidata.org/entity/Q12447463
+LIBSRC-LIB36-ENT-WRD-0103769,descriptive_identity,"""time interval""",http://www.wikidata.org/entity/Q42884023
+LIBSRC-LIB36-ENT-WRD-0103779,descriptive_identity,"""anatomical coordinate""",http://www.wikidata.org/entity/Q66571840
+LIBSRC-LIB36-ENT-WRD-0104106,descriptive_identity,"""profession""",http://www.wikidata.org/entity/Q327029
+LIBSRC-LIB36-ENT-WRD-0104104,descriptive_identity,"""group of fictional characters""",http://www.wikidata.org/entity/Q6804478
+LIBSRC-LIB36-ENT-WRD-0104104,component_relationship,"""Robin Starveling""",http://www.wikidata.org/entity/Q6804478
+LIBSRC-LIB36-ENT-WRD-0104104,component_relationship,"""Nick Bottom""",http://www.wikidata.org/entity/Q6804478
+LIBSRC-LIB36-ENT-WRD-0104104,component_relationship,"""Tom Snout""",http://www.wikidata.org/entity/Q6804478
+LIBSRC-LIB36-ENT-WRD-0104104,component_relationship,"""Snug""",http://www.wikidata.org/entity/Q6804478
+LIBSRC-LIB36-ENT-WRD-0104104,component_relationship,"""Francis Flute""",http://www.wikidata.org/entity/Q6804478
+LIBSRC-LIB36-ENT-WRD-0104104,component_relationship,"""Peter Quince""",http://www.wikidata.org/entity/Q6804478
+LIBSRC-LIB36-ENT-WRD-0104035,descriptive_identity,"""gene""",http://www.wikidata.org/entity/Q29733508
+LIBSRC-LIB36-ENT-WRD-0103985,descriptive_identity,"""JavaScript library""",http://www.wikidata.org/entity/Q116950846
+LIBSRC-LIB36-ENT-WRD-0104106,descriptive_identity,"""skilled worker""",http://www.wikidata.org/entity/Q327029
+LIBSRC-LIB36-ENT-WRD-0104104,descriptive_identity,"""character in A Midsummer Night's Dream""",http://www.wikidata.org/entity/Q6804478
+LIBSRC-LIB36-ENT-WRD-0104181,descriptive_identity,"""intensity""",http://www.wikidata.org/entity/Q104156163
+LIBSRC-LIB36-ENT-WRD-0104272,descriptive_identity,"""material""",http://www.wikidata.org/entity/Q746634
+LIBSRC-LIB36-ENT-WRD-0104231,descriptive_identity,"""property""",http://www.wikidata.org/entity/Q3007602
+LIBSRC-LIB36-ENT-WRD-0104349,descriptive_identity,"""reproductive system""",http://www.wikidata.org/entity/Q66368485
+LIBSRC-LIB36-ENT-WRD-0104181,descriptive_identity,"""severity""",http://www.wikidata.org/entity/Q104156163
+LIBSRC-LIB36-ENT-WRD-0104487,descriptive_identity,"""political activist""",http://www.wikidata.org/entity/Q106399618
+LIBSRC-LIB36-ENT-WRD-0104485,descriptive_identity,"""region""",http://www.wikidata.org/entity/Q13780930
+LIBSRC-LIB36-ENT-WRD-0104487,descriptive_identity,"""political identity""",http://www.wikidata.org/entity/Q106399618
+LIBSRC-LIB36-ENT-WRD-0104540,descriptive_identity,"""JavaScript library""",http://www.wikidata.org/entity/Q116250495
+LIBSRC-LIB36-ENT-WRD-0104467,descriptive_identity,"""software""",http://www.wikidata.org/entity/Q126084966
+LIBSRC-LIB36-ENT-WRD-0104497,descriptive_identity,"""web series episode""",http://www.wikidata.org/entity/Q127161973
+LIBSRC-LIB36-ENT-WRD-0104674,descriptive_identity,"""achromatic color""",http://www.wikidata.org/entity/Q42519
+LIBSRC-LIB36-ENT-WRD-0104631,descriptive_identity,"""phenomenon""",http://www.wikidata.org/entity/Q332102
+LIBSRC-LIB36-ENT-WRD-0104685,descriptive_identity,"""proto-patient""",http://www.wikidata.org/entity/Q140395498
+LIBSRC-LIB36-ENT-WRD-0104674,descriptive_identity,"""web color""",http://www.wikidata.org/entity/Q42519
+LIBSRC-LIB36-ENT-WRD-0104674,descriptive_identity,"""HTML4 named color""",http://www.wikidata.org/entity/Q42519
+LIBSRC-LIB36-ENT-WRD-0104766,descriptive_identity,"""sports terminology""",http://www.wikidata.org/entity/Q3492688
+LIBSRC-LIB36-ENT-WRD-0104714,descriptive_identity,"""occupation""",http://www.wikidata.org/entity/Q105635772
+LIBSRC-LIB36-ENT-WRD-0104974,descriptive_identity,"""building""",http://www.wikidata.org/entity/Q3144435
+LIBSRC-LIB36-ENT-WRD-0104974,descriptive_identity,"""ancient Greek temple""",http://www.wikidata.org/entity/Q3144435
+LIBSRC-LIB36-ENT-WRD-0105150,descriptive_identity,"""goal""",http://www.wikidata.org/entity/Q140426441
