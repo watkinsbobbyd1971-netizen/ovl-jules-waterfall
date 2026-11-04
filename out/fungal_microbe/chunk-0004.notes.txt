@@ -1,0 +1,1 @@
+Queried Wikidata SPARQL API for taxon information. Extracted identity_label, taxon_authority, and scientific_identity (parents) for exact matches in batches.
