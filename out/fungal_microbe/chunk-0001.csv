@@ -1,0 +1,965 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-0016121,taxon_authority,"[""Oudem.""]",https://www.gbif.org/species/5512964
+LIBSRC-LIB50-ENT-BIO-0004051,taxon_authority,"[""(Dastager et al., 2009) Jang et al., 2013""]",https://www.gbif.org/species/7661060
+LIBSRC-LIB50-ENT-BIO-0028501,taxon_authority,"[""Li et al., 2004""]",https://www.gbif.org/species/3224663
+LIBSRC-LIB50-ENT-BIO-0017761,taxon_authority,"[""Kloos et al., 1974""]",https://www.gbif.org/species/9141356
+LIBSRC-LIB50-ENT-BIO-0015951,taxon_authority,"[""J.V.Almeida & Sousa da C\u00e2mara""]",https://www.gbif.org/species/5513631
+LIBSRC-LIB50-ENT-BIO-0016441,taxon_authority,"[""A""]",https://www.gbif.org/species/10879099
+LIBSRC-LIB50-ENT-BIO-0007201,taxon_authority,"[""A""]",https://www.gbif.org/species/10718823
+LIBSRC-LIB50-ENT-BIO-0028441,taxon_authority,"[""Phook., Jian K.Liu & K.D.Hyde""]",https://www.gbif.org/species/8324071
+LIBSRC-LIB50-ENT-BIO-0016231,taxon_authority,"[""Yan Li, Q.Wang & G.Z.Lu""]",https://www.gbif.org/species/5512485
+LIBSRC-LIB50-ENT-BIO-0017031,taxon_authority,"[""S.Ahmad""]",https://www.gbif.org/species/3542582
+LIBSRC-LIB50-ENT-BIO-0016111,taxon_authority,"[""Staritz""]",https://www.gbif.org/species/5512929
+LIBSRC-LIB50-ENT-BIO-0001881,taxon_authority,"[""Hongsanan & K.D.Hyde, 2015""]",https://www.gbif.org/species/8112775
+LIBSRC-LIB50-ENT-BIO-0020341,taxon_authority,"[""Ellis & Everh.""]",https://www.gbif.org/species/2614954
+LIBSRC-LIB50-ENT-BIO-0007671,taxon_authority,"[""Kim & Lee, 2011""]",https://www.gbif.org/species/11174590
+LIBSRC-LIB50-ENT-BIO-0012371,taxon_authority,"[""Petr.""]",https://www.gbif.org/species/3488383
+LIBSRC-LIB50-ENT-BIO-0020921,taxon_authority,"[""Syd.""]",https://www.gbif.org/species/8641973
+LIBSRC-LIB50-ENT-BIO-0001341,taxon_authority,"[""L.Su, W.Sun & M.C.Xiang""]",https://www.gbif.org/species/12205890
+LIBSRC-LIB50-ENT-BIO-0015181,taxon_authority,"[""L.A.Kantsch.""]",https://www.gbif.org/species/5513228
+LIBSRC-LIB50-ENT-BIO-0010531,taxon_authority,"[""Damm & S.Bien""]",https://www.gbif.org/species/10875751
+LIBSRC-LIB50-ENT-BIO-0022841,taxon_authority,"[""Valenz.-Lopez, Stchigel, Guarro & Cano""]",https://www.gbif.org/species/10764214
+LIBSRC-LIB50-ENT-BIO-0023391,taxon_authority,"[""(Magnus) Died.""]",https://www.gbif.org/species/2625883
+LIBSRC-LIB50-ENT-BIO-0020061,taxon_authority,"[""C.Massal.""]",https://www.gbif.org/species/3534188
+LIBSRC-LIB50-ENT-BIO-0016001,taxon_authority,"[""Gonz.Frag.""]",https://www.gbif.org/species/5513132
+LIBSRC-LIB50-ENT-BIO-0010781,taxon_authority,"[""R.Sprague & Rogerson""]",https://www.gbif.org/species/3485961
+LIBSRC-LIB50-ENT-BIO-0000731,taxon_authority,"[""Madhaiyan et al., 2010""]",https://www.gbif.org/species/8218593
+LIBSRC-LIB50-ENT-BIO-0015651,taxon_authority,"[""Speg.""]",https://www.gbif.org/species/5513100
+LIBSRC-LIB50-ENT-BIO-0020421,taxon_authority,"[""(Allesch.) Petr.""]",https://www.gbif.org/species/3534591
+LIBSRC-LIB50-ENT-BIO-0015521,taxon_authority,"[""S.M.Lin & P.K.Chi""]",https://www.gbif.org/species/5512565
+LIBSRC-LIB50-ENT-BIO-0015401,taxon_authority,"[""Gruyter""]",https://www.gbif.org/species/5262066
+LIBSRC-LIB50-ENT-BIO-0017101,taxon_authority,"[""Qian Chen, Crous & L.Cai""]",https://www.gbif.org/species/9701608
+LIBSRC-LIB50-ENT-BIO-0015551,taxon_authority,"[""Politis""]",https://www.gbif.org/species/5513432
+LIBSRC-LIB50-ENT-BIO-0019931,taxon_authority,"[""Alstrup & D.Hawksw.""]",https://www.gbif.org/species/3534491
+LIBSRC-LIB50-ENT-BIO-0028681,taxon_authority,"[""(Ellis & Everh.) Aa""]",https://www.gbif.org/species/5513875
+LIBSRC-LIB50-ENT-BIO-0019841,taxon_authority,"[""Golovin""]",https://www.gbif.org/species/3534698
+LIBSRC-LIB50-ENT-BIO-0017601,taxon_authority,"[""(Syd. & P.Syd.) Qian Chen & L.Cai""]",https://www.gbif.org/species/9650557
+LIBSRC-LIB50-ENT-BIO-0010521,taxon_authority,"[""Q.M.Wang, B.Q.Zhang & M.M.Wang""]",https://www.gbif.org/species/12221166
+LIBSRC-LIB50-ENT-BIO-0020231,taxon_authority,"[""Voglino""]",https://www.gbif.org/species/2615059
+LIBSRC-LIB50-ENT-BIO-0020011,taxon_authority,"[""Syd. & P.Syd.""]",https://www.gbif.org/species/3534118
+LIBSRC-LIB50-ENT-BIO-0012751,taxon_authority,"[""(Bukry & Bramlette, 1969) Loeblich & Tappan, 1978""]",https://www.gbif.org/species/6878946
+LIBSRC-LIB50-ENT-BIO-0016161,taxon_authority,"[""Speg.""]",https://www.gbif.org/species/5513845
+LIBSRC-LIB50-ENT-BIO-0014101,taxon_authority,"[""Graddon""]",https://www.gbif.org/species/2584742
+LIBSRC-LIB50-ENT-BIO-0013691,taxon_authority,"[""Nannf.""]",https://www.gbif.org/species/3491460
+LIBSRC-LIB50-ENT-BIO-0016281,taxon_authority,"[""(Hollande & Moreau) L.R.Fitzg.""]",https://www.gbif.org/species/5513105
+LIBSRC-LIB50-ENT-BIO-0001871,taxon_authority,"[""Chomnunti & K.D.Hyde""]",https://www.gbif.org/species/8047613
+LIBSRC-LIB50-ENT-BIO-0020201,taxon_authority,"[""Wanas., Camporesi, E.B.G.Jones & K.D.Hyde""]",https://www.gbif.org/species/10839769
+LIBSRC-LIB50-ENT-BIO-0019951,taxon_authority,"[""Oudem.""]",https://www.gbif.org/species/2615104
+LIBSRC-LIB50-ENT-BIO-0020021,taxon_authority,"[""S\u0103vul. & Sandu""]",https://www.gbif.org/species/3534291
+LIBSRC-LIB50-ENT-BIO-0008401,taxon_authority,"[""Kim et al., 2015""]",https://www.gbif.org/species/8735047
+LIBSRC-LIB50-ENT-BIO-0015251,taxon_authority,"[""Sacc.""]",https://www.gbif.org/species/5513732
+LIBSRC-LIB50-ENT-BIO-0019851,taxon_authority,"[""Kamal, R.P.Singh & P.Kumar""]",https://www.gbif.org/species/3533868
+LIBSRC-LIB50-ENT-BIO-0020171,taxon_authority,"[""Chevassut""]",https://www.gbif.org/species/3534550
+LIBSRC-LIB50-ENT-BIO-0010911,taxon_authority,"[""Davis""]",https://www.gbif.org/species/2585145
+LIBSRC-LIB50-ENT-BIO-0016921,taxon_authority,"[""Dearn. & Fairm.""]",https://www.gbif.org/species/3542688
+LIBSRC-LIB50-ENT-BIO-0016371,taxon_authority,"[""(E.M\u00fcll.) Qian Chen & L.Cai""]",https://www.gbif.org/species/9667284
+LIBSRC-LIB50-ENT-BIO-0017111,taxon_authority,"[""Sivan. & R.G.Shivas""]",https://www.gbif.org/species/3542644
+LIBSRC-LIB50-ENT-BIO-0008771,taxon_authority,"[""Lin et al., 2004""]",https://www.gbif.org/species/3225354
+LIBSRC-LIB50-ENT-BIO-0015501,taxon_authority,"[""Brunaud, 1887""]",https://www.gbif.org/species/5512073
+LIBSRC-LIB50-ENT-BIO-0007231,taxon_authority,"[""Lee et al., 2014""]",https://www.gbif.org/species/8273993
+LIBSRC-LIB50-ENT-BIO-0020991,taxon_authority,"[""(C.H.G.Pouchet) Cachon & Cachon-Enj. ex Loebl. & A.R.Loebl.""]",https://www.gbif.org/species/3207190
+LIBSRC-LIB50-ENT-BIO-0022941,taxon_authority,"[""Pavgi & U.P.Singh""]",https://www.gbif.org/species/2617199
+LIBSRC-LIB50-ENT-BIO-0028561,taxon_authority,"[""(I.Miyake) Phook., Jian K.Liu & K.D.Hyde""]",https://www.gbif.org/species/7379793
+LIBSRC-LIB50-ENT-BIO-0023021,taxon_authority,"[""(Kim et al., 2008) Busse, 2016""]",https://www.gbif.org/species/9539190
+LIBSRC-LIB50-ENT-BIO-0016181,taxon_authority,"[""Traverso & Spessa""]",https://www.gbif.org/species/5511764
+LIBSRC-LIB50-ENT-BIO-0015121,taxon_authority,"[""Sacc. & Penz., 1882""]",https://www.gbif.org/species/5513748
+LIBSRC-LIB50-ENT-BIO-0020261,taxon_authority,"[""Oudem.""]",https://www.gbif.org/species/2615122
+LIBSRC-LIB50-ENT-BIO-0013621,taxon_authority,"[""Petr.""]",https://www.gbif.org/species/3491413
+LIBSRC-LIB50-ENT-BIO-0019551,taxon_authority,"[""Zhou et al., 2009""]",https://www.gbif.org/species/7448633
+LIBSRC-LIB50-ENT-BIO-0018041,taxon_authority,"[""(Aveskamp, Gruyter & Verkley) Jayaward., Jayasiri & K.D.Hyde""]",https://www.gbif.org/species/10692430
+LIBSRC-LIB50-ENT-BIO-0015481,taxon_authority,"[""Lambotte & Fautrey, 1894""]",https://www.gbif.org/species/5513739
+LIBSRC-LIB50-ENT-BIO-0023171,taxon_authority,"[""Negru & Verona""]",https://www.gbif.org/species/3558221
+LIBSRC-LIB50-ENT-BIO-0015801,taxon_authority,"[""Died.""]",https://www.gbif.org/species/5262321
+LIBSRC-LIB50-ENT-BIO-0015781,taxon_authority,"[""Bub\u00e1k""]",https://www.gbif.org/species/5513773
+LIBSRC-LIB50-ENT-BIO-0015441,taxon_authority,"[""(Peck) M.J.Griffin & Boerema""]",https://www.gbif.org/species/5512662
+LIBSRC-LIB50-ENT-BIO-0007271,taxon_authority,"[""Kumari et al., 2013""]",https://www.gbif.org/species/7877199
+LIBSRC-LIB50-ENT-BIO-0028571,taxon_authority,"[""(Schulzer & Sacc.) Goid.""]",https://www.gbif.org/species/3307573
+LIBSRC-LIB50-ENT-BIO-0007261,taxon_authority,"[""Kim et al., 2008""]",https://www.gbif.org/species/7766064
+LIBSRC-LIB50-ENT-BIO-0010881,taxon_authority,"[""Ibrah.""]",https://www.gbif.org/species/3486166
+LIBSRC-LIB50-ENT-BIO-0015691,taxon_authority,"[""Chona & Munjal""]",https://www.gbif.org/species/5511842
+LIBSRC-LIB50-ENT-BIO-0007761,taxon_authority,"[""Martin et al., 2010""]",https://www.gbif.org/species/7630936
+LIBSRC-LIB50-ENT-BIO-0015981,taxon_authority,"[""Bres.""]",https://www.gbif.org/species/5513097
+LIBSRC-LIB50-ENT-BIO-0015911,taxon_authority,"[""M.Petrov""]",https://www.gbif.org/species/5512021
+LIBSRC-LIB50-ENT-BIO-0015211,taxon_authority,"[""Sacc.""]",https://www.gbif.org/species/5512917
+LIBSRC-LIB50-ENT-BIO-0016151,taxon_authority,"[""Jamaluddin, M.P.Tandon & Tandon""]",https://www.gbif.org/species/5513004
+LIBSRC-LIB50-ENT-BIO-0022991,taxon_authority,"[""Henn.""]",https://www.gbif.org/species/3530506
+LIBSRC-LIB50-ENT-BIO-0020041,taxon_authority,"[""Berl. & Voglino""]",https://www.gbif.org/species/3534800
+LIBSRC-LIB50-ENT-BIO-0026821,taxon_authority,"[""Tilak, S.B.Kale & S.V.S.Kale""]",https://www.gbif.org/species/3499380
+LIBSRC-LIB50-ENT-BIO-0016091,taxon_authority,"[""Allescher""]",https://www.gbif.org/species/5513095
+LIBSRC-LIB50-ENT-BIO-0017041,taxon_authority,"[""L.W.Hou, L.Cai & Crous""]",https://www.gbif.org/species/12238334
+LIBSRC-LIB50-ENT-BIO-0015901,taxon_authority,"[""P.Syd.""]",https://www.gbif.org/species/5262080
+LIBSRC-LIB50-ENT-BIO-0020121,taxon_authority,"[""Speg.""]",https://www.gbif.org/species/3534822
+LIBSRC-LIB50-ENT-BIO-0017121,taxon_authority,"[""Petr.""]",https://www.gbif.org/species/3542728
+LIBSRC-LIB50-ENT-BIO-0019921,taxon_authority,"[""(Byzova) Punith.""]",https://www.gbif.org/species/3534496
+LIBSRC-LIB50-ENT-BIO-0019711,taxon_authority,"[""Bub\u00e1k & Dearn.""]",https://www.gbif.org/species/3534465
+LIBSRC-LIB50-ENT-BIO-0010761,taxon_authority,"[""(Hudson) Carmichael""]",https://www.gbif.org/species/2666868
+LIBSRC-LIB50-ENT-BIO-0016841,taxon_authority,"[""Henn.""]",https://www.gbif.org/species/5500936
+LIBSRC-LIB50-ENT-BIO-0026941,taxon_authority,"[""(Speg.) Sacc. & P.Syd.""]",https://www.gbif.org/species/3499357
+LIBSRC-LIB50-ENT-BIO-0028611,taxon_authority,"[""Berndt""]",https://www.gbif.org/species/7936430
+LIBSRC-LIB50-ENT-BIO-0023381,taxon_authority,"[""Kobayasi""]",https://www.gbif.org/species/2524097
+LIBSRC-LIB50-ENT-BIO-0004251,taxon_authority,"[""Kim et al., 2014""]",https://www.gbif.org/species/7596477
+LIBSRC-LIB50-ENT-BIO-0002091,taxon_authority,"[""Zgurskaya et al., 1992""]",https://www.gbif.org/species/9028690
+LIBSRC-LIB50-ENT-BIO-0001751,taxon_authority,"[""Cook et al., 2008""]",https://www.gbif.org/species/8089918
+LIBSRC-LIB50-ENT-BIO-0007741,taxon_authority,"[""Shin et al., 2011""]",https://www.gbif.org/species/7557584
+LIBSRC-LIB50-ENT-BIO-0006041,taxon_authority,"[""Kim & Lee, 2011""]",https://www.gbif.org/species/8416030
+LIBSRC-LIB50-ENT-BIO-0004011,taxon_authority,"[""Jang et al., 2013""]",https://www.gbif.org/species/8109806
+LIBSRC-LIB50-ENT-BIO-0001771,taxon_authority,"[""Shen et al., 2013""]",https://www.gbif.org/species/7859145
+LIBSRC-LIB50-ENT-BIO-0008481,taxon_authority,"[""Kim et al., 2012""]",https://www.gbif.org/species/7750468
+LIBSRC-LIB50-ENT-BIO-0007021,taxon_authority,"[""Wang et al., 2015""]",https://www.gbif.org/species/8799214
+LIBSRC-LIB50-ENT-BIO-0007241,taxon_authority,"[""Young et al., 2010""]",https://www.gbif.org/species/7511247
+LIBSRC-LIB50-ENT-BIO-0001841,taxon_authority,"[""Groth et al., 1996""]",https://www.gbif.org/species/3225294
+LIBSRC-LIB50-ENT-BIO-0007841,taxon_authority,"[""Sheridan et al., 2003""]",https://www.gbif.org/species/3225344
+LIBSRC-LIB50-ENT-BIO-0002101,taxon_authority,"[""Dorofeeva et al., 2003""]",https://www.gbif.org/species/3225285
+LIBSRC-LIB50-ENT-BIO-0007861,taxon_authority,"[""(Reddy et al., 2003) An et al., 2011""]",https://www.gbif.org/species/8137077
+LIBSRC-LIB50-ENT-BIO-0007721,taxon_authority,"[""Zhu et al., 2016""]",https://www.gbif.org/species/9023274
+LIBSRC-LIB50-ENT-BIO-0006811,taxon_authority,"[""Dorofeeva et al., 2002""]",https://www.gbif.org/species/3225252
+LIBSRC-LIB50-ENT-BIO-0008511,taxon_authority,"[""(Kim et al., 2008) Kim et al., 2012""]",https://www.gbif.org/species/8264039
+LIBSRC-LIB50-ENT-BIO-0001041,taxon_authority,"[""Behrendt et al., 2011""]",https://www.gbif.org/species/7536560
+LIBSRC-LIB50-ENT-BIO-0002131,taxon_authority,"[""Huang et al., 2016""]",https://www.gbif.org/species/8756878
+LIBSRC-LIB50-ENT-BIO-0007311,taxon_authority,"[""M\u00e4nnist\u00f6 et al., 2000""]",https://www.gbif.org/species/3225313
+LIBSRC-LIB50-ENT-BIO-0042531,taxon_authority,"[""A""]",https://www.gbif.org/species/9576003
+LIBSRC-LIB50-ENT-BIO-0031931,taxon_authority,"[""Sugie & Ko.Suzuki, 2015""]",https://www.gbif.org/species/8288886
+LIBSRC-LIB50-ENT-BIO-0058561,taxon_authority,"[""Temp\u00e8re & Peragallo, 1909""]",https://www.gbif.org/species/9621483
+LIBSRC-LIB50-ENT-BIO-0059041,taxon_authority,"[""Kling, 1996""]",https://www.gbif.org/species/3193254
+LIBSRC-LIB50-ENT-BIO-0058671,taxon_authority,"[""Hohn & Hellerman, 1963""]",https://www.gbif.org/species/3193178
+LIBSRC-LIB50-ENT-BIO-0032271,taxon_authority,"[""Hustedt, 1958""]",https://www.gbif.org/species/7771962
+LIBSRC-LIB50-ENT-BIO-0058451,taxon_authority,"[""Cleve-Euler, 1951""]",https://www.gbif.org/species/9517466
+LIBSRC-LIB50-ENT-BIO-0059001,taxon_authority,"[""Ehrlich & Manguin, 1970""]",https://www.gbif.org/species/9268764
+LIBSRC-LIB50-ENT-BIO-0059021,taxon_authority,"[""Pantocsek, 1886""]",https://www.gbif.org/species/7517897
+LIBSRC-LIB50-ENT-BIO-0058601,taxon_authority,"[""Schmidt, 1900""]",https://www.gbif.org/species/9619335
+LIBSRC-LIB50-ENT-BIO-0058911,taxon_authority,"[""Lupikina & Ozornina, 1991""]",https://www.gbif.org/species/9547671
+LIBSRC-LIB50-ENT-BIO-0058461,taxon_authority,"[""Pantocsek, 1912""]",https://www.gbif.org/species/9255658
+LIBSRC-LIB50-ENT-BIO-0035231,taxon_authority,"[""A.H.Sm. & Hesler""]",https://www.gbif.org/species/7243168
+LIBSRC-LIB50-ENT-BIO-0060041,taxon_authority,"[""(Syd.) M.L.Farr""]",https://www.gbif.org/species/3527061
+LIBSRC-LIB50-ENT-BIO-0044621,taxon_authority,"[""N.I.de Silva, Lumyong & K.D.Hyde""]",https://www.gbif.org/species/12209061
+LIBSRC-LIB50-ENT-BIO-0058321,taxon_authority,"[""Vi\u00e9gas""]",https://www.gbif.org/species/3527084
+LIBSRC-LIB50-ENT-BIO-0051571,taxon_authority,"[""Petch""]",https://www.gbif.org/species/3443433
+LIBSRC-LIB50-ENT-BIO-0060451,taxon_authority,"[""Hemmi""]",https://www.gbif.org/species/3283260
+LIBSRC-LIB50-ENT-BIO-0031241,taxon_authority,"[""(Huijsman) Noordel.""]",https://www.gbif.org/species/5955304
+LIBSRC-LIB50-ENT-BIO-0055841,taxon_authority,"[""Nyl.""]",https://www.gbif.org/species/5474206
+LIBSRC-LIB50-ENT-BIO-0036611,taxon_authority,"[""Henn.""]",https://www.gbif.org/species/5453380
+LIBSRC-LIB50-ENT-BIO-0060431,taxon_authority,"[""Syd. & P.Syd.""]",https://www.gbif.org/species/3289313
+LIBSRC-LIB50-ENT-BIO-0035291,taxon_authority,"[""(Berk.) Pegler""]",https://www.gbif.org/species/3343733
+LIBSRC-LIB50-ENT-BIO-0034441,taxon_authority,"[""Ferd. & Winge""]",https://www.gbif.org/species/3339876
+LIBSRC-LIB50-ENT-BIO-0039511,taxon_authority,"[""(Massee) Kreisel""]",https://www.gbif.org/species/3333299
+LIBSRC-LIB50-ENT-BIO-0042401,taxon_authority,"[""Henn.""]",https://www.gbif.org/species/3443545
+LIBSRC-LIB50-ENT-BIO-0060531,taxon_authority,"[""Gonz.Frag. & Cif.""]",https://www.gbif.org/species/3278276
+LIBSRC-LIB50-ENT-BIO-0055961,taxon_authority,"[""(V\u0115zda & Malcolm) Malcolm""]",https://www.gbif.org/species/5474182
+LIBSRC-LIB50-ENT-BIO-0060381,taxon_authority,"[""C.C.Chen""]",https://www.gbif.org/species/3300450
+LIBSRC-LIB50-ENT-BIO-0036441,taxon_authority,"[""Lloyd""]",https://www.gbif.org/species/5453713
+LIBSRC-LIB50-ENT-BIO-0032971,taxon_authority,"[""Qu\u00e9l.""]",https://www.gbif.org/species/2533475
+LIBSRC-LIB50-ENT-BIO-0060331,taxon_authority,"[""Fiore""]",https://www.gbif.org/species/3297929
+LIBSRC-LIB50-ENT-BIO-0059891,taxon_authority,"[""(De Not.) Sch\u00fcepp""]",https://www.gbif.org/species/8425866
+LIBSRC-LIB50-ENT-BIO-0035071,taxon_authority,"[""A.H.Sm. & Hesler""]",https://www.gbif.org/species/3344256
+LIBSRC-LIB50-ENT-BIO-0036621,taxon_authority,"[""Bottomley""]",https://www.gbif.org/species/5453569
+LIBSRC-LIB50-ENT-BIO-0031661,taxon_authority,"[""(Murrill) Singer""]",https://www.gbif.org/species/3344365
+LIBSRC-LIB50-ENT-BIO-0055671,taxon_authority,"[""(V\u0115zda & Farkas) L\u00fccking & Kalb""]",https://www.gbif.org/species/5474303
+LIBSRC-LIB50-ENT-BIO-0036521,taxon_authority,"[""Jeppson, E.Larss. & M.P.Mart\u00edn""]",https://www.gbif.org/species/7739526
+LIBSRC-LIB50-ENT-BIO-0039421,taxon_authority,"[""Grgur.""]",https://www.gbif.org/species/3333327
+LIBSRC-LIB50-ENT-BIO-0034391,taxon_authority,"[""R.J.Ferreira, R.L.Oliveira, B.D.B.Silva, M.P.Mart\u00edn & Baseia""]",https://www.gbif.org/species/10788875
+LIBSRC-LIB50-ENT-BIO-0058491,taxon_authority,"[""Desm.""]",https://www.gbif.org/species/5256532
+LIBSRC-LIB50-ENT-BIO-0042521,taxon_authority,"[""Nishihara et al., 1991""]",https://www.gbif.org/species/3222994
+LIBSRC-LIB50-ENT-BIO-0058001,taxon_authority,"[""M.E.Barr & Rogerson""]",https://www.gbif.org/species/3300120
+LIBSRC-LIB50-ENT-BIO-0058331,taxon_authority,"[""Petr.""]",https://www.gbif.org/species/5265463
+LIBSRC-LIB50-ENT-BIO-0059261,taxon_authority,"[""(E.M\u00fcll.) M.E.Barr""]",https://www.gbif.org/species/3300349
+LIBSRC-LIB50-ENT-BIO-0059901,taxon_authority,"[""Syd.""]",https://www.gbif.org/species/5265449
+LIBSRC-LIB50-ENT-BIO-0059441,taxon_authority,"[""D\u00f6bbeler & Poelt""]",https://www.gbif.org/species/2625185
+LIBSRC-LIB50-ENT-BIO-0058351,taxon_authority,"[""(Henn.) M.L.Farr""]",https://www.gbif.org/species/3527086
+LIBSRC-LIB50-ENT-BIO-0060311,taxon_authority,"[""(Nees) D\u00f6bbeler""]",https://www.gbif.org/species/5265459
+LIBSRC-LIB50-ENT-BIO-0058341,taxon_authority,"[""(Hansf.) Arx""]",https://www.gbif.org/species/3527082
+LIBSRC-LIB50-ENT-BIO-0060051,taxon_authority,"[""(F.Stevens) Toro""]",https://www.gbif.org/species/3527069
+LIBSRC-LIB50-ENT-BIO-0058011,taxon_authority,"[""Essl.""]",https://www.gbif.org/species/2626632
+LIBSRC-LIB50-ENT-BIO-0057981,taxon_authority,"[""S.Y.Lee, L.N.Ten & H.Y.Jung""]",https://www.gbif.org/species/12216036
+LIBSRC-LIB50-ENT-BIO-0039451,taxon_authority,"[""Rebriev & I.A.Gorbunova""]",https://www.gbif.org/species/9742205
+LIBSRC-LIB50-ENT-BIO-0039381,taxon_authority,"[""Speg.""]",https://www.gbif.org/species/3333379
+LIBSRC-LIB50-ENT-BIO-0039461,taxon_authority,"[""Philim. & Schwarzman""]",https://www.gbif.org/species/3333257
+LIBSRC-LIB50-ENT-BIO-0034491,taxon_authority,"[""(Cooke & Massee) R.T.Baker""]",https://www.gbif.org/species/3339862
+LIBSRC-LIB50-ENT-BIO-0039361,taxon_authority,"[""Schwalb""]",https://www.gbif.org/species/3333296
+LIBSRC-LIB50-ENT-BIO-0036531,taxon_authority,"[""Sacc. & P.Syd.""]",https://www.gbif.org/species/5453449
+LIBSRC-LIB50-ENT-BIO-0036541,taxon_authority,"[""Pers.""]",https://www.gbif.org/species/5243223
+LIBSRC-LIB50-ENT-BIO-0036551,taxon_authority,"[""Holl\u00f3s""]",https://www.gbif.org/species/7599159
+LIBSRC-LIB50-ENT-BIO-0036511,taxon_authority,"[""Velen.""]",https://www.gbif.org/species/5453390
+LIBSRC-LIB50-ENT-BIO-0036651,taxon_authority,"[""Bres.""]",https://www.gbif.org/species/5453455
+LIBSRC-LIB50-ENT-BIO-0032671,taxon_authority,"[""(Bres. & Pat.) P.Ponce de Le\u00f3n""]",https://www.gbif.org/species/5242935
+LIBSRC-LIB50-ENT-BIO-0036671,taxon_authority,"[""Scop.""]",https://www.gbif.org/species/5242966
+LIBSRC-LIB50-ENT-BIO-0030481,taxon_authority,"[""A.H.Sm.""]",https://www.gbif.org/species/5454106
+LIBSRC-LIB50-ENT-BIO-0034361,taxon_authority,"[""(Bosc) Morgan""]",https://www.gbif.org/species/2536054
+LIBSRC-LIB50-ENT-BIO-0039341,taxon_authority,"[""G.Cunn.""]",https://www.gbif.org/species/3333324
+LIBSRC-LIB50-ENT-BIO-0036641,taxon_authority,"[""Bonord.""]",https://www.gbif.org/species/5243278
+LIBSRC-LIB50-ENT-BIO-0037191,taxon_authority,"[""Pat.""]",https://www.gbif.org/species/3339756
+LIBSRC-LIB50-ENT-BIO-0039471,taxon_authority,"[""Rebriev""]",https://www.gbif.org/species/9652669
+LIBSRC-LIB50-ENT-BIO-0036571,taxon_authority,"[""Kreisel""]",https://www.gbif.org/species/5453654
+LIBSRC-LIB50-ENT-BIO-0036471,taxon_authority,"[""(Speg.) Herter""]",https://www.gbif.org/species/5453616
+LIBSRC-LIB50-ENT-BIO-0034451,taxon_authority,"[""Grgur.""]",https://www.gbif.org/species/3339882
+LIBSRC-LIB50-ENT-BIO-0039481,taxon_authority,"[""Berk.""]",https://www.gbif.org/species/2535208
+LIBSRC-LIB50-ENT-BIO-0055551,taxon_authority,"[""Dulym., Sivan., P.F.Cannon & Peerally""]",https://www.gbif.org/species/3304460
+LIBSRC-LIB50-ENT-BIO-0053671,taxon_authority,"[""(Preuss) S.Hughes""]",https://www.gbif.org/species/3443528
+LIBSRC-LIB50-ENT-BIO-0050941,taxon_authority,"[""(Tibpromma & K.D.Hyde) W.J.Li & K.D.Hyde""]",https://www.gbif.org/species/12230106
+LIBSRC-LIB50-ENT-BIO-0044581,taxon_authority,"[""M.Raza & L.Cai""]",https://www.gbif.org/species/12181747
+LIBSRC-LIB50-ENT-BIO-0053651,taxon_authority,"[""Schaumann""]",https://www.gbif.org/species/3443469
+LIBSRC-LIB50-ENT-BIO-0044611,taxon_authority,"[""Tennakoon, C.H.Kuo & K.D.Hyde""]",https://www.gbif.org/species/12254455
+LIBSRC-LIB50-ENT-BIO-0053661,taxon_authority,"[""Sawada""]",https://www.gbif.org/species/3443505
+LIBSRC-LIB50-ENT-BIO-0053701,taxon_authority,"[""(Berk.) Sacc.""]",https://www.gbif.org/species/7797645
+LIBSRC-LIB50-ENT-BIO-0050911,taxon_authority,"[""Allegr., El\u00edades & Aramb.""]",https://www.gbif.org/species/8126341
+LIBSRC-LIB50-ENT-BIO-0059251,taxon_authority,"[""(Tuck ex Nyl.) Hafellner & Bellem.""]",https://www.gbif.org/species/2608855
+LIBSRC-LIB50-ENT-BIO-0042051,taxon_authority,"[""(Brunnth.) Wacklin, L.Hoffm. & Kom\u00e1rek""]",https://www.gbif.org/species/8309180
+LIBSRC-LIB50-ENT-BIO-0060011,taxon_authority,"[""A.Agostini""]",https://www.gbif.org/species/6335248
+LIBSRC-LIB50-ENT-BIO-0035091,taxon_authority,"[""A.H.Sm. & Hesler""]",https://www.gbif.org/species/3343925
+LIBSRC-LIB50-ENT-BIO-0058531,taxon_authority,"[""Sch\u00fctt, 1899""]",https://www.gbif.org/species/3193219
+LIBSRC-LIB50-ENT-BIO-0035331,taxon_authority,"[""(Murrill) A.H.Sm. & Hesler""]",https://www.gbif.org/species/3343971
+LIBSRC-LIB50-ENT-BIO-0060591,taxon_authority,"[""Speg.""]",https://www.gbif.org/species/3291690
+LIBSRC-LIB50-ENT-BIO-0034481,taxon_authority,"[""A.H.Sm.""]",https://www.gbif.org/species/3339856
+LIBSRC-LIB50-ENT-BIO-0055971,taxon_authority,"[""(Rehm) Kalb & L\u00fccking""]",https://www.gbif.org/species/5474305
+LIBSRC-LIB50-ENT-BIO-0057991,taxon_authority,"[""Udagawa & Uchiy.""]",https://www.gbif.org/species/3545388
+LIBSRC-LIB50-ENT-BIO-0036501,taxon_authority,"[""Lloyd""]",https://www.gbif.org/species/5453666
+LIBSRC-LIB50-ENT-BIO-0036661,taxon_authority,"[""Lloyd""]",https://www.gbif.org/species/5453599
+LIBSRC-LIB50-ENT-BIO-0058551,taxon_authority,"[""I.Hino & Katum.""]",https://www.gbif.org/species/5496382
+LIBSRC-LIB50-ENT-BIO-0058951,taxon_authority,"[""Tynni, 1994""]",https://www.gbif.org/species/9463858
+LIBSRC-LIB50-ENT-BIO-0035191,taxon_authority,"[""Bon & P.Roux, 2003""]",https://www.gbif.org/species/10822248
+LIBSRC-LIB50-ENT-BIO-0060671,taxon_authority,"[""H.C.Greene""]",https://www.gbif.org/species/3283229
+LIBSRC-LIB50-ENT-BIO-0049761,taxon_authority,"[""(Strasb.) Kom\u00e1rek & Anagn.""]",https://www.gbif.org/species/5427185
+LIBSRC-LIB50-ENT-BIO-0034951,taxon_authority,"[""A.H.Sm. & Hesler""]",https://www.gbif.org/species/3343965
+LIBSRC-LIB50-ENT-BIO-0032931,taxon_authority,"[""(Leonardi, 1953) ""]",https://www.gbif.org/species/9259182
+LIBSRC-LIB50-ENT-BIO-0035171,taxon_authority,"[""A.H.Sm. & Hesler""]",https://www.gbif.org/species/3343799
+LIBSRC-LIB50-ENT-BIO-0060401,taxon_authority,"[""(Karsten) F.G\u00f3mez""]",https://www.gbif.org/species/7568668
+LIBSRC-LIB50-ENT-BIO-0031791,taxon_authority,"[""(Lasch) Singer""]",https://www.gbif.org/species/3344403
+LIBSRC-LIB50-ENT-BIO-0060631,taxon_authority,"[""Sawada""]",https://www.gbif.org/species/3283132
+LIBSRC-LIB50-ENT-BIO-0055771,taxon_authority,"[""Michlig & L.I.Ferraro""]",https://www.gbif.org/species/10815712
+LIBSRC-LIB50-ENT-BIO-0051491,taxon_authority,"[""Massee""]",https://www.gbif.org/species/3443439
+LIBSRC-LIB50-ENT-BIO-0060441,taxon_authority,"[""Speg.""]",https://www.gbif.org/species/3272658
+LIBSRC-LIB50-ENT-BIO-0031751,taxon_authority,"[""(Berk. ex Cooke) E.Horak""]",https://www.gbif.org/species/3344334
+LIBSRC-LIB50-ENT-BIO-0035021,taxon_authority,"[""Niveiro, Popoff & Albert\u00f3""]",https://www.gbif.org/species/8232800
+LIBSRC-LIB50-ENT-BIO-0051591,taxon_authority,"[""(Curr.) Sacc.""]",https://www.gbif.org/species/2569691
+LIBSRC-LIB50-ENT-BIO-0030731,taxon_authority,"[""Krasser, 1918""]",https://www.gbif.org/species/11178739
+LIBSRC-LIB50-ENT-BIO-0059051,taxon_authority,"[""Mukhina, 1978""]",https://www.gbif.org/species/3193281
+LIBSRC-LIB50-ENT-BIO-0035321,taxon_authority,"[""(Berk. & M.A.Curtis) A.H.Sm. & Hesler""]",https://www.gbif.org/species/7243158
+LIBSRC-LIB50-ENT-BIO-0051671,taxon_authority,"[""(G.S.West) Wo\u0142osz. & V.V.Mill.""]",https://www.gbif.org/species/3219364
+LIBSRC-LIB50-ENT-BIO-0039411,taxon_authority,"[""Kreisel & Hauskn.""]",https://www.gbif.org/species/3333374
+LIBSRC-LIB50-ENT-BIO-0039391,taxon_authority,"[""Massee""]",https://www.gbif.org/species/8084650
+LIBSRC-LIB50-ENT-BIO-0055851,taxon_authority,"[""Rivas Plata, L\u00fccking & Lizano""]",https://www.gbif.org/species/5474199
+LIBSRC-LIB50-ENT-BIO-0035031,taxon_authority,"[""A.H.Sm. & Hesler""]",https://www.gbif.org/species/3343847
+LIBSRC-LIB50-ENT-BIO-0058621,taxon_authority,"[""Laugaste & Genkal, 1985""]",https://www.gbif.org/species/9372724
+LIBSRC-LIB50-ENT-BIO-0031741,taxon_authority,"[""M.M.Moser & E.Horak""]",https://www.gbif.org/species/8276913
+LIBSRC-LIB50-ENT-BIO-0058441,taxon_authority,"[""(Siemaszko) Clem. & Shear""]",https://www.gbif.org/species/8011986
+LIBSRC-LIB50-ENT-BIO-0055951,taxon_authority,"[""(Dicks.) Kalb & L\u00fccking""]",https://www.gbif.org/species/5261103
+LIBSRC-LIB50-ENT-BIO-0036681,taxon_authority,"[""Har. & Pat.""]",https://www.gbif.org/species/5453761
+LIBSRC-LIB50-ENT-BIO-0031221,taxon_authority,"[""(Guzm\u00e1n & E.Horak) J.A.Cooper""]",https://www.gbif.org/species/7852109
+LIBSRC-LIB50-ENT-BIO-0037241,taxon_authority,"[""(Moug. ex Fr.) Poit.""]",https://www.gbif.org/species/2513294
+LIBSRC-LIB50-ENT-BIO-0035041,taxon_authority,"[""Goeppert, 1853""]",https://www.gbif.org/species/11119377
+LIBSRC-LIB50-ENT-BIO-0032631,taxon_authority,"[""Weyland & Greifeld, 1953""]",https://www.gbif.org/species/11132504
+LIBSRC-LIB50-ENT-BIO-0036701,taxon_authority,"[""(Zeller) Jeppson & E.Larss.""]",https://www.gbif.org/species/7522716
+LIBSRC-LIB50-ENT-BIO-0060411,taxon_authority,"[""Elisei""]",https://www.gbif.org/species/3289112
+LIBSRC-LIB50-ENT-BIO-0032221,taxon_authority,"[""Hasle, 1999""]",https://www.gbif.org/species/7463923
+LIBSRC-LIB50-ENT-BIO-0060621,taxon_authority,"[""Osterw.""]",https://www.gbif.org/species/2580731
+LIBSRC-LIB50-ENT-BIO-0058611,taxon_authority,"[""L.W.Bailey, 1861""]",https://www.gbif.org/species/9495852
+LIBSRC-LIB50-ENT-BIO-0055901,taxon_authority,"[""Papong, Boonpr. & L\u00fccking""]",https://www.gbif.org/species/5474296
+LIBSRC-LIB50-ENT-BIO-0060361,taxon_authority,"[""Woron.""]",https://www.gbif.org/species/3279956
+LIBSRC-LIB50-ENT-BIO-0033881,taxon_authority,"[""Feistmantel, 1877""]",https://www.gbif.org/species/11927864
+LIBSRC-LIB50-ENT-BIO-0035101,taxon_authority,"[""Speg.""]",https://www.gbif.org/species/2534137
+LIBSRC-LIB50-ENT-BIO-0032941,taxon_authority,"[""(Sacc.) Singer""]",https://www.gbif.org/species/2533293
+LIBSRC-LIB50-ENT-BIO-0040591,taxon_authority,"[""Feldmann, 1954""]",https://www.gbif.org/species/7628080
+LIBSRC-LIB50-ENT-BIO-0031801,taxon_authority,"[""(Qu\u00e9l.) R\u00e9my""]",https://www.gbif.org/species/8345539
+LIBSRC-LIB50-ENT-BIO-0033051,taxon_authority,"[""(Fr.) Qu\u00e9l.""]",https://www.gbif.org/species/2533417
+LIBSRC-LIB50-ENT-BIO-0036591,taxon_authority,"[""M.Zang & M.S.Yuan""]",https://www.gbif.org/species/5453401
+LIBSRC-LIB50-ENT-BIO-0060491,taxon_authority,"[""Dearn.""]",https://www.gbif.org/species/3296661
+LIBSRC-LIB50-ENT-BIO-0036561,taxon_authority,"[""Velen.""]",https://www.gbif.org/species/5453362
+LIBSRC-LIB50-ENT-BIO-0059321,taxon_authority,"[""Peck""]",https://www.gbif.org/species/3490180
+LIBSRC-LIB50-ENT-BIO-0031701,taxon_authority,"[""Nauta""]",https://www.gbif.org/species/3344342
+LIBSRC-LIB50-ENT-BIO-0060681,taxon_authority,"[""Speg.""]",https://www.gbif.org/species/3271324
+LIBSRC-LIB50-ENT-BIO-0035061,taxon_authority,"[""Murrill""]",https://www.gbif.org/species/3344275
+LIBSRC-LIB50-ENT-BIO-0035151,taxon_authority,"[""A.H.Sm. & Hesler""]",https://www.gbif.org/species/3343863
+LIBSRC-LIB50-ENT-BIO-0039401,taxon_authority,"[""Cooke & Massee""]",https://www.gbif.org/species/3333282
+LIBSRC-LIB50-ENT-BIO-0058311,taxon_authority,"[""Butin & Speer""]",https://www.gbif.org/species/3527093
+LIBSRC-LIB50-ENT-BIO-0058021,taxon_authority,"[""M.Calduch, Gen\u00e9 & Guarro""]",https://www.gbif.org/species/3545405
+LIBSRC-LIB50-ENT-BIO-0057931,taxon_authority,"[""Alberti, 1961""]",https://www.gbif.org/species/8082554
+LIBSRC-LIB50-ENT-BIO-0033951,taxon_authority,"[""A.J.K.Millar, 1998""]",https://www.gbif.org/species/2663458
+LIBSRC-LIB50-ENT-BIO-0035871,taxon_authority,"[""(Hollenb.) C.F.Chang & B.M.Xia""]",https://www.gbif.org/species/2663793
+LIBSRC-LIB50-ENT-BIO-0034001,taxon_authority,"[""Harv.""]",https://www.gbif.org/species/2663421
+LIBSRC-LIB50-ENT-BIO-0058731,taxon_authority,"[""Mukhina, 1978""]",https://www.gbif.org/species/9434784
+LIBSRC-LIB50-ENT-BIO-0058641,taxon_authority,"[""Devlin, 1983""]",https://www.gbif.org/species/9322227
+LIBSRC-LIB50-ENT-BIO-0058971,taxon_authority,"[""Skabichevskaya, 1984""]",https://www.gbif.org/species/9421067
+LIBSRC-LIB50-ENT-BIO-0058541,taxon_authority,"[""H.Tanaka & H.Kobayasi, 1996""]",https://www.gbif.org/species/9502009
+LIBSRC-LIB50-ENT-BIO-0058691,taxon_authority,"[""Grunow, 1882""]",https://www.gbif.org/species/9326286
+LIBSRC-LIB50-ENT-BIO-0059031,taxon_authority,"[""Pantocsek ex Thum Slides""]",https://www.gbif.org/species/9312209
+LIBSRC-LIB50-ENT-BIO-0058981,taxon_authority,"[""Khursevich & Loginova, 1990""]",https://www.gbif.org/species/9623123
+LIBSRC-LIB50-ENT-BIO-0058591,taxon_authority,"[""Mann, 1907""]",https://www.gbif.org/species/8850096
+LIBSRC-LIB50-ENT-BIO-0058631,taxon_authority,"[""Eulenstein, 1874""]",https://www.gbif.org/species/9497841
+LIBSRC-LIB50-ENT-BIO-0059011,taxon_authority,"[""Fricke, 1902""]",https://www.gbif.org/species/3193274
+LIBSRC-LIB50-ENT-BIO-0058471,taxon_authority,"[""Hagelstein, 1939""]",https://www.gbif.org/species/9484476
+LIBSRC-LIB50-ENT-BIO-0058961,taxon_authority,"[""Pantocsek, 1889""]",https://www.gbif.org/species/7728585
+LIBSRC-LIB50-ENT-BIO-0058481,taxon_authority,"[""Serieyssol, 1993""]",https://www.gbif.org/species/3193223
+LIBSRC-LIB50-ENT-BIO-0058711,taxon_authority,"[""Hustedt, 1952""]",https://www.gbif.org/species/3193196
+LIBSRC-LIB50-ENT-BIO-0058921,taxon_authority,"[""S.I.Genkal, 1985""]",https://www.gbif.org/species/3193323
+LIBSRC-LIB50-ENT-BIO-0058721,taxon_authority,"[""Colditz, 1914""]",https://www.gbif.org/species/9590328
+LIBSRC-LIB50-ENT-BIO-0058701,taxon_authority,"[""Meneghini, 1845""]",https://www.gbif.org/species/9515322
+LIBSRC-LIB50-ENT-BIO-0058511,taxon_authority,"[""H\u00e5kansson, 1990""]",https://www.gbif.org/species/8259198
+LIBSRC-LIB50-ENT-BIO-0058931,taxon_authority,"[""Theriot & Stoermer, 1992""]",https://www.gbif.org/species/9234471
+LIBSRC-LIB50-ENT-BIO-0058681,taxon_authority,"[""Voight, 1942""]",https://www.gbif.org/species/4275363
+LIBSRC-LIB50-ENT-BIO-0058661,taxon_authority,"[""Bachm., 1911""]",https://www.gbif.org/species/3193142
+LIBSRC-LIB50-ENT-BIO-0058651,taxon_authority,"[""Grunow, 1882""]",https://www.gbif.org/species/9404832
+LIBSRC-LIB50-ENT-BIO-0033031,taxon_authority,"[""(Pers.) Sacc.""]",https://www.gbif.org/species/11137380
+LIBSRC-LIB50-ENT-BIO-0031781,taxon_authority,"[""(Cooke & Massee) Pegler""]",https://www.gbif.org/species/3344407
+LIBSRC-LIB50-ENT-BIO-0035241,taxon_authority,"[""(Cleland) Grgur.""]",https://www.gbif.org/species/3343773
+LIBSRC-LIB50-ENT-BIO-0035081,taxon_authority,"[""A.H.Sm. & Hesler""]",https://www.gbif.org/species/3343764
+LIBSRC-LIB50-ENT-BIO-0031261,taxon_authority,"[""(Fr.) Noordel.""]",https://www.gbif.org/species/5955301
+LIBSRC-LIB50-ENT-BIO-0035301,taxon_authority,"[""(Murrill) A.H.Sm. & Hesler""]",https://www.gbif.org/species/3344060
+LIBSRC-LIB50-ENT-BIO-0035211,taxon_authority,"[""Velen.""]",https://www.gbif.org/species/7784719
+LIBSRC-LIB50-ENT-BIO-0034611,taxon_authority,"[""Senthil. & S.K.Singh""]",https://www.gbif.org/species/8303816
+LIBSRC-LIB50-ENT-BIO-0034971,taxon_authority,"[""A.H.Sm. & Hesler""]",https://www.gbif.org/species/3344113
+LIBSRC-LIB50-ENT-BIO-0034991,taxon_authority,"[""A.H.Sm. & Hesler""]",https://www.gbif.org/species/3343793
+LIBSRC-LIB50-ENT-BIO-0035311,taxon_authority,"[""(Peck) G.F.Atk.""]",https://www.gbif.org/species/3344204
+LIBSRC-LIB50-ENT-BIO-0032951,taxon_authority,"[""M\u00e9trod""]",https://www.gbif.org/species/7685167
+LIBSRC-LIB50-ENT-BIO-0035121,taxon_authority,"[""A.H.Sm. & Hesler""]",https://www.gbif.org/species/3343955
+LIBSRC-LIB50-ENT-BIO-0031251,taxon_authority,"[""(E.Horak) J.A.Cooper""]",https://www.gbif.org/species/7431836
+LIBSRC-LIB50-ENT-BIO-0034961,taxon_authority,"[""Sacc.""]",https://www.gbif.org/species/3344123
+LIBSRC-LIB50-ENT-BIO-0037001,taxon_authority,"[""Singer""]",https://www.gbif.org/species/3274552
+LIBSRC-LIB50-ENT-BIO-0031771,taxon_authority,"[""(Speg.) Singer""]",https://www.gbif.org/species/3344404
+LIBSRC-LIB50-ENT-BIO-0035001,taxon_authority,"[""A.H.Sm. & Hesler""]",https://www.gbif.org/species/7758913
+LIBSRC-LIB50-ENT-BIO-0034631,taxon_authority,"[""Morgan""]",https://www.gbif.org/species/7848897
+LIBSRC-LIB50-ENT-BIO-0035251,taxon_authority,"[""(Murrill) Redhead""]",https://www.gbif.org/species/3343890
+LIBSRC-LIB50-ENT-BIO-0034661,taxon_authority,"[""(Massee) Massee""]",https://www.gbif.org/species/2533318
+LIBSRC-LIB50-ENT-BIO-0035141,taxon_authority,"[""A.H.Sm. & Hesler""]",https://www.gbif.org/species/3344241
+LIBSRC-LIB50-ENT-BIO-0031591,taxon_authority,"[""Watling""]",https://www.gbif.org/species/3344390
+LIBSRC-LIB50-ENT-BIO-0034581,taxon_authority,"[""T.X.Meng & T.Bau""]",https://www.gbif.org/species/7443148
+LIBSRC-LIB50-ENT-BIO-0035271,taxon_authority,"[""(Peck) A.H.Sm. & Hesler""]",https://www.gbif.org/species/3344088
+LIBSRC-LIB50-ENT-BIO-0031551,taxon_authority,"[""K.A.Thomas & Manim.""]",https://www.gbif.org/species/3344349
+LIBSRC-LIB50-ENT-BIO-0031761,taxon_authority,"[""(Earle) Pegler""]",https://www.gbif.org/species/3344357
+LIBSRC-LIB50-ENT-BIO-0034981,taxon_authority,"[""Thesleff""]",https://www.gbif.org/species/3343931
+LIBSRC-LIB50-ENT-BIO-0035111,taxon_authority,"[""(Favre) Moser""]",https://www.gbif.org/species/7398564
+LIBSRC-LIB50-ENT-BIO-0035051,taxon_authority,"[""A.H.Sm. & Hesler""]",https://www.gbif.org/species/3344067
+LIBSRC-LIB50-ENT-BIO-0034621,taxon_authority,"[""Henn.""]",https://www.gbif.org/species/7243291
+LIBSRC-LIB50-ENT-BIO-0033041,taxon_authority,"[""(Balletto) Nonis""]",https://www.gbif.org/species/3300325
+LIBSRC-LIB50-ENT-BIO-0032981,taxon_authority,"[""Kauffman""]",https://www.gbif.org/species/3302488
+LIBSRC-LIB50-ENT-BIO-0035011,taxon_authority,"[""Rick""]",https://www.gbif.org/species/3344163
+LIBSRC-LIB50-ENT-BIO-0035131,taxon_authority,"[""A.Pearson""]",https://www.gbif.org/species/3343763
+LIBSRC-LIB50-ENT-BIO-0035261,taxon_authority,"[""(Peck) A.H.Sm. & Hesler""]",https://www.gbif.org/species/3344074
+LIBSRC-LIB50-ENT-BIO-0035281,taxon_authority,"[""(Massee) E.Horak""]",https://www.gbif.org/species/2534201
+LIBSRC-LIB50-ENT-BIO-0034681,taxon_authority,"[""(Cooke & Massee) Sacc.""]",https://www.gbif.org/species/2533395
+LIBSRC-LIB50-ENT-BIO-0031231,taxon_authority,"[""(Contu & Guzm\u00e1n) Noordel.""]",https://www.gbif.org/species/8029244
+LIBSRC-LIB50-ENT-BIO-0031521,taxon_authority,"[""(Fr.) R.Heim""]",https://www.gbif.org/species/2533136
+LIBSRC-LIB50-ENT-BIO-0035161,taxon_authority,"[""A.H.Sm. & Hesler""]",https://www.gbif.org/species/3343906
+LIBSRC-LIB50-ENT-BIO-0034931,taxon_authority,"[""Velen.""]",https://www.gbif.org/species/3344126
+LIBSRC-LIB50-ENT-BIO-0033011,taxon_authority,"[""J.Schr\u00f6t.""]",https://www.gbif.org/species/2533409
+LIBSRC-LIB50-ENT-BIO-0031201,taxon_authority,"[""Ram.-Cruz & Glez.-Adame""]",https://www.gbif.org/species/12238191
+LIBSRC-LIB50-ENT-BIO-0037011,taxon_authority,"[""(Y.S.Chang & A.K.Mills) J.A.Cooper""]",https://www.gbif.org/species/7945040
+LIBSRC-LIB50-ENT-BIO-0055741,taxon_authority,"[""Kalb""]",https://www.gbif.org/species/5474247
+LIBSRC-LIB50-ENT-BIO-0055941,taxon_authority,"[""(V\u0115zda) H.Harada & Lumbsch""]",https://www.gbif.org/species/5474295
+LIBSRC-LIB50-ENT-BIO-0055651,taxon_authority,"[""L\u00fccking & Kalb""]",https://www.gbif.org/species/5474274
+LIBSRC-LIB50-ENT-BIO-0032251,taxon_authority,"[""Castracane, 1886""]",https://www.gbif.org/species/7348789
+LIBSRC-LIB50-ENT-BIO-0031911,taxon_authority,"[""Schrader, 1973""]",https://www.gbif.org/species/9614737
+LIBSRC-LIB50-ENT-BIO-0032241,taxon_authority,"[""Mertz, 1966""]",https://www.gbif.org/species/9413042
+LIBSRC-LIB50-ENT-BIO-0060321,taxon_authority,"[""Speg.""]",https://www.gbif.org/species/3301005
+LIBSRC-LIB50-ENT-BIO-0060391,taxon_authority,"[""Speg.""]",https://www.gbif.org/species/3566177
+LIBSRC-LIB50-ENT-BIO-0058521,taxon_authority,"[""Sacc.""]",https://www.gbif.org/species/5496374
+LIBSRC-LIB50-ENT-BIO-0060651,taxon_authority,"[""Bat.""]",https://www.gbif.org/species/3283149
+LIBSRC-LIB50-ENT-BIO-0058581,taxon_authority,"[""H.C.Greene""]",https://www.gbif.org/species/5496384
+LIBSRC-LIB50-ENT-BIO-0060501,taxon_authority,"[""Hemmi""]",https://www.gbif.org/species/3288176
+LIBSRC-LIB50-ENT-BIO-0060031,taxon_authority,"[""Syd. & P.Syd.""]",https://www.gbif.org/species/6335313
+LIBSRC-LIB50-ENT-BIO-0060481,taxon_authority,"[""Dearn.""]",https://www.gbif.org/species/3284238
+LIBSRC-LIB50-ENT-BIO-0060341,taxon_authority,"[""Miura""]",https://www.gbif.org/species/3292175
+LIBSRC-LIB50-ENT-BIO-0059311,taxon_authority,"[""Vasyag.""]",https://www.gbif.org/species/3490196
+LIBSRC-LIB50-ENT-BIO-0060461,taxon_authority,"[""Ferraris & Lindegg""]",https://www.gbif.org/species/3297275
+LIBSRC-LIB50-ENT-BIO-0060601,taxon_authority,"[""Henn.""]",https://www.gbif.org/species/3300620
+LIBSRC-LIB50-ENT-BIO-0059351,taxon_authority,"[""(Biv.) Fuckel""]",https://www.gbif.org/species/9056370
+LIBSRC-LIB50-ENT-BIO-0060661,taxon_authority,"[""Verpl. & Claess.""]",https://www.gbif.org/species/3308482
+LIBSRC-LIB50-ENT-BIO-0058741,taxon_authority,"[""(Rostr.) Limber""]",https://www.gbif.org/species/5496361
+LIBSRC-LIB50-ENT-BIO-0058501,taxon_authority,"[""Mont.""]",https://www.gbif.org/species/5496369
+LIBSRC-LIB50-ENT-BIO-0060581,taxon_authority,"[""Maubl.""]",https://www.gbif.org/species/3563612
+LIBSRC-LIB50-ENT-BIO-0059481,taxon_authority,"[""(Fuckel) Rehm""]",https://www.gbif.org/species/7436516
+LIBSRC-LIB50-ENT-BIO-0060521,taxon_authority,"[""Maire""]",https://www.gbif.org/species/3293717
+LIBSRC-LIB50-ENT-BIO-0059341,taxon_authority,"[""(Lib.) Sacc.""]",https://www.gbif.org/species/2581174
+LIBSRC-LIB50-ENT-BIO-0058571,taxon_authority,"[""Durrieu""]",https://www.gbif.org/species/5496362
+LIBSRC-LIB50-ENT-BIO-0059331,taxon_authority,"[""Grelet & Croz.""]",https://www.gbif.org/species/3490161
+LIBSRC-LIB50-ENT-BIO-0060541,taxon_authority,"[""Lindau""]",https://www.gbif.org/species/3301470
+LIBSRC-LIB50-ENT-BIO-0060641,taxon_authority,"[""Allesch.""]",https://www.gbif.org/species/2590613
+LIBSRC-LIB50-ENT-BIO-0060371,taxon_authority,"[""Hemmi & Nojima""]",https://www.gbif.org/species/3290746
+LIBSRC-LIB50-ENT-BIO-0060571,taxon_authority,"[""Sousa da C\u00e2mara""]",https://www.gbif.org/species/3563352
+LIBSRC-LIB50-ENT-BIO-0060421,taxon_authority,"[""Syd. & P.Syd.""]",https://www.gbif.org/species/3289574
+LIBSRC-LIB50-ENT-BIO-0060471,taxon_authority,"[""S\u0103vul. & Negru""]",https://www.gbif.org/species/3283204
+LIBSRC-LIB50-ENT-BIO-0060511,taxon_authority,"[""Maire""]",https://www.gbif.org/species/3305978
+LIBSRC-LIB50-ENT-BIO-0063841,taxon_authority,"[""(Tanaka & Saito-Kato) Nakov et al., 2015""]",https://www.gbif.org/species/10393038
+LIBSRC-LIB50-ENT-BIO-0064481,taxon_authority,"[""(Kulumbaeva & Genkal, 1990) K.T.Kiss, Genkal & \u00c1cs, 2016""]",https://www.gbif.org/species/10412111
+LIBSRC-LIB50-ENT-BIO-0085251,taxon_authority,"[""(Tul. & C.Tul.) Tak.Kobay.""]",https://www.gbif.org/species/2568530
+LIBSRC-LIB50-ENT-BIO-0081741,taxon_authority,"[""Noordel.""]",https://www.gbif.org/species/2539377
+LIBSRC-LIB50-ENT-BIO-0081991,taxon_authority,"[""(Romagn. & Gilles) Noordel. & Co-David""]",https://www.gbif.org/species/7450089
+LIBSRC-LIB50-ENT-BIO-0063171,taxon_authority,"[""Bat.""]",https://www.gbif.org/species/3527217
+LIBSRC-LIB50-ENT-BIO-0081411,taxon_authority,"[""Barbier""]",https://www.gbif.org/species/3346982
+LIBSRC-LIB50-ENT-BIO-0080701,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/3346155
+LIBSRC-LIB50-ENT-BIO-0081831,taxon_authority,"[""Arnolds & Noordel.""]",https://www.gbif.org/species/7646932
+LIBSRC-LIB50-ENT-BIO-0082111,taxon_authority,"[""(Largent) Noordel. & Co-David""]",https://www.gbif.org/species/7682699
+LIBSRC-LIB50-ENT-BIO-0081331,taxon_authority,"[""Noordel.""]",https://www.gbif.org/species/6014951
+LIBSRC-LIB50-ENT-BIO-0080521,taxon_authority,"[""E.Ludw. & T.R\u00f6dig""]",https://www.gbif.org/species/3346884
+LIBSRC-LIB50-ENT-BIO-0082081,taxon_authority,"[""(Romagn. & Gilles) Noordel. & Co-David""]",https://www.gbif.org/species/7491138
+LIBSRC-LIB50-ENT-BIO-0062591,taxon_authority,"[""Bat. & Peres""]",https://www.gbif.org/species/6778548
+LIBSRC-LIB50-ENT-BIO-0082321,taxon_authority,"[""(Lasch) Kalamees & Urbonas""]",https://www.gbif.org/species/9603754
+LIBSRC-LIB50-ENT-BIO-0081341,taxon_authority,"[""Blanco-Dios""]",https://www.gbif.org/species/9720821
+LIBSRC-LIB50-ENT-BIO-0078211,taxon_authority,"[""(de Meijer) de Meijer""]",https://www.gbif.org/species/7773891
+LIBSRC-LIB50-ENT-BIO-0082451,taxon_authority,"[""(Peck) Noordel.""]",https://www.gbif.org/species/7683703
+LIBSRC-LIB50-ENT-BIO-0082191,taxon_authority,"[""(Bres.) Noordel.""]",https://www.gbif.org/species/2539354
+LIBSRC-LIB50-ENT-BIO-0081621,taxon_authority,"[""Kondo & Nagas.""]",https://www.gbif.org/species/10745047
+LIBSRC-LIB50-ENT-BIO-0078151,taxon_authority,"[""(Singer) Noordel. & Co-David""]",https://www.gbif.org/species/7427974
+LIBSRC-LIB50-ENT-BIO-0063241,taxon_authority,"[""(Syd.) Hansf.""]",https://www.gbif.org/species/3527220
+LIBSRC-LIB50-ENT-BIO-0083291,taxon_authority,"[""Magnus""]",https://www.gbif.org/species/2557815
+LIBSRC-LIB50-ENT-BIO-0082051,taxon_authority,"[""(Murrill) Blanco-Dios""]",https://www.gbif.org/species/10880386
+LIBSRC-LIB50-ENT-BIO-0083841,taxon_authority,"[""Berry, 1917""]",https://www.gbif.org/species/11156915
+LIBSRC-LIB50-ENT-BIO-0081691,taxon_authority,"[""Xiao L.He & E.Horak""]",https://www.gbif.org/species/10751830
+LIBSRC-LIB50-ENT-BIO-0081541,taxon_authority,"[""O.V.Morozova, M.Y.Dyakov, E.S.Popov & A.V.Alexandrova""]",https://www.gbif.org/species/9806781
+LIBSRC-LIB50-ENT-BIO-0078241,taxon_authority,"[""(T.J.Baroni & G.M.Gates) Noordel. & Co-David""]",https://www.gbif.org/species/7990990
+LIBSRC-LIB50-ENT-BIO-0078491,taxon_authority,"[""(Speg.) Silva-Filho & Cortez""]",https://www.gbif.org/species/10748704
+LIBSRC-LIB50-ENT-BIO-0084291,taxon_authority,"[""Wehm.""]",https://www.gbif.org/species/3445678
+LIBSRC-LIB50-ENT-BIO-0081931,taxon_authority,"[""(Romagn. & Gilles) Noordel. & Co-David""]",https://www.gbif.org/species/8079938
+LIBSRC-LIB50-ENT-BIO-0083941,taxon_authority,"[""(Fr.) U.Braun & Bensch""]",https://www.gbif.org/species/12251982
+LIBSRC-LIB50-ENT-BIO-0081511,taxon_authority,"[""W.M.Zhang""]",https://www.gbif.org/species/3345957
+LIBSRC-LIB50-ENT-BIO-0078071,taxon_authority,"[""W.Q.Deng, T.H.Li & Y.H.Shen""]",https://www.gbif.org/species/7606103
+LIBSRC-LIB50-ENT-BIO-0080591,taxon_authority,"[""Noordel.""]",https://www.gbif.org/species/3346722
+LIBSRC-LIB50-ENT-BIO-0081981,taxon_authority,"[""(Romagn. & Gilles) Noordel. & Co-David""]",https://www.gbif.org/species/7611584
+LIBSRC-LIB50-ENT-BIO-0082411,taxon_authority,"[""(Berk. & Broome) Massee""]",https://www.gbif.org/species/12260928
+LIBSRC-LIB50-ENT-BIO-0068971,taxon_authority,"[""Richon, 1888""]",https://www.gbif.org/species/3462293
+LIBSRC-LIB50-ENT-BIO-0082441,taxon_authority,"[""(E.Horak) Blanco-Dios""]",https://www.gbif.org/species/9803861
+LIBSRC-LIB50-ENT-BIO-0081841,taxon_authority,"[""Noordel. & W\u00f6lfel""]",https://www.gbif.org/species/3346522
+LIBSRC-LIB50-ENT-BIO-0086211,taxon_authority,"[""R.G.Shivas & V\u00e1nky""]",https://www.gbif.org/species/2557824
+LIBSRC-LIB50-ENT-BIO-0080581,taxon_authority,"[""Noordel.""]",https://www.gbif.org/species/2539875
+LIBSRC-LIB50-ENT-BIO-0080471,taxon_authority,"[""Manim., A.V.Joseph & Leelav.""]",https://www.gbif.org/species/3346129
+LIBSRC-LIB50-ENT-BIO-0078481,taxon_authority,"[""(Malen\u00e7on) Consiglio""]",https://www.gbif.org/species/12199924
+LIBSRC-LIB50-ENT-BIO-0065491,taxon_authority,"[""Rong Zhang & G.Y.Sun""]",https://www.gbif.org/species/7787897
+LIBSRC-LIB50-ENT-BIO-0082421,taxon_authority,"[""(Rea) Noordel.""]",https://www.gbif.org/species/2539272
+LIBSRC-LIB50-ENT-BIO-0063381,taxon_authority,"[""Bat.""]",https://www.gbif.org/species/3291166
+LIBSRC-LIB50-ENT-BIO-0081791,taxon_authority,"[""Noordel. & G.M.Gates""]",https://www.gbif.org/species/7395292
+LIBSRC-LIB50-ENT-BIO-0081471,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/2539768
+LIBSRC-LIB50-ENT-BIO-0078231,taxon_authority,"[""(Murrill) Noordel. & Co-David""]",https://www.gbif.org/species/7672298
+LIBSRC-LIB50-ENT-BIO-0077391,taxon_authority,"[""(Murrill) Kluting, T.J.Baroni & Bergemann""]",https://www.gbif.org/species/8346779
+LIBSRC-LIB50-ENT-BIO-0064581,taxon_authority,"[""(Sorauer) B.Sutton""]",https://www.gbif.org/species/2583575
+LIBSRC-LIB50-ENT-BIO-0080841,taxon_authority,"[""Morgado & Noordel.""]",https://www.gbif.org/species/7443567
+LIBSRC-LIB50-ENT-BIO-0076961,taxon_authority,"[""Jin F.Zhang, Jian K.Liu, K.D.Hyde & Zuo Y.Liu""]",https://www.gbif.org/species/11040177
+LIBSRC-LIB50-ENT-BIO-0081631,taxon_authority,"[""Dennis""]",https://www.gbif.org/species/3346516
+LIBSRC-LIB50-ENT-BIO-0083571,taxon_authority,"[""Oudem.""]",https://www.gbif.org/species/3445845
+LIBSRC-LIB50-ENT-BIO-0081971,taxon_authority,"[""(K\u00fchner) Trimbach""]",https://www.gbif.org/species/3345763
+LIBSRC-LIB50-ENT-BIO-0080801,taxon_authority,"[""O.V.Morozova, Noordel., Vila & Bulyonk.""]",https://www.gbif.org/species/7906341
+LIBSRC-LIB50-ENT-BIO-0081661,taxon_authority,"[""Hesler""]",https://www.gbif.org/species/3345779
+LIBSRC-LIB50-ENT-BIO-0082301,taxon_authority,"[""(Singer) Singer""]",https://www.gbif.org/species/3346689
+LIBSRC-LIB50-ENT-BIO-0082911,taxon_authority,"[""(Peck) T.J.Baroni""]",https://www.gbif.org/species/3347127
+LIBSRC-LIB50-ENT-BIO-0080821,taxon_authority,"[""Murrill""]",https://www.gbif.org/species/3345858
+LIBSRC-LIB50-ENT-BIO-0081291,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/2539808
+LIBSRC-LIB50-ENT-BIO-0081281,taxon_authority,"[""(Fr.) Noordel.""]",https://www.gbif.org/species/9219169
+LIBSRC-LIB50-ENT-BIO-0080951,taxon_authority,"[""Vila, Marulli, Battistin & Dima""]",https://www.gbif.org/species/11473399
+LIBSRC-LIB50-ENT-BIO-0081191,taxon_authority,"[""Courtec.""]",https://www.gbif.org/species/3345872
+LIBSRC-LIB50-ENT-BIO-0078191,taxon_authority,"[""(T.J.Baroni) Noordel. & Co-David""]",https://www.gbif.org/species/7434439
+LIBSRC-LIB50-ENT-BIO-0078081,taxon_authority,"[""Pat.""]",https://www.gbif.org/species/3345651
+LIBSRC-LIB50-ENT-BIO-0080911,taxon_authority,"[""Blanco-Dios""]",https://www.gbif.org/species/10819027
+LIBSRC-LIB50-ENT-BIO-0082311,taxon_authority,"[""(Romagn. & Gilles) Noordel. & Co-David""]",https://www.gbif.org/species/8267054
+LIBSRC-LIB50-ENT-BIO-0083211,taxon_authority,"[""D.L.Largent""]",https://www.gbif.org/species/12190784
+LIBSRC-LIB50-ENT-BIO-0081321,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/3345822
+LIBSRC-LIB50-ENT-BIO-0082521,taxon_authority,"[""(Romagn. & Gilles) Noordel. & Co-David""]",https://www.gbif.org/species/7895996
+LIBSRC-LIB50-ENT-BIO-0080871,taxon_authority,"[""C.K.Pradeep & K.B.Vrinda""]",https://www.gbif.org/species/9655395
+LIBSRC-LIB50-ENT-BIO-0078251,taxon_authority,"[""(Vila, Contu, A.Ortega & F.Caball.) Vila & Contu""]",https://www.gbif.org/species/7448891
+LIBSRC-LIB50-ENT-BIO-0080721,taxon_authority,"[""Hesler""]",https://www.gbif.org/species/3345828
+LIBSRC-LIB50-ENT-BIO-0082231,taxon_authority,"[""(Largent) Noordel. & Co-David""]",https://www.gbif.org/species/7631964
+LIBSRC-LIB50-ENT-BIO-0081261,taxon_authority,"[""Arnolds & Noordel.""]",https://www.gbif.org/species/3346754
+LIBSRC-LIB50-ENT-BIO-0081601,taxon_authority,"[""Hesler""]",https://www.gbif.org/species/3346816
+LIBSRC-LIB50-ENT-BIO-0081051,taxon_authority,"[""(Romagn. & Gilles) Noordel. & Co-David""]",https://www.gbif.org/species/7785894
+LIBSRC-LIB50-ENT-BIO-0081421,taxon_authority,"[""Blanco-Dios""]",https://www.gbif.org/species/9815055
+LIBSRC-LIB50-ENT-BIO-0081161,taxon_authority,"[""Hir.Sasaki, A.Kinosh. & K.Nara""]",https://www.gbif.org/species/7999709
+LIBSRC-LIB50-ENT-BIO-0081451,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/2539718
+LIBSRC-LIB50-ENT-BIO-0080851,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/3346922
+LIBSRC-LIB50-ENT-BIO-0081251,taxon_authority,"[""Xiao L.He & W.H.Peng""]",https://www.gbif.org/species/10763510
+LIBSRC-LIB50-ENT-BIO-0078201,taxon_authority,"[""(Corner & E.Horak) Noordel. & Co-David""]",https://www.gbif.org/species/7749767
+LIBSRC-LIB50-ENT-BIO-0078111,taxon_authority,"[""Peck""]",https://www.gbif.org/species/3345758
+LIBSRC-LIB50-ENT-BIO-0081071,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/3346059
+LIBSRC-LIB50-ENT-BIO-0081551,taxon_authority,"[""G.M.Gates & Noordel.""]",https://www.gbif.org/species/7728006
+LIBSRC-LIB50-ENT-BIO-0080671,taxon_authority,"[""Blanco-Dios""]",https://www.gbif.org/species/9722337
+LIBSRC-LIB50-ENT-BIO-0082391,taxon_authority,"[""(K\u00fchner) Noordel.""]",https://www.gbif.org/species/2539436
+LIBSRC-LIB50-ENT-BIO-0080831,taxon_authority,"[""Blanco-Dios""]",https://www.gbif.org/species/10739317
+LIBSRC-LIB50-ENT-BIO-0082271,taxon_authority,"[""(Berk.) Noordel.""]",https://www.gbif.org/species/2539749
+LIBSRC-LIB50-ENT-BIO-0081381,taxon_authority,"[""Corner & E.Horak""]",https://www.gbif.org/species/3346671
+LIBSRC-LIB50-ENT-BIO-0081011,taxon_authority,"[""(Beeli) Noordel. & Co-David""]",https://www.gbif.org/species/7364487
+LIBSRC-LIB50-ENT-BIO-0078121,taxon_authority,"[""Herp.""]",https://www.gbif.org/species/3345689
+LIBSRC-LIB50-ENT-BIO-0078061,taxon_authority,"[""J.Kumla, N.Suwannarach & S.Lumyong""]",https://www.gbif.org/species/10852500
+LIBSRC-LIB50-ENT-BIO-0081811,taxon_authority,"[""P.-A.Moreau, Vila, Noordel. & Dima""]",https://www.gbif.org/species/11801000
+LIBSRC-LIB50-ENT-BIO-0078041,taxon_authority,"[""Cleland""]",https://www.gbif.org/species/3345643
+LIBSRC-LIB50-ENT-BIO-0081611,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/3345915
+LIBSRC-LIB50-ENT-BIO-0081101,taxon_authority,"[""Vila""]",https://www.gbif.org/species/11500340
+LIBSRC-LIB50-ENT-BIO-0081181,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/3346840
+LIBSRC-LIB50-ENT-BIO-0080981,taxon_authority,"[""Noordel. & O.V.Morozova""]",https://www.gbif.org/species/7891225
+LIBSRC-LIB50-ENT-BIO-0080661,taxon_authority,"[""Vila & Fernandez Sasia""]",https://www.gbif.org/species/8360581
+LIBSRC-LIB50-ENT-BIO-0081231,taxon_authority,"[""Noordel.""]",https://www.gbif.org/species/2539401
+LIBSRC-LIB50-ENT-BIO-0082281,taxon_authority,"[""(K\u00fchner) Noordel.""]",https://www.gbif.org/species/3346075
+LIBSRC-LIB50-ENT-BIO-0081781,taxon_authority,"[""Hesler""]",https://www.gbif.org/species/3346346
+LIBSRC-LIB50-ENT-BIO-0082201,taxon_authority,"[""(Berk. & Broome) Noordel.""]",https://www.gbif.org/species/2539635
+LIBSRC-LIB50-ENT-BIO-0080731,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/2539561
+LIBSRC-LIB50-ENT-BIO-0081951,taxon_authority,"[""(Romagn. & Gilles) Noordel. & Co-David""]",https://www.gbif.org/species/7422748
+LIBSRC-LIB50-ENT-BIO-0081031,taxon_authority,"[""Blanco-Dios""]",https://www.gbif.org/species/9772387
+LIBSRC-LIB50-ENT-BIO-0081721,taxon_authority,"[""C.K.Pradeep & K.B.Vrinda""]",https://www.gbif.org/species/7992347
+LIBSRC-LIB50-ENT-BIO-0081821,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/2539422
+LIBSRC-LIB50-ENT-BIO-0080771,taxon_authority,"[""Blanco-Dios""]",https://www.gbif.org/species/10868724
+LIBSRC-LIB50-ENT-BIO-0081591,taxon_authority,"[""O.V.Morozova, Noordel., Brandrud, J.B.Jordal & Dima""]",https://www.gbif.org/species/11841185
+LIBSRC-LIB50-ENT-BIO-0076851,taxon_authority,"[""(Fr.) Qu\u00e9l., 1886""]",https://www.gbif.org/species/8459187
+LIBSRC-LIB50-ENT-BIO-0082961,taxon_authority,"[""(Fr.) T.J.Baroni, V.Hofst. & Largent""]",https://www.gbif.org/species/8344848
+LIBSRC-LIB50-ENT-BIO-0082431,taxon_authority,"[""(T.J.Baroni, Albert\u00f3, Niveiro & B.E.Lechner) Blanco-Dios""]",https://www.gbif.org/species/9814507
+LIBSRC-LIB50-ENT-BIO-0081151,taxon_authority,"[""O.V.Morozova, E.S.Popov & Noordel.""]",https://www.gbif.org/species/12205059
+LIBSRC-LIB50-ENT-BIO-0082161,taxon_authority,"[""(Murrill) Blanco-Dios""]",https://www.gbif.org/species/10684984
+LIBSRC-LIB50-ENT-BIO-0080531,taxon_authority,"[""Noordel. & Trichies""]",https://www.gbif.org/species/7836868
+LIBSRC-LIB50-ENT-BIO-0081521,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/2539705
+LIBSRC-LIB50-ENT-BIO-0081351,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/3345767
+LIBSRC-LIB50-ENT-BIO-0082241,taxon_authority,"[""(Romagn.) Noordel. & Co-David""]",https://www.gbif.org/species/7631339
+LIBSRC-LIB50-ENT-BIO-0081581,taxon_authority,"[""Corner & E.Horak""]",https://www.gbif.org/species/3345926
+LIBSRC-LIB50-ENT-BIO-0081881,taxon_authority,"[""Blanco-Dios""]",https://www.gbif.org/species/12203066
+LIBSRC-LIB50-ENT-BIO-0082481,taxon_authority,"[""(Romagn. & Gilles) Noordel. & Co-David""]",https://www.gbif.org/species/7941811
+LIBSRC-LIB50-ENT-BIO-0080741,taxon_authority,"[""Vila, F.Caball. & Eyssart.""]",https://www.gbif.org/species/8191051
+LIBSRC-LIB50-ENT-BIO-0080451,taxon_authority,"[""Kokkonen""]",https://www.gbif.org/species/8630297
+LIBSRC-LIB50-ENT-BIO-0080441,taxon_authority,"[""(Romagn. & Gilles) Noordel. & Co-David""]",https://www.gbif.org/species/7870423
+LIBSRC-LIB50-ENT-BIO-0082901,taxon_authority,"[""(Schaeff.) Singer""]",https://www.gbif.org/species/2540078
+LIBSRC-LIB50-ENT-BIO-0081751,taxon_authority,"[""E.Horak & Cheype, 2010""]",https://www.gbif.org/species/9385363
+LIBSRC-LIB50-ENT-BIO-0081221,taxon_authority,"[""Hesler""]",https://www.gbif.org/species/3346234
+LIBSRC-LIB50-ENT-BIO-0081041,taxon_authority,"[""Largent""]",https://www.gbif.org/species/8294172
+LIBSRC-LIB50-ENT-BIO-0078181,taxon_authority,"[""(Malen\u00e7on & Contu) Contu""]",https://www.gbif.org/species/8160557
+LIBSRC-LIB50-ENT-BIO-0082091,taxon_authority,"[""(Romagn.) Singer""]",https://www.gbif.org/species/3346984
+LIBSRC-LIB50-ENT-BIO-0082461,taxon_authority,"[""(Romagn. & Gilles) Noordel. & Co-David""]",https://www.gbif.org/species/7515307
+LIBSRC-LIB50-ENT-BIO-0076831,taxon_authority,"[""R.Heim""]",https://www.gbif.org/species/3289850
+LIBSRC-LIB50-ENT-BIO-0082361,taxon_authority,"[""(Romagn.) Noordel.""]",https://www.gbif.org/species/3346222
+LIBSRC-LIB50-ENT-BIO-0080881,taxon_authority,"[""Noordel.""]",https://www.gbif.org/species/2539806
+LIBSRC-LIB50-ENT-BIO-0080901,taxon_authority,"[""O.V.Morozova""]",https://www.gbif.org/species/7604949
+LIBSRC-LIB50-ENT-BIO-0080781,taxon_authority,"[""Corner & E.Horak""]",https://www.gbif.org/species/3346238
+LIBSRC-LIB50-ENT-BIO-0082341,taxon_authority,"[""(P.D.Orton) Noordel.""]",https://www.gbif.org/species/2539602
+LIBSRC-LIB50-ENT-BIO-0081861,taxon_authority,"[""(Romagn. & Gilles) Noordel. & Co-David""]",https://www.gbif.org/species/7785962
+LIBSRC-LIB50-ENT-BIO-0082401,taxon_authority,"[""(P.D.Orton) Noordel.""]",https://www.gbif.org/species/2539587
+LIBSRC-LIB50-ENT-BIO-0080761,taxon_authority,"[""Corner & E.Horak""]",https://www.gbif.org/species/3346347
+LIBSRC-LIB50-ENT-BIO-0081201,taxon_authority,"[""(Kauffman) Largent""]",https://www.gbif.org/species/3346918
+LIBSRC-LIB50-ENT-BIO-0080681,taxon_authority,"[""Hesler""]",https://www.gbif.org/species/3346100
+LIBSRC-LIB50-ENT-BIO-0082501,taxon_authority,"[""(Rick) Blanco-Dios""]",https://www.gbif.org/species/10756959
+LIBSRC-LIB50-ENT-BIO-0081461,taxon_authority,"[""Arnolds""]",https://www.gbif.org/species/3346372
+LIBSRC-LIB50-ENT-BIO-0081061,taxon_authority,"[""Noordel., Weholt, Eidissen & Lor\u00e5s""]",https://www.gbif.org/species/10825182
+LIBSRC-LIB50-ENT-BIO-0082371,taxon_authority,"[""(Berk. & Broome) E.Horak""]",https://www.gbif.org/species/3345905
+LIBSRC-LIB50-ENT-BIO-0080461,taxon_authority,"[""J.M.Vidal""]",https://www.gbif.org/species/9672644
+LIBSRC-LIB50-ENT-BIO-0081241,taxon_authority,"[""Murrill""]",https://www.gbif.org/species/3346786
+LIBSRC-LIB50-ENT-BIO-0081911,taxon_authority,"[""(Berk.) E.Horak""]",https://www.gbif.org/species/3345989
+LIBSRC-LIB50-ENT-BIO-0078141,taxon_authority,"[""(T.J.Baroni) Noordel. & Co-David""]",https://www.gbif.org/species/7848036
+LIBSRC-LIB50-ENT-BIO-0078131,taxon_authority,"[""(Malen\u00e7on ex Contu) Contu""]",https://www.gbif.org/species/8287346
+LIBSRC-LIB50-ENT-BIO-0082471,taxon_authority,"[""(Romagn. & Gilles) Noordel. & Co-David""]",https://www.gbif.org/species/8165243
+LIBSRC-LIB50-ENT-BIO-0080511,taxon_authority,"[""Noordel. & Hauskn.""]",https://www.gbif.org/species/9784756
+LIBSRC-LIB50-ENT-BIO-0082011,taxon_authority,"[""(Largent) Noordel. & Co-David""]",https://www.gbif.org/species/7689337
+LIBSRC-LIB50-ENT-BIO-0081091,taxon_authority,"[""Blanco-Dios""]",https://www.gbif.org/species/12248628
+LIBSRC-LIB50-ENT-BIO-0081431,taxon_authority,"[""P.Welt & E.Ludw.""]",https://www.gbif.org/species/3346378
+LIBSRC-LIB50-ENT-BIO-0081531,taxon_authority,"[""(Singer) E.Horak""]",https://www.gbif.org/species/3346454
+LIBSRC-LIB50-ENT-BIO-0080791,taxon_authority,"[""(Romagn.) Noordel.""]",https://www.gbif.org/species/7548463
+LIBSRC-LIB50-ENT-BIO-0082331,taxon_authority,"[""(Berk. & M.A.Curtis) Donk""]",https://www.gbif.org/species/2539731
+LIBSRC-LIB50-ENT-BIO-0080811,taxon_authority,"[""Ribes & Vila""]",https://www.gbif.org/species/7871114
+LIBSRC-LIB50-ENT-BIO-0081761,taxon_authority,"[""W.M.Zhang""]",https://www.gbif.org/species/3346509
+LIBSRC-LIB50-ENT-BIO-0081131,taxon_authority,"[""Hesler""]",https://www.gbif.org/species/3346233
+LIBSRC-LIB50-ENT-BIO-0081141,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/2539238
+LIBSRC-LIB50-ENT-BIO-0080561,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/2539661
+LIBSRC-LIB50-ENT-BIO-0082141,taxon_authority,"[""(P.D.Orton) Noordel.""]",https://www.gbif.org/species/2539688
+LIBSRC-LIB50-ENT-BIO-0082101,taxon_authority,"[""(Romagn.) Noordel. & Co-David""]",https://www.gbif.org/species/8074624
+LIBSRC-LIB50-ENT-BIO-0081671,taxon_authority,"[""Noordel.""]",https://www.gbif.org/species/2539376
+LIBSRC-LIB50-ENT-BIO-0082551,taxon_authority,"[""(Romagn. & J.Favre) Bon & Courtec.""]",https://www.gbif.org/species/2539741
+LIBSRC-LIB50-ENT-BIO-0080631,taxon_authority,"[""Kehlet, Noordel. & Dima""]",https://www.gbif.org/species/12249861
+LIBSRC-LIB50-ENT-BIO-0081171,taxon_authority,"[""Blanco-Dios""]",https://www.gbif.org/species/10749045
+LIBSRC-LIB50-ENT-BIO-0081361,taxon_authority,"[""Noordel.""]",https://www.gbif.org/species/3346869
+LIBSRC-LIB50-ENT-BIO-0081941,taxon_authority,"[""(Romagn. & Gilles) Noordel. & Co-David""]",https://www.gbif.org/species/7415756
+LIBSRC-LIB50-ENT-BIO-0081561,taxon_authority,"[""G.M.Gates & Noordel.""]",https://www.gbif.org/species/3346411
+LIBSRC-LIB50-ENT-BIO-0076841,taxon_authority,"[""J.E.Lange""]",https://www.gbif.org/species/3303188
+LIBSRC-LIB50-ENT-BIO-0081211,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/3346908
+LIBSRC-LIB50-ENT-BIO-0081391,taxon_authority,"[""O.V.Morozova, Vila, Finy, D.Ageev & Dima""]",https://www.gbif.org/species/12218610
+LIBSRC-LIB50-ENT-BIO-0081271,taxon_authority,"[""Hesler""]",https://www.gbif.org/species/3346136
+LIBSRC-LIB50-ENT-BIO-0082041,taxon_authority,"[""(L.) P.Kumm.""]",https://www.gbif.org/species/3345846
+LIBSRC-LIB50-ENT-BIO-0082131,taxon_authority,"[""(Largent) Blanco-Dios""]",https://www.gbif.org/species/9670886
+LIBSRC-LIB50-ENT-BIO-0061361,taxon_authority,"[""Rahm""]",https://www.gbif.org/species/8317972
+LIBSRC-LIB50-ENT-BIO-0062411,taxon_authority,"[""(Sacc. & Bizz.) Arx""]",https://www.gbif.org/species/3302943
+LIBSRC-LIB50-ENT-BIO-0064511,taxon_authority,"[""(Henn.) Syd. & P.Syd.""]",https://www.gbif.org/species/3311247
+LIBSRC-LIB50-ENT-BIO-0063271,taxon_authority,"[""Syd. & P.Syd.""]",https://www.gbif.org/species/3526962
+LIBSRC-LIB50-ENT-BIO-0061491,taxon_authority,"[""Spooner""]",https://www.gbif.org/species/3527120
+LIBSRC-LIB50-ENT-BIO-0064541,taxon_authority,"[""D\u00f6bbeler""]",https://www.gbif.org/species/2626213
+LIBSRC-LIB50-ENT-BIO-0064591,taxon_authority,"[""(P.Crouan & H.Crouan) Batters""]",https://www.gbif.org/species/2638773
+LIBSRC-LIB50-ENT-BIO-0076971,taxon_authority,"[""Mapook & K.D.Hyde""]",https://www.gbif.org/species/12172488
+LIBSRC-LIB50-ENT-BIO-0083221,taxon_authority,"[""Brongniart, 1869""]",https://www.gbif.org/species/11152515
+LIBSRC-LIB50-ENT-BIO-0083301,taxon_authority,"[""(Thirum. & Pavgi) V\u00e1nky""]",https://www.gbif.org/species/2557795
+LIBSRC-LIB50-ENT-BIO-0086121,taxon_authority,"[""(Mugambi & Huhndorf) S.K.Huang & K.D.Hyde""]",https://www.gbif.org/species/12186676
+LIBSRC-LIB50-ENT-BIO-0082541,taxon_authority,"[""(E.Horak) Noordel. & Co-David""]",https://www.gbif.org/species/5955249
+LIBSRC-LIB50-ENT-BIO-0080621,taxon_authority,"[""Hesler""]",https://www.gbif.org/species/3346749
+LIBSRC-LIB50-ENT-BIO-0081961,taxon_authority,"[""(Romagn.) E.Horak""]",https://www.gbif.org/species/3346756
+LIBSRC-LIB50-ENT-BIO-0080651,taxon_authority,"[""Gillet""]",https://www.gbif.org/species/8899985
+LIBSRC-LIB50-ENT-BIO-0081491,taxon_authority,"[""G.M.Gates & Noordel.""]",https://www.gbif.org/species/7653200
+LIBSRC-LIB50-ENT-BIO-0082001,taxon_authority,"[""(M.Lange) Noordel.""]",https://www.gbif.org/species/2539621
+LIBSRC-LIB50-ENT-BIO-0061661,taxon_authority,"[""(Syd. & P.Syd.) Died.""]",https://www.gbif.org/species/3490450
+LIBSRC-LIB50-ENT-BIO-0078051,taxon_authority,"[""Peck""]",https://www.gbif.org/species/3345756
+LIBSRC-LIB50-ENT-BIO-0082351,taxon_authority,"[""(Romagn.) Noordel. & Co-David""]",https://www.gbif.org/species/7957847
+LIBSRC-LIB50-ENT-BIO-0068761,taxon_authority,"[""Sonder""]",https://www.gbif.org/species/2643162
+LIBSRC-LIB50-ENT-BIO-0067631,taxon_authority,"[""V.J.Chapm.""]",https://www.gbif.org/species/2645249
+LIBSRC-LIB50-ENT-BIO-0080891,taxon_authority,"[""Kokkonen""]",https://www.gbif.org/species/8649759
+LIBSRC-LIB50-ENT-BIO-0081921,taxon_authority,"[""(Peck) Blanco-Dios""]",https://www.gbif.org/species/9678391
+LIBSRC-LIB50-ENT-BIO-0081441,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/2539844
+LIBSRC-LIB50-ENT-BIO-0085901,taxon_authority,"[""Tul. & C.Tul.""]",https://www.gbif.org/species/5262545
+LIBSRC-LIB50-ENT-BIO-0068791,taxon_authority,"[""Kuetz.""]",https://www.gbif.org/species/4269792
+LIBSRC-LIB50-ENT-BIO-0068891,taxon_authority,"[""(Esper) J.V.Lamour.""]",https://www.gbif.org/species/2643120
+LIBSRC-LIB50-ENT-BIO-0078161,taxon_authority,"[""(E.Ludw.) Musumeci & Contu""]",https://www.gbif.org/species/12256032
+LIBSRC-LIB50-ENT-BIO-0078461,taxon_authority,"[""L.Fan & N.Mao""]",https://www.gbif.org/species/11420091
+LIBSRC-LIB50-ENT-BIO-0080971,taxon_authority,"[""Dennis""]",https://www.gbif.org/species/3346441
+LIBSRC-LIB50-ENT-BIO-0081021,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/3345879
+LIBSRC-LIB50-ENT-BIO-0078311,taxon_authority,"[""Murrill""]",https://www.gbif.org/species/3560900
+LIBSRC-LIB50-ENT-BIO-0080481,taxon_authority,"[""G.M.Gates & Noordel.""]",https://www.gbif.org/species/7770157
+LIBSRC-LIB50-ENT-BIO-0081401,taxon_authority,"[""Petch""]",https://www.gbif.org/species/3345805
+LIBSRC-LIB50-ENT-BIO-0062091,taxon_authority,"[""B.Stabell, 1996""]",https://www.gbif.org/species/5421901
+LIBSRC-LIB50-ENT-BIO-0062101,taxon_authority,"[""Pantocsek, 1892""]",https://www.gbif.org/species/7508167
+LIBSRC-LIB50-ENT-BIO-0082031,taxon_authority,"[""(E.Horak) Noordel. & Co-David""]",https://www.gbif.org/species/8426250
+LIBSRC-LIB50-ENT-BIO-0061641,taxon_authority,"[""(Pass.) Magnus""]",https://www.gbif.org/species/3490460
+LIBSRC-LIB50-ENT-BIO-0081111,taxon_authority,"[""(Lasch) M.M.Moser, 1978""]",https://www.gbif.org/species/8055715
+LIBSRC-LIB50-ENT-BIO-0081891,taxon_authority,"[""Corner & E.Horak""]",https://www.gbif.org/species/3346365
+LIBSRC-LIB50-ENT-BIO-0081571,taxon_authority,"[""Largent""]",https://www.gbif.org/species/3346540
+LIBSRC-LIB50-ENT-BIO-0083531,taxon_authority,"[""Massee & Rodway""]",https://www.gbif.org/species/3445808
+LIBSRC-LIB50-ENT-BIO-0081711,taxon_authority,"[""Noordel. & Hauskn.""]",https://www.gbif.org/species/9781943
+LIBSRC-LIB50-ENT-BIO-0081701,taxon_authority,"[""Largent""]",https://www.gbif.org/species/7962369
+LIBSRC-LIB50-ENT-BIO-0081901,taxon_authority,"[""(Sacc. & Trotter) Blanco-Dios""]",https://www.gbif.org/species/9820028
+LIBSRC-LIB50-ENT-BIO-0081771,taxon_authority,"[""Murrill""]",https://www.gbif.org/species/2539805
+LIBSRC-LIB50-ENT-BIO-0080691,taxon_authority,"[""Hesler""]",https://www.gbif.org/species/3345992
+LIBSRC-LIB50-ENT-BIO-0078171,taxon_authority,"[""(Fr.) Vila & Contu""]",https://www.gbif.org/species/7655039
+LIBSRC-LIB50-ENT-BIO-0082261,taxon_authority,"[""(E.Horak) Noordel. & Co-David""]",https://www.gbif.org/species/7902830
+LIBSRC-LIB50-ENT-BIO-0068911,taxon_authority,"[""Petr.""]",https://www.gbif.org/species/3462279
+LIBSRC-LIB50-ENT-BIO-0082181,taxon_authority,"[""(Romagn. & Gilles) Noordel. & Co-David""]",https://www.gbif.org/species/7665800
+LIBSRC-LIB50-ENT-BIO-0084271,taxon_authority,"[""Tul. & C.Tul.""]",https://www.gbif.org/species/2568531
+LIBSRC-LIB50-ENT-BIO-0081731,taxon_authority,"[""Velen.""]",https://www.gbif.org/species/3345977
+LIBSRC-LIB50-ENT-BIO-0062861,taxon_authority,"[""Baral & E.Weber""]",https://www.gbif.org/species/3490389
+LIBSRC-LIB50-ENT-BIO-0078101,taxon_authority,"[""Vila & Contu""]",https://www.gbif.org/species/7417567
+LIBSRC-LIB50-ENT-BIO-0081651,taxon_authority,"[""Hesler""]",https://www.gbif.org/species/3346895
+LIBSRC-LIB50-ENT-BIO-0082071,taxon_authority,"[""(K\u00fchner & Romagn.) Noordel.""]",https://www.gbif.org/species/2539965
+LIBSRC-LIB50-ENT-BIO-0081121,taxon_authority,"[""G.Stev.""]",https://www.gbif.org/species/2539583
+LIBSRC-LIB50-ENT-BIO-0060871,taxon_authority,"[""Syd.""]",https://www.gbif.org/species/3486207
+LIBSRC-LIB50-ENT-BIO-0081871,taxon_authority,"[""Hauskn. & Noordel.""]",https://www.gbif.org/species/3346412
+LIBSRC-LIB50-ENT-BIO-0081081,taxon_authority,"[""E.Ludw., Hensel & M.Huth""]",https://www.gbif.org/species/7417857
+LIBSRC-LIB50-ENT-BIO-0081501,taxon_authority,"[""Corner & E.Horak""]",https://www.gbif.org/species/3345999
+LIBSRC-LIB50-ENT-BIO-0082981,taxon_authority,"[""(Largent) Largent, T.J.Baroni & V.Hofst.""]",https://www.gbif.org/species/8422534
+LIBSRC-LIB50-ENT-BIO-0083881,taxon_authority,"[""Lar.N.Vassiljeva""]",https://www.gbif.org/species/3445932
+LIBSRC-LIB50-ENT-BIO-0082021,taxon_authority,"[""(Massee) E.Horak""]",https://www.gbif.org/species/3346621
+LIBSRC-LIB50-ENT-BIO-0081301,taxon_authority,"[""Grgur.""]",https://www.gbif.org/species/3346263
+LIBSRC-LIB50-ENT-BIO-0081481,taxon_authority,"[""Hesler""]",https://www.gbif.org/species/3345952
+LIBSRC-LIB50-ENT-BIO-0061611,taxon_authority,"[""(Allesch.) Magnus""]",https://www.gbif.org/species/3490496
+LIBSRC-LIB50-ENT-BIO-0063351,taxon_authority,"[""(Henn.) Theiss.""]",https://www.gbif.org/species/3526947
+LIBSRC-LIB50-ENT-BIO-0063401,taxon_authority,"[""Chard\u00f3n & Toro""]",https://www.gbif.org/species/3302018
+LIBSRC-LIB50-ENT-BIO-0080431,taxon_authority,"[""Noordel.""]",https://www.gbif.org/species/2539435
+LIBSRC-LIB50-ENT-BIO-0080611,taxon_authority,"[""E.Horak""]",https://www.gbif.org/species/3346836
+LIBSRC-LIB50-ENT-BIO-0080921,taxon_authority,"[""A.Izhar, Kiran, Usman & Khalid""]",https://www.gbif.org/species/12241022
+LIBSRC-LIB50-ENT-BIO-0082291,taxon_authority,"[""(Henn.) Blanco-Dios""]",https://www.gbif.org/species/10686760
+LIBSRC-LIB50-ENT-BIO-0082891,taxon_authority,"[""Sesli & Vizzini""]",https://www.gbif.org/species/9689498
+LIBSRC-LIB50-ENT-BIO-0080571,taxon_authority,"[""Noordel. & G.M.Gates""]",https://www.gbif.org/species/9706338
+LIBSRC-LIB50-ENT-BIO-0081641,taxon_authority,"[""G.M.Gates & Noordel.""]",https://www.gbif.org/species/3346405
+LIBSRC-LIB50-ENT-BIO-0080501,taxon_authority,"[""(Desjardin & T.J.Baroni) Blanco-Dios""]",https://www.gbif.org/species/9645602
+LIBSRC-LIB50-ENT-BIO-0062271,taxon_authority,"[""Caballero, Khursevich & Velasco de Le\u00f3n, 2009""]",https://www.gbif.org/species/7653308
+LIBSRC-LIB50-ENT-BIO-0082511,taxon_authority,"[""(Reichardt) G.Stev.""]",https://www.gbif.org/species/2539706
+LIBSRC-LIB50-ENT-BIO-0081001,taxon_authority,"[""Largent""]",https://www.gbif.org/species/3345863
+LIBSRC-LIB50-ENT-BIO-0063861,taxon_authority,"[""(Nikiteeva & Likhoshway) Nakov et al., 2015""]",https://www.gbif.org/species/10334185
+LIBSRC-LIB50-ENT-BIO-0082381,taxon_authority,"[""(Henn.) Singer""]",https://www.gbif.org/species/3346599
+LIBSRC-LIB50-ENT-BIO-0067601,taxon_authority,"[""Aresch. ex Wittr.""]",https://www.gbif.org/species/2645214
+LIBSRC-LIB50-ENT-BIO-0068991,taxon_authority,"[""Sousa da C\u00e2mara""]",https://www.gbif.org/species/3462272
+LIBSRC-LIB50-ENT-BIO-0081311,taxon_authority,"[""Arnolds""]",https://www.gbif.org/species/2539639
+LIBSRC-LIB50-ENT-BIO-0080751,taxon_authority,"[""P.-A.Moreau, Corriol, Borgarino & Lavoise""]",https://www.gbif.org/species/3345973
+LIBSRC-LIB50-ENT-BIO-0080941,taxon_authority,"[""(Largent & Skye Moore) Noordel. & G.M.Gates""]",https://www.gbif.org/species/8282069
+LIBSRC-LIB50-ENT-BIO-0063871,taxon_authority,"[""(Loginova) Nakov et al., 2015""]",https://www.gbif.org/species/10529990
+LIBSRC-LIB50-ENT-BIO-0061501,taxon_authority,"[""(Berk. & M.A.Curtis) E.M\u00fcll.""]",https://www.gbif.org/species/2625274
+LIBSRC-LIB50-ENT-BIO-0062221,taxon_authority,"[""Khursevich & Kociolek, 2002""]",https://www.gbif.org/species/9470036
+LIBSRC-LIB50-ENT-BIO-0080641,taxon_authority,"[""(Hongo) Noordel. & Co-David""]",https://www.gbif.org/species/7723011
+LIBSRC-LIB50-ENT-BIO-0082881,taxon_authority,"[""K.N.A.Raj, K.P.D.Latha & Manim.""]",https://www.gbif.org/species/9733931
+LIBSRC-LIB50-ENT-BIO-0083581,taxon_authority,"[""Link""]",https://www.gbif.org/species/3445926
+LIBSRC-LIB50-ENT-BIO-0081371,taxon_authority,"[""G.Stev.""]",https://www.gbif.org/species/2539412
+LIBSRC-LIB50-ENT-BIO-0078221,taxon_authority,"[""(T.J.Baroni & E.Horak) Noordel. & Co-David""]",https://www.gbif.org/species/7629835
+LIBSRC-LIB50-ENT-BIO-0083601,taxon_authority,"[""Oudem.""]",https://www.gbif.org/species/3445819
+LIBSRC-LIB50-ENT-BIO-0080541,taxon_authority,"[""(Karstedt & Capelari) Blanco-Dios""]",https://www.gbif.org/species/9703213
+LIBSRC-LIB50-ENT-BIO-0084281,taxon_authority,"[""Speg., 1887""]",https://www.gbif.org/species/2568588
+LIBSRC-LIB50-ENT-BIO-0063831,taxon_authority,"[""(F.Sch\u00fctt) De Toni & Forti""]",https://www.gbif.org/species/10557327
+LIBSRC-LIB50-ENT-BIO-0062581,taxon_authority,"[""Speg.""]",https://www.gbif.org/species/5440658
+LIBSRC-LIB50-ENT-BIO-0081851,taxon_authority,"[""Hesler""]",https://www.gbif.org/species/3346896
+LIBSRC-LIB50-ENT-BIO-0085261,taxon_authority,"[""Jacz.""]",https://www.gbif.org/species/3536125
+LIBSRC-LIB50-ENT-BIO-0082151,taxon_authority,"[""(Sacc.) E.Horak ex Courtec.""]",https://www.gbif.org/species/7383377
+LIBSRC-LIB50-ENT-BIO-0078091,taxon_authority,"[""Herp.""]",https://www.gbif.org/species/3345599
+LIBSRC-LIB50-ENT-BIO-0082061,taxon_authority,"[""(Singer) Singer""]",https://www.gbif.org/species/3346718
+LIBSRC-LIB50-ENT-BIO-0082211,taxon_authority,"[""(Romagn.) Noordel. & Co-David""]",https://www.gbif.org/species/7796307
+LIBSRC-LIB50-ENT-BIO-0080991,taxon_authority,"[""Eidissen, Lor\u00e5s & Weholt""]",https://www.gbif.org/species/7516261
+LIBSRC-LIB50-ENT-BIO-0062081,taxon_authority,"[""Schmidt, 1888""]",https://www.gbif.org/species/9575244
+LIBSRC-LIB50-ENT-BIO-0085921,taxon_authority,"[""Kirschst.""]",https://www.gbif.org/species/5510693
+LIBSRC-LIB50-ENT-BIO-0083741,taxon_authority,"[""(Cooke) M.E.Barr""]",https://www.gbif.org/species/3528688
+LIBSRC-LIB50-ENT-BIO-0085181,taxon_authority,"[""(G.H.Otth) M.E.Barr""]",https://www.gbif.org/species/2567072
+LIBSRC-LIB50-ENT-BIO-0084311,taxon_authority,"[""(Peck) Wehm.""]",https://www.gbif.org/species/2568534
+LIBSRC-LIB50-ENT-BIO-0085301,taxon_authority,"[""Voglmayr & Jaklitsch""]",https://www.gbif.org/species/7365260
+LIBSRC-LIB50-ENT-BIO-0083621,taxon_authority,"[""(Bres.) Died.""]",https://www.gbif.org/species/3445875
+LIBSRC-LIB50-ENT-BIO-0085091,taxon_authority,"[""Speg.""]",https://www.gbif.org/species/8115506
+LIBSRC-LIB50-ENT-BIO-0083591,taxon_authority,"[""Sacc.""]",https://www.gbif.org/species/3445815
+LIBSRC-LIB50-ENT-BIO-0083541,taxon_authority,"[""Syd. & P.Syd.""]",https://www.gbif.org/species/3445922
+LIBSRC-LIB50-ENT-BIO-0085271,taxon_authority,"[""(Petr.) E.M\u00fcll.""]",https://www.gbif.org/species/3295030
+LIBSRC-LIB50-ENT-BIO-0083931,taxon_authority,"[""J.Reid & C.Booth""]",https://www.gbif.org/species/5481729
+LIBSRC-LIB50-ENT-BIO-0084301,taxon_authority,"[""Oudem.""]",https://www.gbif.org/species/3445681
+LIBSRC-LIB50-ENT-BIO-0084081,taxon_authority,"[""(Ellis & Everh.) M.Monod""]",https://www.gbif.org/species/5481745
+LIBSRC-LIB50-ENT-BIO-0085081,taxon_authority,"[""Speg.""]",https://www.gbif.org/species/8417787
+LIBSRC-LIB50-ENT-BIO-0086041,taxon_authority,"[""H\u00f6hn.""]",https://www.gbif.org/species/3445735
+LIBSRC-LIB50-ENT-BIO-0083891,taxon_authority,"[""(Harkn.) Theiss.""]",https://www.gbif.org/species/6355349
+LIBSRC-LIB50-ENT-BIO-0085291,taxon_authority,"[""Nas\u0233rov""]",https://www.gbif.org/species/3536081
+LIBSRC-LIB50-ENT-BIO-0085311,taxon_authority,"[""(Voglmayr & Jaklitsch) Voglmayr & Jaklitsch""]",https://www.gbif.org/species/7863761
+LIBSRC-LIB50-ENT-BIO-0067651,taxon_authority,"[""(Thur.) Wittr.""]",https://www.gbif.org/species/2645215
+LIBSRC-LIB50-ENT-BIO-0068781,taxon_authority,"[""Lucas""]",https://www.gbif.org/species/2642877
+LIBSRC-LIB50-ENT-BIO-0068881,taxon_authority,"[""(Suhr) Hering""]",https://www.gbif.org/species/2642915
+LIBSRC-LIB50-ENT-BIO-0068701,taxon_authority,"[""Harv.""]",https://www.gbif.org/species/2643036
+LIBSRC-LIB50-ENT-BIO-0068841,taxon_authority,"[""Bory, 1828""]",https://www.gbif.org/species/2643015
+LIBSRC-LIB50-ENT-BIO-0068831,taxon_authority,"[""(S.G.Gmel.) M.Howe""]",https://www.gbif.org/species/2642922
+LIBSRC-LIB50-ENT-BIO-0071331,taxon_authority,"[""Meneghini, 1857""]",https://www.gbif.org/species/11147891
+LIBSRC-LIB50-ENT-BIO-0068821,taxon_authority,"[""W.V.Bosse""]",https://www.gbif.org/species/4269791
+LIBSRC-LIB50-ENT-BIO-0068721,taxon_authority,"[""Bailey & Harvey""]",https://www.gbif.org/species/4269787
+LIBSRC-LIB50-ENT-BIO-0068951,taxon_authority,"[""K.D.Hyde, 1992""]",https://www.gbif.org/species/6123816
+LIBSRC-LIB50-ENT-BIO-0072291,taxon_authority,"[""Kirschst.""]",https://www.gbif.org/species/6355786
+LIBSRC-LIB50-ENT-BIO-0068941,taxon_authority,"[""Petr.""]",https://www.gbif.org/species/3462324
+LIBSRC-LIB50-ENT-BIO-0068981,taxon_authority,"[""Grove""]",https://www.gbif.org/species/2574494
+LIBSRC-LIB50-ENT-BIO-0068961,taxon_authority,"[""Raja & Shearer""]",https://www.gbif.org/species/3462344
+LIBSRC-LIB50-ENT-BIO-0069011,taxon_authority,"[""(Sacc.) N.Lundq.""]",https://www.gbif.org/species/2574495
+LIBSRC-LIB50-ENT-BIO-0068921,taxon_authority,"[""Tilak & Talde""]",https://www.gbif.org/species/3462300
+LIBSRC-LIB50-ENT-BIO-0064461,taxon_authority,"[""(Druart & F.Straub, 1988) K.T.Kiss & \u00c1cs, 2016""]",https://www.gbif.org/species/10507660
+LIBSRC-LIB50-ENT-BIO-0064451,taxon_authority,"[""(Grunow, 1882) K.T.Kiss & \u00c1cs, 2016""]",https://www.gbif.org/species/10400327
+LIBSRC-LIB50-ENT-BIO-0062671,taxon_authority,"[""Genkal & Kuzmina, 1985""]",https://www.gbif.org/species/7463160
+LIBSRC-LIB50-ENT-BIO-0062041,taxon_authority,"[""Paill\u00e8s & Sylvestre, 2020""]",https://www.gbif.org/species/10867738
+LIBSRC-LIB50-ENT-BIO-0061521,taxon_authority,"[""E.C.Theriot & J.P.Bradbury, 1989""]",https://www.gbif.org/species/3193348
+LIBSRC-LIB50-ENT-BIO-0061581,taxon_authority,"[""L.P.Loginova, E.G.Lupikina & G.K.Khursevich, 1984""]",https://www.gbif.org/species/7643087
+LIBSRC-LIB50-ENT-BIO-0062211,taxon_authority,"[""Khursevich & Fedenya, 2003""]",https://www.gbif.org/species/11170357
+LIBSRC-LIB50-ENT-BIO-0064471,taxon_authority,"[""(B.Meyer & H\u00e5kansson) K.T.Kiss & \u00c1cs, 2016""]",https://www.gbif.org/species/10074374
+LIBSRC-LIB50-ENT-BIO-0063821,taxon_authority,"[""(Genkal & Bondarenko) Nakov et al., 2015""]",https://www.gbif.org/species/10090021
+LIBSRC-LIB50-ENT-BIO-0060881,taxon_authority,"[""(Ferd. & Winge) Nannf.""]",https://www.gbif.org/species/3486204
+LIBSRC-LIB50-ENT-BIO-0062871,taxon_authority,"[""Rimpau""]",https://www.gbif.org/species/2580859
+LIBSRC-LIB50-ENT-BIO-0061671,taxon_authority,"[""(Bres.) Magnus""]",https://www.gbif.org/species/3490436
+LIBSRC-LIB50-ENT-BIO-0061911,taxon_authority,"[""P.Karst.""]",https://www.gbif.org/species/7408248
+LIBSRC-LIB50-ENT-BIO-0061551,taxon_authority,"[""Chuan F.Zhang & P.K.Chi""]",https://www.gbif.org/species/3490474
+LIBSRC-LIB50-ENT-BIO-0061621,taxon_authority,"[""(Sacc.) Magnus""]",https://www.gbif.org/species/3490500
+LIBSRC-LIB50-ENT-BIO-0061531,taxon_authority,"[""B.Sutton""]",https://www.gbif.org/species/3490438
+LIBSRC-LIB50-ENT-BIO-0062881,taxon_authority,"[""(Lib.) Rossman & W.C.Allen""]",https://www.gbif.org/species/10032630
+LIBSRC-LIB50-ENT-BIO-0104591,taxon_authority,"[""Xi et al., 2011""]",https://www.gbif.org/species/7721968
+LIBSRC-LIB50-ENT-BIO-0104541,taxon_authority,"[""Wang et al., 2017""]",https://www.gbif.org/species/9312618
+LIBSRC-LIB50-ENT-BIO-0113621,taxon_authority,"[""Kuck.""]",https://www.gbif.org/species/5423239
+LIBSRC-LIB50-ENT-BIO-0114151,taxon_authority,"[""Griggs""]",https://www.gbif.org/species/3291330
+LIBSRC-LIB50-ENT-BIO-0120871,taxon_authority,"[""Ginns""]",https://www.gbif.org/species/5240156
+LIBSRC-LIB50-ENT-BIO-0113631,taxon_authority,"[""Cailleux""]",https://www.gbif.org/species/5254128
+LIBSRC-LIB50-ENT-BIO-0104441,taxon_authority,"[""Kalymb.""]",https://www.gbif.org/species/3541308
+LIBSRC-LIB50-ENT-BIO-0118001,taxon_authority,"[""(Kantvilas) Kantvilas & A.R.Nilsen""]",https://www.gbif.org/species/12219227
+LIBSRC-LIB50-ENT-BIO-0107821,taxon_authority,"[""Schaer.""]",https://www.gbif.org/species/5260510
+LIBSRC-LIB50-ENT-BIO-0104481,taxon_authority,"[""(Schulzer) Sacc. & Traverso""]",https://www.gbif.org/species/3540874
+LIBSRC-LIB50-ENT-BIO-0104491,taxon_authority,"[""(Schulzer) Sacc. & Traverso""]",https://www.gbif.org/species/3541550
+LIBSRC-LIB50-ENT-BIO-0104041,taxon_authority,"[""Abbas, B.Sutton & Ghaffar""]",https://www.gbif.org/species/3541472
+LIBSRC-LIB50-ENT-BIO-0104501,taxon_authority,"[""(Sacc.) Biga, Cif. & Bestagno""]",https://www.gbif.org/species/3540986
+LIBSRC-LIB50-ENT-BIO-0107931,taxon_authority,"[""DC.""]",https://www.gbif.org/species/4281262
+LIBSRC-LIB50-ENT-BIO-0111781,taxon_authority,"[""(Zsch.) Llano""]",https://www.gbif.org/species/7249032
+LIBSRC-LIB50-ENT-BIO-0104281,taxon_authority,"[""Ferraris""]",https://www.gbif.org/species/3541441
+LIBSRC-LIB50-ENT-BIO-0104451,taxon_authority,"[""Ellis & Everh.""]",https://www.gbif.org/species/3540860
+LIBSRC-LIB50-ENT-BIO-0104381,taxon_authority,"[""Ferraris""]",https://www.gbif.org/species/3541400
+LIBSRC-LIB50-ENT-BIO-0104051,taxon_authority,"[""Oudem.""]",https://www.gbif.org/species/3541242
+LIBSRC-LIB50-ENT-BIO-0113681,taxon_authority,"[""Mirza & Cain""]",https://www.gbif.org/species/5486063
+LIBSRC-LIB50-ENT-BIO-0107871,taxon_authority,"[""J.Fr\u00f6hl. & K.D.Hyde""]",https://www.gbif.org/species/3464200
+LIBSRC-LIB50-ENT-BIO-0104321,taxon_authority,"[""A.L.Guyot""]",https://www.gbif.org/species/3541357
+LIBSRC-LIB50-ENT-BIO-0104521,taxon_authority,"[""(Cooke & Massee) Tassi""]",https://www.gbif.org/species/3541272
+LIBSRC-LIB50-ENT-BIO-0104131,taxon_authority,"[""Lobik""]",https://www.gbif.org/species/3541487
+LIBSRC-LIB50-ENT-BIO-0104171,taxon_authority,"[""V.P.Sahni""]",https://www.gbif.org/species/3540984
+LIBSRC-LIB50-ENT-BIO-0104341,taxon_authority,"[""Kalymb.""]",https://www.gbif.org/species/3541536
+LIBSRC-LIB50-ENT-BIO-0107191,taxon_authority,"[""Crous & M.J.Wingf.""]",https://www.gbif.org/species/9668656
+LIBSRC-LIB50-ENT-BIO-0104371,taxon_authority,"[""Brunaud, 1892""]",https://www.gbif.org/species/3541422
+LIBSRC-LIB50-ENT-BIO-0104271,taxon_authority,"[""Bondartsev""]",https://www.gbif.org/species/3541016
+LIBSRC-LIB50-ENT-BIO-0104261,taxon_authority,"[""Cooke""]",https://www.gbif.org/species/3540919
+LIBSRC-LIB50-ENT-BIO-0104151,taxon_authority,"[""Holl\u00f3s""]",https://www.gbif.org/species/3541208
+LIBSRC-LIB50-ENT-BIO-0104061,taxon_authority,"[""Abbas, B.Sutton & Ghaffar""]",https://www.gbif.org/species/3541426
+LIBSRC-LIB50-ENT-BIO-0117121,taxon_authority,"[""W.G.Schneid.""]",https://www.gbif.org/species/8641758
+LIBSRC-LIB50-ENT-BIO-0117381,taxon_authority,"[""(P.Karst.) Gutner""]",https://www.gbif.org/species/5467294
+LIBSRC-LIB50-ENT-BIO-0117181,taxon_authority,"[""G.P.Clinton""]",https://www.gbif.org/species/5467276
+LIBSRC-LIB50-ENT-BIO-0114991,taxon_authority,"[""(M\u00fcll.Arg.) R.C.Harris""]",https://www.gbif.org/species/2626804
+LIBSRC-LIB50-ENT-BIO-0115691,taxon_authority,"[""M\u00fcll.Arg.""]",https://www.gbif.org/species/2626206
+LIBSRC-LIB50-ENT-BIO-0104901,taxon_authority,"[""Al-Zarban et al., 2002""]",https://www.gbif.org/species/3225041
+LIBSRC-LIB50-ENT-BIO-0105041,taxon_authority,"[""Boondaeng et al., 2011""]",https://www.gbif.org/species/8259672
+LIBSRC-LIB50-ENT-BIO-0104601,taxon_authority,"[""(Zhukova et al., 1968) Zhang et al., 1998""]",https://www.gbif.org/species/4902799
+LIBSRC-LIB50-ENT-BIO-0105261,taxon_authority,"[""Cao et al., 2009""]",https://www.gbif.org/species/8246348
+LIBSRC-LIB50-ENT-BIO-0104581,taxon_authority,"[""Ozdemir-Kocak et al., 2014""]",https://www.gbif.org/species/7472718
+LIBSRC-LIB50-ENT-BIO-0104881,taxon_authority,"[""K\u00e4mpfer et al., 2002""]",https://www.gbif.org/species/8195242
+LIBSRC-LIB50-ENT-BIO-0104911,taxon_authority,"[""Gao et al., 2016""]",https://www.gbif.org/species/9520868
+LIBSRC-LIB50-ENT-BIO-0106181,taxon_authority,"[""Suriyachadkun et al., 2015""]",https://www.gbif.org/species/8041753
+LIBSRC-LIB50-ENT-BIO-0104551,taxon_authority,"[""Wang et al., 2017""]",https://www.gbif.org/species/9776866
+LIBSRC-LIB50-ENT-BIO-0106291,taxon_authority,"[""Nonomura & Ohara, 1960""]",https://www.gbif.org/species/3225584
+LIBSRC-LIB50-ENT-BIO-0104921,taxon_authority,"[""Schippers et al., 2002""]",https://www.gbif.org/species/3225024
+LIBSRC-LIB50-ENT-BIO-0106281,taxon_authority,"[""Zhang et al., 2009""]",https://www.gbif.org/species/7949545
+LIBSRC-LIB50-ENT-BIO-0105171,taxon_authority,"[""Suriyachadkun et al., 2016""]",https://www.gbif.org/species/9432715
+LIBSRC-LIB50-ENT-BIO-0121241,taxon_authority,"[""(G.Karst.) S.Blanco & C.E.Wetzel, 2016""]",https://www.gbif.org/species/9830268
+LIBSRC-LIB50-ENT-BIO-0113561,taxon_authority,"[""(Grunow) De Toni, 1891""]",https://www.gbif.org/species/9496690
+LIBSRC-LIB50-ENT-BIO-0116071,taxon_authority,"[""Tokun.""]",https://www.gbif.org/species/7481977
+LIBSRC-LIB50-ENT-BIO-0116091,taxon_authority,"[""G.L.Barron & Szijarto""]",https://www.gbif.org/species/3385312
+LIBSRC-LIB50-ENT-BIO-0104161,taxon_authority,"[""H.C.Greene""]",https://www.gbif.org/species/3541153
+LIBSRC-LIB50-ENT-BIO-0106101,taxon_authority,"[""Shoemaker & C.E.Babc.""]",https://www.gbif.org/species/3537957
+LIBSRC-LIB50-ENT-BIO-0117331,taxon_authority,"[""Transeau, 1917""]",https://www.gbif.org/species/4269675
+LIBSRC-LIB50-ENT-BIO-0106261,taxon_authority,"[""Sazak et al., 2012""]",https://www.gbif.org/species/7557191
+LIBSRC-LIB50-ENT-BIO-0115701,taxon_authority,"[""(M\u00fcll.Arg.) Zahlbr.""]",https://www.gbif.org/species/3513611
+LIBSRC-LIB50-ENT-BIO-0106851,taxon_authority,"[""(Locci et al., 1967) Zhang et al., 1998""]",https://www.gbif.org/species/3225018
+LIBSRC-LIB50-ENT-BIO-0117361,taxon_authority,"[""Hirn""]",https://www.gbif.org/species/7449211
+LIBSRC-LIB50-ENT-BIO-0117291,taxon_authority,"[""Hirn""]",https://www.gbif.org/species/8180525
+LIBSRC-LIB50-ENT-BIO-0117201,taxon_authority,"[""Islam & Sarma""]",https://www.gbif.org/species/7618880
+LIBSRC-LIB50-ENT-BIO-0113691,taxon_authority,"[""R.S.Khan & J.C.Krug""]",https://www.gbif.org/species/5486032
+LIBSRC-LIB50-ENT-BIO-0113641,taxon_authority,"[""Rehm""]",https://www.gbif.org/species/5486089
+LIBSRC-LIB50-ENT-BIO-0113791,taxon_authority,"[""Evitt, 1967""]",https://www.gbif.org/species/6878530
+LIBSRC-LIB50-ENT-BIO-0114631,taxon_authority,"[""(C.N.Jensen) X.Wei Wang & Houbraken""]",https://www.gbif.org/species/10844974
+LIBSRC-LIB50-ENT-BIO-0113401,taxon_authority,"[""(Stchigel & Guarro) X.Wei Wang & Houbraken""]",https://www.gbif.org/species/10807269
+LIBSRC-LIB50-ENT-BIO-0117401,taxon_authority,"[""(Cif.) V\u00e1nky & M.Lutz""]",https://www.gbif.org/species/5467277
+LIBSRC-LIB50-ENT-BIO-0113531,taxon_authority,"[""Paddock, 1988""]",https://www.gbif.org/species/8375910
+LIBSRC-LIB50-ENT-BIO-0104111,taxon_authority,"[""Cotton""]",https://www.gbif.org/species/3541320
+LIBSRC-LIB50-ENT-BIO-0104511,taxon_authority,"[""(R.B.Stewart) Verkley & Gruyter""]",https://www.gbif.org/species/8342808
+LIBSRC-LIB50-ENT-BIO-0106111,taxon_authority,"[""Brahmanage, Camporesi & K.D.Hyde""]",https://www.gbif.org/species/12214461
+LIBSRC-LIB50-ENT-BIO-0103341,taxon_authority,"[""Cantillo & Gusm\u00e3o""]",https://www.gbif.org/species/10846324
+LIBSRC-LIB50-ENT-BIO-0104291,taxon_authority,"[""Staritz""]",https://www.gbif.org/species/3541557
+LIBSRC-LIB50-ENT-BIO-0117161,taxon_authority,"[""Wittrock & Zeller""]",https://www.gbif.org/species/7868204
+LIBSRC-LIB50-ENT-BIO-0104251,taxon_authority,"[""Khokhr. & Dyur.""]",https://www.gbif.org/species/3540993
+LIBSRC-LIB50-ENT-BIO-0120151,taxon_authority,"[""E.P.Wright""]",https://www.gbif.org/species/2641666
+LIBSRC-LIB50-ENT-BIO-0104431,taxon_authority,"[""Ellis & H.W.Anderson""]",https://www.gbif.org/species/2618655
+LIBSRC-LIB50-ENT-BIO-0107911,taxon_authority,"[""K.D.Hyde""]",https://www.gbif.org/species/3464205
+LIBSRC-LIB50-ENT-BIO-0104231,taxon_authority,"[""Henn.""]",https://www.gbif.org/species/3541558
+LIBSRC-LIB50-ENT-BIO-0113521,taxon_authority,"[""Paddock, 1988""]",https://www.gbif.org/species/8040390
+LIBSRC-LIB50-ENT-BIO-0104211,taxon_authority,"[""Curzi""]",https://www.gbif.org/species/3541060
+LIBSRC-LIB50-ENT-BIO-0117281,taxon_authority,"[""Nordst.""]",https://www.gbif.org/species/2640188
+LIBSRC-LIB50-ENT-BIO-0120841,taxon_authority,"[""Rick""]",https://www.gbif.org/species/5462575
+LIBSRC-LIB50-ENT-BIO-0120651,taxon_authority,"[""Strehlow""]",https://www.gbif.org/species/4269958
+LIBSRC-LIB50-ENT-BIO-0102471,taxon_authority,"[""Zhao et al., 2015""]",https://www.gbif.org/species/8794444
+LIBSRC-LIB50-ENT-BIO-0107951,taxon_authority,"[""(Schaer.) Frey""]",https://www.gbif.org/species/5260494
+LIBSRC-LIB50-ENT-BIO-0107961,taxon_authority,"[""(Du Rietz & Frey) Frey""]",https://www.gbif.org/species/7249019
+LIBSRC-LIB50-ENT-BIO-0104391,taxon_authority,"[""H.C.Greene""]",https://www.gbif.org/species/3541096
+LIBSRC-LIB50-ENT-BIO-0102861,taxon_authority,"[""Poonyth, K.D.Hyde, Aptroot & Peerally""]",https://www.gbif.org/species/2598894
+LIBSRC-LIB50-ENT-BIO-0104301,taxon_authority,"[""Nann.""]",https://www.gbif.org/species/3541548
+LIBSRC-LIB50-ENT-BIO-0104361,taxon_authority,"[""Rostr.""]",https://www.gbif.org/species/3541515
+LIBSRC-LIB50-ENT-BIO-0120161,taxon_authority,"[""(Borzi) Bristol""]",https://www.gbif.org/species/4923503
+LIBSRC-LIB50-ENT-BIO-0107831,taxon_authority,"[""Codogno, Poelt & Puntillo""]",https://www.gbif.org/species/5479498
+LIBSRC-LIB50-ENT-BIO-0117241,taxon_authority,"[""Wittr.""]",https://www.gbif.org/species/8267013
+LIBSRC-LIB50-ENT-BIO-0104561,taxon_authority,"[""Li et al., 2012""]",https://www.gbif.org/species/8017951
+LIBSRC-LIB50-ENT-BIO-0119851,taxon_authority,"[""Wittr.""]",https://www.gbif.org/species/2640330
+LIBSRC-LIB50-ENT-BIO-0113741,taxon_authority,"[""(Cain) Cain""]",https://www.gbif.org/species/5486064
+LIBSRC-LIB50-ENT-BIO-0105061,taxon_authority,"[""Kaz.Tanaka & S.H.Iqbal""]",https://www.gbif.org/species/5953893
+LIBSRC-LIB50-ENT-BIO-0120881,taxon_authority,"[""(Berk. & Broome) Cooke""]",https://www.gbif.org/species/5240173
+LIBSRC-LIB50-ENT-BIO-0107891,taxon_authority,"[""Rehm ex Sacc.""]",https://www.gbif.org/species/12264635
+LIBSRC-LIB50-ENT-BIO-0107921,taxon_authority,"[""J.Fr\u00f6hl. & K.D.Hyde""]",https://www.gbif.org/species/3464207
+LIBSRC-LIB50-ENT-BIO-0107801,taxon_authority,"[""M.K.M.Wong & K.D.Hyde""]",https://www.gbif.org/species/3464228
+LIBSRC-LIB50-ENT-BIO-0107901,taxon_authority,"[""K.D.Hyde""]",https://www.gbif.org/species/3464224
+LIBSRC-LIB50-ENT-BIO-0107981,taxon_authority,"[""(Berk.) K.D.Hyde""]",https://www.gbif.org/species/2574310
+LIBSRC-LIB50-ENT-BIO-0107971,taxon_authority,"[""(Ces. & De Not.) K.D.Hyde""]",https://www.gbif.org/species/3464255
+LIBSRC-LIB50-ENT-BIO-0104331,taxon_authority,"[""(J.B.Petersen) H.Lange-Bertalot, M.S.Kulikovskiy & A.Witkowski, 2010""]",https://www.gbif.org/species/9273067
+LIBSRC-LIB50-ENT-BIO-0107861,taxon_authority,"[""Nyl., 1859""]",https://www.gbif.org/species/5260479
+LIBSRC-LIB50-ENT-BIO-0107841,taxon_authority,"[""DC.""]",https://www.gbif.org/species/5260477
+LIBSRC-LIB50-ENT-BIO-0107941,taxon_authority,"[""(Miyoshi) Minks""]",https://www.gbif.org/species/5260525
+LIBSRC-LIB50-ENT-BIO-0104221,taxon_authority,"[""Racov.""]",https://www.gbif.org/species/3541321
+LIBSRC-LIB50-ENT-BIO-0104461,taxon_authority,"[""(Sacc.) Biga, Cif. & Bestagno""]",https://www.gbif.org/species/2618663
+LIBSRC-LIB50-ENT-BIO-0104101,taxon_authority,"[""P\u0159\u00edhoda""]",https://www.gbif.org/species/3541035
+LIBSRC-LIB50-ENT-BIO-0104401,taxon_authority,"[""Sawada""]",https://www.gbif.org/species/2618624
+LIBSRC-LIB50-ENT-BIO-0104181,taxon_authority,"[""Richon, 1889""]",https://www.gbif.org/species/3540889
+LIBSRC-LIB50-ENT-BIO-0104351,taxon_authority,"[""Gonz.Frag.""]",https://www.gbif.org/species/3540820
+LIBSRC-LIB50-ENT-BIO-0104071,taxon_authority,"[""Dayar., Thyagaraja & K.D.Hyde""]",https://www.gbif.org/species/11816050
+LIBSRC-LIB50-ENT-BIO-0104411,taxon_authority,"[""Brunaud""]",https://www.gbif.org/species/3541458
+LIBSRC-LIB50-ENT-BIO-0104081,taxon_authority,"[""Earle""]",https://www.gbif.org/species/3540964
+LIBSRC-LIB50-ENT-BIO-0104141,taxon_authority,"[""Sacc. & Briard, 1884""]",https://www.gbif.org/species/3540827
+LIBSRC-LIB50-ENT-BIO-0104241,taxon_authority,"[""T\u00f3th""]",https://www.gbif.org/species/3540967
+LIBSRC-LIB50-ENT-BIO-0104471,taxon_authority,"[""(Fautrey & Lambotte) Tassi""]",https://www.gbif.org/species/3541259
+LIBSRC-LIB50-ENT-BIO-0104311,taxon_authority,"[""Cooke & Harkn.""]",https://www.gbif.org/species/2618753
+LIBSRC-LIB50-ENT-BIO-0104201,taxon_authority,"[""Speg.""]",https://www.gbif.org/species/3541409
+LIBSRC-LIB50-ENT-BIO-0106421,taxon_authority,"[""B.Sutton""]",https://www.gbif.org/species/3550999
+LIBSRC-LIB50-ENT-BIO-0104121,taxon_authority,"[""Bub\u00e1k""]",https://www.gbif.org/species/3541346
+LIBSRC-LIB50-ENT-BIO-0106441,taxon_authority,"[""(Ellis & Tracy) Tehon, 1945""]",https://www.gbif.org/species/2588064
+LIBSRC-LIB50-ENT-BIO-0104091,taxon_authority,"[""Oudem.""]",https://www.gbif.org/species/6096209
+LIBSRC-LIB50-ENT-BIO-0104421,taxon_authority,"[""Schwarzman""]",https://www.gbif.org/species/7775905
+LIBSRC-LIB50-ENT-BIO-0104191,taxon_authority,"[""Speg.""]",https://www.gbif.org/species/3541167
+LIBSRC-LIB50-ENT-BIO-0104031,taxon_authority,"[""Petr.""]",https://www.gbif.org/species/3541175
+LIBSRC-LIB50-ENT-BIO-0113701,taxon_authority,"[""Y.P.Tan""]",https://www.gbif.org/species/12227751
+LIBSRC-LIB50-ENT-BIO-0113721,taxon_authority,"[""R.S.Khan & J.C.Krug""]",https://www.gbif.org/species/5486114
+LIBSRC-LIB50-ENT-BIO-0113651,taxon_authority,"[""A.E.Bell & Mahoney""]",https://www.gbif.org/species/8882016
+LIBSRC-LIB50-ENT-BIO-0113731,taxon_authority,"[""(Speg.) Niessl""]",https://www.gbif.org/species/5254100
+LIBSRC-LIB50-ENT-BIO-0114641,taxon_authority,"[""(C.Boucher, T.S.Nguyen & Silar) X.Wei Wang & Houbraken""]",https://www.gbif.org/species/10711890
+LIBSRC-LIB50-ENT-BIO-0113771,taxon_authority,"[""(Griffiths) Cain""]",https://www.gbif.org/species/5486116
+LIBSRC-LIB50-ENT-BIO-0113761,taxon_authority,"[""(Griffiths) Cain""]",https://www.gbif.org/species/5486058
+LIBSRC-LIB50-ENT-BIO-0113661,taxon_authority,"[""R.S.Khan & J.C.Krug""]",https://www.gbif.org/species/5254129
+LIBSRC-LIB50-ENT-BIO-0113671,taxon_authority,"[""C.Ram""]",https://www.gbif.org/species/5486033
+LIBSRC-LIB50-ENT-BIO-0113751,taxon_authority,"[""(Auersw.) Niessl""]",https://www.gbif.org/species/5254104
+LIBSRC-LIB50-ENT-BIO-0106371,taxon_authority,"[""Checa, Shoemaker & L.Uma\u00f1a""]",https://www.gbif.org/species/3526269
+LIBSRC-LIB50-ENT-BIO-0106381,taxon_authority,"[""(Ellis & Everh.) M.E.Barr""]",https://www.gbif.org/species/2613593
+LIBSRC-LIB50-ENT-BIO-0106121,taxon_authority,"[""(Cooke) Ariyaw. & K.D.Hyde""]",https://www.gbif.org/species/7804545
+LIBSRC-LIB50-ENT-BIO-0106481,taxon_authority,"[""Wehm.""]",https://www.gbif.org/species/2616528
+LIBSRC-LIB50-ENT-BIO-0114241,taxon_authority,"[""Yonesh. & Boudour.""]",https://www.gbif.org/species/3199668
+LIBSRC-LIB50-ENT-BIO-0117431,taxon_authority,"[""Shearer, A.N.Mill. & A.Ferrer""]",https://www.gbif.org/species/7695832
+LIBSRC-LIB50-ENT-BIO-0145111,taxon_authority,"[""Buyck & Ovrebo""]",https://www.gbif.org/species/3359180
+LIBSRC-LIB50-ENT-BIO-0145671,taxon_authority,"[""Singer""]",https://www.gbif.org/species/7713689
+LIBSRC-LIB50-ENT-BIO-0122141,taxon_authority,"[""S.Ahmad""]",https://www.gbif.org/species/3554860
+LIBSRC-LIB50-ENT-BIO-0145721,taxon_authority,"[""Murrill""]",https://www.gbif.org/species/3359289
+LIBSRC-LIB50-ENT-BIO-0144861,taxon_authority,"[""Velen.""]",https://www.gbif.org/species/7807484
+LIBSRC-LIB50-ENT-BIO-0145611,taxon_authority,"[""Buyck""]",https://www.gbif.org/species/3359320
+LIBSRC-LIB50-ENT-BIO-0144811,taxon_authority,"[""Razzaq, Naseer & Khalid, 2023""]",https://www.gbif.org/species/12209243
+LIBSRC-LIB50-ENT-BIO-0128301,taxon_authority,"[""C.F.J.Spies, Moyo, Halleen & L.Mostert""]",https://www.gbif.org/species/10701266
+LIBSRC-LIB50-ENT-BIO-0141781,taxon_authority,"[""(Corner) T.Hatt.""]",https://www.gbif.org/species/5239339
+LIBSRC-LIB50-ENT-BIO-0145261,taxon_authority,"[""S.L.Mill., Aime & T.W.Henkel""]",https://www.gbif.org/species/7654191
+LIBSRC-LIB50-ENT-BIO-0138041,taxon_authority,"[""T.Hatt. & Sotome""]",https://www.gbif.org/species/8260693
+LIBSRC-LIB50-ENT-BIO-0137251,taxon_authority,"[""Lloyd""]",https://www.gbif.org/species/5463936
+LIBSRC-LIB50-ENT-BIO-0131231,taxon_authority,"[""Lin Li & Shu H.Li""]",https://www.gbif.org/species/10706483
+LIBSRC-LIB50-ENT-BIO-0144871,taxon_authority,"[""A.Kong & Buyck""]",https://www.gbif.org/species/10746039
+LIBSRC-LIB50-ENT-BIO-0141761,taxon_authority,"[""Ryvarden""]",https://www.gbif.org/species/10708068
+LIBSRC-LIB50-ENT-BIO-0123521,taxon_authority,"[""(Hook.f. & Taylor) D.J.Galloway""]",https://www.gbif.org/species/2600347
+LIBSRC-LIB50-ENT-BIO-0125861,taxon_authority,"[""Gafforov, S.L.Liu & L.W.Zhou""]",https://www.gbif.org/species/10576674
+LIBSRC-LIB50-ENT-BIO-0145431,taxon_authority,"[""Thiers""]",https://www.gbif.org/species/3360218
+LIBSRC-LIB50-ENT-BIO-0144621,taxon_authority,"[""G.J.Li & H.A.Wen""]",https://www.gbif.org/species/8400517
+LIBSRC-LIB50-ENT-BIO-0144481,taxon_authority,"[""Paloi, K.Acharya & K.Das""]",https://www.gbif.org/species/10815598
+LIBSRC-LIB50-ENT-BIO-0145561,taxon_authority,"[""Murrill""]",https://www.gbif.org/species/3360465
+LIBSRC-LIB50-ENT-BIO-0145641,taxon_authority,"[""Bres.""]",https://www.gbif.org/species/3359296
+LIBSRC-LIB50-ENT-BIO-0145911,taxon_authority,"[""(Boud. & Pat.) Trappe & T.F.Elliott""]",https://www.gbif.org/species/10778805
+LIBSRC-LIB50-ENT-BIO-0131241,taxon_authority,"[""A.H.Sm.""]",https://www.gbif.org/species/3356380
+LIBSRC-LIB50-ENT-BIO-0131081,taxon_authority,"[""A.H.Sm.""]",https://www.gbif.org/species/3356552
+LIBSRC-LIB50-ENT-BIO-0131121,taxon_authority,"[""A.H.Sm.""]",https://www.gbif.org/species/3356562
+LIBSRC-LIB50-ENT-BIO-0131181,taxon_authority,"[""Lloyd""]",https://www.gbif.org/species/3356550
+LIBSRC-LIB50-ENT-BIO-0122151,taxon_authority,"[""Pavgi & Thirum.""]",https://www.gbif.org/species/3293236
+LIBSRC-LIB50-ENT-BIO-0138171,taxon_authority,"[""Sigler, M.T.Dunn & J.W.Carmich.""]",https://www.gbif.org/species/2595936
+LIBSRC-LIB50-ENT-BIO-0145031,taxon_authority,"[""Secr. ex Singer""]",https://www.gbif.org/species/3360171
+LIBSRC-LIB50-ENT-BIO-0128341,taxon_authority,"[""C.F.J.Spies, L.Mostert & Halleen""]",https://www.gbif.org/species/10747222
+LIBSRC-LIB50-ENT-BIO-0145571,taxon_authority,"[""Buyck""]",https://www.gbif.org/species/10776613
+LIBSRC-LIB50-ENT-BIO-0144541,taxon_authority,"[""McNabb""]",https://www.gbif.org/species/2551412
+LIBSRC-LIB50-ENT-BIO-0145041,taxon_authority,"[""R.P.Bhatt, A.Ghosh, Buyck & K.Das""]",https://www.gbif.org/species/10802171
+LIBSRC-LIB50-ENT-BIO-0145331,taxon_authority,"[""Murrill""]",https://www.gbif.org/species/3360390
+LIBSRC-LIB50-ENT-BIO-0144711,taxon_authority,"[""A.Ghosh, K.Das & Buyck""]",https://www.gbif.org/species/11598896
+LIBSRC-LIB50-ENT-BIO-0131101,taxon_authority,"[""A.H.Sm.""]",https://www.gbif.org/species/3356407
+LIBSRC-LIB50-ENT-BIO-0135841,taxon_authority,"[""S.Lundell""]",https://www.gbif.org/species/3553525
+LIBSRC-LIB50-ENT-BIO-0150221,taxon_authority,"[""(Alf.Schmidt) Doveri & Cou\u00e9""]",https://www.gbif.org/species/9714707
+LIBSRC-LIB50-ENT-BIO-0126011,taxon_authority,"[""Berl.""]",https://www.gbif.org/species/3443643
+LIBSRC-LIB50-ENT-BIO-0128311,taxon_authority,"[""L.Mostert, Summerb. & Crous""]",https://www.gbif.org/species/3443661
+LIBSRC-LIB50-ENT-BIO-0128321,taxon_authority,"[""L.Mostert, Summerb. & Crous""]",https://www.gbif.org/species/3443654
+LIBSRC-LIB50-ENT-BIO-0128371,taxon_authority,"[""(T.E.Hinds) Gramaje, L.Mostert & Crous""]",https://www.gbif.org/species/9663392
+LIBSRC-LIB50-ENT-BIO-0122001,taxon_authority,"[""Moreno-Ruiz, 1995""]",https://www.gbif.org/species/9297411
+LIBSRC-LIB50-ENT-BIO-0122011,taxon_authority,"[""Akiba, 1987""]",https://www.gbif.org/species/9581162
+LIBSRC-LIB50-ENT-BIO-0141751,taxon_authority,"[""L\u00e6ss\u00f8e & Ryvarden""]",https://www.gbif.org/species/5955024
+LIBSRC-LIB50-ENT-BIO-0141771,taxon_authority,"[""Ryvarden""]",https://www.gbif.org/species/10812898
+LIBSRC-LIB50-ENT-BIO-0141791,taxon_authority,"[""(Parmasto) Ryvarden""]",https://www.gbif.org/species/5446273
+LIBSRC-LIB50-ENT-BIO-0131111,taxon_authority,"[""K.A.Harrison & A.H.Sm.""]",https://www.gbif.org/species/3356420
+LIBSRC-LIB50-ENT-BIO-0131151,taxon_authority,"[""A.H.Sm.""]",https://www.gbif.org/species/3356424
+LIBSRC-LIB50-ENT-BIO-0131091,taxon_authority,"[""A.H.Sm.""]",https://www.gbif.org/species/3356583
+LIBSRC-LIB50-ENT-BIO-0131131,taxon_authority,"[""A.H.Sm.""]",https://www.gbif.org/species/2524250
+LIBSRC-LIB50-ENT-BIO-0131251,taxon_authority,"[""Zeller & C.W.Dodge""]",https://www.gbif.org/species/3356544
+LIBSRC-LIB50-ENT-BIO-0131291,taxon_authority,"[""A.H.Sm.""]",https://www.gbif.org/species/3356573
+LIBSRC-LIB50-ENT-BIO-0131171,taxon_authority,"[""Pacioni""]",https://www.gbif.org/species/3356504
+LIBSRC-LIB50-ENT-BIO-0131311,taxon_authority,"[""A.H.Sm.""]",https://www.gbif.org/species/3356497
+LIBSRC-LIB50-ENT-BIO-0131161,taxon_authority,"[""Bowerman""]",https://www.gbif.org/species/3356467
+LIBSRC-LIB50-ENT-BIO-0131261,taxon_authority,"[""Petch""]",https://www.gbif.org/species/3356491
+LIBSRC-LIB50-ENT-BIO-0145681,taxon_authority,"[""Buyck""]",https://www.gbif.org/species/3359065
+LIBSRC-LIB50-ENT-BIO-0135861,taxon_authority,"[""Rick""]",https://www.gbif.org/species/3297653
+LIBSRC-LIB50-ENT-BIO-0145771,taxon_authority,"[""Buyck""]",https://www.gbif.org/species/3360648
+LIBSRC-LIB50-ENT-BIO-0145851,taxon_authority,"[""Sarnari, 1990""]",https://www.gbif.org/species/7240286
+LIBSRC-LIB50-ENT-BIO-0128331,taxon_authority,"[""Gramaje, T.I.Burgess & Armengol""]",https://www.gbif.org/species/8119794
+LIBSRC-LIB50-ENT-BIO-0145871,taxon_authority,"[""Buyck""]",https://www.gbif.org/species/3359309
+LIBSRC-LIB50-ENT-BIO-0144631,taxon_authority,"[""Britzelm.""]",https://www.gbif.org/species/2551409
+LIBSRC-LIB50-ENT-BIO-0144471,taxon_authority,"[""J.Blum""]",https://www.gbif.org/species/3359930
+LIBSRC-LIB50-ENT-BIO-0145791,taxon_authority,"[""Trappe & T.F.Elliott""]",https://www.gbif.org/species/10878088
+LIBSRC-LIB50-ENT-BIO-0144801,taxon_authority,"[""K.Das, A.Ghosh, Buyck & Hembrom""]",https://www.gbif.org/species/12259511
+LIBSRC-LIB50-ENT-BIO-0150321,taxon_authority,"[""(E.C.Hansen) N.Lundq.""]",https://www.gbif.org/species/3456263
+LIBSRC-LIB50-ENT-BIO-0144731,taxon_authority,"[""Velen.""]",https://www.gbif.org/species/3360203
+LIBSRC-LIB50-ENT-BIO-0145241,taxon_authority,"[""McNabb""]",https://www.gbif.org/species/2551437
+LIBSRC-LIB50-ENT-BIO-0128351,taxon_authority,"[""L.Mostert, H.C.Evans, Summerb. & Crous""]",https://www.gbif.org/species/2568703
+LIBSRC-LIB50-ENT-BIO-0131191,taxon_authority,"[""A.H.Sm.""]",https://www.gbif.org/species/3356523
+LIBSRC-LIB50-ENT-BIO-0131271,taxon_authority,"[""A.H.Sm.""]",https://www.gbif.org/species/3356511
+LIBSRC-LIB50-ENT-BIO-0144571,taxon_authority,"[""Romell""]",https://www.gbif.org/species/3360129
+LIBSRC-LIB50-ENT-BIO-0145541,taxon_authority,"[""Buyck""]",https://www.gbif.org/species/3359783
+LIBSRC-LIB50-ENT-BIO-0145491,taxon_authority,"[""Buyck""]",https://www.gbif.org/species/3359894
+LIBSRC-LIB50-ENT-BIO-0145951,taxon_authority,"[""(T.Lebel) T.Lebel""]",https://www.gbif.org/species/10827954
+LIBSRC-LIB50-ENT-BIO-0144781,taxon_authority,"[""Britzelm.""]",https://www.gbif.org/species/3359867
+LIBSRC-LIB50-ENT-BIO-0145121,taxon_authority,"[""Trappe & T.F.Elliott""]",https://www.gbif.org/species/10784516
+LIBSRC-LIB50-ENT-BIO-0145061,taxon_authority,"[""Burl.""]",https://www.gbif.org/species/3360562
+LIBSRC-LIB50-ENT-BIO-0144761,taxon_authority,"[""Peck""]",https://www.gbif.org/species/3359879
+LIBSRC-LIB50-ENT-BIO-0145071,taxon_authority,"[""Peck""]",https://www.gbif.org/species/2551457
+LIBSRC-LIB50-ENT-BIO-0145131,taxon_authority,"[""Thiers""]",https://www.gbif.org/species/3359329
+LIBSRC-LIB50-ENT-BIO-0145141,taxon_authority,"[""T.Lebel""]",https://www.gbif.org/species/10679410
+LIBSRC-LIB50-ENT-BIO-0145371,taxon_authority,"[""Buyck""]",https://www.gbif.org/species/3359313
+LIBSRC-LIB50-ENT-BIO-0145221,taxon_authority,"[""Velen.""]",https://www.gbif.org/species/3359388
+LIBSRC-LIB50-ENT-BIO-0144671,taxon_authority,"[""Murrill""]",https://www.gbif.org/species/3360401
+LIBSRC-LIB50-ENT-BIO-0128291,taxon_authority,"[""L.Mostert, W.Gams & Crous""]",https://www.gbif.org/species/2568704
+LIBSRC-LIB50-ENT-BIO-0145731,taxon_authority,"[""Singer""]",https://www.gbif.org/species/3360693
+LIBSRC-LIB50-ENT-BIO-0145001,taxon_authority,"[""Singer, Alfaro & L.D.G\u00f3mez""]",https://www.gbif.org/species/3359840
+LIBSRC-LIB50-ENT-BIO-0131201,taxon_authority,"[""Mujic, K.Hosaka & Spatafora""]",https://www.gbif.org/species/9719696
