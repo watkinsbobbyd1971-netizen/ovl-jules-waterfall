@@ -1,0 +1,8 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP17853-REC3570452,descriptive_identity,species,https://api.gbif.org/v1/species/116901668
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP17853-REC3570452,identity_label,Cepphus grylle,https://api.gbif.org/v1/species/116901668
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP17853-REC3570452,scientific_identity,Cepphus grylle,https://api.gbif.org/v1/species/116901668
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP13644-REC2728772,descriptive_identity,genus,https://api.gbif.org/v1/species/102089153
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP13644-REC2728772,identity_label,Scolopax,https://api.gbif.org/v1/species/102089153
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP13644-REC2728772,scientific_identity,"Scolopax Linnaeus, 1758",https://api.gbif.org/v1/species/102089153
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP13644-REC2728772,taxon_authority,"Linnaeus, 1758",https://api.gbif.org/v1/species/102089153
