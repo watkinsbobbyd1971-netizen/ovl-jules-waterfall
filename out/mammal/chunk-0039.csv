@@ -1,0 +1,61 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_12-ERA_06-2015-ACC04-HOP18297-REC3659382,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/2440893
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP16661-REC3332083,descriptive_identity,"""GENUS""",https://api.gbif.org/v1/species/2441017
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP16661-REC3332083,occurrence_context,"""freshwater, terrestrial""",https://api.gbif.org/v1/species/2441017
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP16656-REC3331012,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/4825829
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP16476-REC3295123,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/5219681
+IDB-REG_02-CAT_12-ERA_06-2015-ACC04-HOP17148-REC3429502,descriptive_identity,"""CLASS""",https://api.gbif.org/v1/species/359
+IDB-REG_02-CAT_12-ERA_06-2015-ACC04-HOP17148-REC3429502,occurrence_context,"""marine, freshwater, terrestrial""",https://api.gbif.org/v1/species/359
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP18038-REC3607463,descriptive_identity,"""CLASS""",https://api.gbif.org/v1/species/359
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP17085-REC3416923,descriptive_identity,"""GENUS""",https://api.gbif.org/v1/species/9531221
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP17085-REC3416923,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/9531221
+IDB-REG_03-CAT_11-ERA_06-2015-ACC04-HOP18867-REC3773293,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/8656757
+IDB-REG_02-CAT_12-ERA_06-2015-ACC04-HOP16778-REC3355442,descriptive_identity,"""GENUS""",https://api.gbif.org/v1/species/5219142
+IDB-REG_02-CAT_12-ERA_06-2015-ACC04-HOP16778-REC3355442,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/5219142
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP18392-REC3678303,descriptive_identity,"""GENUS""",https://api.gbif.org/v1/species/2441017
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP18392-REC3678303,occurrence_context,"""freshwater, terrestrial""",https://api.gbif.org/v1/species/2441017
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP16385-REC3276972,descriptive_identity,"""FAMILY""",https://api.gbif.org/v1/species/5716
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP16385-REC3276972,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/5716
+IDB-REG_03-CAT_11-ERA_06-2015-ACC04-HOP18521-REC3704133,descriptive_identity,"""CLASS""",https://api.gbif.org/v1/species/359
+IDB-REG_03-CAT_11-ERA_06-2015-ACC04-HOP18521-REC3704133,occurrence_context,"""marine, freshwater, terrestrial""",https://api.gbif.org/v1/species/359
+IDB-REG_02-CAT_12-ERA_06-2015-ACC04-HOP16878-REC3375462,descriptive_identity,"""GENUS""",https://api.gbif.org/v1/species/2441213
+IDB-REG_02-CAT_12-ERA_06-2015-ACC04-HOP16878-REC3375462,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/2441213
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP18088-REC3617452,descriptive_identity,"""GENUS""",https://api.gbif.org/v1/species/5219142
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP18729-REC3745692,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/2440965
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP18729-REC3745692,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/2440965
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP16635-REC3326812,descriptive_identity,"""FAMILY""",https://api.gbif.org/v1/species/9614
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP16635-REC3326812,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/9614
+IDB-REG_03-CAT_11-ERA_06-2015-ACC04-HOP18266-REC3653033,descriptive_identity,"""FAMILY""",https://api.gbif.org/v1/species/9614
+IDB-REG_03-CAT_11-ERA_06-2015-ACC04-HOP18535-REC3706933,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/5219200
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP18899-REC3779712,descriptive_identity,"""FAMILY""",https://api.gbif.org/v1/species/9614
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP18899-REC3779712,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/9614
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP18599-REC3719792,descriptive_identity,"""GENUS""",https://api.gbif.org/v1/species/2441017
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP18599-REC3719792,occurrence_context,"""freshwater, terrestrial""",https://api.gbif.org/v1/species/2441017
+IDB-REG_02-CAT_12-ERA_06-2015-ACC04-HOP17392-REC3478362,descriptive_identity,"""CLASS""",https://api.gbif.org/v1/species/359
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP17785-REC3556923,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/8600904
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP17785-REC3556923,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/8600904
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP16991-REC3398023,descriptive_identity,"""ORDER""",https://api.gbif.org/v1/species/733
+IDB-REG_03-CAT_11-ERA_06-2015-ACC04-HOP18418-REC3683553,descriptive_identity,"""GENUS""",https://api.gbif.org/v1/species/2441017
+IDB-REG_03-CAT_11-ERA_06-2015-ACC04-HOP18418-REC3683553,occurrence_context,"""freshwater, terrestrial""",https://api.gbif.org/v1/species/2441017
+IDB-REG_03-CAT_11-ERA_06-2015-ACC04-HOP16896-REC3379193,descriptive_identity,"""FAMILY""",https://api.gbif.org/v1/species/5298
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP17619-REC3523652,descriptive_identity,"""GENUS""",https://api.gbif.org/v1/species/5219142
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP17619-REC3523652,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/5219142
+IDB-REG_02-CAT_12-ERA_06-2015-ACC04-HOP17733-REC3546542,descriptive_identity,"""GENUS""",https://api.gbif.org/v1/species/2441017
+IDB-REG_02-CAT_12-ERA_06-2015-ACC04-HOP17733-REC3546542,occurrence_context,"""freshwater, terrestrial""",https://api.gbif.org/v1/species/2441017
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP18522-REC3704252,descriptive_identity,"""GENUS""",https://api.gbif.org/v1/species/2441047
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP16610-REC3321912,descriptive_identity,"""GENUS""",https://api.gbif.org/v1/species/2441175
+IDB-REG_02-CAT_12-ERA_06-2015-ACC04-HOP18666-REC3733162,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/4409366
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP17115-REC3422992,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/5219200
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP18383-REC3676483,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/2440965
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP18383-REC3676483,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/2440965
+IDB-REG_02-CAT_12-ERA_06-2015-ACC04-HOP18858-REC3771522,descriptive_identity,"""SPECIES""",https://api.gbif.org/v1/species/4825829
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP18766-REC3753063,descriptive_identity,"""GENUS""",https://api.gbif.org/v1/species/2441175
+IDB-REG_03-CAT_11-ERA_06-2015-ACC04-HOP16777-REC3355393,descriptive_identity,"""CLASS""",https://api.gbif.org/v1/species/359
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP18165-REC3632803,descriptive_identity,"""FAMILY""",https://api.gbif.org/v1/species/5298
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP17622-REC3524212,descriptive_identity,"""GENUS""",https://api.gbif.org/v1/species/2441017
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP17054-REC3410623,descriptive_identity,"""GENUS""",https://api.gbif.org/v1/species/9531221
+IDB-REG_03-CAT_13-ERA_06-2015-ACC04-HOP17054-REC3410623,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/9531221
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP16477-REC3295312,descriptive_identity,"""FAMILY""",https://api.gbif.org/v1/species/9701
+IDB-REG_02-CAT_14-ERA_06-2015-ACC04-HOP16477-REC3295312,occurrence_context,"""marine, terrestrial""",https://api.gbif.org/v1/species/9701
+IDB-REG_03-CAT_11-ERA_06-2015-ACC04-HOP16957-REC3391373,descriptive_identity,"""GENUS""",https://api.gbif.org/v1/species/9531221
+IDB-REG_03-CAT_11-ERA_06-2015-ACC04-HOP16957-REC3391373,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/9531221
