@@ -1,0 +1,55 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB34-ENT-GEO-0155151,identity_label,"""Eskifjörður""",https://www.wikidata.org/wiki/Q765521
+LIBSRC-LIB34-ENT-GEO-0179021,identity_label,"""Gadeokdo""",https://www.wikidata.org/wiki/Q12612282
+LIBSRC-LIB34-ENT-GEO-0192881,identity_label,"""Žemaičių Kalvarija""",https://www.wikidata.org/wiki/Q393821
+LIBSRC-LIB34-ENT-GEO-0203661,identity_label,"""Calakmul""",https://www.wikidata.org/wiki/Q272771
+LIBSRC-LIB34-ENT-GEO-0235791,identity_label,"""Karlstad""",https://www.wikidata.org/wiki/Q25457
+LIBSRC-LIB35-ENT-GAZ-2525112,identity_label,"""Pisany""",https://www.wikidata.org/wiki/Q594318
+IDB-REG01-CAT19-ERA06-2010S-2014-KANGDING-EARTHQUAKE,identity_label,"""2014 Kangding earthquake""",https://www.wikidata.org/wiki/Q18571491
+IDB-REG01-CAT19-ERA07-2020S-DEATH-VALLEY-NONE,identity_label,"""Death Valley""",https://www.wikidata.org/wiki/Q118388
+IDB-REG01-CAT19-ERA07-2020S-MOUNT-LOGAN-NONE,identity_label,"""Mount Logan""",https://www.wikidata.org/wiki/Q120306
+IDB-REG01-CAT19-ERA06-2010S-2014-ALEUTIAN-ISLANDS-EARTHQUAKE,identity_label,"""2014 Aleutian Islands earthquake""",https://www.wikidata.org/wiki/Q17507681
+IDB-REG01-CAT19-ERA07-2020S-YOSEMITE-VALLEY-EL-CAPITAN,identity_label,"""El Capitan""",https://www.wikidata.org/wiki/Q1124852
+IDB-REG01-CAT19-ERA07-2010S-DEATH-VALLEY,identity_label,"""Death Valley""",https://www.wikidata.org/wiki/Q118388
+LIBSRC-LIB34-ENT-GEO-0206321,identity_label,"""Pyramid of the Sun""",https://www.wikidata.org/wiki/Q29238
+IDB-REG01-CAT19-ERA06-2010S-2012-HAIDA-GWAII-EARTHQUAKE,identity_label,"""2012 Haida Gwaii earthquake""",https://www.wikidata.org/wiki/Q3630459
+IDB-REG01-CAT19-ERA07-2010S-NIAGARA-FALLS,identity_label,"""Niagara Falls""",https://www.wikidata.org/wiki/Q34221
+IDB-REG01-CAT19-ERA00-15000SBCE-COCHEGAN-ROCK-CRYSTALLINE-GRANITE-GLACIAL-ERRATIC-FREESTANDI,identity_label,"""Cochegan Rock""",https://www.wikidata.org/wiki/Q31807826
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1017-REC203281,identity_label,"""Fundação Educacional do Município de Assis""",https://www.wikidata.org/wiki/Q18479663
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1028-REC205591,identity_label,"""Kaparoqtalik Glacier""",https://www.wikidata.org/wiki/Q6366489
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1030-REC205801,identity_label,"""Mount Logan""",https://www.wikidata.org/wiki/Q120306
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1035-REC206851,identity_label,"""Gardiner Museum""",https://www.wikidata.org/wiki/Q2043270
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1038-REC207481,identity_label,"""Berbérati""",https://www.wikidata.org/wiki/Q544701
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1039-REC207691,identity_label,"""Neuchâtel""",https://www.wikidata.org/wiki/Q69345
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1048-REC209581,identity_label,"""Andacollo""",https://www.wikidata.org/wiki/Q3602
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1058-REC211471,identity_label,"""Quzhou""",https://www.wikidata.org/wiki/Q58235
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1095-REC218821,identity_label,"""Lednice""",https://www.wikidata.org/wiki/Q1017320
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1101-REC220081,identity_label,"""Meitingen""",https://www.wikidata.org/wiki/Q252494
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1102-REC220291,identity_label,"""Kroppenstedt""",https://www.wikidata.org/wiki/Q573449
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1105-REC220921,identity_label,"""Eibelstadt""",https://www.wikidata.org/wiki/Q481834
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1106-REC221131,identity_label,"""Börßum""",https://www.wikidata.org/wiki/Q658765
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1162-REC232261,identity_label,"""Palma de Mallorca Airport""",https://www.wikidata.org/wiki/Q656993
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1190-REC237931,identity_label,"""Sénas""",https://www.wikidata.org/wiki/Q640681
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1191-REC238141,identity_label,"""Saint-Pompon""",https://www.wikidata.org/wiki/Q1076839
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1192-REC238351,identity_label,"""Saint-Léger-Magnazeix""",https://www.wikidata.org/wiki/Q202187
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1194-REC238771,identity_label,"""Saint-Amand-Longpré""",https://www.wikidata.org/wiki/Q1424723
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1195-REC238981,identity_label,"""Quéménéven""",https://www.wikidata.org/wiki/Q221274
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1196-REC239191,identity_label,"""Petit-Fayt""",https://www.wikidata.org/wiki/Q1101318
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1198-REC239401,identity_label,"""Neuhaeusel""",https://www.wikidata.org/wiki/Q21495
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1199-REC239611,identity_label,"""Mesnil-Saint-Père""",https://www.wikidata.org/wiki/Q764743
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1200-REC239821,identity_label,"""Loperhet""",https://www.wikidata.org/wiki/Q495647
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1201-REC240031,identity_label,"""Le Muy""",https://www.wikidata.org/wiki/Q817832
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1205-REC240871,identity_label,"""Gravelines""",https://www.wikidata.org/wiki/Q323399
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1210-REC241921,identity_label,"""Charras""",https://www.wikidata.org/wiki/Q1440654
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1216-REC243181,identity_label,"""Appietto""",https://www.wikidata.org/wiki/Q1087744
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1220-REC243811,identity_label,"""Pont de Sully""",https://www.wikidata.org/wiki/Q1196688
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1229-REC245701,identity_label,"""Château de Conros""",https://www.wikidata.org/wiki/Q2360380
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1233-REC246541,identity_label,"""Bebington""",https://www.wikidata.org/wiki/Q813552
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1242-REC248221,identity_label,"""Castle Donington""",https://www.wikidata.org/wiki/Q547166
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1244-REC248641,identity_label,"""West Derby Castle""",https://www.wikidata.org/wiki/Q17647311
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1245-REC248851,identity_label,"""Falkirk Stadium""",https://www.wikidata.org/wiki/Q1027157
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1246-REC249061,identity_label,"""British Library""",https://www.wikidata.org/wiki/Q23308
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1247-REC249271,identity_label,"""Park Hall""",https://www.wikidata.org/wiki/Q7137756
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1389-REC277621,identity_label,"""Beneh Kohol""",https://www.wikidata.org/wiki/Q6416342
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1595-REC318991,identity_label,"""Rocca Pisana""",https://www.wikidata.org/wiki/Q930572
+IDB-REG_01-CAT_15-ERA_01-1200-ACC05-HOP1614-REC322771,identity_label,"""Shikine-jima""",https://www.wikidata.org/wiki/Q1344326
