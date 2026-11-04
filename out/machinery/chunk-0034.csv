@@ -1,0 +1,82 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG08-CAT03-ERA05-1920S-SS-1600-CLASS-SWISS-LOCOMOTIVE-AND-MACHINE-WORKS,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q12478109
+IDB-REG08-CAT03-ERA06-2010S-GE-CM20EMP,manufacturer_or_creator,"""GE Transportation""",https://www.wikidata.org/wiki/Q12478106
+IDB-REG08-CAT03-ERA06-2010S-GE-CM20EMP,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q12478106
+IDB-REG08-CAT03-ERA06-1980S-MASS-RAPID-TRANSIT-SINGAPORE-KAWASAKI-HEAVY-INDUSTRIES-AND-S,descriptive_identity,"""rapid transit""",https://www.wikidata.org/wiki/Q40176
+IDB-REG09-CAT03-ERA06-2016-SYDNEY-METRO-ALSTOM-METROPOLIS,descriptive_identity,"""subway car""",https://www.wikidata.org/wiki/Q96407257
+IDB-REG08-CAT03-ERA06-2010S-INKA-CC300,manufacturer_or_creator,"""Industri Kereta Api""",https://www.wikidata.org/wiki/Q12478108
+IDB-REG08-CAT03-ERA06-2010S-INKA-CC300,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q12478108
+IDB-REG10-CAT03-ERA07-2021-LUCY,dimension_length,2780.0,https://www.wikidata.org/wiki/Q21076293
+IDB-REG10-CAT03-ERA07-2021-LUCY,descriptive_identity,"""flyby probe""",https://www.wikidata.org/wiki/Q21076293
+IDB-REG08-CAT03-ERA07-2010S-HYDERABAD-METRO-LARSEN-TOUBRO-AND-HYUNDAI-ROTEM,descriptive_identity,"""rapid transit""",https://www.wikidata.org/wiki/Q646209
+IDB-REG10-CAT03-ERA06-2010S-NEW-ZEALAND-DL-CLASS-LOCOMOTIVE,manufacturer_or_creator,"""CRRC Dalian Co., Ltd.""",https://www.wikidata.org/wiki/Q7015303
+IDB-REG10-CAT03-ERA06-2010S-NEW-ZEALAND-DL-CLASS-LOCOMOTIVE,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q7015303
+IDB-REG08-CAT03-ERA07-2010S-AHMEDABAD-METRO-BEML-AND-ALSTOM,descriptive_identity,"""rapid transit""",https://www.wikidata.org/wiki/Q1895288
+IDB-REG09-CAT03-ERA06-2010S-TASRAIL-TR-CLASS,manufacturer_or_creator,"""Progress Rail Services""",https://www.wikidata.org/wiki/Q15712999
+IDB-REG09-CAT03-ERA06-2010S-TASRAIL-TR-CLASS,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q15712999
+IDB-REG08-CAT03-ERA06-2013-SOUTH-AFRICAN-CLASS-20E,manufacturer_or_creator,"""CRRC Zhuzhou Locomotive Co., Ltd.""",https://www.wikidata.org/wiki/Q16924889
+IDB-REG08-CAT03-ERA06-2013-SOUTH-AFRICAN-CLASS-20E,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q16924889
+IDB-REG10-CAT03-ERA07-2024-GOES-19,dimension_length,6100.0,https://www.wikidata.org/wiki/Q18479954
+IDB-REG10-CAT03-ERA07-2024-GOES-19,manufacturer_or_creator,"""Lockheed Martin Space""",https://www.wikidata.org/wiki/Q18479954
+IDB-REG10-CAT03-ERA07-2022-GOES-18,dimension_length,6100.0,https://www.wikidata.org/wiki/Q18479950
+IDB-REG10-CAT03-ERA07-2022-GOES-18,manufacturer_or_creator,"""Lockheed Martin Space""",https://www.wikidata.org/wiki/Q18479950
+IDB-REG06-CAT03-ERA06-2010S-SOUTH-AFRICAN-CLASS-AFRO-4000,manufacturer_or_creator,"""Vossloh""",https://www.wikidata.org/wiki/Q20648569
+IDB-REG06-CAT03-ERA06-2010S-SOUTH-AFRICAN-CLASS-AFRO-4000,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q20648569
+IDB-REG10-CAT03-ERA07-2024-SENTINEL-1C,dimension_length,2800.0,https://www.wikidata.org/wiki/Q130475553
+IDB-REG10-CAT03-ERA07-2024-SENTINEL-1C,descriptive_identity,"""Sentinel-1""",https://www.wikidata.org/wiki/Q130475553
+IDB-REG10-CAT03-ERA07-2010S-PORT-OF-MELBOURNE-CORPORATION,descriptive_identity,"""port""",https://www.wikidata.org/wiki/Q2038062
+IDB-REG10-CAT03-ERA07-2025-SENTINEL-1D,dimension_length,2800.0,https://www.wikidata.org/wiki/Q136547585
+IDB-REG10-CAT03-ERA07-2025-SENTINEL-1D,descriptive_identity,"""Sentinel-1""",https://www.wikidata.org/wiki/Q136547585
+IDB-REG08-CAT03-ERA07-2010S-SRI-LANKA-RAILWAYS-M11,manufacturer_or_creator,"""Banaras Locomotive Works""",https://www.wikidata.org/wiki/Q101402319
+IDB-REG08-CAT03-ERA07-2010S-SRI-LANKA-RAILWAYS-M11,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q101402319
+IDB-REG09-CAT03-ERA06-2018-HIGH-CAPACITY-METRO-TRAINS,descriptive_identity,"""rolling stock class""",https://www.wikidata.org/wiki/Q28224263
+IDB-REG10-CAT03-ERA07-2021-TIANHE,manufacturer_or_creator,"""China Aerospace Science and Technology Corporation""",https://www.wikidata.org/wiki/Q5170154
+IDB-REG10-CAT03-ERA07-2021-TIANHE,descriptive_identity,"""space station module""",https://www.wikidata.org/wiki/Q5170154
+IDB-REG10-CAT03-ERA07-2022-WENTIAN,dimension_length,17900.0,https://www.wikidata.org/wiki/Q106658038
+IDB-REG10-CAT03-ERA07-2022-WENTIAN,manufacturer_or_creator,"""China Academy of Space Technology""",https://www.wikidata.org/wiki/Q106658038
+IDB-REG10-CAT03-ERA07-2022-WENTIAN,descriptive_identity,"""Experiment module""",https://www.wikidata.org/wiki/Q106658038
+IDB-REG06-CAT03-ERA07-2010S-SOUTH-AFRICAN-CLASS-23E,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q60787641
+IDB-REG10-CAT03-ERA07-2022-MENGTIAN,dimension_length,17900.0,https://www.wikidata.org/wiki/Q28671166
+IDB-REG10-CAT03-ERA07-2022-MENGTIAN,manufacturer_or_creator,"""Shanghai Academy of Spaceflight Technology""",https://www.wikidata.org/wiki/Q28671166
+IDB-REG07-CAT03-ERA07-2010S-TCDD-E1000,manufacturer_or_creator,"""TÜLOMSAŞ""",https://www.wikidata.org/wiki/Q25478182
+IDB-REG07-CAT03-ERA07-2010S-TCDD-E1000,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q25478182
+IDB-REG06-CAT03-ERA06-2010S-SOUTH-AFRICAN-CLASS-15E,manufacturer_or_creator,"""Union Carriage & Wagon""",https://www.wikidata.org/wiki/Q7565470
+IDB-REG06-CAT03-ERA06-2010S-SOUTH-AFRICAN-CLASS-15E,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q7565470
+IDB-REG06-CAT03-ERA06-2017-INDIAN-LOCOMOTIVE-CLASS-WDG-4G,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q48734773
+IDB-REG06-CAT03-ERA06-2017-INDIAN-LOCOMOTIVE-CLASS-WAG-12,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q48724003
+IDB-REG10-CAT03-ERA06-2010S-CSR-ZIYANG-SDA1,manufacturer_or_creator,"""CRRC Ziyang Co., Ltd.""",https://www.wikidata.org/wiki/Q5014248
+IDB-REG10-CAT03-ERA06-2010S-CSR-ZIYANG-SDA1,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q5014248
+IDB-REG07-CAT03-ERA07-2010S-INDIAN-LOCOMOTIVE-CLASS-WAG-12,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q48724003
+IDB-REG10-CAT03-ERA06-2019-KOUNOTORI-8,dimension_length,9800.0,https://www.wikidata.org/wiki/Q27048780
+IDB-REG10-CAT03-ERA06-2019-KOUNOTORI-8,manufacturer_or_creator,"""Mitsubishi Heavy Industries""",https://www.wikidata.org/wiki/Q27048780
+IDB-REG10-CAT03-ERA06-2019-KOUNOTORI-8,descriptive_identity,"""H-II Transfer Vehicle""",https://www.wikidata.org/wiki/Q27048780
+IDB-REG10-CAT03-ERA06-2016-KOUNOTORI-6,descriptive_identity,"""H-II Transfer Vehicle""",https://www.wikidata.org/wiki/Q19864752
+IDB-REG10-CAT03-ERA06-2018-KOUNOTORI-7,descriptive_identity,"""H-II Transfer Vehicle""",https://www.wikidata.org/wiki/Q27048771
+IDB-REG09-CAT03-ERA06-2011-SYDNEY-TRAINS-A-AND-B-SETS,descriptive_identity,"""rolling stock class""",https://www.wikidata.org/wiki/Q5122977
+IDB-REG07-CAT03-ERA06-2010S-IRANRUNNER,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q946775
+IDB-REG10-CAT03-ERA07-2022-SWOT-SATELLITE,mass,2000000.0,https://www.wikidata.org/wiki/Q2372295
+IDB-REG10-CAT03-ERA07-2022-SWOT-SATELLITE,manufacturer_or_creator,"""Thales Alenia Space""",https://www.wikidata.org/wiki/Q2372295
+IDB-REG10-CAT03-ERA07-2022-SWOT-SATELLITE,descriptive_identity,"""Earth observation satellite""",https://www.wikidata.org/wiki/Q2372295
+IDB-REG09-CAT03-ERA06-2010S-EP20,manufacturer_or_creator,"""Novocherkassk Electric Locomotive Plant""",https://www.wikidata.org/wiki/Q968687
+IDB-REG09-CAT03-ERA06-2010S-EP20,descriptive_identity,"""locomotive class""",https://www.wikidata.org/wiki/Q968687
+IDB-REG10-CAT03-ERA07-2026-MARTIAN-MOONS-EXPLORATION,dimension_length,4500.0,https://www.wikidata.org/wiki/Q30748458
+IDB-REG10-CAT03-ERA07-2026-MARTIAN-MOONS-EXPLORATION,mass,4480000.0,https://www.wikidata.org/wiki/Q30748458
+IDB-REG10-CAT03-ERA07-2021-MICHIBIKI-1R,dimension_length,2869.0,https://www.wikidata.org/wiki/Q109255794
+IDB-REG10-CAT03-ERA07-2025-BIOMASS-SATELLITE,dimension_length,2000.0,https://www.wikidata.org/wiki/Q16039672
+IDB-REG10-CAT03-ERA07-2025-BIOMASS-SATELLITE,descriptive_identity,"""synthetic aperture radar satellite""",https://www.wikidata.org/wiki/Q16039672
+IDB-REG10-CAT03-ERA07-2020S-FRANNA-AT-40-2-PICK-AND-CARRY-CRANE,descriptive_identity,"""type of machine""",https://www.wikidata.org/wiki/Q178692
+IDB-REG08-CAT03-ERA07-2020S-ACE-AT-30-TELEHANDLER,descriptive_identity,"""business""",https://www.wikidata.org/wiki/Q55504379
+IDB-REG10-CAT03-ERA07-2020S-KOMATSU-930E-5-MINING-DUMP-TRUCK,manufacturer_or_creator,"""Komatsu Limited""",https://www.wikidata.org/wiki/Q6428212
+IDB-REG10-CAT03-ERA07-2020S-KOMATSU-930E-5-MINING-DUMP-TRUCK,descriptive_identity,"""car model""",https://www.wikidata.org/wiki/Q6428212
+IDB-REG09-CAT03-ERA06-2010S-PROTON-ROCKET-FAMILY-KHRUNICHEV-STATE-RESEARCH-AND-PRODUCTIO,manufacturer_or_creator,"""Khrunichev State Research and Production Space Center""",https://www.wikidata.org/wiki/Q249231
+IDB-REG09-CAT03-ERA06-2010S-PROTON-ROCKET-FAMILY-KHRUNICHEV-STATE-RESEARCH-AND-PRODUCTIO,descriptive_identity,"""rocket family""",https://www.wikidata.org/wiki/Q249231
+IDB-REG07-CAT03-ERA07-2010S-DUBAI-CANAL-MERAAS-HOLDING,descriptive_identity,"""canal""",https://www.wikidata.org/wiki/Q20402852
+IDB-REG07-CAT03-ERA07-2010S-DUBAI-CANAL-MUNICIPALITY,descriptive_identity,"""canal""",https://www.wikidata.org/wiki/Q20402852
+IDB-REG09-CAT03-ERA06-2010S-YAKOVLEV-SJ-100-SUKHOI-CIVIL-AIRCRAFT,dimension_length,29700.0,https://www.wikidata.org/wiki/Q486066
+IDB-REG10-CAT03-ERA07-2023-JUICE,mass,5963000.0,https://www.wikidata.org/wiki/Q63350
+IDB-REG08-CAT03-ERA07-2010S-LUCKNOW-METRO-RAIL-CORPORATION,descriptive_identity,"""rapid transit""",https://www.wikidata.org/wiki/Q6697779
+IDB-REG10-CAT03-ERA06-2010S-HMAS-CANBERRA-L02-NAVANTIA,dimension_length,231000.0,https://www.wikidata.org/wiki/Q925439
+IDB-REG10-CAT03-ERA06-2010S-HMAS-CANBERRA-L02-NAVANTIA,manufacturer_or_creator,"""Navantia""",https://www.wikidata.org/wiki/Q925439
+IDB-REG10-CAT03-ERA06-2010S-HMAS-CANBERRA-L02-NAVANTIA,descriptive_identity,"""landing helicopter dock""",https://www.wikidata.org/wiki/Q925439
+IDB-REG08-CAT03-ERA07-2010S-BOGIBEEL-BRIDGE-HINDUSTAN-CONSTRUCTION-COMPANY,descriptive_identity,"""bridge""",https://www.wikidata.org/wiki/Q14812635
+IDB-REG08-CAT03-ERA03-1590S-CHARMINAR-MUHAMMAD-QULI-QUTB-SHAH,dimension_length,20000.0,https://www.wikidata.org/wiki/Q1771696
