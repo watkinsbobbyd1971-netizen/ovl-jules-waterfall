@@ -1,0 +1,5 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_17-ERA_06-2015-ACC05-HOP1855-REC370992,location,"{""latitude"": 59.563592, ""longitude"": 11.634733}",https://www.geonames.org/9061338/pekstadfossen.html
+IDB-REG_02-CAT_17-ERA_06-2015-ACC05-HOP1862-REC372252,location,"{""latitude"": 60.13063, ""longitude"": 5.00994}",https://www.geonames.org/12088807/marstein-lighthouse.html
+IDB-REG_02-CAT_17-ERA_06-2015-ACC05-HOP1862-REC372252,elevation,37500,https://en.wikipedia.org/wiki/Marstein_Lighthouse
+IDB-REG_02-CAT_17-ERA_06-2015-ACC05-HOP1868-REC373512,location,"{""latitude"": -43.238314065, ""longitude"": 172.060124307}",https://www.geonames.org/6218248/ryde-falls.html
