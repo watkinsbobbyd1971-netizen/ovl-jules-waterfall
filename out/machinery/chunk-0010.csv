@@ -1,0 +1,798 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB36-ENT-WRD-0044094,descriptive_identity,information,https://www.wikidata.org/wiki/Q1211272
+LIBSRC-LIB36-ENT-WRD-0044228,descriptive_identity,chess term,https://www.wikidata.org/wiki/Q349582
+LIBSRC-LIB36-ENT-WRD-0044161,descriptive_identity,print,https://www.wikidata.org/wiki/Q106500688
+LIBSRC-LIB36-ENT-WRD-0044135,descriptive_identity,culture,https://www.wikidata.org/wiki/Q9174
+LIBSRC-LIB36-ENT-WRD-0044150,descriptive_identity,church building,https://www.wikidata.org/wiki/Q17541595
+LIBSRC-LIB36-ENT-WRD-0044123,descriptive_identity,sports team,https://www.wikidata.org/wiki/Q13027888
+LIBSRC-LIB36-ENT-WRD-0044257,descriptive_identity,society,https://www.wikidata.org/wiki/Q8432
+LIBSRC-LIB36-ENT-WRD-0044258,descriptive_identity,metaclass,https://www.wikidata.org/wiki/Q28640
+LIBSRC-LIB36-ENT-WRD-0044269,descriptive_identity,legal form,https://www.wikidata.org/wiki/Q192350
+LIBSRC-LIB36-ENT-WRD-0044272,descriptive_identity,department of the United Kingdom Government,https://www.wikidata.org/wiki/Q58211956
+LIBSRC-LIB36-ENT-WRD-0044362,descriptive_identity,research center,https://www.wikidata.org/wiki/Q48792120
+LIBSRC-LIB36-ENT-WRD-0044364,descriptive_identity,independent agency of the United States government,https://www.wikidata.org/wiki/Q2824618
+LIBSRC-LIB36-ENT-WRD-0044373,descriptive_identity,school,https://www.wikidata.org/wiki/Q1400052
+LIBSRC-LIB36-ENT-WRD-0044390,descriptive_identity,federal law enforcement agency of the United States,https://www.wikidata.org/wiki/Q1400015
+LIBSRC-LIB36-ENT-WRD-0044398,descriptive_identity,New Zealand Public Service department,https://www.wikidata.org/wiki/Q1663781
+LIBSRC-LIB36-ENT-WRD-0044405,descriptive_identity,government agency,https://www.wikidata.org/wiki/Q65119875
+LIBSRC-LIB36-ENT-WRD-0044469,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q249655
+LIBSRC-LIB36-ENT-WRD-0044473,descriptive_identity,encyclopedia article,https://www.wikidata.org/wiki/Q103971297
+LIBSRC-LIB36-ENT-WRD-0044474,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q414837
+LIBSRC-LIB36-ENT-WRD-0044486,descriptive_identity,upper house,https://www.wikidata.org/wiki/Q2570643
+LIBSRC-LIB36-ENT-WRD-0044500,descriptive_identity,parliament,https://www.wikidata.org/wiki/Q207304
+LIBSRC-LIB36-ENT-WRD-0044524,descriptive_identity,social structure,https://www.wikidata.org/wiki/Q7275
+LIBSRC-LIB36-ENT-WRD-0044533,descriptive_identity,role,https://www.wikidata.org/wiki/Q3612401
+LIBSRC-LIB36-ENT-WRD-0044535,descriptive_identity,military alliance,https://www.wikidata.org/wiki/Q2643656
+LIBSRC-LIB36-ENT-WRD-0044545,descriptive_identity,continent,https://www.wikidata.org/wiki/Q18
+LIBSRC-LIB36-ENT-WRD-0044576,descriptive_identity,economic indicator,https://www.wikidata.org/wiki/Q837543
+LIBSRC-LIB36-ENT-WRD-0044592,descriptive_identity,audio track,https://www.wikidata.org/wiki/Q139494425
+LIBSRC-LIB36-ENT-WRD-0044579,descriptive_identity,double act,https://www.wikidata.org/wiki/Q33497
+LIBSRC-LIB36-ENT-WRD-0044589,descriptive_identity,organization,https://www.wikidata.org/wiki/Q1345055
+LIBSRC-LIB36-ENT-WRD-0044598,descriptive_identity,road type,https://www.wikidata.org/wiki/Q1168568
+LIBSRC-LIB36-ENT-WRD-0044629,descriptive_identity,position,https://www.wikidata.org/wiki/Q1206595
+LIBSRC-LIB36-ENT-WRD-0044621,descriptive_identity,performing arts group,https://www.wikidata.org/wiki/Q805233
+LIBSRC-LIB36-ENT-WRD-0044660,descriptive_identity,military branch,https://www.wikidata.org/wiki/Q61883
+LIBSRC-LIB36-ENT-WRD-0044679,descriptive_identity,Wikidata property for physical quantities,https://www.wikidata.org/wiki/P5708
+LIBSRC-LIB36-ENT-WRD-0044691,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q340657
+LIBSRC-LIB36-ENT-WRD-0044708,descriptive_identity,military unit size class,https://www.wikidata.org/wiki/Q52371
+LIBSRC-LIB36-ENT-WRD-0044714,descriptive_identity,Wikidata property to indicate a source,https://www.wikidata.org/wiki/P958
+LIBSRC-LIB36-ENT-WRD-0044723,descriptive_identity,military unit,https://www.wikidata.org/wiki/Q1388729
+LIBSRC-LIB36-ENT-WRD-0044762,descriptive_identity,group of humans,https://www.wikidata.org/wiki/Q211198
+LIBSRC-LIB36-ENT-WRD-0044767,descriptive_identity,group,https://www.wikidata.org/wiki/Q1095129
+LIBSRC-LIB36-ENT-WRD-0044760,descriptive_identity,group of humans,https://www.wikidata.org/wiki/Q211198
+LIBSRC-LIB36-ENT-WRD-0044784,descriptive_identity,form of government,https://www.wikidata.org/wiki/Q1802419
+LIBSRC-LIB36-ENT-WRD-0044806,descriptive_identity,video game,https://www.wikidata.org/wiki/Q111693843
+LIBSRC-LIB36-ENT-WRD-0044818,descriptive_identity,designation for an administrative territorial entity of a single country,https://www.wikidata.org/wiki/Q288653
+LIBSRC-LIB36-ENT-WRD-0044833,descriptive_identity,organization,https://www.wikidata.org/wiki/Q464242
+LIBSRC-LIB36-ENT-WRD-0044838,descriptive_identity,labor union,https://www.wikidata.org/wiki/Q1418259
+LIBSRC-LIB36-ENT-WRD-0044861,descriptive_identity,course,https://www.wikidata.org/wiki/Q1281422
+LIBSRC-LIB36-ENT-WRD-0044869,descriptive_identity,primitive notion,https://www.wikidata.org/wiki/Q36161
+LIBSRC-LIB36-ENT-WRD-0044880,descriptive_identity,data set,https://www.wikidata.org/wiki/Q5340806
+LIBSRC-LIB36-ENT-WRD-0044884,descriptive_identity,occupation,https://www.wikidata.org/wiki/Q1059039
+LIBSRC-LIB36-ENT-WRD-0044905,descriptive_identity,dyad,https://www.wikidata.org/wiki/Q109940
+LIBSRC-LIB36-ENT-WRD-0044919,descriptive_identity,architectural element,https://www.wikidata.org/wiki/Q1018991
+LIBSRC-LIB36-ENT-WRD-0044920,descriptive_identity,type of musical group,https://www.wikidata.org/wiki/Q1426710
+LIBSRC-LIB36-ENT-WRD-0044927,descriptive_identity,type of musical group,https://www.wikidata.org/wiki/Q207378
+LIBSRC-LIB36-ENT-WRD-0044935,descriptive_identity,Roman military unit,https://www.wikidata.org/wiki/Q202167
+LIBSRC-LIB36-ENT-WRD-0044950,descriptive_identity,festive meal,https://www.wikidata.org/wiki/Q626066
+LIBSRC-LIB36-ENT-WRD-0044952,descriptive_identity,jargon term,https://www.wikidata.org/wiki/Q5527620
+LIBSRC-LIB36-ENT-WRD-0044956,descriptive_identity,fixed-crest weir,https://www.wikidata.org/wiki/Q105190
+LIBSRC-LIB36-ENT-WRD-0044997,descriptive_identity,political party,https://www.wikidata.org/wiki/Q185088
+LIBSRC-LIB36-ENT-WRD-0045003,descriptive_identity,political party,https://www.wikidata.org/wiki/Q170972
+LIBSRC-LIB36-ENT-WRD-0045009,descriptive_identity,type of system,https://www.wikidata.org/wiki/Q11019
+LIBSRC-LIB36-ENT-WRD-0045009,manufacturer_or_creator,manufacture of machinery and equipment,https://www.wikidata.org/wiki/Q11019
+LIBSRC-LIB36-ENT-WRD-0045023,descriptive_identity,calendar,https://www.wikidata.org/wiki/Q1383171
+LIBSRC-LIB36-ENT-WRD-0045027,descriptive_identity,array data structure,https://www.wikidata.org/wiki/Q3714476
+LIBSRC-LIB36-ENT-WRD-0045032,descriptive_identity,symmetric matrix,https://www.wikidata.org/wiki/Q332791
+LIBSRC-LIB36-ENT-WRD-0045034,descriptive_identity,identity element,https://www.wikidata.org/wiki/Q193794
+LIBSRC-LIB36-ENT-WRD-0045058,descriptive_identity,binary function,https://www.wikidata.org/wiki/Q202805
+LIBSRC-LIB36-ENT-WRD-0045085,descriptive_identity,type of organization,https://www.wikidata.org/wiki/Q162633
+LIBSRC-LIB36-ENT-WRD-0045088,descriptive_identity,type of educational institution,https://www.wikidata.org/wiki/Q189004
+LIBSRC-LIB36-ENT-WRD-0045100,descriptive_identity,type of organization,https://www.wikidata.org/wiki/Q162633
+LIBSRC-LIB36-ENT-WRD-0045110,descriptive_identity,private school,https://www.wikidata.org/wiki/Q1957191
+LIBSRC-LIB36-ENT-WRD-0045128,descriptive_identity,religious organization,https://www.wikidata.org/wiki/Q233324
+LIBSRC-LIB36-ENT-WRD-0045129,descriptive_identity,type of educational institution,https://www.wikidata.org/wiki/Q7692354
+LIBSRC-LIB36-ENT-WRD-0045148,descriptive_identity,culture,https://www.wikidata.org/wiki/Q264965
+LIBSRC-LIB36-ENT-WRD-0045154,descriptive_identity,archaeological culture,https://www.wikidata.org/wiki/Q192530
+LIBSRC-LIB36-ENT-WRD-0045170,descriptive_identity,waterway,https://www.wikidata.org/wiki/Q5458371
+LIBSRC-LIB36-ENT-WRD-0045171,descriptive_identity,waterway,https://www.wikidata.org/wiki/Q5458371
+LIBSRC-LIB36-ENT-WRD-0045179,descriptive_identity,organization,https://www.wikidata.org/wiki/Q1065
+LIBSRC-LIB36-ENT-WRD-0045188,descriptive_identity,organization,https://www.wikidata.org/wiki/Q469618
+LIBSRC-LIB36-ENT-WRD-0045209,descriptive_identity,international financial institution,https://www.wikidata.org/wiki/Q7804
+LIBSRC-LIB36-ENT-WRD-0045217,descriptive_identity,form of government,https://www.wikidata.org/wiki/Q43702
+LIBSRC-LIB36-ENT-WRD-0045265,descriptive_identity,group of humans,https://www.wikidata.org/wiki/Q4358176
+LIBSRC-LIB36-ENT-WRD-0045269,descriptive_identity,polis,https://www.wikidata.org/wiki/Q47611
+LIBSRC-LIB36-ENT-WRD-0045274,descriptive_identity,city,https://www.wikidata.org/wiki/Q16869
+LIBSRC-LIB36-ENT-WRD-0045282,descriptive_identity,department of France,https://www.wikidata.org/wiki/Q12804
+LIBSRC-LIB36-ENT-WRD-0045288,descriptive_identity,ecumenical council,https://www.wikidata.org/wiki/Q190857
+LIBSRC-LIB36-ENT-WRD-0045293,descriptive_identity,cavity,https://www.wikidata.org/wiki/Q1068543
+LIBSRC-LIB36-ENT-WRD-0045333,descriptive_identity,committee,https://www.wikidata.org/wiki/Q112967657
+LIBSRC-LIB36-ENT-WRD-0045340,descriptive_identity,public institution,https://www.wikidata.org/wiki/Q2115302
+LIBSRC-LIB36-ENT-WRD-0045352,descriptive_identity,Wikidata qualifier,https://www.wikidata.org/wiki/P4884
+LIBSRC-LIB36-ENT-WRD-0045358,descriptive_identity,governing body,https://www.wikidata.org/wiki/Q1381335
+LIBSRC-LIB36-ENT-WRD-0045371,descriptive_identity,court,https://www.wikidata.org/wiki/Q468501
+LIBSRC-LIB36-ENT-WRD-0045387,descriptive_identity,court,https://www.wikidata.org/wiki/Q3125101
+LIBSRC-LIB36-ENT-WRD-0045451,descriptive_identity,government agency,https://www.wikidata.org/wiki/Q1639780
+LIBSRC-LIB36-ENT-WRD-0045455,descriptive_identity,organization,https://www.wikidata.org/wiki/Q1187145
+LIBSRC-LIB36-ENT-WRD-0045476,descriptive_identity,occurrence,https://www.wikidata.org/wiki/Q526999
+LIBSRC-LIB36-ENT-WRD-0045477,descriptive_identity,quorum,https://www.wikidata.org/wiki/Q950371
+LIBSRC-LIB36-ENT-WRD-0045494,descriptive_identity,legal doctrine,https://www.wikidata.org/wiki/Q1194747
+LIBSRC-LIB36-ENT-WRD-0045523,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q177636
+LIBSRC-LIB36-ENT-WRD-0045501,descriptive_identity,form of state,https://www.wikidata.org/wiki/Q79751
+LIBSRC-LIB36-ENT-WRD-0045547,descriptive_identity,type of social group,https://www.wikidata.org/wiki/Q1194193
+LIBSRC-LIB36-ENT-WRD-0045569,descriptive_identity,unit of length,https://www.wikidata.org/wiki/Q552299
+LIBSRC-LIB36-ENT-WRD-0045570,descriptive_identity,Biblical commentary,https://www.wikidata.org/wiki/Q638762
+LIBSRC-LIB36-ENT-WRD-0045573,descriptive_identity,Wikidata property related to food and eating,https://www.wikidata.org/wiki/P8431
+LIBSRC-LIB36-ENT-WRD-0045604,descriptive_identity,type of business entity,https://www.wikidata.org/wiki/Q134161
+LIBSRC-LIB36-ENT-WRD-0045632,descriptive_identity,society,https://www.wikidata.org/wiki/Q8425
+LIBSRC-LIB36-ENT-WRD-0045637,descriptive_identity,nobility,https://www.wikidata.org/wiki/Q124465095
+LIBSRC-LIB36-ENT-WRD-0045690,descriptive_identity,type of machine element,https://www.wikidata.org/wiki/Q194302
+LIBSRC-LIB36-ENT-WRD-0045699,descriptive_identity,Latin phrase,https://www.wikidata.org/wiki/Q174376
+LIBSRC-LIB36-ENT-WRD-0045589,descriptive_identity,concentration gradient,https://www.wikidata.org/wiki/Q1475698
+LIBSRC-LIB36-ENT-WRD-0045719,descriptive_identity,monarchy,https://www.wikidata.org/wiki/Q48349
+LIBSRC-LIB36-ENT-WRD-0045746,descriptive_identity,type of musical group,https://www.wikidata.org/wiki/Q21082253
+LIBSRC-LIB36-ENT-WRD-0045776,descriptive_identity,organization,https://www.wikidata.org/wiki/Q837675
+LIBSRC-LIB36-ENT-WRD-0045799,descriptive_identity,bank,https://www.wikidata.org/wiki/Q848507
+LIBSRC-LIB36-ENT-WRD-0045795,descriptive_identity,transport,https://www.wikidata.org/wiki/Q370330
+LIBSRC-LIB36-ENT-WRD-0045805,descriptive_identity,role,https://www.wikidata.org/wiki/Q342551
+LIBSRC-LIB36-ENT-WRD-0045833,descriptive_identity,motion,https://www.wikidata.org/wiki/Q4323994
+LIBSRC-LIB36-ENT-WRD-0045913,descriptive_identity,type of biotope,https://www.wikidata.org/wiki/Q112872
+LIBSRC-LIB36-ENT-WRD-0045831,descriptive_identity,economy,https://www.wikidata.org/wiki/Q37654
+LIBSRC-LIB36-ENT-WRD-0045931,descriptive_identity,area of law,https://www.wikidata.org/wiki/Q4394526
+LIBSRC-LIB36-ENT-WRD-0045940,descriptive_identity,type of law,https://www.wikidata.org/wiki/Q7766927
+LIBSRC-LIB36-ENT-WRD-0045984,descriptive_identity,Wikidata property for items about people,https://www.wikidata.org/wiki/P135
+LIBSRC-LIB36-ENT-WRD-0045997,descriptive_identity,Christian eschatology,https://www.wikidata.org/wiki/Q1475650
+LIBSRC-LIB36-ENT-WRD-0046021,descriptive_identity,labor union,https://www.wikidata.org/wiki/Q1046722
+LIBSRC-LIB36-ENT-WRD-0046029,descriptive_identity,political theory,https://www.wikidata.org/wiki/Q740931
+LIBSRC-LIB36-ENT-WRD-0046056,descriptive_identity,type of musical group,https://www.wikidata.org/wiki/Q19464263
+LIBSRC-LIB36-ENT-WRD-0046064,descriptive_identity,web color,https://www.wikidata.org/wiki/Q42519
+LIBSRC-LIB36-ENT-WRD-0046110,descriptive_identity,natural language,https://www.wikidata.org/wiki/Q13218
+LIBSRC-LIB36-ENT-WRD-0046161,descriptive_identity,circumstellar disk,https://www.wikidata.org/wiki/Q2179
+LIBSRC-LIB36-ENT-WRD-0046170,descriptive_identity,outer space,https://www.wikidata.org/wiki/Q2304108
+LIBSRC-LIB36-ENT-WRD-0046182,descriptive_identity,film,https://www.wikidata.org/wiki/Q4840351
+LIBSRC-LIB36-ENT-WRD-0046195,descriptive_identity,territory,https://www.wikidata.org/wiki/Q1355821
+LIBSRC-LIB36-ENT-WRD-0046196,descriptive_identity,biome,https://www.wikidata.org/wiki/Q8514
+LIBSRC-LIB36-ENT-WRD-0046231,descriptive_identity,neologism,https://www.wikidata.org/wiki/Q9048751
+LIBSRC-LIB36-ENT-WRD-0046239,descriptive_identity,demarcation line,https://www.wikidata.org/wiki/Q1366583
+LIBSRC-LIB36-ENT-WRD-0046322,descriptive_identity,administrative territorial entity,https://www.wikidata.org/wiki/Q505410
+LIBSRC-LIB36-ENT-WRD-0046335,descriptive_identity,administrative territorial entity type,https://www.wikidata.org/wiki/Q28575
+LIBSRC-LIB36-ENT-WRD-0046344,descriptive_identity,transport structure,https://www.wikidata.org/wiki/Q333062
+LIBSRC-LIB36-ENT-WRD-0046351,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q4388711
+LIBSRC-LIB36-ENT-WRD-0046352,descriptive_identity,neighborhood,https://www.wikidata.org/wiki/Q152018
+LIBSRC-LIB36-ENT-WRD-0046365,descriptive_identity,administrative territorial entity type,https://www.wikidata.org/wiki/Q285181
+LIBSRC-LIB36-ENT-WRD-0046374,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q1074523
+LIBSRC-LIB36-ENT-WRD-0046394,descriptive_identity,administrative territorial entity type,https://www.wikidata.org/wiki/Q154547
+LIBSRC-LIB36-ENT-WRD-0046398,descriptive_identity,economic system,https://www.wikidata.org/wiki/Q188063
+LIBSRC-LIB36-ENT-WRD-0046407,descriptive_identity,form of state,https://www.wikidata.org/wiki/Q463573
+LIBSRC-LIB36-ENT-WRD-0046413,descriptive_identity,standard UNIX utility or command,https://www.wikidata.org/wiki/Q288418
+LIBSRC-LIB36-ENT-WRD-0046423,descriptive_identity,points of the compass,https://www.wikidata.org/wiki/Q667
+LIBSRC-LIB36-ENT-WRD-0046427,descriptive_identity,Earth in fiction,https://www.wikidata.org/wiki/Q106675869
+LIBSRC-LIB36-ENT-WRD-0046434,descriptive_identity,electoral unit,https://www.wikidata.org/wiki/Q845168
+LIBSRC-LIB36-ENT-WRD-0046450,descriptive_identity,region,https://www.wikidata.org/wiki/Q1340442
+LIBSRC-LIB36-ENT-WRD-0046468,descriptive_identity,structural element,https://www.wikidata.org/wiki/Q1590639
+LIBSRC-LIB36-ENT-WRD-0046451,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q1572519
+LIBSRC-LIB36-ENT-WRD-0046512,descriptive_identity,undead,https://www.wikidata.org/wiki/Q5682593
+LIBSRC-LIB36-ENT-WRD-0046515,descriptive_identity,physical location,https://www.wikidata.org/wiki/Q1678262
+LIBSRC-LIB36-ENT-WRD-0046525,descriptive_identity,unit of volume,https://www.wikidata.org/wiki/Q185789
+LIBSRC-LIB36-ENT-WRD-0046525,material_identity,liquid,https://www.wikidata.org/wiki/Q185789
+LIBSRC-LIB36-ENT-WRD-0046535,descriptive_identity,source type,https://www.wikidata.org/wiki/Q2552709
+LIBSRC-LIB36-ENT-WRD-0046554,descriptive_identity,type of park,https://www.wikidata.org/wiki/Q1662100
+LIBSRC-LIB36-ENT-WRD-0046561,descriptive_identity,atmospheric layer,https://www.wikidata.org/wiki/Q162219
+LIBSRC-LIB36-ENT-WRD-0046618,descriptive_identity,caption,https://www.wikidata.org/wiki/Q1705410
+LIBSRC-LIB36-ENT-WRD-0046631,descriptive_identity,national park,https://www.wikidata.org/wiki/Q866080
+LIBSRC-LIB36-ENT-WRD-0046639,descriptive_identity,national park,https://www.wikidata.org/wiki/Q274131
+LIBSRC-LIB36-ENT-WRD-0046647,descriptive_identity,national park,https://www.wikidata.org/wiki/Q1143416
+LIBSRC-LIB36-ENT-WRD-0046652,descriptive_identity,national park,https://www.wikidata.org/wiki/Q836264
+LIBSRC-LIB36-ENT-WRD-0046653,descriptive_identity,National Park of the United States,https://www.wikidata.org/wiki/Q139487743
+LIBSRC-LIB36-ENT-WRD-0046654,descriptive_identity,national park,https://www.wikidata.org/wiki/Q1163542
+LIBSRC-LIB36-ENT-WRD-0046658,descriptive_identity,national park,https://www.wikidata.org/wiki/Q1163799
+LIBSRC-LIB36-ENT-WRD-0046662,descriptive_identity,national park,https://www.wikidata.org/wiki/Q191824
+LIBSRC-LIB36-ENT-WRD-0046665,descriptive_identity,national park,https://www.wikidata.org/wiki/Q1137401
+LIBSRC-LIB36-ENT-WRD-0046677,descriptive_identity,disputed territory,https://www.wikidata.org/wiki/Q773403
+LIBSRC-LIB36-ENT-WRD-0046684,descriptive_identity,trajectory,https://www.wikidata.org/wiki/Q4130
+LIBSRC-LIB36-ENT-WRD-0046687,descriptive_identity,geosynchronous orbit,https://www.wikidata.org/wiki/Q192316
+LIBSRC-LIB36-ENT-WRD-0046692,descriptive_identity,art genre,https://www.wikidata.org/wiki/Q898700
+LIBSRC-LIB36-ENT-WRD-0046693,descriptive_identity,physical location,https://www.wikidata.org/wiki/Q2479770
+LIBSRC-LIB36-ENT-WRD-0046706,descriptive_identity,type of park,https://www.wikidata.org/wiki/Q22698
+LIBSRC-LIB36-ENT-WRD-0046717,descriptive_identity,itinerary,https://www.wikidata.org/wiki/Q56319548
+LIBSRC-LIB36-ENT-WRD-0046728,descriptive_identity,architectural element,https://www.wikidata.org/wiki/Q683031
+LIBSRC-LIB36-ENT-WRD-0046736,descriptive_identity,built structure,https://www.wikidata.org/wiki/Q525800
+LIBSRC-LIB36-ENT-WRD-0046740,descriptive_identity,concept,https://www.wikidata.org/wiki/Q739168
+LIBSRC-LIB36-ENT-WRD-0046751,descriptive_identity,literary element,https://www.wikidata.org/wiki/Q617332
+LIBSRC-LIB36-ENT-WRD-0046759,descriptive_identity,body-relative direction,https://www.wikidata.org/wiki/Q11920728
+LIBSRC-LIB36-ENT-WRD-0046774,descriptive_identity,citadel,https://www.wikidata.org/wiki/Q89468
+LIBSRC-LIB36-ENT-WRD-0046785,descriptive_identity,type of region,https://www.wikidata.org/wiki/Q82794
+LIBSRC-LIB36-ENT-WRD-0046827,descriptive_identity,military base,https://www.wikidata.org/wiki/Q309202
+LIBSRC-LIB36-ENT-WRD-0046848,descriptive_identity,measurand,https://www.wikidata.org/wiki/Q204170
+LIBSRC-LIB36-ENT-WRD-0046856,descriptive_identity,cemetery,https://www.wikidata.org/wiki/Q2749813
+LIBSRC-LIB36-ENT-WRD-0046859,descriptive_identity,geographic location,https://www.wikidata.org/wiki/Q470540
+LIBSRC-LIB36-ENT-WRD-0046881,descriptive_identity,horizon,https://www.wikidata.org/wiki/Q465837
+LIBSRC-LIB36-ENT-WRD-0046885,descriptive_identity,neighborhood,https://www.wikidata.org/wiki/Q2191560
+LIBSRC-LIB36-ENT-WRD-0046892,descriptive_identity,music genre,https://www.wikidata.org/wiki/Q406714
+LIBSRC-LIB36-ENT-WRD-0046900,descriptive_identity,social structure,https://www.wikidata.org/wiki/Q7275
+LIBSRC-LIB36-ENT-WRD-0046937,descriptive_identity,built structure,https://www.wikidata.org/wiki/Q2296676
+LIBSRC-LIB36-ENT-WRD-0046941,descriptive_identity,periodical,https://www.wikidata.org/wiki/Q1721916
+LIBSRC-LIB36-ENT-WRD-0046946,descriptive_identity,class of anatomical entity,https://www.wikidata.org/wiki/Q23640
+LIBSRC-LIB36-ENT-WRD-0046951,descriptive_identity,classification of human settlements,https://www.wikidata.org/wiki/Q3957
+LIBSRC-LIB36-ENT-WRD-0046950,descriptive_identity,film,https://www.wikidata.org/wiki/Q7827121
+LIBSRC-LIB36-ENT-WRD-0046956,descriptive_identity,concept,https://www.wikidata.org/wiki/Q20666188
+LIBSRC-LIB36-ENT-WRD-0046965,descriptive_identity,village,https://www.wikidata.org/wiki/Q251749
+LIBSRC-LIB36-ENT-WRD-0046968,descriptive_identity,region,https://www.wikidata.org/wiki/Q16305538
+LIBSRC-LIB36-ENT-WRD-0046972,descriptive_identity,unit of mass,https://www.wikidata.org/wiki/Q246868
+LIBSRC-LIB36-ENT-WRD-0046975,descriptive_identity,region,https://www.wikidata.org/wiki/Q177440
+LIBSRC-LIB36-ENT-WRD-0046978,descriptive_identity,administrative territorial entity type,https://www.wikidata.org/wiki/Q1761572
+LIBSRC-LIB36-ENT-WRD-0046994,descriptive_identity,built structure,https://www.wikidata.org/wiki/Q3098286
+LIBSRC-LIB36-ENT-WRD-0047032,descriptive_identity,set,https://www.wikidata.org/wiki/Q40540
+LIBSRC-LIB36-ENT-WRD-0047040,descriptive_identity,constellation,https://www.wikidata.org/wiki/Q10580
+LIBSRC-LIB36-ENT-WRD-0047007,descriptive_identity,machine element,https://www.wikidata.org/wiki/Q190100
+LIBSRC-LIB36-ENT-WRD-0047042,descriptive_identity,constellation,https://www.wikidata.org/wiki/Q8866
+LIBSRC-LIB36-ENT-WRD-0047068,descriptive_identity,capital city,https://www.wikidata.org/wiki/Q11271835
+LIBSRC-LIB36-ENT-WRD-0047077,descriptive_identity,city,https://www.wikidata.org/wiki/Q3935
+LIBSRC-LIB36-ENT-WRD-0047080,descriptive_identity,historical region,https://www.wikidata.org/wiki/Q26847
+LIBSRC-LIB36-ENT-WRD-0047092,descriptive_identity,city,https://www.wikidata.org/wiki/Q45604
+LIBSRC-LIB36-ENT-WRD-0047095,descriptive_identity,country,https://www.wikidata.org/wiki/Q222
+LIBSRC-LIB36-ENT-WRD-0047107,descriptive_identity,commune of Algeria,https://www.wikidata.org/wiki/Q582905
+LIBSRC-LIB36-ENT-WRD-0047109,descriptive_identity,baladiyya,https://www.wikidata.org/wiki/Q1021173
+LIBSRC-LIB36-ENT-WRD-0047134,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q21616147
+LIBSRC-LIB36-ENT-WRD-0047110,descriptive_identity,census-designated place in the United States,https://www.wikidata.org/wiki/Q1184302
+LIBSRC-LIB36-ENT-WRD-0047135,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q49868375
+LIBSRC-LIB36-ENT-WRD-0047139,descriptive_identity,human,https://www.wikidata.org/wiki/Q117794432
+LIBSRC-LIB36-ENT-WRD-0047164,descriptive_identity,country,https://www.wikidata.org/wiki/Q929
+LIBSRC-LIB36-ENT-WRD-0047171,descriptive_identity,country,https://www.wikidata.org/wiki/Q657
+LIBSRC-LIB36-ENT-WRD-0047173,descriptive_identity,country,https://www.wikidata.org/wiki/Q298
+LIBSRC-LIB36-ENT-WRD-0047176,descriptive_identity,municipality of the Philippines,https://www.wikidata.org/wiki/Q30934
+LIBSRC-LIB36-ENT-WRD-0047196,descriptive_identity,province of China,https://www.wikidata.org/wiki/Q43194
+LIBSRC-LIB36-ENT-WRD-0047207,descriptive_identity,sub-province-level division,https://www.wikidata.org/wiki/Q11720
+LIBSRC-LIB36-ENT-WRD-0047253,descriptive_identity,big city,https://www.wikidata.org/wiki/Q274584
+LIBSRC-LIB36-ENT-WRD-0047233,descriptive_identity,country,https://www.wikidata.org/wiki/Q970
+LIBSRC-LIB36-ENT-WRD-0047289,descriptive_identity,state of Mexico,https://www.wikidata.org/wiki/Q79923
+LIBSRC-LIB36-ENT-WRD-0046572,descriptive_identity,taxonomic rank,https://www.wikidata.org/wiki/Q36732
+LIBSRC-LIB36-ENT-WRD-0047309,descriptive_identity,historical country,https://www.wikidata.org/wiki/Q25227
+LIBSRC-LIB36-ENT-WRD-0047291,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q29625149
+LIBSRC-LIB36-ENT-WRD-0047313,descriptive_identity,island,https://www.wikidata.org/wiki/Q25528
+LIBSRC-LIB36-ENT-WRD-0047317,descriptive_identity,first-level administrative division,https://www.wikidata.org/wiki/Q140298
+LIBSRC-LIB36-ENT-WRD-0047322,descriptive_identity,ship,https://www.wikidata.org/wiki/Q122800347
+LIBSRC-LIB36-ENT-WRD-0047327,descriptive_identity,country,https://www.wikidata.org/wiki/Q786
+LIBSRC-LIB36-ENT-WRD-0047339,descriptive_identity,archipelago,https://www.wikidata.org/wiki/Q26262
+LIBSRC-LIB36-ENT-WRD-0047342,descriptive_identity,country,https://www.wikidata.org/wiki/Q244
+LIBSRC-LIB36-ENT-WRD-0047344,descriptive_identity,city,https://www.wikidata.org/wiki/Q36168
+LIBSRC-LIB36-ENT-WRD-0047352,descriptive_identity,country,https://www.wikidata.org/wiki/Q213
+LIBSRC-LIB36-ENT-WRD-0047356,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q345812
+LIBSRC-LIB36-ENT-WRD-0047394,descriptive_identity,local newspaper,https://www.wikidata.org/wiki/Q643171
+LIBSRC-LIB36-ENT-WRD-0047412,descriptive_identity,major regional center,https://www.wikidata.org/wiki/Q1295
+LIBSRC-LIB36-ENT-WRD-0047429,descriptive_identity,census-designated place in the United States,https://www.wikidata.org/wiki/Q1853689
+LIBSRC-LIB36-ENT-WRD-0047442,descriptive_identity,river,https://www.wikidata.org/wiki/Q1664
+LIBSRC-LIB36-ENT-WRD-0047453,descriptive_identity,capital city,https://www.wikidata.org/wiki/Q3624
+LIBSRC-LIB36-ENT-WRD-0047463,descriptive_identity,city,https://www.wikidata.org/wiki/Q40840
+LIBSRC-LIB36-ENT-WRD-0047466,descriptive_identity,country,https://www.wikidata.org/wiki/Q41
+LIBSRC-LIB36-ENT-WRD-0047476,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q22254
+LIBSRC-LIB36-ENT-WRD-0047501,descriptive_identity,city,https://www.wikidata.org/wiki/Q5760
+LIBSRC-LIB36-ENT-WRD-0047515,descriptive_identity,country,https://www.wikidata.org/wiki/Q801
+LIBSRC-LIB36-ENT-WRD-0047517,descriptive_identity,federative unit of Brazil,https://www.wikidata.org/wiki/Q40780
+LIBSRC-LIB36-ENT-WRD-0047537,descriptive_identity,musical group,https://www.wikidata.org/wiki/Q7960067
+LIBSRC-LIB36-ENT-WRD-0047538,descriptive_identity,city,https://www.wikidata.org/wiki/Q33935
+LIBSRC-LIB36-ENT-WRD-0047539,descriptive_identity,village of the People's Republic of China,https://www.wikidata.org/wiki/Q13928135
+LIBSRC-LIB36-ENT-WRD-0047540,descriptive_identity,city,https://www.wikidata.org/wiki/Q180294
+LIBSRC-LIB36-ENT-WRD-0047576,descriptive_identity,comune of Italy,https://www.wikidata.org/wiki/Q241717
+LIBSRC-LIB36-ENT-WRD-0047589,descriptive_identity,city,https://www.wikidata.org/wiki/Q13375
+LIBSRC-LIB36-ENT-WRD-0047597,descriptive_identity,autonomous region with special statute,https://www.wikidata.org/wiki/Q1460
+LIBSRC-LIB36-ENT-WRD-0047602,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q403457
+LIBSRC-LIB36-ENT-WRD-0047608,descriptive_identity,city-state,https://www.wikidata.org/wiki/Q617
+LIBSRC-LIB36-ENT-WRD-0047605,descriptive_identity,region of Italy,https://www.wikidata.org/wiki/Q1280
+LIBSRC-LIB36-ENT-WRD-0047627,descriptive_identity,country,https://www.wikidata.org/wiki/Q225
+LIBSRC-LIB36-ENT-WRD-0047645,descriptive_identity,town,https://www.wikidata.org/wiki/Q54809
+LIBSRC-LIB36-ENT-WRD-0047649,descriptive_identity,city,https://www.wikidata.org/wiki/Q16461
+LIBSRC-LIB36-ENT-WRD-0047657,descriptive_identity,federal electoral district in New Brunswick,https://www.wikidata.org/wiki/Q3087204
+LIBSRC-LIB36-ENT-WRD-0047673,descriptive_identity,city,https://www.wikidata.org/wiki/Q30963
+LIBSRC-LIB36-ENT-WRD-0047703,descriptive_identity,capital city,https://www.wikidata.org/wiki/Q40191
+LIBSRC-LIB36-ENT-WRD-0047715,descriptive_identity,region,https://www.wikidata.org/wiki/Q855272
+LIBSRC-LIB36-ENT-WRD-0047730,descriptive_identity,Wikimedia permanent duplicate item,https://www.wikidata.org/wiki/Q27576912
+LIBSRC-LIB36-ENT-WRD-0047742,descriptive_identity,island group,https://www.wikidata.org/wiki/Q154190
+LIBSRC-LIB36-ENT-WRD-0047726,descriptive_identity,country,https://www.wikidata.org/wiki/Q709
+LIBSRC-LIB36-ENT-WRD-0047760,descriptive_identity,city-state,https://www.wikidata.org/wiki/Q1741
+LIBSRC-LIB36-ENT-WRD-0047767,descriptive_identity,city,https://www.wikidata.org/wiki/Q2467
+LIBSRC-LIB36-ENT-WRD-0047774,descriptive_identity,city,https://www.wikidata.org/wiki/Q376749
+LIBSRC-LIB36-ENT-WRD-0047771,descriptive_identity,city,https://www.wikidata.org/wiki/Q3882
+LIBSRC-LIB36-ENT-WRD-0047788,descriptive_identity,city,https://www.wikidata.org/wiki/Q3919
+LIBSRC-LIB36-ENT-WRD-0047826,descriptive_identity,mountain range,https://www.wikidata.org/wiki/Q211778
+LIBSRC-LIB36-ENT-WRD-0047829,descriptive_identity,album,https://www.wikidata.org/wiki/Q30602035
+LIBSRC-LIB36-ENT-WRD-0047842,descriptive_identity,article,https://www.wikidata.org/wiki/Q131761771
+LIBSRC-LIB36-ENT-WRD-0047844,descriptive_identity,city,https://www.wikidata.org/wiki/Q24826
+LIBSRC-LIB36-ENT-WRD-0047839,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q5915984
+LIBSRC-LIB36-ENT-WRD-0047848,descriptive_identity,urban area,https://www.wikidata.org/wiki/Q22889
+LIBSRC-LIB36-ENT-WRD-0047854,descriptive_identity,city,https://www.wikidata.org/wiki/Q83065
+LIBSRC-LIB36-ENT-WRD-0047856,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q49191
+LIBSRC-LIB36-ENT-WRD-0047872,descriptive_identity,ceremonial county of England,https://www.wikidata.org/wiki/Q23165
+LIBSRC-LIB36-ENT-WRD-0047879,descriptive_identity,town,https://www.wikidata.org/wiki/Q29245
+LIBSRC-LIB36-ENT-WRD-0047883,descriptive_identity,ceremonial county of England,https://www.wikidata.org/wiki/Q23090
+LIBSRC-LIB36-ENT-WRD-0047924,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q254724
+LIBSRC-LIB36-ENT-WRD-0047948,descriptive_identity,historical period,https://www.wikidata.org/wiki/Q180568
+LIBSRC-LIB36-ENT-WRD-0047957,descriptive_identity,ancient city,https://www.wikidata.org/wiki/Q5715
+LIBSRC-LIB36-ENT-WRD-0047961,descriptive_identity,village,https://www.wikidata.org/wiki/Q192134
+LIBSRC-LIB36-ENT-WRD-0047971,descriptive_identity,province of Pakistan,https://www.wikidata.org/wiki/Q4478
+LIBSRC-LIB36-ENT-WRD-0047973,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q1195504
+LIBSRC-LIB36-ENT-WRD-0048017,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q353840
+LIBSRC-LIB36-ENT-WRD-0048025,descriptive_identity,federal capital,https://www.wikidata.org/wiki/Q1530
+LIBSRC-LIB36-ENT-WRD-0048044,descriptive_identity,style,https://www.wikidata.org/wiki/Q41642
+LIBSRC-LIB36-ENT-WRD-0048049,descriptive_identity,island of Japan,https://www.wikidata.org/wiki/Q13989
+LIBSRC-LIB36-ENT-WRD-0048060,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q27931
+LIBSRC-LIB36-ENT-WRD-0048062,descriptive_identity,island group,https://www.wikidata.org/wiki/Q6897416
+LIBSRC-LIB36-ENT-WRD-0048068,descriptive_identity,city of Japan,https://www.wikidata.org/wiki/Q26600
+LIBSRC-LIB36-ENT-WRD-0048070,descriptive_identity,core city of Japan,https://www.wikidata.org/wiki/Q336431
+LIBSRC-LIB36-ENT-WRD-0048072,descriptive_identity,organization,https://www.wikidata.org/wiki/Q53268
+LIBSRC-LIB36-ENT-WRD-0048074,descriptive_identity,island group,https://www.wikidata.org/wiki/Q1141683
+LIBSRC-LIB36-ENT-WRD-0048079,descriptive_identity,city,https://www.wikidata.org/wiki/Q5687
+LIBSRC-LIB36-ENT-WRD-0048085,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q1215890
+LIBSRC-LIB36-ENT-WRD-0048087,descriptive_identity,country,https://www.wikidata.org/wiki/Q817
+LIBSRC-LIB36-ENT-WRD-0048090,descriptive_identity,megacity,https://www.wikidata.org/wiki/Q90
+LIBSRC-LIB36-ENT-WRD-0048107,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q7003
+LIBSRC-LIB36-ENT-WRD-0048109,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q1289
+LIBSRC-LIB36-ENT-WRD-0048122,descriptive_identity,commune of France,https://www.wikidata.org/wiki/Q288
+LIBSRC-LIB36-ENT-WRD-0048156,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q1504290
+LIBSRC-LIB36-ENT-WRD-0048162,descriptive_identity,historical province of France,https://www.wikidata.org/wiki/Q1142571
+LIBSRC-LIB36-ENT-WRD-0048164,descriptive_identity,country,https://www.wikidata.org/wiki/Q1000
+LIBSRC-LIB36-ENT-WRD-0048188,descriptive_identity,municipality of the Netherlands,https://www.wikidata.org/wiki/Q47887
+LIBSRC-LIB36-ENT-WRD-0048193,descriptive_identity,province of the Netherlands,https://www.wikidata.org/wiki/Q770
+LIBSRC-LIB36-ENT-WRD-0048199,descriptive_identity,island country,https://www.wikidata.org/wiki/Q4628
+LIBSRC-LIB36-ENT-WRD-0048211,descriptive_identity,city,https://www.wikidata.org/wiki/Q18808
+LIBSRC-LIB36-ENT-WRD-0048215,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q29456529
+LIBSRC-LIB36-ENT-WRD-0048228,descriptive_identity,city,https://www.wikidata.org/wiki/Q3909
+LIBSRC-LIB36-ENT-WRD-0048234,descriptive_identity,country,https://www.wikidata.org/wiki/Q347
+LIBSRC-LIB36-ENT-WRD-0048239,descriptive_identity,capital city,https://www.wikidata.org/wiki/Q384
+LIBSRC-LIB36-ENT-WRD-0048246,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q219100
+LIBSRC-LIB36-ENT-WRD-0048254,descriptive_identity,city,https://www.wikidata.org/wiki/Q61089
+LIBSRC-LIB36-ENT-WRD-0048260,descriptive_identity,state of Malaysia,https://www.wikidata.org/wiki/Q188953
+LIBSRC-LIB36-ENT-WRD-0048267,descriptive_identity,country,https://www.wikidata.org/wiki/Q826
+LIBSRC-LIB36-ENT-WRD-0048274,descriptive_identity,country,https://www.wikidata.org/wiki/Q233
+LIBSRC-LIB36-ENT-WRD-0048277,descriptive_identity,city,https://www.wikidata.org/wiki/Q3688
+LIBSRC-LIB36-ENT-WRD-0048295,descriptive_identity,city,https://www.wikidata.org/wiki/Q126148
+LIBSRC-LIB36-ENT-WRD-0048299,descriptive_identity,city,https://www.wikidata.org/wiki/Q3889
+LIBSRC-LIB36-ENT-WRD-0048300,descriptive_identity,big city,https://www.wikidata.org/wiki/Q131620
+LIBSRC-LIB36-ENT-WRD-0048306,descriptive_identity,city,https://www.wikidata.org/wiki/Q79990
+LIBSRC-LIB36-ENT-WRD-0048310,descriptive_identity,country,https://www.wikidata.org/wiki/Q1033
+LIBSRC-LIB36-ENT-WRD-0048316,descriptive_identity,city,https://www.wikidata.org/wiki/Q147975
+LIBSRC-LIB36-ENT-WRD-0048327,descriptive_identity,city,https://www.wikidata.org/wiki/Q93230
+LIBSRC-LIB36-ENT-WRD-0048333,descriptive_identity,historical region,https://www.wikidata.org/wiki/Q1645483
+LIBSRC-LIB36-ENT-WRD-0048335,descriptive_identity,administrative territorial entity,https://www.wikidata.org/wiki/Q159273
+LIBSRC-LIB36-ENT-WRD-0048263,descriptive_identity,state of Malaysia,https://www.wikidata.org/wiki/Q188947
+LIBSRC-LIB36-ENT-WRD-0048345,descriptive_identity,megacity,https://www.wikidata.org/wiki/Q1461
+LIBSRC-LIB36-ENT-WRD-0048349,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q1451
+LIBSRC-LIB36-ENT-WRD-0048349,material_identity,andesite,https://www.wikidata.org/wiki/Q1451
+LIBSRC-LIB36-ENT-WRD-0048358,descriptive_identity,ship,https://www.wikidata.org/wiki/Q9332348
+LIBSRC-LIB36-ENT-WRD-0048357,descriptive_identity,city,https://www.wikidata.org/wiki/Q588
+LIBSRC-LIB36-ENT-WRD-0048364,descriptive_identity,autonomous region of Portugal,https://www.wikidata.org/wiki/Q25263
+LIBSRC-LIB36-ENT-WRD-0048362,descriptive_identity,peninsula,https://www.wikidata.org/wiki/Q12837
+LIBSRC-LIB36-ENT-WRD-0048367,descriptive_identity,municipality of Portugal,https://www.wikidata.org/wiki/Q83247
+LIBSRC-LIB36-ENT-WRD-0048380,descriptive_identity,country,https://www.wikidata.org/wiki/Q760
+LIBSRC-LIB36-ENT-WRD-0048385,descriptive_identity,overseas collectivity of France,https://www.wikidata.org/wiki/Q30971
+LIBSRC-LIB36-ENT-WRD-0048392,descriptive_identity,archipelago,https://www.wikidata.org/wiki/Q172697
+LIBSRC-LIB36-ENT-WRD-0048415,descriptive_identity,country,https://www.wikidata.org/wiki/Q1042
+LIBSRC-LIB36-ENT-WRD-0048393,descriptive_identity,country,https://www.wikidata.org/wiki/Q683
+LIBSRC-LIB36-ENT-WRD-0048433,descriptive_identity,city,https://www.wikidata.org/wiki/Q34647
+LIBSRC-LIB36-ENT-WRD-0048451,descriptive_identity,republic of Russia,https://www.wikidata.org/wiki/Q5187
+LIBSRC-LIB36-ENT-WRD-0048453,descriptive_identity,administrative divisions of Russia,https://www.wikidata.org/wiki/Q2837
+LIBSRC-LIB36-ENT-WRD-0048459,descriptive_identity,country,https://www.wikidata.org/wiki/Q159
+LIBSRC-LIB36-ENT-WRD-0048486,descriptive_identity,historical country,https://www.wikidata.org/wiki/Q11040572
+LIBSRC-LIB36-ENT-WRD-0048495,descriptive_identity,country,https://www.wikidata.org/wiki/Q37
+LIBSRC-LIB36-ENT-WRD-0048507,descriptive_identity,exclusion zone,https://www.wikidata.org/wiki/Q129677
+LIBSRC-LIB36-ENT-WRD-0048513,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q128499
+LIBSRC-LIB36-ENT-WRD-0048543,descriptive_identity,autonomous community of Spain,https://www.wikidata.org/wiki/Q5813
+LIBSRC-LIB36-ENT-WRD-0048558,descriptive_identity,municipality of Spain,https://www.wikidata.org/wiki/Q10305
+LIBSRC-LIB36-ENT-WRD-0048568,descriptive_identity,region of Sudan,https://www.wikidata.org/wiki/Q46733
+LIBSRC-LIB36-ENT-WRD-0048569,descriptive_identity,region,https://www.wikidata.org/wiki/Q867052
+LIBSRC-LIB36-ENT-WRD-0048576,descriptive_identity,painting,https://www.wikidata.org/wiki/Q28554198
+LIBSRC-LIB36-ENT-WRD-0048576,material_identity,acrylic paint,https://www.wikidata.org/wiki/Q28554198
+LIBSRC-LIB36-ENT-WRD-0048577,descriptive_identity,city,https://www.wikidata.org/wiki/Q3904
+LIBSRC-LIB36-ENT-WRD-0048593,descriptive_identity,city,https://www.wikidata.org/wiki/Q1960
+LIBSRC-LIB36-ENT-WRD-0048597,descriptive_identity,city,https://www.wikidata.org/wiki/Q335548
+LIBSRC-LIB36-ENT-WRD-0048608,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q348116
+LIBSRC-LIB36-ENT-WRD-0048624,descriptive_identity,titular see,https://www.wikidata.org/wiki/Q1571035
+LIBSRC-LIB36-ENT-WRD-0048632,descriptive_identity,historical country,https://www.wikidata.org/wiki/Q473748
+LIBSRC-LIB36-ENT-WRD-0048638,descriptive_identity,city,https://www.wikidata.org/wiki/Q1519
+LIBSRC-LIB36-ENT-WRD-0048649,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q1031414
+LIBSRC-LIB36-ENT-WRD-0048664,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q79389
+LIBSRC-LIB36-ENT-WRD-0048670,descriptive_identity,U.S. state,https://www.wikidata.org/wiki/Q797
+LIBSRC-LIB36-ENT-WRD-0048672,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q39450
+LIBSRC-LIB36-ENT-WRD-0048674,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q79804
+LIBSRC-LIB36-ENT-WRD-0048690,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q219526
+LIBSRC-LIB36-ENT-WRD-0048693,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q61455
+LIBSRC-LIB36-ENT-WRD-0048700,descriptive_identity,big city,https://www.wikidata.org/wiki/Q49256
+LIBSRC-LIB36-ENT-WRD-0048707,descriptive_identity,print,https://www.wikidata.org/wiki/Q139303538
+LIBSRC-LIB36-ENT-WRD-0048719,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q20272384
+LIBSRC-LIB36-ENT-WRD-0048720,descriptive_identity,hill,https://www.wikidata.org/wiki/Q7466
+LIBSRC-LIB36-ENT-WRD-0048768,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q37043
+LIBSRC-LIB36-ENT-WRD-0048773,descriptive_identity,country,https://www.wikidata.org/wiki/Q230
+LIBSRC-LIB36-ENT-WRD-0048775,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q23556
+LIBSRC-LIB36-ENT-WRD-0048781,descriptive_identity,city,https://www.wikidata.org/wiki/Q34217
+LIBSRC-LIB36-ENT-WRD-0048832,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q695565
+LIBSRC-LIB36-ENT-WRD-0048841,descriptive_identity,U.S. state,https://www.wikidata.org/wiki/Q1558
+LIBSRC-LIB36-ENT-WRD-0048845,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q41819
+LIBSRC-LIB36-ENT-WRD-0048863,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q224028
+LIBSRC-LIB36-ENT-WRD-0048896,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q49179
+LIBSRC-LIB36-ENT-WRD-0048907,descriptive_identity,U.S. state,https://www.wikidata.org/wiki/Q1166
+LIBSRC-LIB36-ENT-WRD-0048916,descriptive_identity,big city,https://www.wikidata.org/wiki/Q28237
+LIBSRC-LIB36-ENT-WRD-0048921,descriptive_identity,U.S. state,https://www.wikidata.org/wiki/Q1527
+LIBSRC-LIB36-ENT-WRD-0048943,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q866294
+LIBSRC-LIB36-ENT-WRD-0048948,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q41819
+LIBSRC-LIB36-ENT-WRD-0048954,descriptive_identity,U.S. state,https://www.wikidata.org/wiki/Q1212
+LIBSRC-LIB36-ENT-WRD-0048950,descriptive_identity,human biblical figure,https://www.wikidata.org/wiki/Q128267
+LIBSRC-LIB36-ENT-WRD-0048952,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q402854
+LIBSRC-LIB36-ENT-WRD-0048968,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q23768
+LIBSRC-LIB36-ENT-WRD-0048973,descriptive_identity,article,https://www.wikidata.org/wiki/Q131761771
+LIBSRC-LIB36-ENT-WRD-0048981,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q26339
+LIBSRC-LIB36-ENT-WRD-0049000,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q1890283
+LIBSRC-LIB36-ENT-WRD-0049008,descriptive_identity,canal,https://www.wikidata.org/wiki/Q459578
+LIBSRC-LIB36-ENT-WRD-0049018,descriptive_identity,park,https://www.wikidata.org/wiki/Q34918466
+LIBSRC-LIB36-ENT-WRD-0049052,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q238259
+LIBSRC-LIB36-ENT-WRD-0049061,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q49229
+LIBSRC-LIB36-ENT-WRD-0049064,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q49238
+LIBSRC-LIB36-ENT-WRD-0049067,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q49227
+LIBSRC-LIB36-ENT-WRD-0049078,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q79613
+LIBSRC-LIB36-ENT-WRD-0049072,descriptive_identity,town in the United States,https://www.wikidata.org/wiki/Q66210
+LIBSRC-LIB36-ENT-WRD-0049079,descriptive_identity,municipality of Spain,https://www.wikidata.org/wiki/Q5836
+LIBSRC-LIB36-ENT-WRD-0049108,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q51973
+LIBSRC-LIB36-ENT-WRD-0049091,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q171224
+LIBSRC-LIB36-ENT-WRD-0049117,descriptive_identity,comune of Italy,https://www.wikidata.org/wiki/Q2044
+LIBSRC-LIB36-ENT-WRD-0049145,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q16558
+LIBSRC-LIB36-ENT-WRD-0049152,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q975590
+LIBSRC-LIB36-ENT-WRD-0049159,descriptive_identity,municipality of the Philippines,https://www.wikidata.org/wiki/Q30923
+LIBSRC-LIB36-ENT-WRD-0049164,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q128244
+LIBSRC-LIB36-ENT-WRD-0049171,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q26426
+LIBSRC-LIB36-ENT-WRD-0049193,descriptive_identity,town in the United States,https://www.wikidata.org/wiki/Q67284
+LIBSRC-LIB36-ENT-WRD-0049209,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q219526
+LIBSRC-LIB36-ENT-WRD-0049212,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q246504
+LIBSRC-LIB36-ENT-WRD-0049216,descriptive_identity,city in the United States,https://www.wikidata.org/wiki/Q94928
+LIBSRC-LIB36-ENT-WRD-0049223,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q956970
+LIBSRC-LIB36-ENT-WRD-0049231,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q327515
+LIBSRC-LIB36-ENT-WRD-0049246,descriptive_identity,component city,https://www.wikidata.org/wiki/Q2158
+LIBSRC-LIB36-ENT-WRD-0049253,descriptive_identity,country,https://www.wikidata.org/wiki/Q805
+LIBSRC-LIB36-ENT-WRD-0049254,descriptive_identity,city,https://www.wikidata.org/wiki/Q131694
+LIBSRC-LIB36-ENT-WRD-0049267,descriptive_identity,city,https://www.wikidata.org/wiki/Q193250
+LIBSRC-LIB36-ENT-WRD-0049263,descriptive_identity,region,https://www.wikidata.org/wiki/Q859413
+LIBSRC-LIB36-ENT-WRD-0049295,descriptive_identity,desert,https://www.wikidata.org/wiki/Q6583
+LIBSRC-LIB36-ENT-WRD-0049306,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q239427
+LIBSRC-LIB36-ENT-WRD-0049311,descriptive_identity,human,https://www.wikidata.org/wiki/Q97746
+LIBSRC-LIB36-ENT-WRD-0049307,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q394081
+LIBSRC-LIB36-ENT-WRD-0049366,descriptive_identity,moral quality,https://www.wikidata.org/wiki/Q193526
+LIBSRC-LIB36-ENT-WRD-0049381,descriptive_identity,meteorite type,https://www.wikidata.org/wiki/Q340587
+LIBSRC-LIB36-ENT-WRD-0049387,descriptive_identity,painting,https://www.wikidata.org/wiki/Q20503035
+LIBSRC-LIB36-ENT-WRD-0049385,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q60789
+LIBSRC-LIB36-ENT-WRD-0049395,descriptive_identity,Roman deity,https://www.wikidata.org/wiki/Q130221074
+LIBSRC-LIB36-ENT-WRD-0049418,descriptive_identity,stratus,https://www.wikidata.org/wiki/Q202145
+LIBSRC-LIB36-ENT-WRD-0049449,descriptive_identity,mountain range,https://www.wikidata.org/wiki/Q1285
+LIBSRC-LIB36-ENT-WRD-0049451,descriptive_identity,asteroid family,https://www.wikidata.org/wiki/Q207391
+LIBSRC-LIB36-ENT-WRD-0049466,descriptive_identity,ocean,https://www.wikidata.org/wiki/Q788
+LIBSRC-LIB36-ENT-WRD-0049483,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q4816367
+LIBSRC-LIB36-ENT-WRD-0049535,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q4906950
+LIBSRC-LIB36-ENT-WRD-0049486,descriptive_identity,island,https://www.wikidata.org/wiki/Q42523
+LIBSRC-LIB36-ENT-WRD-0049537,descriptive_identity,bight,https://www.wikidata.org/wiki/Q47530
+LIBSRC-LIB36-ENT-WRD-0049557,descriptive_identity,mountain range,https://www.wikidata.org/wiki/Q166755
+LIBSRC-LIB36-ENT-WRD-0049557,material_identity,limestone,https://www.wikidata.org/wiki/Q166755
+LIBSRC-LIB36-ENT-WRD-0049590,descriptive_identity,landform,https://www.wikidata.org/wiki/Q6554910
+LIBSRC-LIB36-ENT-WRD-0049580,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q903252
+LIBSRC-LIB36-ENT-WRD-0049591,descriptive_identity,bay,https://www.wikidata.org/wiki/Q599732
+LIBSRC-LIB36-ENT-WRD-0049616,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q2937088
+LIBSRC-LIB36-ENT-WRD-0049639,descriptive_identity,cave,https://www.wikidata.org/wiki/Q89497
+LIBSRC-LIB36-ENT-WRD-0049640,descriptive_identity,cave,https://www.wikidata.org/wiki/Q89497
+LIBSRC-LIB36-ENT-WRD-0049658,descriptive_identity,lake,https://www.wikidata.org/wiki/Q1115201
+LIBSRC-LIB36-ENT-WRD-0049693,descriptive_identity,area,https://www.wikidata.org/wiki/Q2231510
+LIBSRC-LIB36-ENT-WRD-0049696,descriptive_identity,U.S. state,https://www.wikidata.org/wiki/Q1261
+LIBSRC-LIB36-ENT-WRD-0049701,descriptive_identity,symptom or sign,https://www.wikidata.org/wiki/Q159557
+LIBSRC-LIB36-ENT-WRD-0049760,descriptive_identity,extended play,https://www.wikidata.org/wiki/Q46899
+LIBSRC-LIB36-ENT-WRD-0049758,descriptive_identity,type of disease,https://www.wikidata.org/wiki/Q117484
+LIBSRC-LIB36-ENT-WRD-0049778,descriptive_identity,type of chemical entity,https://www.wikidata.org/wiki/Q503527
+LIBSRC-LIB36-ENT-WRD-0049781,descriptive_identity,astronomical object type,https://www.wikidata.org/wiki/Q854857
+LIBSRC-LIB36-ENT-WRD-0049793,descriptive_identity,river,https://www.wikidata.org/wiki/Q1229
+LIBSRC-LIB36-ENT-WRD-0049815,descriptive_identity,proto-agent,https://www.wikidata.org/wiki/Q140398120
+LIBSRC-LIB36-ENT-WRD-0049816,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q1317543
+LIBSRC-LIB36-ENT-WRD-0049821,descriptive_identity,sea,https://www.wikidata.org/wiki/Q34640
+LIBSRC-LIB36-ENT-WRD-0049836,descriptive_identity,atmospheric layer,https://www.wikidata.org/wiki/Q170332
+LIBSRC-LIB36-ENT-WRD-0049849,descriptive_identity,superpower,https://www.wikidata.org/wiki/Q4480631
+LIBSRC-LIB36-ENT-WRD-0049862,descriptive_identity,type of disease,https://www.wikidata.org/wiki/Q142807
+LIBSRC-LIB36-ENT-WRD-0049896,descriptive_identity,rock formation,https://www.wikidata.org/wiki/Q677371
+LIBSRC-LIB36-ENT-WRD-0049918,descriptive_identity,bay,https://www.wikidata.org/wiki/Q186733
+LIBSRC-LIB36-ENT-WRD-0049941,descriptive_identity,bay,https://www.wikidata.org/wiki/Q1322134
+LIBSRC-LIB36-ENT-WRD-0049963,descriptive_identity,gulf,https://www.wikidata.org/wiki/Q2272405
+LIBSRC-LIB36-ENT-WRD-0050010,descriptive_identity,type of physical object,https://www.wikidata.org/wiki/Q23392
+LIBSRC-LIB36-ENT-WRD-0050010,material_identity,water,https://www.wikidata.org/wiki/Q23392
+LIBSRC-LIB36-ENT-WRD-0050026,descriptive_identity,fossil,https://www.wikidata.org/wiki/Q502892
+LIBSRC-LIB36-ENT-WRD-0050029,descriptive_identity,horizontal transmission,https://www.wikidata.org/wiki/Q15304518
+LIBSRC-LIB36-ENT-WRD-0050030,descriptive_identity,plant structure,https://www.wikidata.org/wiki/Q1493164
+LIBSRC-LIB36-ENT-WRD-0050045,descriptive_identity,astronomical object type,https://www.wikidata.org/wiki/Q41872
+LIBSRC-LIB36-ENT-WRD-0050048,descriptive_identity,group or class of chemical entities,https://www.wikidata.org/wiki/Q36496
+LIBSRC-LIB36-ENT-WRD-0050066,descriptive_identity,bay,https://www.wikidata.org/wiki/Q223810
+LIBSRC-LIB36-ENT-WRD-0050072,descriptive_identity,vehicle model,https://www.wikidata.org/wiki/Q110226710
+LIBSRC-LIB36-ENT-WRD-0050079,descriptive_identity,mountain range,https://www.wikidata.org/wiki/Q5469
+LIBSRC-LIB36-ENT-WRD-0050094,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q79985
+LIBSRC-LIB36-ENT-WRD-0050086,descriptive_identity,physical tool,https://www.wikidata.org/wiki/Q132041
+LIBSRC-LIB36-ENT-WRD-0050110,descriptive_identity,lake,https://www.wikidata.org/wiki/Q68467
+LIBSRC-LIB36-ENT-WRD-0050115,descriptive_identity,lake,https://www.wikidata.org/wiki/Q1383
+LIBSRC-LIB36-ENT-WRD-0050124,descriptive_identity,ship,https://www.wikidata.org/wiki/Q84260771
+LIBSRC-LIB36-ENT-WRD-0050124,manufacturer_or_creator,Guangzhou Wenchong Shipyard,https://www.wikidata.org/wiki/Q84260771
+LIBSRC-LIB36-ENT-WRD-0050147,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q174816
+LIBSRC-LIB36-ENT-WRD-0050190,descriptive_identity,volcanic crater,https://www.wikidata.org/wiki/Q192503
+LIBSRC-LIB36-ENT-WRD-0050183,descriptive_identity,region,https://www.wikidata.org/wiki/Q11327984
+LIBSRC-LIB36-ENT-WRD-0050194,descriptive_identity,municipality of the Philippines,https://www.wikidata.org/wiki/Q75881
+LIBSRC-LIB36-ENT-WRD-0050203,descriptive_identity,legal term or legal concept,https://www.wikidata.org/wiki/Q2799588
+LIBSRC-LIB36-ENT-WRD-0050195,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q1161664
+LIBSRC-LIB36-ENT-WRD-0050217,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q1374
+LIBSRC-LIB36-ENT-WRD-0050217,material_identity,metamorphic rock,https://www.wikidata.org/wiki/Q1374
+LIBSRC-LIB36-ENT-WRD-0050233,descriptive_identity,atmospheric layer,https://www.wikidata.org/wiki/Q162167
+LIBSRC-LIB36-ENT-WRD-0050232,descriptive_identity,type of quantum particle,https://www.wikidata.org/wiki/Q102742
+LIBSRC-LIB36-ENT-WRD-0050240,descriptive_identity,fossil,https://www.wikidata.org/wiki/Q1761786
+LIBSRC-LIB36-ENT-WRD-0050246,descriptive_identity,film,https://www.wikidata.org/wiki/Q201687
+LIBSRC-LIB36-ENT-WRD-0050250,descriptive_identity,astronomical object type,https://www.wikidata.org/wiki/Q1022867
+LIBSRC-LIB36-ENT-WRD-0050267,descriptive_identity,glacial landform,https://www.wikidata.org/wiki/Q2610088
+LIBSRC-LIB36-ENT-WRD-0050267,material_identity,till,https://www.wikidata.org/wiki/Q2610088
+LIBSRC-LIB36-ENT-WRD-0050278,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q657225
+LIBSRC-LIB36-ENT-WRD-0050298,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q130736
+LIBSRC-LIB36-ENT-WRD-0050317,descriptive_identity,type of structure,https://www.wikidata.org/wiki/Q4785
+LIBSRC-LIB36-ENT-WRD-0050330,descriptive_identity,software,https://www.wikidata.org/wiki/Q140786404
+LIBSRC-LIB36-ENT-WRD-0050336,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q7053981
+LIBSRC-LIB36-ENT-WRD-0050338,descriptive_identity,asterism,https://www.wikidata.org/wiki/Q3698087
+LIBSRC-LIB36-ENT-WRD-0050363,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q233836
+LIBSRC-LIB36-ENT-WRD-0050363,material_identity,andesite,https://www.wikidata.org/wiki/Q233836
+LIBSRC-LIB36-ENT-WRD-0050340,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q14683509
+LIBSRC-LIB36-ENT-WRD-0050365,descriptive_identity,marsh,https://www.wikidata.org/wiki/Q2162020
+LIBSRC-LIB36-ENT-WRD-0050377,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q155431
+LIBSRC-LIB36-ENT-WRD-0050383,descriptive_identity,superior planet,https://www.wikidata.org/wiki/Q30014
+LIBSRC-LIB36-ENT-WRD-0050390,descriptive_identity,environmental issue,https://www.wikidata.org/wiki/Q124707833
+LIBSRC-LIB36-ENT-WRD-0050400,descriptive_identity,collective population entity of Spain,https://www.wikidata.org/wiki/Q16615980
+LIBSRC-LIB36-ENT-WRD-0050409,descriptive_identity,constellation,https://www.wikidata.org/wiki/Q10515
+LIBSRC-LIB36-ENT-WRD-0050446,descriptive_identity,astronomical object type,https://www.wikidata.org/wiki/Q13632
+LIBSRC-LIB36-ENT-WRD-0050457,descriptive_identity,publishing house,https://www.wikidata.org/wiki/Q138744796
+LIBSRC-LIB36-ENT-WRD-0050484,descriptive_identity,mountain range,https://www.wikidata.org/wiki/Q12431
+LIBSRC-LIB36-ENT-WRD-0050484,material_identity,metamorphic rock,https://www.wikidata.org/wiki/Q12431
+LIBSRC-LIB36-ENT-WRD-0050485,descriptive_identity,constellation,https://www.wikidata.org/wiki/Q10473
+LIBSRC-LIB36-ENT-WRD-0050501,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q243473
+LIBSRC-LIB36-ENT-WRD-0050533,descriptive_identity,gene,https://www.wikidata.org/wiki/Q29729710
+LIBSRC-LIB36-ENT-WRD-0050562,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q1179401
+LIBSRC-LIB36-ENT-WRD-0050568,descriptive_identity,painting,https://www.wikidata.org/wiki/Q20489148
+LIBSRC-LIB36-ENT-WRD-0050572,descriptive_identity,biotope,https://www.wikidata.org/wiki/Q65269347
+LIBSRC-LIB36-ENT-WRD-0050600,descriptive_identity,skin disease,https://www.wikidata.org/wiki/Q56303809
+LIBSRC-LIB36-ENT-WRD-0050615,descriptive_identity,lake,https://www.wikidata.org/wiki/Q1552706
+LIBSRC-LIB36-ENT-WRD-0050634,descriptive_identity,island,https://www.wikidata.org/wiki/Q28337
+LIBSRC-LIB36-ENT-WRD-0050679,descriptive_identity,sea,https://www.wikidata.org/wiki/Q37660
+LIBSRC-LIB36-ENT-WRD-0050695,descriptive_identity,dripstone,https://www.wikidata.org/wiki/Q177197
+LIBSRC-LIB36-ENT-WRD-0050696,descriptive_identity,concretion,https://www.wikidata.org/wiki/Q181312
+LIBSRC-LIB36-ENT-WRD-0050702,descriptive_identity,ecosystem,https://www.wikidata.org/wiki/Q123991
+LIBSRC-LIB36-ENT-WRD-0050719,descriptive_identity,atmospheric layer,https://www.wikidata.org/wiki/Q108376
+LIBSRC-LIB36-ENT-WRD-0050738,descriptive_identity,firework,https://www.wikidata.org/wiki/Q7644247
+LIBSRC-LIB36-ENT-WRD-0050741,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q450959
+LIBSRC-LIB36-ENT-WRD-0050752,descriptive_identity,short bone,https://www.wikidata.org/wiki/Q13100
+LIBSRC-LIB36-ENT-WRD-0050760,descriptive_identity,constellation,https://www.wikidata.org/wiki/Q10570
+LIBSRC-LIB36-ENT-WRD-0050769,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q344598
+LIBSRC-LIB36-ENT-WRD-0050790,descriptive_identity,strait,https://www.wikidata.org/wiki/Q179188
+LIBSRC-LIB36-ENT-WRD-0050814,descriptive_identity,manufacturing process,https://www.wikidata.org/wiki/Q258127
+LIBSRC-LIB36-ENT-WRD-0050844,descriptive_identity,indirect transmission,https://www.wikidata.org/wiki/Q15304542
+LIBSRC-LIB36-ENT-WRD-0050846,descriptive_identity,constellation,https://www.wikidata.org/wiki/Q10521
+LIBSRC-LIB36-ENT-WRD-0050849,descriptive_identity,asteroid,https://www.wikidata.org/wiki/Q3030
+LIBSRC-LIB36-ENT-WRD-0050895,descriptive_identity,television series,https://www.wikidata.org/wiki/Q576863
+LIBSRC-LIB36-ENT-WRD-0050898,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q414728
+LIBSRC-LIB36-ENT-WRD-0050906,descriptive_identity,philosophical concept,https://www.wikidata.org/wiki/Q16502
+LIBSRC-LIB36-ENT-WRD-0050932,descriptive_identity,devil,https://www.wikidata.org/wiki/Q2261974
+LIBSRC-LIB36-ENT-WRD-0050908,descriptive_identity,astronomical object,https://www.wikidata.org/wiki/Q7544
+LIBSRC-LIB36-ENT-WRD-0050942,descriptive_identity,thought experiment,https://www.wikidata.org/wiki/Q212397
+LIBSRC-LIB36-ENT-WRD-0050943,descriptive_identity,waterwoman,https://www.wikidata.org/wiki/Q182559
+LIBSRC-LIB36-ENT-WRD-0050969,descriptive_identity,mythical creature,https://www.wikidata.org/wiki/Q1371084
+LIBSRC-LIB36-ENT-WRD-0050964,descriptive_identity,Hellhound,https://www.wikidata.org/wiki/Q83496
+LIBSRC-LIB36-ENT-WRD-0050974,descriptive_identity,mythological Greek character,https://www.wikidata.org/wiki/Q86805
+LIBSRC-LIB36-ENT-WRD-0050975,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q448070
+LIBSRC-LIB36-ENT-WRD-0050977,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q293499
+LIBSRC-LIB36-ENT-WRD-0050987,descriptive_identity,constellation,https://www.wikidata.org/wiki/Q10511
+LIBSRC-LIB36-ENT-WRD-0051014,descriptive_identity,taxon,https://www.wikidata.org/wiki/Q127251
+LIBSRC-LIB36-ENT-WRD-0051031,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q134227
+LIBSRC-LIB36-ENT-WRD-0051034,descriptive_identity,mythological Greek character,https://www.wikidata.org/wiki/Q2436714
+LIBSRC-LIB36-ENT-WRD-0051070,descriptive_identity,Ancient Egyptian deity,https://www.wikidata.org/wiki/Q79876
+LIBSRC-LIB36-ENT-WRD-0051078,descriptive_identity,specialized term,https://www.wikidata.org/wiki/Q3477996
+LIBSRC-LIB36-ENT-WRD-0051077,descriptive_identity,musical group,https://www.wikidata.org/wiki/Q959231
+LIBSRC-LIB36-ENT-WRD-0051080,descriptive_identity,Ancient Egyptian deity,https://www.wikidata.org/wiki/Q146921
+LIBSRC-LIB36-ENT-WRD-0051089,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q765554
+LIBSRC-LIB36-ENT-WRD-0051113,descriptive_identity,god,https://www.wikidata.org/wiki/Q392239
+LIBSRC-LIB36-ENT-WRD-0051102,descriptive_identity,Mesopotamian deity,https://www.wikidata.org/wiki/Q654458
+LIBSRC-LIB36-ENT-WRD-0051121,descriptive_identity,fertility deity,https://www.wikidata.org/wiki/Q1753026
+LIBSRC-LIB36-ENT-WRD-0051124,descriptive_identity,god,https://www.wikidata.org/wiki/Q726282
+LIBSRC-LIB36-ENT-WRD-0051142,descriptive_identity,group of mythical characters,https://www.wikidata.org/wiki/Q909873
+LIBSRC-LIB36-ENT-WRD-0051146,descriptive_identity,human,https://www.wikidata.org/wiki/Q916959
+LIBSRC-LIB36-ENT-WRD-0051166,descriptive_identity,thunder deity,https://www.wikidata.org/wiki/Q1398044
+LIBSRC-LIB36-ENT-WRD-0051175,descriptive_identity,comics character,https://www.wikidata.org/wiki/Q3545917
+LIBSRC-LIB36-ENT-WRD-0051185,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q361906
+LIBSRC-LIB36-ENT-WRD-0051199,descriptive_identity,taxon,https://www.wikidata.org/wiki/Q1760801
+LIBSRC-LIB36-ENT-WRD-0051203,descriptive_identity,religious concept,https://www.wikidata.org/wiki/Q178149
+LIBSRC-LIB36-ENT-WRD-0051236,descriptive_identity,musical group,https://www.wikidata.org/wiki/Q112751
+LIBSRC-LIB36-ENT-WRD-0051238,descriptive_identity,religious belief,https://www.wikidata.org/wiki/Q51626
+LIBSRC-LIB36-ENT-WRD-0051248,descriptive_identity,archangel,https://www.wikidata.org/wiki/Q45581
+LIBSRC-LIB36-ENT-WRD-0051258,descriptive_identity,mythical humanoid race,https://www.wikidata.org/wiki/Q188215
+LIBSRC-LIB36-ENT-WRD-0051286,descriptive_identity,spirit,https://www.wikidata.org/wiki/Q45529
+LIBSRC-LIB36-ENT-WRD-0051314,descriptive_identity,group of Greek mythical characters,https://www.wikidata.org/wiki/Q202474
+LIBSRC-LIB36-ENT-WRD-0051317,descriptive_identity,deity,https://www.wikidata.org/wiki/Q22989102
+LIBSRC-LIB36-ENT-WRD-0051320,descriptive_identity,mythological Greek character,https://www.wikidata.org/wiki/Q172549
+LIBSRC-LIB36-ENT-WRD-0051330,descriptive_identity,municipality of Galicia,https://www.wikidata.org/wiki/Q17416
+LIBSRC-LIB36-ENT-WRD-0051336,descriptive_identity,legendary human figure,https://www.wikidata.org/wiki/Q219936
+LIBSRC-LIB36-ENT-WRD-0051360,descriptive_identity,group of humans,https://www.wikidata.org/wiki/Q901481
+LIBSRC-LIB36-ENT-WRD-0051355,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q227222
+LIBSRC-LIB36-ENT-WRD-0051362,descriptive_identity,goddess,https://www.wikidata.org/wiki/Q131125
+LIBSRC-LIB36-ENT-WRD-0051363,descriptive_identity,solar deity,https://www.wikidata.org/wiki/Q134270
+LIBSRC-LIB36-ENT-WRD-0051371,descriptive_identity,ship,https://www.wikidata.org/wiki/Q108166907
+LIBSRC-LIB36-ENT-WRD-0051390,descriptive_identity,group of Greek mythical characters,https://www.wikidata.org/wiki/Q66016
+LIBSRC-LIB36-ENT-WRD-0051391,descriptive_identity,mythological Greek character,https://www.wikidata.org/wiki/Q103975
+LIBSRC-LIB36-ENT-WRD-0051398,descriptive_identity,mythological Greek character,https://www.wikidata.org/wiki/Q108019
+LIBSRC-LIB36-ENT-WRD-0051402,descriptive_identity,goddess,https://www.wikidata.org/wiki/Q165023
+LIBSRC-LIB36-ENT-WRD-0051427,descriptive_identity,big city,https://www.wikidata.org/wiki/Q22595
+LIBSRC-LIB36-ENT-WRD-0051457,descriptive_identity,moon of Saturn,https://www.wikidata.org/wiki/Q17975
+LIBSRC-LIB36-ENT-WRD-0051498,descriptive_identity,world tree,https://www.wikidata.org/wiki/Q131135
+LIBSRC-LIB36-ENT-WRD-0051518,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q212505
+LIBSRC-LIB36-ENT-WRD-0051529,descriptive_identity,animated film,https://www.wikidata.org/wiki/Q270940
+LIBSRC-LIB36-ENT-WRD-0051551,descriptive_identity,mythological Greek character,https://www.wikidata.org/wiki/Q192407
+LIBSRC-LIB36-ENT-WRD-0051543,descriptive_identity,legendary figure,https://www.wikidata.org/wiki/Q41746
+LIBSRC-LIB36-ENT-WRD-0051565,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q1391992
+LIBSRC-LIB36-ENT-WRD-0051569,descriptive_identity,municipality without town privileges in Germany,https://www.wikidata.org/wiki/Q23036
+LIBSRC-LIB36-ENT-WRD-0051573,descriptive_identity,theatrical production,https://www.wikidata.org/wiki/Q64635188
+LIBSRC-LIB36-ENT-WRD-0051602,descriptive_identity,literary work,https://www.wikidata.org/wiki/Q719143
+LIBSRC-LIB36-ENT-WRD-0051575,descriptive_identity,video game character,https://www.wikidata.org/wiki/Q140393936
+LIBSRC-LIB36-ENT-WRD-0051622,descriptive_identity,occupation,https://www.wikidata.org/wiki/Q2596222
+LIBSRC-LIB36-ENT-WRD-0051621,descriptive_identity,family name,https://www.wikidata.org/wiki/Q722780
+LIBSRC-LIB36-ENT-WRD-0051646,descriptive_identity,role,https://www.wikidata.org/wiki/Q5165152
+LIBSRC-LIB36-ENT-WRD-0051656,descriptive_identity,profession,https://www.wikidata.org/wiki/Q81096
+LIBSRC-LIB36-ENT-WRD-0051666,descriptive_identity,academic degree,https://www.wikidata.org/wiki/Q381160
+LIBSRC-LIB36-ENT-WRD-0051793,descriptive_identity,natural language,https://www.wikidata.org/wiki/Q33390
+LIBSRC-LIB36-ENT-WRD-0051773,descriptive_identity,natural language,https://www.wikidata.org/wiki/Q33060
+LIBSRC-LIB36-ENT-WRD-0051794,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q293427
+LIBSRC-LIB36-ENT-WRD-0051796,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q231387
+LIBSRC-LIB36-ENT-WRD-0051808,descriptive_identity,language,https://www.wikidata.org/wiki/Q3135234
+LIBSRC-LIB36-ENT-WRD-0051823,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q396029
+LIBSRC-LIB36-ENT-WRD-0051826,descriptive_identity,language,https://www.wikidata.org/wiki/Q35162
+LIBSRC-LIB36-ENT-WRD-0051827,descriptive_identity,village,https://www.wikidata.org/wiki/Q5788359
+LIBSRC-LIB36-ENT-WRD-0051834,descriptive_identity,language,https://www.wikidata.org/wiki/Q20824
+LIBSRC-LIB36-ENT-WRD-0051849,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q1501173
+LIBSRC-LIB36-ENT-WRD-0051862,descriptive_identity,language,https://www.wikidata.org/wiki/Q3370188
+LIBSRC-LIB36-ENT-WRD-0051865,descriptive_identity,language family,https://www.wikidata.org/wiki/Q115485
+LIBSRC-LIB36-ENT-WRD-0051867,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q41335
+LIBSRC-LIB36-ENT-WRD-0051869,descriptive_identity,language,https://www.wikidata.org/wiki/Q56749
+LIBSRC-LIB36-ENT-WRD-0051884,descriptive_identity,Native American tribe,https://www.wikidata.org/wiki/Q26774
+LIBSRC-LIB36-ENT-WRD-0051895,descriptive_identity,natural language,https://www.wikidata.org/wiki/Q20085721
+LIBSRC-LIB36-ENT-WRD-0051903,descriptive_identity,county seat,https://www.wikidata.org/wiki/Q49266
+LIBSRC-LIB36-ENT-WRD-0051906,descriptive_identity,ethnic group,https://www.wikidata.org/wiki/Q106253712
+LIBSRC-LIB36-ENT-WRD-0051914,descriptive_identity,natural language,https://www.wikidata.org/wiki/Q29401
+LIBSRC-LIB36-ENT-WRD-0051922,descriptive_identity,natural language,https://www.wikidata.org/wiki/Q33919
+LIBSRC-LIB36-ENT-WRD-0051924,descriptive_identity,spurious language,https://www.wikidata.org/wiki/Q33771
+LIBSRC-LIB36-ENT-WRD-0051945,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q12470781
+LIBSRC-LIB36-ENT-WRD-0051949,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q12047243
+LIBSRC-LIB36-ENT-WRD-0051956,descriptive_identity,pejorative,https://www.wikidata.org/wiki/Q212452
+LIBSRC-LIB36-ENT-WRD-0051988,descriptive_identity,group of humans,https://www.wikidata.org/wiki/Q7434888
+LIBSRC-LIB36-ENT-WRD-0052014,descriptive_identity,language family,https://www.wikidata.org/wiki/Q49228
+LIBSRC-LIB36-ENT-WRD-0052025,descriptive_identity,municipality of the Philippines,https://www.wikidata.org/wiki/Q29048
+LIBSRC-LIB36-ENT-WRD-0052023,descriptive_identity,natural language,https://www.wikidata.org/wiki/Q33315
+LIBSRC-LIB36-ENT-WRD-0052047,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q1218401
+LIBSRC-LIB36-ENT-WRD-0052050,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q5501706
+LIBSRC-LIB36-ENT-WRD-0052066,descriptive_identity,natural language,https://www.wikidata.org/wiki/Q9056
+LIBSRC-LIB36-ENT-WRD-0052068,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q346372
+LIBSRC-LIB36-ENT-WRD-0052100,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q3404882
+LIBSRC-LIB36-ENT-WRD-0052108,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q5389595
+LIBSRC-LIB36-ENT-WRD-0052110,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q235919
+LIBSRC-LIB36-ENT-WRD-0052119,descriptive_identity,language,https://www.wikidata.org/wiki/Q9083
+LIBSRC-LIB36-ENT-WRD-0052127,descriptive_identity,film,https://www.wikidata.org/wiki/Q4492447
+LIBSRC-LIB36-ENT-WRD-0052131,descriptive_identity,natural language,https://www.wikidata.org/wiki/Q12107
+LIBSRC-LIB36-ENT-WRD-0052132,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q63271
+LIBSRC-LIB36-ENT-WRD-0052146,descriptive_identity,container ship,https://www.wikidata.org/wiki/Q83628210
+LIBSRC-LIB36-ENT-WRD-0052146,manufacturer_or_creator,Samsung Heavy Industries,https://www.wikidata.org/wiki/Q83628210
+LIBSRC-LIB36-ENT-WRD-0052149,descriptive_identity,musical group,https://www.wikidata.org/wiki/Q6530235
+LIBSRC-LIB36-ENT-WRD-0052151,descriptive_identity,fictional humanoid species,https://www.wikidata.org/wiki/Q2859922
+LIBSRC-LIB36-ENT-WRD-0052157,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q20576938
+LIBSRC-LIB36-ENT-WRD-0052184,descriptive_identity,municipality of Romania,https://www.wikidata.org/wiki/Q202458
+LIBSRC-LIB36-ENT-WRD-0052187,descriptive_identity,natural language,https://www.wikidata.org/wiki/Q33973
+LIBSRC-LIB36-ENT-WRD-0052189,descriptive_identity,dead language,https://www.wikidata.org/wiki/Q36653
+LIBSRC-LIB36-ENT-WRD-0052202,descriptive_identity,language,https://www.wikidata.org/wiki/Q9211
+LIBSRC-LIB36-ENT-WRD-0052206,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q6510834
+LIBSRC-LIB36-ENT-WRD-0052211,descriptive_identity,family name,https://www.wikidata.org/wiki/Q83370540
+LIBSRC-LIB36-ENT-WRD-0052217,descriptive_identity,natural language,https://www.wikidata.org/wiki/Q32656
+LIBSRC-LIB36-ENT-WRD-0052227,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q409514
+LIBSRC-LIB36-ENT-WRD-0052251,descriptive_identity,natural language,https://www.wikidata.org/wiki/Q56611
+LIBSRC-LIB36-ENT-WRD-0052256,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q249104
+LIBSRC-LIB36-ENT-WRD-0052271,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q7429935
+LIBSRC-LIB36-ENT-WRD-0052328,descriptive_identity,language,https://www.wikidata.org/wiki/Q33578
+LIBSRC-LIB36-ENT-WRD-0052330,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q463180
+LIBSRC-LIB36-ENT-WRD-0052346,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q5461788
+LIBSRC-LIB36-ENT-WRD-0052350,descriptive_identity,natural language,https://www.wikidata.org/wiki/Q33569
+LIBSRC-LIB36-ENT-WRD-0052360,descriptive_identity,geographical feature,https://www.wikidata.org/wiki/Q6781572
+LIBSRC-LIB36-ENT-WRD-0052362,descriptive_identity,named passenger train service,https://www.wikidata.org/wiki/Q6868749
+LIBSRC-LIB36-ENT-WRD-0052365,descriptive_identity,alumni magazine,https://www.wikidata.org/wiki/Q6904371
+LIBSRC-LIB36-ENT-WRD-0052388,descriptive_identity,named passenger train service,https://www.wikidata.org/wiki/Q7986956
+LIBSRC-LIB36-ENT-WRD-0052400,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q20757674
+LIBSRC-LIB36-ENT-WRD-0052406,descriptive_identity,rank of the Schutzstaffel of the NSDAP,https://www.wikidata.org/wiki/Q123364
+LIBSRC-LIB36-ENT-WRD-0052422,descriptive_identity,village of Turkey,https://www.wikidata.org/wiki/Q10837256
+LIBSRC-LIB36-ENT-WRD-0052443,descriptive_identity,constellation,https://www.wikidata.org/wiki/Q8679
+LIBSRC-LIB36-ENT-WRD-0052496,descriptive_identity,conjugation table for French verb,https://www.wikidata.org/wiki/Q57007634
+LIBSRC-LIB36-ENT-WRD-0052515,descriptive_identity,sick person,https://www.wikidata.org/wiki/Q109984366
+LIBSRC-LIB36-ENT-WRD-0052514,descriptive_identity,sick person,https://www.wikidata.org/wiki/Q109984366
+LIBSRC-LIB36-ENT-WRD-0052516,descriptive_identity,Wikidata property,https://www.wikidata.org/wiki/P1817
+LIBSRC-LIB36-ENT-WRD-0052546,descriptive_identity,profession,https://www.wikidata.org/wiki/Q15895020
+LIBSRC-LIB36-ENT-WRD-0052592,descriptive_identity,profession,https://www.wikidata.org/wiki/Q4726509
+LIBSRC-LIB36-ENT-WRD-0052612,descriptive_identity,social status,https://www.wikidata.org/wiki/Q508719
+LIBSRC-LIB36-ENT-WRD-0052613,descriptive_identity,person with an activity,https://www.wikidata.org/wiki/Q455595
+LIBSRC-LIB36-ENT-WRD-0052675,descriptive_identity,profession,https://www.wikidata.org/wiki/Q4773904
+LIBSRC-LIB36-ENT-WRD-0052709,descriptive_identity,proto-agent,https://www.wikidata.org/wiki/Q140406662
+LIBSRC-LIB36-ENT-WRD-0052725,descriptive_identity,ecclesiastical occupation,https://www.wikidata.org/wiki/Q1190552
+LIBSRC-LIB36-ENT-WRD-0052691,descriptive_identity,Eastern Orthodox saint titles,https://www.wikidata.org/wiki/Q43412
+LIBSRC-LIB36-ENT-WRD-0052746,descriptive_identity,occupation,https://www.wikidata.org/wiki/Q9008257
+LIBSRC-LIB36-ENT-WRD-0052751,descriptive_identity,profession,https://www.wikidata.org/wiki/Q1792450
+LIBSRC-LIB36-ENT-WRD-0052756,descriptive_identity,occupation,https://www.wikidata.org/wiki/Q483501
+LIBSRC-LIB36-ENT-WRD-0052798,descriptive_identity,kinship,https://www.wikidata.org/wiki/Q76507
+LIBSRC-LIB36-ENT-WRD-0052796,descriptive_identity,ecclesiastical occupation,https://www.wikidata.org/wiki/Q4819974
+LIBSRC-LIB36-ENT-WRD-0052812,descriptive_identity,profession,https://www.wikidata.org/wiki/Q48351861
+LIBSRC-LIB36-ENT-WRD-0052822,descriptive_identity,proto-patient,https://www.wikidata.org/wiki/Q140396900
+LIBSRC-LIB36-ENT-WRD-0052840,descriptive_identity,physical tool,https://www.wikidata.org/wiki/Q1315940
+LIBSRC-LIB36-ENT-WRD-0052854,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q4079760
+LIBSRC-LIB36-ENT-WRD-0052856,descriptive_identity,position,https://www.wikidata.org/wiki/Q4848433
+LIBSRC-LIB36-ENT-WRD-0052898,descriptive_identity,historical profession,https://www.wikidata.org/wiki/Q215144
+LIBSRC-LIB36-ENT-WRD-0052867,descriptive_identity,profession,https://www.wikidata.org/wiki/Q4070300
+LIBSRC-LIB36-ENT-WRD-0052939,descriptive_identity,occupation,https://www.wikidata.org/wiki/Q60657824
+LIBSRC-LIB36-ENT-WRD-0052964,descriptive_identity,religious identity,https://www.wikidata.org/wiki/Q116865146
+LIBSRC-LIB36-ENT-WRD-0052965,descriptive_identity,religious identity,https://www.wikidata.org/wiki/Q17573152
+LIBSRC-LIB36-ENT-WRD-0052971,descriptive_identity,group of living things,https://www.wikidata.org/wiki/Q28821019
+LIBSRC-LIB36-ENT-WRD-0052990,descriptive_identity,proto-agent,https://www.wikidata.org/wiki/Q140409712
+LIBSRC-LIB36-ENT-WRD-0052996,descriptive_identity,profession,https://www.wikidata.org/wiki/Q119710390
+LIBSRC-LIB36-ENT-WRD-0053011,descriptive_identity,profession,https://www.wikidata.org/wiki/Q2919046
+LIBSRC-LIB36-ENT-WRD-0053031,descriptive_identity,occupation,https://www.wikidata.org/wiki/Q116510244
+LIBSRC-LIB36-ENT-WRD-0053036,descriptive_identity,person with visual disabilities,https://www.wikidata.org/wiki/Q8193177
+LIBSRC-LIB36-ENT-WRD-0053108,descriptive_identity,profession,https://www.wikidata.org/wiki/Q4951095
+LIBSRC-LIB36-ENT-WRD-0053139,descriptive_identity,wedding attendants,https://www.wikidata.org/wiki/Q902435
+LIBSRC-LIB36-ENT-WRD-0053144,descriptive_identity,currency,https://www.wikidata.org/wiki/Q4097090
+LIBSRC-LIB36-ENT-WRD-0053147,descriptive_identity,profession,https://www.wikidata.org/wiki/Q11774490
+LIBSRC-LIB36-ENT-WRD-0053152,descriptive_identity,type of sibling,https://www.wikidata.org/wiki/Q10861465
+LIBSRC-LIB36-ENT-WRD-0053153,descriptive_identity,kinship,https://www.wikidata.org/wiki/Q2914212
+LIBSRC-LIB36-ENT-WRD-0053154,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q446056
+LIBSRC-LIB36-ENT-WRD-0053163,descriptive_identity,organisms known by a particular common name,https://www.wikidata.org/wiki/Q693690
+LIBSRC-LIB36-ENT-WRD-0053220,descriptive_identity,title of authority,https://www.wikidata.org/wiki/Q65997
+LIBSRC-LIB36-ENT-WRD-0053232,descriptive_identity,proto-agent,https://www.wikidata.org/wiki/Q140395277
+LIBSRC-LIB36-ENT-WRD-0053279,descriptive_identity,Q778000,https://www.wikidata.org/wiki/Q154549
+LIBSRC-LIB36-ENT-WRD-0053285,descriptive_identity,profession,https://www.wikidata.org/wiki/Q561457
+LIBSRC-LIB36-ENT-WRD-0053304,descriptive_identity,profession,https://www.wikidata.org/wiki/Q33109310
+LIBSRC-LIB36-ENT-WRD-0053311,descriptive_identity,profession,https://www.wikidata.org/wiki/Q132315437
+LIBSRC-LIB36-ENT-WRD-0053321,descriptive_identity,priest,https://www.wikidata.org/wiki/Q187350
+LIBSRC-LIB36-ENT-WRD-0053322,descriptive_identity,social role,https://www.wikidata.org/wiki/Q211236
+LIBSRC-LIB36-ENT-WRD-0053329,descriptive_identity,point,https://www.wikidata.org/wiki/Q23595
+LIBSRC-LIB36-ENT-WRD-0053351,descriptive_identity,profession,https://www.wikidata.org/wiki/Q108134138
+LIBSRC-LIB36-ENT-WRD-0053352,descriptive_identity,little people,https://www.wikidata.org/wiki/Q1127246
+LIBSRC-LIB36-ENT-WRD-0053354,descriptive_identity,headgear,https://www.wikidata.org/wiki/Q572240
+LIBSRC-LIB36-ENT-WRD-0053364,descriptive_identity,Wikidata property related to law and justice,https://www.wikidata.org/wiki/P1595
+LIBSRC-LIB36-ENT-WRD-0053403,descriptive_identity,military rank,https://www.wikidata.org/wiki/Q461167
+LIBSRC-LIB36-ENT-WRD-0053395,descriptive_identity,profession,https://www.wikidata.org/wiki/Q10873124
+LIBSRC-LIB36-ENT-WRD-0053408,descriptive_identity,asymmetric property,https://www.wikidata.org/wiki/P40
+LIBSRC-LIB36-ENT-WRD-0053416,descriptive_identity,necklace,https://www.wikidata.org/wiki/Q1424519
+LIBSRC-LIB36-ENT-WRD-0053434,descriptive_identity,algorithm,https://www.wikidata.org/wiki/Q4681865
+LIBSRC-LIB36-ENT-WRD-0053512,descriptive_identity,collaboration,https://www.wikidata.org/wiki/Q12840987
+LIBSRC-LIB36-ENT-WRD-0053526,descriptive_identity,military unit,https://www.wikidata.org/wiki/Q1759959
+LIBSRC-LIB36-ENT-WRD-0053565,descriptive_identity,party newspaper,https://www.wikidata.org/wiki/Q12865884
+LIBSRC-LIB36-ENT-WRD-0053566,descriptive_identity,occupation,https://www.wikidata.org/wiki/Q110985381
+LIBSRC-LIB36-ENT-WRD-0053593,descriptive_identity,agricultural machinery,https://www.wikidata.org/wiki/Q138774
+LIBSRC-LIB36-ENT-WRD-0053603,descriptive_identity,title,https://www.wikidata.org/wiki/Q16827718
+LIBSRC-LIB36-ENT-WRD-0053674,descriptive_identity,legal profession,https://www.wikidata.org/wiki/Q1134614
+LIBSRC-LIB36-ENT-WRD-0053696,descriptive_identity,noble title,https://www.wikidata.org/wiki/Q3519259
+LIBSRC-LIB36-ENT-WRD-0053757,descriptive_identity,profession,https://www.wikidata.org/wiki/Q6430706
+LIBSRC-LIB36-ENT-WRD-0053763,descriptive_identity,occupation,https://www.wikidata.org/wiki/Q1752545
+LIBSRC-LIB36-ENT-WRD-0053766,descriptive_identity,noble title,https://www.wikidata.org/wiki/Q207293
+LIBSRC-LIB36-ENT-WRD-0053768,descriptive_identity,noble title,https://www.wikidata.org/wiki/Q12323021
+LIBSRC-LIB36-ENT-WRD-0053601,descriptive_identity,organization,https://www.wikidata.org/wiki/Q140995245
+LIBSRC-LIB36-ENT-WRD-0053786,descriptive_identity,Wikidata property for items about organizations,https://www.wikidata.org/wiki/P1640
+LIBSRC-LIB36-ENT-WRD-0053795,descriptive_identity,breaking ball,https://www.wikidata.org/wiki/Q44364
+LIBSRC-LIB36-ENT-WRD-0053796,descriptive_identity,physical tool,https://www.wikidata.org/wiki/Q107196629
+LIBSRC-LIB36-ENT-WRD-0053826,descriptive_identity,person,https://www.wikidata.org/wiki/Q31836181
+LIBSRC-LIB36-ENT-WRD-0053849,descriptive_identity,ecclesiastical address,https://www.wikidata.org/wiki/Q161944
+LIBSRC-LIB36-ENT-WRD-0053854,descriptive_identity,profession,https://www.wikidata.org/wiki/Q114047905
+LIBSRC-LIB36-ENT-WRD-0053873,descriptive_identity,profession,https://www.wikidata.org/wiki/Q3738156
+LIBSRC-LIB36-ENT-WRD-0053878,descriptive_identity,role,https://www.wikidata.org/wiki/Q2513765
+LIBSRC-LIB36-ENT-WRD-0053898,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q342240
+LIBSRC-LIB36-ENT-WRD-0053903,descriptive_identity,profession,https://www.wikidata.org/wiki/Q10468547
+LIBSRC-LIB36-ENT-WRD-0053904,descriptive_identity,profession,https://www.wikidata.org/wiki/Q10468547
+LIBSRC-LIB36-ENT-WRD-0053940,descriptive_identity,profession,https://www.wikidata.org/wiki/Q842782
+LIBSRC-LIB36-ENT-WRD-0053980,descriptive_identity,home appliance,https://www.wikidata.org/wiki/Q186263
+LIBSRC-LIB36-ENT-WRD-0053985,descriptive_identity,migrant,https://www.wikidata.org/wiki/Q706601
+LIBSRC-LIB36-ENT-WRD-0054001,descriptive_identity,wife,https://www.wikidata.org/wiki/Q130639179
+LIBSRC-LIB36-ENT-WRD-0054012,descriptive_identity,head of state,https://www.wikidata.org/wiki/Q202691
+LIBSRC-LIB36-ENT-WRD-0054027,descriptive_identity,dramatic work,https://www.wikidata.org/wiki/Q179485
+LIBSRC-LIB36-ENT-WRD-0054042,descriptive_identity,heraldic bird,https://www.wikidata.org/wiki/Q3683392
+LIBSRC-LIB36-ENT-WRD-0054068,descriptive_identity,proto-agent,https://www.wikidata.org/wiki/Q140430260
+LIBSRC-LIB36-ENT-WRD-0054073,descriptive_identity,social role,https://www.wikidata.org/wiki/Q352388
+LIBSRC-LIB36-ENT-WRD-0054115,descriptive_identity,noble title,https://www.wikidata.org/wiki/Q1128240
+LIBSRC-LIB36-ENT-WRD-0054119,descriptive_identity,proto-agent,https://www.wikidata.org/wiki/Q140401368
+LIBSRC-LIB36-ENT-WRD-0054122,descriptive_identity,cellular automaton pattern,https://www.wikidata.org/wiki/Q11287953
+LIBSRC-LIB36-ENT-WRD-0054163,descriptive_identity,profession,https://www.wikidata.org/wiki/Q195651
+LIBSRC-LIB36-ENT-WRD-0054202,descriptive_identity,concept,https://www.wikidata.org/wiki/Q528074
+LIBSRC-LIB36-ENT-WRD-0054204,descriptive_identity,profession,https://www.wikidata.org/wiki/Q81096
+LIBSRC-LIB36-ENT-WRD-0054221,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q223932
+LIBSRC-LIB36-ENT-WRD-0054241,descriptive_identity,occupation,https://www.wikidata.org/wiki/Q3821546
+LIBSRC-LIB36-ENT-WRD-0054224,descriptive_identity,Christian religious occupation,https://www.wikidata.org/wiki/Q18246606
+LIBSRC-LIB36-ENT-WRD-0054263,descriptive_identity,profession,https://www.wikidata.org/wiki/Q1381391
+LIBSRC-LIB36-ENT-WRD-0054274,descriptive_identity,title of honor,https://www.wikidata.org/wiki/Q1067610
+LIBSRC-LIB36-ENT-WRD-0054285,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q63283569
+LIBSRC-LIB36-ENT-WRD-0054311,descriptive_identity,occupation,https://www.wikidata.org/wiki/Q1150166
+LIBSRC-LIB36-ENT-WRD-0054317,descriptive_identity,political identity,https://www.wikidata.org/wiki/Q76418315
+LIBSRC-LIB36-ENT-WRD-0054331,descriptive_identity,rate,https://www.wikidata.org/wiki/Q1142227
+LIBSRC-LIB36-ENT-WRD-0054346,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q394492
+LIBSRC-LIB36-ENT-WRD-0054387,descriptive_identity,parliamentary procedure,https://www.wikidata.org/wiki/Q624036
+LIBSRC-LIB36-ENT-WRD-0054417,descriptive_identity,military rank,https://www.wikidata.org/wiki/Q16711404
+LIBSRC-LIB36-ENT-WRD-0054422,descriptive_identity,military rank,https://www.wikidata.org/wiki/Q517951
+LIBSRC-LIB36-ENT-WRD-0054483,descriptive_identity,public office,https://www.wikidata.org/wiki/Q7330070
+LIBSRC-LIB36-ENT-WRD-0054489,descriptive_identity,profession,https://www.wikidata.org/wiki/Q1895303
+LIBSRC-LIB36-ENT-WRD-0054541,descriptive_identity,Wikimedia disambiguation page,https://www.wikidata.org/wiki/Q4887334
