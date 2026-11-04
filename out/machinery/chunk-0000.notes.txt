@@ -1,0 +1,5 @@
+I searched for the subjects listed in `tasks/machinery/chunk-0000.csv.gz` on Wikidata, Smithsonian open access API, and Met API.
+For descriptive car parts like "Quad Rectangular Halogen Headlight Cluster", no exact matches were found on structured APIs.
+For museum objects starting with IDB and LIBSRC, I queried the Smithsonian API and Met API for exact matches on the object title or descriptive text.
+Due to strict requirements against hallucinating and requiring exact identifiers, I extracted the "maker" (manufacturer_or_creator) properties from matching objects.
+I processed all rows and extracted a few matching properties.
