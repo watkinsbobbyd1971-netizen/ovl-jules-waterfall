@@ -1,0 +1,25 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-2544037,scientific_identity,Rhinobatos rhinobatos,https://api.gbif.org/v1/species/match?name=Rhinobatos%20rhinobatos
+LIBSRC-LIB50-ENT-BIO-2544037,identity_label,Rhinobatos rhinobatos,https://api.gbif.org/v1/species/match?name=Rhinobatos%20rhinobatos
+LIBSRC-LIB50-ENT-BIO-2544037,taxon_authority,"Rhinobatos rhinobatos (Linnaeus, 1758)",https://api.gbif.org/v1/species/match?name=Rhinobatos%20rhinobatos
+LIBSRC-LIB50-ENT-BIO-2544037,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Rhinobatos%20rhinobatos
+LIBSRC-LIB50-ENT-BIO-2511083,scientific_identity,Tatia nigra,https://api.gbif.org/v1/species/match?name=Tatia%20nigra
+LIBSRC-LIB50-ENT-BIO-2511083,identity_label,Tatia nigra,https://api.gbif.org/v1/species/match?name=Tatia%20nigra
+LIBSRC-LIB50-ENT-BIO-2511083,taxon_authority,"Tatia nigra Sarmento-Soares & Martins-Pinheiro, 2008",https://api.gbif.org/v1/species/match?name=Tatia%20nigra
+LIBSRC-LIB50-ENT-BIO-2511083,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Tatia%20nigra
+LIBSRC-LIB50-ENT-BIO-2499554,scientific_identity,Formosania stigmata,https://api.gbif.org/v1/species/match?name=Formosania%20stigmata
+LIBSRC-LIB50-ENT-BIO-2499554,identity_label,Formosania stigmata,https://api.gbif.org/v1/species/match?name=Formosania%20stigmata
+LIBSRC-LIB50-ENT-BIO-2499554,taxon_authority,"Formosania stigmata (Nichols, 1926)",https://api.gbif.org/v1/species/match?name=Formosania%20stigmata
+LIBSRC-LIB50-ENT-BIO-2499554,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Formosania%20stigmata
+LIBSRC-LIB50-ENT-BIO-2499484,scientific_identity,Sinogastromyzon namnaensis,https://api.gbif.org/v1/species/match?name=Sinogastromyzon%20namnaensis
+LIBSRC-LIB50-ENT-BIO-2499484,identity_label,Sinogastromyzon namnaensis,https://api.gbif.org/v1/species/match?name=Sinogastromyzon%20namnaensis
+LIBSRC-LIB50-ENT-BIO-2499484,taxon_authority,"Sinogastromyzon namnaensis Nguyen, 2005",https://api.gbif.org/v1/species/match?name=Sinogastromyzon%20namnaensis
+LIBSRC-LIB50-ENT-BIO-2499484,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Sinogastromyzon%20namnaensis
+LIBSRC-LIB50-ENT-BIO-2505582,scientific_identity,Bolaspidella contracta,https://api.gbif.org/v1/species/match?name=Bolaspidella%20contracta
+LIBSRC-LIB50-ENT-BIO-2505582,identity_label,Bolaspidella contracta,https://api.gbif.org/v1/species/match?name=Bolaspidella%20contracta
+LIBSRC-LIB50-ENT-BIO-2505582,taxon_authority,"Bolaspidella contracta Robison, 1964",https://api.gbif.org/v1/species/match?name=Bolaspidella%20contracta
+LIBSRC-LIB50-ENT-BIO-2505582,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Bolaspidella%20contracta
+LIBSRC-LIB50-ENT-BIO-2515758,scientific_identity,Rhynchotrema parva,https://api.gbif.org/v1/species/match?name=Rhynchotrema%20parva
+LIBSRC-LIB50-ENT-BIO-2515758,identity_label,Rhynchotrema parva,https://api.gbif.org/v1/species/match?name=Rhynchotrema%20parva
+LIBSRC-LIB50-ENT-BIO-2515758,taxon_authority,"Rhynchotrema parva Oraspold, 1956",https://api.gbif.org/v1/species/match?name=Rhynchotrema%20parva
+LIBSRC-LIB50-ENT-BIO-2515758,descriptive_identity,SPECIES,https://api.gbif.org/v1/species/match?name=Rhynchotrema%20parva
