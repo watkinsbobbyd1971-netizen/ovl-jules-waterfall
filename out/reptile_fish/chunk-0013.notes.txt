@@ -1,0 +1,7 @@
+Attempted sources:
+- Wikidata SPARQL API
+- Smithsonian Open Access API
+
+Failed to query Wikidata SPARQL: HTTP Error 504: Gateway Timeout
+
+Failed to query Smithsonian Open Access API: HTTP Error 429: Too Many Requests
