@@ -1,0 +1,67 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP17450-REC3489833,scientific_identity,"Canis familiaris Linnaeus, 1758",https://api.gbif.org/v1/species/5219200
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP18307-REC3661242,scientific_identity,"Enhydra lutris (Linnaeus, 1758)",https://api.gbif.org/v1/species/2433670
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP18006-REC3601133,scientific_identity,"Rangifer tarandus (Linnaeus, 1758)",https://api.gbif.org/v1/species/5220114
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP18006-REC3601133,identity_label,"Caribou",https://api.gbif.org/v1/species/5220114/vernacularNames
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP18732-REC3746362,scientific_identity,"Enhydra lutris (Linnaeus, 1758)",https://api.gbif.org/v1/species/2433670
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP16588-REC3317563,scientific_identity,"Canis familiaris Linnaeus, 1758",https://api.gbif.org/v1/species/5219200
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP17683-REC3536523,scientific_identity,"Canis familiaris Linnaeus, 1758",https://api.gbif.org/v1/species/5219200
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP17279-REC3455603,scientific_identity,"Cervus elaphus Linnaeus, 1758",https://api.gbif.org/v1/species/2440958
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP17279-REC3455603,identity_label,"Barbary Red Deer (barbarus)",https://api.gbif.org/v1/species/2440958/vernacularNames
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP18174-REC3634733,scientific_identity,"? gazella Pallas, 1766",https://api.gbif.org/v1/species/9453235
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16743-REC3348412,scientific_identity,"Enhydra lutris (Linnaeus, 1758)",https://api.gbif.org/v1/species/2433670
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP18866-REC3773102,scientific_identity,"Camelops hesternus Leidy, 1854",https://api.gbif.org/v1/species/4970370
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16589-REC3317612,scientific_identity,"Camelops hesternus Leidy, 1854",https://api.gbif.org/v1/species/4970370
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP16396-REC3279182,scientific_identity,"Marmota monax (Linnaeus, 1758)",https://api.gbif.org/v1/species/2437368
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP16396-REC3279182,identity_label,"Canada Marmot",https://api.gbif.org/v1/species/2437368/vernacularNames
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP16758-REC3351513,scientific_identity,"Canis familiaris Linnaeus, 1758",https://api.gbif.org/v1/species/5219200
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP17804-REC3560792,scientific_identity,"Rangifer tarandus (Linnaeus, 1758)",https://api.gbif.org/v1/species/5220114
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP17804-REC3560792,identity_label,"Caribou",https://api.gbif.org/v1/species/5220114/vernacularNames
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP16357-REC3271223,scientific_identity,"Canis familiaris Linnaeus, 1758",https://api.gbif.org/v1/species/5219200
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP18607-REC3721393,scientific_identity,"Lynx rufus (Schreber, 1777)",https://api.gbif.org/v1/species/2435246
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP18607-REC3721393,identity_label,"Bay Lynx",https://api.gbif.org/v1/species/2435246/vernacularNames
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP17813-REC3562423,scientific_identity,"Equus complicatus (Leidy, 1858)",https://api.gbif.org/v1/species/4969206
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP18543-REC3708422,scientific_identity,"Canis familiaris Linnaeus, 1758",https://api.gbif.org/v1/species/5219200
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP17073-REC3414583,scientific_identity,"Canis familiaris Linnaeus, 1758",https://api.gbif.org/v1/species/5219200
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP16475-REC3294953,scientific_identity,"Ursus spelaeus Rosenmüller, 1794",https://api.gbif.org/v1/species/4833659
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP16475-REC3294953,identity_label,"Cave Bear",https://api.gbif.org/v1/species/4833659/vernacularNames
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP18084-REC3616603,scientific_identity,"Bos taurus Linnaeus, 1758",https://api.gbif.org/v1/species/2441022
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP18084-REC3616603,identity_label,"Aurochs",https://api.gbif.org/v1/species/2441022/vernacularNames
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP17343-REC3468413,scientific_identity,"Enhydra lutris (Linnaeus, 1758)",https://api.gbif.org/v1/species/2433670
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP18266-REC3653073,scientific_identity,"? gazella Pallas, 1766",https://api.gbif.org/v1/species/9453235
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP16490-REC3297823,scientific_identity,"Cervus elaphus Linnaeus, 1758",https://api.gbif.org/v1/species/2440958
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP16490-REC3297823,identity_label,"Barbary Red Deer (barbarus)",https://api.gbif.org/v1/species/2440958/vernacularNames
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP18619-REC3723682,scientific_identity,"Canis familiaris Linnaeus, 1758",https://api.gbif.org/v1/species/5219200
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP17600-REC3519933,scientific_identity,"Cervus elaphus Linnaeus, 1758",https://api.gbif.org/v1/species/2440958
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP17600-REC3519933,identity_label,"Barbary Red Deer (barbarus)",https://api.gbif.org/v1/species/2440958/vernacularNames
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP17289-REC3457633,scientific_identity,"Rangifer tarandus (Linnaeus, 1758)",https://api.gbif.org/v1/species/5220114
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP17289-REC3457633,identity_label,"Caribou",https://api.gbif.org/v1/species/5220114/vernacularNames
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP16983-REC3396453,scientific_identity,"Odocoileus hemionus (Rafinesque, 1817)",https://api.gbif.org/v1/species/2440974
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP16983-REC3396453,identity_label,"Black-tailed Deer",https://api.gbif.org/v1/species/2440974/vernacularNames
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP18187-REC3637372,scientific_identity,"Canis familiaris Linnaeus, 1758",https://api.gbif.org/v1/species/5219200
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP17079-REC3415703,scientific_identity,"Odocoileus virginianus (Zimmermann, 1780)",https://api.gbif.org/v1/species/2440965
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP17079-REC3415703,identity_label,"American Deer",https://api.gbif.org/v1/species/2440965/vernacularNames
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP16429-REC3285713,scientific_identity,"Mammut americanum",https://api.gbif.org/v1/species/4825829
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP16429-REC3285713,identity_label,"American mastodon",https://api.gbif.org/v1/species/4825829/vernacularNames
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP18891-REC3778163,scientific_identity,"Capra aegagrus Erxleben, 1777",https://api.gbif.org/v1/species/4409366
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP18891-REC3778163,identity_label,"Bezoar",https://api.gbif.org/v1/species/4409366/vernacularNames
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP17788-REC3557523,scientific_identity,"Vulpes vulpes harrimani Merriam, 1900",https://api.gbif.org/v1/species/6164266
+IDB-REG_03-CAT_13-ERA_04-1890-ACC04-HOP17788-REC3557523,identity_label,"Kodiak Red Fox",https://api.gbif.org/v1/species/6164266/vernacularNames
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP18832-REC3766333,scientific_identity,"Canis familiaris Linnaeus, 1758",https://api.gbif.org/v1/species/5219200
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP17857-REC3571222,scientific_identity,"Odocoileus virginianus (Zimmermann, 1780)",https://api.gbif.org/v1/species/2440965
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP17857-REC3571222,identity_label,"American Deer",https://api.gbif.org/v1/species/2440965/vernacularNames
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP16810-REC3361992,scientific_identity,"Enhydra lutris (Linnaeus, 1758)",https://api.gbif.org/v1/species/2433670
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP17898-REC3579552,scientific_identity,"Canis familiaris Linnaeus, 1758",https://api.gbif.org/v1/species/5219200
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP17075-REC3414912,scientific_identity,"? gazella Pallas, 1766",https://api.gbif.org/v1/species/9453235
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP17782-REC3556382,scientific_identity,"Cervus canadensis Erxleben, 1777",https://api.gbif.org/v1/species/8600904
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP17782-REC3556382,identity_label,"Alashan Wapiti",https://api.gbif.org/v1/species/8600904/vernacularNames
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP18779-REC3755693,scientific_identity,"Rangifer tarandus (Linnaeus, 1758)",https://api.gbif.org/v1/species/5220114
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP18779-REC3755693,identity_label,"Caribou",https://api.gbif.org/v1/species/5220114/vernacularNames
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP18712-REC3742393,scientific_identity,"Cavia porcellus (Linnaeus, 1758)",https://api.gbif.org/v1/species/5219702
+IDB-REG_03-CAT_11-ERA_04-1890-ACC04-HOP18712-REC3742393,identity_label,"Cavy",https://api.gbif.org/v1/species/5219702/vernacularNames
+IDB-REG_02-CAT_14-ERA_04-1890-ACC04-HOP18755-REC3750912,scientific_identity,"Enhydra lutris (Linnaeus, 1758)",https://api.gbif.org/v1/species/2433670
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP16844-REC3368782,scientific_identity,"Hyaena hyaena (Linnaeus, 1758)",https://api.gbif.org/v1/species/5218777
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP16844-REC3368782,identity_label,"Hyène rayée",https://api.gbif.org/v1/species/5218777/vernacularNames
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP16419-REC3283662,scientific_identity,"Lama glama (Linnaeus, 1758)",https://api.gbif.org/v1/species/5220190
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP16419-REC3283662,identity_label,"Guanaco",https://api.gbif.org/v1/species/5220190/vernacularNames
+IDB-REG_02-CAT_12-ERA_04-1890-ACC04-HOP18785-REC3756862,scientific_identity,"Camelops hesternus Leidy, 1854",https://api.gbif.org/v1/species/4970370
