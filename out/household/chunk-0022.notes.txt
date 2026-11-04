@@ -1,0 +1,5 @@
+Attempted Sources:
+- Metropolitan Museum of Art API: Successfully matched multiple items, using object details to extract descriptive_identity, material_identity, and creator_or_attribution.
+- Wikidata API: Successfully matched via Wikipedia search and extracted properties P31/P279 (descriptive_identity) and P186 (material_identity).
+- Cleveland Museum of Art API: Successfully matched using open access API to extract technique, type, and creators.
+- V&A API: Attempted for clothing/textile items but found no results for the dataset subjects.
