@@ -1,0 +1,7 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_12-ERA_03-1780-ACC04-HOP16637-REC3327362,scientific_identity,"""Cetacea""",https://www.gbif.org/species/733
+IDB-REG_02-CAT_12-ERA_03-1780-ACC04-HOP16637-REC3327362,descriptive_identity,"""Animalia > Chordata > Mammalia > Cetacea""",https://www.gbif.org/species/733
+IDB-REG_03-CAT_13-ERA_03-1780-ACC04-HOP17760-REC3551943,scientific_identity,"""Bison antiquus Leidy, 1852""",https://www.gbif.org/species/4970768
+IDB-REG_03-CAT_13-ERA_03-1780-ACC04-HOP17760-REC3551943,descriptive_identity,"""Animalia > Chordata > Mammalia > Artiodactyla > Bovidae > Bison""",https://www.gbif.org/species/4970768
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17599-REC3519792,scientific_identity,"""Drill Reichenbach, 1862""",https://www.gbif.org/species/4827248
+IDB-REG_02-CAT_14-ERA_03-1780-ACC04-HOP17599-REC3519792,descriptive_identity,"""Animalia > Chordata > Mammalia > Primates > Cercopithecidae > Mandrillus""",https://www.gbif.org/species/4827248
