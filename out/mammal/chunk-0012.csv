@@ -1,0 +1,3 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_03-CAT_13-ERA_02-1650-ACC04-HOP19084-REC3816703,scientific_identity,"Chinchilla Bennett, 1829",https://api.gbif.org/v1/species/2439828
+IDB-REG_03-CAT_13-ERA_02-1650-ACC04-HOP19084-REC3816703,identity_label,"Chinchillas",https://api.gbif.org/v1/species/2439828/vernacularNames
