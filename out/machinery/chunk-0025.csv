@@ -1,0 +1,37 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG10-CAT03-ERA07-2024-ARCTIC-WEATHER-SATELLITE,mass,125000.0,https://www.wikidata.org/wiki/Q105836035
+IDB-REG10-CAT03-ERA07-2024-ARCTIC-WEATHER-SATELLITE,descriptive_identity,"""weather satellite""",https://www.wikidata.org/wiki/Q105836035
+IDB-REG10-CAT03-ERA07-2024-ARCTIC-WEATHER-SATELLITE,manufacturer_or_creator,"""OHB Sweden""",https://www.wikidata.org/wiki/Q105836035
+IDB-REG10-CAT03-ERA07-2024-ARCTIC-WEATHER-SATELLITE,dimension_length,1000.0,https://www.wikidata.org/wiki/Q105836035
+IDB-REG10-CAT03-ERA07-2024-ARCTIC-WEATHER-SATELLITE,identity_label,"""Arctic Weather Satellite""",https://www.wikidata.org/wiki/Q105836035
+IDB-REG10-CAT03-ERA06-2018-INSIGHT-LANDER,mass,694000.0,https://www.wikidata.org/wiki/Q1660590
+IDB-REG10-CAT03-ERA06-2018-INSIGHT-LANDER,descriptive_identity,"""lander""",https://www.wikidata.org/wiki/Q1660590
+IDB-REG10-CAT03-ERA06-2018-INSIGHT-LANDER,manufacturer_or_creator,"""Lockheed Martin Space""",https://www.wikidata.org/wiki/Q1660590
+IDB-REG10-CAT03-ERA06-2018-INSIGHT-LANDER,dimension_length,6000.0,https://www.wikidata.org/wiki/Q1660590
+IDB-REG10-CAT03-ERA06-2018-INSIGHT-LANDER,identity_label,"""InSight""",https://www.wikidata.org/wiki/Q1660590
+IDB-REG10-CAT03-ERA06-2014-HAYABUSA2,mass,609000.0,https://www.wikidata.org/wiki/Q2113134
+IDB-REG10-CAT03-ERA06-2014-HAYABUSA2,descriptive_identity,"""space probe""",https://www.wikidata.org/wiki/Q2113134
+IDB-REG10-CAT03-ERA06-2014-HAYABUSA2,manufacturer_or_creator,"""Japan Aerospace Exploration Agency""",https://www.wikidata.org/wiki/Q2113134
+IDB-REG10-CAT03-ERA06-2014-HAYABUSA2,identity_label,"""Hayabusa2""",https://www.wikidata.org/wiki/Q2113134
+IDB-REG10-CAT03-ERA06-2018-CHANG-E-4-ROVER-YUTU-2,mass,140000.0,https://www.wikidata.org/wiki/Q60407805
+IDB-REG10-CAT03-ERA06-2018-CHANG-E-4-ROVER-YUTU-2,descriptive_identity,"""lunar rover""",https://www.wikidata.org/wiki/Q60407805
+IDB-REG10-CAT03-ERA06-2018-CHANG-E-4-ROVER-YUTU-2,dimension_length,1500.0,https://www.wikidata.org/wiki/Q60407805
+IDB-REG10-CAT03-ERA06-2018-CHANG-E-4-ROVER-YUTU-2,identity_label,"""Yutu-2""",https://www.wikidata.org/wiki/Q60407805
+IDB-REG10-CAT03-ERA06-2013-HISAKI,mass,348000.0,https://www.wikidata.org/wiki/Q3459972
+IDB-REG10-CAT03-ERA06-2013-HISAKI,descriptive_identity,"""space telescope""",https://www.wikidata.org/wiki/Q3459972
+IDB-REG10-CAT03-ERA06-2013-HISAKI,manufacturer_or_creator,"""NEC""",https://www.wikidata.org/wiki/Q3459972
+IDB-REG10-CAT03-ERA06-2013-HISAKI,identity_label,"""Hisaki (satellite)""",https://www.wikidata.org/wiki/Q3459972
+IDB-REG10-CAT03-ERA06-2010-AKATSUKI,mass,517600.0,https://www.wikidata.org/wiki/Q416448
+IDB-REG10-CAT03-ERA06-2010-AKATSUKI,descriptive_identity,"""planetary probe""",https://www.wikidata.org/wiki/Q416448
+IDB-REG10-CAT03-ERA06-2010-AKATSUKI,manufacturer_or_creator,"""NEC Space Technologies""",https://www.wikidata.org/wiki/Q416448
+IDB-REG10-CAT03-ERA06-2010-AKATSUKI,dimension_length,2101.0,https://www.wikidata.org/wiki/Q416448
+IDB-REG10-CAT03-ERA06-2010-AKATSUKI,identity_label,"""Akatsuki (spacecraft)""",https://www.wikidata.org/wiki/Q416448
+IDB-REG09-CAT03-ERA06-2000S-BAKU-TBILISI-CEYHAN-PIPELINE-BTC,descriptive_identity,"""oil pipeline""",https://www.wikidata.org/wiki/Q339546
+IDB-REG09-CAT03-ERA06-2000S-BAKU-TBILISI-CEYHAN-PIPELINE-BTC,identity_label,"""Baku\u2013Tbilisi\u2013Ceyhan pipeline""",https://www.wikidata.org/wiki/Q339546
+IDB-REG07-CAT03-ERA01-190SBCE-ROSETTA-STONE-ANCIENT-EGYPTIANS,descriptive_identity,"""\u00dcberrest""",https://www.wikidata.org/wiki/Q48584
+IDB-REG07-CAT03-ERA01-190SBCE-ROSETTA-STONE-ANCIENT-EGYPTIANS,identity_label,"""Rosetta Stone""",https://www.wikidata.org/wiki/Q48584
+IDB-REG10-CAT03-ERA07-2020-TARANIS,mass,175000.0,https://www.wikidata.org/wiki/Q3515596
+IDB-REG10-CAT03-ERA07-2020-TARANIS,descriptive_identity,"""Earth observation satellite""",https://www.wikidata.org/wiki/Q3515596
+IDB-REG10-CAT03-ERA07-2020-TARANIS,manufacturer_or_creator,"""CNES""",https://www.wikidata.org/wiki/Q3515596
+IDB-REG10-CAT03-ERA07-2020-TARANIS,dimension_length,980.0,https://www.wikidata.org/wiki/Q3515596
+IDB-REG10-CAT03-ERA07-2020-TARANIS,identity_label,"""TARANIS""",https://www.wikidata.org/wiki/Q3515596
