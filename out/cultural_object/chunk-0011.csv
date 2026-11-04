@@ -1,0 +1,540 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB51-ENT-SMI-0909034,material_identity,Oak,https://collectionapi.metmuseum.org/public/collection/v1/objects/10023
+LIBSRC-LIB51-ENT-SMI-0909034,cultural_context,American,https://collectionapi.metmuseum.org/public/collection/v1/objects/10023
+LIBSRC-LIB51-ENT-SMI-0909034,creator_or_attribution,Frank Lloyd Wright,https://collectionapi.metmuseum.org/public/collection/v1/objects/10023
+LIBSRC-LIB51-ENT-SMI-0909034,date_or_interval,1902–3,https://collectionapi.metmuseum.org/public/collection/v1/objects/10023
+LIBSRC-LIB51-ENT-SMI-0909034,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/10023
+LIBSRC-LIB51-ENT-SMI-0909034,descriptive_identity,Table,https://collectionapi.metmuseum.org/public/collection/v1/objects/10023
+LIBSRC-LIB51-ENT-SMI-0894488,material_identity,"Gold, enamel",https://collectionapi.metmuseum.org/public/collection/v1/objects/200463
+LIBSRC-LIB51-ENT-SMI-0894488,date_or_interval,1786–87,https://collectionapi.metmuseum.org/public/collection/v1/objects/200463
+LIBSRC-LIB51-ENT-SMI-0894488,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/200463
+LIBSRC-LIB51-ENT-SMI-0894488,descriptive_identity,Knife,https://collectionapi.metmuseum.org/public/collection/v1/objects/200463
+LIBSRC-LIB51-ENT-SMI-0889733,material_identity,Lithograph,https://collectionapi.metmuseum.org/public/collection/v1/objects/375494
+LIBSRC-LIB51-ENT-SMI-0889733,creator_or_attribution,Elizabeth Olds,https://collectionapi.metmuseum.org/public/collection/v1/objects/375494
+LIBSRC-LIB51-ENT-SMI-0889733,date_or_interval,1935–43,https://collectionapi.metmuseum.org/public/collection/v1/objects/375494
+LIBSRC-LIB51-ENT-SMI-0889733,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/375494
+LIBSRC-LIB51-ENT-SMI-0889733,descriptive_identity,Print,https://collectionapi.metmuseum.org/public/collection/v1/objects/375494
+LIBSRC-LIB51-ENT-SMI-0903881,material_identity,silk,https://collectionapi.metmuseum.org/public/collection/v1/objects/105789
+LIBSRC-LIB51-ENT-SMI-0903881,cultural_context,American or European,https://collectionapi.metmuseum.org/public/collection/v1/objects/105789
+LIBSRC-LIB51-ENT-SMI-0903881,date_or_interval,1924,https://collectionapi.metmuseum.org/public/collection/v1/objects/105789
+LIBSRC-LIB51-ENT-SMI-0903881,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/105789
+LIBSRC-LIB51-ENT-SMI-0903881,descriptive_identity,Girdle,https://collectionapi.metmuseum.org/public/collection/v1/objects/105789
+LIBSRC-LIB51-ENT-SMI-0905957,material_identity,"Gold, enamel",https://collectionapi.metmuseum.org/public/collection/v1/objects/200463
+LIBSRC-LIB51-ENT-SMI-0905957,date_or_interval,1786–87,https://collectionapi.metmuseum.org/public/collection/v1/objects/200463
+LIBSRC-LIB51-ENT-SMI-0905957,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/200463
+LIBSRC-LIB51-ENT-SMI-0905957,descriptive_identity,Knife,https://collectionapi.metmuseum.org/public/collection/v1/objects/200463
+LIBSRC-LIB51-ENT-SMI-0892010,material_identity,"glass, silk",https://collectionapi.metmuseum.org/public/collection/v1/objects/156696
+LIBSRC-LIB51-ENT-SMI-0892010,cultural_context,Mexican,https://collectionapi.metmuseum.org/public/collection/v1/objects/156696
+LIBSRC-LIB51-ENT-SMI-0892010,date_or_interval,first quarter 20th century,https://collectionapi.metmuseum.org/public/collection/v1/objects/156696
+LIBSRC-LIB51-ENT-SMI-0892010,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/156696
+LIBSRC-LIB51-ENT-SMI-0892010,descriptive_identity,Bag,https://collectionapi.metmuseum.org/public/collection/v1/objects/156696
+LIBSRC-LIB51-ENT-SMI-0910046,material_identity,Stone,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0910046,cultural_context,Iran,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0910046,date_or_interval,5th–3rd millennium BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0910046,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0910046,descriptive_identity,Scraper,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0892255,material_identity,Flint,https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0892255,date_or_interval,ca. 1200–664 BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0892255,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0892255,descriptive_identity,Flake,https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0893514,material_identity,Bronze or copper alloy,https://collectionapi.metmuseum.org/public/collection/v1/objects/573243
+LIBSRC-LIB51-ENT-SMI-0893514,date_or_interval,30 BCE–364 CE,https://collectionapi.metmuseum.org/public/collection/v1/objects/573243
+LIBSRC-LIB51-ENT-SMI-0893514,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/573243
+LIBSRC-LIB51-ENT-SMI-0893514,descriptive_identity,Nail,https://collectionapi.metmuseum.org/public/collection/v1/objects/573243
+LIBSRC-LIB51-ENT-SMI-0906185,material_identity,"Bamboo, wood, fiber",https://collectionapi.metmuseum.org/public/collection/v1/objects/311846
+LIBSRC-LIB51-ENT-SMI-0906185,cultural_context,Asmat people,https://collectionapi.metmuseum.org/public/collection/v1/objects/311846
+LIBSRC-LIB51-ENT-SMI-0906185,date_or_interval,mid-20th century,https://collectionapi.metmuseum.org/public/collection/v1/objects/311846
+LIBSRC-LIB51-ENT-SMI-0906185,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/311846
+LIBSRC-LIB51-ENT-SMI-0906185,descriptive_identity,Arrow,https://collectionapi.metmuseum.org/public/collection/v1/objects/311846
+LIBSRC-LIB51-ENT-SMI-0891065,material_identity,Copper,https://collectionapi.metmuseum.org/public/collection/v1/objects/323705
+LIBSRC-LIB51-ENT-SMI-0891065,cultural_context,Iran,https://collectionapi.metmuseum.org/public/collection/v1/objects/323705
+LIBSRC-LIB51-ENT-SMI-0891065,date_or_interval,5th–3rd millennium BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/323705
+LIBSRC-LIB51-ENT-SMI-0891065,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/323705
+LIBSRC-LIB51-ENT-SMI-0891065,descriptive_identity,Awl,https://collectionapi.metmuseum.org/public/collection/v1/objects/323705
+LIBSRC-LIB51-ENT-SMI-0903823,material_identity,Silver,https://collectionapi.metmuseum.org/public/collection/v1/objects/247503
+LIBSRC-LIB51-ENT-SMI-0903823,cultural_context,Greek,https://collectionapi.metmuseum.org/public/collection/v1/objects/247503
+LIBSRC-LIB51-ENT-SMI-0903823,date_or_interval,ca. 350–300 BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/247503
+LIBSRC-LIB51-ENT-SMI-0903823,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/247503
+LIBSRC-LIB51-ENT-SMI-0903823,descriptive_identity,Bracelet,https://collectionapi.metmuseum.org/public/collection/v1/objects/247503
+LIBSRC-LIB51-ENT-SMI-0896235,material_identity,"Feathers, shell, wood, fiber",https://collectionapi.metmuseum.org/public/collection/v1/objects/727568
+LIBSRC-LIB51-ENT-SMI-0896235,cultural_context,Tapirapé,https://collectionapi.metmuseum.org/public/collection/v1/objects/727568
+LIBSRC-LIB51-ENT-SMI-0896235,date_or_interval,1950–65,https://collectionapi.metmuseum.org/public/collection/v1/objects/727568
+LIBSRC-LIB51-ENT-SMI-0896235,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/727568
+LIBSRC-LIB51-ENT-SMI-0896235,descriptive_identity,Mask,https://collectionapi.metmuseum.org/public/collection/v1/objects/727568
+LIBSRC-LIB51-ENT-SMI-0900767,material_identity,"wool, cotton, synthetic",https://collectionapi.metmuseum.org/public/collection/v1/objects/634533
+LIBSRC-LIB51-ENT-SMI-0900767,cultural_context,Japanese,https://collectionapi.metmuseum.org/public/collection/v1/objects/634533
+LIBSRC-LIB51-ENT-SMI-0900767,creator_or_attribution,Comme des Garçons,https://collectionapi.metmuseum.org/public/collection/v1/objects/634533
+LIBSRC-LIB51-ENT-SMI-0900767,date_or_interval,ca. 1992,https://collectionapi.metmuseum.org/public/collection/v1/objects/634533
+LIBSRC-LIB51-ENT-SMI-0900767,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/634533
+LIBSRC-LIB51-ENT-SMI-0900767,descriptive_identity,Tunic,https://collectionapi.metmuseum.org/public/collection/v1/objects/634533
+LIBSRC-LIB51-ENT-SMI-0899565,material_identity,"Stone, wood, spinifex resin, bark, paint, feathers, fiber",https://collectionapi.metmuseum.org/public/collection/v1/objects/311187
+LIBSRC-LIB51-ENT-SMI-0899565,cultural_context,Aranta (?),https://collectionapi.metmuseum.org/public/collection/v1/objects/311187
+LIBSRC-LIB51-ENT-SMI-0899565,date_or_interval,early to mid-20th century,https://collectionapi.metmuseum.org/public/collection/v1/objects/311187
+LIBSRC-LIB51-ENT-SMI-0899565,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/311187
+LIBSRC-LIB51-ENT-SMI-0899565,descriptive_identity,Knife and sheath,https://collectionapi.metmuseum.org/public/collection/v1/objects/311187
+LIBSRC-LIB51-ENT-SMI-0889552,material_identity,Bronze,https://collectionapi.metmuseum.org/public/collection/v1/objects/33928
+LIBSRC-LIB51-ENT-SMI-0889552,cultural_context,European,https://collectionapi.metmuseum.org/public/collection/v1/objects/33928
+LIBSRC-LIB51-ENT-SMI-0889552,date_or_interval,15th–17th century,https://collectionapi.metmuseum.org/public/collection/v1/objects/33928
+LIBSRC-LIB51-ENT-SMI-0889552,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/33928
+LIBSRC-LIB51-ENT-SMI-0889552,descriptive_identity,Washer,https://collectionapi.metmuseum.org/public/collection/v1/objects/33928
+LIBSRC-LIB51-ENT-SMI-0897571,technique,"bamboo shaft, wood tip",https://clevelandart.org/art/1922.25
+LIBSRC-LIB51-ENT-SMI-0897571,material_identity,"bamboo shaft, wood tip",https://clevelandart.org/art/1922.25
+LIBSRC-LIB51-ENT-SMI-0897571,cultural_context,Philippines,https://clevelandart.org/art/1922.25
+LIBSRC-LIB51-ENT-SMI-0897571,date_or_interval,before 1922,https://clevelandart.org/art/1922.25
+LIBSRC-LIB51-ENT-SMI-0897571,collection_object_identifier,Oceanic Art,https://clevelandart.org/art/1922.25
+LIBSRC-LIB51-ENT-SMI-0897571,descriptive_identity,Arms and Armor,https://clevelandart.org/art/1922.25
+LIBSRC-LIB51-ENT-SMI-0889362,technique,wood,https://clevelandart.org/art/1971.155
+LIBSRC-LIB51-ENT-SMI-0889362,material_identity,wood,https://clevelandart.org/art/1971.155
+LIBSRC-LIB51-ENT-SMI-0889362,cultural_context,"Melanesia, New Guinea, Massim Area, Trobriand Islands, 20th century",https://clevelandart.org/art/1971.155
+LIBSRC-LIB51-ENT-SMI-0889362,date_or_interval,before 1930,https://clevelandart.org/art/1971.155
+LIBSRC-LIB51-ENT-SMI-0889362,collection_object_identifier,Oceanic Art,https://clevelandart.org/art/1971.155
+LIBSRC-LIB51-ENT-SMI-0889362,descriptive_identity,Sculpture,https://clevelandart.org/art/1971.155
+LIBSRC-LIB51-ENT-SMI-0902517,material_identity,Black lacquer decorated with sprinkled gold in floral design,https://collectionapi.metmuseum.org/public/collection/v1/objects/40237
+LIBSRC-LIB51-ENT-SMI-0902517,cultural_context,Japan,https://collectionapi.metmuseum.org/public/collection/v1/objects/40237
+LIBSRC-LIB51-ENT-SMI-0902517,creator_or_attribution,Zohiko Nishimura,https://collectionapi.metmuseum.org/public/collection/v1/objects/40237
+LIBSRC-LIB51-ENT-SMI-0902517,date_or_interval,ca. 1950,https://collectionapi.metmuseum.org/public/collection/v1/objects/40237
+LIBSRC-LIB51-ENT-SMI-0902517,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/40237
+LIBSRC-LIB51-ENT-SMI-0902517,descriptive_identity,Vase,https://collectionapi.metmuseum.org/public/collection/v1/objects/40237
+LIBSRC-LIB51-ENT-SMI-0909809,material_identity,Stone,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0909809,cultural_context,Iran,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0909809,date_or_interval,5th–3rd millennium BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0909809,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0909809,descriptive_identity,Scraper,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0909833,material_identity,"Bamboo, wood, fiber",https://collectionapi.metmuseum.org/public/collection/v1/objects/311846
+LIBSRC-LIB51-ENT-SMI-0909833,cultural_context,Asmat people,https://collectionapi.metmuseum.org/public/collection/v1/objects/311846
+LIBSRC-LIB51-ENT-SMI-0909833,date_or_interval,mid-20th century,https://collectionapi.metmuseum.org/public/collection/v1/objects/311846
+LIBSRC-LIB51-ENT-SMI-0909833,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/311846
+LIBSRC-LIB51-ENT-SMI-0909833,descriptive_identity,Arrow,https://collectionapi.metmuseum.org/public/collection/v1/objects/311846
+LIBSRC-LIB51-ENT-SMI-0894345,material_identity,Jadeite,https://collectionapi.metmuseum.org/public/collection/v1/objects/43632
+LIBSRC-LIB51-ENT-SMI-0894345,cultural_context,Guatemala,https://collectionapi.metmuseum.org/public/collection/v1/objects/43632
+LIBSRC-LIB51-ENT-SMI-0894345,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/43632
+LIBSRC-LIB51-ENT-SMI-0894345,descriptive_identity,Chisel,https://collectionapi.metmuseum.org/public/collection/v1/objects/43632
+LIBSRC-LIB51-ENT-SMI-0907853,technique,silver,https://clevelandart.org/art/1947.276
+LIBSRC-LIB51-ENT-SMI-0907853,material_identity,silver,https://clevelandart.org/art/1947.276
+LIBSRC-LIB51-ENT-SMI-0907853,cultural_context,"Italy, Sicily, 18th century",https://clevelandart.org/art/1947.276
+LIBSRC-LIB51-ENT-SMI-0907853,date_or_interval,1700s,https://clevelandart.org/art/1947.276
+LIBSRC-LIB51-ENT-SMI-0907853,collection_object_identifier,Decorative Arts,https://clevelandart.org/art/1947.276
+LIBSRC-LIB51-ENT-SMI-0907853,descriptive_identity,Silver,https://clevelandart.org/art/1947.276
+LIBSRC-LIB51-ENT-SMI-0903382,technique,rock crystal with a garnet mounted in a gold granulated star,https://clevelandart.org/art/1946.259
+LIBSRC-LIB51-ENT-SMI-0903382,material_identity,rock crystal with a garnet mounted in a gold granulated star,https://clevelandart.org/art/1946.259
+LIBSRC-LIB51-ENT-SMI-0903382,cultural_context,"Byzantium, early Byzantine period, 6th century",https://clevelandart.org/art/1946.259
+LIBSRC-LIB51-ENT-SMI-0903382,date_or_interval,500s,https://clevelandart.org/art/1946.259
+LIBSRC-LIB51-ENT-SMI-0903382,collection_object_identifier,MED - Byzantine,https://clevelandart.org/art/1946.259
+LIBSRC-LIB51-ENT-SMI-0903382,descriptive_identity,Jewelry,https://clevelandart.org/art/1946.259
+LIBSRC-LIB51-ENT-SMI-0898463,technique,"ceramic, slip",https://clevelandart.org/art/2006.157
+LIBSRC-LIB51-ENT-SMI-0898463,material_identity,"ceramic, slip",https://clevelandart.org/art/2006.157
+LIBSRC-LIB51-ENT-SMI-0898463,cultural_context,"Peru, North Highlands, Recuay",https://clevelandart.org/art/2006.157
+LIBSRC-LIB51-ENT-SMI-0898463,date_or_interval,100 BCE–700 CE,https://clevelandart.org/art/2006.157
+LIBSRC-LIB51-ENT-SMI-0898463,collection_object_identifier,AA - Andes,https://clevelandart.org/art/2006.157
+LIBSRC-LIB51-ENT-SMI-0898463,descriptive_identity,Ceramic,https://clevelandart.org/art/2006.157
+LIBSRC-LIB51-ENT-SMI-0900097,technique,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0900097,material_identity,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0900097,cultural_context,France or Italy,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0900097,date_or_interval,1600s,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0900097,collection_object_identifier,Decorative Arts,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0900097,descriptive_identity,Tools and Equipment,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0906570,material_identity,Stone,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0906570,cultural_context,Iran,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0906570,date_or_interval,5th–3rd millennium BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0906570,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0906570,descriptive_identity,Scraper,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0891331,material_identity,"Wood, wicker",https://collectionapi.metmuseum.org/public/collection/v1/objects/360
+LIBSRC-LIB51-ENT-SMI-0891331,cultural_context,"American, Shaker",https://collectionapi.metmuseum.org/public/collection/v1/objects/360
+LIBSRC-LIB51-ENT-SMI-0891331,creator_or_attribution,United Society of Believers in Christ’s Second Appearing (“Shakers”),https://collectionapi.metmuseum.org/public/collection/v1/objects/360
+LIBSRC-LIB51-ENT-SMI-0891331,date_or_interval,1800–1900,https://collectionapi.metmuseum.org/public/collection/v1/objects/360
+LIBSRC-LIB51-ENT-SMI-0891331,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/360
+LIBSRC-LIB51-ENT-SMI-0891331,descriptive_identity,Basket,https://collectionapi.metmuseum.org/public/collection/v1/objects/360
+LIBSRC-LIB51-ENT-SMI-0898422,material_identity,Murrhina agate with coral stopper,https://collectionapi.metmuseum.org/public/collection/v1/objects/41546
+LIBSRC-LIB51-ENT-SMI-0898422,cultural_context,China,https://collectionapi.metmuseum.org/public/collection/v1/objects/41546
+LIBSRC-LIB51-ENT-SMI-0898422,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/41546
+LIBSRC-LIB51-ENT-SMI-0898422,descriptive_identity,Snuff bottle,https://collectionapi.metmuseum.org/public/collection/v1/objects/41546
+LIBSRC-LIB51-ENT-SMI-0892483,material_identity,"Wood, wicker",https://collectionapi.metmuseum.org/public/collection/v1/objects/360
+LIBSRC-LIB51-ENT-SMI-0892483,cultural_context,"American, Shaker",https://collectionapi.metmuseum.org/public/collection/v1/objects/360
+LIBSRC-LIB51-ENT-SMI-0892483,creator_or_attribution,United Society of Believers in Christ’s Second Appearing (“Shakers”),https://collectionapi.metmuseum.org/public/collection/v1/objects/360
+LIBSRC-LIB51-ENT-SMI-0892483,date_or_interval,1800–1900,https://collectionapi.metmuseum.org/public/collection/v1/objects/360
+LIBSRC-LIB51-ENT-SMI-0892483,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/360
+LIBSRC-LIB51-ENT-SMI-0892483,descriptive_identity,Basket,https://collectionapi.metmuseum.org/public/collection/v1/objects/360
+LIBSRC-LIB51-ENT-SMI-0907797,material_identity,Pottery,https://collectionapi.metmuseum.org/public/collection/v1/objects/502954
+LIBSRC-LIB51-ENT-SMI-0907797,cultural_context,Costa Rican,https://collectionapi.metmuseum.org/public/collection/v1/objects/502954
+LIBSRC-LIB51-ENT-SMI-0907797,date_or_interval,ca. 800–1525,https://collectionapi.metmuseum.org/public/collection/v1/objects/502954
+LIBSRC-LIB51-ENT-SMI-0907797,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/502954
+LIBSRC-LIB51-ENT-SMI-0907797,descriptive_identity,Pottery Whistle,https://collectionapi.metmuseum.org/public/collection/v1/objects/502954
+LIBSRC-LIB51-ENT-SMI-0896125,material_identity,Blown glass,https://collectionapi.metmuseum.org/public/collection/v1/objects/9780
+LIBSRC-LIB51-ENT-SMI-0896125,cultural_context,American,https://collectionapi.metmuseum.org/public/collection/v1/objects/9780
+LIBSRC-LIB51-ENT-SMI-0896125,creator_or_attribution,New England Glass Company,https://collectionapi.metmuseum.org/public/collection/v1/objects/9780
+LIBSRC-LIB51-ENT-SMI-0896125,date_or_interval,after 1883,https://collectionapi.metmuseum.org/public/collection/v1/objects/9780
+LIBSRC-LIB51-ENT-SMI-0896125,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/9780
+LIBSRC-LIB51-ENT-SMI-0896125,descriptive_identity,Water pitcher,https://collectionapi.metmuseum.org/public/collection/v1/objects/9780
+LIBSRC-LIB51-ENT-SMI-0905515,material_identity,Lacy pressed glass,https://collectionapi.metmuseum.org/public/collection/v1/objects/752
+LIBSRC-LIB51-ENT-SMI-0905515,cultural_context,American,https://collectionapi.metmuseum.org/public/collection/v1/objects/752
+LIBSRC-LIB51-ENT-SMI-0905515,date_or_interval,1835–40,https://collectionapi.metmuseum.org/public/collection/v1/objects/752
+LIBSRC-LIB51-ENT-SMI-0905515,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/752
+LIBSRC-LIB51-ENT-SMI-0905515,descriptive_identity,Bowl,https://collectionapi.metmuseum.org/public/collection/v1/objects/752
+LIBSRC-LIB51-ENT-SMI-0908734,technique,gilt bronze,https://clevelandart.org/art/1949.156
+LIBSRC-LIB51-ENT-SMI-0908734,material_identity,gilt bronze,https://clevelandart.org/art/1949.156
+LIBSRC-LIB51-ENT-SMI-0908734,cultural_context,"Japan, Heian period (794–1185)",https://clevelandart.org/art/1949.156
+LIBSRC-LIB51-ENT-SMI-0908734,date_or_interval,c. 900s,https://clevelandart.org/art/1949.156
+LIBSRC-LIB51-ENT-SMI-0908734,collection_object_identifier,Japanese Art,https://clevelandart.org/art/1949.156
+LIBSRC-LIB51-ENT-SMI-0908734,descriptive_identity,Metalwork,https://clevelandart.org/art/1949.156
+LIBSRC-LIB51-ENT-SMI-0909574,material_identity,Flint,https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0909574,date_or_interval,ca. 1200–664 BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0909574,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0909574,descriptive_identity,Flake,https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0892337,technique,bone,https://clevelandart.org/art/1927.263.b
+LIBSRC-LIB51-ENT-SMI-0892337,material_identity,bone,https://clevelandart.org/art/1927.263.b
+LIBSRC-LIB51-ENT-SMI-0892337,cultural_context,"America, Native North American, Gaigwu (Kiowa), late 19th century",https://clevelandart.org/art/1927.263.b
+LIBSRC-LIB51-ENT-SMI-0892337,date_or_interval,late 1800s,https://clevelandart.org/art/1927.263.b
+LIBSRC-LIB51-ENT-SMI-0892337,collection_object_identifier,AA - Native North America,https://clevelandart.org/art/1927.263.b
+LIBSRC-LIB51-ENT-SMI-0892337,descriptive_identity,Tools and Equipment,https://clevelandart.org/art/1927.263.b
+LIBSRC-LIB51-ENT-SMI-0897071,material_identity,Flint,https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0897071,date_or_interval,ca. 1200–664 BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0897071,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0897071,descriptive_identity,Flake,https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0918298,material_identity,Stone,https://collectionapi.metmuseum.org/public/collection/v1/objects/323687
+LIBSRC-LIB51-ENT-SMI-0918298,cultural_context,Iran,https://collectionapi.metmuseum.org/public/collection/v1/objects/323687
+LIBSRC-LIB51-ENT-SMI-0918298,date_or_interval,5th–3rd millennium BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/323687
+LIBSRC-LIB51-ENT-SMI-0918298,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/323687
+LIBSRC-LIB51-ENT-SMI-0918298,descriptive_identity,Rubbing stone,https://collectionapi.metmuseum.org/public/collection/v1/objects/323687
+LIBSRC-LIB51-ENT-SMI-0926621,material_identity,Stoneware painted with cobalt and amber enamels (Mizoro ware),https://collectionapi.metmuseum.org/public/collection/v1/objects/44923
+LIBSRC-LIB51-ENT-SMI-0926621,cultural_context,Japan,https://collectionapi.metmuseum.org/public/collection/v1/objects/44923
+LIBSRC-LIB51-ENT-SMI-0926621,date_or_interval,18th century,https://collectionapi.metmuseum.org/public/collection/v1/objects/44923
+LIBSRC-LIB51-ENT-SMI-0926621,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/44923
+LIBSRC-LIB51-ENT-SMI-0926621,descriptive_identity,Food bowl,https://collectionapi.metmuseum.org/public/collection/v1/objects/44923
+LIBSRC-LIB51-ENT-SMI-0925082,material_identity,Stoneware painted with cobalt and amber enamels (Mizoro ware),https://collectionapi.metmuseum.org/public/collection/v1/objects/44923
+LIBSRC-LIB51-ENT-SMI-0925082,cultural_context,Japan,https://collectionapi.metmuseum.org/public/collection/v1/objects/44923
+LIBSRC-LIB51-ENT-SMI-0925082,date_or_interval,18th century,https://collectionapi.metmuseum.org/public/collection/v1/objects/44923
+LIBSRC-LIB51-ENT-SMI-0925082,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/44923
+LIBSRC-LIB51-ENT-SMI-0925082,descriptive_identity,Food bowl,https://collectionapi.metmuseum.org/public/collection/v1/objects/44923
+LIBSRC-LIB51-ENT-SMI-0912796,technique,coiled,https://clevelandart.org/art/1929.268
+LIBSRC-LIB51-ENT-SMI-0912796,material_identity,coiled,https://clevelandart.org/art/1929.268
+LIBSRC-LIB51-ENT-SMI-0912796,cultural_context,"California, Southern, Gabrielino (San Gabriel, Mission or Tongva), Late 19th- Early 20th century",https://clevelandart.org/art/1929.268
+LIBSRC-LIB51-ENT-SMI-0912796,date_or_interval,c 1875– 1925,https://clevelandart.org/art/1929.268
+LIBSRC-LIB51-ENT-SMI-0912796,collection_object_identifier,AA - Native North America,https://clevelandart.org/art/1929.268
+LIBSRC-LIB51-ENT-SMI-0912796,descriptive_identity,Basketry,https://clevelandart.org/art/1929.268
+LIBSRC-LIB51-ENT-SMI-0921173,material_identity,Ceramic,https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+LIBSRC-LIB51-ENT-SMI-0921173,cultural_context,Iran,https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+LIBSRC-LIB51-ENT-SMI-0921173,date_or_interval,ca. 7th–6th century BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+LIBSRC-LIB51-ENT-SMI-0921173,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+LIBSRC-LIB51-ENT-SMI-0921173,descriptive_identity,Sherd,https://collectionapi.metmuseum.org/public/collection/v1/objects/325999
+LIBSRC-LIB51-ENT-SMI-0916491,technique,hammered gold,https://clevelandart.org/art/1950.566
+LIBSRC-LIB51-ENT-SMI-0916491,material_identity,hammered gold,https://clevelandart.org/art/1950.566
+LIBSRC-LIB51-ENT-SMI-0916491,cultural_context,"Colombia, Muisca style(?)",https://clevelandart.org/art/1950.566
+LIBSRC-LIB51-ENT-SMI-0916491,date_or_interval,c. 900–1550,https://clevelandart.org/art/1950.566
+LIBSRC-LIB51-ENT-SMI-0916491,collection_object_identifier,AA - Intermediate Region,https://clevelandart.org/art/1950.566
+LIBSRC-LIB51-ENT-SMI-0916491,descriptive_identity,Jewelry,https://clevelandart.org/art/1950.566
+LIBSRC-LIB51-ENT-SMI-0920462,material_identity,Stone,https://collectionapi.metmuseum.org/public/collection/v1/objects/316766
+LIBSRC-LIB51-ENT-SMI-0920462,cultural_context,Guanacaste-Nicoya,https://collectionapi.metmuseum.org/public/collection/v1/objects/316766
+LIBSRC-LIB51-ENT-SMI-0920462,date_or_interval,1st–5th century,https://collectionapi.metmuseum.org/public/collection/v1/objects/316766
+LIBSRC-LIB51-ENT-SMI-0920462,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/316766
+LIBSRC-LIB51-ENT-SMI-0920462,descriptive_identity,Metate,https://collectionapi.metmuseum.org/public/collection/v1/objects/316766
+LIBSRC-LIB51-ENT-SMI-0922929,material_identity,Glass,https://collectionapi.metmuseum.org/public/collection/v1/objects/249205
+LIBSRC-LIB51-ENT-SMI-0922929,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/249205
+LIBSRC-LIB51-ENT-SMI-0922929,descriptive_identity,Bead,https://collectionapi.metmuseum.org/public/collection/v1/objects/249205
+LIBSRC-LIB51-ENT-SMI-0912853,technique,silver bronze,https://clevelandart.org/art/1917.338
+LIBSRC-LIB51-ENT-SMI-0912853,material_identity,silver bronze,https://clevelandart.org/art/1917.338
+LIBSRC-LIB51-ENT-SMI-0912853,cultural_context,"Korea, Goryeo dynasty (918–1392)",https://clevelandart.org/art/1917.338
+LIBSRC-LIB51-ENT-SMI-0912853,date_or_interval,918–1392,https://clevelandart.org/art/1917.338
+LIBSRC-LIB51-ENT-SMI-0912853,collection_object_identifier,Korean Art,https://clevelandart.org/art/1917.338
+LIBSRC-LIB51-ENT-SMI-0912853,descriptive_identity,Metalwork,https://clevelandart.org/art/1917.338
+LIBSRC-LIB51-ENT-SMI-0924961,technique,Bark (probably Ficus natalensis) and dye,https://clevelandart.org/art/1929.368
+LIBSRC-LIB51-ENT-SMI-0924961,material_identity,Bark (probably Ficus natalensis) and dye,https://clevelandart.org/art/1929.368
+LIBSRC-LIB51-ENT-SMI-0924961,cultural_context,"Africa, East Africa, Uganda, Baganda style, unknown maker",https://clevelandart.org/art/1929.368
+LIBSRC-LIB51-ENT-SMI-0924961,date_or_interval,early 1900s,https://clevelandart.org/art/1929.368
+LIBSRC-LIB51-ENT-SMI-0924961,collection_object_identifier,Textiles,https://clevelandart.org/art/1929.368
+LIBSRC-LIB51-ENT-SMI-0924961,descriptive_identity,Textile,https://clevelandart.org/art/1929.368
+LIBSRC-LIB51-ENT-SMI-0910578,technique,"Silk taffeta, brocaded",https://clevelandart.org/art/1915.659
+LIBSRC-LIB51-ENT-SMI-0910578,material_identity,"Silk taffeta, brocaded",https://clevelandart.org/art/1915.659
+LIBSRC-LIB51-ENT-SMI-0910578,cultural_context,"Iran, 18th century",https://clevelandart.org/art/1915.659
+LIBSRC-LIB51-ENT-SMI-0910578,date_or_interval,1700s,https://clevelandart.org/art/1915.659
+LIBSRC-LIB51-ENT-SMI-0910578,collection_object_identifier,T - Islamic,https://clevelandart.org/art/1915.659
+LIBSRC-LIB51-ENT-SMI-0910578,descriptive_identity,Garment,https://clevelandart.org/art/1915.659
+LIBSRC-LIB51-ENT-SMI-0929760,material_identity,"metal, silk, cotton, glass, pearl",https://collectionapi.metmuseum.org/public/collection/v1/objects/156414
+LIBSRC-LIB51-ENT-SMI-0929760,date_or_interval,ca. 1900,https://collectionapi.metmuseum.org/public/collection/v1/objects/156414
+LIBSRC-LIB51-ENT-SMI-0929760,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/156414
+LIBSRC-LIB51-ENT-SMI-0929760,descriptive_identity,Headdress,https://collectionapi.metmuseum.org/public/collection/v1/objects/156414
+LIBSRC-LIB51-ENT-SMI-0927172,material_identity,wool,https://collectionapi.metmuseum.org/public/collection/v1/objects/158131
+LIBSRC-LIB51-ENT-SMI-0927172,cultural_context,French,https://collectionapi.metmuseum.org/public/collection/v1/objects/158131
+LIBSRC-LIB51-ENT-SMI-0927172,date_or_interval,first quarter 19th century,https://collectionapi.metmuseum.org/public/collection/v1/objects/158131
+LIBSRC-LIB51-ENT-SMI-0927172,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/158131
+LIBSRC-LIB51-ENT-SMI-0927172,descriptive_identity,Shawl,https://collectionapi.metmuseum.org/public/collection/v1/objects/158131
+LIBSRC-LIB51-ENT-SMI-0928553,material_identity,Camelid hair,https://collectionapi.metmuseum.org/public/collection/v1/objects/317736
+LIBSRC-LIB51-ENT-SMI-0928553,cultural_context,Chuquibamba,https://collectionapi.metmuseum.org/public/collection/v1/objects/317736
+LIBSRC-LIB51-ENT-SMI-0928553,date_or_interval,14th–early 16th century,https://collectionapi.metmuseum.org/public/collection/v1/objects/317736
+LIBSRC-LIB51-ENT-SMI-0928553,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/317736
+LIBSRC-LIB51-ENT-SMI-0928553,descriptive_identity,Dress,https://collectionapi.metmuseum.org/public/collection/v1/objects/317736
+LIBSRC-LIB51-ENT-SMI-0929743,material_identity,"wool, cotton, linen",https://collectionapi.metmuseum.org/public/collection/v1/objects/689887
+LIBSRC-LIB51-ENT-SMI-0929743,cultural_context,French,https://collectionapi.metmuseum.org/public/collection/v1/objects/689887
+LIBSRC-LIB51-ENT-SMI-0929743,date_or_interval,ca. 1790,https://collectionapi.metmuseum.org/public/collection/v1/objects/689887
+LIBSRC-LIB51-ENT-SMI-0929743,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/689887
+LIBSRC-LIB51-ENT-SMI-0929743,descriptive_identity,Cap,https://collectionapi.metmuseum.org/public/collection/v1/objects/689887
+LIBSRC-LIB51-ENT-SMI-0917464,material_identity,Stone,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0917464,cultural_context,Iran,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0917464,date_or_interval,5th–3rd millennium BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0917464,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0917464,descriptive_identity,Scraper,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0925799,material_identity,"metal, silk, cotton, glass, pearl",https://collectionapi.metmuseum.org/public/collection/v1/objects/156414
+LIBSRC-LIB51-ENT-SMI-0925799,date_or_interval,ca. 1900,https://collectionapi.metmuseum.org/public/collection/v1/objects/156414
+LIBSRC-LIB51-ENT-SMI-0925799,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/156414
+LIBSRC-LIB51-ENT-SMI-0925799,descriptive_identity,Headdress,https://collectionapi.metmuseum.org/public/collection/v1/objects/156414
+LIBSRC-LIB51-ENT-SMI-0930589,technique,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0930589,material_identity,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0930589,cultural_context,France or Italy,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0930589,date_or_interval,1600s,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0930589,collection_object_identifier,Decorative Arts,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0930589,descriptive_identity,Tools and Equipment,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0917316,material_identity,"Single-channel digital video, transferred from Sony CV 1/2-inch video tape, black-and-white, sound, 54 sec.",https://collectionapi.metmuseum.org/public/collection/v1/objects/748653
+LIBSRC-LIB51-ENT-SMI-0917316,creator_or_attribution,William Wegman,https://collectionapi.metmuseum.org/public/collection/v1/objects/748653
+LIBSRC-LIB51-ENT-SMI-0917316,date_or_interval,1970–71,https://collectionapi.metmuseum.org/public/collection/v1/objects/748653
+LIBSRC-LIB51-ENT-SMI-0917316,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/748653
+LIBSRC-LIB51-ENT-SMI-0917316,descriptive_identity,Video; Time-Based Media,https://collectionapi.metmuseum.org/public/collection/v1/objects/748653
+LIBSRC-LIB51-ENT-SMI-0922550,material_identity,Stone,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0922550,cultural_context,Iran,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0922550,date_or_interval,5th–3rd millennium BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0922550,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0922550,descriptive_identity,Scraper,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0915520,material_identity,Nephrite,https://collectionapi.metmuseum.org/public/collection/v1/objects/43496
+LIBSRC-LIB51-ENT-SMI-0915520,cultural_context,China (possibly Turkestan),https://collectionapi.metmuseum.org/public/collection/v1/objects/43496
+LIBSRC-LIB51-ENT-SMI-0915520,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/43496
+LIBSRC-LIB51-ENT-SMI-0915520,descriptive_identity,Pebble,https://collectionapi.metmuseum.org/public/collection/v1/objects/43496
+LIBSRC-LIB51-ENT-SMI-0929761,material_identity,Stone,https://collectionapi.metmuseum.org/public/collection/v1/objects/317171
+LIBSRC-LIB51-ENT-SMI-0929761,cultural_context,Taíno,https://collectionapi.metmuseum.org/public/collection/v1/objects/317171
+LIBSRC-LIB51-ENT-SMI-0929761,date_or_interval,before 16th century,https://collectionapi.metmuseum.org/public/collection/v1/objects/317171
+LIBSRC-LIB51-ENT-SMI-0929761,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/317171
+LIBSRC-LIB51-ENT-SMI-0929761,descriptive_identity,Celt,https://collectionapi.metmuseum.org/public/collection/v1/objects/317171
+LIBSRC-LIB51-ENT-SMI-0926206,material_identity,Flint,https://collectionapi.metmuseum.org/public/collection/v1/objects/557583
+LIBSRC-LIB51-ENT-SMI-0926206,date_or_interval,ca. 4000–3800 BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/557583
+LIBSRC-LIB51-ENT-SMI-0926206,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/557583
+LIBSRC-LIB51-ENT-SMI-0926206,descriptive_identity,"Core, discoidal, opposite-platform, opposed-platform",https://collectionapi.metmuseum.org/public/collection/v1/objects/557583
+LIBSRC-LIB51-ENT-SMI-0919220,material_identity,"silk, cotton",https://collectionapi.metmuseum.org/public/collection/v1/objects/157778
+LIBSRC-LIB51-ENT-SMI-0919220,cultural_context,American,https://collectionapi.metmuseum.org/public/collection/v1/objects/157778
+LIBSRC-LIB51-ENT-SMI-0919220,date_or_interval,1895–1905,https://collectionapi.metmuseum.org/public/collection/v1/objects/157778
+LIBSRC-LIB51-ENT-SMI-0919220,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/157778
+LIBSRC-LIB51-ENT-SMI-0919220,descriptive_identity,Blanket,https://collectionapi.metmuseum.org/public/collection/v1/objects/157778
+LIBSRC-LIB51-ENT-SMI-0926191,material_identity,Plaster,https://collectionapi.metmuseum.org/public/collection/v1/objects/231353
+LIBSRC-LIB51-ENT-SMI-0926191,date_or_interval,19th century,https://collectionapi.metmuseum.org/public/collection/v1/objects/231353
+LIBSRC-LIB51-ENT-SMI-0926191,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/231353
+LIBSRC-LIB51-ENT-SMI-0926191,descriptive_identity,Cast,https://collectionapi.metmuseum.org/public/collection/v1/objects/231353
+LIBSRC-LIB51-ENT-SMI-0911834,material_identity,Stone,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0911834,cultural_context,Iran,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0911834,date_or_interval,5th–3rd millennium BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0911834,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0911834,descriptive_identity,Scraper,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0925868,material_identity,leather,https://collectionapi.metmuseum.org/public/collection/v1/objects/117318
+LIBSRC-LIB51-ENT-SMI-0925868,cultural_context,Austrian,https://collectionapi.metmuseum.org/public/collection/v1/objects/117318
+LIBSRC-LIB51-ENT-SMI-0925868,creator_or_attribution,Wiener Werkstätte,https://collectionapi.metmuseum.org/public/collection/v1/objects/117318
+LIBSRC-LIB51-ENT-SMI-0925868,date_or_interval,late 1920s,https://collectionapi.metmuseum.org/public/collection/v1/objects/117318
+LIBSRC-LIB51-ENT-SMI-0925868,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/117318
+LIBSRC-LIB51-ENT-SMI-0925868,descriptive_identity,Wallet,https://collectionapi.metmuseum.org/public/collection/v1/objects/117318
+LIBSRC-LIB51-ENT-SMI-0912966,technique,Point: metal and brass ferrule; handle: wood; sheath: wood,https://clevelandart.org/art/1922.26
+LIBSRC-LIB51-ENT-SMI-0912966,material_identity,Point: metal and brass ferrule; handle: wood; sheath: wood,https://clevelandart.org/art/1922.26
+LIBSRC-LIB51-ENT-SMI-0912966,cultural_context,Philippines,https://clevelandart.org/art/1922.26
+LIBSRC-LIB51-ENT-SMI-0912966,date_or_interval,before 1922,https://clevelandart.org/art/1922.26
+LIBSRC-LIB51-ENT-SMI-0912966,collection_object_identifier,Oceanic Art,https://clevelandart.org/art/1922.26
+LIBSRC-LIB51-ENT-SMI-0912966,descriptive_identity,Arms and Armor,https://clevelandart.org/art/1922.26
+LIBSRC-LIB51-ENT-SMI-0921590,material_identity,Stone,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0921590,cultural_context,Iran,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0921590,date_or_interval,5th–3rd millennium BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0921590,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0921590,descriptive_identity,Scraper,https://collectionapi.metmuseum.org/public/collection/v1/objects/323688
+LIBSRC-LIB51-ENT-SMI-0929978,material_identity,Stone,https://collectionapi.metmuseum.org/public/collection/v1/objects/570828
+LIBSRC-LIB51-ENT-SMI-0929978,date_or_interval,ca. 3100–2649 B.C.,https://collectionapi.metmuseum.org/public/collection/v1/objects/570828
+LIBSRC-LIB51-ENT-SMI-0929978,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/570828
+LIBSRC-LIB51-ENT-SMI-0929978,descriptive_identity,"Arrowhead, Projectile Point",https://collectionapi.metmuseum.org/public/collection/v1/objects/570828
+LIBSRC-LIB51-ENT-SMI-0919752,technique,wood,https://clevelandart.org/art/1922.33
+LIBSRC-LIB51-ENT-SMI-0919752,material_identity,wood,https://clevelandart.org/art/1922.33
+LIBSRC-LIB51-ENT-SMI-0919752,cultural_context,"Philippines, probably Luzon",https://clevelandart.org/art/1922.33
+LIBSRC-LIB51-ENT-SMI-0919752,date_or_interval,before 1922,https://clevelandart.org/art/1922.33
+LIBSRC-LIB51-ENT-SMI-0919752,collection_object_identifier,Oceanic Art,https://clevelandart.org/art/1922.33
+LIBSRC-LIB51-ENT-SMI-0919752,descriptive_identity,Arms and Armor,https://clevelandart.org/art/1922.33
+LIBSRC-LIB51-ENT-SMI-0911353,material_identity,Flint,https://collectionapi.metmuseum.org/public/collection/v1/objects/324283
+LIBSRC-LIB51-ENT-SMI-0911353,date_or_interval,ca. 7500–4500 BCE (?),https://collectionapi.metmuseum.org/public/collection/v1/objects/324283
+LIBSRC-LIB51-ENT-SMI-0911353,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/324283
+LIBSRC-LIB51-ENT-SMI-0911353,descriptive_identity,Point,https://collectionapi.metmuseum.org/public/collection/v1/objects/324283
+LIBSRC-LIB51-ENT-SMI-0928920,technique,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0928920,material_identity,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0928920,cultural_context,France or Italy,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0928920,date_or_interval,1600s,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0928920,collection_object_identifier,Decorative Arts,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0928920,descriptive_identity,Tools and Equipment,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0910244,technique,silver,https://clevelandart.org/art/1986.182
+LIBSRC-LIB51-ENT-SMI-0910244,material_identity,silver,https://clevelandart.org/art/1986.182
+LIBSRC-LIB51-ENT-SMI-0910244,cultural_context,"Greece, late Hellenistic period",https://clevelandart.org/art/1986.182
+LIBSRC-LIB51-ENT-SMI-0910244,date_or_interval,200–1 BCE,https://clevelandart.org/art/1986.182
+LIBSRC-LIB51-ENT-SMI-0910244,collection_object_identifier,GR - Greek,https://clevelandart.org/art/1986.182
+LIBSRC-LIB51-ENT-SMI-0910244,descriptive_identity,Jewelry,https://clevelandart.org/art/1986.182
+LIBSRC-LIB51-ENT-SMI-0921456,technique,"Bamboo, wood, pelt, and plant fiber",https://clevelandart.org/art/1929.325
+LIBSRC-LIB51-ENT-SMI-0921456,material_identity,"Bamboo, wood, pelt, and plant fiber",https://clevelandart.org/art/1929.325
+LIBSRC-LIB51-ENT-SMI-0921456,cultural_context,"Africa, Uganda/Kenya, unknown maker",https://clevelandart.org/art/1929.325
+LIBSRC-LIB51-ENT-SMI-0921456,date_or_interval,by 1928,https://clevelandart.org/art/1929.325
+LIBSRC-LIB51-ENT-SMI-0921456,collection_object_identifier,African Art,https://clevelandart.org/art/1929.325
+LIBSRC-LIB51-ENT-SMI-0921456,descriptive_identity,Arms and Armor,https://clevelandart.org/art/1929.325
+LIBSRC-LIB51-ENT-SMI-0931056,technique,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0931056,material_identity,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0931056,cultural_context,France or Italy,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0931056,date_or_interval,1600s,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0931056,collection_object_identifier,Decorative Arts,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0931056,descriptive_identity,Tools and Equipment,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0911111,technique,gessoed and painted sycamore fig,https://clevelandart.org/art/1914.604
+LIBSRC-LIB51-ENT-SMI-0911111,material_identity,gessoed and painted sycamore fig,https://clevelandart.org/art/1914.604
+LIBSRC-LIB51-ENT-SMI-0911111,cultural_context,"Egypt, Middle Kingdom (2040–1648 BCE), Dynasties 11–12",https://clevelandart.org/art/1914.604
+LIBSRC-LIB51-ENT-SMI-0911111,date_or_interval,2040–1648 BCE,https://clevelandart.org/art/1914.604
+LIBSRC-LIB51-ENT-SMI-0911111,collection_object_identifier,Egypt - Middle Kingdom,https://clevelandart.org/art/1914.604
+LIBSRC-LIB51-ENT-SMI-0911111,descriptive_identity,Funerary Equipment,https://clevelandart.org/art/1914.604
+LIBSRC-LIB51-ENT-SMI-0917937,technique,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0917937,material_identity,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0917937,cultural_context,France or Italy,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0917937,date_or_interval,1600s,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0917937,collection_object_identifier,Decorative Arts,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0917937,descriptive_identity,Tools and Equipment,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0928460,technique,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0928460,material_identity,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0928460,cultural_context,France or Italy,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0928460,date_or_interval,1600s,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0928460,collection_object_identifier,Decorative Arts,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0928460,descriptive_identity,Tools and Equipment,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0927494,technique,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0927494,material_identity,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0927494,cultural_context,France or Italy,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0927494,date_or_interval,1600s,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0927494,collection_object_identifier,Decorative Arts,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0927494,descriptive_identity,Tools and Equipment,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0917608,technique,"stone, pigment",https://clevelandart.org/art/1957.494.b
+LIBSRC-LIB51-ENT-SMI-0917608,material_identity,"stone, pigment",https://clevelandart.org/art/1957.494.b
+LIBSRC-LIB51-ENT-SMI-0917608,cultural_context,"Peru, North Highlands, Pacopampa(?), Chavín style (900-200 BCE)",https://clevelandart.org/art/1957.494.b
+LIBSRC-LIB51-ENT-SMI-0917608,date_or_interval,700–1 BCE,https://clevelandart.org/art/1957.494.b
+LIBSRC-LIB51-ENT-SMI-0917608,collection_object_identifier,AA - Andes,https://clevelandart.org/art/1957.494.b
+LIBSRC-LIB51-ENT-SMI-0917608,descriptive_identity,Stone,https://clevelandart.org/art/1957.494.b
+LIBSRC-LIB51-ENT-SMI-0919685,technique,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0919685,material_identity,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0919685,cultural_context,France or Italy,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0919685,date_or_interval,1600s,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0919685,collection_object_identifier,Decorative Arts,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0919685,descriptive_identity,Tools and Equipment,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0918912,technique,bronze,https://clevelandart.org/art/1941.549
+LIBSRC-LIB51-ENT-SMI-0918912,material_identity,bronze,https://clevelandart.org/art/1941.549
+LIBSRC-LIB51-ENT-SMI-0918912,cultural_context,"China, Shang dynasty (c. 1600–c. 1046 BCE)",https://clevelandart.org/art/1941.549
+LIBSRC-LIB51-ENT-SMI-0918912,date_or_interval,1766–1045 BCE,https://clevelandart.org/art/1941.549
+LIBSRC-LIB51-ENT-SMI-0918912,collection_object_identifier,China - Shang Dynasty,https://clevelandart.org/art/1941.549
+LIBSRC-LIB51-ENT-SMI-0918912,descriptive_identity,Metalwork,https://clevelandart.org/art/1941.549
+LIBSRC-LIB51-ENT-SMI-0926704,material_identity,"Glass, greenish-blue; mold blown",https://collectionapi.metmuseum.org/public/collection/v1/objects/453380
+LIBSRC-LIB51-ENT-SMI-0926704,date_or_interval,9th–10th century,https://collectionapi.metmuseum.org/public/collection/v1/objects/453380
+LIBSRC-LIB51-ENT-SMI-0926704,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/453380
+LIBSRC-LIB51-ENT-SMI-0926704,descriptive_identity,Jar,https://collectionapi.metmuseum.org/public/collection/v1/objects/453380
+LIBSRC-LIB51-ENT-SMI-0926084,material_identity,Flint,https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0926084,date_or_interval,ca. 1200–664 BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0926084,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0926084,descriptive_identity,Flake,https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0930196,material_identity,Flint,https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0930196,date_or_interval,ca. 1200–664 BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0930196,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0930196,descriptive_identity,Flake,https://collectionapi.metmuseum.org/public/collection/v1/objects/571272
+LIBSRC-LIB51-ENT-SMI-0917530,technique,carved bone,https://clevelandart.org/art/1933.186
+LIBSRC-LIB51-ENT-SMI-0917530,material_identity,carved bone,https://clevelandart.org/art/1933.186
+LIBSRC-LIB51-ENT-SMI-0917530,cultural_context,Parthian Empire (247 BCE–224 CE),https://clevelandart.org/art/1933.186
+LIBSRC-LIB51-ENT-SMI-0917530,date_or_interval,1–200 CE,https://clevelandart.org/art/1933.186
+LIBSRC-LIB51-ENT-SMI-0917530,collection_object_identifier,Near Eastern Art,https://clevelandart.org/art/1933.186
+LIBSRC-LIB51-ENT-SMI-0917530,descriptive_identity,Miscellaneous,https://clevelandart.org/art/1933.186
+LIBSRC-LIB51-ENT-SMI-0932585,material_identity,Silver,https://collectionapi.metmuseum.org/public/collection/v1/objects/3061
+LIBSRC-LIB51-ENT-SMI-0932585,cultural_context,American,https://collectionapi.metmuseum.org/public/collection/v1/objects/3061
+LIBSRC-LIB51-ENT-SMI-0932585,date_or_interval,1710–35,https://collectionapi.metmuseum.org/public/collection/v1/objects/3061
+LIBSRC-LIB51-ENT-SMI-0932585,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/3061
+LIBSRC-LIB51-ENT-SMI-0932585,descriptive_identity,Pipe,https://collectionapi.metmuseum.org/public/collection/v1/objects/3061
+LIBSRC-LIB51-ENT-SMI-0943490,material_identity,Glass,https://collectionapi.metmuseum.org/public/collection/v1/objects/249205
+LIBSRC-LIB51-ENT-SMI-0943490,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/249205
+LIBSRC-LIB51-ENT-SMI-0943490,descriptive_identity,Bead,https://collectionapi.metmuseum.org/public/collection/v1/objects/249205
+LIBSRC-LIB51-ENT-SMI-0935372,technique,"bone, incised",https://clevelandart.org/art/1961.352
+LIBSRC-LIB51-ENT-SMI-0935372,material_identity,"bone, incised",https://clevelandart.org/art/1961.352
+LIBSRC-LIB51-ENT-SMI-0935372,cultural_context,"Iran, early Islamic period",https://clevelandart.org/art/1961.352
+LIBSRC-LIB51-ENT-SMI-0935372,date_or_interval,700s - 900s,https://clevelandart.org/art/1961.352
+LIBSRC-LIB51-ENT-SMI-0935372,collection_object_identifier,T - Islamic,https://clevelandart.org/art/1961.352
+LIBSRC-LIB51-ENT-SMI-0935372,descriptive_identity,Spindle Whorl,https://clevelandart.org/art/1961.352
+LIBSRC-LIB51-ENT-SMI-0943060,material_identity,Flint,https://collectionapi.metmuseum.org/public/collection/v1/objects/324283
+LIBSRC-LIB51-ENT-SMI-0943060,date_or_interval,ca. 7500–4500 BCE (?),https://collectionapi.metmuseum.org/public/collection/v1/objects/324283
+LIBSRC-LIB51-ENT-SMI-0943060,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/324283
+LIBSRC-LIB51-ENT-SMI-0943060,descriptive_identity,Point,https://collectionapi.metmuseum.org/public/collection/v1/objects/324283
+LIBSRC-LIB51-ENT-SMI-0951523,material_identity,Stone,https://collectionapi.metmuseum.org/public/collection/v1/objects/570828
+LIBSRC-LIB51-ENT-SMI-0951523,date_or_interval,ca. 3100–2649 B.C.,https://collectionapi.metmuseum.org/public/collection/v1/objects/570828
+LIBSRC-LIB51-ENT-SMI-0951523,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/570828
+LIBSRC-LIB51-ENT-SMI-0951523,descriptive_identity,"Arrowhead, Projectile Point",https://collectionapi.metmuseum.org/public/collection/v1/objects/570828
+LIBSRC-LIB51-ENT-SMI-0937300,material_identity,Silk; warp faced plain weave,https://collectionapi.metmuseum.org/public/collection/v1/objects/450741
+LIBSRC-LIB51-ENT-SMI-0937300,date_or_interval,13th century,https://collectionapi.metmuseum.org/public/collection/v1/objects/450741
+LIBSRC-LIB51-ENT-SMI-0937300,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/450741
+LIBSRC-LIB51-ENT-SMI-0937300,descriptive_identity,Textile fragment,https://collectionapi.metmuseum.org/public/collection/v1/objects/450741
+LIBSRC-LIB51-ENT-SMI-0936823,material_identity,Flint,https://collectionapi.metmuseum.org/public/collection/v1/objects/590917
+LIBSRC-LIB51-ENT-SMI-0936823,date_or_interval,"ca. 90,000–35,000 B.C.",https://collectionapi.metmuseum.org/public/collection/v1/objects/590917
+LIBSRC-LIB51-ENT-SMI-0936823,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/590917
+LIBSRC-LIB51-ENT-SMI-0936823,descriptive_identity,tool,https://collectionapi.metmuseum.org/public/collection/v1/objects/590917
+LIBSRC-LIB51-ENT-SMI-0931893,material_identity,Glass,https://collectionapi.metmuseum.org/public/collection/v1/objects/249205
+LIBSRC-LIB51-ENT-SMI-0931893,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/249205
+LIBSRC-LIB51-ENT-SMI-0931893,descriptive_identity,Bead,https://collectionapi.metmuseum.org/public/collection/v1/objects/249205
+LIBSRC-LIB51-ENT-SMI-0942615,material_identity,Ceramic,https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+LIBSRC-LIB51-ENT-SMI-0942615,cultural_context,Iran,https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+LIBSRC-LIB51-ENT-SMI-0942615,date_or_interval,ca. 3500–3100 BCE,https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+LIBSRC-LIB51-ENT-SMI-0942615,collection_object_identifier,"Metropolitan Museum of Art, New York, NY",https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+LIBSRC-LIB51-ENT-SMI-0942615,descriptive_identity,Sherd,https://collectionapi.metmuseum.org/public/collection/v1/objects/323645
+LIBSRC-LIB51-ENT-SMI-0939816,technique,Terracotta,https://clevelandart.org/art/1996.301
+LIBSRC-LIB51-ENT-SMI-0939816,material_identity,Terracotta,https://clevelandart.org/art/1996.301
+LIBSRC-LIB51-ENT-SMI-0939816,cultural_context,"Africa, East Africa, South Sudan, probably Li Rangu",https://clevelandart.org/art/1996.301
+LIBSRC-LIB51-ENT-SMI-0939816,date_or_interval,1930s,https://clevelandart.org/art/1996.301
+LIBSRC-LIB51-ENT-SMI-0939816,collection_object_identifier,African Art,https://clevelandart.org/art/1996.301
+LIBSRC-LIB51-ENT-SMI-0939816,descriptive_identity,Vessels,https://clevelandart.org/art/1996.301
+LIBSRC-LIB51-ENT-SMI-0938222,technique,"bone, incised",https://clevelandart.org/art/1961.352
+LIBSRC-LIB51-ENT-SMI-0938222,material_identity,"bone, incised",https://clevelandart.org/art/1961.352
+LIBSRC-LIB51-ENT-SMI-0938222,cultural_context,"Iran, early Islamic period",https://clevelandart.org/art/1961.352
+LIBSRC-LIB51-ENT-SMI-0938222,date_or_interval,700s - 900s,https://clevelandart.org/art/1961.352
+LIBSRC-LIB51-ENT-SMI-0938222,collection_object_identifier,T - Islamic,https://clevelandart.org/art/1961.352
+LIBSRC-LIB51-ENT-SMI-0938222,descriptive_identity,Spindle Whorl,https://clevelandart.org/art/1961.352
+LIBSRC-LIB51-ENT-SMI-0938578,technique,gilt metal,https://clevelandart.org/art/1916.313.c
+LIBSRC-LIB51-ENT-SMI-0938578,material_identity,gilt metal,https://clevelandart.org/art/1916.313.c
+LIBSRC-LIB51-ENT-SMI-0938578,cultural_context,"England, 18th century",https://clevelandart.org/art/1916.313.c
+LIBSRC-LIB51-ENT-SMI-0938578,date_or_interval,c. 1770,https://clevelandart.org/art/1916.313.c
+LIBSRC-LIB51-ENT-SMI-0938578,collection_object_identifier,Decorative Arts,https://clevelandart.org/art/1916.313.c
+LIBSRC-LIB51-ENT-SMI-0938578,descriptive_identity,Miscellaneous,https://clevelandart.org/art/1916.313.c
+LIBSRC-LIB51-ENT-SMI-0933779,technique,"ceramic, slip",https://clevelandart.org/art/2006.157
+LIBSRC-LIB51-ENT-SMI-0933779,material_identity,"ceramic, slip",https://clevelandart.org/art/2006.157
+LIBSRC-LIB51-ENT-SMI-0933779,cultural_context,"Peru, North Highlands, Recuay",https://clevelandart.org/art/2006.157
+LIBSRC-LIB51-ENT-SMI-0933779,date_or_interval,100 BCE–700 CE,https://clevelandart.org/art/2006.157
+LIBSRC-LIB51-ENT-SMI-0933779,collection_object_identifier,AA - Andes,https://clevelandart.org/art/2006.157
+LIBSRC-LIB51-ENT-SMI-0933779,descriptive_identity,Ceramic,https://clevelandart.org/art/2006.157
+LIBSRC-LIB51-ENT-SMI-0932200,technique,color woodcut,https://clevelandart.org/art/2005.433
+LIBSRC-LIB51-ENT-SMI-0932200,material_identity,color woodcut,https://clevelandart.org/art/2005.433
+LIBSRC-LIB51-ENT-SMI-0932200,cultural_context,America,https://clevelandart.org/art/2005.433
+LIBSRC-LIB51-ENT-SMI-0932200,date_or_interval,"1934, printed 1935",https://clevelandart.org/art/2005.433
+LIBSRC-LIB51-ENT-SMI-0932200,collection_object_identifier,PR - Woodcut,https://clevelandart.org/art/2005.433
+LIBSRC-LIB51-ENT-SMI-0932200,descriptive_identity,Print,https://clevelandart.org/art/2005.433
+LIBSRC-LIB51-ENT-SMI-0937829,technique,gold,https://clevelandart.org/art/1953.181
+LIBSRC-LIB51-ENT-SMI-0937829,material_identity,gold,https://clevelandart.org/art/1953.181
+LIBSRC-LIB51-ENT-SMI-0937829,cultural_context,"America, Ohio, Cleveland",https://clevelandart.org/art/1953.181
+LIBSRC-LIB51-ENT-SMI-0937829,date_or_interval,1953,https://clevelandart.org/art/1953.181
+LIBSRC-LIB51-ENT-SMI-0937829,collection_object_identifier,Decorative Arts,https://clevelandart.org/art/1953.181
+LIBSRC-LIB51-ENT-SMI-0937829,descriptive_identity,Jewelry,https://clevelandart.org/art/1953.181
+LIBSRC-LIB51-ENT-SMI-0938131,technique,Point: metal and brass ferrule; handle: wood; sheath: wood,https://clevelandart.org/art/1922.26
+LIBSRC-LIB51-ENT-SMI-0938131,material_identity,Point: metal and brass ferrule; handle: wood; sheath: wood,https://clevelandart.org/art/1922.26
+LIBSRC-LIB51-ENT-SMI-0938131,cultural_context,Philippines,https://clevelandart.org/art/1922.26
+LIBSRC-LIB51-ENT-SMI-0938131,date_or_interval,before 1922,https://clevelandart.org/art/1922.26
+LIBSRC-LIB51-ENT-SMI-0938131,collection_object_identifier,Oceanic Art,https://clevelandart.org/art/1922.26
+LIBSRC-LIB51-ENT-SMI-0938131,descriptive_identity,Arms and Armor,https://clevelandart.org/art/1922.26
+LIBSRC-LIB51-ENT-SMI-0938761,technique,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0938761,material_identity,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0938761,cultural_context,France or Italy,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0938761,date_or_interval,1600s,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0938761,collection_object_identifier,Decorative Arts,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0938761,descriptive_identity,Tools and Equipment,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0932026,technique,painted wood and cowrie shell,https://clevelandart.org/art/1963.553
+LIBSRC-LIB51-ENT-SMI-0932026,material_identity,painted wood and cowrie shell,https://clevelandart.org/art/1963.553
+LIBSRC-LIB51-ENT-SMI-0932026,cultural_context,"Melanesia, Papua New Guinea, central Sepik River region, Arambak People, 20th century",https://clevelandart.org/art/1963.553
+LIBSRC-LIB51-ENT-SMI-0932026,date_or_interval,c. 1920–1930,https://clevelandart.org/art/1963.553
+LIBSRC-LIB51-ENT-SMI-0932026,collection_object_identifier,Oceanic Art,https://clevelandart.org/art/1963.553
+LIBSRC-LIB51-ENT-SMI-0932026,descriptive_identity,Sculpture,https://clevelandart.org/art/1963.553
+LIBSRC-LIB51-ENT-SMI-0940111,technique,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0940111,material_identity,wood,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0940111,cultural_context,France or Italy,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0940111,date_or_interval,1600s,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0940111,collection_object_identifier,Decorative Arts,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0940111,descriptive_identity,Tools and Equipment,https://clevelandart.org/art/1925.754
+LIBSRC-LIB51-ENT-SMI-0938011,technique,wood,https://clevelandart.org/art/1971.155
+LIBSRC-LIB51-ENT-SMI-0938011,material_identity,wood,https://clevelandart.org/art/1971.155
+LIBSRC-LIB51-ENT-SMI-0938011,cultural_context,"Melanesia, New Guinea, Massim Area, Trobriand Islands, 20th century",https://clevelandart.org/art/1971.155
+LIBSRC-LIB51-ENT-SMI-0938011,date_or_interval,before 1930,https://clevelandart.org/art/1971.155
+LIBSRC-LIB51-ENT-SMI-0938011,collection_object_identifier,Oceanic Art,https://clevelandart.org/art/1971.155
+LIBSRC-LIB51-ENT-SMI-0938011,descriptive_identity,Sculpture,https://clevelandart.org/art/1971.155
