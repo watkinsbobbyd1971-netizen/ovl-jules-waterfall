@@ -1,0 +1,123 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_15-ERA_06-2015-ACC05-HOP994-REC198652,elevation,660000.0,http://www.wikidata.org/entity/Q2459597
+IDB-REG_02-CAT_15-ERA_06-2015-ACC05-HOP994-REC198652,location,"{""lat"": 42.515634, ""lon"": 24.076981}",http://www.wikidata.org/entity/Q2459597
+IDB-REG_02-CAT_15-ERA_06-2015-ACC05-HOP995-REC198862,elevation,197000.0,http://www.wikidata.org/entity/Q1085503
+IDB-REG_02-CAT_15-ERA_06-2015-ACC05-HOP995-REC198862,location,"{""lat"": 42.142438, ""lon"": 24.455508}",http://www.wikidata.org/entity/Q1085503
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1004-REC200612,elevation,4070000.0,http://www.wikidata.org/entity/Q35045
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1004-REC200612,location,"{""lat"": -19.589166666, ""lon"": -65.753333333}",http://www.wikidata.org/entity/Q35045
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1006-REC201032,elevation,207000.0,http://www.wikidata.org/entity/Q22015725
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1006-REC201032,location,"{""lat"": -5.633333333, ""lon"": -55.783333333}",http://www.wikidata.org/entity/Q22015725
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1014-REC202712,elevation,121000.0,http://www.wikidata.org/entity/Q22053363
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1014-REC202712,location,"{""lat"": -7.3, ""lon"": -60.366666666}",http://www.wikidata.org/entity/Q22053363
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1018-REC203552,elevation,9000.0,http://www.wikidata.org/entity/Q1708491
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1018-REC203552,location,"{""lat"": 23.178888, ""lon"": -75.094167}",http://www.wikidata.org/entity/Q1708491
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1026-REC205022,location,"{""lat"": 51.20321, ""lon"": -117.56393}",http://www.wikidata.org/entity/Q22580490
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1027-REC205232,location,"{""lat"": 54.11638, ""lon"": -128.10341}",http://www.wikidata.org/entity/Q22563167
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1030-REC205862,location,"{""lat"": 66.50354, ""lon"": -65.35838}",http://www.wikidata.org/entity/Q22611284
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1037-REC207332,elevation,389000.0,http://www.wikidata.org/entity/Q383736
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1037-REC207332,location,"{""lat"": -4.55, ""lon"": 18.58333333}",http://www.wikidata.org/entity/Q383736
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1039-REC207752,elevation,165000.0,http://www.wikidata.org/entity/Q21930
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1039-REC207752,location,"{""lat"": 49.101111111, ""lon"": 6.086111111}",http://www.wikidata.org/entity/Q21930
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1040-REC207962,elevation,3138000.0,http://www.wikidata.org/entity/Q670246
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1040-REC207962,location,"{""lat"": 46.810277777, ""lon"": 8.774722222}",http://www.wikidata.org/entity/Q670246
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1047-REC209222,elevation,87000.0,http://www.wikidata.org/entity/Q201050
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1047-REC209222,location,"{""lat"": -37.133333333, ""lon"": -72.533333333}",http://www.wikidata.org/entity/Q201050
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1050-REC209852,elevation,4107000.0,http://www.wikidata.org/entity/Q3099455
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1050-REC209852,location,"{""lat"": -35.2728, ""lon"": -70.5817}",http://www.wikidata.org/entity/Q3099455
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1051-REC210062,location,"{""lat"": 11.0983, ""lon"": 14.3578}",http://www.wikidata.org/entity/Q59135397
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1056-REC211112,location,"{""lat"": 31.566667, ""lon"": 120.283333}",http://www.wikidata.org/entity/Q42651
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1059-REC211742,location,"{""lat"": 30.94662, ""lon"": 104.39422}",http://www.wikidata.org/entity/Q10475963
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1071-REC214052,location,"{""lat"": 38.04292, ""lon"": 113.44434}",http://www.wikidata.org/entity/Q14029603
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1087-REC217202,location,"{""lat"": -51.0675, ""lon"": -73.007777777}",http://www.wikidata.org/entity/Q38709
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1089-REC217622,elevation,85000.0,http://www.wikidata.org/entity/Q1936053
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1089-REC217622,location,"{""lat"": 23.043611111, ""lon"": -82.332777777}",http://www.wikidata.org/entity/Q1936053
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1097-REC219302,elevation,33000.0,http://www.wikidata.org/entity/Q585613
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1097-REC219302,location,"{""lat"": 52.6882194, ""lon"": 13.1775867}",http://www.wikidata.org/entity/Q585613
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1098-REC219512,elevation,50000.0,http://www.wikidata.org/entity/Q16052
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1098-REC219512,location,"{""lat"": 52.396111111, ""lon"": 9.598055555}",http://www.wikidata.org/entity/Q16052
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1098-REC219512,geometry_with_crs,http://commons.wikimedia.org/data/main/Data:Deutschland/Niedersachsen/Seelze.map,http://www.wikidata.org/entity/Q16052
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1099-REC219722,elevation,476000.0,http://www.wikidata.org/entity/Q32064
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1099-REC219722,location,"{""lat"": 49.85, ""lon"": 12.116666666}",http://www.wikidata.org/entity/Q32064
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1101-REC220142,elevation,180000.0,http://www.wikidata.org/entity/Q532167
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1101-REC220142,location,"{""lat"": 48.286944444, ""lon"": 7.811388888}",http://www.wikidata.org/entity/Q532167
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1102-REC220352,elevation,266000.0,http://www.wikidata.org/entity/Q570077
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1102-REC220352,location,"{""lat"": 50.766666666, ""lon"": 9.1}",http://www.wikidata.org/entity/Q570077
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1105-REC220982,elevation,395000.0,http://www.wikidata.org/entity/Q521067
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1105-REC220982,location,"{""lat"": 48.866666666, ""lon"": 11.066666666}",http://www.wikidata.org/entity/Q521067
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1108-REC221402,elevation,1293000.0,http://www.wikidata.org/entity/Q57572842
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1108-REC221402,location,"{""lat"": 49.2033262, ""lon"": 13.109741}",http://www.wikidata.org/entity/Q57572842
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1121-REC224132,location,"{""lat"": 48.5556, ""lon"": 9.3925}",http://www.wikidata.org/entity/Q680124
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1122-REC224342,location,"{""lat"": 50.0902465, ""lon"": 14.40008685}",http://www.wikidata.org/entity/Q1723373
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1123-REC224552,elevation,10000.0,http://www.wikidata.org/entity/Q983900
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1123-REC224552,location,"{""lat"": 11.46111111, ""lon"": 43.25277778}",http://www.wikidata.org/entity/Q983900
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1124-REC224762,elevation,33000.0,http://www.wikidata.org/entity/Q23753259
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1124-REC224762,location,"{""lat"": 56.16646, ""lon"": 9.54511}",http://www.wikidata.org/entity/Q23753259
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1125-REC224972,elevation,923000.0,http://www.wikidata.org/entity/Q23779684
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1125-REC224972,location,"{""lat"": 19.09627, ""lon"": -70.59603}",http://www.wikidata.org/entity/Q23779684
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1126-REC225182,elevation,204000.0,http://www.wikidata.org/entity/Q2215511
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1126-REC225182,location,"{""lat"": 34.383333333, ""lon"": 4.983333333}",http://www.wikidata.org/entity/Q2215511
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1162-REC232322,location,"{""lat"": 40.44629, ""lon"": -3.67769}",http://www.wikidata.org/entity/Q24019752
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1167-REC233372,location,"{""lat"": 43.339805, ""lon"": -1.787768}",http://www.wikidata.org/entity/Q9046925
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1179-REC235682,elevation,93700.0,http://www.wikidata.org/entity/Q845891
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1179-REC235682,location,"{""lat"": 63.2509795, ""lon"": 29.6993748}",http://www.wikidata.org/entity/Q845891
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1180-REC235892,elevation,58000.0,http://www.wikidata.org/entity/Q662434
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1180-REC235892,location,"{""lat"": 60.253888888, ""lon"": 25.044166666}",http://www.wikidata.org/entity/Q662434
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1187-REC237362,elevation,14000.0,http://www.wikidata.org/entity/Q1022784
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1187-REC237362,location,"{""lat"": 50.778055555, ""lon"": 1.738333333}",http://www.wikidata.org/entity/Q1022784
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1192-REC238202,elevation,180000.0,http://www.wikidata.org/entity/Q1146880
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1192-REC238202,location,"{""lat"": 46.854166666, ""lon"": 3.181666666}",http://www.wikidata.org/entity/Q1146880
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1195-REC238832,elevation,0.0,http://www.wikidata.org/entity/Q81909
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1195-REC238832,location,"{""lat"": 45.623055555, ""lon"": -1.043055555}",http://www.wikidata.org/entity/Q81909
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1199-REC239672,elevation,75000.0,http://www.wikidata.org/entity/Q1028417
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1199-REC239672,location,"{""lat"": 50.545, ""lon"": 2.165}",http://www.wikidata.org/entity/Q1028417
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1200-REC239882,elevation,57000.0,http://www.wikidata.org/entity/Q469206
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1200-REC239882,location,"{""lat"": 50.284166666, ""lon"": 2.258055555}",http://www.wikidata.org/entity/Q469206
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1203-REC240512,elevation,17000.0,http://www.wikidata.org/entity/Q783954
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1203-REC240512,location,"{""lat"": 49.127777777, ""lon"": -1.214722222}",http://www.wikidata.org/entity/Q783954
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1210-REC241982,elevation,104000.0,http://www.wikidata.org/entity/Q1167466
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1210-REC241982,location,"{""lat"": 48.056388888, ""lon"": 2.295277777}",http://www.wikidata.org/entity/Q1167466
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1211-REC242192,elevation,42000.0,http://www.wikidata.org/entity/Q209005
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1211-REC242192,location,"{""lat"": 48.791944444, ""lon"": 2.331944444}",http://www.wikidata.org/entity/Q209005
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1213-REC242402,elevation,80000.0,http://www.wikidata.org/entity/Q1104093
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1213-REC242402,location,"{""lat"": 47.312777777, ""lon"": -0.835277777}",http://www.wikidata.org/entity/Q1104093
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1214-REC242612,elevation,48000.0,http://www.wikidata.org/entity/Q1098938
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1214-REC242612,location,"{""lat"": 49.284722222, ""lon"": 2.877222222}",http://www.wikidata.org/entity/Q1098938
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1215-REC242822,elevation,190000.0,http://www.wikidata.org/entity/Q782007
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1215-REC242822,location,"{""lat"": 43.378611111, ""lon"": 0.406111111}",http://www.wikidata.org/entity/Q782007
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1218-REC243452,elevation,292000.0,http://www.wikidata.org/entity/Q354088
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1218-REC243452,location,"{""lat"": 47.709722222, ""lon"": 6.397777777}",http://www.wikidata.org/entity/Q354088
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1230-REC245972,location,"{""lat"": -0.816666666, ""lon"": 12.55}",http://www.wikidata.org/entity/Q24635661
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1238-REC247442,location,"{""lat"": 51.615707, ""lon"": -3.7978536}",http://www.wikidata.org/entity/Q24660542
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1239-REC247652,location,"{""lat"": 52.3479, ""lon"": 1.2614}",http://www.wikidata.org/entity/Q8025197
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1243-REC248492,location,"{""lat"": 51.6882, ""lon"": -0.660737}",http://www.wikidata.org/entity/Q17644896
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1297-REC259202,location,"{""lat"": 3.03333, ""lon"": -59.95}",http://www.wikidata.org/entity/Q25237692
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1298-REC259412,location,"{""lat"": 6.883333333, ""lon"": -60.25}",http://www.wikidata.org/entity/Q25248349
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1302-REC260252,location,"{""lat"": 45.98333333, ""lon"": 18.78333333}",http://www.wikidata.org/entity/Q1054831
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1305-REC260882,elevation,526000.0,http://www.wikidata.org/entity/Q1936851
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1305-REC260882,location,"{""lat"": -7.926388888, ""lon"": 112.714444444}",http://www.wikidata.org/entity/Q1936851
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1307-REC261302,elevation,60000.0,http://www.wikidata.org/entity/Q987759
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1307-REC261302,location,"{""lat"": 52.502064, ""lon"": -6.565876}",http://www.wikidata.org/entity/Q987759
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1308-REC261512,location,"{""lat"": 51.84692, ""lon"": -9.10507}",http://www.wikidata.org/entity/Q56361719
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1315-REC262982,elevation,955000.0,http://www.wikidata.org/entity/Q4916369
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1315-REC262982,location,"{""lat"": 32.97967222, ""lon"": 35.49761944}",http://www.wikidata.org/entity/Q4916369
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1323-REC264452,elevation,10000.0,http://www.wikidata.org/entity/Q2483836
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1323-REC264452,location,"{""lat"": 16.02, ""lon"": 80.85}",http://www.wikidata.org/entity/Q2483836
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1325-REC264872,location,"{""lat"": 18.63428056, ""lon"": 72.86416944}",http://www.wikidata.org/entity/Q3824083
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1326-REC265082,elevation,585000.0,http://www.wikidata.org/entity/Q1706414
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1326-REC265082,location,"{""lat"": 13.92, ""lon"": 75.07}",http://www.wikidata.org/entity/Q1706414
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1327-REC265292,elevation,52000.0,http://www.wikidata.org/entity/Q1136189
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1327-REC265292,location,"{""lat"": 26.156999, ""lon"": 85.8995065}",http://www.wikidata.org/entity/Q1136189
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1330-REC265922,elevation,233000.0,http://www.wikidata.org/entity/Q7131860
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1330-REC265922,location,"{""lat"": 29.032222222, ""lon"": 79.474166666}",http://www.wikidata.org/entity/Q7131860
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1371-REC274112,location,"{""lat"": 35.464722222, ""lon"": 53.066388888}",http://www.wikidata.org/entity/Q26871954
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1375-REC274952,location,"{""lat"": 35.77796, ""lon"": 54.36779}",http://www.wikidata.org/entity/Q26858508
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1378-REC275582,elevation,2085000.0,http://www.wikidata.org/entity/Q25664476
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1378-REC275582,location,"{""lat"": 36.91596, ""lon"": 50.04419}",http://www.wikidata.org/entity/Q25664476
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1418-REC283562,location,"{""lat"": 33.836944444, ""lon"": 59.356666666}",http://www.wikidata.org/entity/Q26875358
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1426-REC285032,elevation,639000.0,http://www.wikidata.org/entity/Q31766912
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1426-REC285032,location,"{""lat"": 31.665555555, ""lon"": 70.150833333}",http://www.wikidata.org/entity/Q31766912
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1428-REC285452,elevation,1038000.0,http://www.wikidata.org/entity/Q21745145
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1428-REC285452,location,"{""lat"": 32.05, ""lon"": 63.966666666}",http://www.wikidata.org/entity/Q21745145
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1433-REC286502,elevation,2355000.0,http://www.wikidata.org/entity/Q21777478
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1433-REC286502,location,"{""lat"": 32.804444444, ""lon"": 69.396388888}",http://www.wikidata.org/entity/Q21777478
+IDB-REG_02-CAT_16-ERA_06-2015-ACC05-HOP1437-REC287342,location,"{""lat"": 36.893611, ""lon"": 54.220556}",http://www.wikidata.org/entity/Q5298703
