@@ -1,0 +1,4 @@
+Sources used:
+- GBIF Species Match API (https://api.gbif.org/v1/species/match)
+- GBIF Species Information API (https://api.gbif.org/v1/species/{usageKey})
+Mapped fields `scientificName` to `scientific_identity`, `authorship` to `taxon_authority`, `vernacularName`/`canonicalName` to `identity_label`, and `rank` to `descriptive_identity`.
