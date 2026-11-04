@@ -1,0 +1,5 @@
+Attempted sources:
+- Smithsonian Open Access API (https://api.si.edu/openaccess/api/v1.0/search)
+
+Results:
+- Smithsonian API returned HTTP 429 Too Many Requests (OVER_RATE_LIMIT) due to DEMO_KEY constraints.
