@@ -1,0 +1,3 @@
+Attempted to query Wikidata (SPARQL and entity API) for electronic components (Q11653, Q2858615) matching subject names.
+Subjects in this chunk appear to be generic words, verbs, and non-electronics terms (e.g., 'joyous', 'unearned run', 'by-election').
+No matching electronic components properties were found. Output is empty.
