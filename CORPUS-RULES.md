@@ -1,6 +1,8 @@
 # CORPUS-RULES.md: read this first. Where it differs from AGENTS.md, this file wins.
 
-Files that break these rules are thrown away whole, so a single bad habit loses the whole chunk. Nearly 90 percent of earlier rows were lost this way, mostly to the first two rules. A short, correct file is worth far more than a long one.
+**Aim for measurements, materials, dates and creators, each with a per-entity source. Leave a row empty otherwise.** These are what the table lacks. A file of ten real measurements is worth more than a thousand rows that restate what's already known.
+
+Files that break these rules are thrown away whole, so a single bad habit loses the whole chunk.
 
 ## Before you commit
 Run `python3 check_output.py out/<category>/chunk-NNNN.csv`, and fix or remove rows until it prints READY and exits 0. `--fix` corrects value form and removes every row that still fails; then run it again without `--fix`. Don't commit a file that isn't READY, and don't edit the script. Commit only your output file, and its notes file if it's empty.
@@ -13,5 +15,6 @@ Run `python3 check_output.py out/<category>/chunk-NNNN.csv`, and fix or remove r
 5. **One entity per key.** All of a key's rows cite the same entity. Never put one entity on two keys unless both keys name that same thing.
 6. **Exact name and class check.** Before writing a row, check that the entity's name matches `subject_name` and that it is the same kind of thing as this category: a ship for watercraft, a taxon for mammal. A shared name isn't a match: *Apollo* the spacecraft, the god and the theatre are different entities. If you can't tell, skip the subject.
 7. **Height is never `dimension_length`.** That column means length only. A height, width, diameter, depth or thickness goes nowhere, so leave it out. A building's height isn't its length.
-8. **Empty beats a guess.** No estimates, averages, typical values, values for a similar thing, or placeholders such as `unknown`. A subject with nothing sourced simply has no rows. An empty file with a notes file is a valid result.
-9. **Skip what bulk already has.** Never fill a column named in SKIP_COLUMNS.txt on this branch: open data joins already cover it. Spend your effort on the other columns in COLUMNS.csv, above all real measurements.
+8. **Never repeat the subject.** A value that only restates `subject_name` is padding, even with a real source, and it fails the file. Every cell must add a fact the subject's name doesn't already give.
+9. **Empty beats a guess.** No estimates, averages, typical values, values for a similar thing, or placeholders such as `unknown`. A subject with nothing sourced simply has no rows. An empty file with a notes file is a valid result, and better than padding.
+10. **Skip what's already covered.** Never fill a column named in SKIP_COLUMNS.txt on this branch. `identity_label` is always on it: the subject's name is already known.
