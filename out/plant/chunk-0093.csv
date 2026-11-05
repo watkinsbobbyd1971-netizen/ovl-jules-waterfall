@@ -1,0 +1,9 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-1468415,life_stage,"""fruiting""",https://api.gbif.org/v1/species/3799241
+LIBSRC-LIB50-ENT-BIO-1470445,life_stage,"""flowering""",https://api.gbif.org/v1/species/3802855
+LIBSRC-LIB50-ENT-BIO-1474405,life_stage,"""flowering""",https://api.gbif.org/v1/species/3797743
+LIBSRC-LIB50-ENT-BIO-1482325,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/2928755
+LIBSRC-LIB50-ENT-BIO-1497495,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/2932938
+LIBSRC-LIB50-ENT-BIO-1501425,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/2929691
+LIBSRC-LIB50-ENT-BIO-1527515,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/8300519
+LIBSRC-LIB50-ENT-BIO-1528265,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/3033746
