@@ -1,0 +1,8 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG05-CAT11-ERA07-2020S-PSOAS-MAJOR-MUSCLE-JAPANESE-CT,anatomical_identity,"""psoas major muscle""",https://www.wikidata.org/wiki/Q1936306
+IDB-REG06-CAT11-ERA07-2020S-NGA-FEMUR-PROXIMAL-2026,anatomical_identity,"""femoral head""",https://www.wikidata.org/wiki/Q1313620
+IDB-REG06-CAT11-ERA07-2020S-ETH-KIDNEY-RENAL-2024,anatomical_identity,"""kidney""",https://www.wikidata.org/wiki/Q9377
+IDB-REG06-CAT11-ERA07-2020S-NGA-KIDNEY-RENAL-2026,anatomical_identity,"""kidney""",https://www.wikidata.org/wiki/Q9377
+IDB-REG06-CAT11-ERA07-2020S-NGA-KIDNEY-RENAL-2026-2,anatomical_identity,"""kidney""",https://www.wikidata.org/wiki/Q9377
+IDB-REG06-CAT11-ERA07-2020S-NGA-FEMUR-PROXIMAL-2025-2,anatomical_identity,"""femoral head""",https://www.wikidata.org/wiki/Q1313620
+IDB-REG06-CAT11-ERA07-2020S-NGA-FEMUR-PROXIMAL-2025,anatomical_identity,"""femoral head""",https://www.wikidata.org/wiki/Q1313620
