@@ -1,0 +1,5 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB44-ENT-VEH-0007322,manufacturer_or_creator,"""Airspeed Ltd.""",https://www.wikidata.org/wiki/Q2828754
+LIBSRC-LIB44-ENT-VEH-0010041,manufacturer_or_creator,"""TeST""",https://www.wikidata.org/wiki/Q7690723
+LIBSRC-LIB44-ENT-VEH-0007561,mass,13155000.0,https://www.wikidata.org/wiki/Q30177686
+LIBSRC-LIB44-ENT-VEH-0008903,manufacturer_or_creator,"""Aerospace Industrial Development Corporation""",https://www.wikidata.org/wiki/Q53727989
