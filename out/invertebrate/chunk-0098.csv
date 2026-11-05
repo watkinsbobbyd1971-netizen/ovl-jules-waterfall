@@ -1,0 +1,7 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-0182651,occurrence_context,"""TERRESTRE""",https://api.gbif.org/v1/species/1639127
+LIBSRC-LIB50-ENT-BIO-1936631,occurrence_context,"""TERRESTRE""",https://api.gbif.org/v1/species/7031139
+LIBSRC-LIB50-ENT-BIO-1941851,occurrence_context,"""Wetlands (inland)""",https://api.gbif.org/v1/species/2298076
+LIBSRC-LIB50-ENT-BIO-0193931,occurrence_context,"""MARINHO""",https://api.gbif.org/v1/species/2498512
+LIBSRC-LIB50-ENT-BIO-1932521,occurrence_context,"""TERRESTRE""",https://api.gbif.org/v1/species/7352889
+LIBSRC-LIB50-ENT-BIO-0186841,occurrence_context,"""TERRESTRE""",https://api.gbif.org/v1/species/1638082
