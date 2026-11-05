@@ -1,0 +1,5 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-0317495,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/7717074
+LIBSRC-LIB50-ENT-BIO-0329185,occurrence_context,"""marine""",https://api.gbif.org/v1/species/8419047
+LIBSRC-LIB50-ENT-BIO-0375515,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/6357465
+LIBSRC-LIB50-ENT-BIO-0376375,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/5499914
