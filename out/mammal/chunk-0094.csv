@@ -1,0 +1,4 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_05-CAT_13-ERA_07-2025-ACC04-HOP16543-REC3308515,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/7705930
+IDB-REG_05-CAT_13-ERA_07-2025-ACC04-HOP17898-REC3579415,occurrence_context,"""marine""",https://api.gbif.org/v1/species/2433485
+IDB-REG_05-CAT_13-ERA_07-2025-ACC04-HOP14027-REC2805215,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/5219404
