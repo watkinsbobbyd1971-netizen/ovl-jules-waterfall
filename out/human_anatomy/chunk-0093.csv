@@ -1,0 +1,8 @@
+canonical_dedup_key,column_name,value,source_url
+CORPUS-HUMAN-HUM-HAIR-0000121,anatomical_identity,"""hair""",https://www.wikidata.org/wiki/Q1165499
+CORPUS-HUMAN-HUM-LIMB-0000213,anatomical_identity,"""knee""",https://www.wikidata.org/wiki/Q25379686
+CORPUS-HUMAN-HUM-LIMB-0000293,anatomical_identity,"""torso""",https://www.wikidata.org/wiki/Q27950665
+CORPUS-HUMAN-HUM-PART-0000209,anatomical_identity,"""teeth""",https://www.wikidata.org/wiki/Q553
+CORPUS-HUMAN-HUM-LIMB-0000314,anatomical_identity,"""chest""",https://www.wikidata.org/wiki/Q5093377
+CORPUS-HUMAN-HUM-FOOT-0000096,anatomical_identity,"""foot""",https://www.wikidata.org/wiki/Q3710
+CORPUS-HUMAN-HUM-PART-0000372,anatomical_identity,"""neck""",https://www.wikidata.org/wiki/Q37493495
