@@ -1,0 +1,16 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-2501916,occurrence_context,"""freshwater""",https://api.gbif.org/v1/species/2358585
+LIBSRC-LIB50-ENT-BIO-2545724,occurrence_context,"""marine""",https://api.gbif.org/v1/species/9138174
+LIBSRC-LIB50-ENT-BIO-2527011,occurrence_context,"""marine""",https://api.gbif.org/v1/species/2114431
+LIBSRC-LIB50-ENT-BIO-2544162,occurrence_context,"""freshwater""",https://api.gbif.org/v1/species/8335554
+LIBSRC-LIB50-ENT-BIO-2499699,occurrence_context,"""marine""",https://api.gbif.org/v1/species/7356572
+LIBSRC-LIB50-ENT-BIO-2544972,occurrence_context,"""marine""",https://api.gbif.org/v1/species/1006482
+LIBSRC-LIB50-ENT-BIO-2498566,occurrence_context,"""marine""",https://api.gbif.org/v1/species/2369370
+LIBSRC-LIB50-ENT-BIO-2511743,occurrence_context,"""marine""",https://api.gbif.org/v1/species/2244505
+LIBSRC-LIB50-ENT-BIO-2499573,occurrence_context,"""marine""",https://api.gbif.org/v1/species/5166471
+LIBSRC-LIB50-ENT-BIO-2497844,occurrence_context,"""marine""",https://api.gbif.org/v1/species/7610542
+LIBSRC-LIB50-ENT-BIO-2498226,occurrence_context,"""freshwater""",https://api.gbif.org/v1/species/5205388
+LIBSRC-LIB50-ENT-BIO-2544557,occurrence_context,"""marine""",https://api.gbif.org/v1/species/4329775
+LIBSRC-LIB50-ENT-BIO-2542941,occurrence_context,"""marine""",https://api.gbif.org/v1/species/9413483
+LIBSRC-LIB50-ENT-BIO-2532859,occurrence_context,"""marine""",https://api.gbif.org/v1/species/2379471
+LIBSRC-LIB50-ENT-BIO-2544258,occurrence_context,"""marine""",https://api.gbif.org/v1/species/2418976
