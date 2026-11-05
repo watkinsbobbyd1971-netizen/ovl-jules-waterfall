@@ -1,0 +1,711 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB34-ENT-GEO-0100133,location,Greece,https://www.wikidata.org/wiki/Q4696528
+LIBSRC-LIB34-ENT-GEO-0100133,construction_date,1970-01-01,https://www.wikidata.org/wiki/Q4696528
+LIBSRC-LIB34-ENT-GEO-0100133,descriptive_identity,archaeological museum,https://www.wikidata.org/wiki/Q4696528
+LIBSRC-LIB34-ENT-GEO-0100203,location,Greece,https://www.wikidata.org/wiki/Q25452441
+LIBSRC-LIB34-ENT-GEO-0100203,construction_date,1978-01-01,https://www.wikidata.org/wiki/Q25452441
+LIBSRC-LIB34-ENT-GEO-0100203,descriptive_identity,archaeological museum,https://www.wikidata.org/wiki/Q25452441
+LIBSRC-LIB34-ENT-GEO-0100693,descriptive_identity,female given name,https://www.wikidata.org/wiki/Q20001386
+LIBSRC-LIB34-ENT-GEO-0100783,location,Greece,https://www.wikidata.org/wiki/Q3983221
+LIBSRC-LIB34-ENT-GEO-0100783,construction_date,-0619-01-01,https://www.wikidata.org/wiki/Q3983221
+LIBSRC-LIB34-ENT-GEO-0100783,descriptive_identity,ancient Greek temple,https://www.wikidata.org/wiki/Q3983221
+LIBSRC-LIB34-ENT-GEO-0100433,location,Greece,https://www.wikidata.org/wiki/Q1160691
+LIBSRC-LIB34-ENT-GEO-0100433,construction_date,-0400-01-01,https://www.wikidata.org/wiki/Q1160691
+LIBSRC-LIB34-ENT-GEO-0100433,descriptive_identity,Choragic Monument,https://www.wikidata.org/wiki/Q1160691
+LIBSRC-LIB34-ENT-GEO-0100333,location,Greece,https://www.wikidata.org/wiki/Q931371
+LIBSRC-LIB34-ENT-GEO-0100333,construction_date,1320-01-01,https://www.wikidata.org/wiki/Q931371
+LIBSRC-LIB34-ENT-GEO-0100333,material_identity,stone,https://www.wikidata.org/wiki/Q931371
+LIBSRC-LIB34-ENT-GEO-0100333,descriptive_identity,palace,https://www.wikidata.org/wiki/Q931371
+LIBSRC-LIB34-ENT-GEO-0100413,location,Greece,https://www.wikidata.org/wiki/Q38283965
+LIBSRC-LIB34-ENT-GEO-0100413,descriptive_identity,monastery,https://www.wikidata.org/wiki/Q38283965
+LIBSRC-LIB34-ENT-GEO-0100293,location,Greece,https://www.wikidata.org/wiki/Q611427
+LIBSRC-LIB34-ENT-GEO-0100293,construction_date,1573-01-01,https://www.wikidata.org/wiki/Q611427
+LIBSRC-LIB34-ENT-GEO-0100293,descriptive_identity,castle,https://www.wikidata.org/wiki/Q611427
+LIBSRC-LIB34-ENT-GEO-0101103,location,Guatemala,https://www.wikidata.org/wiki/Q1753887
+LIBSRC-LIB34-ENT-GEO-0101103,construction_date,1935-01-01,https://www.wikidata.org/wiki/Q1753887
+LIBSRC-LIB34-ENT-GEO-0101103,descriptive_identity,built structure,https://www.wikidata.org/wiki/Q1753887
+LIBSRC-LIB34-ENT-GEO-0103873,location,Ireland,https://www.wikidata.org/wiki/Q14918708
+LIBSRC-LIB34-ENT-GEO-0103873,descriptive_identity,castle,https://www.wikidata.org/wiki/Q14918708
+LIBSRC-LIB34-ENT-GEO-0103883,location,Ireland,https://www.wikidata.org/wiki/Q56368000
+LIBSRC-LIB34-ENT-GEO-0103883,descriptive_identity,castle,https://www.wikidata.org/wiki/Q56368000
+LIBSRC-LIB34-ENT-GEO-0104093,location,Ireland,https://www.wikidata.org/wiki/Q1431699
+LIBSRC-LIB34-ENT-GEO-0104093,descriptive_identity,airport,https://www.wikidata.org/wiki/Q1431699
+LIBSRC-LIB34-ENT-GEO-0105523,location,Israel,https://www.wikidata.org/wiki/Q16133224
+LIBSRC-LIB34-ENT-GEO-0104233,location,Ireland,https://www.wikidata.org/wiki/Q56358655
+LIBSRC-LIB34-ENT-GEO-0104233,descriptive_identity,castle,https://www.wikidata.org/wiki/Q56358655
+LIBSRC-LIB34-ENT-GEO-0106913,location,India,https://www.wikidata.org/wiki/Q106900569
+LIBSRC-LIB34-ENT-GEO-0106913,descriptive_identity,administrative territorial entity,https://www.wikidata.org/wiki/Q106900569
+LIBSRC-LIB34-ENT-GEO-0106963,location,India,https://www.wikidata.org/wiki/Q11939965
+LIBSRC-LIB34-ENT-GEO-0106963,descriptive_identity,fortress,https://www.wikidata.org/wiki/Q11939965
+LIBSRC-LIB34-ENT-GEO-0104173,location,Ireland,https://www.wikidata.org/wiki/Q20722243
+LIBSRC-LIB34-ENT-GEO-0104173,descriptive_identity,castle,https://www.wikidata.org/wiki/Q20722243
+LIBSRC-LIB34-ENT-GEO-0107643,location,India,https://www.wikidata.org/wiki/Q31200901
+LIBSRC-LIB34-ENT-GEO-0107643,descriptive_identity,hill,https://www.wikidata.org/wiki/Q31200901
+LIBSRC-LIB34-ENT-GEO-0108033,location,India,https://www.wikidata.org/wiki/Q26792477
+LIBSRC-LIB34-ENT-GEO-0108033,descriptive_identity,swamp,https://www.wikidata.org/wiki/Q26792477
+LIBSRC-LIB34-ENT-GEO-0107523,location,India,https://www.wikidata.org/wiki/Q180422
+LIBSRC-LIB34-ENT-GEO-0107523,construction_date,1589-01-01,https://www.wikidata.org/wiki/Q180422
+LIBSRC-LIB34-ENT-GEO-0107523,descriptive_identity,gurdwara,https://www.wikidata.org/wiki/Q180422
+LIBSRC-LIB34-ENT-GEO-0107953,location,United Kingdom,https://www.wikidata.org/wiki/Q189592
+LIBSRC-LIB34-ENT-GEO-0107953,descriptive_identity,county of Northern Ireland,https://www.wikidata.org/wiki/Q189592
+LIBSRC-LIB34-ENT-GEO-0108073,location,India,https://www.wikidata.org/wiki/Q7286282
+LIBSRC-LIB34-ENT-GEO-0108073,descriptive_identity,abandoned airport,https://www.wikidata.org/wiki/Q7286282
+LIBSRC-LIB34-ENT-GEO-0108273,location,India,https://www.wikidata.org/wiki/Q4734443
+LIBSRC-LIB34-ENT-GEO-0108273,descriptive_identity,airport,https://www.wikidata.org/wiki/Q4734443
+LIBSRC-LIB34-ENT-GEO-0108253,construction_date,1792-01-01,https://www.wikidata.org/wiki/Q83553014
+LIBSRC-LIB34-ENT-GEO-0108253,material_identity,watercolor paint,https://www.wikidata.org/wiki/Q83553014
+LIBSRC-LIB34-ENT-GEO-0108253,descriptive_identity,painting,https://www.wikidata.org/wiki/Q83553014
+LIBSRC-LIB34-ENT-GEO-0108313,location,India,https://www.wikidata.org/wiki/Q924451
+LIBSRC-LIB34-ENT-GEO-0108243,location,India,https://www.wikidata.org/wiki/Q2757538
+LIBSRC-LIB34-ENT-GEO-0108243,construction_date,1799-01-01,https://www.wikidata.org/wiki/Q2757538
+LIBSRC-LIB34-ENT-GEO-0108243,descriptive_identity,artificial island,https://www.wikidata.org/wiki/Q2757538
+LIBSRC-LIB34-ENT-GEO-0108683,location,India,https://www.wikidata.org/wiki/Q97147996
+LIBSRC-LIB34-ENT-GEO-0108683,descriptive_identity,Hindu temple,https://www.wikidata.org/wiki/Q97147996
+LIBSRC-LIB34-ENT-GEO-0108903,location,India,https://www.wikidata.org/wiki/Q140139147
+LIBSRC-LIB34-ENT-GEO-0108773,location,India,https://www.wikidata.org/wiki/Q186182
+LIBSRC-LIB34-ENT-GEO-0108773,descriptive_identity,city,https://www.wikidata.org/wiki/Q186182
+LIBSRC-LIB34-ENT-GEO-0108943,location,India,https://www.wikidata.org/wiki/Q60742009
+LIBSRC-LIB34-ENT-GEO-0108943,descriptive_identity,village in India,https://www.wikidata.org/wiki/Q60742009
+LIBSRC-LIB34-ENT-GEO-0108553,location,India,https://www.wikidata.org/wiki/Q91666891
+LIBSRC-LIB34-ENT-GEO-0108553,descriptive_identity,administrative territorial entity,https://www.wikidata.org/wiki/Q91666891
+LIBSRC-LIB34-ENT-GEO-0109003,descriptive_identity,family name,https://www.wikidata.org/wiki/Q21510431
+LIBSRC-LIB34-ENT-GEO-0109173,location,India,https://www.wikidata.org/wiki/Q26803900
+LIBSRC-LIB34-ENT-GEO-0109173,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q26803900
+LIBSRC-LIB34-ENT-GEO-0109303,location,Indonesia,https://www.wikidata.org/wiki/Q14641252
+LIBSRC-LIB34-ENT-GEO-0109303,descriptive_identity,desa,https://www.wikidata.org/wiki/Q14641252
+LIBSRC-LIB34-ENT-GEO-0109363,descriptive_identity,family name,https://www.wikidata.org/wiki/Q37202031
+LIBSRC-LIB34-ENT-GEO-0109463,descriptive_identity,human,https://www.wikidata.org/wiki/Q45570236
+LIBSRC-LIB34-ENT-GEO-0109783,location,India,https://www.wikidata.org/wiki/Q7289725
+LIBSRC-LIB34-ENT-GEO-0109783,descriptive_identity,village in India,https://www.wikidata.org/wiki/Q7289725
+LIBSRC-LIB34-ENT-GEO-0110073,location,India,https://www.wikidata.org/wiki/Q31209212
+LIBSRC-LIB34-ENT-GEO-0110073,descriptive_identity,hill,https://www.wikidata.org/wiki/Q31209212
+LIBSRC-LIB34-ENT-GEO-0110373,location,India,https://www.wikidata.org/wiki/Q141912586
+LIBSRC-LIB34-ENT-GEO-0110373,construction_date,1880-01-01,https://www.wikidata.org/wiki/Q141912586
+LIBSRC-LIB34-ENT-GEO-0110373,material_identity,masonry,https://www.wikidata.org/wiki/Q141912586
+LIBSRC-LIB34-ENT-GEO-0110373,descriptive_identity,lighthouse,https://www.wikidata.org/wiki/Q141912586
+LIBSRC-LIB34-ENT-GEO-0109873,location,India,https://www.wikidata.org/wiki/Q806116
+LIBSRC-LIB34-ENT-GEO-0109873,construction_date,1916-01-01,https://www.wikidata.org/wiki/Q806116
+LIBSRC-LIB34-ENT-GEO-0109873,descriptive_identity,central university,https://www.wikidata.org/wiki/Q806116
+LIBSRC-LIB34-ENT-GEO-0110403,location,India,https://www.wikidata.org/wiki/Q675115
+LIBSRC-LIB34-ENT-GEO-0110403,descriptive_identity,village in India,https://www.wikidata.org/wiki/Q675115
+LIBSRC-LIB34-ENT-GEO-0110573,location,Iraq,https://www.wikidata.org/wiki/Q3564922
+LIBSRC-LIB34-ENT-GEO-0110573,descriptive_identity,palace,https://www.wikidata.org/wiki/Q3564922
+LIBSRC-LIB34-ENT-GEO-0112363,descriptive_identity,human,https://www.wikidata.org/wiki/Q182914
+LIBSRC-LIB34-ENT-GEO-0115093,location,Iraq,https://www.wikidata.org/wiki/Q139586227
+LIBSRC-LIB34-ENT-GEO-0112113,location,Switzerland,https://www.wikidata.org/wiki/Q847200
+LIBSRC-LIB34-ENT-GEO-0112113,construction_date,2009-01-01,https://www.wikidata.org/wiki/Q847200
+LIBSRC-LIB34-ENT-GEO-0112113,descriptive_identity,UCI Professional Continental Team,https://www.wikidata.org/wiki/Q847200
+LIBSRC-LIB34-ENT-GEO-0124593,location,Iran,https://www.wikidata.org/wiki/Q5908469
+LIBSRC-LIB34-ENT-GEO-0124593,material_identity,mud,https://www.wikidata.org/wiki/Q5908469
+LIBSRC-LIB34-ENT-GEO-0124593,descriptive_identity,caravanserai,https://www.wikidata.org/wiki/Q5908469
+LIBSRC-LIB34-ENT-GEO-0142943,location,Iran,https://www.wikidata.org/wiki/Q3435375
+LIBSRC-LIB34-ENT-GEO-0142943,descriptive_identity,airport,https://www.wikidata.org/wiki/Q3435375
+LIBSRC-LIB34-ENT-GEO-0125963,location,Iran,https://www.wikidata.org/wiki/Q28587
+LIBSRC-LIB34-ENT-GEO-0125963,descriptive_identity,big city,https://www.wikidata.org/wiki/Q28587
+LIBSRC-LIB34-ENT-GEO-0142933,location,Iran,https://www.wikidata.org/wiki/Q2358345
+LIBSRC-LIB34-ENT-GEO-0142933,descriptive_identity,international airport,https://www.wikidata.org/wiki/Q2358345
+LIBSRC-LIB34-ENT-GEO-0151033,location,Iran,https://www.wikidata.org/wiki/Q1681449
+LIBSRC-LIB34-ENT-GEO-0151033,material_identity,concrete,https://www.wikidata.org/wiki/Q1681449
+LIBSRC-LIB34-ENT-GEO-0151033,descriptive_identity,mosque,https://www.wikidata.org/wiki/Q1681449
+LIBSRC-LIB34-ENT-GEO-0152863,location,Iran,https://www.wikidata.org/wiki/Q130629935
+LIBSRC-LIB34-ENT-GEO-0152863,material_identity,concrete,https://www.wikidata.org/wiki/Q130629935
+LIBSRC-LIB34-ENT-GEO-0152863,descriptive_identity,imamzadeh,https://www.wikidata.org/wiki/Q130629935
+LIBSRC-LIB34-ENT-GEO-0154263,location,Iran,https://www.wikidata.org/wiki/Q5846268
+LIBSRC-LIB34-ENT-GEO-0154263,descriptive_identity,village,https://www.wikidata.org/wiki/Q5846268
+LIBSRC-LIB34-ENT-GEO-0154333,location,Iran,https://www.wikidata.org/wiki/Q26911828
+LIBSRC-LIB34-ENT-GEO-0154333,descriptive_identity,hill,https://www.wikidata.org/wiki/Q26911828
+LIBSRC-LIB34-ENT-GEO-0153863,location,Iran,https://www.wikidata.org/wiki/Q5890679
+LIBSRC-LIB34-ENT-GEO-0153863,material_identity,brick,https://www.wikidata.org/wiki/Q5890679
+LIBSRC-LIB34-ENT-GEO-0153863,descriptive_identity,madrasa,https://www.wikidata.org/wiki/Q5890679
+LIBSRC-LIB34-ENT-GEO-0155433,location,Iceland,https://www.wikidata.org/wiki/Q151212
+LIBSRC-LIB34-ENT-GEO-0155433,descriptive_identity,association football venue,https://www.wikidata.org/wiki/Q151212
+LIBSRC-LIB34-ENT-GEO-0155643,location,Italy,https://www.wikidata.org/wiki/Q2304697
+LIBSRC-LIB34-ENT-GEO-0155643,construction_date,1193-01-01,https://www.wikidata.org/wiki/Q2304697
+LIBSRC-LIB34-ENT-GEO-0155643,descriptive_identity,Roman villa,https://www.wikidata.org/wiki/Q2304697
+LIBSRC-LIB34-ENT-GEO-0156013,location,Spain,https://www.wikidata.org/wiki/Q15092
+LIBSRC-LIB34-ENT-GEO-0156013,construction_date,1251-01-01,https://www.wikidata.org/wiki/Q15092
+LIBSRC-LIB34-ENT-GEO-0156013,descriptive_identity,city,https://www.wikidata.org/wiki/Q15092
+LIBSRC-LIB34-ENT-GEO-0156163,location,Italy,https://www.wikidata.org/wiki/Q3662689
+LIBSRC-LIB34-ENT-GEO-0156163,descriptive_identity,castle,https://www.wikidata.org/wiki/Q3662689
+LIBSRC-LIB34-ENT-GEO-0156063,location,Italy,https://www.wikidata.org/wiki/Q383643
+LIBSRC-LIB34-ENT-GEO-0156063,construction_date,1587-04-13,https://www.wikidata.org/wiki/Q383643
+LIBSRC-LIB34-ENT-GEO-0156063,descriptive_identity,cardinal title,https://www.wikidata.org/wiki/Q383643
+LIBSRC-LIB34-ENT-GEO-0156073,location,Italy,https://www.wikidata.org/wiki/Q1203458
+LIBSRC-LIB34-ENT-GEO-0156073,construction_date,1651-01-01,https://www.wikidata.org/wiki/Q1203458
+LIBSRC-LIB34-ENT-GEO-0156073,descriptive_identity,museum,https://www.wikidata.org/wiki/Q1203458
+LIBSRC-LIB34-ENT-GEO-0152143,location,Iran,https://www.wikidata.org/wiki/Q3497343
+LIBSRC-LIB34-ENT-GEO-0152143,material_identity,stone,https://www.wikidata.org/wiki/Q3497343
+LIBSRC-LIB34-ENT-GEO-0152143,descriptive_identity,castle,https://www.wikidata.org/wiki/Q3497343
+LIBSRC-LIB34-ENT-GEO-0155843,location,Italy,https://www.wikidata.org/wiki/Q110611731
+LIBSRC-LIB34-ENT-GEO-0155843,descriptive_identity,villa,https://www.wikidata.org/wiki/Q110611731
+LIBSRC-LIB34-ENT-GEO-0155903,location,Italy,https://www.wikidata.org/wiki/Q746063
+LIBSRC-LIB34-ENT-GEO-0155903,creator_or_attribution,Pirro Ligorio,https://www.wikidata.org/wiki/Q746063
+LIBSRC-LIB34-ENT-GEO-0155903,descriptive_identity,villa,https://www.wikidata.org/wiki/Q746063
+LIBSRC-LIB34-ENT-GEO-0155833,location,Italy,https://www.wikidata.org/wiki/Q19850
+LIBSRC-LIB34-ENT-GEO-0155833,descriptive_identity,castle,https://www.wikidata.org/wiki/Q19850
+LIBSRC-LIB34-ENT-GEO-0156323,location,Italy,https://www.wikidata.org/wiki/Q55360591
+LIBSRC-LIB34-ENT-GEO-0156323,descriptive_identity,history museum,https://www.wikidata.org/wiki/Q55360591
+LIBSRC-LIB34-ENT-GEO-0156423,location,Italy,https://www.wikidata.org/wiki/Q1954250
+LIBSRC-LIB34-ENT-GEO-0156423,construction_date,1975-01-01,https://www.wikidata.org/wiki/Q1954250
+LIBSRC-LIB34-ENT-GEO-0156423,descriptive_identity,museum,https://www.wikidata.org/wiki/Q1954250
+LIBSRC-LIB34-ENT-GEO-0156563,location,Italy,https://www.wikidata.org/wiki/Q119348531
+LIBSRC-LIB34-ENT-GEO-0156563,descriptive_identity,palace,https://www.wikidata.org/wiki/Q119348531
+LIBSRC-LIB34-ENT-GEO-0156293,location,Italy,https://www.wikidata.org/wiki/Q16556402
+LIBSRC-LIB34-ENT-GEO-0156293,construction_date,1987-01-01,https://www.wikidata.org/wiki/Q16556402
+LIBSRC-LIB34-ENT-GEO-0156293,descriptive_identity,foundation,https://www.wikidata.org/wiki/Q16556402
+LIBSRC-LIB34-ENT-GEO-0156463,location,Italy,https://www.wikidata.org/wiki/Q1996075
+LIBSRC-LIB34-ENT-GEO-0156463,construction_date,1424-01-01,https://www.wikidata.org/wiki/Q1996075
+LIBSRC-LIB34-ENT-GEO-0156463,descriptive_identity,museum,https://www.wikidata.org/wiki/Q1996075
+LIBSRC-LIB34-ENT-GEO-0156313,location,Italy,https://www.wikidata.org/wiki/Q18811651
+LIBSRC-LIB34-ENT-GEO-0156313,descriptive_identity,art museum,https://www.wikidata.org/wiki/Q18811651
+LIBSRC-LIB34-ENT-GEO-0156383,location,Italy,https://www.wikidata.org/wiki/Q769462
+LIBSRC-LIB34-ENT-GEO-0156383,construction_date,1937-01-01,https://www.wikidata.org/wiki/Q769462
+LIBSRC-LIB34-ENT-GEO-0156383,creator_or_attribution,Raffaele Leone,https://www.wikidata.org/wiki/Q769462
+LIBSRC-LIB34-ENT-GEO-0156383,descriptive_identity,association football venue,https://www.wikidata.org/wiki/Q769462
+LIBSRC-LIB34-ENT-GEO-0156613,location,Italy,https://www.wikidata.org/wiki/Q126374767
+LIBSRC-LIB34-ENT-GEO-0156613,descriptive_identity,memorial,https://www.wikidata.org/wiki/Q126374767
+LIBSRC-LIB34-ENT-GEO-0156673,location,Italy,https://www.wikidata.org/wiki/Q54854852
+LIBSRC-LIB34-ENT-GEO-0156673,descriptive_identity,natural history museum,https://www.wikidata.org/wiki/Q54854852
+LIBSRC-LIB34-ENT-GEO-0156623,location,Italy,https://www.wikidata.org/wiki/Q966515
+LIBSRC-LIB34-ENT-GEO-0156623,construction_date,1989-01-01,https://www.wikidata.org/wiki/Q966515
+LIBSRC-LIB34-ENT-GEO-0156623,descriptive_identity,museum,https://www.wikidata.org/wiki/Q966515
+LIBSRC-LIB34-ENT-GEO-0156803,location,Italy,https://www.wikidata.org/wiki/Q61751143
+LIBSRC-LIB34-ENT-GEO-0156803,descriptive_identity,square,https://www.wikidata.org/wiki/Q61751143
+LIBSRC-LIB34-ENT-GEO-0156683,location,Italy,https://www.wikidata.org/wiki/Q108329897
+LIBSRC-LIB34-ENT-GEO-0156683,descriptive_identity,foundation,https://www.wikidata.org/wiki/Q108329897
+LIBSRC-LIB34-ENT-GEO-0156903,location,Italy,https://www.wikidata.org/wiki/Q3867985
+LIBSRC-LIB34-ENT-GEO-0156903,descriptive_identity,history museum,https://www.wikidata.org/wiki/Q3867985
+LIBSRC-LIB34-ENT-GEO-0156633,location,Italy,https://www.wikidata.org/wiki/Q3995353
+LIBSRC-LIB34-ENT-GEO-0156633,construction_date,1924-01-01,https://www.wikidata.org/wiki/Q3995353
+LIBSRC-LIB34-ENT-GEO-0156633,creator_or_attribution,Marcello Piacentini,https://www.wikidata.org/wiki/Q3995353
+LIBSRC-LIB34-ENT-GEO-0155943,location,Italy,https://www.wikidata.org/wiki/Q1881229
+LIBSRC-LIB34-ENT-GEO-0155943,construction_date,2010-01-01,https://www.wikidata.org/wiki/Q1881229
+LIBSRC-LIB34-ENT-GEO-0155943,creator_or_attribution,Zaha Hadid,https://www.wikidata.org/wiki/Q1881229
+LIBSRC-LIB34-ENT-GEO-0155943,descriptive_identity,museum,https://www.wikidata.org/wiki/Q1881229
+LIBSRC-LIB34-ENT-GEO-0156823,location,Italy,https://www.wikidata.org/wiki/Q106045003
+LIBSRC-LIB34-ENT-GEO-0156823,construction_date,1500-01-01,https://www.wikidata.org/wiki/Q106045003
+LIBSRC-LIB34-ENT-GEO-0156823,descriptive_identity,palace,https://www.wikidata.org/wiki/Q106045003
+LIBSRC-LIB34-ENT-GEO-0156553,location,Italy,https://www.wikidata.org/wiki/Q2968035
+LIBSRC-LIB34-ENT-GEO-0156553,descriptive_identity,castle,https://www.wikidata.org/wiki/Q2968035
+LIBSRC-LIB34-ENT-GEO-0157193,descriptive_identity,video game,https://www.wikidata.org/wiki/Q111641084
+LIBSRC-LIB34-ENT-GEO-0156973,location,Italy,https://www.wikidata.org/wiki/Q2267154
+LIBSRC-LIB34-ENT-GEO-0156973,construction_date,1450-01-01,https://www.wikidata.org/wiki/Q2267154
+LIBSRC-LIB34-ENT-GEO-0156973,descriptive_identity,Palazzo,https://www.wikidata.org/wiki/Q2267154
+LIBSRC-LIB34-ENT-GEO-0157823,location,France,https://www.wikidata.org/wiki/Q135088360
+LIBSRC-LIB34-ENT-GEO-0157823,descriptive_identity,villa,https://www.wikidata.org/wiki/Q135088360
+LIBSRC-LIB34-ENT-GEO-0157983,location,Italy,https://www.wikidata.org/wiki/Q3868425
+LIBSRC-LIB34-ENT-GEO-0157983,descriptive_identity,history museum,https://www.wikidata.org/wiki/Q3868425
+LIBSRC-LIB34-ENT-GEO-0157963,location,Italy,https://www.wikidata.org/wiki/Q21196199
+LIBSRC-LIB34-ENT-GEO-0157963,descriptive_identity,castle,https://www.wikidata.org/wiki/Q21196199
+LIBSRC-LIB34-ENT-GEO-0157773,location,Italy,https://www.wikidata.org/wiki/Q1675176
+LIBSRC-LIB34-ENT-GEO-0157773,construction_date,1977-01-01,https://www.wikidata.org/wiki/Q1675176
+LIBSRC-LIB34-ENT-GEO-0158213,location,Italy,https://www.wikidata.org/wiki/Q115042855
+LIBSRC-LIB34-ENT-GEO-0158213,descriptive_identity,city palace,https://www.wikidata.org/wiki/Q115042855
+LIBSRC-LIB34-ENT-GEO-0156923,location,Italy,https://www.wikidata.org/wiki/Q1887221
+LIBSRC-LIB34-ENT-GEO-0156923,construction_date,1994-01-01,https://www.wikidata.org/wiki/Q1887221
+LIBSRC-LIB34-ENT-GEO-0156923,descriptive_identity,association football venue,https://www.wikidata.org/wiki/Q1887221
+LIBSRC-LIB34-ENT-GEO-0157663,location,Italy,https://www.wikidata.org/wiki/Q368346
+LIBSRC-LIB34-ENT-GEO-0157663,construction_date,1417-01-01,https://www.wikidata.org/wiki/Q368346
+LIBSRC-LIB34-ENT-GEO-0157663,creator_or_attribution,Michelozzo,https://www.wikidata.org/wiki/Q368346
+LIBSRC-LIB34-ENT-GEO-0157663,descriptive_identity,villa,https://www.wikidata.org/wiki/Q368346
+LIBSRC-LIB34-ENT-GEO-0158113,location,Italy,https://www.wikidata.org/wiki/Q790430
+LIBSRC-LIB34-ENT-GEO-0158113,descriptive_identity,Italian national museum,https://www.wikidata.org/wiki/Q790430
+LIBSRC-LIB34-ENT-GEO-0157993,location,Italy,https://www.wikidata.org/wiki/Q4012702
+LIBSRC-LIB34-ENT-GEO-0157993,descriptive_identity,villa,https://www.wikidata.org/wiki/Q4012702
+LIBSRC-LIB34-ENT-GEO-0158683,location,Italy,https://www.wikidata.org/wiki/Q19721589
+LIBSRC-LIB34-ENT-GEO-0158683,descriptive_identity,monument,https://www.wikidata.org/wiki/Q19721589
+LIBSRC-LIB34-ENT-GEO-0156193,location,Italy,https://www.wikidata.org/wiki/Q1089361
+LIBSRC-LIB34-ENT-GEO-0156193,construction_date,1240-01-01,https://www.wikidata.org/wiki/Q1089361
+LIBSRC-LIB34-ENT-GEO-0156193,creator_or_attribution,Riccardo da Lentini,https://www.wikidata.org/wiki/Q1089361
+LIBSRC-LIB34-ENT-GEO-0156193,descriptive_identity,castle,https://www.wikidata.org/wiki/Q1089361
+LIBSRC-LIB34-ENT-GEO-0158273,location,Italy,https://www.wikidata.org/wiki/Q86501491
+LIBSRC-LIB34-ENT-GEO-0158273,descriptive_identity,villa,https://www.wikidata.org/wiki/Q86501491
+LIBSRC-LIB34-ENT-GEO-0158743,location,Italy,https://www.wikidata.org/wiki/Q1634195
+LIBSRC-LIB34-ENT-GEO-0158743,construction_date,1989-01-01,https://www.wikidata.org/wiki/Q1634195
+LIBSRC-LIB34-ENT-GEO-0158743,descriptive_identity,museum,https://www.wikidata.org/wiki/Q1634195
+LIBSRC-LIB34-ENT-GEO-0158533,location,Italy,https://www.wikidata.org/wiki/Q55359647
+LIBSRC-LIB34-ENT-GEO-0158983,location,Italy,https://www.wikidata.org/wiki/Q54854852
+LIBSRC-LIB34-ENT-GEO-0158983,descriptive_identity,natural history museum,https://www.wikidata.org/wiki/Q54854852
+LIBSRC-LIB34-ENT-GEO-0158913,location,Italy,https://www.wikidata.org/wiki/Q96679040
+LIBSRC-LIB34-ENT-GEO-0158913,descriptive_identity,building,https://www.wikidata.org/wiki/Q96679040
+LIBSRC-LIB34-ENT-GEO-0159003,location,Italy,https://www.wikidata.org/wiki/Q3372473
+LIBSRC-LIB34-ENT-GEO-0159003,construction_date,1500-01-01,https://www.wikidata.org/wiki/Q3372473
+LIBSRC-LIB34-ENT-GEO-0159003,descriptive_identity,palace,https://www.wikidata.org/wiki/Q3372473
+LIBSRC-LIB34-ENT-GEO-0158883,location,Italy,https://www.wikidata.org/wiki/Q3685236
+LIBSRC-LIB34-ENT-GEO-0158883,descriptive_identity,art museum,https://www.wikidata.org/wiki/Q3685236
+LIBSRC-LIB34-ENT-GEO-0158783,location,Italy,https://www.wikidata.org/wiki/Q28840600
+LIBSRC-LIB34-ENT-GEO-0158783,descriptive_identity,memory institution,https://www.wikidata.org/wiki/Q28840600
+LIBSRC-LIB34-ENT-GEO-0158583,location,Italy,https://www.wikidata.org/wiki/Q18129137
+LIBSRC-LIB34-ENT-GEO-0158583,construction_date,1550-01-01,https://www.wikidata.org/wiki/Q18129137
+LIBSRC-LIB34-ENT-GEO-0158583,descriptive_identity,courthouse,https://www.wikidata.org/wiki/Q18129137
+LIBSRC-LIB34-ENT-GEO-0158633,location,Italy,https://www.wikidata.org/wiki/Q26258068
+LIBSRC-LIB34-ENT-GEO-0158633,descriptive_identity,art museum,https://www.wikidata.org/wiki/Q26258068
+LIBSRC-LIB34-ENT-GEO-0159463,location,Italy,https://www.wikidata.org/wiki/Q178107
+LIBSRC-LIB34-ENT-GEO-0159463,construction_date,1992-12-06,https://www.wikidata.org/wiki/Q178107
+LIBSRC-LIB34-ENT-GEO-0159463,descriptive_identity,association football venue,https://www.wikidata.org/wiki/Q178107
+LIBSRC-LIB34-ENT-GEO-0159563,location,Italy,https://www.wikidata.org/wiki/Q3891291
+LIBSRC-LIB34-ENT-GEO-0159563,descriptive_identity,palace,https://www.wikidata.org/wiki/Q3891291
+LIBSRC-LIB34-ENT-GEO-0159613,location,Italy,https://www.wikidata.org/wiki/Q3967809
+LIBSRC-LIB34-ENT-GEO-0159613,construction_date,1932-01-01,https://www.wikidata.org/wiki/Q3967809
+LIBSRC-LIB34-ENT-GEO-0159613,descriptive_identity,association football venue,https://www.wikidata.org/wiki/Q3967809
+LIBSRC-LIB34-ENT-GEO-0159513,location,Italy,https://www.wikidata.org/wiki/Q3867927
+LIBSRC-LIB34-ENT-GEO-0159513,construction_date,1885-01-01,https://www.wikidata.org/wiki/Q3867927
+LIBSRC-LIB34-ENT-GEO-0159513,descriptive_identity,art museum,https://www.wikidata.org/wiki/Q3867927
+LIBSRC-LIB34-ENT-GEO-0159643,location,Italy,https://www.wikidata.org/wiki/Q3889576
+LIBSRC-LIB34-ENT-GEO-0159643,creator_or_attribution,Bartolomeo Bianco,https://www.wikidata.org/wiki/Q3889576
+LIBSRC-LIB34-ENT-GEO-0159643,descriptive_identity,palace,https://www.wikidata.org/wiki/Q3889576
+LIBSRC-LIB34-ENT-GEO-0159693,location,Italy,https://www.wikidata.org/wiki/Q18670440
+LIBSRC-LIB34-ENT-GEO-0159693,construction_date,1840-01-01,https://www.wikidata.org/wiki/Q18670440
+LIBSRC-LIB34-ENT-GEO-0159693,descriptive_identity,art museum,https://www.wikidata.org/wiki/Q18670440
+LIBSRC-LIB34-ENT-GEO-0159653,location,Italy,https://www.wikidata.org/wiki/Q3889843
+LIBSRC-LIB34-ENT-GEO-0159653,creator_or_attribution,Benedetto Alfieri,https://www.wikidata.org/wiki/Q3889843
+LIBSRC-LIB34-ENT-GEO-0159653,descriptive_identity,palace,https://www.wikidata.org/wiki/Q3889843
+LIBSRC-LIB34-ENT-GEO-0159913,location,Italy,https://www.wikidata.org/wiki/Q24704188
+LIBSRC-LIB34-ENT-GEO-0159913,descriptive_identity,castle,https://www.wikidata.org/wiki/Q24704188
+LIBSRC-LIB34-ENT-GEO-0159583,location,Italy,https://www.wikidata.org/wiki/Q3868349
+LIBSRC-LIB34-ENT-GEO-0159583,descriptive_identity,private museum,https://www.wikidata.org/wiki/Q3868349
+LIBSRC-LIB34-ENT-GEO-0159933,location,Italy,https://www.wikidata.org/wiki/Q25331079
+LIBSRC-LIB34-ENT-GEO-0159933,descriptive_identity,museum,https://www.wikidata.org/wiki/Q25331079
+LIBSRC-LIB34-ENT-GEO-0160013,location,Italy,https://www.wikidata.org/wiki/Q3662411
+LIBSRC-LIB34-ENT-GEO-0160013,descriptive_identity,castle,https://www.wikidata.org/wiki/Q3662411
+LIBSRC-LIB34-ENT-GEO-0160253,location,Italy,https://www.wikidata.org/wiki/Q267210
+LIBSRC-LIB34-ENT-GEO-0160253,construction_date,1965-01-01,https://www.wikidata.org/wiki/Q267210
+LIBSRC-LIB34-ENT-GEO-0160253,material_identity,steel,https://www.wikidata.org/wiki/Q267210
+LIBSRC-LIB34-ENT-GEO-0160253,descriptive_identity,colossal statue of Jesus,https://www.wikidata.org/wiki/Q267210
+LIBSRC-LIB34-ENT-GEO-0160273,location,Italy,https://www.wikidata.org/wiki/Q1702378
+LIBSRC-LIB34-ENT-GEO-0160273,construction_date,1992-01-01,https://www.wikidata.org/wiki/Q1702378
+LIBSRC-LIB34-ENT-GEO-0160273,descriptive_identity,private museum,https://www.wikidata.org/wiki/Q1702378
+LIBSRC-LIB34-ENT-GEO-0159763,location,Italy,https://www.wikidata.org/wiki/Q2165447
+LIBSRC-LIB34-ENT-GEO-0159763,creator_or_attribution,Curzio Malaparte,https://www.wikidata.org/wiki/Q2165447
+LIBSRC-LIB34-ENT-GEO-0159763,descriptive_identity,single-family detached home,https://www.wikidata.org/wiki/Q2165447
+LIBSRC-LIB34-ENT-GEO-0160413,location,Italy,https://www.wikidata.org/wiki/Q138802881
+LIBSRC-LIB34-ENT-GEO-0160413,construction_date,1936-01-01,https://www.wikidata.org/wiki/Q138802881
+LIBSRC-LIB34-ENT-GEO-0160413,creator_or_attribution,Cesare Bazzani,https://www.wikidata.org/wiki/Q138802881
+LIBSRC-LIB34-ENT-GEO-0160413,descriptive_identity,building,https://www.wikidata.org/wiki/Q138802881
+LIBSRC-LIB34-ENT-GEO-0160233,location,Italy,https://www.wikidata.org/wiki/Q2979780
+LIBSRC-LIB34-ENT-GEO-0160233,construction_date,1891-01-01,https://www.wikidata.org/wiki/Q2979780
+LIBSRC-LIB34-ENT-GEO-0160233,descriptive_identity,museum,https://www.wikidata.org/wiki/Q2979780
+LIBSRC-LIB34-ENT-GEO-0160393,location,Italy,https://www.wikidata.org/wiki/Q55369247
+LIBSRC-LIB34-ENT-GEO-0160393,descriptive_identity,natural history museum,https://www.wikidata.org/wiki/Q55369247
+LIBSRC-LIB34-ENT-GEO-0160433,location,Italy,https://www.wikidata.org/wiki/Q34203071
+LIBSRC-LIB34-ENT-GEO-0160433,descriptive_identity,fountain,https://www.wikidata.org/wiki/Q34203071
+LIBSRC-LIB34-ENT-GEO-0160363,location,Italy,https://www.wikidata.org/wiki/Q3889829
+LIBSRC-LIB34-ENT-GEO-0160363,creator_or_attribution,Baldassare Peruzzi,https://www.wikidata.org/wiki/Q3889829
+LIBSRC-LIB34-ENT-GEO-0160363,descriptive_identity,palace,https://www.wikidata.org/wiki/Q3889829
+LIBSRC-LIB34-ENT-GEO-0160973,location,Italy,https://www.wikidata.org/wiki/Q125915635
+LIBSRC-LIB34-ENT-GEO-0160973,construction_date,1800-01-01,https://www.wikidata.org/wiki/Q125915635
+LIBSRC-LIB34-ENT-GEO-0160973,descriptive_identity,palace,https://www.wikidata.org/wiki/Q125915635
+LIBSRC-LIB34-ENT-GEO-0160953,location,Italy,https://www.wikidata.org/wiki/Q1533416
+LIBSRC-LIB34-ENT-GEO-0160953,construction_date,1838-01-01,https://www.wikidata.org/wiki/Q1533416
+LIBSRC-LIB34-ENT-GEO-0160953,creator_or_attribution,Giovanni Ceruti,https://www.wikidata.org/wiki/Q1533416
+LIBSRC-LIB34-ENT-GEO-0160953,descriptive_identity,organization,https://www.wikidata.org/wiki/Q1533416
+LIBSRC-LIB34-ENT-GEO-0161003,location,Italy,https://www.wikidata.org/wiki/Q17624096
+LIBSRC-LIB34-ENT-GEO-0161003,descriptive_identity,castle,https://www.wikidata.org/wiki/Q17624096
+LIBSRC-LIB34-ENT-GEO-0161253,location,Italy,https://www.wikidata.org/wiki/Q99481087
+LIBSRC-LIB34-ENT-GEO-0161253,descriptive_identity,Palazzo,https://www.wikidata.org/wiki/Q99481087
+LIBSRC-LIB34-ENT-GEO-0160913,location,Italy,https://www.wikidata.org/wiki/Q3661197
+LIBSRC-LIB34-ENT-GEO-0160913,descriptive_identity,Palazzo,https://www.wikidata.org/wiki/Q3661197
+LIBSRC-LIB34-ENT-GEO-0161133,location,Italy,https://www.wikidata.org/wiki/Q49581690
+LIBSRC-LIB34-ENT-GEO-0161133,descriptive_identity,monastery,https://www.wikidata.org/wiki/Q49581690
+LIBSRC-LIB34-ENT-GEO-0161073,location,Italy,https://www.wikidata.org/wiki/Q108369026
+LIBSRC-LIB34-ENT-GEO-0159993,location,Italy,https://www.wikidata.org/wiki/Q1054370
+LIBSRC-LIB34-ENT-GEO-0159993,construction_date,1650-01-01,https://www.wikidata.org/wiki/Q1054370
+LIBSRC-LIB34-ENT-GEO-0159993,creator_or_attribution,Bartolomeo Avanzini,https://www.wikidata.org/wiki/Q1054370
+LIBSRC-LIB34-ENT-GEO-0159993,descriptive_identity,Palazzo,https://www.wikidata.org/wiki/Q1054370
+LIBSRC-LIB34-ENT-GEO-0161293,location,Italy,https://www.wikidata.org/wiki/Q380530
+LIBSRC-LIB34-ENT-GEO-0161293,construction_date,-0495-01-01,https://www.wikidata.org/wiki/Q380530
+LIBSRC-LIB34-ENT-GEO-0161293,descriptive_identity,ruins,https://www.wikidata.org/wiki/Q380530
+LIBSRC-LIB34-ENT-GEO-0161263,location,Italy,https://www.wikidata.org/wiki/Q56598424
+LIBSRC-LIB34-ENT-GEO-0161263,descriptive_identity,all wars memorial,https://www.wikidata.org/wiki/Q56598424
+LIBSRC-LIB34-ENT-GEO-0161973,location,Italy,https://www.wikidata.org/wiki/Q56010416
+LIBSRC-LIB34-ENT-GEO-0161973,construction_date,1869-01-01,https://www.wikidata.org/wiki/Q56010416
+LIBSRC-LIB34-ENT-GEO-0161973,descriptive_identity,lighthouse,https://www.wikidata.org/wiki/Q56010416
+LIBSRC-LIB34-ENT-GEO-0161173,location,Italy,https://www.wikidata.org/wiki/Q55193995
+LIBSRC-LIB34-ENT-GEO-0161173,descriptive_identity,Palazzo,https://www.wikidata.org/wiki/Q55193995
+LIBSRC-LIB34-ENT-GEO-0161993,location,Italy,https://www.wikidata.org/wiki/Q799026
+LIBSRC-LIB34-ENT-GEO-0161993,construction_date,0978-01-01,https://www.wikidata.org/wiki/Q799026
+LIBSRC-LIB34-ENT-GEO-0161993,creator_or_attribution,Arnolfo di Cambio,https://www.wikidata.org/wiki/Q799026
+LIBSRC-LIB34-ENT-GEO-0161993,descriptive_identity,abbey,https://www.wikidata.org/wiki/Q799026
+LIBSRC-LIB34-ENT-GEO-0160323,location,Italy,https://www.wikidata.org/wiki/Q27989476
+LIBSRC-LIB34-ENT-GEO-0160323,descriptive_identity,building of public administration,https://www.wikidata.org/wiki/Q27989476
+LIBSRC-LIB34-ENT-GEO-0161593,location,Italy,https://www.wikidata.org/wiki/Q1048623
+LIBSRC-LIB34-ENT-GEO-0161593,descriptive_identity,castle,https://www.wikidata.org/wiki/Q1048623
+LIBSRC-LIB34-ENT-GEO-0161353,location,Italy,https://www.wikidata.org/wiki/Q3662951
+LIBSRC-LIB34-ENT-GEO-0161353,descriptive_identity,castle,https://www.wikidata.org/wiki/Q3662951
+LIBSRC-LIB34-ENT-GEO-0164443,location,United States,https://www.wikidata.org/wiki/Q107272126
+LIBSRC-LIB34-ENT-GEO-0164443,descriptive_identity,mosque,https://www.wikidata.org/wiki/Q107272126
+LIBSRC-LIB34-ENT-GEO-0164703,location,Yemen,https://www.wikidata.org/wiki/Q138244990
+LIBSRC-LIB34-ENT-GEO-0164703,descriptive_identity,mosque,https://www.wikidata.org/wiki/Q138244990
+LIBSRC-LIB34-ENT-GEO-0164823,location,Saudi Arabia,https://www.wikidata.org/wiki/Q138050241
+LIBSRC-LIB34-ENT-GEO-0164823,descriptive_identity,mosque,https://www.wikidata.org/wiki/Q138050241
+LIBSRC-LIB34-ENT-GEO-0167103,location,Japan,https://www.wikidata.org/wiki/Q652331
+LIBSRC-LIB34-ENT-GEO-0167103,construction_date,1965-01-01,https://www.wikidata.org/wiki/Q652331
+LIBSRC-LIB34-ENT-GEO-0167103,descriptive_identity,airport,https://www.wikidata.org/wiki/Q652331
+LIBSRC-LIB34-ENT-GEO-0167113,location,Japan,https://www.wikidata.org/wiki/Q2902013
+LIBSRC-LIB34-ENT-GEO-0167113,descriptive_identity,airport,https://www.wikidata.org/wiki/Q2902013
+LIBSRC-LIB34-ENT-GEO-0167133,location,Japan,https://www.wikidata.org/wiki/Q2901234
+LIBSRC-LIB34-ENT-GEO-0167133,descriptive_identity,airport,https://www.wikidata.org/wiki/Q2901234
+LIBSRC-LIB34-ENT-GEO-0167253,location,Japan,https://www.wikidata.org/wiki/Q34862968
+LIBSRC-LIB34-ENT-GEO-0167253,construction_date,1963-01-01,https://www.wikidata.org/wiki/Q34862968
+LIBSRC-LIB34-ENT-GEO-0167253,descriptive_identity,dam,https://www.wikidata.org/wiki/Q34862968
+LIBSRC-LIB34-ENT-GEO-0167273,location,Japan,https://www.wikidata.org/wiki/Q34863312
+LIBSRC-LIB34-ENT-GEO-0167273,construction_date,1989-01-01,https://www.wikidata.org/wiki/Q34863312
+LIBSRC-LIB34-ENT-GEO-0167273,descriptive_identity,dam,https://www.wikidata.org/wiki/Q34863312
+LIBSRC-LIB34-ENT-GEO-0167303,location,Japan,https://www.wikidata.org/wiki/Q183536
+LIBSRC-LIB34-ENT-GEO-0167303,construction_date,1957-05-08,https://www.wikidata.org/wiki/Q183536
+LIBSRC-LIB34-ENT-GEO-0167303,creator_or_attribution,Tachū Naitō,https://www.wikidata.org/wiki/Q183536
+LIBSRC-LIB34-ENT-GEO-0167453,location,Japan,https://www.wikidata.org/wiki/Q11248572
+LIBSRC-LIB34-ENT-GEO-0167453,construction_date,1532-01-01,https://www.wikidata.org/wiki/Q11248572
+LIBSRC-LIB34-ENT-GEO-0167453,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q11248572
+LIBSRC-LIB34-ENT-GEO-0167443,location,Japan,https://www.wikidata.org/wiki/Q107070512
+LIBSRC-LIB34-ENT-GEO-0167443,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q107070512
+LIBSRC-LIB34-ENT-GEO-0167533,location,Japan,https://www.wikidata.org/wiki/Q1326230
+LIBSRC-LIB34-ENT-GEO-0167533,construction_date,1889-01-01,https://www.wikidata.org/wiki/Q1326230
+LIBSRC-LIB34-ENT-GEO-0167533,descriptive_identity,private university,https://www.wikidata.org/wiki/Q1326230
+LIBSRC-LIB34-ENT-GEO-0167853,location,Japan,https://www.wikidata.org/wiki/Q22119401
+LIBSRC-LIB34-ENT-GEO-0167853,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q22119401
+LIBSRC-LIB34-ENT-GEO-0167643,location,Japan,https://www.wikidata.org/wiki/Q11625126
+LIBSRC-LIB34-ENT-GEO-0167643,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q11625126
+LIBSRC-LIB34-ENT-GEO-0167783,location,Japan,https://www.wikidata.org/wiki/Q11613411
+LIBSRC-LIB34-ENT-GEO-0167783,construction_date,1321-01-01,https://www.wikidata.org/wiki/Q11613411
+LIBSRC-LIB34-ENT-GEO-0167783,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q11613411
+LIBSRC-LIB34-ENT-GEO-0167923,location,Japan,https://www.wikidata.org/wiki/Q1250321
+LIBSRC-LIB34-ENT-GEO-0167923,construction_date,1321-01-01,https://www.wikidata.org/wiki/Q1250321
+LIBSRC-LIB34-ENT-GEO-0167923,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q1250321
+LIBSRC-LIB34-ENT-GEO-0167953,location,Japan,https://www.wikidata.org/wiki/Q11515494
+LIBSRC-LIB34-ENT-GEO-0167953,construction_date,1311-01-01,https://www.wikidata.org/wiki/Q11515494
+LIBSRC-LIB34-ENT-GEO-0167953,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q11515494
+LIBSRC-LIB34-ENT-GEO-0168033,location,Japan,https://www.wikidata.org/wiki/Q11612529
+LIBSRC-LIB34-ENT-GEO-0168033,construction_date,1605-01-01,https://www.wikidata.org/wiki/Q11612529
+LIBSRC-LIB34-ENT-GEO-0168033,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q11612529
+LIBSRC-LIB34-ENT-GEO-0168103,location,Japan,https://www.wikidata.org/wiki/Q3201328
+LIBSRC-LIB34-ENT-GEO-0168103,construction_date,0585-01-01,https://www.wikidata.org/wiki/Q3201328
+LIBSRC-LIB34-ENT-GEO-0168103,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q3201328
+LIBSRC-LIB34-ENT-GEO-0168133,location,Japan,https://www.wikidata.org/wiki/Q11446985
+LIBSRC-LIB34-ENT-GEO-0168133,construction_date,1314-06-17,https://www.wikidata.org/wiki/Q11446985
+LIBSRC-LIB34-ENT-GEO-0168133,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q11446985
+LIBSRC-LIB34-ENT-GEO-0168043,location,Japan,https://www.wikidata.org/wiki/Q38275994
+LIBSRC-LIB34-ENT-GEO-0168043,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q38275994
+LIBSRC-LIB34-ENT-GEO-0168023,location,Japan,https://www.wikidata.org/wiki/Q107391084
+LIBSRC-LIB34-ENT-GEO-0168023,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q107391084
+LIBSRC-LIB34-ENT-GEO-0168413,location,Japan,https://www.wikidata.org/wiki/Q106341950
+LIBSRC-LIB34-ENT-GEO-0168413,construction_date,1611-01-01,https://www.wikidata.org/wiki/Q106341950
+LIBSRC-LIB34-ENT-GEO-0168413,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q106341950
+LIBSRC-LIB34-ENT-GEO-0168003,location,Japan,https://www.wikidata.org/wiki/Q134735708
+LIBSRC-LIB34-ENT-GEO-0168003,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q134735708
+LIBSRC-LIB34-ENT-GEO-0168433,location,Japan,https://www.wikidata.org/wiki/Q11446985
+LIBSRC-LIB34-ENT-GEO-0168433,construction_date,1314-06-17,https://www.wikidata.org/wiki/Q11446985
+LIBSRC-LIB34-ENT-GEO-0168433,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q11446985
+LIBSRC-LIB34-ENT-GEO-0168143,location,Japan,https://www.wikidata.org/wiki/Q11676248
+LIBSRC-LIB34-ENT-GEO-0168143,construction_date,1277-01-01,https://www.wikidata.org/wiki/Q11676248
+LIBSRC-LIB34-ENT-GEO-0168143,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q11676248
+LIBSRC-LIB34-ENT-GEO-0168583,location,Japan,https://www.wikidata.org/wiki/Q21019070
+LIBSRC-LIB34-ENT-GEO-0168583,construction_date,1549-01-01,https://www.wikidata.org/wiki/Q21019070
+LIBSRC-LIB34-ENT-GEO-0168583,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q21019070
+LIBSRC-LIB34-ENT-GEO-0168663,location,Japan,https://www.wikidata.org/wiki/Q1070863
+LIBSRC-LIB34-ENT-GEO-0168663,construction_date,0710-01-01,https://www.wikidata.org/wiki/Q1070863
+LIBSRC-LIB34-ENT-GEO-0168663,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q1070863
+LIBSRC-LIB34-ENT-GEO-0168693,location,Japan,https://www.wikidata.org/wiki/Q17224683
+LIBSRC-LIB34-ENT-GEO-0168693,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q17224683
+LIBSRC-LIB34-ENT-GEO-0168193,location,Japan,https://www.wikidata.org/wiki/Q85881945
+LIBSRC-LIB34-ENT-GEO-0168193,construction_date,1274-01-01,https://www.wikidata.org/wiki/Q85881945
+LIBSRC-LIB34-ENT-GEO-0168193,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q85881945
+LIBSRC-LIB34-ENT-GEO-0168603,location,Japan,https://www.wikidata.org/wiki/Q11545461
+LIBSRC-LIB34-ENT-GEO-0168603,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q11545461
+LIBSRC-LIB34-ENT-GEO-0168563,location,Japan,https://www.wikidata.org/wiki/Q11563927
+LIBSRC-LIB34-ENT-GEO-0168563,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q11563927
+LIBSRC-LIB34-ENT-GEO-0168423,location,Japan,https://www.wikidata.org/wiki/Q97215952
+LIBSRC-LIB34-ENT-GEO-0168423,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q97215952
+LIBSRC-LIB34-ENT-GEO-0168763,location,Japan,https://www.wikidata.org/wiki/Q63138555
+LIBSRC-LIB34-ENT-GEO-0168763,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q63138555
+LIBSRC-LIB34-ENT-GEO-0168463,location,Japan,https://www.wikidata.org/wiki/Q11573977
+LIBSRC-LIB34-ENT-GEO-0168463,construction_date,1613-01-01,https://www.wikidata.org/wiki/Q11573977
+LIBSRC-LIB34-ENT-GEO-0168463,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q11573977
+LIBSRC-LIB34-ENT-GEO-0168803,location,Japan,https://www.wikidata.org/wiki/Q11635080
+LIBSRC-LIB34-ENT-GEO-0168803,construction_date,1635-01-01,https://www.wikidata.org/wiki/Q11635080
+LIBSRC-LIB34-ENT-GEO-0168803,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q11635080
+LIBSRC-LIB34-ENT-GEO-0168553,location,Japan,https://www.wikidata.org/wiki/Q115297581
+LIBSRC-LIB34-ENT-GEO-0168553,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q115297581
+LIBSRC-LIB34-ENT-GEO-0168743,location,Japan,https://www.wikidata.org/wiki/Q106836733
+LIBSRC-LIB34-ENT-GEO-0168743,construction_date,1560-01-01,https://www.wikidata.org/wiki/Q106836733
+LIBSRC-LIB34-ENT-GEO-0168743,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q106836733
+LIBSRC-LIB34-ENT-GEO-0168863,location,Japan,https://www.wikidata.org/wiki/Q11520503
+LIBSRC-LIB34-ENT-GEO-0168863,construction_date,1436-01-01,https://www.wikidata.org/wiki/Q11520503
+LIBSRC-LIB34-ENT-GEO-0168863,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q11520503
+LIBSRC-LIB34-ENT-GEO-0169023,location,Japan,https://www.wikidata.org/wiki/Q1365961
+LIBSRC-LIB34-ENT-GEO-0169023,construction_date,1993-01-01,https://www.wikidata.org/wiki/Q1365961
+LIBSRC-LIB34-ENT-GEO-0169023,creator_or_attribution,Takenaka Corporation,https://www.wikidata.org/wiki/Q1365961
+LIBSRC-LIB34-ENT-GEO-0169023,descriptive_identity,domed stadium,https://www.wikidata.org/wiki/Q1365961
+LIBSRC-LIB34-ENT-GEO-0169043,location,Japan,https://www.wikidata.org/wiki/Q4141386
+LIBSRC-LIB34-ENT-GEO-0169043,construction_date,1973-01-01,https://www.wikidata.org/wiki/Q4141386
+LIBSRC-LIB34-ENT-GEO-0169043,creator_or_attribution,Kume Sekkei,https://www.wikidata.org/wiki/Q4141386
+LIBSRC-LIB34-ENT-GEO-0169043,descriptive_identity,database,https://www.wikidata.org/wiki/Q4141386
+LIBSRC-LIB34-ENT-GEO-0168953,location,Japan,https://www.wikidata.org/wiki/Q11545461
+LIBSRC-LIB34-ENT-GEO-0168953,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q11545461
+LIBSRC-LIB34-ENT-GEO-0168713,location,Japan,https://www.wikidata.org/wiki/Q11555239
+LIBSRC-LIB34-ENT-GEO-0168713,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q11555239
+LIBSRC-LIB34-ENT-GEO-0169063,location,Japan,https://www.wikidata.org/wiki/Q111889820
+LIBSRC-LIB34-ENT-GEO-0169063,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q111889820
+LIBSRC-LIB34-ENT-GEO-0169093,location,Japan,https://www.wikidata.org/wiki/Q3547067
+LIBSRC-LIB34-ENT-GEO-0169093,construction_date,0806-01-01,https://www.wikidata.org/wiki/Q3547067
+LIBSRC-LIB34-ENT-GEO-0169093,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q3547067
+LIBSRC-LIB34-ENT-GEO-0169053,location,Japan,https://www.wikidata.org/wiki/Q97310691
+LIBSRC-LIB34-ENT-GEO-0169053,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q97310691
+LIBSRC-LIB34-ENT-GEO-0174073,location,Uzbekistan,https://www.wikidata.org/wiki/Q3512643
+LIBSRC-LIB34-ENT-GEO-0174073,descriptive_identity,river,https://www.wikidata.org/wiki/Q3512643
+LIBSRC-LIB34-ENT-GEO-0175753,location,North Korea,https://www.wikidata.org/wiki/Q4896106
+LIBSRC-LIB34-ENT-GEO-0175753,construction_date,0648-01-01,https://www.wikidata.org/wiki/Q4896106
+LIBSRC-LIB34-ENT-GEO-0175753,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q4896106
+LIBSRC-LIB34-ENT-GEO-0175633,location,Indonesia,https://www.wikidata.org/wiki/Q24719940
+LIBSRC-LIB34-ENT-GEO-0175633,descriptive_identity,kampung of Papua,https://www.wikidata.org/wiki/Q24719940
+LIBSRC-LIB34-ENT-GEO-0176673,location,South Korea,https://www.wikidata.org/wiki/Q16536639
+LIBSRC-LIB34-ENT-GEO-0179623,location,South Korea,https://www.wikidata.org/wiki/Q12583134
+LIBSRC-LIB34-ENT-GEO-0179623,construction_date,1945-01-01,https://www.wikidata.org/wiki/Q12583134
+LIBSRC-LIB34-ENT-GEO-0179623,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q12583134
+LIBSRC-LIB34-ENT-GEO-0179613,location,North Korea,https://www.wikidata.org/wiki/Q3200826
+LIBSRC-LIB34-ENT-GEO-0179613,descriptive_identity,monastery,https://www.wikidata.org/wiki/Q3200826
+LIBSRC-LIB34-ENT-GEO-0179743,descriptive_identity,human,https://www.wikidata.org/wiki/Q126370181
+LIBSRC-LIB34-ENT-GEO-0179673,location,South Korea,https://www.wikidata.org/wiki/Q27325311
+LIBSRC-LIB34-ENT-GEO-0179673,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q27325311
+LIBSRC-LIB34-ENT-GEO-0179643,location,North Korea,https://www.wikidata.org/wiki/Q27262065
+LIBSRC-LIB34-ENT-GEO-0179643,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q27262065
+LIBSRC-LIB34-ENT-GEO-0168913,location,Japan,https://www.wikidata.org/wiki/Q11400358
+LIBSRC-LIB34-ENT-GEO-0168913,construction_date,1013-01-01,https://www.wikidata.org/wiki/Q11400358
+LIBSRC-LIB34-ENT-GEO-0168913,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q11400358
+LIBSRC-LIB34-ENT-GEO-0179523,location,Japan,https://www.wikidata.org/wiki/Q11451836
+LIBSRC-LIB34-ENT-GEO-0179523,descriptive_identity,Japanese sword,https://www.wikidata.org/wiki/Q11451836
+LIBSRC-LIB34-ENT-GEO-0179893,location,South Korea,https://www.wikidata.org/wiki/Q27299397
+LIBSRC-LIB34-ENT-GEO-0179893,descriptive_identity,hill,https://www.wikidata.org/wiki/Q27299397
+LIBSRC-LIB34-ENT-GEO-0180213,location,Korean Empire,https://www.wikidata.org/wiki/Q123584229
+LIBSRC-LIB34-ENT-GEO-0180213,construction_date,1907-06-01,https://www.wikidata.org/wiki/Q123584229
+LIBSRC-LIB34-ENT-GEO-0180213,descriptive_identity,organization,https://www.wikidata.org/wiki/Q123584229
+LIBSRC-LIB34-ENT-GEO-0180183,location,South Korea,https://www.wikidata.org/wiki/Q27283701
+LIBSRC-LIB34-ENT-GEO-0180183,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q27283701
+LIBSRC-LIB34-ENT-GEO-0180493,location,South Korea,https://www.wikidata.org/wiki/Q27270331
+LIBSRC-LIB34-ENT-GEO-0180493,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q27270331
+LIBSRC-LIB34-ENT-GEO-0180663,location,South Korea,https://www.wikidata.org/wiki/Q27301630
+LIBSRC-LIB34-ENT-GEO-0180663,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q27301630
+LIBSRC-LIB34-ENT-GEO-0180603,location,South Korea,https://www.wikidata.org/wiki/Q12625259
+LIBSRC-LIB34-ENT-GEO-0180603,descriptive_identity,fortress,https://www.wikidata.org/wiki/Q12625259
+LIBSRC-LIB34-ENT-GEO-0180443,location,South Korea,https://www.wikidata.org/wiki/Q408318
+LIBSRC-LIB34-ENT-GEO-0180113,location,North Korea,https://www.wikidata.org/wiki/Q27246255
+LIBSRC-LIB34-ENT-GEO-0180113,descriptive_identity,hill,https://www.wikidata.org/wiki/Q27246255
+LIBSRC-LIB34-ENT-GEO-0180863,location,South Korea,https://www.wikidata.org/wiki/Q27302647
+LIBSRC-LIB34-ENT-GEO-0180863,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q27302647
+LIBSRC-LIB34-ENT-GEO-0181323,location,South Korea,https://www.wikidata.org/wiki/Q12608241
+LIBSRC-LIB34-ENT-GEO-0181323,construction_date,1557-01-01,https://www.wikidata.org/wiki/Q12608241
+LIBSRC-LIB34-ENT-GEO-0181323,descriptive_identity,burial plot,https://www.wikidata.org/wiki/Q12608241
+LIBSRC-LIB34-ENT-GEO-0181803,location,South Korea,https://www.wikidata.org/wiki/Q27295756
+LIBSRC-LIB34-ENT-GEO-0181803,descriptive_identity,hill,https://www.wikidata.org/wiki/Q27295756
+LIBSRC-LIB34-ENT-GEO-0181703,location,Russia,https://www.wikidata.org/wiki/Q6753329
+LIBSRC-LIB34-ENT-GEO-0181703,descriptive_identity,river,https://www.wikidata.org/wiki/Q6753329
+LIBSRC-LIB34-ENT-GEO-0181783,location,South Korea,https://www.wikidata.org/wiki/Q27270331
+LIBSRC-LIB34-ENT-GEO-0181783,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q27270331
+LIBSRC-LIB34-ENT-GEO-0181643,location,South Korea,https://www.wikidata.org/wiki/Q27310500
+LIBSRC-LIB34-ENT-GEO-0181643,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q27310500
+LIBSRC-LIB34-ENT-GEO-0181753,location,South Korea,https://www.wikidata.org/wiki/Q12608220
+LIBSRC-LIB34-ENT-GEO-0181753,construction_date,0670-01-01,https://www.wikidata.org/wiki/Q12608220
+LIBSRC-LIB34-ENT-GEO-0181753,descriptive_identity,historic site,https://www.wikidata.org/wiki/Q12608220
+LIBSRC-LIB34-ENT-GEO-0181503,location,South Korea,https://www.wikidata.org/wiki/Q27308257
+LIBSRC-LIB34-ENT-GEO-0181503,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q27308257
+LIBSRC-LIB34-ENT-GEO-0183083,location,South Korea,https://www.wikidata.org/wiki/Q491233
+LIBSRC-LIB34-ENT-GEO-0183083,descriptive_identity,Korean Buddhist temple,https://www.wikidata.org/wiki/Q491233
+LIBSRC-LIB34-ENT-GEO-0183593,location,South Korea,https://www.wikidata.org/wiki/Q5554874
+LIBSRC-LIB34-ENT-GEO-0183593,descriptive_identity,Korean Buddhist temple,https://www.wikidata.org/wiki/Q5554874
+LIBSRC-LIB34-ENT-GEO-0182893,location,South Korea,https://www.wikidata.org/wiki/Q27331176
+LIBSRC-LIB34-ENT-GEO-0182893,descriptive_identity,valley,https://www.wikidata.org/wiki/Q27331176
+LIBSRC-LIB34-ENT-GEO-0183563,location,North Korea,https://www.wikidata.org/wiki/Q840749
+LIBSRC-LIB34-ENT-GEO-0183563,construction_date,1024-01-01,https://www.wikidata.org/wiki/Q840749
+LIBSRC-LIB34-ENT-GEO-0183563,descriptive_identity,Buddhist temple,https://www.wikidata.org/wiki/Q840749
+LIBSRC-LIB34-ENT-GEO-0183143,location,South Korea,https://www.wikidata.org/wiki/Q27287424
+LIBSRC-LIB34-ENT-GEO-0183143,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q27287424
+LIBSRC-LIB34-ENT-GEO-0183713,location,South Korea,https://www.wikidata.org/wiki/Q27314479
+LIBSRC-LIB34-ENT-GEO-0183713,descriptive_identity,mountain pass,https://www.wikidata.org/wiki/Q27314479
+LIBSRC-LIB34-ENT-GEO-0183783,location,South Korea,https://www.wikidata.org/wiki/Q7206163
+LIBSRC-LIB34-ENT-GEO-0183783,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q7206163
+LIBSRC-LIB34-ENT-GEO-0183943,location,South Korea,https://www.wikidata.org/wiki/Q27300155
+LIBSRC-LIB34-ENT-GEO-0183943,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q27300155
+LIBSRC-LIB34-ENT-GEO-0183983,location,South Korea,https://www.wikidata.org/wiki/Q27340651
+LIBSRC-LIB34-ENT-GEO-0183983,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q27340651
+LIBSRC-LIB34-ENT-GEO-0184203,location,South Korea,https://www.wikidata.org/wiki/Q27314479
+LIBSRC-LIB34-ENT-GEO-0184203,descriptive_identity,mountain pass,https://www.wikidata.org/wiki/Q27314479
+LIBSRC-LIB34-ENT-GEO-0184223,location,South Korea,https://www.wikidata.org/wiki/Q16093332
+LIBSRC-LIB34-ENT-GEO-0184223,descriptive_identity,cultural heritage,https://www.wikidata.org/wiki/Q16093332
+LIBSRC-LIB34-ENT-GEO-0184543,location,South Korea,https://www.wikidata.org/wiki/Q8041397
+LIBSRC-LIB34-ENT-GEO-0184543,descriptive_identity,Korean Buddhist temple,https://www.wikidata.org/wiki/Q8041397
+LIBSRC-LIB34-ENT-GEO-0184623,location,South Korea,https://www.wikidata.org/wiki/Q17687991
+LIBSRC-LIB34-ENT-GEO-0184623,descriptive_identity,fortress,https://www.wikidata.org/wiki/Q17687991
+LIBSRC-LIB34-ENT-GEO-0184273,location,South Korea,https://www.wikidata.org/wiki/Q7263134
+LIBSRC-LIB34-ENT-GEO-0184273,descriptive_identity,cultural heritage,https://www.wikidata.org/wiki/Q7263134
+LIBSRC-LIB34-ENT-GEO-0184613,location,South Korea,https://www.wikidata.org/wiki/Q17094857
+LIBSRC-LIB34-ENT-GEO-0184613,descriptive_identity,cultural heritage,https://www.wikidata.org/wiki/Q17094857
+LIBSRC-LIB34-ENT-GEO-0184733,location,South Korea,https://www.wikidata.org/wiki/Q82325882
+LIBSRC-LIB34-ENT-GEO-0184733,descriptive_identity,cultural heritage,https://www.wikidata.org/wiki/Q82325882
+LIBSRC-LIB34-ENT-GEO-0184953,location,South Korea,https://www.wikidata.org/wiki/Q484931
+LIBSRC-LIB34-ENT-GEO-0184953,construction_date,0553-01-01,https://www.wikidata.org/wiki/Q484931
+LIBSRC-LIB34-ENT-GEO-0184953,descriptive_identity,Korean Buddhist temple,https://www.wikidata.org/wiki/Q484931
+LIBSRC-LIB34-ENT-GEO-0183793,location,South Korea,https://www.wikidata.org/wiki/Q27314143
+LIBSRC-LIB34-ENT-GEO-0183793,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q27314143
+LIBSRC-LIB34-ENT-GEO-0184933,location,South Korea,https://www.wikidata.org/wiki/Q5003392
+LIBSRC-LIB34-ENT-GEO-0184933,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q5003392
+LIBSRC-LIB34-ENT-GEO-0191143,location,Lebanon,https://www.wikidata.org/wiki/Q21569615
+LIBSRC-LIB34-ENT-GEO-0191143,descriptive_identity,monument,https://www.wikidata.org/wiki/Q21569615
+LIBSRC-LIB34-ENT-GEO-0197323,location,Libya,https://www.wikidata.org/wiki/Q7508749
+LIBSRC-LIB34-ENT-GEO-0197323,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q7508749
+LIBSRC-LIB34-ENT-GEO-0197253,location,Algeria,https://www.wikidata.org/wiki/Q3483265
+LIBSRC-LIB34-ENT-GEO-0197253,descriptive_identity,commune of Algeria,https://www.wikidata.org/wiki/Q3483265
+LIBSRC-LIB34-ENT-GEO-0197233,location,Algeria,https://www.wikidata.org/wiki/Q137869253
+LIBSRC-LIB34-ENT-GEO-0197233,descriptive_identity,mosque,https://www.wikidata.org/wiki/Q137869253
+LIBSRC-LIB34-ENT-GEO-0197523,location,Morocco,https://www.wikidata.org/wiki/Q58367003
+LIBSRC-LIB34-ENT-GEO-0197523,descriptive_identity,heritage,https://www.wikidata.org/wiki/Q58367003
+LIBSRC-LIB34-ENT-GEO-0197713,location,Morocco,https://www.wikidata.org/wiki/Q58331300
+LIBSRC-LIB34-ENT-GEO-0197713,descriptive_identity,heritage,https://www.wikidata.org/wiki/Q58331300
+LIBSRC-LIB34-ENT-GEO-0197163,descriptive_identity,human,https://www.wikidata.org/wiki/Q121237400
+LIBSRC-LIB34-ENT-GEO-0197183,location,Algeria,https://www.wikidata.org/wiki/Q23790027
+LIBSRC-LIB34-ENT-GEO-0197183,descriptive_identity,mountain,https://www.wikidata.org/wiki/Q23790027
+LIBSRC-LIB34-ENT-GEO-0197733,location,Morocco,https://www.wikidata.org/wiki/Q58331300
+LIBSRC-LIB34-ENT-GEO-0197733,descriptive_identity,heritage,https://www.wikidata.org/wiki/Q58331300
+LIBSRC-LIB34-ENT-GEO-0197983,location,Morocco,https://www.wikidata.org/wiki/Q131416568
+LIBSRC-LIB34-ENT-GEO-0197983,descriptive_identity,mosque,https://www.wikidata.org/wiki/Q131416568
+LIBSRC-LIB34-ENT-GEO-0197923,location,Morocco,https://www.wikidata.org/wiki/Q131137666
+LIBSRC-LIB34-ENT-GEO-0197923,descriptive_identity,mosque,https://www.wikidata.org/wiki/Q131137666
+LIBSRC-LIB34-ENT-GEO-0198013,location,Morocco,https://www.wikidata.org/wiki/Q20390017
+LIBSRC-LIB34-ENT-GEO-0198013,descriptive_identity,commune of Morocco,https://www.wikidata.org/wiki/Q20390017
+LIBSRC-LIB34-ENT-GEO-0198073,location,Algeria,https://www.wikidata.org/wiki/Q3483167
+LIBSRC-LIB34-ENT-GEO-0198073,descriptive_identity,commune of Algeria,https://www.wikidata.org/wiki/Q3483167
+LIBSRC-LIB34-ENT-GEO-0198143,location,Morocco,https://www.wikidata.org/wiki/Q28880269
+LIBSRC-LIB34-ENT-GEO-0198143,descriptive_identity,douar in Morocco,https://www.wikidata.org/wiki/Q28880269
+LIBSRC-LIB34-ENT-GEO-0197333,location,Morocco,https://www.wikidata.org/wiki/Q2089594
+LIBSRC-LIB34-ENT-GEO-0197333,descriptive_identity,urban commune of Morocco,https://www.wikidata.org/wiki/Q2089594
+LIBSRC-LIB34-ENT-GEO-0198283,location,Morocco,https://www.wikidata.org/wiki/Q593222
+LIBSRC-LIB34-ENT-GEO-0198283,descriptive_identity,urban commune of Morocco,https://www.wikidata.org/wiki/Q593222
+LIBSRC-LIB34-ENT-GEO-0198433,descriptive_identity,human,https://www.wikidata.org/wiki/Q86756898
+LIBSRC-LIB34-ENT-GEO-0198663,location,Morocco,https://www.wikidata.org/wiki/Q28311962
+LIBSRC-LIB34-ENT-GEO-0198663,descriptive_identity,hill group,https://www.wikidata.org/wiki/Q28311962
+LIBSRC-LIB34-ENT-GEO-0198643,location,Morocco,https://www.wikidata.org/wiki/Q123960635
+LIBSRC-LIB34-ENT-GEO-0198643,descriptive_identity,public primary school in Morocco,https://www.wikidata.org/wiki/Q123960635
+LIBSRC-LIB34-ENT-GEO-0198693,location,Mauritania,https://www.wikidata.org/wiki/Q27734722
+LIBSRC-LIB34-ENT-GEO-0198693,descriptive_identity,hill,https://www.wikidata.org/wiki/Q27734722
+LIBSRC-LIB34-ENT-GEO-0198923,location,Morocco,https://www.wikidata.org/wiki/Q2486800
+LIBSRC-LIB34-ENT-GEO-0198923,descriptive_identity,airport,https://www.wikidata.org/wiki/Q2486800
+LIBSRC-LIB34-ENT-GEO-0198983,location,Morocco,https://www.wikidata.org/wiki/Q3578163
+LIBSRC-LIB34-ENT-GEO-0198983,construction_date,1968-01-01,https://www.wikidata.org/wiki/Q3578163
+LIBSRC-LIB34-ENT-GEO-0198983,descriptive_identity,university,https://www.wikidata.org/wiki/Q3578163
+LIBSRC-LIB34-ENT-GEO-0198173,location,Morocco,https://www.wikidata.org/wiki/Q20389853
+LIBSRC-LIB34-ENT-GEO-0198173,descriptive_identity,commune of Morocco,https://www.wikidata.org/wiki/Q20389853
+LIBSRC-LIB34-ENT-GEO-0199013,location,Morocco,https://www.wikidata.org/wiki/Q20389806
+LIBSRC-LIB34-ENT-GEO-0199013,descriptive_identity,commune of Morocco,https://www.wikidata.org/wiki/Q20389806
+LIBSRC-LIB34-ENT-GEO-0198773,location,Philippines,https://www.wikidata.org/wiki/Q315636
+LIBSRC-LIB34-ENT-GEO-0198773,construction_date,1912-01-01,https://www.wikidata.org/wiki/Q315636
+LIBSRC-LIB34-ENT-GEO-0198773,descriptive_identity,municipality of the Philippines,https://www.wikidata.org/wiki/Q315636
+LIBSRC-LIB34-ENT-GEO-0199093,location,Morocco,https://www.wikidata.org/wiki/Q58331854
+LIBSRC-LIB34-ENT-GEO-0199093,descriptive_identity,heritage,https://www.wikidata.org/wiki/Q58331854
+LIBSRC-LIB34-ENT-GEO-0199113,location,Morocco,https://www.wikidata.org/wiki/Q579331
+LIBSRC-LIB34-ENT-GEO-0199113,construction_date,1190-01-01,https://www.wikidata.org/wiki/Q579331
+LIBSRC-LIB34-ENT-GEO-0199113,descriptive_identity,minaret,https://www.wikidata.org/wiki/Q579331
+LIBSRC-LIB34-ENT-GEO-0199653,location,Morocco,https://www.wikidata.org/wiki/Q138240427
+LIBSRC-LIB34-ENT-GEO-0199653,descriptive_identity,mosque,https://www.wikidata.org/wiki/Q138240427
+LIBSRC-LIB34-ENT-GEO-0199593,location,Morocco,https://www.wikidata.org/wiki/Q3483246
+LIBSRC-LIB34-ENT-GEO-0199593,descriptive_identity,rural commune of Morocco,https://www.wikidata.org/wiki/Q3483246
+LIBSRC-LIB34-ENT-GEO-0199733,location,Tunisia,https://www.wikidata.org/wiki/Q54888217
+LIBSRC-LIB34-ENT-GEO-0199733,descriptive_identity,museum,https://www.wikidata.org/wiki/Q54888217
+LIBSRC-LIB34-ENT-GEO-0200313,location,Morocco,https://www.wikidata.org/wiki/Q20390017
+LIBSRC-LIB34-ENT-GEO-0200313,descriptive_identity,commune of Morocco,https://www.wikidata.org/wiki/Q20390017
+LIBSRC-LIB34-ENT-GEO-0199453,location,Morocco,https://www.wikidata.org/wiki/Q6989822
+LIBSRC-LIB34-ENT-GEO-0199453,descriptive_identity,commune of Morocco,https://www.wikidata.org/wiki/Q6989822
+LIBSRC-LIB34-ENT-GEO-0200403,location,Morocco,https://www.wikidata.org/wiki/Q2877688
+LIBSRC-LIB34-ENT-GEO-0200403,construction_date,1732-01-01,https://www.wikidata.org/wiki/Q2877688
+LIBSRC-LIB34-ENT-GEO-0200403,descriptive_identity,city gate,https://www.wikidata.org/wiki/Q2877688
+LIBSRC-LIB34-ENT-GEO-0200203,descriptive_identity,human,https://www.wikidata.org/wiki/Q45192017
+LIBSRC-LIB34-ENT-GEO-0206363,location,Mexico,https://www.wikidata.org/wiki/Q24556637
+LIBSRC-LIB34-ENT-GEO-0206363,construction_date,1988-02-01,https://www.wikidata.org/wiki/Q24556637
+LIBSRC-LIB34-ENT-GEO-0206363,descriptive_identity,museum,https://www.wikidata.org/wiki/Q24556637
+LIBSRC-LIB34-ENT-GEO-0206613,location,Mexico,https://www.wikidata.org/wiki/Q110270940
+LIBSRC-LIB34-ENT-GEO-0206613,construction_date,2013-08-08,https://www.wikidata.org/wiki/Q110270940
+LIBSRC-LIB34-ENT-GEO-0206613,descriptive_identity,museum,https://www.wikidata.org/wiki/Q110270940
+LIBSRC-LIB34-ENT-GEO-0207823,location,Malaysia,https://www.wikidata.org/wiki/Q1927195
+LIBSRC-LIB34-ENT-GEO-0207823,descriptive_identity,airport,https://www.wikidata.org/wiki/Q1927195
+LIBSRC-LIB34-ENT-GEO-0206813,location,Mexico,https://www.wikidata.org/wiki/Q6033933
+LIBSRC-LIB34-ENT-GEO-0206813,construction_date,1979-08-17,https://www.wikidata.org/wiki/Q6033933
+LIBSRC-LIB34-ENT-GEO-0206813,descriptive_identity,museum,https://www.wikidata.org/wiki/Q6033933
+LIBSRC-LIB34-ENT-GEO-0208253,location,Niger,https://www.wikidata.org/wiki/Q6465373
+LIBSRC-LIB34-ENT-GEO-0208253,descriptive_identity,airport,https://www.wikidata.org/wiki/Q6465373
+LIBSRC-LIB34-ENT-GEO-0206893,location,Mexico,https://www.wikidata.org/wiki/Q20228151
+LIBSRC-LIB34-ENT-GEO-0206893,descriptive_identity,human settlement,https://www.wikidata.org/wiki/Q20228151
+LIBSRC-LIB34-ENT-GEO-0208103,location,Namibia,https://www.wikidata.org/wiki/Q65040241
+LIBSRC-LIB34-ENT-GEO-0208103,descriptive_identity,lighthouse,https://www.wikidata.org/wiki/Q65040241
+LIBSRC-LIB34-ENT-GEO-0208273,location,Nigeria,https://www.wikidata.org/wiki/Q1432453
+LIBSRC-LIB34-ENT-GEO-0208273,descriptive_identity,international airport,https://www.wikidata.org/wiki/Q1432453
+LIBSRC-LIB34-ENT-GEO-0208633,location,Netherlands,https://www.wikidata.org/wiki/Q53865509
+LIBSRC-LIB34-ENT-GEO-0208633,descriptive_identity,concentration camp,https://www.wikidata.org/wiki/Q53865509
+LIBSRC-LIB34-ENT-GEO-0208073,location,Namibia,https://www.wikidata.org/wiki/Q26821564
+LIBSRC-LIB34-ENT-GEO-0208073,descriptive_identity,building,https://www.wikidata.org/wiki/Q26821564
+LIBSRC-LIB34-ENT-GEO-0208383,location,Nigeria,https://www.wikidata.org/wiki/Q5331946
+LIBSRC-LIB34-ENT-GEO-0208383,construction_date,1999-01-01,https://www.wikidata.org/wiki/Q5331946
+LIBSRC-LIB34-ENT-GEO-0208383,descriptive_identity,university,https://www.wikidata.org/wiki/Q5331946
+LIBSRC-LIB34-ENT-GEO-0208843,location,Netherlands,https://www.wikidata.org/wiki/Q1735318
+LIBSRC-LIB34-ENT-GEO-0208843,construction_date,1892-01-01,https://www.wikidata.org/wiki/Q1735318
+LIBSRC-LIB34-ENT-GEO-0208843,creator_or_attribution,Pierre Cuypers,https://www.wikidata.org/wiki/Q1735318
+LIBSRC-LIB34-ENT-GEO-0208843,descriptive_identity,museum,https://www.wikidata.org/wiki/Q1735318
+LIBSRC-LIB34-ENT-GEO-0208873,location,Brazil,https://www.wikidata.org/wiki/Q104534169
+LIBSRC-LIB34-ENT-GEO-0208873,descriptive_identity,fort,https://www.wikidata.org/wiki/Q104534169
+LIBSRC-LIB34-ENT-GEO-0208723,location,Netherlands,https://www.wikidata.org/wiki/Q19347268
+LIBSRC-LIB34-ENT-GEO-0208723,descriptive_identity,street,https://www.wikidata.org/wiki/Q19347268
+LIBSRC-LIB34-ENT-GEO-0208933,location,Netherlands,https://www.wikidata.org/wiki/Q18982732
+LIBSRC-LIB34-ENT-GEO-0208933,descriptive_identity,street,https://www.wikidata.org/wiki/Q18982732
+LIBSRC-LIB34-ENT-GEO-0208923,location,Netherlands,https://www.wikidata.org/wiki/Q2083311
+LIBSRC-LIB34-ENT-GEO-0208923,construction_date,1520-01-01,https://www.wikidata.org/wiki/Q2083311
+LIBSRC-LIB34-ENT-GEO-0208923,descriptive_identity,built structure,https://www.wikidata.org/wiki/Q2083311
+LIBSRC-LIB34-ENT-GEO-0207993,location,Portugal,https://www.wikidata.org/wiki/Q2652856
+LIBSRC-LIB34-ENT-GEO-0207993,descriptive_identity,electoral unit,https://www.wikidata.org/wiki/Q2652856
+LIBSRC-LIB34-ENT-GEO-0209033,location,Netherlands,https://www.wikidata.org/wiki/Q2299544
+LIBSRC-LIB34-ENT-GEO-0209033,descriptive_identity,dolmen,https://www.wikidata.org/wiki/Q2299544
+LIBSRC-LIB34-ENT-GEO-0209173,location,Netherlands,https://www.wikidata.org/wiki/Q1438648
+LIBSRC-LIB34-ENT-GEO-0209173,descriptive_identity,fort,https://www.wikidata.org/wiki/Q1438648
+LIBSRC-LIB34-ENT-GEO-0209243,location,Netherlands,https://www.wikidata.org/wiki/Q2122464
+LIBSRC-LIB34-ENT-GEO-0209243,descriptive_identity,hamlet,https://www.wikidata.org/wiki/Q2122464
+LIBSRC-LIB34-ENT-GEO-0209393,location,Netherlands,https://www.wikidata.org/wiki/Q1871689
+LIBSRC-LIB34-ENT-GEO-0209393,construction_date,2002-11-15,https://www.wikidata.org/wiki/Q1871689
+LIBSRC-LIB34-ENT-GEO-0209393,descriptive_identity,art museum,https://www.wikidata.org/wiki/Q1871689
+LIBSRC-LIB34-ENT-GEO-0209473,location,Netherlands,https://www.wikidata.org/wiki/Q34847108
+LIBSRC-LIB34-ENT-GEO-0209473,descriptive_identity,point,https://www.wikidata.org/wiki/Q34847108
+LIBSRC-LIB34-ENT-GEO-0209073,location,Netherlands,https://www.wikidata.org/wiki/Q2209037
+LIBSRC-LIB34-ENT-GEO-0209163,location,Netherlands,https://www.wikidata.org/wiki/Q2340786
+LIBSRC-LIB34-ENT-GEO-0209163,descriptive_identity,fort,https://www.wikidata.org/wiki/Q2340786
+LIBSRC-LIB34-ENT-GEO-0209533,location,Netherlands,https://www.wikidata.org/wiki/Q1127079
+LIBSRC-LIB34-ENT-GEO-0209533,construction_date,1999-01-01,https://www.wikidata.org/wiki/Q1127079
+LIBSRC-LIB34-ENT-GEO-0209533,descriptive_identity,museum,https://www.wikidata.org/wiki/Q1127079
+LIBSRC-LIB34-ENT-GEO-0209523,location,Netherlands,https://www.wikidata.org/wiki/Q19840696
+LIBSRC-LIB34-ENT-GEO-0209523,descriptive_identity,museum,https://www.wikidata.org/wiki/Q19840696
+LIBSRC-LIB34-ENT-GEO-0209603,location,Netherlands,https://www.wikidata.org/wiki/Q2278417
+LIBSRC-LIB34-ENT-GEO-0209603,construction_date,1994-01-01,https://www.wikidata.org/wiki/Q2278417
+LIBSRC-LIB34-ENT-GEO-0209603,material_identity,steel,https://www.wikidata.org/wiki/Q2278417
+LIBSRC-LIB34-ENT-GEO-0209603,descriptive_identity,lighthouse,https://www.wikidata.org/wiki/Q2278417
+LIBSRC-LIB34-ENT-GEO-0209133,descriptive_identity,family name,https://www.wikidata.org/wiki/Q101440034
+LIBSRC-LIB34-ENT-GEO-0210693,location,Norway,https://www.wikidata.org/wiki/Q908202
+LIBSRC-LIB34-ENT-GEO-0210693,construction_date,1876-01-01,https://www.wikidata.org/wiki/Q908202
+LIBSRC-LIB34-ENT-GEO-0210693,descriptive_identity,lighthouse,https://www.wikidata.org/wiki/Q908202
+LIBSRC-LIB34-ENT-GEO-0209613,location,Netherlands,https://www.wikidata.org/wiki/Q493160
+LIBSRC-LIB34-ENT-GEO-0209613,construction_date,1661-01-01,https://www.wikidata.org/wiki/Q493160
+LIBSRC-LIB34-ENT-GEO-0209613,descriptive_identity,church building,https://www.wikidata.org/wiki/Q493160
+LIBSRC-LIB34-ENT-GEO-0210983,location,Norway,https://www.wikidata.org/wiki/Q11963356
+LIBSRC-LIB34-ENT-GEO-0210983,descriptive_identity,museum,https://www.wikidata.org/wiki/Q11963356
+LIBSRC-LIB34-ENT-GEO-0210963,location,Norway,https://www.wikidata.org/wiki/Q1431464
+LIBSRC-LIB34-ENT-GEO-0210963,construction_date,1975-01-01,https://www.wikidata.org/wiki/Q1431464
+LIBSRC-LIB34-ENT-GEO-0210963,descriptive_identity,airport,https://www.wikidata.org/wiki/Q1431464
+LIBSRC-LIB34-ENT-GEO-0214543,location,Norway,https://www.wikidata.org/wiki/Q1611857
+LIBSRC-LIB34-ENT-GEO-0214543,construction_date,1963-01-01,https://www.wikidata.org/wiki/Q1611857
+LIBSRC-LIB34-ENT-GEO-0214543,descriptive_identity,association football venue,https://www.wikidata.org/wiki/Q1611857
+LIBSRC-LIB34-ENT-GEO-0214563,location,Norway,https://www.wikidata.org/wiki/Q952272
+LIBSRC-LIB34-ENT-GEO-0214563,construction_date,1874-01-01,https://www.wikidata.org/wiki/Q952272
+LIBSRC-LIB34-ENT-GEO-0214563,descriptive_identity,lighthouse,https://www.wikidata.org/wiki/Q952272
+LIBSRC-LIB34-ENT-GEO-0214533,location,Norway,https://www.wikidata.org/wiki/Q1319441
+LIBSRC-LIB34-ENT-GEO-0214533,construction_date,1965-01-01,https://www.wikidata.org/wiki/Q1319441
+LIBSRC-LIB34-ENT-GEO-0214533,creator_or_attribution,Jan Inge Hovig,https://www.wikidata.org/wiki/Q1319441
+LIBSRC-LIB34-ENT-GEO-0214533,material_identity,concrete,https://www.wikidata.org/wiki/Q1319441
+LIBSRC-LIB34-ENT-GEO-0214533,descriptive_identity,church building,https://www.wikidata.org/wiki/Q1319441
+LIBSRC-LIB34-ENT-GEO-0219573,location,Pakistan,https://www.wikidata.org/wiki/Q2633552
+LIBSRC-LIB34-ENT-GEO-0219573,descriptive_identity,airport,https://www.wikidata.org/wiki/Q2633552
+LIBSRC-LIB34-ENT-GEO-0219853,descriptive_identity,male given name,https://www.wikidata.org/wiki/Q16154515
+LIBSRC-LIB34-ENT-GEO-0220343,location,Madagascar,https://www.wikidata.org/wiki/Q18354641
+LIBSRC-LIB34-ENT-GEO-0220343,descriptive_identity,river,https://www.wikidata.org/wiki/Q18354641
