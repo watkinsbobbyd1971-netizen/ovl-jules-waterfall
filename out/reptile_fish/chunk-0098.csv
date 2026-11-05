@@ -1,0 +1,3 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_07-CAT_13-ERA_04-1890-ACC04-HOP17160-REC3431887,occurrence_context,"""freshwater""",https://api.gbif.org/v1/species/2441461/speciesProfiles
+IDB-REG_07-CAT_11-ERA_04-1890-ACC04-HOP17185-REC3436997,occurrence_context,"""marine""",https://api.gbif.org/v1/species/5232431/speciesProfiles
