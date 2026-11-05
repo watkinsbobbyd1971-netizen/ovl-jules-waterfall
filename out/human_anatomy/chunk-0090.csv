@@ -1,0 +1,7 @@
+canonical_dedup_key,column_name,value,source_url
+IDB-REG_02-CAT_12-ERA_06-2015-ACC04-HOP12817-REC2563322,anatomical_identity,"""Leg""",https://en.wikipedia.org/wiki/Leg
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15613-REC3122461,anatomical_identity,"""Chest""",https://en.wikipedia.org/wiki/Chest
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP12823-REC2564561,anatomical_identity,"""Arm""",https://en.wikipedia.org/wiki/Arm
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15133-REC3026561,anatomical_identity,"""Organ""",https://en.wikipedia.org/wiki/Organ_(biology)
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP17055-REC3410861,anatomical_identity,"""Neck""",https://en.wikipedia.org/wiki/Neck
+IDB-REG_01-CAT_11-ERA_06-2015-ACC04-HOP15803-REC3160541,anatomical_identity,"""Heart""",https://en.wikipedia.org/wiki/Heart
