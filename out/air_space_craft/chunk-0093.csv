@@ -1,0 +1,12 @@
+canonical_dedup_key,column_name,value,source_url
+DRV-CORPUS-PLN-0000004,manufacturer_or_creator,"""Louis Blériot""",https://www.wikidata.org/wiki/Q887098
+DRV-CORPUS-PLN-0001026,dimension_length,9860.0,https://www.wikidata.org/wiki/Q535726
+DRV-CORPUS-PLN-0001026,span,15750.0,https://www.wikidata.org/wiki/Q535726
+DRV-CORPUS-PLN-0001026,manufacturer_or_creator,"""Noorduyn""",https://www.wikidata.org/wiki/Q535726
+DRV-CORPUS-PLN-0008030,dimension_length,44500.0,https://www.wikidata.org/wiki/Q218636
+DRV-CORPUS-PLN-0008032,dimension_length,32741.0,https://www.wikidata.org/wiki/Q190114
+DRV-CORPUS-PLN-0008032,span,16942.0,https://www.wikidata.org/wiki/Q190114
+DRV-CORPUS-PLN-0008032,mass,77110800.0,https://www.wikidata.org/wiki/Q190114
+DRV-CORPUS-PLN-0008040,dimension_length,19750.0,https://www.wikidata.org/wiki/Q199570
+DRV-CORPUS-PLN-0008040,span,14010.0,https://www.wikidata.org/wiki/Q199570
+IDB-REG08-CAT09-ERA07-2020S-LONG-MARCH-8-CASC,manufacturer_or_creator,"""China Academy of Launch Vehicle Technology""",https://www.wikidata.org/wiki/Q22099169
