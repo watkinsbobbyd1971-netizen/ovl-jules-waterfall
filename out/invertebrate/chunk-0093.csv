@@ -1,0 +1,16 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-1090801,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/4451853
+LIBSRC-LIB50-ENT-BIO-1084911,occurrence_context,"""marine""",https://api.gbif.org/v1/species/10707600
+LIBSRC-LIB50-ENT-BIO-1085721,occurrence_context,"""marine""",https://api.gbif.org/v1/species/8503621
+LIBSRC-LIB50-ENT-BIO-1081661,occurrence_context,"""marine""",https://api.gbif.org/v1/species/10705901
+LIBSRC-LIB50-ENT-BIO-1081411,occurrence_context,"""marine""",https://api.gbif.org/v1/species/11183815
+LIBSRC-LIB50-ENT-BIO-1105271,occurrence_context,"""marine""",https://api.gbif.org/v1/species/10884283
+LIBSRC-LIB50-ENT-BIO-1086161,occurrence_context,"""marine""",https://api.gbif.org/v1/species/1004532
+LIBSRC-LIB50-ENT-BIO-1093991,occurrence_context,"""marine""",https://api.gbif.org/v1/species/6472801
+LIBSRC-LIB50-ENT-BIO-1087421,occurrence_context,"""marine""",https://api.gbif.org/v1/species/8532784
+LIBSRC-LIB50-ENT-BIO-1085241,occurrence_context,"""marine""",https://api.gbif.org/v1/species/10746707
+LIBSRC-LIB50-ENT-BIO-1091791,occurrence_context,"""marine""",https://api.gbif.org/v1/species/7587601
+LIBSRC-LIB50-ENT-BIO-1090471,occurrence_context,"""marine""",https://api.gbif.org/v1/species/7528509
+LIBSRC-LIB50-ENT-BIO-1090841,occurrence_context,"""marine""",https://api.gbif.org/v1/species/10322755
+LIBSRC-LIB50-ENT-BIO-1093851,occurrence_context,"""marine""",https://api.gbif.org/v1/species/11200389
+LIBSRC-LIB50-ENT-BIO-1090451,occurrence_context,"""marine""",https://api.gbif.org/v1/species/9676672
