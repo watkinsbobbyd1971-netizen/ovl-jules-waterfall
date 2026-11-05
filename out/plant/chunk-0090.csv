@@ -1,0 +1,13 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB50-ENT-BIO-1173745,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/2795348
+LIBSRC-LIB50-ENT-BIO-1215985,occurrence_context,"""freshwater""",https://api.gbif.org/v1/species/3188616
+LIBSRC-LIB50-ENT-BIO-1197025,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/2891916
+LIBSRC-LIB50-ENT-BIO-1198775,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/2925809
+LIBSRC-LIB50-ENT-BIO-1198465,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/5527253
+LIBSRC-LIB50-ENT-BIO-1286265,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/2679789
+LIBSRC-LIB50-ENT-BIO-1288655,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/2679761
+LIBSRC-LIB50-ENT-BIO-1302055,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/2701397
+LIBSRC-LIB50-ENT-BIO-1316965,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/2684451
+LIBSRC-LIB50-ENT-BIO-1295715,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/7262908
+LIBSRC-LIB50-ENT-BIO-1290525,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/8017915
+LIBSRC-LIB50-ENT-BIO-1295685,occurrence_context,"""terrestrial""",https://api.gbif.org/v1/species/3189882
