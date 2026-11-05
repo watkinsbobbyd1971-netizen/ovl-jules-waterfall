@@ -1,0 +1,61 @@
+canonical_dedup_key,column_name,value,source_url
+LIBSRC-LIB51-ENT-SMI-1177232,descriptive_identity,bone,http://www.wikidata.org/entity/Q80031607
+LIBSRC-LIB51-ENT-SMI-1164915,descriptive_identity,physical tool,http://www.wikidata.org/entity/Q80001204
+LIBSRC-LIB51-ENT-SMI-1164426,descriptive_identity,physical tool,http://www.wikidata.org/entity/Q80001204
+LIBSRC-LIB51-ENT-SMI-1178221,descriptive_identity,physical tool,http://www.wikidata.org/entity/Q80001204
+LIBSRC-LIB51-ENT-SMI-1193564,descriptive_identity,short film,http://www.wikidata.org/entity/Q123373750
+LIBSRC-LIB51-ENT-SMI-1191902,descriptive_identity,literary work,http://www.wikidata.org/entity/Q7494784
+LIBSRC-LIB51-ENT-SMI-1194438,descriptive_identity,literary work,http://www.wikidata.org/entity/Q7494784
+LIBSRC-LIB51-ENT-SMI-1195312,descriptive_identity,literary work,http://www.wikidata.org/entity/Q7494784
+LIBSRC-LIB51-ENT-SMI-1187637,date_or_interval,1985-01-01T00:00:00Z,http://www.wikidata.org/entity/Q130750193
+LIBSRC-LIB51-ENT-SMI-1187637,descriptive_identity,science fiction fanzine,http://www.wikidata.org/entity/Q130750193
+LIBSRC-LIB51-ENT-SMI-1197721,date_or_interval,1985-01-01T00:00:00Z,http://www.wikidata.org/entity/Q130750193
+LIBSRC-LIB51-ENT-SMI-1197721,descriptive_identity,science fiction fanzine,http://www.wikidata.org/entity/Q130750193
+LIBSRC-LIB51-ENT-SMI-1184248,descriptive_identity,taxon,http://www.wikidata.org/entity/Q20717272
+LIBSRC-LIB51-ENT-SMI-1194998,descriptive_identity,fossil taxon,http://www.wikidata.org/entity/Q24379680
+LIBSRC-LIB51-ENT-SMI-1185054,descriptive_identity,taxon,http://www.wikidata.org/entity/Q9095084
+LIBSRC-LIB51-ENT-SMI-1202927,descriptive_identity,family name,http://www.wikidata.org/entity/Q37224700
+LIBSRC-LIB51-ENT-SMI-1190777,material_identity,ink,http://www.wikidata.org/entity/Q64571419
+LIBSRC-LIB51-ENT-SMI-1190777,material_identity,pen,http://www.wikidata.org/entity/Q64571419
+LIBSRC-LIB51-ENT-SMI-1190777,material_identity,graphite,http://www.wikidata.org/entity/Q64571419
+LIBSRC-LIB51-ENT-SMI-1190777,material_identity,watercolor paint,http://www.wikidata.org/entity/Q64571419
+LIBSRC-LIB51-ENT-SMI-1190777,date_or_interval,1939-01-01T00:00:00Z,http://www.wikidata.org/entity/Q64571419
+LIBSRC-LIB51-ENT-SMI-1190777,descriptive_identity,drawing,http://www.wikidata.org/entity/Q64571419
+LIBSRC-LIB51-ENT-SMI-1192090,descriptive_identity,pitcher,http://www.wikidata.org/entity/Q116365834
+LIBSRC-LIB51-ENT-SMI-1188071,material_identity,paperboard,http://www.wikidata.org/entity/Q64620440
+LIBSRC-LIB51-ENT-SMI-1188071,material_identity,graphite,http://www.wikidata.org/entity/Q64620440
+LIBSRC-LIB51-ENT-SMI-1188071,material_identity,watercolor paint,http://www.wikidata.org/entity/Q64620440
+LIBSRC-LIB51-ENT-SMI-1188071,date_or_interval,1938-01-01T00:00:00Z,http://www.wikidata.org/entity/Q64620440
+LIBSRC-LIB51-ENT-SMI-1188071,descriptive_identity,drawing,http://www.wikidata.org/entity/Q64620440
+LIBSRC-LIB51-ENT-SMI-1198378,creator_or_attribution,Osias Beert,http://www.wikidata.org/entity/Q104533485
+LIBSRC-LIB51-ENT-SMI-1198378,material_identity,oil paint,http://www.wikidata.org/entity/Q104533485
+LIBSRC-LIB51-ENT-SMI-1198378,material_identity,oak panel,http://www.wikidata.org/entity/Q104533485
+LIBSRC-LIB51-ENT-SMI-1198378,descriptive_identity,painting,http://www.wikidata.org/entity/Q104533485
+LIBSRC-LIB51-ENT-SMI-1196156,descriptive_identity,physical tool,http://www.wikidata.org/entity/Q80001204
+LIBSRC-LIB51-ENT-SMI-1184699,descriptive_identity,physical tool,http://www.wikidata.org/entity/Q80001204
+LIBSRC-LIB51-ENT-SMI-1211919,descriptive_identity,musical work/composition,http://www.wikidata.org/entity/Q22974625
+LIBSRC-LIB51-ENT-SMI-1224078,descriptive_identity,literary work,http://www.wikidata.org/entity/Q7494784
+LIBSRC-LIB51-ENT-SMI-1215032,date_or_interval,1985-01-01T00:00:00Z,http://www.wikidata.org/entity/Q130750193
+LIBSRC-LIB51-ENT-SMI-1215032,descriptive_identity,science fiction fanzine,http://www.wikidata.org/entity/Q130750193
+LIBSRC-LIB51-ENT-SMI-1215231,descriptive_identity,literary work,http://www.wikidata.org/entity/Q7494784
+LIBSRC-LIB51-ENT-SMI-1204971,descriptive_identity,bay,http://www.wikidata.org/entity/Q33581804
+LIBSRC-LIB51-ENT-SMI-1210420,descriptive_identity,textile,http://www.wikidata.org/entity/Q80002978
+LIBSRC-LIB51-ENT-SMI-1216989,descriptive_identity,taxon,http://www.wikidata.org/entity/Q20717272
+LIBSRC-LIB51-ENT-SMI-1213506,mass,27,http://www.wikidata.org/entity/Q221612
+LIBSRC-LIB51-ENT-SMI-1213506,descriptive_identity,taxon,http://www.wikidata.org/entity/Q221612
+LIBSRC-LIB51-ENT-SMI-1213078,descriptive_identity,taxon,http://www.wikidata.org/entity/Q9095084
+LIBSRC-LIB51-ENT-SMI-1209327,material_identity,spruce root,http://www.wikidata.org/entity/Q80002847
+LIBSRC-LIB51-ENT-SMI-1209327,descriptive_identity,basket,http://www.wikidata.org/entity/Q80002847
+LIBSRC-LIB51-ENT-SMI-1210565,material_identity,paperboard,http://www.wikidata.org/entity/Q64540265
+LIBSRC-LIB51-ENT-SMI-1210565,material_identity,graphite,http://www.wikidata.org/entity/Q64540265
+LIBSRC-LIB51-ENT-SMI-1210565,material_identity,colored pencil,http://www.wikidata.org/entity/Q64540265
+LIBSRC-LIB51-ENT-SMI-1210565,material_identity,watercolor paint,http://www.wikidata.org/entity/Q64540265
+LIBSRC-LIB51-ENT-SMI-1210565,date_or_interval,1935-01-01T00:00:00Z,http://www.wikidata.org/entity/Q64540265
+LIBSRC-LIB51-ENT-SMI-1210565,descriptive_identity,drawing,http://www.wikidata.org/entity/Q64540265
+LIBSRC-LIB51-ENT-SMI-1204142,descriptive_identity,scholarly chapter,http://www.wikidata.org/entity/Q89189417
+LIBSRC-LIB51-ENT-SMI-1218695,descriptive_identity,lacquerware,http://www.wikidata.org/entity/Q79906853
+LIBSRC-LIB51-ENT-SMI-1216376,material_identity,paperboard,http://www.wikidata.org/entity/Q64620440
+LIBSRC-LIB51-ENT-SMI-1216376,material_identity,graphite,http://www.wikidata.org/entity/Q64620440
+LIBSRC-LIB51-ENT-SMI-1216376,material_identity,watercolor paint,http://www.wikidata.org/entity/Q64620440
+LIBSRC-LIB51-ENT-SMI-1216376,date_or_interval,1938-01-01T00:00:00Z,http://www.wikidata.org/entity/Q64620440
+LIBSRC-LIB51-ENT-SMI-1216376,descriptive_identity,drawing,http://www.wikidata.org/entity/Q64620440
